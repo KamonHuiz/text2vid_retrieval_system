@@ -440,7 +440,7 @@
       <b id="ititle" class="mono">—</b>
       <span class="pill" id="itime">—</span>
       <span class="spacer"></span>
-      <span class="hint"><kbd>a</kbd><kbd>d</kbd> ±1 keyframe · <kbd>,</kbd><kbd>.</kbd> ±2 frame ·
+      <span class="hint"><kbd>a</kbd><kbd>d</kbd> ±1 keyframe · <kbd>,</kbd><kbd>.</kbd> ±5 frame ·
         <kbd>G</kbd> add từ video · <kbd>1</kbd>–<kbd>4</kbd> đổi ô TRAKE · <kbd>P</kbd> pick ·
         click ra ngoài để đóng</span>
       <button id="iclose">Đóng</button>
@@ -2298,12 +2298,12 @@ document.addEventListener("keydown", e => {
   const k = e.key.toLowerCase();
   if (k === "a") { e.preventDefault(); step(-1); }
   if (k === "d") { e.preventDefault(); step(1); }
-  // a / d nhảy theo KEYFRAME (ảnh có sẵn trên đĩa) -- , . nhảy theo FRAME THẬT, 2 frame một
+  // a / d nhảy theo KEYFRAME (ảnh có sẵn trên đĩa) -- , . nhảy theo FRAME THẬT, 5 frame một
   // lần, để rà chính xác từng khoảnh khắc mà không cần đợi player ngoài nào cả (trước đây
   // phải dựa vào phím tắt "tua từng frame" của chính trang YouTube khi nhúng iframe của nó;
   // giờ phát video cục bộ nên tự tính được thẳng, không cần nhờ trình phát ngoài nữa).
-  if (e.key === ",") { e.preventDefault(); stepFrames(-2); }
-  if (e.key === ".") { e.preventDefault(); stepFrames(2); }
+  if (e.key === ",") { e.preventDefault(); stepFrames(-5); }
+  if (e.key === ".") { e.preventDefault(); stepFrames(5); }
   if (k === "p") { e.preventDefault(); addPick(curInspFrame()); }
   if (k === "g") { e.preventDefault(); $("#ividadd").click(); }
   // 1-4 move the cursor; writing is always the one button, so a mistyped digit
