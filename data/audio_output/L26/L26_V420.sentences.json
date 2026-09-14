@@ -1,0 +1,736 @@
+{
+  "video_id": "L26_V420",
+  "fps": 25.0,
+  "n_sentences": 39,
+  "total_words": 931,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày hoàn chỉnh.",
+      "start": 10.52,
+      "end": 15.04,
+      "n_words": 6,
+      "start_frame": 263,
+      "end_frame": 376,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000335.webp",
+        "000370.webp",
+        "000371.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Minh Tuấn đang làm gì mà ngồi bấm bấm bấm bấm rồi?",
+      "start": 15.04,
+      "end": 17.32,
+      "n_words": 12,
+      "start_frame": 376,
+      "end_frame": 433,
+      "keyframes": [
+        "000407.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Minh Tuấn tính coi là nó ăn gì cho nó đủ dinh dưỡng ở đây.",
+      "start": 17.32,
+      "end": 21.68,
+      "n_words": 15,
+      "start_frame": 433,
+      "end_frame": 542,
+      "keyframes": [
+        "000443.webp",
+        "000444.webp",
+        "000503.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tuấn kể mình nghe, Tuấn đã có hai cái món từ Món ngon mỗi ngày.",
+      "start": 21.68,
+      "end": 24.88,
+      "n_words": 15,
+      "start_frame": 542,
+      "end_frame": 622,
+      "keyframes": [
+        "000563.webp",
+        "000564.webp",
+        "000582.webp",
+        "000601.webp",
+        "000602.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cơm mới vô coi làm hai món đầu tiên là cá thu đi kèm nước trà xanh.",
+      "start": 25.04,
+      "end": 29.12,
+      "n_words": 17,
+      "start_frame": 626,
+      "end_frame": 728,
+      "keyframes": [
+        "000656.webp",
+        "000710.webp",
+        "000711.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Món thứ hai, món này không phải Tuấn ăn thịt bò xào cần ta, cần ta đó, thiếu một cái món gì đó nấu nó phải nhanh, nhìn nó phải xanh xanh mà ăn là phải tươi xanh kiểu kiểu vậy đó.",
+      "start": 29.12,
+      "end": 41.32,
+      "n_words": 42,
+      "start_frame": 728,
+      "end_frame": 1033,
+      "keyframes": [
+        "000744.webp",
+        "000778.webp",
+        "000779.webp",
+        "000804.webp",
+        "000829.webp",
+        "000830.webp",
+        "000840.webp",
+        "000850.webp",
+        "000851.webp",
+        "000899.webp",
+        "000947.webp",
+        "000948.webp",
+        "000990.webp",
+        "001033.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Còn thiếu món canh nữa, đúng thì ta nấu món bí ngòi xanh này đi, ăn vào tươi xanh như mình luôn.",
+      "start": 41.32,
+      "end": 49.8,
+      "n_words": 22,
+      "start_frame": 1033,
+      "end_frame": 1245,
+      "keyframes": [
+        "001033.webp",
+        "001034.webp",
+        "001047.webp",
+        "001061.webp",
+        "001062.webp",
+        "001071.webp",
+        "001080.webp",
+        "001081.webp",
+        "001113.webp",
+        "001146.webp",
+        "001147.webp",
+        "001173.webp",
+        "001199.webp",
+        "001200.webp",
+        "001213.webp",
+        "001226.webp",
+        "001227.webp",
+        "001244.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Vô bếp: canh mọc bí ngòi xanh mát tươi xanh mướt.",
+      "start": 49.8,
+      "end": 71.36,
+      "n_words": 11,
+      "start_frame": 1245,
+      "end_frame": 1784,
+      "keyframes": [
+        "001261.webp",
+        "001262.webp",
+        "001286.webp",
+        "001311.webp",
+        "001312.webp",
+        "001347.webp",
+        "001383.webp",
+        "001384.webp",
+        "001418.webp",
+        "001452.webp",
+        "001482.webp",
+        "001544.webp",
+        "001606.webp",
+        "001607.webp",
+        "001694.webp",
+        "001781.webp",
+        "001782.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Chào các bạn khán giả đang theo dõi chương trình Món ngon mỗi ngày được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 71.36,
+      "end": 77.32,
+      "n_words": 23,
+      "start_frame": 1784,
+      "end_frame": 1933,
+      "keyframes": [
+        "001860.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Với món canh này thì ta cần nấm đông cô nè, ta lựa ra tám cái cắt làm tư rồi xong rồi ta cho ra hết ra đây.",
+      "start": 77.32,
+      "end": 89.24,
+      "n_words": 28,
+      "start_frame": 1933,
+      "end_frame": 2231,
+      "keyframes": [
+        "001939.webp",
+        "001940.webp",
+        "001977.webp",
+        "002015.webp",
+        "002016.webp",
+        "002042.webp",
+        "002069.webp",
+        "002070.webp",
+        "002082.webp",
+        "002095.webp",
+        "002096.webp",
+        "002118.webp",
+        "002141.webp",
+        "002142.webp",
+        "002185.webp",
+        "002228.webp",
+        "002229.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Còn bốn cái còn lại á thì ta thái hạt lựu nhỏ, cái túi hạt lựu nhỏ này là để trộn vô mộc rồi đúng không? Đúng rồi.",
+      "start": 89.24,
+      "end": 96.08,
+      "n_words": 28,
+      "start_frame": 2231,
+      "end_frame": 2402,
+      "keyframes": [
+        "002254.webp",
+        "002280.webp",
+        "002281.webp",
+        "002310.webp",
+        "002340.webp",
+        "002341.webp",
+        "002360.webp",
+        "002379.webp",
+        "002380.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Minh Tuấn và Tuấn là Tuấn rất là thích ăn nấm đông cô, nó giòn dẻo dai, dai ngon, nó có mùi rất là đặc trưng.",
+      "start": 96.08,
+      "end": 103.16,
+      "n_words": 26,
+      "start_frame": 2402,
+      "end_frame": 2579,
+      "keyframes": [
+        "002405.webp",
+        "002430.webp",
+        "002431.webp",
+        "002459.webp",
+        "002488.webp",
+        "002489.webp",
+        "002514.webp",
+        "002540.webp",
+        "002541.webp",
+        "002572.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Đúng rồi, cho hết rồi đây.",
+      "start": 103.16,
+      "end": 105.96,
+      "n_words": 6,
+      "start_frame": 2579,
+      "end_frame": 2649,
+      "keyframes": [
+        "002603.webp",
+        "002604.webp",
+        "002625.webp",
+        "002647.webp",
+        "002648.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Tiếp theo thì mình tỉa hoa cà rốt nè để tăng thêm màu sắc cho món ăn của mình, sẽ cắt ra những lát mỏng dày khoảng 3 mm rồi mình cho hết rồi đây.",
+      "start": 105.96,
+      "end": 116.96,
+      "n_words": 35,
+      "start_frame": 2649,
+      "end_frame": 2924,
+      "keyframes": [
+        "002692.webp",
+        "002736.webp",
+        "002737.webp",
+        "002760.webp",
+        "002783.webp",
+        "002784.webp",
+        "002832.webp",
+        "002880.webp",
+        "002881.webp",
+        "002901.webp",
+        "002921.webp",
+        "002922.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Cuối cùng là bí, là bí ngòi xanh tươi, mình cắt dày khoảng 5 mm.",
+      "start": 116.96,
+      "end": 122.36,
+      "n_words": 15,
+      "start_frame": 2924,
+      "end_frame": 3059,
+      "keyframes": [
+        "002965.webp",
+        "003009.webp",
+        "003010.webp",
+        "003033.webp",
+        "003056.webp",
+        "003057.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bí ngòi chúng ta cắt dày hơn cà rốt sẽ giúp món ăn chín đều hơn.",
+      "start": 122.36,
+      "end": 126.4,
+      "n_words": 16,
+      "start_frame": 3059,
+      "end_frame": 3160,
+      "keyframes": [
+        "003075.webp",
+        "003094.webp",
+        "003095.webp",
+        "003123.webp",
+        "003152.webp",
+        "003153.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đại Tuấn cũng nghiên cứu rồi, vào trong bí ngòi là có nhiều vitamin C nè, kali và đặc biệt là 95% nước mà những cái vitamin thì thường thường là nó tập trung phần vỏ, rồi mình để lại mình ăn là vừa ngon, nó tạo độ sừn sựt và bên cạnh đó thì nó cũng có nhiều vitamin luôn.",
+      "start": 126.4,
+      "end": 142.92,
+      "n_words": 61,
+      "start_frame": 3160,
+      "end_frame": 3573,
+      "keyframes": [
+        "003251.webp",
+        "003349.webp",
+        "003350.webp",
+        "003411.webp",
+        "003473.webp",
+        "003474.webp",
+        "003523.webp",
+        "003573.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Các bạn lưu ý nha, bí ngòi có lớp vỏ mềm chúng ta không cần gọt vỏ khi nấu nha.",
+      "start": 142.92,
+      "end": 147.44,
+      "n_words": 20,
+      "start_frame": 3573,
+      "end_frame": 3686,
+      "keyframes": [
+        "003573.webp",
+        "003574.webp",
+        "003629.webp",
+        "003685.webp",
+        "003686.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Còn một nhánh tiêu xanh này mình sẽ hái đây thôi, hái và mình sẽ tuốt hết ra.",
+      "start": 147.44,
+      "end": 156.2,
+      "n_words": 18,
+      "start_frame": 3686,
+      "end_frame": 3905,
+      "keyframes": [
+        "003686.webp",
+        "003707.webp",
+        "003729.webp",
+        "003730.webp",
+        "003761.webp",
+        "003793.webp",
+        "003794.webp",
+        "003823.webp",
+        "003853.webp",
+        "003854.webp",
+        "003870.webp",
+        "003886.webp",
+        "003887.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Rồi tiếp theo mình sẽ trộn phần nhân thì mình sẽ cho hết cái phần mộc này vào tô cùng với lại nấm đông cô và tiêu xanh trộn cùng với nhau.",
+      "start": 156.2,
+      "end": 167.56,
+      "n_words": 32,
+      "start_frame": 3905,
+      "end_frame": 4189,
+      "keyframes": [
+        "003919.webp",
+        "003951.webp",
+        "003952.webp",
+        "003960.webp",
+        "003968.webp",
+        "003969.webp",
+        "004008.webp",
+        "004048.webp",
+        "004049.webp",
+        "004091.webp",
+        "004133.webp",
+        "004134.webp",
+        "004163.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Với phần nhân này thì chúng ta sẽ không nêm thêm bất cứ một cái gia vị gì thêm ở bên trong nữa, mộc ở ngoài chợ người ta làm là người ta đã có muối trong đó rồi, gia vị hết rồi, đầy đủ hết rồi.",
+      "start": 167.56,
+      "end": 176.68,
+      "n_words": 47,
+      "start_frame": 4189,
+      "end_frame": 4417,
+      "keyframes": [
+        "004192.webp",
+        "004193.webp",
+        "004204.webp",
+        "004215.webp",
+        "004216.webp",
+        "004261.webp",
+        "004307.webp",
+        "004308.webp",
+        "004325.webp",
+        "004342.webp",
+        "004343.webp",
+        "004378.webp",
+        "004413.webp",
+        "004414.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Xong rồi nhờ Minh Tuấn lấy giúp mình một cái nồi, mình sẽ đi lấy 1.2 lít nước.",
+      "start": 176.68,
+      "end": 182.52,
+      "n_words": 18,
+      "start_frame": 4417,
+      "end_frame": 4563,
+      "keyframes": [
+        "004430.webp",
+        "004446.webp",
+        "004447.webp",
+        "004470.webp",
+        "004494.webp",
+        "004495.webp",
+        "004527.webp",
+        "004560.webp",
+        "004561.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Bây giờ mình sẽ chờ nước sôi ha, rồi bây giờ mình sẽ cho cái phần nhân mộc bỏ vô.",
+      "start": 182.52,
+      "end": 187.56,
+      "n_words": 20,
+      "start_frame": 4563,
+      "end_frame": 4689,
+      "keyframes": [
+        "004594.webp",
+        "004627.webp",
+        "004628.webp",
+        "004657.webp",
+        "004686.webp",
+        "004687.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đúng rồi, Minh Tuấn, mình sẽ vo viên bằng cái muỗng này luôn, cái món này là cực kỳ đơn giản luôn, mình làm nhưng mà lại rất là ngon miệng.",
+      "start": 187.56,
+      "end": 195.4,
+      "n_words": 31,
+      "start_frame": 4689,
+      "end_frame": 4885,
+      "keyframes": [
+        "004698.webp",
+        "004710.webp",
+        "004711.webp",
+        "004747.webp",
+        "004783.webp",
+        "004784.webp",
+        "004833.webp",
+        "004883.webp",
+        "004884.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Phần mộc chúng ta đã thả vô xong rồi, tiếp theo cho cái phần nấm này vô trước bởi vì nấm là cần phải chín kỹ, đúng rồi, ăn được với lại nó tiết ra cái mùi thơm của nấm, nước món ăn nó ngon.",
+      "start": 195.4,
+      "end": 206.04,
+      "n_words": 45,
+      "start_frame": 4885,
+      "end_frame": 5151,
+      "keyframes": [
+        "004898.webp",
+        "004913.webp",
+        "004914.webp",
+        "004932.webp",
+        "004951.webp",
+        "004952.webp",
+        "005003.webp",
+        "005054.webp",
+        "005055.webp",
+        "005100.webp",
+        "005146.webp",
+        "005147.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Mình sẽ tăng thêm màu sắc nè bằng bí ngòi và cà rốt.",
+      "start": 206.04,
+      "end": 210.4,
+      "n_words": 13,
+      "start_frame": 5151,
+      "end_frame": 5260,
+      "keyframes": [
+        "005201.webp",
+        "005256.webp",
+        "005257.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Một muỗng canh bột canh của Ajinomoto; Với món ăn này chúng ta sử dụng bột canh của Ajinomoto sẽ giúp món ăn được đậm đà và ngon hơn.",
+      "start": 210.4,
+      "end": 219.2,
+      "n_words": 29,
+      "start_frame": 5260,
+      "end_frame": 5480,
+      "keyframes": [
+        "005282.webp",
+        "005308.webp",
+        "005309.webp",
+        "005338.webp",
+        "005367.webp",
+        "005368.webp",
+        "005418.webp",
+        "005468.webp",
+        "005469.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Nửa muỗng canh đường, nửa muỗng cà phê bột ngọt Ajinomoto.",
+      "start": 219.2,
+      "end": 224.32,
+      "n_words": 11,
+      "start_frame": 5480,
+      "end_frame": 5608,
+      "keyframes": [
+        "005496.webp",
+        "005524.webp",
+        "005525.webp",
+        "005543.webp",
+        "005561.webp",
+        "005562.webp",
+        "005586.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Ở đây chúng ta không có sử dụng phi hành mỡ đó.",
+      "start": 224.32,
+      "end": 227.12,
+      "n_words": 12,
+      "start_frame": 5608,
+      "end_frame": 5678,
+      "keyframes": [
+        "005611.webp",
+        "005612.webp",
+        "005650.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Minh Tuấn thấy món canh rất là trong thanh đạm ha?",
+      "start": 227.12,
+      "end": 230.48,
+      "n_words": 11,
+      "start_frame": 5678,
+      "end_frame": 5762,
+      "keyframes": [
+        "005688.webp",
+        "005689.webp",
+        "005730.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng rồi, không mỡ hấp dẫn, ăn nó mướt mát, ăn nó mướt mát nên là món canh của mình xong rồi đó Minh Tuấn.",
+      "start": 230.48,
+      "end": 236.2,
+      "n_words": 25,
+      "start_frame": 5762,
+      "end_frame": 5905,
+      "keyframes": [
+        "005772.webp",
+        "005773.webp",
+        "005815.webp",
+        "005857.webp",
+        "005858.webp",
+        "005896.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Xong rồi, bây giờ chớp mắt xong đã nấu xong món ăn chúng ta sẽ dọn ra dĩa trang trí.",
+      "start": 236.76,
+      "end": 243.6,
+      "n_words": 20,
+      "start_frame": 5919,
+      "end_frame": 6090,
+      "keyframes": [
+        "005935.webp",
+        "005936.webp",
+        "005990.webp",
+        "006045.webp",
+        "006046.webp",
+        "006070.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta múc cái phần nhân này ra tô, cho thêm một ít tiêu lên trên, nhánh ngò lên trên tạo thêm màu xanh trong món ăn, thế là món ăn chúng ta đã hoàn thành rồi đó Minh Tuấn.",
+      "start": 243.6,
+      "end": 256.96,
+      "n_words": 40,
+      "start_frame": 6090,
+      "end_frame": 6424,
+      "keyframes": [
+        "006095.webp",
+        "006096.webp",
+        "006118.webp",
+        "006140.webp",
+        "006141.webp",
+        "006159.webp",
+        "006178.webp",
+        "006179.webp",
+        "006201.webp",
+        "006223.webp",
+        "006224.webp",
+        "006258.webp",
+        "006293.webp",
+        "006294.webp",
+        "006328.webp",
+        "006362.webp",
+        "006363.webp",
+        "006410.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Đặc biệt món ăn này nếu mà mình kết hợp cùng với lại món mặn nè là mình có cá thu kho với lại nước trà xanh và món xào là mình xào thịt bò với lại cần tây đó, thì là tạo thành một cái bữa ăn hoàn chỉnh luôn.",
+      "start": 257.52,
+      "end": 269.32,
+      "n_words": 51,
+      "start_frame": 6438,
+      "end_frame": 6733,
+      "keyframes": [
+        "006457.webp",
+        "006458.webp",
+        "006494.webp",
+        "006530.webp",
+        "006531.webp",
+        "006561.webp",
+        "006592.webp",
+        "006593.webp",
+        "006718.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Công thức của cả ba món ăn này thì mọi người có thể truy cập vào Món ngon mỗi ngày chấm com để xem lại nha.",
+      "start": 269.32,
+      "end": 273.88,
+      "n_words": 26,
+      "start_frame": 6733,
+      "end_frame": 6847,
+      "keyframes": [
+        "006844.webp",
+        "006845.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cảm ơn Minh rất là nhiều vì đem đến một món ăn vô cùng tuyệt vời.",
+      "start": 273.88,
+      "end": 276.8,
+      "n_words": 16,
+      "start_frame": 6847,
+      "end_frame": 6920,
+      "keyframes": [
+        "006880.webp",
+        "006916.webp",
+        "006917.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bí ngòi thì giòn ngọt, viên mộc thì dai thơm lừng mùi tiêu xanh và cả mùi nấm, một món canh ngon và thanh mát đến lạ luôn.",
+      "start": 276.8,
+      "end": 286.16,
+      "n_words": 28,
+      "start_frame": 6920,
+      "end_frame": 7154,
+      "keyframes": [
+        "006966.webp",
+        "007015.webp",
+        "007016.webp",
+        "007084.webp",
+        "007152.webp",
+        "007153.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Những ai mà muốn tận hưởng sự thanh mát và ngọt ngào của bí ngòi trong món canh này thì các bạn phải thực hiện ngay tại nhà, phải thực hiện ngay tại nhà nhé.",
+      "start": 286.16,
+      "end": 292.52,
+      "n_words": 35,
+      "start_frame": 7154,
+      "end_frame": 7313,
+      "keyframes": [
+        "007245.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúc các bạn thành công.",
+      "start": 292.52,
+      "end": 294.44,
+      "n_words": 5,
+      "start_frame": 7313,
+      "end_frame": 7361,
+      "keyframes": [
+        "007337.webp",
+        "007338.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

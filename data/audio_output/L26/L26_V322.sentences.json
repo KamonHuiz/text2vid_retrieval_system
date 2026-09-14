@@ -1,0 +1,814 @@
+{
+  "video_id": "L26_V322",
+  "fps": 25.0,
+  "n_sentences": 49,
+  "total_words": 1027,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.48,
+      "end": 15.16,
+      "n_words": 4,
+      "start_frame": 262,
+      "end_frame": 379,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000376.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tao nói nó mát từ trong ra ngoài.",
+      "start": 15.16,
+      "end": 18.8,
+      "n_words": 8,
+      "start_frame": 379,
+      "end_frame": 470,
+      "keyframes": [
+        "000453.webp",
+        "000454.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Kim Thảo mới đi ngoài nắng về nóng quá biết liền thôi.",
+      "start": 18.8,
+      "end": 22.12,
+      "n_words": 12,
+      "start_frame": 470,
+      "end_frame": 553,
+      "keyframes": [
+        "000508.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Mời Kim Thảo uống một ly đá chanh hạt chia uống cho mát lòng.",
+      "start": 22.12,
+      "end": 25.4,
+      "n_words": 14,
+      "start_frame": 553,
+      "end_frame": 635,
+      "keyframes": [
+        "000563.webp",
+        "000564.webp",
+        "000594.webp",
+        "000625.webp",
+        "000626.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Vậy mới được, nhưng mà hạt chia thì được còn đá chanh thì thôi, xót ruột lắm, đang đói bụng.",
+      "start": 25.4,
+      "end": 31.56,
+      "n_words": 20,
+      "start_frame": 635,
+      "end_frame": 789,
+      "keyframes": [
+        "000647.webp",
+        "000669.webp",
+        "000670.webp",
+        "000706.webp",
+        "000743.webp",
+        "000744.webp",
+        "000765.webp",
+        "000786.webp",
+        "000787.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Vậy thì sẵn ngày hôm nay mình đã có hạt chia nè, nhưng mà hạt chia từ đó giờ người ta chỉ làm cho nước giải khát thôi.",
+      "start": 31.56,
+      "end": 37.4,
+      "n_words": 28,
+      "start_frame": 789,
+      "end_frame": 935,
+      "keyframes": [
+        "000817.webp",
+        "000848.webp",
+        "000849.webp",
+        "000890.webp",
+        "000931.webp",
+        "000932.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hôm nay Phước Hương sẽ lấy hạt chia làm một cái món ăn rất là lạ miệng mà lại ngon nữa. Hạt chia mà làm món ăn luôn?",
+      "start": 37.4,
+      "end": 44.04,
+      "n_words": 28,
+      "start_frame": 935,
+      "end_frame": 1101,
+      "keyframes": [
+        "000960.webp",
+        "000988.webp",
+        "000989.webp",
+        "001021.webp",
+        "001053.webp",
+        "001054.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hả, wow!",
+      "start": 44.04,
+      "end": 45.12,
+      "n_words": 2,
+      "start_frame": 1101,
+      "end_frame": 1128,
+      "keyframes": [
+        "001111.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Còn chờ gì nữa, vô bếp nha!",
+      "start": 45.12,
+      "end": 48.68,
+      "n_words": 7,
+      "start_frame": 1128,
+      "end_frame": 1217,
+      "keyframes": [
+        "001168.webp",
+        "001169.webp",
+        "001193.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Súp sánh, súp thanh cua hạt chia.",
+      "start": 48.68,
+      "end": 67.04,
+      "n_words": 7,
+      "start_frame": 1217,
+      "end_frame": 1676,
+      "keyframes": [
+        "001218.webp",
+        "001219.webp",
+        "001247.webp",
+        "001276.webp",
+        "001277.webp",
+        "001328.webp",
+        "001380.webp",
+        "001395.webp",
+        "001448.webp",
+        "001501.webp",
+        "001502.webp",
+        "001588.webp",
+        "001675.webp",
+        "001676.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Chào các bạn đang đến với chương trình Món ngon mỗi ngày, chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 67.04,
+      "end": 73.24,
+      "n_words": 23,
+      "start_frame": 1676,
+      "end_frame": 1831,
+      "keyframes": [
+        "001676.webp",
+        "001757.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thì bây giờ chúng ta đặt lên trên bếp một cái chảo nước để chúng ta luộc, Phước Hương sẽ cho vào đây một ít muối nè để bắp đậm đà hơn.",
+      "start": 73.24,
+      "end": 80.08,
+      "n_words": 32,
+      "start_frame": 1831,
+      "end_frame": 2002,
+      "keyframes": [
+        "001839.webp",
+        "001840.webp",
+        "001850.webp",
+        "001861.webp",
+        "001862.webp",
+        "001892.webp",
+        "001922.webp",
+        "001923.webp",
+        "001963.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cho hết phần bắp Mỹ tách hạt vào.",
+      "start": 80.08,
+      "end": 82.36,
+      "n_words": 8,
+      "start_frame": 2002,
+      "end_frame": 2059,
+      "keyframes": [
+        "002003.webp",
+        "002004.webp",
+        "002030.webp",
+        "002056.webp",
+        "002057.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Tại sao mình không đợi lúc mà mình nấu súp á rồi mình cho bắp vào luôn?",
+      "start": 82.36,
+      "end": 86.48,
+      "n_words": 17,
+      "start_frame": 2059,
+      "end_frame": 2162,
+      "keyframes": [
+        "002109.webp",
+        "002161.webp",
+        "002162.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tại vì bắp cũng dễ chín, mà cái thứ nhất là để bắp nè nó nhanh chín hơn khi mà chúng ta nấu súp, và khi cho bắp vào nồi súp thì cái nồi súp của mình sẽ trong hơn nữa.",
+      "start": 86.48,
+      "end": 95.32,
+      "n_words": 41,
+      "start_frame": 2162,
+      "end_frame": 2383,
+      "keyframes": [
+        "002162.webp",
+        "002184.webp",
+        "002206.webp",
+        "002207.webp",
+        "002246.webp",
+        "002286.webp",
+        "002287.webp",
+        "002329.webp",
+        "002371.webp",
+        "002372.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Rồi bây giờ phần bắp cũng đã luộc xong, Hương sẽ sử dụng lại một chén nước luộc bắp để chúng ta sẽ hòa tan với nước dùng.",
+      "start": 95.32,
+      "end": 102.16,
+      "n_words": 28,
+      "start_frame": 2383,
+      "end_frame": 2554,
+      "keyframes": [
+        "002400.webp",
+        "002429.webp",
+        "002430.webp",
+        "002468.webp",
+        "002506.webp",
+        "002507.webp",
+        "002529.webp",
+        "002551.webp",
+        "002552.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Còn phần thanh cua này thì bây giờ Phước Hương sẽ cắt đôi nè và chúng ta sẽ xé nhỏ.",
+      "start": 102.16,
+      "end": 106.32,
+      "n_words": 20,
+      "start_frame": 2554,
+      "end_frame": 2658,
+      "keyframes": [
+        "002574.webp",
+        "002597.webp",
+        "002598.webp",
+        "002629.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Nếu như gia đình của chúng ta muốn thêm, vẫn là món súp hạt chia nhưng có thể phong phú hơn, thì chúng ta cũng có thể cho vào đây tôm cắt hạt lựu cũng được hoặc là thịt cua biển tươi cũng được luôn.",
+      "start": 106.32,
+      "end": 117.6,
+      "n_words": 45,
+      "start_frame": 2658,
+      "end_frame": 2940,
+      "keyframes": [
+        "002660.webp",
+        "002661.webp",
+        "002746.webp",
+        "002831.webp",
+        "002832.webp",
+        "002861.webp",
+        "002890.webp",
+        "002891.webp",
+        "002923.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Hay quá!",
+      "start": 117.6,
+      "end": 118.24,
+      "n_words": 2,
+      "start_frame": 2940,
+      "end_frame": 2956,
+      "keyframes": [
+        "002955.webp",
+        "002956.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và bây giờ chúng ta sẽ xé sợi.",
+      "start": 118.24,
+      "end": 121.08,
+      "n_words": 8,
+      "start_frame": 2956,
+      "end_frame": 3027,
+      "keyframes": [
+        "002956.webp",
+        "002995.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Với cái món súp thanh cua hạt chia thì chúng ta sẽ tiết kiệm được thời gian để chuẩn bị rất là nhanh luôn, nhưng mà những nguyên liệu này lại rất là dễ tìm. Đúng rồi.",
+      "start": 121.08,
+      "end": 131.08,
+      "n_words": 37,
+      "start_frame": 3027,
+      "end_frame": 3277,
+      "keyframes": [
+        "003035.webp",
+        "003036.webp",
+        "003107.webp",
+        "003179.webp",
+        "003180.webp",
+        "003229.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và bây giờ Phước Hương sẽ đặt lên trên bếp một lít nước dùng gà và một chén nước luộc bắp.",
+      "start": 131.08,
+      "end": 135.92,
+      "n_words": 21,
+      "start_frame": 3277,
+      "end_frame": 3398,
+      "keyframes": [
+        "003279.webp",
+        "003280.webp",
+        "003296.webp",
+        "003313.webp",
+        "003314.webp",
+        "003353.webp",
+        "003393.webp",
+        "003394.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Đối với món súp ngày hôm nay thì chúng ta nên sử dụng nước dùng gà để món súp nè thanh và trong hơn và phù hợp với món ăn.",
+      "start": 135.92,
+      "end": 142.32,
+      "n_words": 30,
+      "start_frame": 3398,
+      "end_frame": 3558,
+      "keyframes": [
+        "003475.webp",
+        "003557.webp",
+        "003558.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đối với món súp thì chúng ta nên nêm vừa ăn tất cả các gia vị trước rồi hãy cho tất cả các nguyên liệu vào.",
+      "start": 142.32,
+      "end": 149.44,
+      "n_words": 26,
+      "start_frame": 3558,
+      "end_frame": 3736,
+      "keyframes": [
+        "003558.webp",
+        "003647.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đầu tiên Hương sẽ cho vào đây một muỗng rưỡi canh hạt nêm Ajinomoto, thêm một muỗng cà phê bột ngọt Ajinomoto.",
+      "start": 149.44,
+      "end": 157.8,
+      "n_words": 22,
+      "start_frame": 3736,
+      "end_frame": 3945,
+      "keyframes": [
+        "003737.webp",
+        "003738.webp",
+        "003760.webp",
+        "003782.webp",
+        "003783.webp",
+        "003804.webp",
+        "003825.webp",
+        "003826.webp",
+        "003857.webp",
+        "003889.webp",
+        "003890.webp",
+        "003903.webp",
+        "003916.webp",
+        "003917.webp",
+        "003930.webp",
+        "003943.webp",
+        "003944.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Cuối cùng Hương cho vào đây một muỗng cà phê đường, và bây giờ chúng ta sẽ khuấy tan gia vị ở đây.",
+      "start": 157.8,
+      "end": 163.24,
+      "n_words": 23,
+      "start_frame": 3945,
+      "end_frame": 4081,
+      "keyframes": [
+        "003979.webp",
+        "004014.webp",
+        "004015.webp",
+        "004042.webp",
+        "004069.webp",
+        "004070.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hương sử dụng ba muỗng canh bột năng và chúng ta pha nước ở đây, Hương cũng đã chuẩn bị sẵn rồi nè, và một cái trứng gà.",
+      "start": 163.52,
+      "end": 169.4,
+      "n_words": 28,
+      "start_frame": 4088,
+      "end_frame": 4235,
+      "keyframes": [
+        "004136.webp",
+        "004202.webp",
+        "004203.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ đánh tan lên.",
+      "start": 169.4,
+      "end": 171.28,
+      "n_words": 8,
+      "start_frame": 4235,
+      "end_frame": 4282,
+      "keyframes": [
+        "004245.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ phần súp cũng đã sôi trở lại, bây giờ lần lượt chúng ta sẽ cho nguyên liệu vào: cho bắp vào, cho bắp vào lại nè, thanh cua nè, hạt chia mà chúng ta đã ngâm nở rồi chúng ta sẽ cho vào.",
+      "start": 171.28,
+      "end": 183.0,
+      "n_words": 45,
+      "start_frame": 4282,
+      "end_frame": 4575,
+      "keyframes": [
+        "004287.webp",
+        "004288.webp",
+        "004337.webp",
+        "004386.webp",
+        "004387.webp",
+        "004398.webp",
+        "004410.webp",
+        "004411.webp",
+        "004427.webp",
+        "004444.webp",
+        "004445.webp",
+        "004466.webp",
+        "004487.webp",
+        "004488.webp",
+        "004532.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Chúng ta sẽ khuấy nhẹ để cho súp sôi lại một lần nữa.",
+      "start": 183.0,
+      "end": 186.0,
+      "n_words": 13,
+      "start_frame": 4575,
+      "end_frame": 4650,
+      "keyframes": [
+        "004576.webp",
+        "004577.webp",
+        "004613.webp",
+        "004650.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Phần súp cũng đã sôi trở lại rồi thì bây giờ tiếp theo chúng ta sẽ cho trứng vào.",
+      "start": 186.0,
+      "end": 189.72,
+      "n_words": 19,
+      "start_frame": 4650,
+      "end_frame": 4743,
+      "keyframes": [
+        "004650.webp",
+        "004651.webp",
+        "004670.webp",
+        "004689.webp",
+        "004690.webp",
+        "004715.webp",
+        "004740.webp",
+        "004741.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Mình có thể lấy đũa mình quậy lên, như vậy cũng được luôn, nhưng ở đây thì mình muốn tạo cho cái sớ trứng to thì chúng ta không dùng đũa.",
+      "start": 189.72,
+      "end": 196.8,
+      "n_words": 31,
+      "start_frame": 4743,
+      "end_frame": 4920,
+      "keyframes": [
+        "004819.webp",
+        "004898.webp",
+        "004899.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nếu như gia đình mình muốn tạo cho cái sớ trứng nhỏ thì chúng ta dùng đũa.",
+      "start": 196.8,
+      "end": 200.24,
+      "n_words": 17,
+      "start_frame": 4920,
+      "end_frame": 5006,
+      "keyframes": [
+        "004953.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cho bột từ từ vào nè, chúng ta sẽ khuấy đều canh đến khi nào mà cái độ sánh mà ưng ý vừa phải là được.",
+      "start": 200.24,
+      "end": 205.72,
+      "n_words": 26,
+      "start_frame": 5006,
+      "end_frame": 5143,
+      "keyframes": [
+        "005007.webp",
+        "005008.webp",
+        "005025.webp",
+        "005042.webp",
+        "005043.webp",
+        "005092.webp",
+        "005142.webp",
+        "005143.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Sau khi mà quý vị chúng ta cho phần bột vào trong nồi súp rồi thì chúng ta đừng tắt lửa ngay, chúng ta để lửa nhỏ để cho bột được chín trong.",
+      "start": 205.72,
+      "end": 212.6,
+      "n_words": 33,
+      "start_frame": 5143,
+      "end_frame": 5315,
+      "keyframes": [
+        "005143.webp",
+        "005196.webp",
+        "005250.webp",
+        "005251.webp",
+        "005284.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Vậy là bây giờ món súp đã xong rồi, chúng ta tắt bếp.",
+      "start": 212.6,
+      "end": 215.4,
+      "n_words": 13,
+      "start_frame": 5315,
+      "end_frame": 5385,
+      "keyframes": [
+        "005317.webp",
+        "005318.webp",
+        "005348.webp",
+        "005379.webp",
+        "005380.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hương sẽ cho hết cái phần trứng cúc vào nè, cho vào đây một ít dầu mè nè, bây giờ dậy lên một mùi thơm rất là thơm.",
+      "start": 215.4,
+      "end": 222.12,
+      "n_words": 28,
+      "start_frame": 5385,
+      "end_frame": 5553,
+      "keyframes": [
+        "005406.webp",
+        "005433.webp",
+        "005434.webp",
+        "005456.webp",
+        "005478.webp",
+        "005479.webp",
+        "005522.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Đúng rồi.",
+      "start": 222.12,
+      "end": 224.36,
+      "n_words": 2,
+      "start_frame": 5553,
+      "end_frame": 5609,
+      "keyframes": [
+        "005565.webp",
+        "005566.webp",
+        "005590.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ cho súp ra, ngon quá!",
+      "start": 224.36,
+      "end": 228.88,
+      "n_words": 10,
+      "start_frame": 5609,
+      "end_frame": 5722,
+      "keyframes": [
+        "005615.webp",
+        "005616.webp",
+        "005664.webp",
+        "005712.webp",
+        "005713.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nồi súp thanh cua hạt chia có nhiều màu sắc, thêm một chút tiêu nữa ăn là rất là ấm bụng.",
+      "start": 228.88,
+      "end": 235.44,
+      "n_words": 21,
+      "start_frame": 5722,
+      "end_frame": 5886,
+      "keyframes": [
+        "005740.webp",
+        "005768.webp",
+        "005769.webp",
+        "005789.webp",
+        "005809.webp",
+        "005810.webp",
+        "005852.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Rồi tiếp tục Phước Hương sẽ cho lên đây một miếng trứng cúc nè để chúng ta trang trí cho cái món súp hấp dẫn hơn.",
+      "start": 237.32,
+      "end": 243.96,
+      "n_words": 26,
+      "start_frame": 5933,
+      "end_frame": 6099,
+      "keyframes": [
+        "005952.webp",
+        "005953.webp",
+        "005978.webp",
+        "006003.webp",
+        "006004.webp",
+        "006052.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Khi mà múc ra thì chúng ta lại cho lên bên trên thêm một ít dầu mè nữa, làm như vậy thì mới giữ được hương vị trọn vẹn của dầu mè.",
+      "start": 243.96,
+      "end": 250.32,
+      "n_words": 32,
+      "start_frame": 6099,
+      "end_frame": 6258,
+      "keyframes": [
+        "006100.webp",
+        "006101.webp",
+        "006119.webp",
+        "006137.webp",
+        "006138.webp",
+        "006157.webp",
+        "006176.webp",
+        "006177.webp",
+        "006215.webp",
+        "006254.webp",
+        "006255.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Một ít tiêu nữa, cuối cùng là ngò rí nè để tăng thêm hương vị cũng như là màu sắc cho món súp được hấp dẫn hơn. Hoàn hảo!",
+      "start": 250.32,
+      "end": 258.6,
+      "n_words": 29,
+      "start_frame": 6258,
+      "end_frame": 6465,
+      "keyframes": [
+        "006279.webp",
+        "006303.webp",
+        "006304.webp",
+        "006342.webp",
+        "006381.webp",
+        "006382.webp",
+        "006424.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Và để kết hợp với món súp ngày hôm nay thì các bạn chúng ta có thể ăn kèm với món gỏi gà dưa leo thì cũng rất là tuyệt vời.",
+      "start": 258.6,
+      "end": 264.6,
+      "n_words": 31,
+      "start_frame": 6465,
+      "end_frame": 6615,
+      "keyframes": [
+        "006467.webp",
+        "006468.webp",
+        "006556.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ôi hay quá!",
+      "start": 264.6,
+      "end": 265.92,
+      "n_words": 3,
+      "start_frame": 6615,
+      "end_frame": 6648,
+      "keyframes": [
+        "006644.webp",
+        "006645.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Húp một chút súp sánh trong thanh thanh, lẫn chút bắp và hạt chia sừng sật, thanh cua ngọt, rồi cắn vào trứng cúc béo mềm, từng dòng hương vị tan ra thật là đã.",
+      "start": 265.92,
+      "end": 276.56,
+      "n_words": 35,
+      "start_frame": 6648,
+      "end_frame": 6914,
+      "keyframes": [
+        "006692.webp",
+        "006740.webp",
+        "006741.webp",
+        "006827.webp",
+        "006914.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Một món ăn ngon lành cực kỳ đơn giản.",
+      "start": 276.56,
+      "end": 279.04,
+      "n_words": 9,
+      "start_frame": 6914,
+      "end_frame": 6976,
+      "keyframes": [
+        "006914.webp",
+        "006915.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Hãy cùng với Món ngon mỗi ngày vào bếp để nấu súp thanh cua hạt chia cho gia đình mình các bạn nhé.",
+      "start": 279.04,
+      "end": 284.64,
+      "n_words": 23,
+      "start_frame": 6976,
+      "end_frame": 7116,
+      "keyframes": [
+        "007013.webp",
+        "007111.webp",
+        "007112.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và nếu như các bạn muốn tìm kiếm thêm những công thức nấu ăn ngon cho cả nhà của mình thì hãy truy cập vào YouTube, website, fanpage của chương trình nhé.",
+      "start": 284.64,
+      "end": 295.16,
+      "n_words": 32,
+      "start_frame": 7116,
+      "end_frame": 7379,
+      "keyframes": [
+        "007180.webp",
+        "007248.webp",
+        "007249.webp",
+        "007305.webp",
+        "007361.webp",
+        "007362.webp"
+      ],
+      "keyframe_count": 6
+    }
+  ]
+}

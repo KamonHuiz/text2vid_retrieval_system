@@ -1,0 +1,889 @@
+{
+  "video_id": "L26_V438",
+  "fps": 25.0,
+  "n_sentences": 54,
+  "total_words": 1063,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.48,
+      "end": 12.04,
+      "n_words": 4,
+      "start_frame": 262,
+      "end_frame": 301,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chào Kim Thảo!",
+      "start": 12.04,
+      "end": 12.84,
+      "n_words": 3,
+      "start_frame": 301,
+      "end_frame": 321,
+      "keyframes": [
+        "000321.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chào xin, trên tay xin là một loại gia vị rất là đặc biệt mà bật mí nha, không phải ở đây đâu, ở vùng Tây Bắc lận á.",
+      "start": 12.84,
+      "end": 17.84,
+      "n_words": 29,
+      "start_frame": 321,
+      "end_frame": 446,
+      "keyframes": [
+        "000321.webp",
+        "000342.webp",
+        "000343.webp",
+        "000355.webp",
+        "000367.webp",
+        "000368.webp",
+        "000388.webp",
+        "000408.webp",
+        "000409.webp",
+        "000426.webp",
+        "000444.webp",
+        "000445.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Xin đi từ xa là Kim Thảo đã ngửi thấy mùi thơm rồi đó.",
+      "start": 17.84,
+      "end": 20.96,
+      "n_words": 14,
+      "start_frame": 446,
+      "end_frame": 524,
+      "keyframes": [
+        "000499.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Mà bật mí luôn nha, đây là loại mà nhà Kim Thảo ai cũng thích hết: hạt mắc khén.",
+      "start": 20.96,
+      "end": 25.72,
+      "n_words": 19,
+      "start_frame": 524,
+      "end_frame": 643,
+      "keyframes": [
+        "000553.webp",
+        "000554.webp",
+        "000581.webp",
+        "000608.webp",
+        "000609.webp",
+        "000625.webp",
+        "000642.webp",
+        "000643.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Đúng là MC của Món ngon mỗi ngày vậy!",
+      "start": 25.72,
+      "end": 27.96,
+      "n_words": 9,
+      "start_frame": 643,
+      "end_frame": 699,
+      "keyframes": [
+        "000643.webp",
+        "000665.webp",
+        "000687.webp",
+        "000688.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Hôm nay mình sẽ làm một món ngon với mắc khén hả?",
+      "start": 27.96,
+      "end": 30.64,
+      "n_words": 12,
+      "start_frame": 699,
+      "end_frame": 766,
+      "keyframes": [
+        "000726.webp",
+        "000764.webp",
+        "000765.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng rồi, nhưng mà Kim Thảo muốn kết hợp loại thịt gì với mắc khén này?",
+      "start": 30.64,
+      "end": 35.68,
+      "n_words": 16,
+      "start_frame": 766,
+      "end_frame": 892,
+      "keyframes": [
+        "000815.webp",
+        "000866.webp",
+        "000867.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thịt gà được không?",
+      "start": 35.68,
+      "end": 36.88,
+      "n_words": 4,
+      "start_frame": 892,
+      "end_frame": 922,
+      "keyframes": [
+        "000893.webp",
+        "000919.webp",
+        "000920.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Gà mà đi với mắc khén thì còn gì bằng nữa.",
+      "start": 36.88,
+      "end": 39.2,
+      "n_words": 11,
+      "start_frame": 922,
+      "end_frame": 980,
+      "keyframes": [
+        "000948.webp",
+        "000977.webp",
+        "000978.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Vào bếp thực hiện liền nha!",
+      "start": 39.2,
+      "end": 42.8,
+      "n_words": 6,
+      "start_frame": 980,
+      "end_frame": 1070,
+      "keyframes": [
+        "000998.webp",
+        "001019.webp",
+        "001020.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ngon đậm đà, cả nhà xuýt xoa với lẩu gà mắc khén.",
+      "start": 42.8,
+      "end": 62.8,
+      "n_words": 12,
+      "start_frame": 1070,
+      "end_frame": 1570,
+      "keyframes": [
+        "001094.webp",
+        "001169.webp",
+        "001170.webp",
+        "001227.webp",
+        "001285.webp",
+        "001303.webp",
+        "001347.webp",
+        "001392.webp",
+        "001393.webp",
+        "001480.webp",
+        "001568.webp",
+        "001569.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Chào các bạn khán giả đến với chương trình Món ngon mỗi ngày được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 62.8,
+      "end": 68.64,
+      "n_words": 22,
+      "start_frame": 1570,
+      "end_frame": 1716,
+      "keyframes": [
+        "001645.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và bây giờ chúng ta sẽ tiến hành tẩm ướp con gà trước.",
+      "start": 68.64,
+      "end": 71.36,
+      "n_words": 13,
+      "start_frame": 1716,
+      "end_frame": 1784,
+      "keyframes": [
+        "001721.webp",
+        "001722.webp",
+        "001752.webp",
+        "001782.webp",
+        "001783.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Sẽ pha cái hỗn hợp có hai muỗng canh nước tương Phú Sĩ.",
+      "start": 71.36,
+      "end": 74.8,
+      "n_words": 13,
+      "start_frame": 1784,
+      "end_frame": 1870,
+      "keyframes": [
+        "001797.webp",
+        "001812.webp",
+        "001813.webp",
+        "001858.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng ta dùng nước tương Phú Sĩ để ướp gà thì màu của cái phần da gà bên ngoài rất là đẹp đó.",
+      "start": 74.8,
+      "end": 80.72,
+      "n_words": 23,
+      "start_frame": 1870,
+      "end_frame": 2018,
+      "keyframes": [
+        "001903.webp",
+        "001904.webp",
+        "001965.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Xin một muỗng cà phê tiêu, nửa muỗng cà phê muối và chúng ta sẽ khuấy đều cái hỗn hợp này lên.",
+      "start": 80.72,
+      "end": 86.6,
+      "n_words": 22,
+      "start_frame": 2018,
+      "end_frame": 2165,
+      "keyframes": [
+        "002027.webp",
+        "002028.webp",
+        "002048.webp",
+        "002068.webp",
+        "002069.webp",
+        "002090.webp",
+        "002112.webp",
+        "002113.webp",
+        "002127.webp",
+        "002141.webp",
+        "002142.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Chúng ta sẽ chuẩn bị một cái tô lớn để chúng ta tẩm ướp cái phần gà này.",
+      "start": 86.6,
+      "end": 90.4,
+      "n_words": 18,
+      "start_frame": 2165,
+      "end_frame": 2260,
+      "keyframes": [
+        "002179.webp",
+        "002217.webp",
+        "002218.webp",
+        "002237.webp",
+        "002256.webp",
+        "002257.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Ướp đều cái hỗn hợp nước tương này lên gà và bây giờ chúng ta sẽ sử dụng bao tay để thoa đều hết, phần nước tương này được bám đều lên hết phần da gà nha.",
+      "start": 90.4,
+      "end": 99.52,
+      "n_words": 37,
+      "start_frame": 2260,
+      "end_frame": 2488,
+      "keyframes": [
+        "002284.webp",
+        "002311.webp",
+        "002312.webp",
+        "002333.webp",
+        "002354.webp",
+        "002355.webp",
+        "002421.webp",
+        "002487.webp",
+        "002488.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Các bạn nên nhớ khi làm món này, chúng ta dùng nước tương Phú Sĩ thoa đều lên phần da gà để khi chiên gà có màu vàng đẹp nha.",
+      "start": 99.52,
+      "end": 105.2,
+      "n_words": 30,
+      "start_frame": 2488,
+      "end_frame": 2630,
+      "keyframes": [
+        "002488.webp",
+        "002559.webp",
+        "002630.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và bây giờ chúng ta cần tẩm ướp cái phần gà này khoảng 20 phút.",
+      "start": 105.2,
+      "end": 109.64,
+      "n_words": 15,
+      "start_frame": 2630,
+      "end_frame": 2741,
+      "keyframes": [
+        "002630.webp",
+        "002631.webp",
+        "002667.webp",
+        "002704.webp",
+        "002705.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "20 phút đã trôi qua, gà cũng đã thấm vị.",
+      "start": 109.64,
+      "end": 113.28,
+      "n_words": 10,
+      "start_frame": 2741,
+      "end_frame": 2832,
+      "keyframes": [
+        "002743.webp",
+        "002781.webp",
+        "002782.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ tiến hành chiên để cho gà có màu vàng đẹp nha.",
+      "start": 113.28,
+      "end": 116.08,
+      "n_words": 16,
+      "start_frame": 2832,
+      "end_frame": 2902,
+      "keyframes": [
+        "002840.webp",
+        "002899.webp",
+        "002900.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đối với món này, chúng ta nên chiên gà trước để da gà có màu vàng đẹp và gà được thơm hơn khi nấu nha.",
+      "start": 116.08,
+      "end": 121.4,
+      "n_words": 25,
+      "start_frame": 2902,
+      "end_frame": 3035,
+      "keyframes": [
+        "002969.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta sẽ múc dầu nóng sôi rưới lên mình con gà như vậy.",
+      "start": 121.4,
+      "end": 125.36,
+      "n_words": 14,
+      "start_frame": 3035,
+      "end_frame": 3134,
+      "keyframes": [
+        "003038.webp",
+        "003039.webp",
+        "003089.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta cần nó sẫm màu hơn chút xíu nữa để khi chúng ta nấu thì cái mùi thơm của gà nó sẽ được thơm hơn và gà cũng đã rất là thơm và Kim Thảo thấy không, màu cũng rất là đẹp.",
+      "start": 125.36,
+      "end": 134.12,
+      "n_words": 43,
+      "start_frame": 3134,
+      "end_frame": 3353,
+      "keyframes": [
+        "003140.webp",
+        "003141.webp",
+        "003165.webp",
+        "003189.webp",
+        "003190.webp",
+        "003230.webp",
+        "003270.webp",
+        "003271.webp",
+        "003310.webp",
+        "003350.webp",
+        "003351.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Thì bây giờ Kim Thảo tắt bếp thì mình sẽ vớt con gà ra.",
+      "start": 134.12,
+      "end": 137.92,
+      "n_words": 14,
+      "start_frame": 3353,
+      "end_frame": 3448,
+      "keyframes": [
+        "003381.webp",
+        "003412.webp",
+        "003413.webp",
+        "003430.webp",
+        "003447.webp",
+        "003448.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hấp dẫn quá!",
+      "start": 137.92,
+      "end": 139.04,
+      "n_words": 3,
+      "start_frame": 3448,
+      "end_frame": 3476,
+      "keyframes": [
+        "003448.webp",
+        "003476.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và bây giờ chúng ta sẽ bật lửa lên và chúng ta cần khoảng một muỗng canh dầu ăn.",
+      "start": 139.04,
+      "end": 143.68,
+      "n_words": 19,
+      "start_frame": 3476,
+      "end_frame": 3592,
+      "keyframes": [
+        "003476.webp",
+        "003505.webp",
+        "003506.webp",
+        "003528.webp",
+        "003551.webp",
+        "003552.webp",
+        "003572.webp",
+        "003592.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Đối với món lẩu này, chúng ta nên rang mắc khén trước khi nấu để có mùi thơm đặc trưng hơn cho món ăn.",
+      "start": 143.68,
+      "end": 148.08,
+      "n_words": 24,
+      "start_frame": 3592,
+      "end_frame": 3702,
+      "keyframes": [
+        "003592.webp",
+        "003593.webp",
+        "003625.webp",
+        "003658.webp",
+        "003659.webp",
+        "003680.webp",
+        "003702.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Dầu cũng đã nóng thì bây giờ chúng ta sẽ tiến hành phi thơm cái phần gừng băm.",
+      "start": 148.08,
+      "end": 152.56,
+      "n_words": 18,
+      "start_frame": 3702,
+      "end_frame": 3814,
+      "keyframes": [
+        "003702.webp",
+        "003703.webp",
+        "003756.webp",
+        "003810.webp",
+        "003811.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ chúng ta đã nghe cái mùi gừng thơm rồi.",
+      "start": 152.56,
+      "end": 154.96,
+      "n_words": 11,
+      "start_frame": 3814,
+      "end_frame": 3874,
+      "keyframes": [
+        "003842.webp",
+        "003874.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúng ta sẽ sử dụng một trái dừa, trái dừa này tầm khoảng 1 lít và chúng ta sẽ cho thêm nửa lít nước nữa.",
+      "start": 154.96,
+      "end": 162.16,
+      "n_words": 25,
+      "start_frame": 3874,
+      "end_frame": 4054,
+      "keyframes": [
+        "003874.webp",
+        "003875.webp",
+        "003899.webp",
+        "003924.webp",
+        "003925.webp",
+        "003955.webp",
+        "003985.webp",
+        "003986.webp",
+        "004021.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cho một muỗng canh mắc khén đã rang vàng và thơm.",
+      "start": 162.16,
+      "end": 165.6,
+      "n_words": 11,
+      "start_frame": 4054,
+      "end_frame": 4140,
+      "keyframes": [
+        "004056.webp",
+        "004057.webp",
+        "004074.webp",
+        "004091.webp",
+        "004092.webp",
+        "004114.webp",
+        "004137.webp",
+        "004138.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Tiếp theo là kỷ tử, táo tàu, hạt sen đã được trần sơ qua, hạt điều đã được bóc vỏ lụa.",
+      "start": 165.6,
+      "end": 175.2,
+      "n_words": 21,
+      "start_frame": 4140,
+      "end_frame": 4380,
+      "keyframes": [
+        "004159.webp",
+        "004181.webp",
+        "004182.webp",
+        "004204.webp",
+        "004227.webp",
+        "004228.webp",
+        "004271.webp",
+        "004315.webp",
+        "004316.webp",
+        "004329.webp",
+        "004342.webp",
+        "004343.webp",
+        "004359.webp",
+        "004376.webp",
+        "004377.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Và bây giờ chúng ta sẽ tiến hành nêm nếm cho cái nồi nước dùng của chúng ta luôn.",
+      "start": 175.2,
+      "end": 179.0,
+      "n_words": 19,
+      "start_frame": 4380,
+      "end_frame": 4475,
+      "keyframes": [
+        "004425.webp",
+        "004473.webp",
+        "004474.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đầu tiên chúng ta sẽ cần nửa muỗng cà phê muối, một muỗng cà phê đường, một muỗng cà phê bột ngọt Ajinomoto và bây giờ cuối cùng thì chúng ta cần một muỗng canh rưỡi hạt nêm Aji-ngon gà nữa.",
+      "start": 179.0,
+      "end": 189.48,
+      "n_words": 41,
+      "start_frame": 4475,
+      "end_frame": 4737,
+      "keyframes": [
+        "004506.webp",
+        "004538.webp",
+        "004539.webp",
+        "004557.webp",
+        "004575.webp",
+        "004576.webp",
+        "004588.webp",
+        "004600.webp",
+        "004601.webp",
+        "004618.webp",
+        "004635.webp",
+        "004636.webp",
+        "004687.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Thả cái phần gà mà chúng ta chiên vàng thơm vào, xong rồi mình sẽ đợi nước sôi lên.",
+      "start": 189.48,
+      "end": 195.6,
+      "n_words": 19,
+      "start_frame": 4737,
+      "end_frame": 4890,
+      "keyframes": [
+        "004738.webp",
+        "004739.webp",
+        "004827.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nước sôi lên, chín mùi thơm đã đủ và khi kiểm tra thì thấy cái phần gà nó cũng đã đủ mềm rồi.",
+      "start": 195.6,
+      "end": 201.48,
+      "n_words": 23,
+      "start_frame": 4890,
+      "end_frame": 5037,
+      "keyframes": [
+        "004916.webp",
+        "004917.webp",
+        "004964.webp",
+        "005011.webp",
+        "005012.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thì bây giờ chúng ta sẽ hạ lửa xuống và chúng ta sẽ lấy hành lá cắt khúc nêm vào và chúng ta trang trí và thưởng thức thôi.",
+      "start": 201.48,
+      "end": 208.28,
+      "n_words": 29,
+      "start_frame": 5037,
+      "end_frame": 5207,
+      "keyframes": [
+        "005047.webp",
+        "005083.webp",
+        "005084.webp",
+        "005125.webp",
+        "005167.webp",
+        "005168.webp",
+        "005198.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Yea!",
+      "start": 208.28,
+      "end": 216.04,
+      "n_words": 1,
+      "start_frame": 5207,
+      "end_frame": 5401,
+      "keyframes": [
+        "005228.webp",
+        "005229.webp",
+        "005251.webp",
+        "005273.webp",
+        "005274.webp",
+        "005315.webp",
+        "005357.webp",
+        "005358.webp",
+        "005382.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Và bây giờ thì chúng ta sẽ múc con gà này ra một cái thố này để trang trí thêm phần đẹp và hấp dẫn hơn nha.",
+      "start": 216.04,
+      "end": 221.52,
+      "n_words": 27,
+      "start_frame": 5401,
+      "end_frame": 5538,
+      "keyframes": [
+        "005407.webp",
+        "005408.webp",
+        "005438.webp",
+        "005468.webp",
+        "005469.webp",
+        "005503.webp",
+        "005538.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Thơm quá xá ơi!",
+      "start": 221.52,
+      "end": 223.12,
+      "n_words": 4,
+      "start_frame": 5538,
+      "end_frame": 5578,
+      "keyframes": [
+        "005538.webp",
+        "005539.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thêm phần nước các loại hạt và bây giờ món ăn chúng ta đã hoàn thành: lẩu gà mắc khén.",
+      "start": 223.12,
+      "end": 228.92,
+      "n_words": 20,
+      "start_frame": 5578,
+      "end_frame": 5723,
+      "keyframes": [
+        "005594.webp",
+        "005649.webp",
+        "005650.webp",
+        "005715.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng ta có thể ăn kèm với mì trứng và cải con, quá là tuyệt vời.",
+      "start": 228.92,
+      "end": 232.24,
+      "n_words": 16,
+      "start_frame": 5723,
+      "end_frame": 5806,
+      "keyframes": [
+        "005781.webp",
+        "005782.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thưa quý vị, Kim Thảo đứng đây, Thảo đứng đây từ lúc mà đầu bếp xin trình bày món ăn thì thơm ngào ngạt, không thể kìm lòng được luôn.",
+      "start": 232.24,
+      "end": 240.0,
+      "n_words": 30,
+      "start_frame": 5806,
+      "end_frame": 6000,
+      "keyframes": [
+        "005890.webp",
+        "005998.webp",
+        "005999.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nồi lẩu thơm mùi mắc khén đặc trưng, gà màu vàng ươm, ngon, thấm vị.",
+      "start": 240.0,
+      "end": 245.64,
+      "n_words": 15,
+      "start_frame": 6000,
+      "end_frame": 6141,
+      "keyframes": [
+        "006042.webp",
+        "006085.webp",
+        "006100.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các nguyên liệu hạt điều, hạt sen, táo đỏ chín mềm, bùi thơm. Nước dùng trong, vị đậm đà.",
+      "start": 245.64,
+      "end": 252.36,
+      "n_words": 19,
+      "start_frame": 6141,
+      "end_frame": 6309,
+      "keyframes": [
+        "006158.webp",
+        "006216.webp",
+        "006217.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Lẩu gà mắc khén lạ mà ngon, ăn là nhớ mãi.",
+      "start": 252.36,
+      "end": 256.2,
+      "n_words": 11,
+      "start_frame": 6309,
+      "end_frame": 6405,
+      "keyframes": [
+        "006311.webp",
+        "006405.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Các bạn thân mến, công thức các món ăn thơm ngon lạ miệng đã có rồi đây nào, hãy cùng lên thực đơn và chiêu đãi cả nhà mình thôi.",
+      "start": 256.2,
+      "end": 264.08,
+      "n_words": 30,
+      "start_frame": 6405,
+      "end_frame": 6602,
+      "keyframes": [
+        "006405.webp",
+        "006406.webp",
+        "006504.webp",
+        "006602.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Quý vị khán giả thân mến, để đóng góp cho chương trình ngày một tốt hơn, trở thành một người bạn thân thiết và bổ ích của tất cả quý vị, xin quý vị đóng góp ý kiến cho chúng tôi bằng cách là trả lời câu hỏi sau đây: Bạn có muốn chương trình Món ngon mỗi ngày giới thiệu món ăn dinh dưỡng cho từng thành viên trong gia đình không?",
+      "start": 264.08,
+      "end": 281.84,
+      "n_words": 73,
+      "start_frame": 6602,
+      "end_frame": 7046,
+      "keyframes": [
+        "006602.webp",
+        "006603.webp",
+        "006696.webp",
+        "006790.webp",
+        "006791.webp",
+        "006844.webp",
+        "006898.webp",
+        "006899.webp",
+        "006970.webp",
+        "007042.webp",
+        "007043.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Hãy trả lời bằng một trong hai cách sau: Cách một, soạn tin nhắn theo cú pháp MN khoảng cách có hoặc không gửi về tổng đài 8069069, trong đó MN là chữ viết tắt của tên chương trình, có hoặc không quý vị vui lòng gửi không dấu và cước phí của một tin nhắn là 1.000 đồng.",
+      "start": 281.84,
+      "end": 301.28,
+      "n_words": 59,
+      "start_frame": 7046,
+      "end_frame": 7532,
+      "keyframes": [
+        "007083.webp",
+        "007124.webp",
+        "007125.webp",
+        "007211.webp",
+        "007297.webp",
+        "007298.webp",
+        "007380.webp",
+        "007463.webp",
+        "007464.webp",
+        "007496.webp",
+        "007529.webp",
+        "007530.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Cách hai, quý vị có thể soạn tin nhắn như trên gửi về fanpage của chương trình Món ngon mỗi ngày và địa chỉ của fanpage đang chạy trên màn hình.",
+      "start": 301.28,
+      "end": 308.52,
+      "n_words": 31,
+      "start_frame": 7532,
+      "end_frame": 7713,
+      "keyframes": [
+        "007592.webp",
+        "007655.webp",
+        "007656.webp",
+        "007685.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Còn bây giờ thì xin chào và hẹn gặp lại.",
+      "start": 308.52,
+      "end": 311.92,
+      "n_words": 10,
+      "start_frame": 7713,
+      "end_frame": 7798,
+      "keyframes": [
+        "007715.webp",
+        "007716.webp",
+        "007747.webp",
+        "007779.webp",
+        "007780.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

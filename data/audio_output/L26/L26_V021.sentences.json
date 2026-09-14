@@ -1,0 +1,867 @@
+{
+  "video_id": "L26_V021",
+  "fps": 25.0,
+  "n_sentences": 52,
+  "total_words": 1089,
+  "sentences": [
+    {
+      "text": "Chào món ngon mỗi ngày.",
+      "start": 0.04,
+      "end": 12.08,
+      "n_words": 5,
+      "start_frame": 1,
+      "end_frame": 302,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000119.webp",
+        "000130.webp",
+        "000155.webp",
+        "000160.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 36
+    },
+    {
+      "text": "Nước súp xanh sánh thoáng, mùi thơm của nấm và dầu mè, phần gà xé chắc, thịt viên mộc nhĩ thấm vị, có chút béo bùi của đậu phộng ở trong rất hấp dẫn.",
+      "start": 12.08,
+      "end": 41.28,
+      "n_words": 34,
+      "start_frame": 302,
+      "end_frame": 1032,
+      "keyframes": [
+        "000348.webp",
+        "000396.webp",
+        "000397.webp",
+        "000438.webp",
+        "000480.webp",
+        "000481.webp",
+        "000512.webp",
+        "000543.webp",
+        "000544.webp",
+        "000581.webp",
+        "000618.webp",
+        "000619.webp",
+        "000650.webp",
+        "000682.webp",
+        "000683.webp",
+        "000711.webp",
+        "000739.webp",
+        "000740.webp",
+        "000793.webp",
+        "000846.webp",
+        "000847.webp",
+        "000907.webp",
+        "000967.webp",
+        "000968.webp",
+        "001002.webp"
+      ],
+      "keyframe_count": 25
+    },
+    {
+      "text": "Chào mừng các bạn đang đến với chương trình Món ngon mỗi ngày - Nấu chuẩn ăn lành.",
+      "start": 41.28,
+      "end": 45.32,
+      "n_words": 18,
+      "start_frame": 1032,
+      "end_frame": 1133,
+      "keyframes": [
+        "001037.webp",
+        "001038.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam. Em chào cô! Chào mừng Tuấn.",
+      "start": 45.32,
+      "end": 50.44,
+      "n_words": 17,
+      "start_frame": 1133,
+      "end_frame": 1261,
+      "keyframes": [
+        "001160.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cô ơi bây giờ cô biết một cái xu thế không, là xu thế chữa lành?",
+      "start": 50.44,
+      "end": 54.68,
+      "n_words": 16,
+      "start_frame": 1261,
+      "end_frame": 1367,
+      "keyframes": [
+        "001282.webp",
+        "001283.webp",
+        "001312.webp",
+        "001341.webp",
+        "001342.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ai cũng cần đi chữa lành và sắp tới là mùa mưa, em nghĩ là người ta cần chữa lành nhiều.",
+      "start": 54.68,
+      "end": 59.04,
+      "n_words": 21,
+      "start_frame": 1367,
+      "end_frame": 1476,
+      "keyframes": [
+        "001395.webp",
+        "001449.webp",
+        "001450.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chữa lành nhiều, chữa lành tâm hồn khi mà trời đang mưa nè, lãng đãng nên thơ nè.",
+      "start": 59.04,
+      "end": 63.88,
+      "n_words": 18,
+      "start_frame": 1476,
+      "end_frame": 1597,
+      "keyframes": [
+        "001522.webp",
+        "001594.webp",
+        "001595.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đó, bây giờ cô làm một cái món nào đó mà để chữa lành cả tâm hồn lẫn thể chất đi cô.",
+      "start": 63.88,
+      "end": 70.4,
+      "n_words": 22,
+      "start_frame": 1597,
+      "end_frame": 1760,
+      "keyframes": [
+        "001622.webp",
+        "001649.webp",
+        "001650.webp",
+        "001673.webp",
+        "001696.webp",
+        "001697.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Được rồi, thôi thì món ăn này sẽ chữa lành bởi vì sao nó rất là dễ làm mà nó rất là ngon nữa nè, đúng không?",
+      "start": 70.4,
+      "end": 78.08,
+      "n_words": 27,
+      "start_frame": 1760,
+      "end_frame": 1952,
+      "keyframes": [
+        "001845.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "À, có thể là ăn vào lúc nào cũng được hết.",
+      "start": 78.08,
+      "end": 80.24,
+      "n_words": 11,
+      "start_frame": 1952,
+      "end_frame": 2006,
+      "keyframes": [
+        "001993.webp",
+        "001994.webp",
+        "002001.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Á, hôm nay thì chúng ta cùng nhau thực hiện một món súp nha: súp gà mọc nấm hương.",
+      "start": 80.24,
+      "end": 84.68,
+      "n_words": 19,
+      "start_frame": 2006,
+      "end_frame": 2117,
+      "keyframes": [
+        "002009.webp",
+        "002010.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và theo chuyên gia dinh dưỡng thì món ăn ngày hôm nay sẽ là một món mà có công dụng là hỗ trợ bổ máu rất là tốt.",
+      "start": 84.68,
+      "end": 90.88,
+      "n_words": 28,
+      "start_frame": 2117,
+      "end_frame": 2272,
+      "keyframes": [
+        "002140.webp",
+        "002270.webp",
+        "002271.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ thì mình sẽ đem gà mình sẽ luộc chín cùng với lại củ hành tím nướng.",
+      "start": 90.88,
+      "end": 95.64,
+      "n_words": 18,
+      "start_frame": 2272,
+      "end_frame": 2391,
+      "keyframes": [
+        "002332.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tiếp theo thì chúng ta sẽ sơ chế cái phần mọc mà trộn với lại nấm á.",
+      "start": 95.64,
+      "end": 99.2,
+      "n_words": 17,
+      "start_frame": 2391,
+      "end_frame": 2480,
+      "keyframes": [
+        "002393.webp",
+        "002394.webp",
+        "002438.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thì đầu tiên chúng ta sẽ sử dụng 100g mọc nấm hương nè, mình ngâm mềm và mình cắt ra một ít, lấy khoảng một muỗng canh nấm hương.",
+      "start": 99.2,
+      "end": 106.08,
+      "n_words": 29,
+      "start_frame": 2480,
+      "end_frame": 2652,
+      "keyframes": [
+        "002482.webp",
+        "002483.webp",
+        "002514.webp",
+        "002545.webp",
+        "002546.webp",
+        "002592.webp",
+        "002639.webp",
+        "002640.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Không chỉ là ngon mà bên cạnh đó còn có nhiều sắt và vitamin B sẽ giúp tái tạo lại hồng cầu, nên là cũng sẽ giúp chúng ta hỗ trợ bổ máu nữa.",
+      "start": 106.08,
+      "end": 113.16,
+      "n_words": 34,
+      "start_frame": 2652,
+      "end_frame": 2829,
+      "keyframes": [
+        "002699.webp",
+        "002759.webp",
+        "002760.webp",
+        "002793.webp",
+        "002827.webp",
+        "002828.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Nấm mèo chúng ta cũng sẽ cắt nhỏ khoảng chừng nửa muỗng canh thôi.",
+      "start": 113.16,
+      "end": 116.92,
+      "n_words": 14,
+      "start_frame": 2829,
+      "end_frame": 2923,
+      "keyframes": [
+        "002875.webp",
+        "002923.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cà rốt cắt nhỏ, nửa muỗng cà phê hành tím băm.",
+      "start": 116.92,
+      "end": 121.12,
+      "n_words": 11,
+      "start_frame": 2923,
+      "end_frame": 3028,
+      "keyframes": [
+        "002923.webp",
+        "002924.webp",
+        "002954.webp",
+        "002985.webp",
+        "002986.webp",
+        "003007.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đậu phộng luộc sẽ cắt nhỏ, mình sẽ cho vào đây luôn.",
+      "start": 121.12,
+      "end": 123.96,
+      "n_words": 12,
+      "start_frame": 3028,
+      "end_frame": 3099,
+      "keyframes": [
+        "003029.webp",
+        "003030.webp",
+        "003064.webp",
+        "003099.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cọng ngò rí băm chúng ta sẽ cho vào đây khoảng nửa muỗng cà phê.",
+      "start": 123.96,
+      "end": 126.8,
+      "n_words": 15,
+      "start_frame": 3099,
+      "end_frame": 3170,
+      "keyframes": [
+        "003099.webp",
+        "003100.webp",
+        "003133.webp",
+        "003166.webp",
+        "003167.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta sẽ thêm một ít đậu phộng luộc băm nhỏ vào trong nhân để khi chúng ta ăn có cảm giác là sần sật nhai vui miệng và đậu béo bùi nữa.",
+      "start": 126.8,
+      "end": 134.92,
+      "n_words": 33,
+      "start_frame": 3170,
+      "end_frame": 3373,
+      "keyframes": [
+        "003269.webp",
+        "003372.webp",
+        "003373.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cho vào đây 1/3 muỗng cà phê hạt nêm Ajinomoto nấm, một chút xíu tiêu trộn đều lên.",
+      "start": 134.92,
+      "end": 141.0,
+      "n_words": 18,
+      "start_frame": 3373,
+      "end_frame": 3525,
+      "keyframes": [
+        "003373.webp",
+        "003388.webp",
+        "003403.webp",
+        "003404.webp",
+        "003425.webp",
+        "003447.webp",
+        "003448.webp",
+        "003469.webp",
+        "003490.webp",
+        "003491.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Khi mà chúng ta đã chuẩn bị phần nhân xong cũng như là thịt gà đã chín thì mình sẽ vớt gà ra mình xé lấy cái phần thịt, rồi phần xương thì chúng ta sẽ cho lại vào trong nồi nước dùng mình nấu tiếp khoảng chừng 20 phút nữa để cho cái phần nước dùng nó ngọt.",
+      "start": 141.0,
+      "end": 155.2,
+      "n_words": 59,
+      "start_frame": 3525,
+      "end_frame": 3880,
+      "keyframes": [
+        "003533.webp",
+        "003576.webp",
+        "003577.webp",
+        "003636.webp",
+        "003696.webp",
+        "003697.webp",
+        "003729.webp",
+        "003761.webp",
+        "003762.webp",
+        "003821.webp",
+        "003880.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Sau đó mình lọc lấy một lít hai nước dùng, chúng ta sẽ ướp vào đây nửa muỗng cà phê hạt nêm Ajinomoto nấm.",
+      "start": 155.2,
+      "end": 160.72,
+      "n_words": 24,
+      "start_frame": 3880,
+      "end_frame": 4018,
+      "keyframes": [
+        "003880.webp",
+        "003881.webp",
+        "003908.webp",
+        "003936.webp",
+        "003937.webp",
+        "003950.webp",
+        "003963.webp",
+        "003964.webp",
+        "003993.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Hạt nêm Ajinomoto nấm sẽ làm cho món súp thơm hơn, dậy mùi nấm và đặc biệt là hạt nêm này thì chúng ta có thể sử dụng mua một lần mà mình dùng cho cả món chay, món mặn đều ngon luôn.",
+      "start": 160.72,
+      "end": 170.36,
+      "n_words": 43,
+      "start_frame": 4018,
+      "end_frame": 4259,
+      "keyframes": [
+        "004022.webp",
+        "004023.webp",
+        "004138.webp",
+        "004254.webp",
+        "004255.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Một muỗng cà phê nước mắm, mình sẽ trộn đều lên mình để cho nó thấm gia vị.",
+      "start": 170.36,
+      "end": 178.32,
+      "n_words": 18,
+      "start_frame": 4259,
+      "end_frame": 4458,
+      "keyframes": [
+        "004286.webp",
+        "004318.webp",
+        "004319.webp",
+        "004389.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Phần nước dùng gà chúng ta sẽ lấy một ít.",
+      "start": 178.32,
+      "end": 180.6,
+      "n_words": 10,
+      "start_frame": 4458,
+      "end_frame": 4515,
+      "keyframes": [
+        "004460.webp",
+        "004461.webp",
+        "004492.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ mình sẽ cho phần nấm hương mà cắt sợi này vô mình nấu trước nha.",
+      "start": 180.92,
+      "end": 185.6,
+      "n_words": 17,
+      "start_frame": 4523,
+      "end_frame": 4640,
+      "keyframes": [
+        "004523.webp",
+        "004524.webp",
+        "004584.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Phần mọc nấm hương này thì chúng ta sẽ nặn viên nó cỡ như một trái cherry nhỏ nhỏ thôi, mình sẽ nặn tròn nó.",
+      "start": 185.6,
+      "end": 192.96,
+      "n_words": 25,
+      "start_frame": 4640,
+      "end_frame": 4824,
+      "keyframes": [
+        "004644.webp",
+        "004645.webp",
+        "004676.webp",
+        "004708.webp",
+        "004709.webp",
+        "004735.webp",
+        "004762.webp",
+        "004763.webp",
+        "004796.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Bây giờ thì mình sẽ cho những cái viên này vào trong nồi súp.",
+      "start": 192.96,
+      "end": 196.36,
+      "n_words": 14,
+      "start_frame": 4824,
+      "end_frame": 4909,
+      "keyframes": [
+        "004830.webp",
+        "004831.webp",
+        "004862.webp",
+        "004894.webp",
+        "004895.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Khi mình cho chế miếng nước sôi như vậy thì nó đỡ dính hơn.",
+      "start": 196.36,
+      "end": 202.32,
+      "n_words": 14,
+      "start_frame": 4909,
+      "end_frame": 5058,
+      "keyframes": [
+        "004973.webp",
+        "005051.webp",
+        "005052.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi mình cho nấm mèo vô.",
+      "start": 202.32,
+      "end": 204.68,
+      "n_words": 6,
+      "start_frame": 5058,
+      "end_frame": 5117,
+      "keyframes": [
+        "005087.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta sẽ cho hai muỗng cà phê hạt nêm Ajinomoto nấm.",
+      "start": 204.68,
+      "end": 208.72,
+      "n_words": 12,
+      "start_frame": 5117,
+      "end_frame": 5218,
+      "keyframes": [
+        "005122.webp",
+        "005123.webp",
+        "005137.webp",
+        "005151.webp",
+        "005152.webp",
+        "005187.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Trong món ăn này thì chúng ta sẽ dùng hạt nêm Ajinomoto nấm để giúp cho món ăn ngon và thơm mùi nấm đặc trưng.",
+      "start": 208.72,
+      "end": 216.32,
+      "n_words": 25,
+      "start_frame": 5218,
+      "end_frame": 5408,
+      "keyframes": [
+        "005223.webp",
+        "005224.webp",
+        "005313.webp",
+        "005402.webp",
+        "005403.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nửa muỗng cà phê bột ngọt Ajinomoto, nửa muỗng cà phê đường.",
+      "start": 216.32,
+      "end": 222.0,
+      "n_words": 12,
+      "start_frame": 5408,
+      "end_frame": 5550,
+      "keyframes": [
+        "005417.webp",
+        "005431.webp",
+        "005432.webp",
+        "005462.webp",
+        "005492.webp",
+        "005493.webp",
+        "005524.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Tiếp theo thì chúng ta sẽ cho bột năng vô đây, mình sẽ khuấy đều tay để đừng bị vón cục.",
+      "start": 222.0,
+      "end": 227.32,
+      "n_words": 21,
+      "start_frame": 5550,
+      "end_frame": 5683,
+      "keyframes": [
+        "005556.webp",
+        "005557.webp",
+        "005616.webp",
+        "005675.webp",
+        "005676.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Mình sẽ cho phần cà rốt cắt sợi vô nha.",
+      "start": 227.32,
+      "end": 231.04,
+      "n_words": 10,
+      "start_frame": 5683,
+      "end_frame": 5776,
+      "keyframes": [
+        "005728.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tiếp theo thì mình sẽ cho trứng vô rồi mình sẽ cho rẽ qua cái rây nha cho nó chảy xuống từ từ.",
+      "start": 231.04,
+      "end": 237.96,
+      "n_words": 23,
+      "start_frame": 5776,
+      "end_frame": 5949,
+      "keyframes": [
+        "005780.webp",
+        "005781.webp",
+        "005867.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tiếp tục thì mình sẽ cho vào đây 2/3 lượng thịt gà xé, cho vào đây nửa muỗng canh nước mắm nè.",
+      "start": 237.96,
+      "end": 243.12,
+      "n_words": 22,
+      "start_frame": 5949,
+      "end_frame": 6078,
+      "keyframes": [
+        "005953.webp",
+        "005954.webp",
+        "005990.webp",
+        "006027.webp",
+        "006028.webp",
+        "006073.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi em tắt lửa giúp cô đi.",
+      "start": 243.12,
+      "end": 244.84,
+      "n_words": 7,
+      "start_frame": 6078,
+      "end_frame": 6121,
+      "keyframes": [
+        "006119.webp",
+        "006120.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Mình sẽ cho vào đây nửa muỗng cà phê dầu mè.",
+      "start": 244.84,
+      "end": 252.88,
+      "n_words": 11,
+      "start_frame": 6121,
+      "end_frame": 6322,
+      "keyframes": [
+        "006151.webp",
+        "006182.webp",
+        "006183.webp",
+        "006294.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bên cạnh một cái nồi súp hấp dẫn này có một mã QR, mọi người hãy quét mã này chúng ta sẽ có được công thức nấu ăn của món ăn ngày hôm nay nha.",
+      "start": 252.88,
+      "end": 260.96,
+      "n_words": 35,
+      "start_frame": 6322,
+      "end_frame": 6524,
+      "keyframes": [
+        "006406.webp",
+        "006407.webp",
+        "006443.webp",
+        "006480.webp",
+        "006481.webp",
+        "006505.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ múc súp ra, thêm gà xé, rắc tiêu lên, một cọng ngò lên.",
+      "start": 260.96,
+      "end": 273.52,
+      "n_words": 18,
+      "start_frame": 6524,
+      "end_frame": 6838,
+      "keyframes": [
+        "006530.webp",
+        "006531.webp",
+        "006560.webp",
+        "006590.webp",
+        "006591.webp",
+        "006621.webp",
+        "006652.webp",
+        "006653.webp",
+        "006679.webp",
+        "006705.webp",
+        "006706.webp",
+        "006739.webp",
+        "006772.webp",
+        "006773.webp",
+        "006807.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Như vậy là chúng ta đã hoàn thành món ăn ngày hôm nay.",
+      "start": 273.52,
+      "end": 275.92,
+      "n_words": 13,
+      "start_frame": 6838,
+      "end_frame": 6898,
+      "keyframes": [
+        "006842.webp",
+        "006843.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Khi ăn thì chúng ta sẽ dọn kèm với lại nước tương Phú Sĩ và ít lát ớt nha, các bạn cho thịt gà vô nha.",
+      "start": 275.92,
+      "end": 287.52,
+      "n_words": 26,
+      "start_frame": 6898,
+      "end_frame": 7188,
+      "keyframes": [
+        "006916.webp",
+        "006989.webp",
+        "006990.webp",
+        "007046.webp",
+        "007102.webp",
+        "007103.webp",
+        "007127.webp",
+        "007152.webp",
+        "007153.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cô, cái phần nước, phần nước súp của mọi người nó thanh nó ngọt tự nhiên bởi vì chúng ta ninh từ gà và nấm mà rất là thơm.",
+      "start": 287.52,
+      "end": 298.48,
+      "n_words": 29,
+      "start_frame": 7188,
+      "end_frame": 7462,
+      "keyframes": [
+        "007206.webp",
+        "007259.webp",
+        "007260.webp",
+        "007331.webp",
+        "007402.webp",
+        "007403.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và bên cạnh đó cái phần mọc thì mềm nha, mình cắn vào trong mình chạm một vài cái phần đậu phộng á nó sực nhẹ nhẹ thơm lừng mùi đậu phộng luôn.",
+      "start": 298.48,
+      "end": 306.88,
+      "n_words": 33,
+      "start_frame": 7462,
+      "end_frame": 7672,
+      "keyframes": [
+        "007484.webp",
+        "007566.webp",
+        "007567.webp",
+        "007618.webp",
+        "007670.webp",
+        "007671.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và để đạt hiệu quả dinh dưỡng thì món ăn này các bạn nên kết hợp theo thực đơn trong một ngày như gợi ý dưới đây.",
+      "start": 306.88,
+      "end": 316.04,
+      "n_words": 27,
+      "start_frame": 7672,
+      "end_frame": 7901,
+      "keyframes": [
+        "007724.webp",
+        "007778.webp",
+        "007779.webp",
+        "007841.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Một chút điểm xuyết nhỏ thôi đã làm cho một món súp quen thuộc trở nên vô cùng khác biệt, ăn vui miệng, ngon miệng mà lại thực hiện rất nhanh.",
+      "start": 316.04,
+      "end": 324.44,
+      "n_words": 31,
+      "start_frame": 7901,
+      "end_frame": 8111,
+      "keyframes": [
+        "007903.webp",
+        "007904.webp",
+        "008036.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn hãy thực hiện ngay món ăn này tại nhà của mình nha.",
+      "start": 324.44,
+      "end": 326.8,
+      "n_words": 14,
+      "start_frame": 8111,
+      "end_frame": 8170,
+      "keyframes": [
+        "008169.webp",
+        "008170.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nếu chúng ta muốn khám phá thêm hàng ngàn công thức nấu ăn khác của Món ngon mỗi ngày, hãy truy cập vào YouTube, website và fanpage của chương trình. Chúng tôi luôn có những công thức món ăn ngon để phục vụ cho tất cả các bạn.",
+      "start": 326.8,
+      "end": 336.64,
+      "n_words": 48,
+      "start_frame": 8170,
+      "end_frame": 8416,
+      "keyframes": [
+        "008170.webp",
+        "008301.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúc các bạn thành công.",
+      "start": 336.64,
+      "end": 338.44,
+      "n_words": 5,
+      "start_frame": 8416,
+      "end_frame": 8461,
+      "keyframes": [
+        "008433.webp",
+        "008434.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

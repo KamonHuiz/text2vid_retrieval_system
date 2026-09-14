@@ -1,0 +1,713 @@
+{
+  "video_id": "L26_V022",
+  "fps": 25.0,
+  "n_sentences": 41,
+  "total_words": 915,
+  "sentences": [
+    {
+      "text": "Rất món ngon mỗi ngày, món ăn có màu kho rất bắt mắt, thịt nghêu thì dai săn, đậm đà, dậy mùi nước tương cùng với nước sốt sánh sệt.",
+      "start": 0.04,
+      "end": 20.8,
+      "n_words": 30,
+      "start_frame": 1,
+      "end_frame": 520,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000130.webp",
+        "000147.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp",
+        "000346.webp",
+        "000393.webp",
+        "000394.webp",
+        "000428.webp",
+        "000462.webp",
+        "000463.webp",
+        "000514.webp"
+      ],
+      "keyframe_count": 43
+    },
+    {
+      "text": "Rau củ thì tươi, ngon giòn, đưa cơm cực kỳ.",
+      "start": 20.8,
+      "end": 37.52,
+      "n_words": 10,
+      "start_frame": 520,
+      "end_frame": 938,
+      "keyframes": [
+        "000566.webp",
+        "000567.webp",
+        "000599.webp",
+        "000632.webp",
+        "000633.webp",
+        "000636.webp",
+        "000640.webp",
+        "000641.webp",
+        "000672.webp",
+        "000703.webp",
+        "000704.webp",
+        "000793.webp",
+        "000883.webp",
+        "000884.webp",
+        "000913.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Rất vui khi được gặp lại quý vị khán giả đang xem chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành. Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 37.52,
+      "end": 46.24,
+      "n_words": 33,
+      "start_frame": 938,
+      "end_frame": 1156,
+      "keyframes": [
+        "000943.webp",
+        "000944.webp",
+        "001052.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Em chào anh Vũ.",
+      "start": 46.24,
+      "end": 47.32,
+      "n_words": 4,
+      "start_frame": 1156,
+      "end_frame": 1183,
+      "keyframes": [
+        "001160.webp",
+        "001161.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chào Minh Tuấn.",
+      "start": 47.32,
+      "end": 48.04,
+      "n_words": 3,
+      "start_frame": 1183,
+      "end_frame": 1201,
+      "keyframes": [
+        "001191.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đây em tươi mới không?",
+      "start": 48.04,
+      "end": 48.96,
+      "n_words": 5,
+      "start_frame": 1201,
+      "end_frame": 1224,
+      "keyframes": [
+        "001222.webp",
+        "001223.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Trời ơi mới đi biển về ạ, nở nở.",
+      "start": 48.96,
+      "end": 51.88,
+      "n_words": 9,
+      "start_frame": 1224,
+      "end_frame": 1297,
+      "keyframes": [
+        "001248.webp",
+        "001274.webp",
+        "001275.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đi biển về em có nghêu cho anh, nó wow, rất là hợp lý các bạn.",
+      "start": 51.88,
+      "end": 55.64,
+      "n_words": 16,
+      "start_frame": 1297,
+      "end_frame": 1391,
+      "keyframes": [
+        "001298.webp",
+        "001321.webp",
+        "001322.webp",
+        "001354.webp",
+        "001386.webp",
+        "001387.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Nhưng mà em có yêu cầu là không có hấp thường, xào thường, giờ mình kho đi anh.",
+      "start": 55.64,
+      "end": 62.44,
+      "n_words": 18,
+      "start_frame": 1391,
+      "end_frame": 1561,
+      "keyframes": [
+        "001401.webp",
+        "001415.webp",
+        "001416.webp",
+        "001480.webp",
+        "001544.webp",
+        "001545.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Kho nghe lạ lạ thì chúng ta sẽ làm món nghêu kho nước tương.",
+      "start": 62.44,
+      "end": 66.16,
+      "n_words": 14,
+      "start_frame": 1561,
+      "end_frame": 1654,
+      "keyframes": [
+        "001574.webp",
+        "001603.webp",
+        "001604.webp",
+        "001613.webp",
+        "001622.webp",
+        "001623.webp",
+        "001637.webp",
+        "001652.webp",
+        "001653.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Và không những vậy, theo chuyên gia dinh dưỡng thì món ngày hôm nay sẽ hỗ trợ giảm được khối mỡ thừa nha các bạn.",
+      "start": 66.16,
+      "end": 71.6,
+      "n_words": 25,
+      "start_frame": 1654,
+      "end_frame": 1790,
+      "keyframes": [
+        "001675.webp",
+        "001698.webp",
+        "001699.webp",
+        "001743.webp",
+        "001788.webp",
+        "001789.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thịt nghêu thì chúng ta có thể mua nghêu tươi về luộc xong nhớ xả qua nước lạnh, ngâm trong nước muối, sau đó chúng ta gỡ ra lấy thịt.",
+      "start": 71.6,
+      "end": 78.84,
+      "n_words": 30,
+      "start_frame": 1790,
+      "end_frame": 1971,
+      "keyframes": [
+        "001829.webp",
+        "001870.webp",
+        "001871.webp",
+        "001896.webp",
+        "001922.webp",
+        "001923.webp",
+        "001946.webp",
+        "001970.webp",
+        "001971.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Rồi bây giờ thì chúng ta sẽ ướp thịt nghêu.",
+      "start": 78.84,
+      "end": 80.88,
+      "n_words": 10,
+      "start_frame": 1971,
+      "end_frame": 2022,
+      "keyframes": [
+        "001971.webp",
+        "002008.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thưa các bạn, món này chúng ta có thể thay bằng thịt nghêu tươi luộc xong gỡ lấy thịt thì cũng rất là phù hợp.",
+      "start": 80.88,
+      "end": 86.56,
+      "n_words": 25,
+      "start_frame": 2022,
+      "end_frame": 2164,
+      "keyframes": [
+        "002045.webp",
+        "002046.webp",
+        "002104.webp",
+        "002163.webp",
+        "002164.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ướp ở đây một muỗng canh đường, một muỗng cà phê bột ngọt Ajinomoto, bốn muỗng canh nước tương Phú Sĩ.",
+      "start": 86.56,
+      "end": 94.68,
+      "n_words": 21,
+      "start_frame": 2164,
+      "end_frame": 2367,
+      "keyframes": [
+        "002164.webp",
+        "002189.webp",
+        "002214.webp",
+        "002215.webp",
+        "002228.webp",
+        "002242.webp",
+        "002243.webp",
+        "002262.webp",
+        "002282.webp",
+        "002283.webp",
+        "002302.webp",
+        "002322.webp",
+        "002323.webp",
+        "002347.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Thưa các bạn, đối với món ăn này thì chúng ta dùng nước tương Phú Sĩ thì sẽ có mùi vị đặc trưng của Á Đông hơn, trộn đều lên.",
+      "start": 94.68,
+      "end": 101.68,
+      "n_words": 30,
+      "start_frame": 2367,
+      "end_frame": 2542,
+      "keyframes": [
+        "002372.webp",
+        "002373.webp",
+        "002434.webp",
+        "002496.webp",
+        "002497.webp",
+        "002521.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cải ngọt chúng ta cắt khúc khoảng chừng 6 centimet phần lá và phần thân.",
+      "start": 101.68,
+      "end": 106.88,
+      "n_words": 15,
+      "start_frame": 2542,
+      "end_frame": 2672,
+      "keyframes": [
+        "002545.webp",
+        "002546.webp",
+        "002609.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ớt khô thì chúng ta cắt rồi làm đôi như vậy hoặc làm ba.",
+      "start": 106.88,
+      "end": 111.36,
+      "n_words": 14,
+      "start_frame": 2672,
+      "end_frame": 2784,
+      "keyframes": [
+        "002673.webp",
+        "002674.webp",
+        "002728.webp",
+        "002782.webp",
+        "002783.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hành lá thì chúng ta cũng cắt khúc xéo 2 cm.",
+      "start": 111.36,
+      "end": 115.0,
+      "n_words": 11,
+      "start_frame": 2784,
+      "end_frame": 2875,
+      "keyframes": [
+        "002840.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Như vậy chúng ta cắt một cao bề bảng, cao bề bảng như vậy.",
+      "start": 115.44,
+      "end": 119.84,
+      "n_words": 14,
+      "start_frame": 2886,
+      "end_frame": 2996,
+      "keyframes": [
+        "002897.webp",
+        "002898.webp",
+        "002941.webp",
+        "002985.webp",
+        "002986.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ớt sừng cắt ra miếng hình thoi như vậy.",
+      "start": 119.84,
+      "end": 123.56,
+      "n_words": 9,
+      "start_frame": 2996,
+      "end_frame": 3089,
+      "keyframes": [
+        "003036.webp",
+        "003087.webp",
+        "003088.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta bắt đầu kho nghêu.",
+      "start": 123.56,
+      "end": 125.2,
+      "n_words": 6,
+      "start_frame": 3089,
+      "end_frame": 3130,
+      "keyframes": [
+        "003109.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Dầu nóng chúng ta sẽ cho hành tím, tỏi băm, đầu hành lá băm, cần băm thả vào đây, ớt khô luôn các bạn.",
+      "start": 125.2,
+      "end": 138.56,
+      "n_words": 24,
+      "start_frame": 3130,
+      "end_frame": 3464,
+      "keyframes": [
+        "003131.webp",
+        "003132.webp",
+        "003171.webp",
+        "003210.webp",
+        "003211.webp",
+        "003246.webp",
+        "003281.webp",
+        "003282.webp",
+        "003344.webp",
+        "003406.webp",
+        "003407.webp",
+        "003435.webp",
+        "003463.webp",
+        "003464.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Thưa các bạn, đối với món này thì chúng ta nên cho vào trong đó một ít ớt khô để món ăn chúng ta được thơm hơn.",
+      "start": 138.56,
+      "end": 144.16,
+      "n_words": 27,
+      "start_frame": 3464,
+      "end_frame": 3604,
+      "keyframes": [
+        "003464.webp",
+        "003532.webp",
+        "003601.webp",
+        "003602.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng ta cho nghêu vào kho luôn như vậy, chúng ta kho lửa liu riêu ha các bạn, cho cái nước kho nó rút lại.",
+      "start": 144.16,
+      "end": 152.0,
+      "n_words": 25,
+      "start_frame": 3604,
+      "end_frame": 3800,
+      "keyframes": [
+        "003637.webp",
+        "003673.webp",
+        "003674.webp",
+        "003706.webp",
+        "003739.webp",
+        "003740.webp",
+        "003775.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Nghêu là một cái loại hải sản, đầu tiên là rất là ngon miệng, thứ hai là nghêu thì cung cấp đạm nhưng lại có rất ít chất béo, nên chúng ta ăn nghêu thì sẽ giúp cho chúng ta hỗ trợ quá trình mà chúng ta loại bớt cái khối mỡ thừa trong cơ thể của mình.",
+      "start": 152.0,
+      "end": 164.44,
+      "n_words": 58,
+      "start_frame": 3800,
+      "end_frame": 4111,
+      "keyframes": [
+        "003810.webp",
+        "003811.webp",
+        "003923.webp",
+        "004036.webp",
+        "004037.webp",
+        "004090.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Các bạn hãy nhớ bổ sung nghêu nhé.",
+      "start": 164.44,
+      "end": 165.76,
+      "n_words": 8,
+      "start_frame": 4111,
+      "end_frame": 4144,
+      "keyframes": [
+        "004143.webp",
+        "004144.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thưa các bạn, khi chúng ta luộc các loại rau củ quả thì để giữ được nhiều các vitamin trong rau củ quả thì chúng ta để nước cho thật sôi và chúng ta có thể thêm một ít muối.",
+      "start": 165.76,
+      "end": 174.6,
+      "n_words": 40,
+      "start_frame": 4144,
+      "end_frame": 4365,
+      "keyframes": [
+        "004144.webp",
+        "004232.webp",
+        "004320.webp",
+        "004321.webp",
+        "004345.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Sau đó thì chúng ta sẽ cho phần thân cái cải ngọt vào chúng ta luộc trước, sau đó chúng ta cho phần lá vào chờ sôi bùng trở lại là mình sẽ vớt ra ngay và mình sẽ cho vào nước lạnh.",
+      "start": 174.6,
+      "end": 185.68,
+      "n_words": 43,
+      "start_frame": 4365,
+      "end_frame": 4642,
+      "keyframes": [
+        "004369.webp",
+        "004370.webp",
+        "004410.webp",
+        "004450.webp",
+        "004451.webp",
+        "004532.webp",
+        "004613.webp",
+        "004614.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Đúng rồi, chúng ta sóc ngay vào trong nước lạnh như vậy để chúng ta giữ được màu xanh cũng như các dinh dưỡng ở trong rau củ quả.",
+      "start": 185.68,
+      "end": 192.24,
+      "n_words": 29,
+      "start_frame": 4642,
+      "end_frame": 4806,
+      "keyframes": [
+        "004664.webp",
+        "004715.webp",
+        "004716.webp",
+        "004759.webp",
+        "004803.webp",
+        "004804.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta sẽ cho vào đây hành tây nè, hành lá và ớt cắt miếng vào rắc lên đây một xíu tiêu là hấp dẫn.",
+      "start": 192.24,
+      "end": 202.68,
+      "n_words": 25,
+      "start_frame": 4806,
+      "end_frame": 5067,
+      "keyframes": [
+        "004863.webp",
+        "004923.webp",
+        "004924.webp",
+        "004955.webp",
+        "004987.webp",
+        "004988.webp",
+        "005029.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Bây giờ có một mã QR đang xuất hiện trên màn hình, chúng ta quét mã này thì mọi người sẽ có ngay công thức của món ăn nghêu kho nước tương ngày hôm nay của anh Vũ. Còn bây giờ thì mình sẽ dọn ra mình trình bày ha.",
+      "start": 202.96,
+      "end": 212.68,
+      "n_words": 50,
+      "start_frame": 5074,
+      "end_frame": 5317,
+      "keyframes": [
+        "005199.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đúng rồi, mùi rất là thơm rồi, bây giờ mình sẽ ăn kèm với rau luôn.",
+      "start": 212.68,
+      "end": 219.76,
+      "n_words": 16,
+      "start_frame": 5317,
+      "end_frame": 5494,
+      "keyframes": [
+        "005327.webp",
+        "005328.webp",
+        "005352.webp",
+        "005377.webp",
+        "005378.webp",
+        "005407.webp",
+        "005436.webp",
+        "005437.webp",
+        "005491.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đây một miếng gấp đầy đủ tất cả các thành phần đó, mời mọi người.",
+      "start": 219.76,
+      "end": 229.76,
+      "n_words": 15,
+      "start_frame": 5494,
+      "end_frame": 5744,
+      "keyframes": [
+        "005545.webp",
+        "005546.webp",
+        "005601.webp",
+        "005656.webp",
+        "005657.webp",
+        "005701.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cái phần nghêu kho sẽ cho mọi người một cái trải nghiệm rất khác của việc ăn hải sản luôn.",
+      "start": 229.76,
+      "end": 234.36,
+      "n_words": 20,
+      "start_frame": 5744,
+      "end_frame": 5859,
+      "keyframes": [
+        "005746.webp",
+        "005747.webp",
+        "005802.webp",
+        "005858.webp",
+        "005859.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thông thường thì chúng ta ăn hải sản thì nó có cái độ thanh, mùi thơm của hải sản nhưng bây giờ nó lại có một cái độ đậm, cái độ đằm lại và nó làm cho cái hương vị của hải sản nó trở nên rất là khác biệt, và mình ăn kèm với lại rau mà luộc á nó rất là hòa hợp với nhau luôn.",
+      "start": 234.36,
+      "end": 249.12,
+      "n_words": 68,
+      "start_frame": 5859,
+      "end_frame": 6228,
+      "keyframes": [
+        "005859.webp",
+        "005906.webp",
+        "005954.webp",
+        "005955.webp",
+        "006003.webp",
+        "006051.webp",
+        "006052.webp",
+        "006139.webp",
+        "006227.webp",
+        "006228.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Thưa các bạn, để đạt được hiệu quả dinh dưỡng thì chúng ta có thể kết hợp món này với lại thực đơn khuyến nghị như sau.",
+      "start": 249.12,
+      "end": 257.6,
+      "n_words": 27,
+      "start_frame": 6228,
+      "end_frame": 6440,
+      "keyframes": [
+        "006228.webp",
+        "006275.webp",
+        "006322.webp",
+        "006323.webp",
+        "006385.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thật sự ngày hôm nay Minh Tuấn rất bất ngờ bởi vì món nghêu kho nước tương lại có thể ngon miệng đến như vậy và Minh Tuấn tin rằng tất cả các bạn khi mà chúng ta thực hiện món ăn này tại nhà, mọi người cũng sẽ bị chinh phục bởi độ ngon của món ăn này.",
+      "start": 257.6,
+      "end": 269.28,
+      "n_words": 59,
+      "start_frame": 6440,
+      "end_frame": 6732,
+      "keyframes": [
+        "006447.webp",
+        "006448.webp",
+        "006602.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hãy thử ngay nhé.",
+      "start": 269.28,
+      "end": 270.28,
+      "n_words": 4,
+      "start_frame": 6732,
+      "end_frame": 6757,
+      "keyframes": [
+        "006756.webp",
+        "006757.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Công thức sẽ luôn có trên YouTube, website và fanpage của chương trình để chúng ta có thể tham khảo.",
+      "start": 270.28,
+      "end": 275.12,
+      "n_words": 20,
+      "start_frame": 6757,
+      "end_frame": 6878,
+      "keyframes": [
+        "006757.webp",
+        "006831.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúc các bạn thành công.",
+      "start": 275.12,
+      "end": 277.04,
+      "n_words": 5,
+      "start_frame": 6878,
+      "end_frame": 6926,
+      "keyframes": [
+        "006905.webp",
+        "006906.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

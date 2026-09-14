@@ -1,0 +1,749 @@
+{
+  "video_id": "L26_V474",
+  "fps": 25.0,
+  "n_sentences": 43,
+  "total_words": 854,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.52,
+      "end": 14.44,
+      "n_words": 4,
+      "start_frame": 263,
+      "end_frame": 361,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000319.webp",
+        "000339.webp",
+        "000340.webp",
+        "000360.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Minh Tuấn vụ gì, vụ gì?",
+      "start": 14.44,
+      "end": 16.08,
+      "n_words": 6,
+      "start_frame": 361,
+      "end_frame": 402,
+      "keyframes": [
+        "000380.webp",
+        "000381.webp",
+        "000397.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mắc rất là nguy hiểm, không cần nói thêm nữa, Long đã hiểu rồi là cái gì.",
+      "start": 16.08,
+      "end": 24.88,
+      "n_words": 17,
+      "start_frame": 402,
+      "end_frame": 622,
+      "keyframes": [
+        "000414.webp",
+        "000415.webp",
+        "000445.webp",
+        "000475.webp",
+        "000476.webp",
+        "000499.webp",
+        "000523.webp",
+        "000524.webp",
+        "000544.webp",
+        "000565.webp",
+        "000566.webp",
+        "000594.webp",
+        "000622.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Bây giờ là đem hũ chao tới đây, mục đích là bắt tôi nấu một món gì đó đúng không? Đúng rồi, tôi quen quá rồi.",
+      "start": 24.88,
+      "end": 30.8,
+      "n_words": 26,
+      "start_frame": 622,
+      "end_frame": 770,
+      "keyframes": [
+        "000622.webp",
+        "000623.webp",
+        "000659.webp",
+        "000695.webp",
+        "000696.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thì mình chỉ mong ước là đem một hũ chao đến được đơn giản, nhanh, chao món gì cũng được, trừ vịt nấu chao cực kỳ.",
+      "start": 30.8,
+      "end": 39.08,
+      "n_words": 26,
+      "start_frame": 770,
+      "end_frame": 977,
+      "keyframes": [
+        "000795.webp",
+        "000895.webp",
+        "000896.webp",
+        "000934.webp",
+        "000972.webp",
+        "000973.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ Long phải làm món gì á mà ngon hấp dẫn?",
+      "start": 39.08,
+      "end": 42.72,
+      "n_words": 12,
+      "start_frame": 977,
+      "end_frame": 1068,
+      "keyframes": [
+        "001020.webp",
+        "001068.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thì giờ Tuấn có hũ chao rồi, bên kia cũng phải có cái gì xứng đáng đi, thí dụ như là vài miếng thịt thôi.",
+      "start": 42.72,
+      "end": 49.96,
+      "n_words": 25,
+      "start_frame": 1068,
+      "end_frame": 1249,
+      "keyframes": [
+        "001068.webp",
+        "001069.webp",
+        "001151.webp",
+        "001234.webp",
+        "001235.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Dọn đồ lên có cái gì nấu cái đó, ok.",
+      "start": 49.96,
+      "end": 55.2,
+      "n_words": 10,
+      "start_frame": 1249,
+      "end_frame": 1380,
+      "keyframes": [
+        "001267.webp",
+        "001299.webp",
+        "001300.webp",
+        "001313.webp",
+        "001327.webp",
+        "001328.webp",
+        "001352.webp",
+        "001377.webp",
+        "001378.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Sườn non kho chao mềm, thấm vị, ngon xuyến xao.",
+      "start": 55.2,
+      "end": 75.04,
+      "n_words": 10,
+      "start_frame": 1380,
+      "end_frame": 1876,
+      "keyframes": [
+        "001430.webp",
+        "001483.webp",
+        "001484.webp",
+        "001538.webp",
+        "001592.webp",
+        "001612.webp",
+        "001659.webp",
+        "001706.webp",
+        "001707.webp",
+        "001794.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Mến chào quý vị khán giả và các bạn đã quay trở lại với chương trình Món ngon mỗi ngày, được sự tài trợ của công ty Ajinomoto Việt Nam.",
+      "start": 75.04,
+      "end": 81.68,
+      "n_words": 30,
+      "start_frame": 1876,
+      "end_frame": 2042,
+      "keyframes": [
+        "001882.webp",
+        "001883.webp",
+        "001962.webp",
+        "002042.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Quả là một cái sự khôn khéo khi Tuấn đem đến một hũ chao và được nhận sườn non, quá lời, quá lời rồi.",
+      "start": 81.68,
+      "end": 89.36,
+      "n_words": 24,
+      "start_frame": 2042,
+      "end_frame": 2234,
+      "keyframes": [
+        "002042.webp",
+        "002043.webp",
+        "002060.webp",
+        "002078.webp",
+        "002079.webp",
+        "002132.webp",
+        "002186.webp",
+        "002187.webp",
+        "002217.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Công đoạn đầu tiên mình sẽ làm gì Long?",
+      "start": 89.36,
+      "end": 91.04,
+      "n_words": 9,
+      "start_frame": 2234,
+      "end_frame": 2276,
+      "keyframes": [
+        "002247.webp",
+        "002248.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Câu đầu tiên đó chính là mình sẽ ướp sườn.",
+      "start": 91.04,
+      "end": 93.0,
+      "n_words": 10,
+      "start_frame": 2276,
+      "end_frame": 2325,
+      "keyframes": [
+        "002286.webp",
+        "002325.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đầu tiên Long sẽ ướp vào đây là một muỗng canh hạt nêm Ajinomoto ngon heo, một muỗng cà phê bột ngọt Ajinomoto, một muỗng cà phê đường, nửa muỗng cà phê tiêu, một muỗng canh nước chao.",
+      "start": 93.0,
+      "end": 104.4,
+      "n_words": 38,
+      "start_frame": 2325,
+      "end_frame": 2610,
+      "keyframes": [
+        "002325.webp",
+        "002326.webp",
+        "002349.webp",
+        "002372.webp",
+        "002373.webp",
+        "002395.webp",
+        "002417.webp",
+        "002418.webp",
+        "002453.webp",
+        "002488.webp",
+        "002489.webp",
+        "002512.webp",
+        "002536.webp",
+        "002537.webp",
+        "002555.webp",
+        "002574.webp",
+        "002575.webp",
+        "002592.webp",
+        "002610.webp"
+      ],
+      "keyframe_count": 19
+    },
+    {
+      "text": "Đối với chao thì mình sẽ tán nhuyễn ra trước khi ướp, mình đã cho vào đây hai muỗng canh chao tán nhuyễn và một muỗng canh hành tỏi băm.",
+      "start": 105.96,
+      "end": 115.8,
+      "n_words": 30,
+      "start_frame": 2649,
+      "end_frame": 2895,
+      "keyframes": [
+        "002683.webp",
+        "002718.webp",
+        "002719.webp",
+        "002754.webp",
+        "002790.webp",
+        "002791.webp",
+        "002805.webp",
+        "002819.webp",
+        "002820.webp",
+        "002834.webp",
+        "002848.webp",
+        "002849.webp",
+        "002870.webp",
+        "002891.webp",
+        "002892.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Đối với món ăn này thì Hoàng Long sẽ tận dụng phần nước chao để tăng hương vị cho món ăn, mình sẽ trộn đều lên.",
+      "start": 115.8,
+      "end": 121.56,
+      "n_words": 26,
+      "start_frame": 2895,
+      "end_frame": 3039,
+      "keyframes": [
+        "002950.webp",
+        "003008.webp",
+        "003009.webp",
+        "003033.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đó là lý do vì sao mà Tuấn thấy là Long không có cho muối vào bởi vì mình đã có chao rồi và cái hương vị của chao thì nó tạo ra một cái điểm đặc biệt của món ăn này rồi.",
+      "start": 121.56,
+      "end": 130.04,
+      "n_words": 43,
+      "start_frame": 3039,
+      "end_frame": 3251,
+      "keyframes": [
+        "003058.webp",
+        "003059.webp",
+        "003106.webp",
+        "003153.webp",
+        "003154.webp",
+        "003195.webp",
+        "003236.webp",
+        "003237.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Trong khi chờ cái phần sườn bên kia nó hấp thụ toàn bộ tất cả những cái gia vị của mình thì bên đây mình sẽ cắt đúng không? Đúng rồi.",
+      "start": 130.04,
+      "end": 137.36,
+      "n_words": 31,
+      "start_frame": 3251,
+      "end_frame": 3434,
+      "keyframes": [
+        "003327.webp",
+        "003418.webp",
+        "003419.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi hành tây mình sẽ cắt, muối cao hành lá chừa gốc, hành lá thì mình sẽ cắt khúc rồi ớt thì mình cũng sẽ cắt khúc luôn đúng không Long?",
+      "start": 137.36,
+      "end": 148.72,
+      "n_words": 31,
+      "start_frame": 3434,
+      "end_frame": 3718,
+      "keyframes": [
+        "003494.webp",
+        "003570.webp",
+        "003571.webp",
+        "003601.webp",
+        "003632.webp",
+        "003633.webp",
+        "003659.webp",
+        "003686.webp",
+        "003687.webp",
+        "003707.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Đúng rồi, mình cắt khúc nhưng mà bỏ hạt.",
+      "start": 148.72,
+      "end": 156.0,
+      "n_words": 9,
+      "start_frame": 3718,
+      "end_frame": 3900,
+      "keyframes": [
+        "003727.webp",
+        "003728.webp",
+        "003747.webp",
+        "003766.webp",
+        "003767.webp",
+        "003775.webp",
+        "003784.webp",
+        "003785.webp",
+        "003813.webp",
+        "003842.webp",
+        "003843.webp",
+        "003848.webp",
+        "003854.webp",
+        "003890.webp",
+        "003891.webp",
+        "003892.webp",
+        "003893.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Long chuẩn bị một cái chảo để mình chuẩn bị mình kho đây.",
+      "start": 156.0,
+      "end": 158.92,
+      "n_words": 13,
+      "start_frame": 3900,
+      "end_frame": 3973,
+      "keyframes": [
+        "003929.webp",
+        "003965.webp",
+        "003966.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đây, hay lắm Tuấn ơi.",
+      "start": 158.92,
+      "end": 161.84,
+      "n_words": 5,
+      "start_frame": 3973,
+      "end_frame": 4046,
+      "keyframes": [
+        "004003.webp",
+        "004040.webp",
+        "004041.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cho vào một ít dầu, Long cho vào đây một ít hành tỏi xào thơm, phi thơm, sau đó Long sẽ cho phần thịt vào.",
+      "start": 161.84,
+      "end": 175.16,
+      "n_words": 25,
+      "start_frame": 4046,
+      "end_frame": 4379,
+      "keyframes": [
+        "004067.webp",
+        "004093.webp",
+        "004094.webp",
+        "004130.webp",
+        "004167.webp",
+        "004168.webp",
+        "004257.webp",
+        "004347.webp",
+        "004348.webp",
+        "004363.webp",
+        "004378.webp",
+        "004379.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Phần thịt vào mình sẽ xào thật là săn.",
+      "start": 175.16,
+      "end": 180.52,
+      "n_words": 9,
+      "start_frame": 4379,
+      "end_frame": 4513,
+      "keyframes": [
+        "004379.webp",
+        "004401.webp",
+        "004423.webp",
+        "004450.webp",
+        "004478.webp",
+        "004506.webp",
+        "004507.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Mùi thơm tỏa khắp gian bếp của Món ngon mỗi ngày.",
+      "start": 180.52,
+      "end": 184.08,
+      "n_words": 11,
+      "start_frame": 4513,
+      "end_frame": 4602,
+      "keyframes": [
+        "004562.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Mùi gì nè?",
+      "start": 184.08,
+      "end": 185.2,
+      "n_words": 3,
+      "start_frame": 4602,
+      "end_frame": 4630,
+      "keyframes": [
+        "004617.webp",
+        "004618.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Mùi của chao là đặc trưng nhất và sau đó là mùi của thịt mà mình gọi là nó tạo ra cái tương phản.",
+      "start": 185.2,
+      "end": 195.84,
+      "n_words": 24,
+      "start_frame": 4630,
+      "end_frame": 4896,
+      "keyframes": [
+        "004710.webp",
+        "004802.webp",
+        "004803.webp",
+        "004818.webp",
+        "004834.webp",
+        "004835.webp",
+        "004866.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Rồi khi mà cái phần thịt đã săn lại thì Long sẽ cho nước vào.",
+      "start": 195.84,
+      "end": 199.92,
+      "n_words": 15,
+      "start_frame": 4896,
+      "end_frame": 4998,
+      "keyframes": [
+        "004898.webp",
+        "004899.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Với cái khối lượng thịt như vậy thì mình sẽ cho khoảng bao nhiêu nước vào trong hả Long?",
+      "start": 199.92,
+      "end": 203.92,
+      "n_words": 19,
+      "start_frame": 4998,
+      "end_frame": 5098,
+      "keyframes": [
+        "005016.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Với cái lượng thịt như vậy thì Long sẽ cho vào đây khoảng một chén nước và sau đó mình sẽ đun cho đến khi phần thịt này thẩm thấu đều gia vị và cạn nước đi.",
+      "start": 203.92,
+      "end": 213.04,
+      "n_words": 37,
+      "start_frame": 5098,
+      "end_frame": 5326,
+      "keyframes": [
+        "005134.webp",
+        "005135.webp",
+        "005162.webp",
+        "005190.webp",
+        "005191.webp",
+        "005249.webp",
+        "005308.webp",
+        "005309.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Sau một thời gian mình đun và mình hầm cho cái phần thịt này thấm đầy gia vị và cạn nước đi thì bây giờ nó đã đạt rồi.",
+      "start": 213.04,
+      "end": 218.72,
+      "n_words": 29,
+      "start_frame": 5326,
+      "end_frame": 5468,
+      "keyframes": [
+        "005392.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Mình sẽ dỡ ra mình kiểm tra một lần cuối trước khi mình cho những nguyên liệu kia vào.",
+      "start": 218.72,
+      "end": 223.68,
+      "n_words": 19,
+      "start_frame": 5468,
+      "end_frame": 5592,
+      "keyframes": [
+        "005475.webp",
+        "005476.webp",
+        "005588.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bắt đầu nước nó kèo kẹo lại rất là Bây giờ mình sẽ cho vào đây nè, cho đây một ít ớt, ai mà sắc ớt nó đẹp, củ hành cắt cũng đẹp, ít hành lá hay gốc hành rồi mình trộn đều lên.",
+      "start": 223.68,
+      "end": 237.72,
+      "n_words": 44,
+      "start_frame": 5592,
+      "end_frame": 5943,
+      "keyframes": [
+        "005701.webp",
+        "005702.webp",
+        "005743.webp",
+        "005784.webp",
+        "005785.webp",
+        "005810.webp",
+        "005835.webp",
+        "005836.webp",
+        "005851.webp",
+        "005867.webp",
+        "005868.webp",
+        "005884.webp",
+        "005900.webp",
+        "005901.webp",
+        "005922.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Món này mà trời mưa lạnh lạnh ăn với một chút cơm nóng thì thôi còn gì bằng nữa.",
+      "start": 237.72,
+      "end": 243.92,
+      "n_words": 19,
+      "start_frame": 5943,
+      "end_frame": 6098,
+      "keyframes": [
+        "005944.webp",
+        "005945.webp",
+        "006000.webp",
+        "006056.webp",
+        "006057.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thật phúc, không cần phải trời mưa lạnh này, bây giờ mình sẽ thưởng thức luôn. Bếp nè.",
+      "start": 243.92,
+      "end": 248.84,
+      "n_words": 18,
+      "start_frame": 6098,
+      "end_frame": 6221,
+      "keyframes": [
+        "006112.webp",
+        "006167.webp",
+        "006168.webp",
+        "006198.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Rồi quá hấp dẫn, miếng sườn áo đều toàn bộ gia vị, cháy nhẹ bên ngoài nhìn cực kỳ hấp dẫn.",
+      "start": 248.84,
+      "end": 259.24,
+      "n_words": 21,
+      "start_frame": 6221,
+      "end_frame": 6481,
+      "keyframes": [
+        "006228.webp",
+        "006229.webp",
+        "006253.webp",
+        "006278.webp",
+        "006279.webp",
+        "006294.webp",
+        "006309.webp",
+        "006310.webp",
+        "006349.webp",
+        "006389.webp",
+        "006390.webp",
+        "006422.webp",
+        "006454.webp",
+        "006455.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Mùi thì thơm, rắc tiêu để làm tăng thêm mùi thơm, rất là thơm.",
+      "start": 259.24,
+      "end": 265.28,
+      "n_words": 14,
+      "start_frame": 6481,
+      "end_frame": 6632,
+      "keyframes": [
+        "006482.webp",
+        "006510.webp",
+        "006511.webp",
+        "006555.webp",
+        "006600.webp",
+        "006601.webp",
+        "006631.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Như vậy là món ăn của chúng ta đã hoàn thành.",
+      "start": 265.28,
+      "end": 267.16,
+      "n_words": 11,
+      "start_frame": 6632,
+      "end_frame": 6679,
+      "keyframes": [
+        "006662.webp",
+        "006663.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Minh Tuấn ơi!",
+      "start": 267.16,
+      "end": 267.92,
+      "n_words": 3,
+      "start_frame": 6679,
+      "end_frame": 6698,
+      "keyframes": [
+        "006680.webp",
+        "006697.webp",
+        "006698.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cảm ơn Long rất nhiều.",
+      "start": 267.92,
+      "end": 269.16,
+      "n_words": 5,
+      "start_frame": 6698,
+      "end_frame": 6729,
+      "keyframes": [
+        "006698.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và hãy như Tuấn nha, đổi một hũ chao lấy một dĩa sườn kho chao.",
+      "start": 269.16,
+      "end": 273.36,
+      "n_words": 15,
+      "start_frame": 6729,
+      "end_frame": 6834,
+      "keyframes": [
+        "006764.webp",
+        "006831.webp",
+        "006832.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Sườn kho có màu nâu óng ánh, cắn một miếng thịt mềm mềm, thấm vị, thơm thơm, béo béo của chao làm tăng thêm sự đậm đà của sườn non, một sự kết hợp hoàn hảo đảm bảo bắt cơm. Chỉ cần một chút biến tấu, chúng ta đã tạo ra một món ăn với hương vị khác biệt.",
+      "start": 273.36,
+      "end": 289.68,
+      "n_words": 59,
+      "start_frame": 6834,
+      "end_frame": 7242,
+      "keyframes": [
+        "006858.webp",
+        "006884.webp",
+        "006900.webp",
+        "006940.webp",
+        "006981.webp",
+        "006982.webp",
+        "007067.webp",
+        "007153.webp",
+        "007154.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Muốn biết món ngày hôm nay như thế nào, các bạn hãy làm ngay tại nhà của mình nhé.",
+      "start": 289.68,
+      "end": 294.44,
+      "n_words": 19,
+      "start_frame": 7242,
+      "end_frame": 7361,
+      "keyframes": [
+        "007248.webp",
+        "007342.webp",
+        "007343.webp"
+      ],
+      "keyframe_count": 3
+    }
+  ]
+}

@@ -1,0 +1,889 @@
+{
+  "video_id": "L26_V254",
+  "fps": 25.0,
+  "n_sentences": 52,
+  "total_words": 926,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày: Một con nghêu chứa 2.7 mg sắt, mà một người nữ trưởng thành cần 15 mg sắt, vậy thì cần sáu con.",
+      "start": 10.48,
+      "end": 20.2,
+      "n_words": 26,
+      "start_frame": 262,
+      "end_frame": 505,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000390.webp",
+        "000481.webp",
+        "000482.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Một người nam như Long thì cần 10 mg sắt thôi, cho nên là Kim Thảo sẽ để đây cho Long ba con rưỡi thôi.",
+      "start": 20.2,
+      "end": 28.44,
+      "n_words": 25,
+      "start_frame": 505,
+      "end_frame": 711,
+      "keyframes": [
+        "000515.webp",
+        "000549.webp",
+        "000550.webp",
+        "000584.webp",
+        "000618.webp",
+        "000619.webp",
+        "000660.webp",
+        "000702.webp",
+        "000703.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Không được đâu, không có đủ ba con là khát, không có đỡ thèm rồi đó.",
+      "start": 28.44,
+      "end": 31.12,
+      "n_words": 16,
+      "start_frame": 711,
+      "end_frame": 778,
+      "keyframes": [
+        "000738.webp",
+        "000774.webp",
+        "000775.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Vậy thì bây giờ vậy ha, mình ăn đủ lượng nhưng mà phải ăn đã thèm, thì nhiệm vụ còn lại là Long phải nghĩ ra một món gì đó ngon ngon ăn đã thèm mà đủ lượng á ít như vậy.",
+      "start": 31.12,
+      "end": 43.24,
+      "n_words": 42,
+      "start_frame": 778,
+      "end_frame": 1081,
+      "keyframes": [
+        "000872.webp",
+        "000970.webp",
+        "000971.webp",
+        "001040.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chắc chỉ đem kho thôi.",
+      "start": 43.24,
+      "end": 44.64,
+      "n_words": 5,
+      "start_frame": 1081,
+      "end_frame": 1116,
+      "keyframes": [
+        "001109.webp",
+        "001110.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nghêu kho hả?",
+      "start": 44.64,
+      "end": 46.12,
+      "n_words": 3,
+      "start_frame": 1116,
+      "end_frame": 1153,
+      "keyframes": [
+        "001126.webp",
+        "001143.webp",
+        "001144.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nghêu kho tộ, món mới ta, cực thơm đúng điệu với nghêu kho tộ. Chào các bạn đã quay trở lại với chương trình Món ngon mỗi ngày.",
+      "start": 46.12,
+      "end": 71.52,
+      "n_words": 28,
+      "start_frame": 1153,
+      "end_frame": 1788,
+      "keyframes": [
+        "001161.webp",
+        "001178.webp",
+        "001179.webp",
+        "001201.webp",
+        "001224.webp",
+        "001225.webp",
+        "001249.webp",
+        "001274.webp",
+        "001275.webp",
+        "001310.webp",
+        "001346.webp",
+        "001347.webp",
+        "001380.webp",
+        "001413.webp",
+        "001428.webp",
+        "001483.webp",
+        "001539.webp",
+        "001540.webp",
+        "001630.webp",
+        "001720.webp",
+        "001721.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 71.52,
+      "end": 75.8,
+      "n_words": 11,
+      "start_frame": 1788,
+      "end_frame": 1895,
+      "keyframes": [
+        "001808.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ lấy cho Long một cái nồi nước đi. Có cái nồi đây rồi.",
+      "start": 75.8,
+      "end": 79.64,
+      "n_words": 15,
+      "start_frame": 1895,
+      "end_frame": 1991,
+      "keyframes": [
+        "001896.webp",
+        "001897.webp",
+        "001919.webp",
+        "001941.webp",
+        "001942.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cảm ơn Kim Thảo nha. Gửi nắp giùm Long.",
+      "start": 79.64,
+      "end": 82.24,
+      "n_words": 9,
+      "start_frame": 1991,
+      "end_frame": 2056,
+      "keyframes": [
+        "002009.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ Long sẽ cần một ít sả cây, mình gặp dọc mình cắt khúc.",
+      "start": 82.24,
+      "end": 86.92,
+      "n_words": 15,
+      "start_frame": 2056,
+      "end_frame": 2173,
+      "keyframes": [
+        "002076.webp",
+        "002077.webp",
+        "002104.webp",
+        "002131.webp",
+        "002132.webp",
+        "002152.webp",
+        "002172.webp",
+        "002173.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Đúng rồi, mình mở bếp lên nè, nóng lên mình cho xíu dầu vào phần sả này, tinh dầu trong sả sẽ tiết ra.",
+      "start": 86.92,
+      "end": 92.8,
+      "n_words": 24,
+      "start_frame": 2173,
+      "end_frame": 2320,
+      "keyframes": [
+        "002173.webp",
+        "002192.webp",
+        "002211.webp",
+        "002212.webp",
+        "002237.webp",
+        "002263.webp",
+        "002264.webp",
+        "002278.webp",
+        "002292.webp",
+        "002293.webp",
+        "002305.webp",
+        "002318.webp",
+        "002319.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Cho một chén nước nóng và mình đun sôi trở lại.",
+      "start": 92.8,
+      "end": 95.16,
+      "n_words": 11,
+      "start_frame": 2320,
+      "end_frame": 2379,
+      "keyframes": [
+        "002348.webp",
+        "002378.webp",
+        "002379.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi bây giờ nước đã sôi rồi đó.",
+      "start": 95.16,
+      "end": 96.84,
+      "n_words": 8,
+      "start_frame": 2379,
+      "end_frame": 2421,
+      "keyframes": [
+        "002379.webp",
+        "002400.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Lúc này với cái lượng nghêu này cho lần lượt vào, phân nửa lượng nghêu mình đậy nắp lại, mình thấy nó mở miệng ra thì mình sẽ vớt ra.",
+      "start": 96.84,
+      "end": 102.6,
+      "n_words": 30,
+      "start_frame": 2421,
+      "end_frame": 2565,
+      "keyframes": [
+        "002422.webp",
+        "002423.webp",
+        "002452.webp",
+        "002482.webp",
+        "002483.webp",
+        "002523.webp",
+        "002563.webp",
+        "002564.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Các bạn lưu ý là với món ăn này, chúng ta chọn những con nghêu vỏ còn sáng bóng, kín miệng và mình cầm chắc tay sẽ ngon hơn.",
+      "start": 102.6,
+      "end": 110.8,
+      "n_words": 29,
+      "start_frame": 2565,
+      "end_frame": 2770,
+      "keyframes": [
+        "002656.webp",
+        "002748.webp",
+        "002749.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mình đảo đều, sắp được rồi đó, có một con được rồi nè.",
+      "start": 110.8,
+      "end": 119.32,
+      "n_words": 13,
+      "start_frame": 2770,
+      "end_frame": 2983,
+      "keyframes": [
+        "002815.webp",
+        "002881.webp",
+        "002882.webp",
+        "002904.webp",
+        "002926.webp",
+        "002927.webp",
+        "002937.webp",
+        "002948.webp",
+        "002949.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đây các bạn lưu ý là với món ăn này là khi mình luộc nghêu á, mình chỉ cần thấy nghêu vừa mở miệng ra thôi mình sẽ vớt ra ngay để thịt nghêu nó không bị tóp lại.",
+      "start": 119.32,
+      "end": 131.92,
+      "n_words": 39,
+      "start_frame": 2983,
+      "end_frame": 3298,
+      "keyframes": [
+        "003021.webp",
+        "003093.webp",
+        "003094.webp",
+        "003177.webp",
+        "003261.webp",
+        "003262.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thấy lạ không?",
+      "start": 131.92,
+      "end": 133.4,
+      "n_words": 3,
+      "start_frame": 3298,
+      "end_frame": 3335,
+      "keyframes": [
+        "003314.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Lúc này là ăn được rồi đó.",
+      "start": 133.4,
+      "end": 134.8,
+      "n_words": 7,
+      "start_frame": 3335,
+      "end_frame": 3370,
+      "keyframes": [
+        "003367.webp",
+        "003368.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rót cho hết cái phần nghêu này vào.",
+      "start": 134.8,
+      "end": 136.48,
+      "n_words": 8,
+      "start_frame": 3370,
+      "end_frame": 3412,
+      "keyframes": [
+        "003388.webp",
+        "003409.webp",
+        "003410.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nghêu là có sắt, rất là tốt cho cơ thể, bên cạnh đó còn có chứa vitamin nhóm B và C làm cho cơ thể sẽ tràn đầy sức sống.",
+      "start": 136.48,
+      "end": 145.16,
+      "n_words": 30,
+      "start_frame": 3412,
+      "end_frame": 3629,
+      "keyframes": [
+        "003427.webp",
+        "003445.webp",
+        "003446.webp",
+        "003469.webp",
+        "003492.webp",
+        "003493.webp",
+        "003559.webp",
+        "003626.webp",
+        "003627.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đúng rồi đó và nhiệm vụ Kim Thảo đây.",
+      "start": 145.16,
+      "end": 147.52,
+      "n_words": 9,
+      "start_frame": 3629,
+      "end_frame": 3688,
+      "keyframes": [
+        "003648.webp",
+        "003669.webp",
+        "003670.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Kim Thảo biết mà, chuẩn bị sẵn đồ nghề hết rồi.",
+      "start": 147.52,
+      "end": 149.56,
+      "n_words": 11,
+      "start_frame": 3688,
+      "end_frame": 3739,
+      "keyframes": [
+        "003704.webp",
+        "003738.webp",
+        "003739.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trong thời gian mà Kim Thảo đang làm cái phần nghêu á, thì ớt này thì Long sẽ chẻ đôi, sau đó đập dập.",
+      "start": 149.56,
+      "end": 155.4,
+      "n_words": 24,
+      "start_frame": 3739,
+      "end_frame": 3885,
+      "keyframes": [
+        "003739.webp",
+        "003755.webp",
+        "003772.webp",
+        "003773.webp",
+        "003788.webp",
+        "003804.webp",
+        "003805.webp",
+        "003816.webp",
+        "003828.webp",
+        "003829.webp",
+        "003845.webp",
+        "003861.webp",
+        "003862.webp",
+        "003877.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Cái đấy là hành lá, mình chỉ cần ít hành lá mình rắc lên trên sau khi mình kho, nó tạo một cái màu xanh.",
+      "start": 155.4,
+      "end": 162.72,
+      "n_words": 25,
+      "start_frame": 3885,
+      "end_frame": 4068,
+      "keyframes": [
+        "003893.webp",
+        "003894.webp",
+        "003912.webp",
+        "003930.webp",
+        "003931.webp",
+        "003962.webp",
+        "003993.webp",
+        "003994.webp",
+        "004017.webp",
+        "004040.webp",
+        "004041.webp",
+        "004053.webp",
+        "004065.webp",
+        "004066.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Cái gốc hành này Long sẽ cắt khúc.",
+      "start": 162.72,
+      "end": 165.08,
+      "n_words": 8,
+      "start_frame": 4068,
+      "end_frame": 4127,
+      "keyframes": [
+        "004089.webp",
+        "004113.webp",
+        "004114.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Vậy là xong hả?",
+      "start": 165.08,
+      "end": 166.0,
+      "n_words": 4,
+      "start_frame": 4127,
+      "end_frame": 4150,
+      "keyframes": [
+        "004130.webp",
+        "004147.webp",
+        "004148.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng rồi, như vậy mình xong đây.",
+      "start": 166.0,
+      "end": 168.4,
+      "n_words": 7,
+      "start_frame": 4150,
+      "end_frame": 4210,
+      "keyframes": [
+        "004173.webp",
+        "004198.webp",
+        "004199.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Gỡ rất là đều tay luôn, con nào nó tròn đều.",
+      "start": 168.64,
+      "end": 171.32,
+      "n_words": 11,
+      "start_frame": 4216,
+      "end_frame": 4283,
+      "keyframes": [
+        "004225.webp",
+        "004251.webp",
+        "004252.webp",
+        "004269.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ Long sẽ ướp vào đây ba muỗng canh nước tương Phù Sĩ, trộn đều nó từ từ lên cái đã.",
+      "start": 171.32,
+      "end": 180.68,
+      "n_words": 22,
+      "start_frame": 4283,
+      "end_frame": 4517,
+      "keyframes": [
+        "004287.webp",
+        "004288.webp",
+        "004335.webp",
+        "004383.webp",
+        "004384.webp",
+        "004414.webp",
+        "004445.webp",
+        "004446.webp",
+        "004481.webp",
+        "004517.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Long cho vào đây một muỗng cà phê hạt nêm Aji-ngon heo, nửa muỗng cà phê tiêu, một muỗng canh hành tỏi băm, nửa muỗng cà phê đường, nửa muỗng cà phê ớt bột vảy và mình sẽ trộn đều lên, nhẹ thôi rồi mình ướp chút xíu.",
+      "start": 180.68,
+      "end": 199.04,
+      "n_words": 48,
+      "start_frame": 4517,
+      "end_frame": 4976,
+      "keyframes": [
+        "004517.webp",
+        "004518.webp",
+        "004536.webp",
+        "004555.webp",
+        "004556.webp",
+        "004576.webp",
+        "004597.webp",
+        "004598.webp",
+        "004609.webp",
+        "004620.webp",
+        "004621.webp",
+        "004641.webp",
+        "004661.webp",
+        "004662.webp",
+        "004693.webp",
+        "004725.webp",
+        "004726.webp",
+        "004757.webp",
+        "004789.webp",
+        "004790.webp",
+        "004803.webp",
+        "004817.webp",
+        "004818.webp",
+        "004842.webp",
+        "004867.webp",
+        "004868.webp",
+        "004883.webp",
+        "004899.webp",
+        "004900.webp",
+        "004936.webp",
+        "004972.webp",
+        "004973.webp"
+      ],
+      "keyframe_count": 32
+    },
+    {
+      "text": "Rồi bây giờ mình chuẩn bị việc kho.",
+      "start": 199.04,
+      "end": 201.12,
+      "n_words": 8,
+      "start_frame": 4976,
+      "end_frame": 5028,
+      "keyframes": [
+        "004998.webp",
+        "005023.webp",
+        "005024.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Kim Thảo nghĩ cái nồi này vừa rồi nè.",
+      "start": 201.12,
+      "end": 202.64,
+      "n_words": 9,
+      "start_frame": 5028,
+      "end_frame": 5066,
+      "keyframes": [
+        "005038.webp",
+        "005052.webp",
+        "005053.webp",
+        "005066.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đúng rồi đó, mình mở bếp lên nè.",
+      "start": 202.64,
+      "end": 204.6,
+      "n_words": 8,
+      "start_frame": 5066,
+      "end_frame": 5115,
+      "keyframes": [
+        "005066.webp",
+        "005079.webp",
+        "005080.webp",
+        "005095.webp",
+        "005111.webp",
+        "005112.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Long cho vào hai muỗng canh dầu đều rồi khi mà dầu nóng lên thì Long phải cho vào một muỗng canh hành tỏi băm, mình phi thơm lên.",
+      "start": 204.6,
+      "end": 211.32,
+      "n_words": 29,
+      "start_frame": 5115,
+      "end_frame": 5283,
+      "keyframes": [
+        "005147.webp",
+        "005182.webp",
+        "005183.webp",
+        "005231.webp",
+        "005280.webp",
+        "005281.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Có màu đẹp rồi, có mùi thơm rồi đúng không ạ?",
+      "start": 211.32,
+      "end": 214.0,
+      "n_words": 11,
+      "start_frame": 5283,
+      "end_frame": 5350,
+      "keyframes": [
+        "005315.webp",
+        "005349.webp",
+        "005350.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ Long cho phần nghêu vào nha, nhẹ nhàng cho từ từ vào rồi mình đảo đều.",
+      "start": 214.0,
+      "end": 217.8,
+      "n_words": 18,
+      "start_frame": 5350,
+      "end_frame": 5445,
+      "keyframes": [
+        "005350.webp",
+        "005388.webp",
+        "005427.webp",
+        "005428.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Nghêu của mình nó cũng đã chín rồi, mình sẽ xào nhanh và lửa lớn.",
+      "start": 219.0,
+      "end": 223.08,
+      "n_words": 15,
+      "start_frame": 5475,
+      "end_frame": 5577,
+      "keyframes": [
+        "005475.webp",
+        "005491.webp",
+        "005507.webp",
+        "005508.webp",
+        "005540.webp",
+        "005573.webp",
+        "005574.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cho hai trái ớt vào nè, cho tí xíu hành vô.",
+      "start": 223.08,
+      "end": 226.96,
+      "n_words": 11,
+      "start_frame": 5577,
+      "end_frame": 5674,
+      "keyframes": [
+        "005593.webp",
+        "005612.webp",
+        "005613.webp",
+        "005632.webp",
+        "005652.webp",
+        "005653.webp",
+        "005673.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Khi cái phần nghêu này chín thì Long sẽ cho cái phần hành lá vào luôn.",
+      "start": 226.96,
+      "end": 230.76,
+      "n_words": 16,
+      "start_frame": 5674,
+      "end_frame": 5769,
+      "keyframes": [
+        "005694.webp",
+        "005695.webp",
+        "005732.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ Long sẽ tắt bếp.",
+      "start": 230.76,
+      "end": 232.0,
+      "n_words": 6,
+      "start_frame": 5769,
+      "end_frame": 5800,
+      "keyframes": [
+        "005770.webp",
+        "005771.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Các bạn và Kim Thảo lưu ý là với món nghêu kho tộ này, chúng ta sẽ không kho quá lâu tại vì nếu mình kho lâu thì nghêu sẽ bị dai và nó khô là nó sẽ không ngon nữa.",
+      "start": 232.0,
+      "end": 240.56,
+      "n_words": 41,
+      "start_frame": 5800,
+      "end_frame": 6014,
+      "keyframes": [
+        "005803.webp",
+        "005836.webp",
+        "005837.webp",
+        "005924.webp",
+        "006012.webp",
+        "006013.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Để có thể nhớ chi tiết công thức của món ăn ngày hôm nay thì quý vị và các bạn có thể quét mã QR của chúng tôi ở trên màn hình nhé.",
+      "start": 240.56,
+      "end": 250.4,
+      "n_words": 33,
+      "start_frame": 6014,
+      "end_frame": 6260,
+      "keyframes": [
+        "006025.webp",
+        "006037.webp",
+        "006038.webp",
+        "006125.webp",
+        "006212.webp",
+        "006213.webp",
+        "006237.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Bây giờ mình chỉ múc ra thôi nha.",
+      "start": 250.4,
+      "end": 254.04,
+      "n_words": 8,
+      "start_frame": 6260,
+      "end_frame": 6351,
+      "keyframes": [
+        "006262.webp",
+        "006263.webp",
+        "006277.webp",
+        "006291.webp",
+        "006292.webp",
+        "006334.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Trời quá đã sao hay quá ta!",
+      "start": 254.04,
+      "end": 256.36,
+      "n_words": 7,
+      "start_frame": 6351,
+      "end_frame": 6409,
+      "keyframes": [
+        "006377.webp",
+        "006378.webp",
+        "006388.webp",
+        "006398.webp",
+        "006399.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Của nghêu nhìn rất là thấm vị luôn á.",
+      "start": 256.64,
+      "end": 259.24,
+      "n_words": 9,
+      "start_frame": 6416,
+      "end_frame": 6481,
+      "keyframes": [
+        "006437.webp",
+        "006476.webp",
+        "006477.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi mình cho lên trên đây một chút xíu ớt, thêm một chút xíu hành lên trên, hấp dẫn quá.",
+      "start": 259.24,
+      "end": 266.68,
+      "n_words": 20,
+      "start_frame": 6481,
+      "end_frame": 6667,
+      "keyframes": [
+        "006513.webp",
+        "006549.webp",
+        "006550.webp",
+        "006585.webp",
+        "006621.webp",
+        "006622.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và để tạo nên một bữa ăn hoàn chỉnh thì Long khuyến khích cả nhà mình á nên ăn kèm với món rau xào thập cẩm.",
+      "start": 266.68,
+      "end": 273.32,
+      "n_words": 26,
+      "start_frame": 6667,
+      "end_frame": 6833,
+      "keyframes": [
+        "006675.webp",
+        "006728.webp",
+        "006729.webp",
+        "006777.webp",
+        "006826.webp",
+        "006827.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Vị ngọt béo tự nhiên của nghêu tươi cùng vị cay nồng từ ớt và tiêu, một món kho ngon đậm đà ăn với cơm là chuẩn bài.",
+      "start": 273.32,
+      "end": 283.6,
+      "n_words": 28,
+      "start_frame": 6833,
+      "end_frame": 7090,
+      "keyframes": [
+        "006857.webp",
+        "006888.webp",
+        "006903.webp",
+        "006930.webp",
+        "006957.webp",
+        "006958.webp",
+        "007020.webp",
+        "007082.webp",
+        "007083.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Nghêu kho tộ không ăn là lỗ đấy ạ, các bạn hãy làm thử ngay nhé.",
+      "start": 283.6,
+      "end": 288.44,
+      "n_words": 16,
+      "start_frame": 7090,
+      "end_frame": 7211,
+      "keyframes": [
+        "007145.webp",
+        "007208.webp",
+        "007209.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và nếu như muốn cần thêm thông tin chi tiết của món ăn ngày hôm nay hoặc là những món ngon khác nữa thì các bạn có thể truy cập vào YouTube, website, fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 288.44,
+      "end": 300.4,
+      "n_words": 41,
+      "start_frame": 7211,
+      "end_frame": 7510,
+      "keyframes": [
+        "007349.webp",
+        "007489.webp",
+        "007490.webp"
+      ],
+      "keyframe_count": 3
+    }
+  ]
+}

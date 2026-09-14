@@ -1,0 +1,1608 @@
+{
+  "video_id": "L25_V052",
+  "fps": 29.97,
+  "n_sentences": 98,
+  "total_words": 4846,
+  "sentences": [
+    {
+      "text": "Xin chào tất cả các em. Hôm nay chúng ta sẽ tiếp tục với chuyên đề thứ năm là các bài toán về số phức và ứng dụng của hình học trong số phức.",
+      "start": 7.2,
+      "end": 17.28,
+      "n_words": 34,
+      "start_frame": 216,
+      "end_frame": 518,
+      "keyframes": [
+        "000231.webp",
+        "000232.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Trong những năm qua, thì số phức luôn là một cái chủ đề mà thường xuyên xuất hiện trong các câu vận dụng thấp cũng như là vận dụng cao trong đề thi trung học phổ thông quốc gia. Thì trong chuyên đề này, thầy sẽ giới thiệu cho các em một số phương pháp để giúp chúng ta có thể giải quyết nhanh chóng và dễ dàng các bài toán liên quan đến số phức.",
+      "start": 17.28,
+      "end": 35.0,
+      "n_words": 76,
+      "start_frame": 518,
+      "end_frame": 1049,
+      "keyframes": [
+        "000676.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thầy trò chúng ta cùng nhau đi vào bài học.",
+      "start": 35.0,
+      "end": 37.4,
+      "n_words": 10,
+      "start_frame": 1049,
+      "end_frame": 1121,
+      "keyframes": [
+        "001121.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trường Đại học Quốc tế Sài Gòn không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SI nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt.",
+      "start": 37.4,
+      "end": 48.24,
+      "n_words": 38,
+      "start_frame": 1121,
+      "end_frame": 1446,
+      "keyframes": [
+        "001121.webp",
+        "001122.webp",
+        "001138.webp",
+        "001155.webp",
+        "001156.webp",
+        "001174.webp",
+        "001193.webp",
+        "001194.webp",
+        "001220.webp",
+        "001247.webp",
+        "001248.webp",
+        "001258.webp",
+        "001268.webp",
+        "001269.webp",
+        "001279.webp",
+        "001289.webp",
+        "001290.webp",
+        "001300.webp",
+        "001310.webp",
+        "001311.webp",
+        "001325.webp",
+        "001339.webp",
+        "001340.webp",
+        "001350.webp",
+        "001361.webp",
+        "001386.webp",
+        "001390.webp",
+        "001395.webp",
+        "001396.webp",
+        "001416.webp",
+        "001436.webp",
+        "001437.webp"
+      ],
+      "keyframe_count": 32
+    },
+    {
+      "text": "SI mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới, trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.",
+      "start": 48.24,
+      "end": 58.96,
+      "n_words": 39,
+      "start_frame": 1446,
+      "end_frame": 1767,
+      "keyframes": [
+        "001454.webp",
+        "001471.webp",
+        "001472.webp",
+        "001488.webp",
+        "001505.webp",
+        "001506.webp",
+        "001527.webp",
+        "001549.webp",
+        "001550.webp",
+        "001569.webp",
+        "001589.webp",
+        "001590.webp",
+        "001608.webp",
+        "001626.webp",
+        "001627.webp",
+        "001647.webp",
+        "001667.webp",
+        "001668.webp",
+        "001692.webp",
+        "001716.webp",
+        "001717.webp",
+        "001727.webp",
+        "001737.webp",
+        "001738.webp",
+        "001747.webp",
+        "001756.webp",
+        "001766.webp"
+      ],
+      "keyframe_count": 27
+    },
+    {
+      "text": "Năm 2024, SI tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng bốn phương thức tuyển sinh.",
+      "start": 58.96,
+      "end": 67.6,
+      "n_words": 23,
+      "start_frame": 1767,
+      "end_frame": 2026,
+      "keyframes": [
+        "001782.webp",
+        "001798.webp",
+        "001799.webp",
+        "001817.webp",
+        "001836.webp",
+        "001837.webp",
+        "001855.webp",
+        "001874.webp",
+        "001875.webp",
+        "001896.webp",
+        "001918.webp",
+        "001919.webp",
+        "001936.webp",
+        "001954.webp",
+        "001983.webp",
+        "002002.webp",
+        "002022.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "SI cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SI, 100 suất học bổng Tiếp bước hành trình Quỹ tài năng trẻ, học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa, thể thao, nghệ thuật, học bổng Đồng hành xây dựng nhân lực chất lượng cao cho thành phố Thủ Đức, thành phố Hồ Chí Minh, học bổng doanh nghiệp tài trợ, học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.",
+      "start": 67.6,
+      "end": 94.12,
+      "n_words": 106,
+      "start_frame": 2026,
+      "end_frame": 2821,
+      "keyframes": [
+        "002028.webp",
+        "002052.webp",
+        "002076.webp",
+        "002091.webp",
+        "002110.webp",
+        "002129.webp",
+        "002130.webp",
+        "002162.webp",
+        "002195.webp",
+        "002196.webp",
+        "002231.webp",
+        "002266.webp",
+        "002267.webp",
+        "002282.webp",
+        "002298.webp",
+        "002360.webp",
+        "002370.webp",
+        "002380.webp",
+        "002381.webp",
+        "002398.webp",
+        "002415.webp",
+        "002416.webp",
+        "002422.webp",
+        "002429.webp",
+        "002430.webp",
+        "002440.webp",
+        "002451.webp",
+        "002452.webp",
+        "002470.webp",
+        "002489.webp",
+        "002490.webp",
+        "002508.webp",
+        "002526.webp",
+        "002527.webp",
+        "002549.webp",
+        "002571.webp",
+        "002572.webp",
+        "002592.webp",
+        "002612.webp",
+        "002613.webp",
+        "002636.webp",
+        "002659.webp",
+        "002660.webp",
+        "002678.webp",
+        "002696.webp",
+        "002697.webp",
+        "002713.webp",
+        "002729.webp",
+        "002730.webp",
+        "002751.webp",
+        "002773.webp",
+        "002774.webp",
+        "002792.webp",
+        "002810.webp",
+        "002811.webp"
+      ],
+      "keyframe_count": 55
+    },
+    {
+      "text": "SI: Tâm hồn Việt Nam, giáo dục thế giới. Bây giờ chúng ta sẽ xét một số cái ví dụ. Đầu tiên là ví dụ thứ nhất là một bài toán về tìm số phức.",
+      "start": 94.12,
+      "end": 105.28,
+      "n_words": 35,
+      "start_frame": 2821,
+      "end_frame": 3155,
+      "keyframes": [
+        "002824.webp",
+        "002837.webp",
+        "002853.webp",
+        "002886.webp",
+        "002919.webp",
+        "002920.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Ví dụ: Một số phức thỏa mãn z + 2$\\bar{z}$ = 1 + 5i, tất cả mũ 2 có phần ảo là Đối với các bài toán về số phức, thì cách làm chung là chúng ta sẽ đặt z = x + iy và chúng ta sẽ đi tìm x và y. Bây giờ chúng ta sẽ thay cái z này vào cái phương trình của đề bài. Z chúng ta thay bằng x + iy, $\\bar{z}$ là số phức liên hợp chúng ta sẽ thay bằng x - iy. Vế phải chúng ta tính được là -24 + 10i. Bây giờ vế trái chúng ta sẽ gom phần thực với phần ảo lại.",
+      "start": 105.28,
+      "end": 147.76,
+      "n_words": 115,
+      "start_frame": 3155,
+      "end_frame": 4428,
+      "keyframes": [
+        "003177.webp",
+        "003435.webp",
+        "003436.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Phần thực chúng ta có thể thấy x + 2x là bằng 3x, chính là phần thực; Phần ảo là iy trừ cho 2iy là bằng -iy. Lúc này chúng ta được hai số phức bằng nhau, do đó chúng ta sẽ có phần thực bằng phần thực, phần ảo bằng phần ảo. Tức là 3x thì bằng -24, -y thì bằng 10. Lúc này chúng ta sẽ giải ra được x bằng -8 và y bằng -10. Vậy thì cái số $= -7 + 3y + z$. Yêu cầu tính mô đun của số phức $v_k$ là $= 1 - z + z^2$. Phương pháp tương tự như ví dụ 1, chúng ta sẽ đặt $z = x + iy$. Lúc này chúng ta sẽ thay vào phương trình đề bài. Dĩ nhiên mô đun $z$ chính là $= \\sqrt{x^2 + y^2}$, $z$ ngang chúng ta thay $= x - iy$ và chúng ta chuyển qua bên vế phải. Tương tự $z$ chúng ta cũng thay $= x + iy$. Bây giờ vế phải chúng ta sẽ cố gắng gom phần thực với phần ảo lại. Phần thực chúng ta thấy là chúng ta có $2x$ là phần thực, trừ 7 cộng $x$, ta được $3x - 7$ là phần thực. Tương tự phần ảo, chúng ta đặt $y$ làm nhân tử chung, bên trong sẽ còn lại là $3 - y$. Bây giờ chúng ta được hai số phức bằng nhau thì lúc này ta sẽ suy ra ngay được là $3 - y = 0$ bởi vì số phức bên trái không có phần ảo. Lúc này ta giải ra được $y = 3$. Tiếp theo chúng ta cho phần thực = phần thực, tức là $\\sqrt{x^2 + y^2} = 3x - 7$ và $y$ chúng ta thay $= 3$, chúng ta được $\\sqrt{x^2 + 9} = 3x - 7$. Đến đây chúng ta sẽ giải $x$ ra.",
+      "start": 147.76,
+      "end": 291.0,
+      "n_words": 321,
+      "start_frame": 4428,
+      "end_frame": 8721,
+      "keyframes": [
+        "004577.webp",
+        "005719.webp",
+        "005720.webp",
+        "006066.webp",
+        "006413.webp",
+        "006414.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Giải $x$ ra thì đây là một dạng phương trình căn thức quen thuộc. Đầu tiên chúng ta phải có điều kiện $3x - 7 \\ge 0$. Sau đó chúng ta bình phương hai vế, chúng ta thu được phương trình bậc hai là $x^2 - 42x + 40 = 0$. Điều kiện chúng ta giải ra được $x \\ge 7/3$. Phương trình bậc hai bên dưới chúng ta thu được hai nghiệm là $x = 4$ và $x = 5/4$. Thì đối chiếu với điều kiện, chúng ta chỉ nhận $x = 4$. Với $x = 4$ và $y = 3$ thì chúng ta sẽ thu được số phức $z$ là $4 + 3i$. Đến đây chúng ta thay số phức $z$ này vào để tính số phức $v_k$ thì $v_k = 1 - (4 + 3i) + (4 + 3i)^2$. Thu gọn ta tính được $v_k$, ở đây ta phải có kỹ năng biến đổi thật là tốt và nhớ được cách giải của phương trình. Tiếp theo chúng ta đến với ví dụ 3.",
+      "start": 291.0,
+      "end": 377.16,
+      "n_words": 177,
+      "start_frame": 8721,
+      "end_frame": 11303,
+      "keyframes": [
+        "008779.webp",
+        "011145.webp",
+        "011146.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ví dụ 3 cho số phức $z$ thỏa mãn $z - 4 = i + 1$ nhân mô đun $z - 3z + 4i$.",
+      "start": 377.16,
+      "end": 385.92,
+      "n_words": 24,
+      "start_frame": 11303,
+      "end_frame": 11566,
+      "keyframes": [
+        "011461.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đề nào dưới đây là đúng về mô đun của z? Thì quan sát ví dụ 3, chúng ta có thể thấy là chúng ta vẫn có thể áp dụng phương pháp giống như ví dụ 1 và 2 đã làm, tức là chúng ta vẫn có thể đặt z = x + iy và giải quyết bài toán này. Tuy nhiên, nếu chúng ta đặt như vậy thì việc tính toán nó sẽ rất là khó khăn. Thì trong ví dụ 3 này thầy sẽ giới thiệu cho các em một phương pháp để giúp chúng ta tính được mô đun z. Trong trường hợp này chúng ta không cần phải đặt z = x + iy cụ thể như sau. Bây giờ từ cái phương trình đề bài, bên vế phải thầy nhân phân phối thầy sẽ được i nhân mô đun z + i nhân mô đun z - 4i - 4i. Bây giờ những cái số hạng nào mà có chữ z thầy sẽ đem nó qua vế trái. Do đó thầy chuyển cái 3zi này qua vế trái, thầy sẽ được là z + 3zi = i mô đun z + (mô đun z - 4)i + 4. Vế trái thầy đặt z là nhân tử chung. Vế phải thì đây là một cái số phức, thầy sẽ gom phần thực với phần ảo lại.",
+      "start": 389.12,
+      "end": 461.92,
+      "n_words": 230,
+      "start_frame": 11662,
+      "end_frame": 13844,
+      "keyframes": [
+        "011777.webp",
+        "011778.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúng ta để ý mô đun z thì chắc chắn nó là một số thực rồi, vậy thì cái phần thực trong cái số phức bên phải nó sẽ là mô đun z + 4, còn phần ảo thì thầy đặt i làm nhân tử chung thì chúng ta sẽ được mô đun z - 4. Đến đây để tính mô đun z thì thầy sẽ làm một cái động tác đó chính là thầy sẽ lấy mô đun hai vế. Thì lúc này mô đun của vế trái thầy có thể tách ra thành là mô đun của 1 + 3i nhân cho mô đun z. Bên vế phải thì đây là một cái số phức, do đó mô đun của nó = căn của phần thực bình cộng phần ảo bình, tức là căn của (4 + mô đun z) tất cả. Ta có thể giải và tìm được nó. Mô đun của $|1 + 3i|$ là bằng căn 10. Bên vế phải chúng ta khai triển và thu gọn ta sẽ được căn của 2 lần mô đun $z$ mũ 2 cộng 32. Bình phương hai vế thì thầy sẽ thu được là 10 lần mô đun $z$ mũ 2 bằng 2 lần mô đun $z$ mũ 2 cộng 32, tương đương là mô đun của $z$ mũ 2 là bằng 4. Từ đây chúng ta tính được mô đun $z$ là bằng 2, ta chọn đáp án C.",
+      "start": 461.92,
+      "end": 543.36,
+      "n_words": 242,
+      "start_frame": 13844,
+      "end_frame": 16284,
+      "keyframes": [
+        "014201.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thì qua bài toán này chúng ta để ý thêm một cái phương pháp, đôi khi đề bài yêu cầu tính mô đun $z$ thì chúng ta có thể sử dụng phương pháp là lấy mô đun hai vế.",
+      "start": 543.36,
+      "end": 556.32,
+      "n_words": 39,
+      "start_frame": 16284,
+      "end_frame": 16673,
+      "keyframes": [
+        "016625.webp",
+        "016626.webp",
+        "016660.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến, hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.",
+      "start": 556.32,
+      "end": 566.88,
+      "n_words": 33,
+      "start_frame": 16673,
+      "end_frame": 16989,
+      "keyframes": [
+        "016695.webp",
+        "016735.webp",
+        "016781.webp",
+        "016828.webp",
+        "016829.webp",
+        "016853.webp",
+        "016878.webp",
+        "016879.webp",
+        "016904.webp",
+        "016929.webp",
+        "016930.webp",
+        "016947.webp",
+        "016965.webp",
+        "016966.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện, cân bằng giữa học thuật và nghệ thuật, thể thao.",
+      "start": 566.88,
+      "end": 574.56,
+      "n_words": 23,
+      "start_frame": 16989,
+      "end_frame": 17220,
+      "keyframes": [
+        "017030.webp",
+        "017095.webp",
+        "017096.webp",
+        "017120.webp",
+        "017145.webp",
+        "017146.webp",
+        "017164.webp",
+        "017182.webp",
+        "017183.webp",
+        "017195.webp",
+        "017208.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, thêm nguồn cảm hứng độc lập để phát triển và hoàn thiện nhân cách.",
+      "start": 574.56,
+      "end": 585.16,
+      "n_words": 34,
+      "start_frame": 17220,
+      "end_frame": 17537,
+      "keyframes": [
+        "017240.webp",
+        "017241.webp",
+        "017242.webp",
+        "017243.webp",
+        "017328.webp",
+        "017413.webp",
+        "017414.webp",
+        "017445.webp",
+        "017476.webp",
+        "017477.webp",
+        "017483.webp",
+        "017489.webp",
+        "017490.webp",
+        "017511.webp",
+        "017533.webp",
+        "017534.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Ngoài những giờ học trên lớp, học sinh Trường Quốc tế Á Châu còn được trải nghiệm, thử thách bản thân và phản biện các vấn đề để tự mình học hỏi, trưởng thành độc lập hơn.",
+      "start": 585.16,
+      "end": 604.8,
+      "n_words": 37,
+      "start_frame": 17537,
+      "end_frame": 18126,
+      "keyframes": [
+        "017545.webp",
+        "017556.webp",
+        "017557.webp",
+        "017577.webp",
+        "017597.webp",
+        "017598.webp",
+        "017630.webp",
+        "017663.webp",
+        "017664.webp",
+        "017675.webp",
+        "017686.webp",
+        "017687.webp",
+        "017763.webp",
+        "017839.webp",
+        "017840.webp",
+        "017858.webp",
+        "017877.webp",
+        "017889.webp",
+        "017917.webp",
+        "017946.webp",
+        "017977.webp",
+        "017995.webp",
+        "018014.webp",
+        "018015.webp",
+        "018032.webp",
+        "018050.webp",
+        "018051.webp",
+        "018065.webp",
+        "018080.webp",
+        "018081.webp",
+        "018103.webp",
+        "018125.webp"
+      ],
+      "keyframe_count": 32
+    },
+    {
+      "text": "Nơi đây với tôi còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.",
+      "start": 604.8,
+      "end": 620.76,
+      "n_words": 33,
+      "start_frame": 18126,
+      "end_frame": 18604,
+      "keyframes": [
+        "018140.webp",
+        "018215.webp",
+        "018290.webp",
+        "018317.webp",
+        "018335.webp",
+        "018353.webp",
+        "018370.webp",
+        "018391.webp",
+        "018412.webp",
+        "018413.webp",
+        "018437.webp",
+        "018461.webp",
+        "018462.webp",
+        "018470.webp",
+        "018479.webp",
+        "018519.webp",
+        "018556.webp",
+        "018594.webp",
+        "018595.webp"
+      ],
+      "keyframe_count": 19
+    },
+    {
+      "text": "Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là cuộc sống.",
+      "start": 620.76,
+      "end": 625.84,
+      "n_words": 15,
+      "start_frame": 18604,
+      "end_frame": 18756,
+      "keyframes": [
+        "018634.webp",
+        "018674.webp",
+        "018675.webp",
+        "018685.webp",
+        "018695.webp",
+        "018696.webp",
+        "018711.webp",
+        "018727.webp",
+        "018728.webp",
+        "018735.webp",
+        "018743.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Từ môi trường giáo dục này, chúng tôi đã tự tin bước tiếp và viết nên câu chuyện tương lai của chính mình. Tiếp theo chúng ta đến với ví dụ thứ tư.",
+      "start": 625.84,
+      "end": 643.88,
+      "n_words": 33,
+      "start_frame": 18756,
+      "end_frame": 19297,
+      "keyframes": [
+        "018763.webp",
+        "018780.webp",
+        "018797.webp",
+        "018819.webp",
+        "018820.webp",
+        "018821.webp",
+        "018851.webp",
+        "018857.webp",
+        "018864.webp",
+        "018894.webp",
+        "018916.webp",
+        "018938.webp",
+        "018939.webp",
+        "018977.webp",
+        "019016.webp",
+        "019017.webp",
+        "019023.webp",
+        "019029.webp",
+        "019053.webp",
+        "019066.webp",
+        "019080.webp",
+        "019103.webp",
+        "019128.webp",
+        "019153.webp",
+        "019154.webp"
+      ],
+      "keyframe_count": 25
+    },
+    {
+      "text": "Đây là một ví dụ tương đối khó cho $z$ và $\\bar{z}$ là hai số phức liên hợp thỏa mãn $z/\\bar{z}^2$ là số thực và mô đun của $|z - \\bar{z}|$ là bằng $2\\sqrt{3}$.",
+      "start": 643.88,
+      "end": 659.32,
+      "n_words": 34,
+      "start_frame": 19297,
+      "end_frame": 19760,
+      "keyframes": [
+        "019533.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Mệnh đề nào sau đây là đúng về mô đun $z$?",
+      "start": 660.28,
+      "end": 665.12,
+      "n_words": 11,
+      "start_frame": 19789,
+      "end_frame": 19934,
+      "keyframes": [
+        "019913.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ bình tĩnh và giải quyết từng cái giả thiết.",
+      "start": 665.12,
+      "end": 670.16,
+      "n_words": 14,
+      "start_frame": 19934,
+      "end_frame": 20085,
+      "keyframes": [
+        "019988.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đầu tiên chúng ta để ý $z$ và $\\bar{z}$ là hai số phức liên hợp, do đó chúng ta sẽ có $z$ thì bằng $\\bar{w}$ thì bằng $w$ và mô đun của $z$ thì bằng với lại mô đun của $w$.",
+      "start": 670.16,
+      "end": 687.84,
+      "n_words": 41,
+      "start_frame": 20085,
+      "end_frame": 20615,
+      "keyframes": [
+        "020138.webp",
+        "020288.webp",
+        "020438.webp",
+        "020588.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đây là những điều chúng ta sẽ có nếu $z$ và $\\bar{z}$ là liên hợp.",
+      "start": 687.84,
+      "end": 694.08,
+      "n_words": 15,
+      "start_frame": 20615,
+      "end_frame": 20802,
+      "keyframes": [
+        "020738.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tiếp theo chúng ta sẽ giải quyết đến cái giả thiết là mô thì lúc này ta sẽ có bình phương hai vế ta sẽ được mô đun của $z$ trừ $w$ mũ hai là bằng 12.",
+      "start": 694.08,
+      "end": 707.36,
+      "n_words": 37,
+      "start_frame": 20802,
+      "end_frame": 21200,
+      "keyframes": [
+        "020888.webp",
+        "021038.webp",
+        "021188.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thì ở đây chúng ta có một cách để chúng ta khai triển bình phương của một cái mô đun thì mô đun của $z$ trừ $w$ mũ hai chúng ta có thể tính bằng cách là chúng ta lấy $z$ trừ $w$ nhân cho chính cái liên hợp của nó. Đây là một công thức để tính mô đun bình phương, các em lưu ý công thức này.",
+      "start": 708.72,
+      "end": 726.64,
+      "n_words": 69,
+      "start_frame": 21240,
+      "end_frame": 21777,
+      "keyframes": [
+        "021338.webp",
+        "021488.webp",
+        "021638.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tới đây chúng ta tiếp tục khai triển $z$ trừ $\\bar{w}$ sẽ bằng $\\bar{z}$ trừ cho $\\bar{w}$ nhân phân phối $z$ nhân $\\bar{z}$ thì nó sẽ bằng mô đun $z$ bình phương thì đây chính là công thức thầy vừa nói, trừ $w$ nhân cho $\\bar{w}$ thì thầy cũng sẽ được mô đun của $w$ bình phương, trừ lại cho $\\bar{z}w$ và $z\\bar{w}$.",
+      "start": 726.64,
+      "end": 753.12,
+      "n_words": 63,
+      "start_frame": 21777,
+      "end_frame": 22571,
+      "keyframes": [
+        "021788.webp",
+        "021938.webp",
+        "022088.webp",
+        "022238.webp",
+        "022388.webp",
+        "022538.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và chúng ta, chúng ta để ý giả thiết là chúng ta có mô đun $z$ bằng với mô đun $w$, do đó mô đun $z$ mũ hai cộng mô đun $w$ mũ hai thì sẽ đưa về là hai lần mô đun $z$ mũ hai.",
+      "start": 755.32,
+      "end": 767.88,
+      "n_words": 46,
+      "start_frame": 22637,
+      "end_frame": 23013,
+      "keyframes": [
+        "022688.webp",
+        "022838.webp",
+        "022988.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tiếp theo $z$ nhân $\\bar{w}$ thì bản chất $\\bar{w}$ chính là bằng $z$ chúng ta có ở đây, do đó $z$ nhân $\\bar{w}$ chính là bằng $z$ mũ hai.",
+      "start": 767.88,
+      "end": 779.52,
+      "n_words": 29,
+      "start_frame": 23013,
+      "end_frame": 23362,
+      "keyframes": [
+        "023138.webp",
+        "023288.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tương tự $\\bar{z}$ thì bằng $w$, do đó $\\bar{z}w$ là bằng $w$ mũ hai, ta được cái phương trình sau.",
+      "start": 779.52,
+      "end": 788.72,
+      "n_words": 20,
+      "start_frame": 23362,
+      "end_frame": 23638,
+      "keyframes": [
+        "023438.webp",
+        "023588.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tiếp theo chúng ta sẽ giải quyết đến cái giả thiết là $z$ phần $w$ mũ hai là số thực.",
+      "start": 788.72,
+      "end": 795.08,
+      "n_words": 20,
+      "start_frame": 23638,
+      "end_frame": 23829,
+      "keyframes": [
+        "023738.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đến đây để giải quyết cái giả thiết này chúng ta sẽ có hai cách: Cách thứ nhất là chúng ta có thể đặt $z$ bằng $x$ cộng $yi$, từ đó chúng ta khai triển cái phép chia này ra.",
+      "start": 795.08,
+      "end": 805.76,
+      "n_words": 40,
+      "start_frame": 23829,
+      "end_frame": 24149,
+      "keyframes": [
+        "023888.webp",
+        "024038.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ngoài ra chúng ta có một cách giải quyết thứ hai và là cách giải quyết mà thường hay sử dụng đó chính là: nếu một số phức mà là số thực thì số phức đó sẽ bằng chính với số phức liên hợp của nó.",
+      "start": 805.76,
+      "end": 818.12,
+      "n_words": 46,
+      "start_frame": 24149,
+      "end_frame": 24519,
+      "keyframes": [
+        "024188.webp",
+        "024338.webp",
+        "024488.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hay nói cách khác $z$ phần $w$ mũ hai nó sẽ bằng với $z$ phần $w$ mũ hai liên hợp, và $z$ phần $w$ mũ hai liên hợp nó sẽ bằng $\\bar{z}$ phần $\\bar{w}$ tất cả mũ hai.",
+      "start": 818.12,
+      "end": 837.24,
+      "n_words": 38,
+      "start_frame": 24519,
+      "end_frame": 25092,
+      "keyframes": [
+        "024638.webp",
+        "024788.webp",
+        "024938.webp",
+        "025088.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đã biết $\\bar{z}$ thì nó bằng $z$, $\\bar{w}$ thì bằng $w$, do đó z phần w mũ hai ngay chỗ này thì nó sẽ bằng với lại w phần z mũ hai.",
+      "start": 838.08,
+      "end": 853.92,
+      "n_words": 32,
+      "start_frame": 25117,
+      "end_frame": 25592,
+      "keyframes": [
+        "025238.webp",
+        "025388.webp",
+        "025538.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đây chúng ta đang sử dụng cái giả thuyết này.",
+      "start": 853.92,
+      "end": 858.96,
+      "n_words": 10,
+      "start_frame": 25592,
+      "end_frame": 25743,
+      "keyframes": [
+        "025688.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Từ đây chúng ta nhân chéo chúng ta sẽ được z mũ ba bằng với lại w mũ ba.",
+      "start": 858.96,
+      "end": 865.76,
+      "n_words": 19,
+      "start_frame": 25743,
+      "end_frame": 25947,
+      "keyframes": [
+        "025838.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rõ ràng chúng ta thấy z và Vk là hai số phức liên hợp, do đó (z - Vk) nó sẽ khác không.",
+      "start": 876.16,
+      "end": 889.16,
+      "n_words": 23,
+      "start_frame": 26259,
+      "end_frame": 26648,
+      "keyframes": [
+        "026288.webp",
+        "026438.webp",
+        "026588.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "(z - Vk) khác 0 là do chúng ta thấy là mô đun của (z - Vk) là = 2 căn 3 chứ không có = 0 do z khác w.",
+      "start": 889.16,
+      "end": 898.08,
+      "n_words": 31,
+      "start_frame": 26648,
+      "end_frame": 26915,
+      "keyframes": [
+        "026738.webp",
+        "026888.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cho nên bắt buộc là z mũ hai + zw + 2 phải = 0.",
+      "start": 898.08,
+      "end": 905.96,
+      "n_words": 15,
+      "start_frame": 26915,
+      "end_frame": 27152,
+      "keyframes": [
+        "027038.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Lúc này chuyển vế chúng ta sẽ được z mũ hai + Vk mũ hai là = -zv.",
+      "start": 905.96,
+      "end": 912.24,
+      "n_words": 18,
+      "start_frame": 27152,
+      "end_frame": 27340,
+      "keyframes": [
+        "027188.webp",
+        "027338.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúng ta chuyển vế ngay chỗ này và dĩ nhiên v k thì ở đây chúng ta thấy w chính là bằng z ngang, do đó chúng ta thay w bằng z ngang ngay chỗ này và chúng ta sẽ được là bằng -mô đun của z mũ hai.",
+      "start": 913.2,
+      "end": 928.48,
+      "n_words": 49,
+      "start_frame": 27369,
+      "end_frame": 27827,
+      "keyframes": [
+        "027488.webp",
+        "027638.webp",
+        "027788.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đến đây chúng ta sẽ thay cái điều này vào cái phương trình sau ở trên thì chúng ta sẽ được 3 lần mô đun của z mũ hai bằng 12. Lúc này chúng ta tính được mô đun của z bằng 2.",
+      "start": 928.48,
+      "end": 945.92,
+      "n_words": 43,
+      "start_frame": 27827,
+      "end_frame": 28349,
+      "keyframes": [
+        "027938.webp",
+        "028088.webp",
+        "028238.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta chọn đáp án D.",
+      "start": 945.92,
+      "end": 950.0,
+      "n_words": 6,
+      "start_frame": 28349,
+      "end_frame": 28472,
+      "keyframes": [
+        "028388.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tóm lại thì cái ví dụ 4 này cũng là một ví dụ tương đối khó, thì qua ví dụ này các em cần nắm một số cái phương pháp mới để giải quyết các bài tập liên quan đến số phức.",
+      "start": 950.0,
+      "end": 961.04,
+      "n_words": 42,
+      "start_frame": 28472,
+      "end_frame": 28802,
+      "keyframes": [
+        "028538.webp",
+        "028688.webp",
+        "028777.webp",
+        "028792.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ sau khi giải quyết xong ví dụ thứ tư, chúng ta sẽ đến với một cái phần cũng thường xuyên xuất hiện trong các bài toán về số phức đó là ứng dụng hình học Oxy để giải quyết các bài toán về số phức.",
+      "start": 961.04,
+      "end": 973.56,
+      "n_words": 47,
+      "start_frame": 28802,
+      "end_frame": 29178,
+      "keyframes": [
+        "029102.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Vậy thì bây giờ để có thể ứng dụng được hình học Oxy thì các em cần nhớ một số cái kiến thức sau đây: đầu tiên với một cái số phức z = a + bi, tương ứng là chúng ta sẽ được một cái điểm M có tọa độ là (a, b) trong mặt phẳng Oxy. Tiếp theo, một cái số phức z = a + bi ngoài được biểu diễn bằng điểm M thì nó còn có thể được hiểu là vectơ OM tọa độ là (a, b). Tiếp theo, mô đun |z| thì ý nghĩa hình học của nó chính là độ dài của đoạn OM với M là điểm biểu diễn của z. Mô đun của |z - w| ý nghĩa hình học là độ dài của đoạn AB với A là điểm biểu diễn của z, B là điểm biểu diễn của w.",
+      "start": 973.56,
+      "end": 1035.28,
+      "n_words": 149,
+      "start_frame": 29178,
+      "end_frame": 31027,
+      "keyframes": [
+        "029412.webp",
+        "029413.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tiếp theo, mô đun của |z - z1| = mô đun của |z - z2|, lúc này tập hợp điểm biểu diễn của z, hay nói cách khác là điểm biểu diễn của z, nó sẽ nằm trên đường trung trực của đoạn AB. Kiểu mà chúng ta rất thường hay gặp đó chính là mô đun của |z - z0| = r thì lúc này các điểm biểu diễn của số phức z nó sẽ nằm trên đường tròn có tâm là điểm biểu diễn của z0 và bán kính là r. Thì để giải quyết được một cái bài toán số phức mà chúng ta muốn dùng hình học thì chắc chắn là chúng ta phải nhớ cái sự chuyển đổi này.",
+      "start": 1035.28,
+      "end": 1087.44,
+      "n_words": 124,
+      "start_frame": 31027,
+      "end_frame": 32591,
+      "keyframes": [
+        "031074.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thì bây giờ thầy trò chúng ta sẽ cùng nhau làm một số ví dụ.",
+      "start": 1087.44,
+      "end": 1093.28,
+      "n_words": 15,
+      "start_frame": 32591,
+      "end_frame": 32766,
+      "keyframes": [
+        "032735.webp",
+        "032736.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thứ năm, trong mặt phẳng Oxy, cho hai điểm A và B là điểm biểu diễn của số phức z và số phức w, trong đó w là bằng 1 + iz. Biết tam giác OAB có diện tích bằng 8.",
+      "start": 1093.28,
+      "end": 1111.76,
+      "n_words": 41,
+      "start_frame": 32766,
+      "end_frame": 33319,
+      "keyframes": [
+        "033093.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đề bài hỏi mô đun của số phức |w - z|. Thì sau khi đọc đề chúng ta có thể thấy ngay là mô đun của |w - z|, ý nghĩa hình học của nó chính là độ dài của đoạn AB, đúng chưa? Do B là điểm biểu diễn của w, còn A là điểm biểu diễn của z. Bây giờ chúng ta sẽ đi tính độ dài đoạn AB. Thì đầu tiên do A là điểm biểu diễn của z cho nên mô đun z ý nghĩa hình học của nó chính là độ dài đoạn OA. Tiếp theo, mô đun của w chính là độ dài đoạn OB. Mặt khác w bằng 1 + iz thì mô đun của 1 + i bằng căn 2, do đó OB chính là bằng căn 2 lần mô đun z. Cuối cùng, mô đun của |w - z| chính là cái mà đề bài hỏi thì đó chính là độ dài của đoạn AB. Ở đây chúng ta thay w bằng 1 + iz vào chúng ta sẽ được AB bằng mô đun của |iz|, mà mô đun của i là bằng 1 do đó AB nó cũng sẽ bằng mô đun z.",
+      "start": 1111.76,
+      "end": 1185.12,
+      "n_words": 203,
+      "start_frame": 33319,
+      "end_frame": 35518,
+      "keyframes": [
+        "033450.webp",
+        "033451.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Vì sau khi thầy tính được OA, OB và AB thì thầy sẽ có cái hình minh họa như sau. Thì sau khi nhìn cái hình này chúng ta có thể thấy ngay rằng OB bình phương bằng OA bình phương cộng AB bình phương theo định lý Pythagoras. Mặt khác OA thì lại bằng với AB, do đó tam giác OAB là một tam giác vuông cân tại A. Lúc này chúng ta sử dụng tiếp giả thiết tam giác OAB có diện tích bằng 8 thì diện tích tam giác OAB sẽ bằng một phần hai của OA nhân AB, trong đó OA thì chúng ta biết là bằng mô đun z, AB cũng bằng mô đun z, mô đun của v k trừ z cũng sẽ bằng 4. Ta chọn đáp án C.",
+      "start": 1185.12,
+      "end": 1251.56,
+      "n_words": 136,
+      "start_frame": 35518,
+      "end_frame": 37509,
+      "keyframes": [
+        "035582.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thì đây là một cái ví dụ mà chúng ta chuyển một cái bài toán số phức qua một cái bài toán hình học.",
+      "start": 1251.56,
+      "end": 1259.76,
+      "n_words": 24,
+      "start_frame": 37509,
+      "end_frame": 37755,
+      "keyframes": [
+        "037714.webp",
+        "037751.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Để có được thành công như hôm nay, tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình bắt đầu từ trường Đại học Quốc tế Sài Gòn.",
+      "start": 1259.76,
+      "end": 1269.2,
+      "n_words": 34,
+      "start_frame": 37755,
+      "end_frame": 38038,
+      "keyframes": [
+        "037784.webp",
+        "037818.webp",
+        "037819.webp",
+        "037856.webp",
+        "037893.webp",
+        "037929.webp",
+        "037986.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Với đào tạo đa dạng đa lĩnh vực, SIU mở ra cho chúng tôi nhiều cơ hội lựa chọn, cơ hội lựa chọn nghề nghiệp trong tương lai.",
+      "start": 1269.2,
+      "end": 1279.48,
+      "n_words": 28,
+      "start_frame": 38038,
+      "end_frame": 38346,
+      "keyframes": [
+        "038044.webp",
+        "038058.webp",
+        "038074.webp",
+        "038091.webp",
+        "038106.webp",
+        "038129.webp",
+        "038153.webp",
+        "038154.webp",
+        "038177.webp",
+        "038200.webp",
+        "038201.webp",
+        "038223.webp",
+        "038245.webp",
+        "038246.webp",
+        "038267.webp",
+        "038288.webp",
+        "038289.webp",
+        "038309.webp",
+        "038330.webp",
+        "038331.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Tất cả sinh viên đều có cơ hội để thể hiện và phát triển năng lực; Những ý tưởng luôn được khuyến khích và phát huy tối đa.",
+      "start": 1279.48,
+      "end": 1286.76,
+      "n_words": 28,
+      "start_frame": 38346,
+      "end_frame": 38564,
+      "keyframes": [
+        "038351.webp",
+        "038372.webp",
+        "038373.webp",
+        "038385.webp",
+        "038397.webp",
+        "038429.webp",
+        "038441.webp",
+        "038454.webp",
+        "038455.webp",
+        "038474.webp",
+        "038494.webp",
+        "038495.webp",
+        "038528.webp",
+        "038562.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin; Chúng tôi được học cách học, cách nghĩ và cách sống.",
+      "start": 1286.76,
+      "end": 1292.88,
+      "n_words": 23,
+      "start_frame": 38564,
+      "end_frame": 38748,
+      "keyframes": [
+        "038582.webp",
+        "038603.webp",
+        "038624.webp",
+        "038625.webp",
+        "038646.webp",
+        "038667.webp",
+        "038668.webp",
+        "038698.webp",
+        "038728.webp",
+        "038729.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.",
+      "start": 1292.88,
+      "end": 1299.96,
+      "n_words": 28,
+      "start_frame": 38748,
+      "end_frame": 38960,
+      "keyframes": [
+        "038752.webp",
+        "038776.webp",
+        "038777.webp",
+        "038798.webp",
+        "038820.webp",
+        "038835.webp",
+        "038862.webp",
+        "038889.webp",
+        "038890.webp",
+        "038908.webp",
+        "038926.webp",
+        "038927.webp",
+        "038948.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Hiện đại, năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc, đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn SIU luôn hướng đến.",
+      "start": 1299.96,
+      "end": 1310.56,
+      "n_words": 34,
+      "start_frame": 38960,
+      "end_frame": 39277,
+      "keyframes": [
+        "038970.webp",
+        "038977.webp",
+        "038994.webp",
+        "039011.webp",
+        "039027.webp",
+        "039041.webp",
+        "039055.webp",
+        "039083.webp",
+        "039095.webp",
+        "039108.webp",
+        "039109.webp",
+        "039143.webp",
+        "039177.webp",
+        "039210.webp",
+        "039231.webp",
+        "039252.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Đã đến lúc vươn xa hơn những gì đã học. Bây giờ chúng ta sẽ nâng độ khó lên một chút. Chúng ta đến với ví dụ số 6. Ví dụ số 6 có nội dung như sau: Cho hai số phức z1, z2.",
+      "start": 1310.56,
+      "end": 1329.52,
+      "n_words": 44,
+      "start_frame": 39277,
+      "end_frame": 39846,
+      "keyframes": [
+        "039310.webp",
+        "039327.webp",
+        "039344.webp",
+        "039372.webp",
+        "039442.webp",
+        "039512.webp",
+        "039513.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Tập hợp S, tập hợp các z thỏa mãn là |z - (2 + 3i)| = 2. Ngoài ra z1, z2 còn thỏa thêm điều kiện là z1 + z2 = 4 - 2i. Yêu cầu tính A = |z1|^2 + |z2|^2.",
+      "start": 1332.32,
+      "end": 1348.12,
+      "n_words": 42,
+      "start_frame": 39930,
+      "end_frame": 40403,
+      "keyframes": [
+        "040038.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ thầy sẽ giải quyết bài toán này bằng cách chuyển qua một cái bài toán hình học.",
+      "start": 1353.76,
+      "end": 1358.84,
+      "n_words": 19,
+      "start_frame": 40572,
+      "end_frame": 40724,
+      "keyframes": [
+        "040638.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thì dĩ nhiên đầu tiên muốn chuyển qua được bài toán hình học thì thầy phải gọi được hai điểm M, N lần lượt là điểm biểu diễn của z1 và z2.",
+      "start": 1358.84,
+      "end": 1366.88,
+      "n_words": 32,
+      "start_frame": 40724,
+      "end_frame": 40965,
+      "keyframes": [
+        "040788.webp",
+        "040938.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ biểu thức cần tính A = mô đun của z1 mũ hai cộng mô đun của z2 mũ hai thì về ý nghĩa hình học nó chính là bằng độ dài của đoạn OM mũ hai cộng ON mũ hai.",
+      "start": 1370.16,
+      "end": 1383.6,
+      "n_words": 42,
+      "start_frame": 41064,
+      "end_frame": 41466,
+      "keyframes": [
+        "041088.webp",
+        "041238.webp",
+        "041388.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ đi giải quyết từng giả thiết.",
+      "start": 1383.6,
+      "end": 1386.28,
+      "n_words": 11,
+      "start_frame": 41466,
+      "end_frame": 41547,
+      "keyframes": [
+        "041538.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đầu tiên chúng ta sẽ tìm coi là cái tập hợp S này thì các điểm mà thuộc tập S nó là đường diễn, nó là đường tập số z thỏa mãn là mô đun của yz trừ hai trừ ba y bằng hai.",
+      "start": 1386.28,
+      "end": 1404.28,
+      "n_words": 44,
+      "start_frame": 41547,
+      "end_frame": 42086,
+      "keyframes": [
+        "041688.webp",
+        "041838.webp",
+        "041988.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ở đây ta sẽ đặt y là nhân tử chung thì bên trong sẽ còn lại là z trừ ba cộng hai y, tất cả mô đun là bằng hai.",
+      "start": 1404.28,
+      "end": 1415.4,
+      "n_words": 30,
+      "start_frame": 42086,
+      "end_frame": 42420,
+      "keyframes": [
+        "042138.webp",
+        "042288.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và do mô đun của y là bằng một, do đó chúng ta sẽ có được là mô đun của z trừ ba cộng hai y là bằng hai.",
+      "start": 1415.4,
+      "end": 1424.76,
+      "n_words": 29,
+      "start_frame": 42420,
+      "end_frame": 42700,
+      "keyframes": [
+        "042438.webp",
+        "042588.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thì lúc nãy chúng ta đã có một cái tính chất là các số phức mà thỏa mãn đẳng thức này thì nó sẽ nằm trên cái đường tròn tâm y là 3-2i, bán kính là bằng hai, và do đó m nó cũng sẽ thuộc vô cái đường tròn này.",
+      "start": 1424.76,
+      "end": 1442.84,
+      "n_words": 51,
+      "start_frame": 42700,
+      "end_frame": 43242,
+      "keyframes": [
+        "042738.webp",
+        "042888.webp",
+        "043038.webp",
+        "043188.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Thì lúc này thầy sẽ biểu diễn bằng hình vẽ, đây là cái đường tròn tâm I tọa độ là 3-2i, bán kính là bằng hai.",
+      "start": 1442.84,
+      "end": 1453.28,
+      "n_words": 26,
+      "start_frame": 43242,
+      "end_frame": 43555,
+      "keyframes": [
+        "043338.webp",
+        "043488.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "M, N sẽ chạy trên cái đường, cái đường tròn này.",
+      "start": 1453.28,
+      "end": 1458.04,
+      "n_words": 11,
+      "start_frame": 43555,
+      "end_frame": 43697,
+      "keyframes": [
+        "043638.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta giải quyết xong được cái giả thiết nhất, tiếp theo chúng ta sẽ giải quyết đến giả thiết này là z1 cộng z2 bằng 4 trừ 2i.",
+      "start": 1458.04,
+      "end": 1465.44,
+      "n_words": 29,
+      "start_frame": 43697,
+      "end_frame": 43919,
+      "keyframes": [
+        "043788.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thì như thầy vừa nói lúc nãy thì z1 ngoài việc chúng ta có thể hiểu là điểm M thì chúng ta có thể hiểu nó là vector OM.",
+      "start": 1467.52,
+      "end": 1478.2,
+      "n_words": 29,
+      "start_frame": 43982,
+      "end_frame": 44302,
+      "keyframes": [
+        "044088.webp",
+        "044238.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đó cái đẳng thức này tương đương z1 thầy hay là vector OM, vậy tương ứng z2 sẽ là vector ON.",
+      "start": 1479.68,
+      "end": 1487.08,
+      "n_words": 21,
+      "start_frame": 44346,
+      "end_frame": 44568,
+      "keyframes": [
+        "044388.webp",
+        "044538.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Vector OM cộng vector ON sẽ bằng một cái vector có tọa độ là 4-2i, chính là vector biểu diễn số phức 4-2i.",
+      "start": 1487.08,
+      "end": 1496.56,
+      "n_words": 23,
+      "start_frame": 44568,
+      "end_frame": 44852,
+      "keyframes": [
+        "044688.webp",
+        "044838.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Từ đây chúng ta cần phải nhớ đến một cái kiến thức liên quan đến lớp 10 phần vector, đó chính là gì: vector OM cộng vector ON thì nó sẽ bằng hai lần vector OE với E là trung điểm của MN.",
+      "start": 1499.2,
+      "end": 1514.68,
+      "n_words": 43,
+      "start_frame": 44931,
+      "end_frame": 45395,
+      "keyframes": [
+        "044988.webp",
+        "045138.webp",
+        "045288.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và do đó hai lần vector OE sẽ có tọa độ là 4-2i, do đó thầy tính được vector OE sẽ có tọa độ là 2-i.",
+      "start": 1516.0,
+      "end": 1525.52,
+      "n_words": 26,
+      "start_frame": 45435,
+      "end_frame": 45720,
+      "keyframes": [
+        "045438.webp",
+        "045588.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Hay nói cách khác, điểm E sẽ có tọa độ là 2-i, chính là trung điểm của đoạn MN.",
+      "start": 1526.12,
+      "end": 1534.8,
+      "n_words": 19,
+      "start_frame": 45738,
+      "end_frame": 45998,
+      "keyframes": [
+        "045738.webp",
+        "045888.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Vậy tóm lại cái giả thiết này sẽ cho chúng ta được tọa độ trung điểm của đoạn MN.",
+      "start": 1534.8,
+      "end": 1543.76,
+      "n_words": 19,
+      "start_frame": 45998,
+      "end_frame": 46266,
+      "keyframes": [
+        "046038.webp",
+        "046188.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thì bây giờ bằng tất cả những cái giả thiết mà chúng ta có, chúng ta sẽ đi cố gắng tính được OM bình cộng ON bình.",
+      "start": 1543.76,
+      "end": 1553.28,
+      "n_words": 27,
+      "start_frame": 46266,
+      "end_frame": 46552,
+      "keyframes": [
+        "046338.webp",
+        "046488.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ ta có điểm E tọa độ là 2-i, tâm I tọa độ là 3-2i thì chắc chắn chúng ta sẽ tính được độ dài của đoạn IE là bằng căn hai.",
+      "start": 1553.28,
+      "end": 1563.96,
+      "n_words": 33,
+      "start_frame": 46552,
+      "end_frame": 46872,
+      "keyframes": [
+        "046638.webp",
+        "046788.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ có MN sẽ bằng hai lần độ dài của đoạn ME.",
+      "start": 1563.96,
+      "end": 1571.44,
+      "n_words": 16,
+      "start_frame": 46872,
+      "end_frame": 47096,
+      "keyframes": [
+        "046938.webp",
+        "047088.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúng ta quan sát hình vẽ trong khi đoạn ME này chúng ta có thể tính được bằng định lý Py-ta-go là sẽ bằng trừ cho $y_E^2$, chúng ta vừa mới tính được và do đó chúng ta tính được ME là bằng $\\sqrt{2}$, và do đó $MN = 2ME$ sẽ bằng $2\\sqrt{2}$.",
+      "start": 1571.72,
+      "end": 1595.32,
+      "n_words": 53,
+      "start_frame": 47104,
+      "end_frame": 47812,
+      "keyframes": [
+        "047238.webp",
+        "047388.webp",
+        "047538.webp",
+        "047688.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Vậy thì chúng ta đã có được độ dài của đoạn MN.",
+      "start": 1596.56,
+      "end": 1602.4,
+      "n_words": 12,
+      "start_frame": 47849,
+      "end_frame": 48024,
+      "keyframes": [
+        "047988.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ xét trong cái tam giác OMN, chúng ta cần nhớ một cái công thức tính độ dài đường trung tuyến OE thì $OE^2$ sẽ bằng $(OM^2 + ON^2)/2$ tất cả trừ cho $MN^2/4$. Đây là công thức tính độ dài đường trung tuyến đã học ở lớp 10.",
+      "start": 1602.4,
+      "end": 1624.56,
+      "n_words": 53,
+      "start_frame": 48024,
+      "end_frame": 48688,
+      "keyframes": [
+        "048138.webp",
+        "048288.webp",
+        "048438.webp",
+        "048588.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Thì ở đây chúng ta sẽ thấy là có sự xuất hiện của $OM^2 + ON^2$, đây chính là thứ mà chúng ta cần tính. MN chúng ta đã có rồi chính là bằng $2\\sqrt{2}$.",
+      "start": 1624.56,
+      "end": 1634.76,
+      "n_words": 35,
+      "start_frame": 48688,
+      "end_frame": 48994,
+      "keyframes": [
+        "048738.webp",
+        "048888.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Trong khi OE thì chắc chắn chúng ta sẽ tính được, OE thì nó sẽ bằng căn của $2^2 + (-1)^2$.",
+      "start": 1635.52,
+      "end": 1643.36,
+      "n_words": 21,
+      "start_frame": 49017,
+      "end_frame": 49251,
+      "keyframes": [
+        "049038.webp",
+        "049188.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúng ta thay $MN = 2\\sqrt{2}$, từ đây dễ dàng tính được $OM^2 + ON^2$ là bằng 14.",
+      "start": 1644.88,
+      "end": 1651.44,
+      "n_words": 18,
+      "start_frame": 49297,
+      "end_frame": 49494,
+      "keyframes": [
+        "049338.webp",
+        "049488.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Do đó cái biểu thức A sẽ có giá trị là bằng 14, ta chọn đáp án B.",
+      "start": 1652.0,
+      "end": 1659.44,
+      "n_words": 18,
+      "start_frame": 49510,
+      "end_frame": 49733,
+      "keyframes": [
+        "049638.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thì qua ví dụ này chúng ta thấy từ một cái bài toán thuần về số phức thì chúng ta đã chuyển hoàn toàn về một cái bài toán hình học, thì đây là một cái lời giải rất đẹp và các em lưu ý bài toán này. Cuối cùng là chúng ta đến với ví dụ số 7.",
+      "start": 1659.44,
+      "end": 1679.44,
+      "n_words": 59,
+      "start_frame": 49733,
+      "end_frame": 50333,
+      "keyframes": [
+        "049788.webp",
+        "049938.webp",
+        "050088.webp",
+        "050166.webp",
+        "050170.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ví dụ số 7 có nội dung như sau: Cho số phức $z, w$ thỏa mãn $|z| = 1, |w| = \\sqrt{5}$.",
+      "start": 1679.44,
+      "end": 1686.72,
+      "n_words": 22,
+      "start_frame": 50333,
+      "end_frame": 50551,
+      "keyframes": [
+        "050551.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đề bài hỏi khi $|z - w| = 2$ thì $|3z - 2w|$ bằng bao nhiêu? Thì bài này hoàn toàn chúng ta có thể giải bằng phương pháp đại số, tuy nhiên ở đây thầy sẽ giới thiệu cách làm bằng phương pháp hình học. Thì dĩ nhiên đầu tiên chúng ta sẽ gọi A, B, C, D lần lượt là điểm biểu diễn của $z, w, 3z$ và $2w$. Giờ $|z| = 1$ tức là độ dài của đoạn OA là bằng 1, $|w| = \\sqrt{5}$ tức là $OB = \\sqrt{5}$, $|z - w| = 2$. $|z - w|$ chính là độ dài đoạn AB, tức là $AB = 2$. Từ đây dễ thấy cái tam giác OAB này sẽ là một cái tam giác vuông tại A, tại A vì nó thỏa định lý Pythagoras. Tiếp theo có các điểm O, A, B, C, D như hình bên. Tam giác OAB là tam giác vuông, OC = 3 lần OA và OD = 2 lần OB, các em có thể quan sát.",
+      "start": 1690.32,
+      "end": 1785.28,
+      "n_words": 175,
+      "start_frame": 50659,
+      "end_frame": 53505,
+      "keyframes": [
+        "050933.webp",
+        "050934.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Vậy thì bây giờ bài toán chuyển về một cái bài toán hình học yêu cầu tính mô đun của 3z trừ 2v, tức là tính độ dài của đoạn CD. Thì bây giờ, để tính được CD thì hãy gọi H là hình chiếu của D lên OC, hay nói cách khác là DH vuông góc với OC. Thì bây giờ hãy tính DH trước, thì chúng ta có thể thấy ngay B là trung điểm của OD, trong khi DH thì song song với AB, do đó cái AB này chính là đường trung bình của tam giác OD, và do đó DH sẽ = 2 lần của AB. Mà AB = 2, cho nên DH = 4. Tiếp theo thầy sẽ cố gắng tính HC, thì chúng ta sẽ thấy ngay HC chính là = OC mà trừ cho OH. OC chúng ta đã có rồi là = 3, OH thì sẽ = 2 lần của OA = 2*1 = 2. Từ đó tính được HC là = 1. Thì sau khi có DH và HC, chúng ta có thể tính được độ dài đoạn CD bằng định lý Pythagoras: CD = căn của HD mũ hai cộng HC mũ hai, chính là = căn của 4 mũ hai cộng 1 mũ hai và = căn 17. Chúng ta chọn đáp án A và kết thúc bài toán.",
+      "start": 1785.28,
+      "end": 1878.36,
+      "n_words": 231,
+      "start_frame": 53505,
+      "end_frame": 56294,
+      "keyframes": [
+        "053615.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thì trên đây là toàn bộ các ví dụ liên quan đến chủ đề số phức trong chuyên đề ngày hôm nay. Hẹn gặp lại các em ở các chuyên đề tiếp theo.",
+      "start": 1878.36,
+      "end": 1886.84,
+      "n_words": 33,
+      "start_frame": 56294,
+      "end_frame": 56549,
+      "keyframes": [
+        "056296.webp",
+        "056297.webp",
+        "056458.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Xin chào và hẹn gặp lại các em.",
+      "start": 1886.84,
+      "end": 1889.44,
+      "n_words": 8,
+      "start_frame": 56549,
+      "end_frame": 56627,
+      "keyframes": [
+        "056619.webp",
+        "056623.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

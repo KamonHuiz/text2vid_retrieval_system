@@ -1,0 +1,661 @@
+{
+  "video_id": "L26_V061",
+  "fps": 25.0,
+  "n_sentences": 37,
+  "total_words": 895,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày: cá lòng tông rim nước mắm, hương vị sông nước đậm đà say đắm.",
+      "start": 10.48,
+      "end": 29.24,
+      "n_words": 18,
+      "start_frame": 262,
+      "end_frame": 731,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000357.webp",
+        "000415.webp",
+        "000416.webp",
+        "000458.webp",
+        "000501.webp",
+        "000502.webp",
+        "000554.webp",
+        "000607.webp",
+        "000608.webp",
+        "000698.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Rất vui khi được gặp lại các bạn khán giả đang xem chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành.",
+      "start": 29.24,
+      "end": 36.56,
+      "n_words": 22,
+      "start_frame": 731,
+      "end_frame": 914,
+      "keyframes": [
+        "000788.webp",
+        "000789.webp",
+        "000909.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam, trà Kim Thảo và Trên Bàn.",
+      "start": 36.56,
+      "end": 43.48,
+      "n_words": 17,
+      "start_frame": 914,
+      "end_frame": 1087,
+      "keyframes": [
+        "001029.webp",
+        "001030.webp",
+        "001057.webp",
+        "001085.webp",
+        "001086.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Trong ngày hôm nay, chúng ta có nguyên liệu chính là cá lòng tông; Cá lòng tông hoặc cá cơm cũng được.",
+      "start": 43.48,
+      "end": 51.08,
+      "n_words": 22,
+      "start_frame": 1087,
+      "end_frame": 1277,
+      "keyframes": [
+        "001110.webp",
+        "001134.webp",
+        "001135.webp",
+        "001196.webp",
+        "001257.webp",
+        "001258.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Mình sẽ làm món gì nè?",
+      "start": 51.08,
+      "end": 52.52,
+      "n_words": 6,
+      "start_frame": 1277,
+      "end_frame": 1313,
+      "keyframes": [
+        "001284.webp",
+        "001310.webp",
+        "001311.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cá lòng tông thì thường là sẽ kho và ăn rất bắt cơm.",
+      "start": 52.52,
+      "end": 55.92,
+      "n_words": 13,
+      "start_frame": 1313,
+      "end_frame": 1398,
+      "keyframes": [
+        "001338.webp",
+        "001365.webp",
+        "001366.webp",
+        "001381.webp",
+        "001397.webp",
+        "001398.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Món cá lòng tông hôm nay chúng ta không kho các bạn ơi, mà chúng ta rim đậm nước mắm.",
+      "start": 55.92,
+      "end": 59.28,
+      "n_words": 20,
+      "start_frame": 1398,
+      "end_frame": 1482,
+      "keyframes": [
+        "001398.webp",
+        "001440.webp",
+        "001482.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nước mắm ok, chúng ta nên ướp cá với một ít muối trước để cho cá thấm vị nè và cá được săn chắc, khi chiên sẽ giòn hơn.",
+      "start": 59.28,
+      "end": 68.44,
+      "n_words": 29,
+      "start_frame": 1482,
+      "end_frame": 1711,
+      "keyframes": [
+        "001482.webp",
+        "001483.webp",
+        "001497.webp",
+        "001512.webp",
+        "001513.webp",
+        "001609.webp",
+        "001706.webp",
+        "001707.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta sẽ bật một cái chảo dầu trước, dầu đã nóng rồi thì các bạn chúng ta cho vào để một ít rượu trắng trần thật là nhanh nha các bạn.",
+      "start": 68.44,
+      "end": 76.44,
+      "n_words": 32,
+      "start_frame": 1711,
+      "end_frame": 1911,
+      "keyframes": [
+        "001736.webp",
+        "001766.webp",
+        "001767.webp",
+        "001795.webp",
+        "001824.webp",
+        "001825.webp",
+        "001847.webp",
+        "001870.webp",
+        "001871.webp",
+        "001911.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Thưa các bạn, chúng ta trần nhanh cá qua nước pha rượu để cá được thơm, không bị tanh và sau khi chiên cá sẽ được giòn lâu hơn nha các bạn. Cá lòng tông như mọi người biết là đặc sản của vùng miền Tây sông nước đúng không ạ?",
+      "start": 76.44,
+      "end": 89.08,
+      "n_words": 51,
+      "start_frame": 1911,
+      "end_frame": 2227,
+      "keyframes": [
+        "001911.webp",
+        "001951.webp",
+        "001952.webp",
+        "002025.webp",
+        "002099.webp",
+        "002100.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Nhưng mà đặc biệt hơn nữa là cá lòng tông ở Phong Điền, Cần Thơ thì thường được mọi người nhắc đến rất là nhiều, cho cá săn và thơm.",
+      "start": 89.08,
+      "end": 96.92,
+      "n_words": 30,
+      "start_frame": 2227,
+      "end_frame": 2423,
+      "keyframes": [
+        "002245.webp",
+        "002390.webp",
+        "002391.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta ngâm qua đá lạnh để cá săn chắc lại.",
+      "start": 96.92,
+      "end": 100.16,
+      "n_words": 11,
+      "start_frame": 2423,
+      "end_frame": 2504,
+      "keyframes": [
+        "002425.webp",
+        "002460.webp",
+        "002461.webp",
+        "002492.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cá lòng tông có độ dinh dưỡng rất là cao, ví dụ như là có protein, vitamin A nè và cả canxi nữa, cho nên ăn sẽ rất tốt cho sức khỏe và bổ xương.",
+      "start": 100.16,
+      "end": 110.52,
+      "n_words": 35,
+      "start_frame": 2504,
+      "end_frame": 2763,
+      "keyframes": [
+        "002523.webp",
+        "002524.webp",
+        "002596.webp",
+        "002668.webp",
+        "002669.webp",
+        "002715.webp",
+        "002762.webp",
+        "002763.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta có ở đây ba muỗng canh nước lọc, nêm vào đây nửa muỗng cà phê bột ngọt Ajinomoto, thêm một muỗng canh đường, thêm một muỗng canh nước mắm, phải khuấy đều giúp anh cho nó tan.",
+      "start": 110.52,
+      "end": 123.12,
+      "n_words": 39,
+      "start_frame": 2763,
+      "end_frame": 3078,
+      "keyframes": [
+        "002763.webp",
+        "002793.webp",
+        "002823.webp",
+        "002824.webp",
+        "002862.webp",
+        "002900.webp",
+        "002901.webp",
+        "002931.webp",
+        "002962.webp",
+        "002963.webp",
+        "002989.webp",
+        "003016.webp",
+        "003017.webp",
+        "003052.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Kế tiếp chúng ta sẽ chuẩn bị các cái gia vị để chúng ta cho vào sau cùng: vài nhánh hành lá cắt nhỏ như vậy, khoảng năm ly, đừng cắt nhỏ quá.",
+      "start": 123.12,
+      "end": 135.36,
+      "n_words": 33,
+      "start_frame": 3078,
+      "end_frame": 3384,
+      "keyframes": [
+        "003087.webp",
+        "003088.webp",
+        "003143.webp",
+        "003199.webp",
+        "003200.webp",
+        "003273.webp",
+        "003346.webp",
+        "003347.webp",
+        "003364.webp",
+        "003382.webp",
+        "003383.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Ớt sừng chúng ta cũng cắt miếng nhỏ ha, khoảng năm ly.",
+      "start": 135.36,
+      "end": 143.56,
+      "n_words": 12,
+      "start_frame": 3384,
+      "end_frame": 3589,
+      "keyframes": [
+        "003465.webp",
+        "003547.webp",
+        "003548.webp",
+        "003571.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và cá làm sẵn chúng ta để ráo, chúng ta cho ở đây đầu hành lá, ớt, nửa muỗng cà phê bột ngọt cho vào đây, khoảng nửa gói gia vị Nam Sản, bột tẩm khô chiên giòn rồi đó, xắt nhỏ đều như vậy.",
+      "start": 143.56,
+      "end": 162.88,
+      "n_words": 45,
+      "start_frame": 3589,
+      "end_frame": 4072,
+      "keyframes": [
+        "003595.webp",
+        "003596.webp",
+        "003633.webp",
+        "003670.webp",
+        "003671.webp",
+        "003713.webp",
+        "003755.webp",
+        "003756.webp",
+        "003781.webp",
+        "003806.webp",
+        "003807.webp",
+        "003836.webp",
+        "003866.webp",
+        "003867.webp",
+        "003892.webp",
+        "003917.webp",
+        "003918.webp",
+        "003973.webp",
+        "004029.webp",
+        "004030.webp",
+        "004053.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Chúng ta bật đây một cái chảo và một cái điều chia sẻ này các bạn: đối với món ăn này thì chúng ta dùng cá lòng tong đá thì nó sẽ to hơn và nó ngọt hơn.",
+      "start": 162.88,
+      "end": 172.96,
+      "n_words": 38,
+      "start_frame": 4072,
+      "end_frame": 4324,
+      "keyframes": [
+        "004076.webp",
+        "004077.webp",
+        "004116.webp",
+        "004155.webp",
+        "004156.webp",
+        "004213.webp",
+        "004270.webp",
+        "004271.webp",
+        "004297.webp",
+        "004323.webp",
+        "004324.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Thường cá lòng tong đá là con sẽ to hơn, cái màu vàng nhạt nè; Và còn cá lòng tong bay thì con nó bé hơn, cái màu nó trắng trắng đục và thịt nó sẽ thơm hơn, nó ngọt hơn.",
+      "start": 172.96,
+      "end": 183.84,
+      "n_words": 41,
+      "start_frame": 4324,
+      "end_frame": 4596,
+      "keyframes": [
+        "004324.webp",
+        "004454.webp",
+        "004585.webp",
+        "004586.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng ta thả cá vào chiên, nhờ có gia vị nêm sẵn, bột tẩm khô chiên giòn cho nên là cá sẽ có một cái độ giòn nhẹ khi mà chúng ta chiên chín đúng không anh?",
+      "start": 183.84,
+      "end": 195.16,
+      "n_words": 37,
+      "start_frame": 4596,
+      "end_frame": 4879,
+      "keyframes": [
+        "004611.webp",
+        "004637.webp",
+        "004638.webp",
+        "004696.webp",
+        "004755.webp",
+        "004756.webp",
+        "004830.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Đúng rồi, rất là nhanh vàng luôn á anh Vũ.",
+      "start": 195.16,
+      "end": 198.28,
+      "n_words": 10,
+      "start_frame": 4879,
+      "end_frame": 4957,
+      "keyframes": [
+        "004905.webp",
+        "004906.webp",
+        "004933.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng rồi, bớt ra để giấy thấm dầu như vậy.",
+      "start": 198.28,
+      "end": 205.4,
+      "n_words": 10,
+      "start_frame": 4957,
+      "end_frame": 5135,
+      "keyframes": [
+        "004961.webp",
+        "004962.webp",
+        "004987.webp",
+        "005012.webp",
+        "005013.webp",
+        "005042.webp",
+        "005072.webp",
+        "005073.webp",
+        "005103.webp",
+        "005133.webp",
+        "005134.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Chúng ta rim cá này, cho ớt cho nó trông lên, cho cá vào chúng ta sắp đều.",
+      "start": 205.4,
+      "end": 215.28,
+      "n_words": 18,
+      "start_frame": 5135,
+      "end_frame": 5382,
+      "keyframes": [
+        "005169.webp",
+        "005205.webp",
+        "005206.webp",
+        "005240.webp",
+        "005274.webp",
+        "005275.webp",
+        "005300.webp",
+        "005325.webp",
+        "005326.webp",
+        "005356.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Đây là công đoạn hấp dẫn nhất ạ: đổ nước rim vô bạn.",
+      "start": 215.28,
+      "end": 222.72,
+      "n_words": 13,
+      "start_frame": 5382,
+      "end_frame": 5568,
+      "keyframes": [
+        "005387.webp",
+        "005388.webp",
+        "005417.webp",
+        "005447.webp",
+        "005448.webp",
+        "005464.webp",
+        "005481.webp",
+        "005482.webp",
+        "005520.webp",
+        "005558.webp",
+        "005559.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Lươi khi chúng ta cho nước rưới vào, nhớ xóc nhanh với lửa lớn để cho cá được bóng và giữ được độ giòn nha các bạn.",
+      "start": 222.72,
+      "end": 228.8,
+      "n_words": 27,
+      "start_frame": 5568,
+      "end_frame": 5720,
+      "keyframes": [
+        "005638.webp",
+        "005717.webp",
+        "005718.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đó, bắt đầu thấy miếng cá nó bóng bẩy lại rồi đó.",
+      "start": 228.8,
+      "end": 233.48,
+      "n_words": 12,
+      "start_frame": 5720,
+      "end_frame": 5837,
+      "keyframes": [
+        "005750.webp",
+        "005782.webp",
+        "005783.webp",
+        "005805.webp",
+        "005827.webp",
+        "005828.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Tắt lửa, tắt lửa, cho hành lá vào rồi xong.",
+      "start": 233.48,
+      "end": 242.04,
+      "n_words": 10,
+      "start_frame": 5837,
+      "end_frame": 6051,
+      "keyframes": [
+        "005853.webp",
+        "005879.webp",
+        "005880.webp",
+        "005936.webp",
+        "005993.webp",
+        "005994.webp",
+        "006039.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Thế là món ăn chúng ta đã hoàn tất.",
+      "start": 242.04,
+      "end": 244.24,
+      "n_words": 9,
+      "start_frame": 6051,
+      "end_frame": 6106,
+      "keyframes": [
+        "006084.webp",
+        "006085.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Món ăn ngày hôm nay xong trong tích tắc luôn ạ và một số những cái bí kíp cũng đã được lưu lại rồi phải không các bạn khán giả?",
+      "start": 244.24,
+      "end": 251.12,
+      "n_words": 30,
+      "start_frame": 6106,
+      "end_frame": 6278,
+      "keyframes": [
+        "006108.webp",
+        "006131.webp",
+        "006132.webp",
+        "006202.webp",
+        "006272.webp",
+        "006273.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và để xem lại trọn bộ công thức của món ăn ngày hôm nay, chỉ cần quét mã QR trên màn hình của chúng tôi nha mọi người.",
+      "start": 251.12,
+      "end": 260.16,
+      "n_words": 28,
+      "start_frame": 6278,
+      "end_frame": 6504,
+      "keyframes": [
+        "006351.webp",
+        "006429.webp",
+        "006430.webp",
+        "006454.webp",
+        "006479.webp",
+        "006480.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và thưa các bạn, thấy là chúng ta đã có ngay một món ăn dân dã và rất là dễ làm đúng không nào?",
+      "start": 263.36,
+      "end": 268.64,
+      "n_words": 24,
+      "start_frame": 6584,
+      "end_frame": 6716,
+      "keyframes": [
+        "006634.webp",
+        "006714.webp",
+        "006715.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và món này chúng ta dùng kèm với cơm hoặc là xôi cũng rất là hợp.",
+      "start": 268.64,
+      "end": 272.0,
+      "n_words": 16,
+      "start_frame": 6716,
+      "end_frame": 6800,
+      "keyframes": [
+        "006756.webp",
+        "006798.webp",
+        "006799.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Món này chúng ta có thể kết hợp cùng với thêm một món xào lá mướp, thế là chúng ta sẽ có ngay món Bắc và món Nam.",
+      "start": 272.0,
+      "end": 279.68,
+      "n_words": 28,
+      "start_frame": 6800,
+      "end_frame": 6992,
+      "keyframes": [
+        "006879.webp",
+        "006959.webp",
+        "006960.webp",
+        "006976.webp",
+        "006992.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ngày hôm nay là một món rất là quen thuộc, dân dã nhưng mà không kém phần hấp dẫn nha: cá được chiên vàng giòn, màu nước rim bắt mắt, cắn vào thịt cá dai dai mặn ngọt đậm đà, ăn cùng rau thơm và dưa leo là nhớ quê tràn ngập.",
+      "start": 279.68,
+      "end": 295.36,
+      "n_words": 52,
+      "start_frame": 6992,
+      "end_frame": 7384,
+      "keyframes": [
+        "006992.webp",
+        "006993.webp",
+        "007054.webp",
+        "007116.webp",
+        "007117.webp",
+        "007145.webp",
+        "007174.webp",
+        "007189.webp",
+        "007236.webp",
+        "007283.webp",
+        "007284.webp",
+        "007351.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Cá lòng tông rim nước mắm, nghe thôi là đã thấy nhớ nhà dưới quê rồi đúng không ạ?",
+      "start": 295.36,
+      "end": 301.32,
+      "n_words": 19,
+      "start_frame": 7384,
+      "end_frame": 7533,
+      "keyframes": [
+        "007419.webp",
+        "007420.webp",
+        "007498.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Sẵn tay vào bếp thực hiện luôn nhé!",
+      "start": 301.32,
+      "end": 303.04,
+      "n_words": 8,
+      "start_frame": 7533,
+      "end_frame": 7576,
+      "keyframes": [
+        "007576.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và để kết hợp món ăn ngày hôm nay với nhiều món ăn khác nữa, chỉ cần truy cập vào YouTube, website, fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 303.04,
+      "end": 311.92,
+      "n_words": 30,
+      "start_frame": 7576,
+      "end_frame": 7798,
+      "keyframes": [
+        "007576.webp",
+        "007577.webp",
+        "007677.webp",
+        "007777.webp",
+        "007778.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

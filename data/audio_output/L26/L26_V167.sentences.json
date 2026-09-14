@@ -1,0 +1,746 @@
+{
+  "video_id": "L26_V167",
+  "fps": 25.0,
+  "n_sentences": 39,
+  "total_words": 927,
+  "sentences": [
+    {
+      "text": "Có món ngon mỗi ngày, tạo hình bánh xinh với pancake hoa cúc.",
+      "start": 0.0,
+      "end": 32.8,
+      "n_words": 13,
+      "start_frame": 0,
+      "end_frame": 820,
+      "keyframes": [
+        "000000.webp",
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000130.webp",
+        "000147.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp",
+        "000352.webp",
+        "000404.webp",
+        "000405.webp",
+        "000488.webp",
+        "000571.webp",
+        "000586.webp",
+        "000633.webp",
+        "000681.webp",
+        "000682.webp",
+        "000772.webp"
+      ],
+      "keyframe_count": 47
+    },
+    {
+      "text": "Chào mừng các bạn đang đến với chương trình Món ngon mỗi ngày: Nấu chuẩn an lành.",
+      "start": 32.8,
+      "end": 38.92,
+      "n_words": 17,
+      "start_frame": 820,
+      "end_frame": 973,
+      "keyframes": [
+        "000862.webp",
+        "000863.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Azino Việt Nam.",
+      "start": 38.92,
+      "end": 43.12,
+      "n_words": 11,
+      "start_frame": 973,
+      "end_frame": 1078,
+      "keyframes": [
+        "000982.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cô Hà ơi, trong muôn vàn những cái món ăn sáng thì bé nhà em thích nhất là món bánh pancake.",
+      "start": 43.12,
+      "end": 48.0,
+      "n_words": 21,
+      "start_frame": 1078,
+      "end_frame": 1200,
+      "keyframes": [
+        "001102.webp",
+        "001103.webp",
+        "001131.webp",
+        "001159.webp",
+        "001160.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ngày hôm nay được biết là cô Hà sẽ biến tấu pancake mặn, trời ơi em thích vô cùng luôn đấy ạ!",
+      "start": 48.0,
+      "end": 52.6,
+      "n_words": 22,
+      "start_frame": 1200,
+      "end_frame": 1315,
+      "keyframes": [
+        "001213.webp",
+        "001267.webp",
+        "001268.webp",
+        "001289.webp",
+        "001311.webp",
+        "001312.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cô sẽ làm với lại xúc xích nè, với lại trứng gà nè, toàn là những thứ mà các bé rất là thích luôn đó.",
+      "start": 52.6,
+      "end": 59.08,
+      "n_words": 25,
+      "start_frame": 1315,
+      "end_frame": 1477,
+      "keyframes": [
+        "001380.webp",
+        "001449.webp",
+        "001450.webp",
+        "001462.webp",
+        "001474.webp",
+        "001475.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hôm nay thì chúng ta sẽ cùng nhau làm món bánh hoa cúc.",
+      "start": 59.08,
+      "end": 62.76,
+      "n_words": 13,
+      "start_frame": 1477,
+      "end_frame": 1569,
+      "keyframes": [
+        "001522.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đối với lại xúc xích thì chúng ta sẽ tạo hình hoa cúc.",
+      "start": 62.76,
+      "end": 66.4,
+      "n_words": 13,
+      "start_frame": 1569,
+      "end_frame": 1660,
+      "keyframes": [
+        "001570.webp",
+        "001571.webp",
+        "001614.webp",
+        "001657.webp",
+        "001658.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta cũng có thể sử dụng hai cái que xiên ha, các bạn nên dùng hai cây xiên tre giữ hai bên cây xúc xích để khi mình cắt tạo hình thì cây xúc xích không bị đứt rời ra.",
+      "start": 66.4,
+      "end": 76.0,
+      "n_words": 41,
+      "start_frame": 1660,
+      "end_frame": 1900,
+      "keyframes": [
+        "001690.webp",
+        "001723.webp",
+        "001724.webp",
+        "001809.webp",
+        "001894.webp",
+        "001895.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Mình sẽ chặn lại ở phía dưới này, khúc này nè, mình sẽ cắt thành những cái lát bằng nhau nhưng mà nó sẽ không rời nhau, nó sẽ dính lại nhau như thế này thấy không, sẽ rất là đều.",
+      "start": 76.0,
+      "end": 86.96,
+      "n_words": 41,
+      "start_frame": 1900,
+      "end_frame": 2174,
+      "keyframes": [
+        "001933.webp",
+        "001971.webp",
+        "001972.webp",
+        "001993.webp",
+        "002015.webp",
+        "002016.webp",
+        "002044.webp",
+        "002073.webp",
+        "002074.webp",
+        "002102.webp",
+        "002130.webp",
+        "002131.webp",
+        "002158.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Rồi chúng ta sẽ tạo hình xúc xích thành hình những cái hoa cúc rất là xinh xắn bằng cách là chúng ta sẽ tạo một cái lớp đế ở phía dưới để giữ lại để từng miếng xúc xích không bị rời rạc thì cũng sẽ cắt phu ra như thế này.",
+      "start": 86.96,
+      "end": 109.08,
+      "n_words": 53,
+      "start_frame": 2174,
+      "end_frame": 2727,
+      "keyframes": [
+        "002186.webp",
+        "002187.webp",
+        "002243.webp",
+        "002300.webp",
+        "002301.webp",
+        "002349.webp",
+        "002398.webp",
+        "002399.webp",
+        "002430.webp",
+        "002461.webp",
+        "002462.webp",
+        "002502.webp",
+        "002543.webp",
+        "002630.webp",
+        "002631.webp",
+        "002632.webp",
+        "002633.webp",
+        "002684.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Sau khi mà mình đã cắt cái phần xúc xích xong, mình cắt dọc ra làm đôi.",
+      "start": 109.08,
+      "end": 113.96,
+      "n_words": 17,
+      "start_frame": 2727,
+      "end_frame": 2849,
+      "keyframes": [
+        "002735.webp",
+        "002736.webp",
+        "002790.webp",
+        "002845.webp",
+        "002846.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta sẽ dùng một cây tăm, chúng ta sẽ ghim lại để định hình cái khoanh xúc xích nó tròn như thế này, như là hình một cái bông hoa cúc.",
+      "start": 113.96,
+      "end": 122.92,
+      "n_words": 32,
+      "start_frame": 2849,
+      "end_frame": 3073,
+      "keyframes": [
+        "002890.webp",
+        "002934.webp",
+        "002935.webp",
+        "002977.webp",
+        "003019.webp",
+        "003020.webp",
+        "003047.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Chúng ta sẽ sử dụng bột bánh rán pha sẵn buổi sáng dinh dưỡng, rồi một gói bột pha với 105 ml nước.",
+      "start": 122.92,
+      "end": 131.6,
+      "n_words": 23,
+      "start_frame": 3073,
+      "end_frame": 3290,
+      "keyframes": [
+        "003075.webp",
+        "003076.webp",
+        "003105.webp",
+        "003135.webp",
+        "003136.webp",
+        "003155.webp",
+        "003174.webp",
+        "003175.webp",
+        "003198.webp",
+        "003221.webp",
+        "003222.webp",
+        "003261.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Bột này rất là đơn giản, chúng ta chỉ cần pha với nước thôi, bột sẽ tan mịn đều và mình đổ bánh ngay là không cần phải chờ đợi gì hết.",
+      "start": 131.6,
+      "end": 139.12,
+      "n_words": 32,
+      "start_frame": 3290,
+      "end_frame": 3478,
+      "keyframes": [
+        "003301.webp",
+        "003302.webp",
+        "003329.webp",
+        "003356.webp",
+        "003357.webp",
+        "003396.webp",
+        "003435.webp",
+        "003436.webp",
+        "003457.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Nhiệm vụ của Thanh Phương là sẽ áp chảo cái phần xúc xích này.",
+      "start": 139.12,
+      "end": 142.28,
+      "n_words": 14,
+      "start_frame": 3478,
+      "end_frame": 3557,
+      "keyframes": [
+        "003479.webp",
+        "003480.webp",
+        "003499.webp",
+        "003518.webp",
+        "003519.webp",
+        "003542.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Giờ em mở lửa lên đi, cô sẽ hướng dẫn em cách mà làm cái nhân xúc xích đó.",
+      "start": 142.28,
+      "end": 146.32,
+      "n_words": 19,
+      "start_frame": 3557,
+      "end_frame": 3658,
+      "keyframes": [
+        "003566.webp",
+        "003567.webp",
+        "003585.webp",
+        "003604.webp",
+        "003605.webp",
+        "003630.webp",
+        "003656.webp",
+        "003657.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Còn phần trứng gà này Thanh Phương cũng sẽ đập ra và lấy từng cái lòng đỏ.",
+      "start": 146.32,
+      "end": 149.48,
+      "n_words": 17,
+      "start_frame": 3658,
+      "end_frame": 3737,
+      "keyframes": [
+        "003697.webp",
+        "003737.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cái chảo nó nóng rồi đó, giờ em sẽ cho một cái bông cúc vô rồi em giữ xíu ha cho nó thẳng cái phần hoa cúc này, và bây giờ thì chúng ta cũng sẽ bắt đầu đổ bánh pancake.",
+      "start": 149.48,
+      "end": 159.2,
+      "n_words": 41,
+      "start_frame": 3737,
+      "end_frame": 3980,
+      "keyframes": [
+        "003737.webp",
+        "003738.webp",
+        "003780.webp",
+        "003823.webp",
+        "003824.webp",
+        "003870.webp",
+        "003916.webp",
+        "003917.webp",
+        "003953.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Em lấy cái đó em cũng ấn nó xuống để cho nó định hình cái hoa cúc cho nó đẹp, rồi em bỏ vô đi.",
+      "start": 159.64,
+      "end": 167.64,
+      "n_words": 25,
+      "start_frame": 3991,
+      "end_frame": 4191,
+      "keyframes": [
+        "004043.webp",
+        "004097.webp",
+        "004098.webp",
+        "004115.webp",
+        "004132.webp",
+        "004133.webp",
+        "004168.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Rồi đó, khi áp chảo xúc xích chúng ta lưu ý là áp chảo với lửa nhỏ và đậy nắp lại để cho mặt trứng se lại thì sẽ dễ dàng làm hơn.",
+      "start": 167.64,
+      "end": 177.04,
+      "n_words": 33,
+      "start_frame": 4191,
+      "end_frame": 4426,
+      "keyframes": [
+        "004204.webp",
+        "004205.webp",
+        "004277.webp",
+        "004350.webp",
+        "004351.webp",
+        "004388.webp",
+        "004425.webp",
+        "004426.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Bên đây thì chảo nóng rồi thì chúng ta sẽ giảm nhiệt và chúng ta sẽ múc bột đổ vô trứng dừa chín lòng đào.",
+      "start": 177.04,
+      "end": 187.0,
+      "n_words": 25,
+      "start_frame": 4426,
+      "end_frame": 4675,
+      "keyframes": [
+        "004426.webp",
+        "004459.webp",
+        "004492.webp",
+        "004493.webp",
+        "004536.webp",
+        "004579.webp",
+        "004580.webp",
+        "004613.webp",
+        "004647.webp",
+        "004648.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Bây giờ cô dở lên và em rắc một ít mè đen rang dạ.",
+      "start": 187.0,
+      "end": 193.0,
+      "n_words": 14,
+      "start_frame": 4675,
+      "end_frame": 4825,
+      "keyframes": [
+        "004684.webp",
+        "004720.webp",
+        "004721.webp",
+        "004753.webp",
+        "004786.webp",
+        "004787.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đó, cứ vậy em làm tiếp cái phần còn lại nữa.",
+      "start": 193.0,
+      "end": 203.88,
+      "n_words": 11,
+      "start_frame": 4825,
+      "end_frame": 5097,
+      "keyframes": [
+        "004849.webp",
+        "004911.webp",
+        "004912.webp",
+        "004935.webp",
+        "004959.webp",
+        "004960.webp",
+        "004979.webp",
+        "004999.webp",
+        "005000.webp",
+        "005041.webp",
+        "005082.webp",
+        "005083.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Cô ơi em làm thêm một cái nhân nữa rồi nè!",
+      "start": 203.88,
+      "end": 207.04,
+      "n_words": 11,
+      "start_frame": 5097,
+      "end_frame": 5176,
+      "keyframes": [
+        "005124.webp",
+        "005166.webp",
+        "005167.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cảm ơn Phương, trời ơi bữa nay Phương làm nhân đẹp quá đi.",
+      "start": 207.04,
+      "end": 210.52,
+      "n_words": 13,
+      "start_frame": 5176,
+      "end_frame": 5263,
+      "keyframes": [
+        "005198.webp",
+        "005230.webp",
+        "005231.webp",
+        "005255.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Lần lượt chúng ta sẽ đổ những cái bánh bằng nhau cho đến khi hết bột.",
+      "start": 210.52,
+      "end": 214.24,
+      "n_words": 16,
+      "start_frame": 5263,
+      "end_frame": 5356,
+      "keyframes": [
+        "005279.webp",
+        "005280.webp",
+        "005315.webp",
+        "005351.webp",
+        "005352.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Với món ăn ngày hôm nay, các bạn có thể theo dõi lại công thức bằng cách quét mã QR đang hiển thị trên màn hình.",
+      "start": 214.24,
+      "end": 221.6,
+      "n_words": 26,
+      "start_frame": 5356,
+      "end_frame": 5540,
+      "keyframes": [
+        "005421.webp",
+        "005490.webp",
+        "005491.webp",
+        "005515.webp",
+        "005540.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Mình sẽ đặt mấy cái bánh lên trên cái đĩa nè, chúng ta sẽ phết lên đây một ít mayonnaise vị nguyên bản, rồi tiếp theo là mình sẽ đặt lên một ít xà lách.",
+      "start": 221.6,
+      "end": 234.68,
+      "n_words": 35,
+      "start_frame": 5540,
+      "end_frame": 5867,
+      "keyframes": [
+        "005540.webp",
+        "005541.webp",
+        "005561.webp",
+        "005581.webp",
+        "005582.webp",
+        "005604.webp",
+        "005627.webp",
+        "005628.webp",
+        "005654.webp",
+        "005681.webp",
+        "005682.webp",
+        "005705.webp",
+        "005728.webp",
+        "005729.webp",
+        "005758.webp",
+        "005788.webp",
+        "005789.webp",
+        "005828.webp",
+        "005867.webp"
+      ],
+      "keyframe_count": 19
+    },
+    {
+      "text": "Cô Hà ơi, em rất là thích ăn cà chua, chính vì vậy là em đã xí hẳn một cái cà chua to như thế này để nhờ cô Hà là sẽ giúp em bỏ vào làm nhân đấy ạ.",
+      "start": 234.68,
+      "end": 244.08,
+      "n_words": 40,
+      "start_frame": 5867,
+      "end_frame": 6102,
+      "keyframes": [
+        "005867.webp",
+        "005868.webp",
+        "005931.webp",
+        "005994.webp",
+        "005995.webp",
+        "006015.webp",
+        "006036.webp",
+        "006037.webp",
+        "006062.webp",
+        "006088.webp",
+        "006089.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Được, đặt hai cái lớp bánh lên nữa, phết một ít mayonnaise lên, cô sẽ đặt lên đây cái phần nhân, còn bên này thì mình sẽ đặt phần này lên, cho một ít xà lách lên.",
+      "start": 244.08,
+      "end": 264.0,
+      "n_words": 37,
+      "start_frame": 6102,
+      "end_frame": 6600,
+      "keyframes": [
+        "006116.webp",
+        "006143.webp",
+        "006144.webp",
+        "006162.webp",
+        "006180.webp",
+        "006181.webp",
+        "006215.webp",
+        "006249.webp",
+        "006250.webp",
+        "006274.webp",
+        "006299.webp",
+        "006300.webp",
+        "006328.webp",
+        "006357.webp",
+        "006358.webp",
+        "006391.webp",
+        "006425.webp",
+        "006426.webp",
+        "006472.webp",
+        "006518.webp",
+        "006519.webp",
+        "006567.webp"
+      ],
+      "keyframe_count": 22
+    },
+    {
+      "text": "Thay vì nhị hoa chúng ta làm bằng lòng đỏ trứng, chúng ta cũng có thể dùng các loại xà lách, cà chua để làm tăng cái lượng rau củ cho món ăn, cho một cọng ngò lên này.",
+      "start": 264.0,
+      "end": 275.8,
+      "n_words": 39,
+      "start_frame": 6600,
+      "end_frame": 6895,
+      "keyframes": [
+        "006615.webp",
+        "006616.webp",
+        "006639.webp",
+        "006662.webp",
+        "006663.webp",
+        "006750.webp",
+        "006837.webp",
+        "006838.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Như vậy là chúng ta đã hoàn thành món ăn ngày hôm nay.",
+      "start": 275.8,
+      "end": 278.48,
+      "n_words": 13,
+      "start_frame": 6895,
+      "end_frame": 6962,
+      "keyframes": [
+        "006901.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Với món ăn này thì chúng ta có thể kết hợp cùng với món trà sữa ba màu.",
+      "start": 278.48,
+      "end": 285.12,
+      "n_words": 18,
+      "start_frame": 6962,
+      "end_frame": 7128,
+      "keyframes": [
+        "006964.webp",
+        "006965.webp",
+        "007028.webp",
+        "007091.webp",
+        "007092.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bánh xốp mềm làm nền cho trứng chín lòng đào rực rỡ và cánh hoa xúc xích.",
+      "start": 285.12,
+      "end": 290.56,
+      "n_words": 17,
+      "start_frame": 7128,
+      "end_frame": 7264,
+      "keyframes": [
+        "007144.webp",
+        "007196.webp",
+        "007211.webp",
+        "007254.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cắn vào miếng bánh béo ngậy, bùi của mè và ngọt thơm của xúc xích cuốn hút.",
+      "start": 290.56,
+      "end": 297.04,
+      "n_words": 17,
+      "start_frame": 7264,
+      "end_frame": 7426,
+      "keyframes": [
+        "007297.webp",
+        "007298.webp",
+        "007360.webp",
+        "007423.webp",
+        "007424.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Món ăn sáng xinh yêu dành cho các bé nhà bạn đây rồi, hãy nhanh tay trổ tài thực hiện nhé!",
+      "start": 297.04,
+      "end": 302.2,
+      "n_words": 21,
+      "start_frame": 7426,
+      "end_frame": 7555,
+      "keyframes": [
+        "007490.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Để xem lại công thức của món ăn này, các bạn có thể truy cập vào kênh YouTube, website và fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 302.2,
+      "end": 308.44,
+      "n_words": 28,
+      "start_frame": 7555,
+      "end_frame": 7711,
+      "keyframes": [
+        "007556.webp",
+        "007557.webp",
+        "007695.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Còn bây giờ xin được mến chào tạm biệt, hẹn gặp lại quý vị và các bạn trong những chương trình lần sau.",
+      "start": 308.44,
+      "end": 313.48,
+      "n_words": 23,
+      "start_frame": 7711,
+      "end_frame": 7837,
+      "keyframes": [
+        "007834.webp",
+        "007835.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

@@ -1,0 +1,831 @@
+{
+  "video_id": "L26_V274",
+  "fps": 25.0,
+  "n_sentences": 47,
+  "total_words": 1095,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.48,
+      "end": 12.4,
+      "n_words": 4,
+      "start_frame": 262,
+      "end_frame": 310,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Sinh ăn cái gì ngon ngon?",
+      "start": 12.4,
+      "end": 17.6,
+      "n_words": 6,
+      "start_frame": 310,
+      "end_frame": 440,
+      "keyframes": [
+        "000331.webp",
+        "000362.webp",
+        "000363.webp",
+        "000393.webp",
+        "000423.webp",
+        "000424.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Nghe đậm mùi gà, muốn gà tui cái gì nè?",
+      "start": 17.6,
+      "end": 20.0,
+      "n_words": 10,
+      "start_frame": 440,
+      "end_frame": 500,
+      "keyframes": [
+        "000470.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nói đi, rồi không lẽ lời ca tiếng hát của Phương đã chạm đến trái tim của Sinh sao?",
+      "start": 20.0,
+      "end": 24.96,
+      "n_words": 19,
+      "start_frame": 500,
+      "end_frame": 624,
+      "keyframes": [
+        "000516.webp",
+        "000517.webp",
+        "000569.webp",
+        "000621.webp",
+        "000622.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nhất là trái tim có tâm hồn ăn uống như nói luôn cho lẹ nè, Giáng sinh sắp đến, một món ngon gì đó để sum vầy với gia đình đi.",
+      "start": 24.96,
+      "end": 34.52,
+      "n_words": 31,
+      "start_frame": 624,
+      "end_frame": 863,
+      "keyframes": [
+        "000655.webp",
+        "000688.webp",
+        "000689.webp",
+        "000724.webp",
+        "000760.webp",
+        "000761.webp",
+        "000808.webp",
+        "000856.webp",
+        "000857.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Ngày của sum vầy, ngày của hạnh phúc mà thật ra là bây giờ sẽ có một cái chất để thúc đẩy tăng cái lượng hormone hạnh phúc trong con người, mà chất đó có rất là nhiều trong cánh gà nha.",
+      "start": 34.52,
+      "end": 45.16,
+      "n_words": 42,
+      "start_frame": 863,
+      "end_frame": 1129,
+      "keyframes": [
+        "000887.webp",
+        "000917.webp",
+        "000918.webp",
+        "000941.webp",
+        "000964.webp",
+        "000965.webp",
+        "000996.webp",
+        "001027.webp",
+        "001028.webp",
+        "001054.webp",
+        "001081.webp",
+        "001082.webp",
+        "001105.webp",
+        "001129.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Hay vậy đó hả?",
+      "start": 45.16,
+      "end": 46.44,
+      "n_words": 4,
+      "start_frame": 1129,
+      "end_frame": 1161,
+      "keyframes": [
+        "001129.webp",
+        "001130.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Vậy là một món gà cho đêm Giáng sinh và bây giờ thử vào bếp ngay: cánh gà sốt mù tạt nóng hổi giòn tan đón Noel rộn ràng nhé. Chào các bạn khán giả đến với chương trình Món ngon mỗi ngày.",
+      "start": 46.44,
+      "end": 76.88,
+      "n_words": 43,
+      "start_frame": 1161,
+      "end_frame": 1922,
+      "keyframes": [
+        "001172.webp",
+        "001215.webp",
+        "001216.webp",
+        "001230.webp",
+        "001244.webp",
+        "001245.webp",
+        "001260.webp",
+        "001276.webp",
+        "001277.webp",
+        "001301.webp",
+        "001326.webp",
+        "001327.webp",
+        "001393.webp",
+        "001459.webp",
+        "001460.webp",
+        "001517.webp",
+        "001575.webp",
+        "001590.webp",
+        "001632.webp",
+        "001675.webp",
+        "001676.webp",
+        "001766.webp",
+        "001856.webp",
+        "001857.webp"
+      ],
+      "keyframe_count": 24
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 76.88,
+      "end": 80.08,
+      "n_words": 11,
+      "start_frame": 1922,
+      "end_frame": 2002,
+      "keyframes": [
+        "001931.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cánh gà thì chúng ta mua ngoài chợ về rửa sạch, để ráo nước, cắt theo từng khớp như vậy đó.",
+      "start": 80.08,
+      "end": 85.08,
+      "n_words": 21,
+      "start_frame": 2002,
+      "end_frame": 2127,
+      "keyframes": [
+        "002006.webp",
+        "002007.webp",
+        "002036.webp",
+        "002065.webp",
+        "002066.webp",
+        "002094.webp",
+        "002122.webp",
+        "002123.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta lật lên và chúng ta nhấn nhẹ nó một cái là nó sẽ đứt ra.",
+      "start": 85.08,
+      "end": 88.96,
+      "n_words": 17,
+      "start_frame": 2127,
+      "end_frame": 2224,
+      "keyframes": [
+        "002148.webp",
+        "002174.webp",
+        "002175.webp",
+        "002199.webp",
+        "002224.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Để hôm nay món ăn được đẹp hơn thì Sinh sẽ cắt bỏ cái phần chớp cánh này nha, mình sẽ không dùng và cất đi để mình nấu nước dùng hoặc làm món ăn khác.",
+      "start": 88.96,
+      "end": 96.72,
+      "n_words": 36,
+      "start_frame": 2224,
+      "end_frame": 2418,
+      "keyframes": [
+        "002224.webp",
+        "002225.webp",
+        "002254.webp",
+        "002283.webp",
+        "002284.webp",
+        "002368.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi, quá là tâm lý luôn bởi vì đây sẽ là món ăn sum vầy trong ngày Giáng sinh mà, cho nên bắt mắt và hấp dẫn.",
+      "start": 96.72,
+      "end": 104.12,
+      "n_words": 27,
+      "start_frame": 2418,
+      "end_frame": 2603,
+      "keyframes": [
+        "002453.webp",
+        "002454.webp",
+        "002507.webp",
+        "002561.webp",
+        "002562.webp",
+        "002584.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và để cho món ăn này được ngon hơn, phần này hơi to thịt dày, chúng ta sẽ dùng mũi dao đâm sơ đều hết các phần trên cánh gà.",
+      "start": 104.12,
+      "end": 112.88,
+      "n_words": 30,
+      "start_frame": 2603,
+      "end_frame": 2822,
+      "keyframes": [
+        "002606.webp",
+        "002607.webp",
+        "002627.webp",
+        "002648.webp",
+        "002649.webp",
+        "002666.webp",
+        "002683.webp",
+        "002684.webp",
+        "002717.webp",
+        "002751.webp",
+        "002752.webp",
+        "002787.webp",
+        "002822.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Thì bây giờ chúng ta sẽ có nửa muỗng cà phê tiêu để cho món ăn được thơm hơn nha.",
+      "start": 112.88,
+      "end": 116.72,
+      "n_words": 20,
+      "start_frame": 2822,
+      "end_frame": 2918,
+      "keyframes": [
+        "002822.webp",
+        "002823.webp",
+        "002845.webp",
+        "002868.webp",
+        "002869.webp",
+        "002891.webp",
+        "002913.webp",
+        "002914.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Rồi trong thời gian mà chúng ta chờ cái phần cánh gà này nó thấm một chút xíu cái vị tiêu, thì Sinh sẽ nhờ Minh Phương cắt múi cau cái phần hành tây, còn hành lá thì chúng ta cắt khúc khoảng 3 cm.",
+      "start": 116.72,
+      "end": 126.72,
+      "n_words": 45,
+      "start_frame": 2918,
+      "end_frame": 3168,
+      "keyframes": [
+        "002942.webp",
+        "002971.webp",
+        "002972.webp",
+        "003000.webp",
+        "003029.webp",
+        "003030.webp",
+        "003066.webp",
+        "003103.webp",
+        "003104.webp",
+        "003146.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Và bây giờ chúng ta sẽ pha cái phần sốt này trước nha: hai muỗng canh mù tạt vàng, một muỗng canh nước tương Phú Sĩ để món ăn thêm đậm đà, nửa muỗng cà phê đường nữa nha, cần thêm ba muỗng canh nước nữa.",
+      "start": 128.92,
+      "end": 140.44,
+      "n_words": 46,
+      "start_frame": 3223,
+      "end_frame": 3511,
+      "keyframes": [
+        "003228.webp",
+        "003229.webp",
+        "003255.webp",
+        "003282.webp",
+        "003283.webp",
+        "003303.webp",
+        "003323.webp",
+        "003324.webp",
+        "003355.webp",
+        "003386.webp",
+        "003387.webp",
+        "003426.webp",
+        "003465.webp",
+        "003466.webp",
+        "003483.webp",
+        "003500.webp",
+        "003501.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Và bây giờ chúng ta sẽ hòa tan hỗn hợp này lên.",
+      "start": 140.44,
+      "end": 142.68,
+      "n_words": 12,
+      "start_frame": 3511,
+      "end_frame": 3567,
+      "keyframes": [
+        "003519.webp",
+        "003538.webp",
+        "003539.webp",
+        "003553.webp",
+        "003567.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Các bạn nên nhớ là chúng ta hòa gia vị mù tạt và nước để cho gia vị tan đều và sốt có độ sánh vừa phải nha.",
+      "start": 142.68,
+      "end": 148.76,
+      "n_words": 28,
+      "start_frame": 3567,
+      "end_frame": 3719,
+      "keyframes": [
+        "003567.webp",
+        "003568.webp",
+        "003601.webp",
+        "003634.webp",
+        "003635.webp",
+        "003676.webp",
+        "003718.webp",
+        "003719.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Và bây giờ chúng ta sẽ chiên gà.",
+      "start": 148.76,
+      "end": 150.68,
+      "n_words": 8,
+      "start_frame": 3719,
+      "end_frame": 3767,
+      "keyframes": [
+        "003719.webp",
+        "003739.webp",
+        "003759.webp",
+        "003760.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Minh Phương sẽ mở lửa lên, rồi chúng ta sẽ cho một gói gia vị nem sẵn Ajinomoto bột tẩm khô chiên giòn vào đây nha.",
+      "start": 150.68,
+      "end": 157.92,
+      "n_words": 26,
+      "start_frame": 3767,
+      "end_frame": 3948,
+      "keyframes": [
+        "003789.webp",
+        "003818.webp",
+        "003819.webp",
+        "003848.webp",
+        "003878.webp",
+        "003879.webp",
+        "003912.webp",
+        "003945.webp",
+        "003946.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Các bạn nên nhớ chúng ta nên xăm cánh gà trước để gia vị nem sẵn Ajinomoto bột tẩm khô chiên giòn được thấm sâu vào và cánh gà được đậm đà hơn nha.",
+      "start": 157.92,
+      "end": 165.44,
+      "n_words": 34,
+      "start_frame": 3948,
+      "end_frame": 4136,
+      "keyframes": [
+        "003998.webp",
+        "004050.webp",
+        "004051.webp",
+        "004093.webp",
+        "004136.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thì ra Minh Phương hiểu rồi, đây là lý do mà ở phần đầu khi mà chúng ta ướp gà, Sinh hướng dẫn là chỉ thêm một chút xíu tiêu thôi, bởi vì gia vị nem sẵn Ajinomoto bột tẩm khô chiên giòn đã đầy đủ gia vị rồi.",
+      "start": 165.44,
+      "end": 175.12,
+      "n_words": 49,
+      "start_frame": 4136,
+      "end_frame": 4378,
+      "keyframes": [
+        "004136.webp",
+        "004137.webp",
+        "004214.webp",
+        "004292.webp",
+        "004293.webp",
+        "004345.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Gia vị rồi, dầu đã nóng và bây giờ chúng ta sẽ cho cánh gà vào nha.",
+      "start": 175.12,
+      "end": 180.76,
+      "n_words": 17,
+      "start_frame": 4378,
+      "end_frame": 4519,
+      "keyframes": [
+        "004397.webp",
+        "004398.webp",
+        "004519.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta sẽ chiên ở mức lửa trung bình, không nhỏ và cũng không lớn quá để gà được chín sâu bên trong nha.",
+      "start": 180.76,
+      "end": 189.2,
+      "n_words": 24,
+      "start_frame": 4519,
+      "end_frame": 4730,
+      "keyframes": [
+        "004519.webp",
+        "004640.webp",
+        "004641.webp",
+        "004681.webp",
+        "004722.webp",
+        "004723.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rất là thích cái cách áo một cái lớp bột mỏng bên ngoài như Sinh hướng dẫn, nó sẽ không bị quá dày, sẽ tạo ra cảm giác là ngấy và ngán.",
+      "start": 189.2,
+      "end": 197.8,
+      "n_words": 32,
+      "start_frame": 4730,
+      "end_frame": 4945,
+      "keyframes": [
+        "004783.webp",
+        "004844.webp",
+        "004845.webp",
+        "004876.webp",
+        "004907.webp",
+        "004908.webp",
+        "004932.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Đúng rồi, cái lớp bột này rất là mỏng, vừa đủ giòn nhưng mà không tạo cảm giác là quá nhiều tinh bột cho cái món ăn này.",
+      "start": 197.8,
+      "end": 204.12,
+      "n_words": 28,
+      "start_frame": 4945,
+      "end_frame": 5103,
+      "keyframes": [
+        "004956.webp",
+        "004957.webp",
+        "004997.webp",
+        "005038.webp",
+        "005039.webp",
+        "005068.webp",
+        "005098.webp",
+        "005099.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Đó, mấy phần mỏng này màu đã quá đẹp rồi.",
+      "start": 204.12,
+      "end": 206.56,
+      "n_words": 10,
+      "start_frame": 5103,
+      "end_frame": 5164,
+      "keyframes": [
+        "005127.webp",
+        "005156.webp",
+        "005157.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Wow, cái màu vàng đẹp quá trời!",
+      "start": 206.56,
+      "end": 209.84,
+      "n_words": 7,
+      "start_frame": 5164,
+      "end_frame": 5246,
+      "keyframes": [
+        "005184.webp",
+        "005211.webp",
+        "005212.webp",
+        "005229.webp",
+        "005246.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ làm phần sốt để áo đều hết phần cánh gà nữa là hoàn tất nha.",
+      "start": 209.84,
+      "end": 213.6,
+      "n_words": 20,
+      "start_frame": 5246,
+      "end_frame": 5340,
+      "keyframes": [
+        "005246.webp",
+        "005247.webp",
+        "005270.webp",
+        "005293.webp",
+        "005294.webp",
+        "005315.webp",
+        "005336.webp",
+        "005337.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Cũng cần một chút xíu dầu ăn vào đây, phần chảo đã nóng thì chúng ta sẽ phi thơm cái phần hành và tỏi đã được chuẩn bị nha.",
+      "start": 213.6,
+      "end": 219.72,
+      "n_words": 29,
+      "start_frame": 5340,
+      "end_frame": 5493,
+      "keyframes": [
+        "005362.webp",
+        "005387.webp",
+        "005388.webp",
+        "005416.webp",
+        "005445.webp",
+        "005446.webp",
+        "005470.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Khi mà hành tỏi đã thơm rồi á thì chúng ta sẽ cho phần ớt băm vào, chúng ta đảo sơ thôi và cái phần sốt đã chuẩn bị chúng ta cho vào luôn.",
+      "start": 219.72,
+      "end": 226.48,
+      "n_words": 34,
+      "start_frame": 5493,
+      "end_frame": 5662,
+      "keyframes": [
+        "005494.webp",
+        "005495.webp",
+        "005518.webp",
+        "005542.webp",
+        "005543.webp",
+        "005560.webp",
+        "005578.webp",
+        "005579.webp",
+        "005604.webp",
+        "005629.webp",
+        "005630.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Oh wow, thơm quá Sinh ơi!",
+      "start": 226.48,
+      "end": 230.4,
+      "n_words": 6,
+      "start_frame": 5662,
+      "end_frame": 5760,
+      "keyframes": [
+        "005718.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Mùi tỏi nè, hành, hương thơm đặc trưng của mù tạt vàng và nước tương Phú Sĩ.",
+      "start": 230.4,
+      "end": 236.0,
+      "n_words": 17,
+      "start_frame": 5760,
+      "end_frame": 5900,
+      "keyframes": [
+        "005806.webp",
+        "005807.webp",
+        "005851.webp",
+        "005895.webp",
+        "005896.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Mình rung lên phần sốt sẽ sánh lại rất là ngon.",
+      "start": 236.0,
+      "end": 238.48,
+      "n_words": 11,
+      "start_frame": 5900,
+      "end_frame": 5962,
+      "keyframes": [
+        "005927.webp",
+        "005958.webp",
+        "005959.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cho cái phần hành tây và hành lá cắt khúc vào đảo đều qua, cho phần cánh gà vừa chiên, chúng ta xóc đều cho sốt bám áo đều hết phần cánh gà là được ha.",
+      "start": 238.48,
+      "end": 248.04,
+      "n_words": 36,
+      "start_frame": 5962,
+      "end_frame": 6201,
+      "keyframes": [
+        "005988.webp",
+        "006017.webp",
+        "006018.webp",
+        "006039.webp",
+        "006060.webp",
+        "006061.webp",
+        "006072.webp",
+        "006084.webp",
+        "006085.webp",
+        "006101.webp",
+        "006117.webp",
+        "006118.webp",
+        "006153.webp",
+        "006189.webp",
+        "006190.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Tắt bếp, sốt vừa áo đều hết phần cánh gà và chúng ta đem đi trang trí thôi nha.",
+      "start": 248.04,
+      "end": 253.04,
+      "n_words": 19,
+      "start_frame": 6201,
+      "end_frame": 6326,
+      "keyframes": [
+        "006227.webp",
+        "006264.webp",
+        "006265.webp",
+        "006294.webp",
+        "006323.webp",
+        "006324.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Các bạn ơi, trong quá trình làm thì các bạn hãy lưu ý thao tác cũng như là các ghi nhớ của đầu bếp nha.",
+      "start": 253.04,
+      "end": 258.28,
+      "n_words": 25,
+      "start_frame": 6326,
+      "end_frame": 6457,
+      "keyframes": [
+        "006412.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và nếu như chúng ta bỏ lỡ một giai đoạn nào thì chỉ cần sử dụng điện thoại di động quét mã QR code đang hiển thị bên trên màn hình để xem lại công thức của món ăn ngày hôm nay.",
+      "start": 258.28,
+      "end": 268.84,
+      "n_words": 42,
+      "start_frame": 6457,
+      "end_frame": 6721,
+      "keyframes": [
+        "006500.webp",
+        "006501.webp",
+        "006588.webp",
+        "006675.webp",
+        "006676.webp",
+        "006700.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và bây giờ món ăn đã hoàn thành thì chúng ta trang trí và thưởng thức thôi nào.",
+      "start": 268.84,
+      "end": 272.72,
+      "n_words": 18,
+      "start_frame": 6721,
+      "end_frame": 6818,
+      "keyframes": [
+        "006725.webp",
+        "006726.webp",
+        "006753.webp",
+        "006781.webp",
+        "006782.webp",
+        "006811.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Một màu vàng óng ánh rất là hấp dẫn đúng không?",
+      "start": 272.72,
+      "end": 275.12,
+      "n_words": 11,
+      "start_frame": 6818,
+      "end_frame": 6878,
+      "keyframes": [
+        "006841.webp",
+        "006842.webp",
+        "006866.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng rồi, nhưng mà cái điều quan trọng nhất chính là cái hương thơm, sự kết hợp giữa các gia vị nè, mù tạt vàng và nước tương Phú Sĩ.",
+      "start": 275.12,
+      "end": 283.24,
+      "n_words": 30,
+      "start_frame": 6878,
+      "end_frame": 7081,
+      "keyframes": [
+        "006891.webp",
+        "006892.webp",
+        "006932.webp",
+        "006972.webp",
+        "006973.webp",
+        "006989.webp",
+        "007006.webp",
+        "007007.webp",
+        "007044.webp",
+        "007081.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Để món ăn được hoàn chỉnh hơn thì chúng ta nên kết hợp món cánh gà này với món đọt xu xào tôm nha.",
+      "start": 283.24,
+      "end": 288.24,
+      "n_words": 24,
+      "start_frame": 7081,
+      "end_frame": 7206,
+      "keyframes": [
+        "007081.webp",
+        "007082.webp",
+        "007141.webp",
+        "007201.webp",
+        "007202.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cánh gà giòn tan, mềm mọng phủ đầy sốt thơm thơm mùi hành, đậm đà và chua nhẹ từ mù tạt vàng.",
+      "start": 288.24,
+      "end": 295.92,
+      "n_words": 22,
+      "start_frame": 7206,
+      "end_frame": 7398,
+      "keyframes": [
+        "007260.webp",
+        "007319.webp",
+        "007320.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng điệu món ngon rình rang đón lễ Giáng sinh đã về trên khắp nẻo đường rồi.",
+      "start": 295.92,
+      "end": 301.56,
+      "n_words": 17,
+      "start_frame": 7398,
+      "end_frame": 7539,
+      "keyframes": [
+        "007402.webp",
+        "007485.webp",
+        "007486.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hãy vào bếp và trổ tài để gửi lời yêu thương đến những người thân của bạn nhé.",
+      "start": 301.56,
+      "end": 305.56,
+      "n_words": 18,
+      "start_frame": 7539,
+      "end_frame": 7639,
+      "keyframes": [
+        "007562.webp",
+        "007639.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và các bạn cũng có thể truy cập vào kênh YouTube, website và fanpage của chương trình để xem lại rất nhiều công thức của các món ăn ngon.",
+      "start": 305.56,
+      "end": 313.44,
+      "n_words": 29,
+      "start_frame": 7639,
+      "end_frame": 7836,
+      "keyframes": [
+        "007639.webp",
+        "007640.webp",
+        "007725.webp",
+        "007810.webp",
+        "007811.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

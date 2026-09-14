@@ -1,0 +1,858 @@
+{
+  "video_id": "L26_V349",
+  "fps": 25.0,
+  "n_sentences": 47,
+  "total_words": 924,
+  "sentences": [
+    {
+      "text": "Gà món ngon mỗi ngày.",
+      "start": 0.04,
+      "end": 12.0,
+      "n_words": 5,
+      "start_frame": 1,
+      "end_frame": 300,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000130.webp",
+        "000147.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 36
+    },
+    {
+      "text": "Hay quá!",
+      "start": 12.0,
+      "end": 12.56,
+      "n_words": 2,
+      "start_frame": 300,
+      "end_frame": 314,
+      "keyframes": [
+        "000300.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ngày hôm nay gặp anh Vũ.",
+      "start": 12.56,
+      "end": 13.68,
+      "n_words": 6,
+      "start_frame": 314,
+      "end_frame": 342,
+      "keyframes": [
+        "000322.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "\"Em có khó khăn này em không biết chia sẻ cùng ai, chỉ có chia sẻ cùng anh thôi.",
+      "start": 13.68,
+      "end": 17.68,
+      "n_words": 19,
+      "start_frame": 342,
+      "end_frame": 442,
+      "keyframes": [
+        "000345.webp",
+        "000346.webp",
+        "000388.webp",
+        "000430.webp",
+        "000431.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Vũ ơi, cánh gà sao không biết làm gì hết trơn?\"",
+      "start": 17.68,
+      "end": 20.36,
+      "n_words": 11,
+      "start_frame": 442,
+      "end_frame": 509,
+      "keyframes": [
+        "000450.webp",
+        "000469.webp",
+        "000470.webp",
+        "000492.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "\"Á hả?",
+      "start": 20.36,
+      "end": 20.92,
+      "n_words": 2,
+      "start_frame": 509,
+      "end_frame": 523,
+      "keyframes": [
+        "000515.webp",
+        "000516.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Không, em biết là mình sẽ làm cái gì nhưng em không biết mình phải làm thế nào thôi.",
+      "start": 20.92,
+      "end": 25.88,
+      "n_words": 19,
+      "start_frame": 523,
+      "end_frame": 647,
+      "keyframes": [
+        "000571.webp",
+        "000627.webp",
+        "000628.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cuối cùng là em muốn cái gì?",
+      "start": 25.88,
+      "end": 28.2,
+      "n_words": 7,
+      "start_frame": 647,
+      "end_frame": 705,
+      "keyframes": [
+        "000666.webp",
+        "000705.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ý của em là cánh gà thì em làm nhiều món lắm rồi, em chiên xù, chiên giòn, chiên nước mắm nhiều món lắm cho mấy bạn nhỏ nhà em ăn, nhưng mà bây giờ em đang suy nghĩ ra món gì đó độc đáo, lạ miệng thì anh Vũ có cái gợi ý nào không?\"",
+      "start": 28.2,
+      "end": 41.04,
+      "n_words": 56,
+      "start_frame": 705,
+      "end_frame": 1026,
+      "keyframes": [
+        "000705.webp",
+        "000706.webp",
+        "000742.webp",
+        "000778.webp",
+        "000779.webp",
+        "000833.webp",
+        "000888.webp",
+        "000889.webp",
+        "000916.webp",
+        "000944.webp",
+        "000945.webp",
+        "000964.webp",
+        "000984.webp",
+        "000985.webp",
+        "001006.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "\"Cái món cánh gà là các bạn nhỏ rất là thích.",
+      "start": 41.04,
+      "end": 43.68,
+      "n_words": 11,
+      "start_frame": 1026,
+      "end_frame": 1092,
+      "keyframes": [
+        "001028.webp",
+        "001029.webp",
+        "001055.webp",
+        "001082.webp",
+        "001083.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Giờ thì anh sẽ chia sẻ cho em một cái món ăn quen nhưng mà lạ.",
+      "start": 43.68,
+      "end": 47.8,
+      "n_words": 16,
+      "start_frame": 1092,
+      "end_frame": 1195,
+      "keyframes": [
+        "001121.webp",
+        "001160.webp",
+        "001161.webp",
+        "001185.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ mời các bạn cùng theo dõi thực hiện món ăn ngày hôm nay nhé: Gà chiên xá xị giòn tan mang vị mới.\"",
+      "start": 47.8,
+      "end": 71.6,
+      "n_words": 25,
+      "start_frame": 1195,
+      "end_frame": 1790,
+      "keyframes": [
+        "001210.webp",
+        "001211.webp",
+        "001239.webp",
+        "001267.webp",
+        "001268.webp",
+        "001292.webp",
+        "001317.webp",
+        "001318.webp",
+        "001357.webp",
+        "001397.webp",
+        "001398.webp",
+        "001457.webp",
+        "001516.webp",
+        "001531.webp",
+        "001576.webp",
+        "001621.webp",
+        "001622.webp",
+        "001708.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Mến chào các bạn khán giả đang xem chương trình Món ngon mỗi ngày.",
+      "start": 71.6,
+      "end": 74.88,
+      "n_words": 14,
+      "start_frame": 1790,
+      "end_frame": 1872,
+      "keyframes": [
+        "001795.webp",
+        "001796.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 74.88,
+      "end": 79.2,
+      "n_words": 11,
+      "start_frame": 1872,
+      "end_frame": 1980,
+      "keyframes": [
+        "001922.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và thưa các bạn, với bốn cái cánh gà thì đầu tiên chúng ta cắt ra thành từng miếng kích cỡ khoảng 3 centimet.",
+      "start": 79.2,
+      "end": 85.56,
+      "n_words": 24,
+      "start_frame": 1980,
+      "end_frame": 2139,
+      "keyframes": [
+        "002048.webp",
+        "002049.webp",
+        "002098.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Như vậy chúng ta cho vào đây khoảng một muỗng canh nước tỏi.",
+      "start": 85.56,
+      "end": 89.04,
+      "n_words": 13,
+      "start_frame": 2139,
+      "end_frame": 2226,
+      "keyframes": [
+        "002148.webp",
+        "002149.webp",
+        "002186.webp",
+        "002223.webp",
+        "002224.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thường ăn gà rán thì các bé rất là thích uống với lại nước ngọt đúng không?",
+      "start": 89.04,
+      "end": 93.08,
+      "n_words": 17,
+      "start_frame": 2226,
+      "end_frame": 2327,
+      "keyframes": [
+        "002274.webp",
+        "002325.webp",
+        "002326.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hôm nay anh dùng cái mùi nước ngọt xá xị, anh ướp vào đây khoảng chừng hai muỗng canh nước xá xị nha.",
+      "start": 93.08,
+      "end": 99.44,
+      "n_words": 23,
+      "start_frame": 2327,
+      "end_frame": 2486,
+      "keyframes": [
+        "002357.webp",
+        "002389.webp",
+        "002390.webp",
+        "002422.webp",
+        "002455.webp",
+        "002456.webp",
+        "002485.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Hay quá đó!",
+      "start": 99.44,
+      "end": 100.6,
+      "n_words": 3,
+      "start_frame": 2486,
+      "end_frame": 2515,
+      "keyframes": [
+        "002514.webp",
+        "002515.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Một muỗng cà phê hạt nêm Ajinomoto ngon gà, chúng ta trộn đều ướp khoảng 15 phút.",
+      "start": 100.6,
+      "end": 106.36,
+      "n_words": 17,
+      "start_frame": 2515,
+      "end_frame": 2659,
+      "keyframes": [
+        "002515.webp",
+        "002536.webp",
+        "002558.webp",
+        "002559.webp",
+        "002577.webp",
+        "002596.webp",
+        "002597.webp",
+        "002627.webp",
+        "002657.webp",
+        "002658.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Thì hành lá cắt xéo cũng khoảng 2 centimet thôi ha, rồi ớt khô khoảng năm quả thôi, ngâm mềm ra chúng ta cũng cắt xéo thôi.",
+      "start": 106.36,
+      "end": 115.6,
+      "n_words": 27,
+      "start_frame": 2659,
+      "end_frame": 2890,
+      "keyframes": [
+        "002683.webp",
+        "002708.webp",
+        "002709.webp",
+        "002733.webp",
+        "002757.webp",
+        "002758.webp",
+        "002820.webp",
+        "002882.webp",
+        "002883.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Chúng ta ngắt cây cho các bé thì chúng ta khỏi cho vào.",
+      "start": 115.6,
+      "end": 118.56,
+      "n_words": 13,
+      "start_frame": 2890,
+      "end_frame": 2964,
+      "keyframes": [
+        "002924.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bắt đem một cái chảo để chúng ta làm sốt, được gọi là linh hồn của món ăn.",
+      "start": 118.56,
+      "end": 123.2,
+      "n_words": 18,
+      "start_frame": 2964,
+      "end_frame": 3080,
+      "keyframes": [
+        "002965.webp",
+        "002966.webp",
+        "002996.webp",
+        "003026.webp",
+        "003027.webp",
+        "003061.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đúng vậy, cho tỏi vào khoảng một muỗng canh rồi một muỗng cà phê gừng băm, cho ớt khô vào xào để mùi thơm lên.",
+      "start": 123.2,
+      "end": 131.12,
+      "n_words": 25,
+      "start_frame": 3080,
+      "end_frame": 3278,
+      "keyframes": [
+        "003095.webp",
+        "003096.webp",
+        "003128.webp",
+        "003161.webp",
+        "003162.webp",
+        "003184.webp",
+        "003207.webp",
+        "003208.webp",
+        "003217.webp",
+        "003226.webp",
+        "003227.webp",
+        "003252.webp",
+        "003277.webp",
+        "003278.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Cho vào đây khoảng tám muỗng canh nước ngọt xá xị nha, cho tiếp ở đây một muỗng canh tương gà, một muỗng canh tương ớt Hàn Quốc, cho vào đây một muỗng canh nước tương phú sĩ, nửa muỗng cà phê hạt nêm Ajinomoto ngon gà.",
+      "start": 131.12,
+      "end": 146.32,
+      "n_words": 47,
+      "start_frame": 3278,
+      "end_frame": 3658,
+      "keyframes": [
+        "003278.webp",
+        "003301.webp",
+        "003324.webp",
+        "003325.webp",
+        "003355.webp",
+        "003386.webp",
+        "003387.webp",
+        "003414.webp",
+        "003442.webp",
+        "003443.webp",
+        "003477.webp",
+        "003511.webp",
+        "003512.webp",
+        "003536.webp",
+        "003560.webp",
+        "003561.webp",
+        "003576.webp",
+        "003591.webp",
+        "003592.webp",
+        "003612.webp",
+        "003633.webp",
+        "003634.webp"
+      ],
+      "keyframe_count": 22
+    },
+    {
+      "text": "Khuấy đều lên rồi nhìn cái sốt là kẹo thảo, bảo đảm luôn là làm món gì cũng ngon với cái sốt này.",
+      "start": 146.32,
+      "end": 152.52,
+      "n_words": 23,
+      "start_frame": 3658,
+      "end_frame": 3813,
+      "keyframes": [
+        "003661.webp",
+        "003688.webp",
+        "003689.webp",
+        "003749.webp",
+        "003809.webp",
+        "003810.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi xong, tắt lửa rất là nhanh các bạn.",
+      "start": 152.52,
+      "end": 154.88,
+      "n_words": 9,
+      "start_frame": 3813,
+      "end_frame": 3872,
+      "keyframes": [
+        "003841.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thưa các bạn, chúng ta chỉ cần kết hợp tương ớt Hàn Quốc với lại nước ngọt xá xị để tạo vị cay ngọt mới lạ cho món ăn chút là chén.",
+      "start": 154.88,
+      "end": 162.64,
+      "n_words": 32,
+      "start_frame": 3872,
+      "end_frame": 4066,
+      "keyframes": [
+        "003873.webp",
+        "003874.webp",
+        "003952.webp",
+        "004030.webp",
+        "004031.webp",
+        "004044.webp",
+        "004058.webp",
+        "004059.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Xong bây giờ chúng ta sẽ chiên cái gà cho được giòn.",
+      "start": 162.64,
+      "end": 166.4,
+      "n_words": 12,
+      "start_frame": 4066,
+      "end_frame": 4160,
+      "keyframes": [
+        "004075.webp",
+        "004092.webp",
+        "004093.webp",
+        "004125.webp",
+        "004158.webp",
+        "004159.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thì đầu tiên chúng ta sẽ cho vào đây một ít bột chiên giòn một phần tư gói ở đây, cái bột nó trước như vậy chất đệm để kết dính và phần dính, và phần kế tiếp chúng ta cho tiếp ra tô cho đây khoảng 110 ml nước rồi chúng ta khuấy bột như vậy là được nha các bạn.",
+      "start": 166.4,
+      "end": 184.16,
+      "n_words": 62,
+      "start_frame": 4160,
+      "end_frame": 4604,
+      "keyframes": [
+        "004177.webp",
+        "004196.webp",
+        "004197.webp",
+        "004247.webp",
+        "004297.webp",
+        "004298.webp",
+        "004342.webp",
+        "004386.webp",
+        "004387.webp",
+        "004408.webp",
+        "004430.webp",
+        "004431.webp",
+        "004444.webp",
+        "004458.webp",
+        "004459.webp",
+        "004491.webp",
+        "004524.webp",
+        "004525.webp",
+        "004545.webp",
+        "004566.webp",
+        "004567.webp",
+        "004589.webp"
+      ],
+      "keyframe_count": 22
+    },
+    {
+      "text": "Rồi bây giờ chúng ta tẩm bột ướt luôn nha các bạn, đó thả vô từng miếng từng miếng như vậy.",
+      "start": 184.6,
+      "end": 192.2,
+      "n_words": 21,
+      "start_frame": 4615,
+      "end_frame": 4805,
+      "keyframes": [
+        "004628.webp",
+        "004644.webp",
+        "004645.webp",
+        "004691.webp",
+        "004738.webp",
+        "004739.webp",
+        "004751.webp",
+        "004763.webp",
+        "004764.webp",
+        "004783.webp",
+        "004803.webp",
+        "004804.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "\"Cái này mình sẽ chiên lửa như thế nào anh Vũ à?\"",
+      "start": 192.2,
+      "end": 194.56,
+      "n_words": 12,
+      "start_frame": 4805,
+      "end_frame": 4864,
+      "keyframes": [
+        "004830.webp",
+        "004856.webp",
+        "004857.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "\"Mình chiên dầu vừa, cũng đừng nóng quá.",
+      "start": 194.56,
+      "end": 198.0,
+      "n_words": 8,
+      "start_frame": 4864,
+      "end_frame": 4950,
+      "keyframes": [
+        "004899.webp",
+        "004941.webp",
+        "004942.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Quan trọng chúng ta tẩm cái này để vừa áo mỏng thôi.",
+      "start": 198.0,
+      "end": 200.92,
+      "n_words": 12,
+      "start_frame": 4950,
+      "end_frame": 5023,
+      "keyframes": [
+        "005009.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thưa các bạn, đối với món cánh gà này thì chúng ta tẩm bột khô sau đó chúng ta tẩm ướt để cho bột được bám đều vào trong cánh gà hơn nha các bạn.\"",
+      "start": 200.92,
+      "end": 209.28,
+      "n_words": 35,
+      "start_frame": 5023,
+      "end_frame": 5232,
+      "keyframes": [
+        "005076.webp",
+        "005077.webp",
+        "005153.webp",
+        "005230.webp",
+        "005231.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "\"Cái nào vàng thì em lấy ra nha, màu vàng như thế này là vừa anh Vũ ha?\"",
+      "start": 209.28,
+      "end": 213.08,
+      "n_words": 18,
+      "start_frame": 5232,
+      "end_frame": 5327,
+      "keyframes": [
+        "005256.webp",
+        "005282.webp",
+        "005283.webp",
+        "005312.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "\"Vừa rồi, xíu ta áo vô cái màu đỏ nữa nó sẽ đẹp mắt hơn.\"",
+      "start": 213.08,
+      "end": 216.4,
+      "n_words": 15,
+      "start_frame": 5327,
+      "end_frame": 5410,
+      "keyframes": [
+        "005342.webp",
+        "005343.webp",
+        "005379.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rất là giòn đây, cảm ơn em nhiều.\"",
+      "start": 217.2,
+      "end": 220.6,
+      "n_words": 8,
+      "start_frame": 5430,
+      "end_frame": 5515,
+      "keyframes": [
+        "005436.webp",
+        "005456.webp",
+        "005457.webp",
+        "005511.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Rồi xong màn cuối cùng, chúng ta bắt lấy một cái chảo và chúng ta kết hợp sốt và thịt gà vô.",
+      "start": 220.6,
+      "end": 227.8,
+      "n_words": 22,
+      "start_frame": 5515,
+      "end_frame": 5695,
+      "keyframes": [
+        "005565.webp",
+        "005566.webp",
+        "005627.webp",
+        "005689.webp",
+        "005690.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta cho những miếng gà này vào, chúng ta cho sốt vô nha rồi chúng ta xóc đều lên nha, lên nha không biết các bạn thấy có thèm không ta bạn nhỏ đó.",
+      "start": 227.8,
+      "end": 241.48,
+      "n_words": 35,
+      "start_frame": 5695,
+      "end_frame": 6037,
+      "keyframes": [
+        "005714.webp",
+        "005739.webp",
+        "005740.webp",
+        "005768.webp",
+        "005797.webp",
+        "005798.webp",
+        "005817.webp",
+        "005836.webp",
+        "005837.webp",
+        "005864.webp",
+        "005892.webp",
+        "005893.webp",
+        "005914.webp",
+        "005935.webp",
+        "005936.webp",
+        "005983.webp",
+        "006031.webp",
+        "006032.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Xong chúng ta tắt lửa.",
+      "start": 241.48,
+      "end": 242.6,
+      "n_words": 5,
+      "start_frame": 6037,
+      "end_frame": 6065,
+      "keyframes": [
+        "006055.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Các bạn, chúng ta cho hành bây giờ chúng ta sẽ ra món ăn thôi.",
+      "start": 242.6,
+      "end": 248.32,
+      "n_words": 15,
+      "start_frame": 6065,
+      "end_frame": 6208,
+      "keyframes": [
+        "006079.webp",
+        "006080.webp",
+        "006109.webp",
+        "006138.webp",
+        "006139.webp",
+        "006155.webp",
+        "006172.webp",
+        "006173.webp",
+        "006202.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Xong rồi, miếng bột mịn rồi bây giờ sau cùng thì chúng ta rắc lên đây ít mè trắng ra và thưa các bạn thấy là chúng ta đã hoàn thành xong món cánh gà chiên với lại sốt xá xị.",
+      "start": 248.32,
+      "end": 264.08,
+      "n_words": 41,
+      "start_frame": 6208,
+      "end_frame": 6602,
+      "keyframes": [
+        "006232.webp",
+        "006233.webp",
+        "006257.webp",
+        "006282.webp",
+        "006283.webp",
+        "006310.webp",
+        "006337.webp",
+        "006338.webp",
+        "006360.webp",
+        "006382.webp",
+        "006383.webp",
+        "006401.webp",
+        "006420.webp",
+        "006421.webp",
+        "006462.webp",
+        "006504.webp",
+        "006505.webp",
+        "006555.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Món này thì chúng ta kết hợp với lại món xà lách trộn sốt cam và canh tôm rau cần nước, chúng ta sẽ có ngay một bữa ăn hoàn chỉnh.",
+      "start": 264.08,
+      "end": 271.32,
+      "n_words": 31,
+      "start_frame": 6602,
+      "end_frame": 6783,
+      "keyframes": [
+        "006605.webp",
+        "006606.webp",
+        "006693.webp",
+        "006781.webp",
+        "006782.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Từng miếng gà vàng giòn nóng hổi, áo ngoài một lớp sốt màu nâu đỏ óng ánh hấp dẫn, thịt gà ngọt thơm mùi xá xị, sốt cay cay thêm vị ngọt bùi từ mè, ngon quá xá đã. Món ngon lạ lạ mà cách làm thì dễ không tưởng.",
+      "start": 271.32,
+      "end": 287.04,
+      "n_words": 50,
+      "start_frame": 6783,
+      "end_frame": 7176,
+      "keyframes": [
+        "006808.webp",
+        "006834.webp",
+        "006849.webp",
+        "006885.webp",
+        "006921.webp",
+        "006922.webp",
+        "007008.webp",
+        "007094.webp",
+        "007095.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Mọi người đã nhớ công thức của món gà chiên xá xị chưa?",
+      "start": 287.04,
+      "end": 290.48,
+      "n_words": 13,
+      "start_frame": 7176,
+      "end_frame": 7262,
+      "keyframes": [
+        "007177.webp",
+        "007259.webp",
+        "007260.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nếu chưa thì hãy truy cập vào YouTube, website, fanpage của chương trình nhé.",
+      "start": 290.48,
+      "end": 296.08,
+      "n_words": 14,
+      "start_frame": 7262,
+      "end_frame": 7402,
+      "keyframes": [
+        "007275.webp",
+        "007290.webp",
+        "007291.webp",
+        "007336.webp",
+        "007382.webp",
+        "007383.webp"
+      ],
+      "keyframe_count": 6
+    }
+  ]
+}

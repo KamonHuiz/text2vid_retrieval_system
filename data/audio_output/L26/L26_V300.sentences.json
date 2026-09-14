@@ -1,0 +1,883 @@
+{
+  "video_id": "L26_V300",
+  "fps": 25.0,
+  "n_sentences": 50,
+  "total_words": 978,
+  "sentences": [
+    {
+      "text": "Canh món ngon mỗi ngày.",
+      "start": 0.04,
+      "end": 12.48,
+      "n_words": 5,
+      "start_frame": 1,
+      "end_frame": 312,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000131.webp",
+        "000148.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 33
+    },
+    {
+      "text": "- Cô không biết sao dạo này em thấy em cứ mỗi ngày một già sao á cô?",
+      "start": 12.48,
+      "end": 17.56,
+      "n_words": 18,
+      "start_frame": 312,
+      "end_frame": 439,
+      "keyframes": [
+        "000334.webp",
+        "000369.webp",
+        "000370.webp",
+        "000392.webp",
+        "000415.webp",
+        "000416.webp",
+        "000425.webp",
+        "000435.webp",
+        "000436.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Hay là em sắp hết thanh xuân rồi?",
+      "start": 17.56,
+      "end": 20.2,
+      "n_words": 8,
+      "start_frame": 439,
+      "end_frame": 505,
+      "keyframes": [
+        "000459.webp",
+        "000483.webp",
+        "000484.webp",
+        "000493.webp",
+        "000502.webp",
+        "000503.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "- Giùm tới dùm lui trong nhà bếp này á ai già hơn ai đó?",
+      "start": 20.2,
+      "end": 24.8,
+      "n_words": 15,
+      "start_frame": 505,
+      "end_frame": 620,
+      "keyframes": [
+        "000533.webp",
+        "000564.webp",
+        "000565.webp",
+        "000591.webp",
+        "000618.webp",
+        "000619.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Em còn trẻ lắm Thảo ơi mà lo cái gì.",
+      "start": 24.8,
+      "end": 27.08,
+      "n_words": 10,
+      "start_frame": 620,
+      "end_frame": 677,
+      "keyframes": [
+        "000648.webp",
+        "000677.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "- À cô Hà có cái món nào mà rau củ nào mà có nhiều canxi để mình tốt cho xương khớp không cô Hà?",
+      "start": 27.08,
+      "end": 33.56,
+      "n_words": 25,
+      "start_frame": 677,
+      "end_frame": 839,
+      "keyframes": [
+        "000677.webp",
+        "000678.webp",
+        "000702.webp",
+        "000726.webp",
+        "000727.webp",
+        "000780.webp",
+        "000833.webp",
+        "000834.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "- À muốn bổ sung canxi là từ thực vật đúng không dạ?",
+      "start": 33.56,
+      "end": 37.48,
+      "n_words": 13,
+      "start_frame": 839,
+      "end_frame": 937,
+      "keyframes": [
+        "000861.webp",
+        "000888.webp",
+        "000889.webp",
+        "000920.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Không bị thừa chất chứ gì?",
+      "start": 37.48,
+      "end": 40.08,
+      "n_words": 6,
+      "start_frame": 937,
+      "end_frame": 1002,
+      "keyframes": [
+        "000952.webp",
+        "000953.webp",
+        "000986.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cô nghĩ ra rồi, à đó là chùm ngây đó.",
+      "start": 40.08,
+      "end": 42.96,
+      "n_words": 10,
+      "start_frame": 1002,
+      "end_frame": 1074,
+      "keyframes": [
+        "001020.webp",
+        "001021.webp",
+        "001046.webp",
+        "001072.webp",
+        "001073.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nó có cái hàm lượng canxi cao gấp bốn lần so với sữa và chút đạm thì cao gấp hai lần luôn.",
+      "start": 42.96,
+      "end": 48.84,
+      "n_words": 22,
+      "start_frame": 1074,
+      "end_frame": 1221,
+      "keyframes": [
+        "001149.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "- Á wow!",
+      "start": 48.84,
+      "end": 49.84,
+      "n_words": 3,
+      "start_frame": 1221,
+      "end_frame": 1246,
+      "keyframes": [
+        "001225.webp",
+        "001226.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Vậy thì hôm nay mình nhất định phải nấu một món gì đó thật ngon với chùm ngây nha cô Hà.",
+      "start": 49.84,
+      "end": 54.04,
+      "n_words": 21,
+      "start_frame": 1246,
+      "end_frame": 1351,
+      "keyframes": [
+        "001285.webp",
+        "001344.webp",
+        "001345.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "- Rồi, ưng thì chiều nấu canh chả tôm chùm ngây dinh dưỡng mát lắm, mát lành.",
+      "start": 54.04,
+      "end": 74.2,
+      "n_words": 17,
+      "start_frame": 1351,
+      "end_frame": 1855,
+      "keyframes": [
+        "001361.webp",
+        "001378.webp",
+        "001379.webp",
+        "001403.webp",
+        "001428.webp",
+        "001429.webp",
+        "001466.webp",
+        "001504.webp",
+        "001505.webp",
+        "001547.webp",
+        "001590.webp",
+        "001605.webp",
+        "001667.webp",
+        "001729.webp",
+        "001730.webp",
+        "001816.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Chào mừng các bạn đang đến với chương trình Món ngon mỗi ngày, chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 74.2,
+      "end": 82.88,
+      "n_words": 24,
+      "start_frame": 1855,
+      "end_frame": 2072,
+      "keyframes": [
+        "001903.webp",
+        "001904.webp",
+        "001989.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đầu tiên ở đây nếu mà được thì mình sẽ chọn mua tôm tươi lạnh và mình sẽ lau thật khô tôm.",
+      "start": 82.88,
+      "end": 88.8,
+      "n_words": 22,
+      "start_frame": 2072,
+      "end_frame": 2220,
+      "keyframes": [
+        "002074.webp",
+        "002075.webp",
+        "002084.webp",
+        "002093.webp",
+        "002094.webp",
+        "002130.webp",
+        "002167.webp",
+        "002168.webp",
+        "002194.webp",
+        "002220.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Các bạn lưu ý là chúng ta sẽ lau khô tôm thì xay xong tôm sẽ dai nha.",
+      "start": 88.8,
+      "end": 93.4,
+      "n_words": 18,
+      "start_frame": 2220,
+      "end_frame": 2335,
+      "keyframes": [
+        "002220.webp",
+        "002221.webp",
+        "002276.webp",
+        "002332.webp",
+        "002333.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ cô sẽ cho tôm vào trong cái cối xay này.",
+      "start": 93.4,
+      "end": 95.84,
+      "n_words": 12,
+      "start_frame": 2335,
+      "end_frame": 2396,
+      "keyframes": [
+        "002363.webp",
+        "002394.webp",
+        "002395.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Sau khi cho tôm xong thì cô sẽ cho gia vị vô, cô sẽ cho vô đây là một ít hạt nêm Aji-no-moto nấm, hành lá đã cắt nhỏ nè, mình sẽ thêm vào đây một ít tiêu cho vào trong cối, mình bắt đầu xay ha.",
+      "start": 95.84,
+      "end": 108.48,
+      "n_words": 47,
+      "start_frame": 2396,
+      "end_frame": 2712,
+      "keyframes": [
+        "002428.webp",
+        "002462.webp",
+        "002463.webp",
+        "002507.webp",
+        "002551.webp",
+        "002552.webp",
+        "002571.webp",
+        "002590.webp",
+        "002591.webp",
+        "002621.webp",
+        "002651.webp",
+        "002652.webp",
+        "002681.webp",
+        "002711.webp",
+        "002712.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Và nếu như mà nhà chúng ta không có cối xay, chúng ta cũng có thể là đập giã sau đó mình cho vô cối mình giã mình quất cũng được.",
+      "start": 108.48,
+      "end": 119.08,
+      "n_words": 31,
+      "start_frame": 2712,
+      "end_frame": 2977,
+      "keyframes": [
+        "002712.webp",
+        "002778.webp",
+        "002845.webp",
+        "002846.webp",
+        "002901.webp",
+        "002956.webp",
+        "002957.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Tôm cô đã xay xong thì cô sẽ cho vào đây là một ít ớt băm, mình sử dụng ớt sừng.",
+      "start": 119.08,
+      "end": 124.6,
+      "n_words": 21,
+      "start_frame": 2977,
+      "end_frame": 3115,
+      "keyframes": [
+        "002983.webp",
+        "003010.webp",
+        "003011.webp",
+        "003058.webp",
+        "003106.webp",
+        "003107.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Em trộn lên đi, xong rồi sau đó em sẽ dùng tay em thấm nước và em vo tôm thành những cái viên như mấy cái tay nắm này nha.",
+      "start": 124.6,
+      "end": 133.64,
+      "n_words": 30,
+      "start_frame": 3115,
+      "end_frame": 3341,
+      "keyframes": [
+        "003137.webp",
+        "003167.webp",
+        "003168.webp",
+        "003211.webp",
+        "003254.webp",
+        "003255.webp",
+        "003281.webp",
+        "003307.webp",
+        "003308.webp",
+        "003340.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Rồi đẹp lắm, cứ vậy mà làm hết nha Thảo nha.",
+      "start": 133.64,
+      "end": 137.44,
+      "n_words": 11,
+      "start_frame": 3341,
+      "end_frame": 3436,
+      "keyframes": [
+        "003373.webp",
+        "003374.webp",
+        "003405.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trong lúc đó thì chúng ta sẽ sơ chế đến phần nấm rơm.",
+      "start": 137.44,
+      "end": 140.44,
+      "n_words": 13,
+      "start_frame": 3436,
+      "end_frame": 3511,
+      "keyframes": [
+        "003437.webp",
+        "003438.webp",
+        "003511.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nấm rơm mà sau khi rửa sạch rồi thì bây giờ chúng ta chỉ có cắt đôi thôi, nhưng nếu như nấm nhỏ thì mình có thể để nguyên.",
+      "start": 140.44,
+      "end": 147.36,
+      "n_words": 29,
+      "start_frame": 3511,
+      "end_frame": 3684,
+      "keyframes": [
+        "003511.webp",
+        "003585.webp",
+        "003586.webp",
+        "003632.webp",
+        "003678.webp",
+        "003679.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi tiếp theo thì dưa leo sẽ lạng bỏ bớt cái ruột, sẽ cắt lát dày 5 ly.",
+      "start": 147.36,
+      "end": 153.24,
+      "n_words": 18,
+      "start_frame": 3684,
+      "end_frame": 3831,
+      "keyframes": [
+        "003688.webp",
+        "003698.webp",
+        "003699.webp",
+        "003716.webp",
+        "003734.webp",
+        "003735.webp",
+        "003759.webp",
+        "003784.webp",
+        "003785.webp",
+        "003808.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "- Với món canh chùm ngây này cô Hà chọn là dưa leo nấu chung thì có một cái mục đích gì không ạ?",
+      "start": 153.24,
+      "end": 160.52,
+      "n_words": 24,
+      "start_frame": 3831,
+      "end_frame": 4013,
+      "keyframes": [
+        "003832.webp",
+        "003833.webp",
+        "003890.webp",
+        "003948.webp",
+        "003949.webp",
+        "003988.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "- Có chứ, chúng ta sẽ thêm dưa leo vào món canh chùm ngây để tạo độ ngọt cũng như là mùi thơm đặc trưng cho món ăn.",
+      "start": 160.52,
+      "end": 166.76,
+      "n_words": 28,
+      "start_frame": 4013,
+      "end_frame": 4169,
+      "keyframes": [
+        "004028.webp",
+        "004029.webp",
+        "004098.webp",
+        "004168.webp",
+        "004169.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Tiếp tục làm nó đi ha.",
+      "start": 166.76,
+      "end": 167.92,
+      "n_words": 6,
+      "start_frame": 4169,
+      "end_frame": 4198,
+      "keyframes": [
+        "004169.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rồi cô sẽ bắc một cái nồi lên để mà mình chuẩn bị nấu canh.",
+      "start": 167.92,
+      "end": 171.88,
+      "n_words": 15,
+      "start_frame": 4198,
+      "end_frame": 4297,
+      "keyframes": [
+        "004205.webp",
+        "004241.webp",
+        "004242.webp",
+        "004272.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Nồi nóng rồi mình bắt đầu cho dầu vô nha, một ít hành tím băm vô, tím băm vô phi lên cho thơm.",
+      "start": 171.88,
+      "end": 177.6,
+      "n_words": 23,
+      "start_frame": 4297,
+      "end_frame": 4440,
+      "keyframes": [
+        "004302.webp",
+        "004303.webp",
+        "004331.webp",
+        "004360.webp",
+        "004361.webp",
+        "004381.webp",
+        "004402.webp",
+        "004403.webp",
+        "004421.webp",
+        "004440.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Nên xào nấm rơm trước Kim Thảo, và các bạn lưu ý là đối với món ăn này thì chúng ta sẽ xào nấm rơm trước để nấm rơm thơm và không bị hăng mùi nấm nha.",
+      "start": 177.6,
+      "end": 186.6,
+      "n_words": 37,
+      "start_frame": 4440,
+      "end_frame": 4665,
+      "keyframes": [
+        "004440.webp",
+        "004441.webp",
+        "004495.webp",
+        "004549.webp",
+        "004550.webp",
+        "004578.webp",
+        "004606.webp",
+        "004607.webp",
+        "004636.webp",
+        "004665.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Mình sẽ cho vào đây một chút xíu muối rồi.",
+      "start": 186.6,
+      "end": 189.32,
+      "n_words": 10,
+      "start_frame": 4665,
+      "end_frame": 4733,
+      "keyframes": [
+        "004665.webp",
+        "004666.webp",
+        "004693.webp",
+        "004720.webp",
+        "004721.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nấm rơm thơm rồi đó, cô sẽ cho vào đây một lít hai nước, mình đun cho nước sôi lên nha.",
+      "start": 189.32,
+      "end": 194.84,
+      "n_words": 21,
+      "start_frame": 4733,
+      "end_frame": 4871,
+      "keyframes": [
+        "004745.webp",
+        "004770.webp",
+        "004771.webp",
+        "004798.webp",
+        "004826.webp",
+        "004827.webp",
+        "004847.webp",
+        "004868.webp",
+        "004869.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Nước đã sôi rồi, đúng lúc này thì mình sẽ cho cái phần tôm này vào.",
+      "start": 194.84,
+      "end": 199.6,
+      "n_words": 16,
+      "start_frame": 4871,
+      "end_frame": 4990,
+      "keyframes": [
+        "004924.webp",
+        "004980.webp",
+        "004981.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nồi nước lèo đang có nấm rơm và tôm viên, sau đó mình cho màu xanh của lá chùm ngây và dưa leo vào nữa.",
+      "start": 199.6,
+      "end": 209.36,
+      "n_words": 25,
+      "start_frame": 4990,
+      "end_frame": 5234,
+      "keyframes": [
+        "005020.webp",
+        "005059.webp",
+        "005060.webp",
+        "005097.webp",
+        "005135.webp",
+        "005136.webp",
+        "005186.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Sau khi cho tôm vô mình đợi cho cái nước sôi lại khoảng chừng hai phút cho viên tôm thật chín bên trong.",
+      "start": 209.36,
+      "end": 214.84,
+      "n_words": 23,
+      "start_frame": 5234,
+      "end_frame": 5371,
+      "keyframes": [
+        "005237.webp",
+        "005238.webp",
+        "005333.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ cô sẽ cho cái phần lá chùm ngây vô nha.",
+      "start": 214.84,
+      "end": 217.48,
+      "n_words": 12,
+      "start_frame": 5371,
+      "end_frame": 5437,
+      "keyframes": [
+        "005429.webp",
+        "005430.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Dạ, trước khi cho vô thì mình nên vò sơ sơ lá chùm ngây nha.",
+      "start": 217.48,
+      "end": 223.2,
+      "n_words": 15,
+      "start_frame": 5437,
+      "end_frame": 5580,
+      "keyframes": [
+        "005466.webp",
+        "005502.webp",
+        "005503.webp",
+        "005554.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Rồi mình cho vô đây, nước sôi trở lại, cho dưa leo thì không được để nước sôi lâu quá nha.",
+      "start": 223.2,
+      "end": 228.56,
+      "n_words": 21,
+      "start_frame": 5580,
+      "end_frame": 5714,
+      "keyframes": [
+        "005606.webp",
+        "005607.webp",
+        "005626.webp",
+        "005646.webp",
+        "005647.webp",
+        "005679.webp",
+        "005712.webp",
+        "005713.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Lá chùm ngây thì các bạn khán giả có thể nhìn thấy là nó giống như là một cái lá rau ngót mà thu nhỏ, rau ngót mà thu nhỏ vậy đó cô Hà ha.",
+      "start": 228.56,
+      "end": 235.2,
+      "n_words": 35,
+      "start_frame": 5714,
+      "end_frame": 5880,
+      "keyframes": [
+        "005778.webp",
+        "005843.webp",
+        "005844.webp",
+        "005858.webp",
+        "005872.webp",
+        "005873.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ thì mình sẽ nêm vào đây một ít hạt nêm Aji-no-moto nấm rồi em tắt lửa nha.",
+      "start": 235.2,
+      "end": 242.48,
+      "n_words": 19,
+      "start_frame": 5880,
+      "end_frame": 6062,
+      "keyframes": [
+        "005899.webp",
+        "005926.webp",
+        "005927.webp",
+        "005948.webp",
+        "005970.webp",
+        "005971.webp",
+        "005997.webp",
+        "006024.webp",
+        "006025.webp",
+        "006059.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Rồi tắt lửa giúp cô.",
+      "start": 242.48,
+      "end": 243.84,
+      "n_words": 5,
+      "start_frame": 6062,
+      "end_frame": 6096,
+      "keyframes": [
+        "006093.webp",
+        "006094.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cuối cùng cho thêm một ít nước mắm, rắc tiêu lên rồi xong rồi đó.",
+      "start": 243.84,
+      "end": 248.96,
+      "n_words": 15,
+      "start_frame": 6096,
+      "end_frame": 6224,
+      "keyframes": [
+        "006132.webp",
+        "006171.webp",
+        "006172.webp",
+        "006186.webp",
+        "006200.webp",
+        "006201.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ em chuẩn bị cho cô tô để mình ra món là xong, canh nóng hổi vừa thổi vừa ăn đi.",
+      "start": 248.96,
+      "end": 258.64,
+      "n_words": 22,
+      "start_frame": 6224,
+      "end_frame": 6466,
+      "keyframes": [
+        "006242.webp",
+        "006284.webp",
+        "006285.webp",
+        "006309.webp",
+        "006334.webp",
+        "006335.webp",
+        "006364.webp",
+        "006394.webp",
+        "006395.webp",
+        "006431.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Rồi cuối cùng thì cô sẽ rắc lên đây một ít tiêu nữa ha.",
+      "start": 258.64,
+      "end": 262.56,
+      "n_words": 14,
+      "start_frame": 6466,
+      "end_frame": 6564,
+      "keyframes": [
+        "006468.webp",
+        "006469.webp",
+        "006498.webp",
+        "006527.webp",
+        "006528.webp",
+        "006561.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "- Cô Hà có một cái sức mạnh kỳ diệu vì món ăn này em chưa có ăn mà sao em thấy hết mệt người giống như ban đầu rồi cô Hà?",
+      "start": 262.56,
+      "end": 269.48,
+      "n_words": 32,
+      "start_frame": 6564,
+      "end_frame": 6737,
+      "keyframes": [
+        "006594.webp",
+        "006595.webp",
+        "006619.webp",
+        "006644.webp",
+        "006645.webp",
+        "006669.webp",
+        "006693.webp",
+        "006694.webp",
+        "006718.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "- Với món ăn này thì chúng ta có thể kết hợp với món sườn non xào chanh sả và gỏi dưa leo khô cá cơm để có một bữa ăn hoàn chỉnh nha các bạn.",
+      "start": 269.48,
+      "end": 277.6,
+      "n_words": 36,
+      "start_frame": 6737,
+      "end_frame": 6940,
+      "keyframes": [
+        "006743.webp",
+        "006744.webp",
+        "006839.webp",
+        "006935.webp",
+        "006936.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nước canh ngọt đậm vị của tôm và rau chùm ngây, nấm giòn thơm, chả tôm dai cực, hấp dẫn cực, thơm ngon mê.",
+      "start": 277.6,
+      "end": 286.32,
+      "n_words": 24,
+      "start_frame": 6940,
+      "end_frame": 7158,
+      "keyframes": [
+        "006995.webp",
+        "007055.webp",
+        "007056.webp",
+        "007100.webp",
+        "007145.webp",
+        "007146.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Ăn ngon thì hãy lăn tăn vào bếp với món canh chả tôm chùm ngây nha các bạn.",
+      "start": 286.32,
+      "end": 291.2,
+      "n_words": 18,
+      "start_frame": 7158,
+      "end_frame": 7280,
+      "keyframes": [
+        "007211.webp",
+        "007276.webp",
+        "007277.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và để có thể nhớ được công thức của món ăn ngày hôm nay và những món ăn khác nữa, các bạn có thể truy cập vào YouTube, website, fanpage của chương trình.",
+      "start": 291.16,
+      "end": 301.44,
+      "n_words": 33,
+      "start_frame": 7279,
+      "end_frame": 7536,
+      "keyframes": [
+        "007335.webp",
+        "007394.webp",
+        "007395.webp",
+        "007454.webp",
+        "007514.webp",
+        "007515.webp"
+      ],
+      "keyframe_count": 6
+    }
+  ]
+}

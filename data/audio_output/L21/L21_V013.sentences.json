@@ -1,0 +1,2368 @@
+{
+  "video_id": "L21_V013",
+  "fps": 30.0,
+  "n_sentences": 127,
+  "total_words": 3949,
+  "sentences": [
+    {
+      "text": "Thưa quý vị, đến với chương trình 60 giây của Đài Truyền hình Thành phố Hồ Chí Minh.",
+      "start": 0.04,
+      "end": 8.0,
+      "n_words": 18,
+      "start_frame": 1,
+      "end_frame": 240,
+      "keyframes": [
+        "000001.webp",
+        "000003.webp",
+        "000005.webp",
+        "000051.webp",
+        "000187.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chương trình sáng nay sẽ có những thông tin nổi bật sau đây: Thành phố Hồ Chí Minh kiến nghị công bố dịch sởi, đồng thời cảnh báo ở cả khu vực phía Nam.",
+      "start": 8.0,
+      "end": 19.16,
+      "n_words": 34,
+      "start_frame": 240,
+      "end_frame": 575,
+      "keyframes": [
+        "000323.webp",
+        "000324.webp",
+        "000364.webp",
+        "000405.webp",
+        "000406.webp",
+        "000425.webp",
+        "000445.webp",
+        "000446.webp",
+        "000465.webp",
+        "000485.webp",
+        "000486.webp",
+        "000504.webp",
+        "000523.webp",
+        "000524.webp",
+        "000541.webp",
+        "000558.webp",
+        "000559.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Thành phố Hồ Chí Minh đề xuất sử dụng flycam để rà soát khiếm khuyết trên cây xanh.",
+      "start": 19.16,
+      "end": 24.24,
+      "n_words": 18,
+      "start_frame": 575,
+      "end_frame": 727,
+      "keyframes": [
+        "000577.webp",
+        "000595.webp",
+        "000596.webp",
+        "000605.webp",
+        "000614.webp",
+        "000615.webp",
+        "000622.webp",
+        "000630.webp",
+        "000631.webp",
+        "000648.webp",
+        "000665.webp",
+        "000666.webp",
+        "000686.webp",
+        "000707.webp",
+        "000708.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Lần thứ ba rùa liên tiếp vào bờ biển Nhơn Hải, tỉnh Bình Định để đẻ trứng.",
+      "start": 24.24,
+      "end": 28.6,
+      "n_words": 17,
+      "start_frame": 727,
+      "end_frame": 858,
+      "keyframes": [
+        "000734.webp",
+        "000761.webp",
+        "000762.webp",
+        "000786.webp",
+        "000811.webp",
+        "000812.webp",
+        "000834.webp",
+        "000857.webp",
+        "000858.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Trong vòng hơn hai tháng qua, 148 người nghi ngộ độc thực phẩm sau khi ăn bánh mì kẹp thịt ở thành phố Hồng Ngự.",
+      "start": 28.6,
+      "end": 36.12,
+      "n_words": 25,
+      "start_frame": 858,
+      "end_frame": 1084,
+      "keyframes": [
+        "000858.webp",
+        "000884.webp",
+        "000911.webp",
+        "000912.webp",
+        "000934.webp",
+        "000957.webp",
+        "000958.webp",
+        "000977.webp",
+        "000997.webp",
+        "000998.webp",
+        "001010.webp",
+        "001022.webp",
+        "001023.webp",
+        "001066.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Thưa quý vị, tính đến nay Thành phố Hồ Chí Minh đã ghi nhận 3 ca tử vong và gần 600 ca bệnh sởi đang được theo dõi và chăm sóc tại các bệnh viện nhi trên địa bàn, trong đó có trên 350 ca đến từ các tỉnh thành khu vực phía Nam.",
+      "start": 36.12,
+      "end": 50.08,
+      "n_words": 54,
+      "start_frame": 1084,
+      "end_frame": 1502,
+      "keyframes": [
+        "001109.webp",
+        "001110.webp",
+        "001319.webp",
+        "001418.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Sở Y tế Thành phố Hồ Chí Minh đã kiến nghị công bố dịch sởi trên toàn thành phố, đồng thời cảnh báo ở cả khu vực phía Nam.",
+      "start": 50.08,
+      "end": 58.48,
+      "n_words": 29,
+      "start_frame": 1502,
+      "end_frame": 1754,
+      "keyframes": [
+        "001529.webp",
+        "001530.webp",
+        "001628.webp",
+        "001727.webp",
+        "001749.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Các bác sĩ khuyến cáo người nhà cần sớm có biện pháp phòng ngừa lây nhiễm, đồng thời phát hiện sớm các triệu chứng để đưa trẻ đi khám và điều trị kịp thời, tránh hậu quả nặng nề.",
+      "start": 58.48,
+      "end": 67.32,
+      "n_words": 39,
+      "start_frame": 1754,
+      "end_frame": 2020,
+      "keyframes": [
+        "001766.webp",
+        "001783.webp",
+        "001784.webp",
+        "001824.webp",
+        "001865.webp",
+        "001866.webp",
+        "001901.webp",
+        "001937.webp",
+        "001938.webp",
+        "001979.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "\"Bệnh sởi nó lây rất ư là nhanh, chúng ta thấy rất là nhanh.",
+      "start": 67.32,
+      "end": 69.92,
+      "n_words": 14,
+      "start_frame": 2020,
+      "end_frame": 2098,
+      "keyframes": [
+        "002021.webp",
+        "002022.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Có nghĩa nó lây có thể trực tiếp hoặc là gián tiếp.",
+      "start": 69.92,
+      "end": 72.52,
+      "n_words": 12,
+      "start_frame": 2098,
+      "end_frame": 2176,
+      "keyframes": [
+        "002099.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Như là trực tiếp là tiếp xúc giữa người lành với lại người bệnh; Còn gián tiếp ví dụ như là một cái người mắc bệnh sởi mà họ sử dụng các vật đồ chơi hay là họ ho, hắt hơi, sổ mũi thì khi một cái đứa trẻ khác mà bốc cái vật dụng đó vô thì sẽ bị lây theo.\"",
+      "start": 72.52,
+      "end": 85.2,
+      "n_words": 62,
+      "start_frame": 2176,
+      "end_frame": 2556,
+      "keyframes": [
+        "002177.webp",
+        "002178.webp",
+        "002326.webp",
+        "002475.webp",
+        "002476.webp",
+        "002510.webp",
+        "002545.webp",
+        "002546.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Theo Sở Y tế Thành phố Hồ Chí Minh, bệnh sởi là bệnh truyền nhiễm gây dịch lây qua đường hô hấp do virus sởi gây nên, mức độ lây lan rất nhanh trong cộng đồng, đặc biệt là trẻ dưới 5 tuổi và những trẻ dưới 9 tháng tuổi mang các bệnh lý nền, chưa được tiêm vaccine đầy đủ.",
+      "start": 85.2,
+      "end": 99.72,
+      "n_words": 61,
+      "start_frame": 2556,
+      "end_frame": 2992,
+      "keyframes": [
+        "002566.webp",
+        "002586.webp",
+        "002587.webp",
+        "002620.webp",
+        "002654.webp",
+        "002655.webp",
+        "002691.webp",
+        "002727.webp",
+        "002728.webp",
+        "002760.webp",
+        "002792.webp",
+        "002793.webp",
+        "002818.webp",
+        "002843.webp",
+        "002844.webp",
+        "002863.webp",
+        "002882.webp",
+        "002883.webp",
+        "002908.webp",
+        "002933.webp",
+        "002934.webp",
+        "002961.webp",
+        "002989.webp",
+        "002990.webp"
+      ],
+      "keyframe_count": 24
+    },
+    {
+      "text": "Sở Y tế đã chỉ đạo rất quyết liệt tới tất cả các bệnh viện là đều phải thực hiện nghiêm túc công tác kiểm soát nhiễm khuẩn trong bệnh viện, tránh lây nhiễm chéo ở trong bệnh viện.",
+      "start": 99.72,
+      "end": 109.96,
+      "n_words": 39,
+      "start_frame": 2992,
+      "end_frame": 3299,
+      "keyframes": [
+        "003077.webp",
+        "003164.webp",
+        "003165.webp",
+        "003190.webp",
+        "003215.webp",
+        "003216.webp",
+        "003234.webp",
+        "003252.webp",
+        "003253.webp",
+        "003271.webp",
+        "003289.webp",
+        "003290.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Sắp tới, Thành phố Hồ Chí Minh sẽ có đợt tăng cường quét và tiêm vắc xin cho những trẻ đã bị quên hoặc chưa tiêm ngừa tại cộng đồng.",
+      "start": 109.96,
+      "end": 118.72,
+      "n_words": 30,
+      "start_frame": 3299,
+      "end_frame": 3562,
+      "keyframes": [
+        "003310.webp",
+        "003330.webp",
+        "003331.webp",
+        "003357.webp",
+        "003383.webp",
+        "003384.webp",
+        "003414.webp",
+        "003445.webp",
+        "003446.webp",
+        "003485.webp",
+        "003524.webp",
+        "003525.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Nhiều vụ cây đổ, tét nhánh, Công ty Cây xanh Thành phố Hồ Chí Minh đề xuất sử dụng flycam để rà soát tình trạng cây xanh, xử lý khiếm khuyết trên cây.",
+      "start": 118.72,
+      "end": 129.28,
+      "n_words": 33,
+      "start_frame": 3562,
+      "end_frame": 3878,
+      "keyframes": [
+        "003686.webp",
+        "003848.webp",
+        "003874.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đây là nhóm biện pháp vừa được Công ty Cây xanh Thành phố Hồ Chí Minh đề xuất thành phố thực hiện trong tháng 8 năm 2024, trong bối cảnh nhiều sự cố nghiêm trọng do cây xanh gãy đổ xảy ra liên tiếp gần đây.",
+      "start": 129.28,
+      "end": 141.16,
+      "n_words": 46,
+      "start_frame": 3878,
+      "end_frame": 4235,
+      "keyframes": [
+        "003913.webp",
+        "003953.webp",
+        "003954.webp",
+        "004085.webp",
+        "004217.webp",
+        "004218.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Việc sử dụng flycam nhằm hỗ trợ kiểm tra đánh giá tình trạng cây để thí điểm neo cáp các cành nhánh kích thước lớn vào thân đối với các loại cây sao đen, dầu.",
+      "start": 141.16,
+      "end": 151.44,
+      "n_words": 35,
+      "start_frame": 4235,
+      "end_frame": 4543,
+      "keyframes": [
+        "004266.webp",
+        "004315.webp",
+        "004316.webp",
+        "004361.webp",
+        "004406.webp",
+        "004407.webp",
+        "004507.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Đồng thời, đơn vị cũng đề nghị thuê loại xe có máy móc cao 40 mét để cắt cành nhánh có dấu hiệu khiếm khuyết trên đường phố, công viên.",
+      "start": 151.44,
+      "end": 160.04,
+      "n_words": 30,
+      "start_frame": 4543,
+      "end_frame": 4801,
+      "keyframes": [
+        "004607.webp",
+        "004608.webp",
+        "004624.webp",
+        "004641.webp",
+        "004642.webp",
+        "004738.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Về nhân lực, công ty sẽ thành lập tổ gồm kỹ sư, chuyên gia lâu năm, công nhân lành nghề để kịp thời đánh giá rủi ro xử lý cây xanh, liên hệ đơn vị chuyên nghiệp từ Singapore mở lớp đào tạo công tác đánh giá chuyên sâu cây xanh loại 3 trên 20 năm.",
+      "start": 160.04,
+      "end": 176.6,
+      "n_words": 56,
+      "start_frame": 4801,
+      "end_frame": 5298,
+      "keyframes": [
+        "004835.webp",
+        "004836.webp",
+        "004914.webp",
+        "004992.webp",
+        "004993.webp",
+        "005035.webp",
+        "005077.webp",
+        "005078.webp",
+        "005173.webp",
+        "005268.webp",
+        "005269.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Từ hiệu quả của việc trữ cá đồng mùa nước nổi các vụ trước, nên năm nay các địa phương đầu nguồn ở tỉnh Đồng Tháp đều tiếp tục thực hiện việc trữ cá tự nhiên trên đồng ruộng.",
+      "start": 176.6,
+      "end": 185.84,
+      "n_words": 39,
+      "start_frame": 5298,
+      "end_frame": 5575,
+      "keyframes": [
+        "005497.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Diện tích được mở rộng và thời gian trữ cá được sớm hơn so với các vụ trước đây.",
+      "start": 185.84,
+      "end": 192.24,
+      "n_words": 19,
+      "start_frame": 5575,
+      "end_frame": 5767,
+      "keyframes": [
+        "005726.webp",
+        "005752.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tại cánh đồng 750 ha ấp Dòng Bàng, xã Thường Phước A, huyện Hồng Ngự, sau khi thu hoạch xong lúa hè thu và trục trặc xong ruộng đồng, sáng qua bà con tiến hành mở cống để đón dòng nước phù sa vào đồng ruộng.",
+      "start": 192.24,
+      "end": 206.24,
+      "n_words": 46,
+      "start_frame": 5767,
+      "end_frame": 6187,
+      "keyframes": [
+        "005768.webp",
+        "005784.webp",
+        "005785.webp",
+        "005820.webp",
+        "005855.webp",
+        "005856.webp",
+        "005885.webp",
+        "005915.webp",
+        "005916.webp",
+        "005939.webp",
+        "005963.webp",
+        "005964.webp",
+        "005989.webp",
+        "006015.webp",
+        "006016.webp",
+        "006039.webp",
+        "006062.webp",
+        "006063.webp",
+        "006106.webp",
+        "006149.webp",
+        "006150.webp",
+        "006175.webp"
+      ],
+      "keyframe_count": 22
+    },
+    {
+      "text": "Khi nước tràn vào, tổ trữ cá cộng đồng của ấp cũng lập tức treo bảng \"Khu vực trữ cá đồng\" nhằm hạn chế tình trạng người dân bao chiếm các miệng cống để bắt cá con.",
+      "start": 206.24,
+      "end": 217.28,
+      "n_words": 37,
+      "start_frame": 6187,
+      "end_frame": 6518,
+      "keyframes": [
+        "006201.webp",
+        "006202.webp",
+        "006223.webp",
+        "006245.webp",
+        "006246.webp",
+        "006266.webp",
+        "006287.webp",
+        "006288.webp",
+        "006310.webp",
+        "006333.webp",
+        "006334.webp",
+        "006358.webp",
+        "006383.webp",
+        "006384.webp",
+        "006411.webp",
+        "006439.webp",
+        "006440.webp",
+        "006468.webp",
+        "006497.webp",
+        "006498.webp",
+        "006510.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "\"Nước vào ruộng thì kế hoạch thì rất có thể là trong hai tuần trở đi sẽ tiến hành vây cước để trữ cá.",
+      "start": 217.28,
+      "end": 224.08,
+      "n_words": 24,
+      "start_frame": 6518,
+      "end_frame": 6722,
+      "keyframes": [
+        "006522.webp",
+        "006523.webp",
+        "006561.webp",
+        "006600.webp",
+        "006601.webp",
+        "006636.webp",
+        "006672.webp",
+        "006673.webp",
+        "006705.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "100% là bà con đồng thuận hết, tại vì trước thời điểm mà mình làm thì có mời một số chủ ruộng.",
+      "start": 224.08,
+      "end": 231.64,
+      "n_words": 22,
+      "start_frame": 6722,
+      "end_frame": 6949,
+      "keyframes": [
+        "006737.webp",
+        "006738.webp",
+        "006880.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nhưng đối với anh thì anh mở rộng thêm, mở rộng thêm một số cô bác anh em có nhu cầu cứ tham gia cùng.",
+      "start": 231.64,
+      "end": 238.2,
+      "n_words": 25,
+      "start_frame": 6949,
+      "end_frame": 7146,
+      "keyframes": [
+        "007022.webp",
+        "007023.webp",
+        "007069.webp",
+        "007116.webp",
+        "007117.webp",
+        "007142.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Vốn tự có, do đó những người không tham gia thì người ta cũng vẫn đồng thuận chứ không có gì thắc mắc.\"",
+      "start": 238.2,
+      "end": 244.8,
+      "n_words": 23,
+      "start_frame": 7146,
+      "end_frame": 7344,
+      "keyframes": [
+        "007167.webp",
+        "007168.webp",
+        "007220.webp",
+        "007272.webp",
+        "007273.webp",
+        "007297.webp",
+        "007322.webp",
+        "007323.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Các thành viên dự kiến mở rộng diện tích nuôi cá từ 100 lên 150 ha.",
+      "start": 244.8,
+      "end": 248.8,
+      "n_words": 16,
+      "start_frame": 7344,
+      "end_frame": 7464,
+      "keyframes": [
+        "007347.webp",
+        "007371.webp",
+        "007372.webp",
+        "007397.webp",
+        "007423.webp",
+        "007424.webp",
+        "007447.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Trong khi đánh bắt trên vùng biển Bình Thuận, một tàu cá của ngư dân Khánh Hòa đã trúng được luồng cá hồng biển hiếm gặp.",
+      "start": 251.76,
+      "end": 259.36,
+      "n_words": 26,
+      "start_frame": 7553,
+      "end_frame": 7781,
+      "keyframes": [
+        "007779.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đây là loài cá đánh bắt ngoài thiên nhiên nên có rất nhiều chất dinh dưỡng, thịt cá rất ngon ngọt và dai mềm, được thị trường ưa chuộng với giá bán cho bạn hàng ngay tại cảng cá gần 100.000 mỗi ký.",
+      "start": 259.36,
+      "end": 270.52,
+      "n_words": 43,
+      "start_frame": 7781,
+      "end_frame": 8116,
+      "keyframes": [
+        "007816.webp",
+        "007854.webp",
+        "007855.webp",
+        "007901.webp",
+        "007947.webp",
+        "007948.webp",
+        "007990.webp",
+        "008033.webp",
+        "008034.webp",
+        "008068.webp",
+        "008102.webp",
+        "008103.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Gần một tấn cá đã mang về khoản thu nhập lớn cho ngư dân.",
+      "start": 270.52,
+      "end": 273.76,
+      "n_words": 14,
+      "start_frame": 8116,
+      "end_frame": 8213,
+      "keyframes": [
+        "008154.webp",
+        "008205.webp",
+        "008206.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ngư dân cho biết cá hồng biển rất khó đánh bắt do cá thường sống ở các vùng biển khơi xa, chỉ có vài tàu đánh bắt biển khơi mới trúng được loài cá hồng này. Rùa tiếp tục vào bờ biển Nhơn Hải, Bình Định để đẻ trứng. Đây cũng là lần thứ ba trong vòng hơn hai tháng qua, theo Chi cục Thủy sản tỉnh Bình Định.",
+      "start": 273.76,
+      "end": 291.68,
+      "n_words": 69,
+      "start_frame": 8213,
+      "end_frame": 8750,
+      "keyframes": [
+        "008232.webp",
+        "008258.webp",
+        "008259.webp",
+        "008302.webp",
+        "008346.webp",
+        "008347.webp",
+        "008377.webp",
+        "008408.webp",
+        "008409.webp",
+        "008451.webp",
+        "008493.webp",
+        "008494.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Trong năm nay, có hai rùa mẹ lên bờ biển này để đẻ trứng và được gắn thẻ lần lượt là VN1078 và VN1079.",
+      "start": 291.68,
+      "end": 298.72,
+      "n_words": 24,
+      "start_frame": 8750,
+      "end_frame": 8962,
+      "keyframes": [
+        "008754.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thông tin từ tổ cộng đồng bảo vệ nguồn lợi thủy sản xã Nhơn Hải, lần đầu tiên con rùa mẹ này lên bờ đẻ là vào đầu tháng 5 năm 2024, do ổ trứng nằm đúng vùng bảo vệ nên mọi người không đào lên để di dời ổ trứng, do đó không biết số trứng cụ thể.",
+      "start": 301.88,
+      "end": 317.52,
+      "n_words": 59,
+      "start_frame": 9056,
+      "end_frame": 9526,
+      "keyframes": [
+        "009108.webp",
+        "009179.webp",
+        "009180.webp",
+        "009244.webp",
+        "009309.webp",
+        "009310.webp",
+        "009380.webp",
+        "009450.webp",
+        "009451.webp",
+        "009516.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Lần thứ hai rùa mẹ lên bờ đẻ là vào ngày 21 tháng 5 và đẻ được 92 trứng, tổ cộng đồng bảo vệ nguồn lợi thủy sản xã Nhơn Hải khi đó đã gắn thẻ số VN1079 cho rùa để dễ nhận diện.",
+      "start": 317.52,
+      "end": 329.96,
+      "n_words": 44,
+      "start_frame": 9526,
+      "end_frame": 9899,
+      "keyframes": [
+        "009582.webp",
+        "009583.webp",
+        "009630.webp",
+        "009677.webp",
+        "009678.webp",
+        "009736.webp",
+        "009795.webp",
+        "009796.webp",
+        "009844.webp",
+        "009893.webp",
+        "009894.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Lần thứ ba rùa mẹ đẻ trứng là vào tối 11 tháng 8, nó đẻ được 84 quả trứng.",
+      "start": 329.96,
+      "end": 335.28,
+      "n_words": 19,
+      "start_frame": 9899,
+      "end_frame": 10058,
+      "keyframes": [
+        "009943.webp",
+        "009992.webp",
+        "009993.webp",
+        "010048.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Ngay sau khi phát hiện rùa mẹ lên bờ, tổ cộng đồng bảo vệ nguồn lợi thủy sản xã Nhơn Hải đã đề nghị người dân và du khách giữ khoảng cách để đảm bảo an toàn và không quấy rầy rùa mẹ.",
+      "start": 335.28,
+      "end": 347.52,
+      "n_words": 43,
+      "start_frame": 10058,
+      "end_frame": 10426,
+      "keyframes": [
+        "010104.webp",
+        "010105.webp",
+        "010171.webp",
+        "010238.webp",
+        "010239.webp",
+        "010307.webp",
+        "010376.webp",
+        "010395.webp",
+        "010425.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Trong phần sau, xe ngược chiều trên Quốc lộ 13, tài xế xe ô tô điện mini bị xử phạt; Dập tắt vụ cháy rừng thông tại xã Quảng Đông, huyện Quảng Trạch, tỉnh Quảng Bình.",
+      "start": 347.52,
+      "end": 365.32,
+      "n_words": 36,
+      "start_frame": 10426,
+      "end_frame": 10960,
+      "keyframes": [
+        "010455.webp",
+        "010456.webp",
+        "010486.webp",
+        "010517.webp",
+        "010518.webp",
+        "010545.webp",
+        "010573.webp",
+        "010574.webp",
+        "010598.webp",
+        "010622.webp",
+        "010623.webp",
+        "010647.webp",
+        "010671.webp",
+        "010672.webp",
+        "010706.webp",
+        "010740.webp",
+        "010741.webp",
+        "010769.webp",
+        "010797.webp",
+        "010798.webp",
+        "010826.webp",
+        "010854.webp",
+        "010855.webp",
+        "010882.webp",
+        "010909.webp",
+        "010910.webp",
+        "010948.webp"
+      ],
+      "keyframe_count": 27
+    },
+    {
+      "text": "Thưa quý vị, vào ngày 9 tháng 8 vừa qua, nhiều người lưu thông trên Quốc lộ 13 đoạn ở trung tâm Thành phố Thủ Dầu Một, tỉnh Bình Dương đã buộc phải hoảng vía khi đối mặt với một chiếc xe ô tô điện mini chạy ngược chiều trên quốc lộ. Cơ quan công an đã nhanh chóng vào cuộc điều tra xác định được người điều khiển phương tiện trên và tiến hành xử phạt.",
+      "start": 365.32,
+      "end": 384.8,
+      "n_words": 77,
+      "start_frame": 10960,
+      "end_frame": 11544,
+      "keyframes": [
+        "010987.webp",
+        "010988.webp",
+        "011269.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ngày 12 tháng 8, Phòng Cảnh sát Giao thông Công an tỉnh Bình Dương cho biết chủ nhân của chiếc xe nói trên là bà N. T, 41 tuổi, ngụ phường Chánh Nghĩa, Thành phố Thủ Dầu Một.",
+      "start": 384.8,
+      "end": 396.12,
+      "n_words": 38,
+      "start_frame": 11544,
+      "end_frame": 11884,
+      "keyframes": [
+        "011550.webp",
+        "011568.webp",
+        "011746.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bà T thừa nhận mình là người cầm lái chiếc ô tô điện mini chạy ngược chiều.",
+      "start": 396.12,
+      "end": 400.24,
+      "n_words": 17,
+      "start_frame": 11884,
+      "end_frame": 12007,
+      "keyframes": [
+        "011925.webp",
+        "011926.webp",
+        "011933.webp",
+        "011940.webp",
+        "011941.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Trong các đoạn video được lan truyền trên mạng xã hội, bà T giải thích do có việc gấp nên bất cẩn đã lái xe vào làn ngược chiều.",
+      "start": 400.24,
+      "end": 408.8,
+      "n_words": 29,
+      "start_frame": 12007,
+      "end_frame": 12264,
+      "keyframes": [
+        "012010.webp",
+        "012079.webp",
+        "012080.webp",
+        "012163.webp",
+        "012246.webp",
+        "012247.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đáng lưu ý, chiếc xe của bà T cũng từng thu hút chú ý của hàng xóm khi có thời điểm bà ghi trên thân xe nhiều dòng chữ với các nội dung bất thường.",
+      "start": 408.8,
+      "end": 417.8,
+      "n_words": 35,
+      "start_frame": 12264,
+      "end_frame": 12534,
+      "keyframes": [
+        "012381.webp",
+        "012516.webp",
+        "012517.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cơ quan chức năng đã ra quyết định xử phạt bà T 5 triệu đồng và tước giấy phép lái xe 3 tháng do hành vi vi phạm.",
+      "start": 417.8,
+      "end": 424.32,
+      "n_words": 28,
+      "start_frame": 12534,
+      "end_frame": 12730,
+      "keyframes": [
+        "012543.webp",
+        "012569.webp",
+        "012574.webp",
+        "012637.webp",
+        "012701.webp",
+        "012702.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đây là một bài học đắt giá cho những ai xem thường luật giao thông.",
+      "start": 424.32,
+      "end": 430.52,
+      "n_words": 15,
+      "start_frame": 12730,
+      "end_frame": 12916,
+      "keyframes": [
+        "012789.webp",
+        "012876.webp",
+        "012877.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Sáng qua, trên đường cao tốc Trung Lương - Mỹ Thuận đoạn qua địa bàn tỉnh Tiền Giang đã xảy ra vụ va chạm giữa xe ô tô tải và xe đầu kéo.",
+      "start": 430.84,
+      "end": 438.0,
+      "n_words": 33,
+      "start_frame": 12925,
+      "end_frame": 13140,
+      "keyframes": [
+        "013076.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tai nạn không gây thiệt hại về người nhưng phương tiện bị hư hỏng nặng.",
+      "start": 438.0,
+      "end": 442.72,
+      "n_words": 15,
+      "start_frame": 13140,
+      "end_frame": 13282,
+      "keyframes": [
+        "013275.webp",
+        "013276.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Theo người dân chứng kiến, vào khoảng 2:30 ngày 12 tháng 8, xe ô tô tải đang lưu thông hướng đi từ Thành phố Hồ Chí Minh về miền Tây, trong lúc xe đang đi qua đoạn km 88 thuộc địa bàn huyện Cái Bè thì bất ngờ va chạm vào phần đuôi xe đầu kéo có chở theo xe múc đang ở cùng chiều phía trước. Cú tông mạnh làm phần đầu chiếc xe tải dính chặt vào đuôi xe đầu kéo, cabin bị biến dạng.",
+      "start": 442.72,
+      "end": 466.0,
+      "n_words": 87,
+      "start_frame": 13282,
+      "end_frame": 13980,
+      "keyframes": [
+        "013305.webp",
+        "013335.webp",
+        "013336.webp",
+        "013418.webp",
+        "013500.webp",
+        "013501.webp",
+        "013631.webp",
+        "013744.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Tại hiện trường, phần đầu xe tải còn áp sát vào đuôi xe đầu kéo, hàng hóa trên xe đổ tràn xuống đường, sau tai nạn lưu thông qua khu vực bị ùn ứ kéo dài.",
+      "start": 466.0,
+      "end": 475.08,
+      "n_words": 36,
+      "start_frame": 13980,
+      "end_frame": 14252,
+      "keyframes": [
+        "013987.webp",
+        "013988.webp",
+        "014014.webp",
+        "014040.webp",
+        "014041.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nhận được tin báo, đơn vị quản lý tuyến cao tốc Trung Lương - Mỹ Thuận kịp thời có mặt tại hiện trường để ghi nhận vụ việc, đồng thời xác minh xử lý theo thẩm quyền.",
+      "start": 475.08,
+      "end": 489.24,
+      "n_words": 37,
+      "start_frame": 14252,
+      "end_frame": 14677,
+      "keyframes": [
+        "014290.webp",
+        "014540.webp",
+        "014565.webp",
+        "014612.webp",
+        "014660.webp",
+        "014661.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cũng tại Tiền Giang, vào khoảng 20:00 tối qua, trên Quốc lộ 1A đoạn đi qua thị trấn Tân Hiệp, huyện Châu Thành, xe máy mang biển kiểm soát tỉnh Tiền Giang do một nam thanh niên điều khiển chở theo một nam thanh niên khác lưu thông hướng đi từ miền Tây về Thành phố Hồ Chí Minh.",
+      "start": 489.24,
+      "end": 503.0,
+      "n_words": 59,
+      "start_frame": 14677,
+      "end_frame": 15090,
+      "keyframes": [
+        "014753.webp",
+        "014845.webp",
+        "014846.webp",
+        "014881.webp",
+        "014917.webp",
+        "014918.webp",
+        "014963.webp",
+        "015009.webp",
+        "015010.webp",
+        "015047.webp",
+        "015084.webp",
+        "015085.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Khi đến đoạn điểm mở dải phân cách, bất ngờ va chạm trực diện với một xe máy khác đang băng qua đường.",
+      "start": 503.0,
+      "end": 508.28,
+      "n_words": 23,
+      "start_frame": 15090,
+      "end_frame": 15248,
+      "keyframes": [
+        "015124.webp",
+        "015164.webp",
+        "015165.webp",
+        "015205.webp",
+        "015245.webp",
+        "015246.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Va chạm quá mạnh khiến cả hai phương tiện cùng với 4 người ngã xuống đường.",
+      "start": 508.56,
+      "end": 512.52,
+      "n_words": 16,
+      "start_frame": 15257,
+      "end_frame": 15376,
+      "keyframes": [
+        "015306.webp",
+        "015366.webp",
+        "015367.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Sau tai nạn, có hai người bị thương được đưa đến bệnh viện để cấp cứu, riêng hai người còn lại may mắn chỉ bị xây xát.",
+      "start": 512.52,
+      "end": 518.48,
+      "n_words": 27,
+      "start_frame": 15376,
+      "end_frame": 15554,
+      "keyframes": [
+        "015396.webp",
+        "015426.webp",
+        "015427.webp",
+        "015487.webp",
+        "015547.webp",
+        "015548.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Nhận được tin báo, Phòng Cảnh sát Giao thông Công an tỉnh Tiền Giang phối hợp Công an thị trấn Tân Hiệp đến hiện trường điều tiết giao thông và điều tra nguyên nhân vụ tai nạn.",
+      "start": 518.48,
+      "end": 527.96,
+      "n_words": 37,
+      "start_frame": 15554,
+      "end_frame": 15839,
+      "keyframes": [
+        "015590.webp",
+        "015633.webp",
+        "015634.webp",
+        "015675.webp",
+        "015717.webp",
+        "015718.webp",
+        "015761.webp",
+        "015805.webp",
+        "015806.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Chi cục Vệ sinh An toàn Thực phẩm tỉnh Đồng Tháp ghi nhận 148 người nghi ngộ độc thực phẩm sau khi ăn bánh mì kẹp thịt tại một tiệm bánh ở thành phố Hồng Ngự.",
+      "start": 527.96,
+      "end": 537.12,
+      "n_words": 36,
+      "start_frame": 15839,
+      "end_frame": 16114,
+      "keyframes": [
+        "015997.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Từ ngày 6 tháng 8 theo Chi cục, từ đó đến chiều qua, nhiều người lần lượt nhập viện với những triệu chứng đau bụng, nôn, đi ngoài sau khi ăn bánh mì.",
+      "start": 537.12,
+      "end": 548.32,
+      "n_words": 33,
+      "start_frame": 16114,
+      "end_frame": 16450,
+      "keyframes": [
+        "016188.webp",
+        "016189.webp",
+        "016239.webp",
+        "016289.webp",
+        "016290.webp",
+        "016347.webp",
+        "016404.webp",
+        "016405.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Tuy nhiên, hiện chưa rõ 128 người nghi ngộ độc trừ 20 công nhân Công ty TNHH Thái Dương có ăn bánh mì mua tại tiệm Hồng Ngọc hay không.",
+      "start": 548.32,
+      "end": 558.04,
+      "n_words": 30,
+      "start_frame": 16450,
+      "end_frame": 16741,
+      "keyframes": [
+        "016459.webp",
+        "016513.webp",
+        "016514.webp",
+        "016572.webp",
+        "016631.webp",
+        "016632.webp",
+        "016678.webp",
+        "016724.webp",
+        "016725.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đến nay đã xuất viện 44 bệnh nhân, 4 bệnh nhân tình trạng ổn tự xin chuyển viện.",
+      "start": 558.04,
+      "end": 564.24,
+      "n_words": 18,
+      "start_frame": 16741,
+      "end_frame": 16927,
+      "keyframes": [
+        "016751.webp",
+        "016778.webp",
+        "016779.webp",
+        "016807.webp",
+        "016836.webp",
+        "016837.webp",
+        "016879.webp",
+        "016922.webp",
+        "016923.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Hiện tại tình trạng sức khỏe các trường hợp nhập viện đã ổn định, tiếp tục được điều trị tích cực.",
+      "start": 564.24,
+      "end": 569.56,
+      "n_words": 21,
+      "start_frame": 16927,
+      "end_frame": 17087,
+      "keyframes": [
+        "016958.webp",
+        "016994.webp",
+        "016995.webp",
+        "017020.webp",
+        "017046.webp",
+        "017047.webp",
+        "017080.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Có thẩm quyền cũng đã đình chỉ hoạt động của cơ sở sản xuất bánh mì nghi ngờ gây ngộ độc, đồng thời lấy mẫu bệnh phẩm và thực phẩm gửi đơn vị kiểm nghiệm để tìm nguyên nhân.",
+      "start": 570.0,
+      "end": 579.44,
+      "n_words": 39,
+      "start_frame": 17100,
+      "end_frame": 17383,
+      "keyframes": [
+        "017114.webp",
+        "017115.webp",
+        "017144.webp",
+        "017173.webp",
+        "017174.webp",
+        "017199.webp",
+        "017225.webp",
+        "017226.webp",
+        "017262.webp",
+        "017299.webp",
+        "017300.webp",
+        "017332.webp",
+        "017365.webp",
+        "017366.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Ngoài ra, sẽ phát hiện xử lý nghiêm các vi phạm quy định về an toàn thực phẩm nếu có và công khai kết quả để kịp thời cảnh báo cho cộng đồng.",
+      "start": 579.44,
+      "end": 589.96,
+      "n_words": 33,
+      "start_frame": 17383,
+      "end_frame": 17699,
+      "keyframes": [
+        "017394.webp",
+        "017423.webp",
+        "017424.webp",
+        "017446.webp",
+        "017468.webp",
+        "017469.webp",
+        "017500.webp",
+        "017532.webp",
+        "017533.webp",
+        "017565.webp",
+        "017597.webp",
+        "017598.webp",
+        "017635.webp",
+        "017672.webp",
+        "017673.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Sau hơn 6 giờ nỗ lực dập lửa, đến 20:00 tối ngày 12 tháng 8, vụ cháy rừng thông tại thôn Đồng Hưng, xã Quảng Đông, huyện Quảng Trạch, tỉnh Quảng Bình đã cơ bản được dập tắt.",
+      "start": 589.96,
+      "end": 599.6,
+      "n_words": 38,
+      "start_frame": 17699,
+      "end_frame": 17988,
+      "keyframes": [
+        "017911.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đây là vụ cháy thứ hai liên tiếp xảy ra tại xã Quảng Đông trong vòng 4 ngày qua.",
+      "start": 599.6,
+      "end": 605.96,
+      "n_words": 19,
+      "start_frame": 17988,
+      "end_frame": 18179,
+      "keyframes": [
+        "018149.webp",
+        "018150.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Lửa được nhận định xuất phát từ thực bì dưới chân núi gần mỏ đá Trường An, thôn Đồng Hưng.",
+      "start": 605.96,
+      "end": 610.52,
+      "n_words": 20,
+      "start_frame": 18179,
+      "end_frame": 18316,
+      "keyframes": [
+        "018195.webp",
+        "018240.webp",
+        "018241.webp",
+        "018275.webp",
+        "018309.webp",
+        "018310.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Gió lớn đã khiến đám cháy lan rất nhanh, cháy lan lên đỉnh núi và rẽ nhánh làm nhiều điểm.",
+      "start": 610.52,
+      "end": 615.04,
+      "n_words": 20,
+      "start_frame": 18316,
+      "end_frame": 18451,
+      "keyframes": [
+        "018338.webp",
+        "018366.webp",
+        "018367.webp",
+        "018406.webp",
+        "018445.webp",
+        "018446.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Tại hiện trường, lực lượng Cảnh sát Phòng cháy Chữa cháy đã tiếp cận khu vực chân núi phun nước nhằm khống chế đám cháy.",
+      "start": 615.04,
+      "end": 620.36,
+      "n_words": 25,
+      "start_frame": 18451,
+      "end_frame": 18611,
+      "keyframes": [
+        "018485.webp",
+        "018524.webp",
+        "018525.webp",
+        "018568.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Tuy nhiên, do thời tiết nắng nóng gay gắt cùng với gió lớn và lượng thực bì dày từ rừng thông đã khiến công tác tiếp cận hết sức khó khăn.",
+      "start": 620.36,
+      "end": 627.28,
+      "n_words": 31,
+      "start_frame": 18611,
+      "end_frame": 18818,
+      "keyframes": [
+        "018612.webp",
+        "018613.webp",
+        "018655.webp",
+        "018698.webp",
+        "018699.webp",
+        "018726.webp",
+        "018753.webp",
+        "018754.webp",
+        "018783.webp",
+        "018813.webp",
+        "018814.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Quảng Bình đang bước vào đợt nắng nóng gay gắt, nguy cơ xảy ra cháy rừng tại nhiều địa phương là rất lớn.",
+      "start": 627.28,
+      "end": 632.24,
+      "n_words": 23,
+      "start_frame": 18818,
+      "end_frame": 18967,
+      "keyframes": [
+        "018851.webp",
+        "018888.webp",
+        "018889.webp",
+        "018925.webp",
+        "018962.webp",
+        "018963.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cơ quan chức năng đang tập trung điều tra nguyên nhân và thống kê thiệt hại của vụ cháy.",
+      "start": 632.24,
+      "end": 638.4,
+      "n_words": 19,
+      "start_frame": 18967,
+      "end_frame": 19152,
+      "keyframes": [
+        "019000.webp",
+        "019038.webp",
+        "019039.webp",
+        "019072.webp",
+        "019105.webp",
+        "019123.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Trong phần tiếp theo, Hy Lạp sơ tán hơn 30.000 cư dân tại thị trấn lịch sử Marathon do cháy rừng đang lan nhanh.",
+      "start": 638.4,
+      "end": 648.32,
+      "n_words": 24,
+      "start_frame": 19152,
+      "end_frame": 19450,
+      "keyframes": [
+        "019156.webp",
+        "019190.webp",
+        "019191.webp",
+        "019221.webp",
+        "019251.webp",
+        "019252.webp",
+        "019280.webp",
+        "019308.webp",
+        "019309.webp",
+        "019333.webp",
+        "019357.webp",
+        "019358.webp",
+        "019382.webp",
+        "019406.webp",
+        "019407.webp",
+        "019442.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Thưa quý vị, chính quyền Hy Lạp ngày 12 tháng 8 đã sơ tán hơn 30.000 cư dân tại thị trấn lịch sử Marathon ở vùng Attica phía đông bắc nước này do cháy rừng đang lan nhanh bên ngoài thủ đô Athens.",
+      "start": 658.16,
+      "end": 670.32,
+      "n_words": 43,
+      "start_frame": 19745,
+      "end_frame": 20110,
+      "keyframes": [
+        "019900.webp",
+        "020078.webp",
+        "020102.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Theo Bộ Bảo vệ Dân sự và Quản lý Khủng hoảng Khí hậu Hy Lạp, cư dân ở thị trấn Marathon đã được yêu cầu di chuyển về phía thị trấn Nea Makri ở bãi biển lân cận sau khi 6 khu định cư trong khu vực đã được sơ tán.",
+      "start": 670.32,
+      "end": 682.0,
+      "n_words": 51,
+      "start_frame": 20110,
+      "end_frame": 20460,
+      "keyframes": [
+        "020148.webp",
+        "020195.webp",
+        "020196.webp",
+        "020236.webp",
+        "020276.webp",
+        "020277.webp",
+        "020305.webp",
+        "020334.webp",
+        "020335.webp",
+        "020366.webp",
+        "020397.webp",
+        "020398.webp",
+        "020427.webp",
+        "020456.webp",
+        "020457.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Các cơ sở của Trung tâm Thể thao Olympic Athens cách Marathon khoảng 30 km đã được mở cửa để đón nhiều người.",
+      "start": 682.0,
+      "end": 688.24,
+      "n_words": 23,
+      "start_frame": 20460,
+      "end_frame": 20647,
+      "keyframes": [
+        "020494.webp",
+        "020532.webp",
+        "020533.webp",
+        "020562.webp",
+        "020591.webp",
+        "020592.webp",
+        "020616.webp",
+        "020641.webp",
+        "020642.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Theo thông tin mới nhất do Bộ Y tế Hy Lạp cung cấp, 8 người đã được chuyển đến bệnh viện chủ yếu là do các vấn đề về hô hấp.",
+      "start": 688.24,
+      "end": 695.2,
+      "n_words": 31,
+      "start_frame": 20647,
+      "end_frame": 20856,
+      "keyframes": [
+        "020678.webp",
+        "020715.webp",
+        "020716.webp",
+        "020749.webp",
+        "020783.webp",
+        "020784.webp",
+        "020823.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cháy bùng phát vào chiều ngày 11 tháng 8 tại thị trấn Parthenas cách Athens khoảng 35 km về phía bắc.",
+      "start": 695.2,
+      "end": 701.68,
+      "n_words": 21,
+      "start_frame": 20856,
+      "end_frame": 21050,
+      "keyframes": [
+        "020862.webp",
+        "020863.webp",
+        "020895.webp",
+        "020928.webp",
+        "020929.webp",
+        "020960.webp",
+        "020991.webp",
+        "020992.webp",
+        "021018.webp",
+        "021044.webp",
+        "021045.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Đám cháy lan nhanh do thời tiết nóng và gió, và những đám khói dày đặc bao phủ phần lớn thủ đô của Hy Lạp.",
+      "start": 701.68,
+      "end": 708.24,
+      "n_words": 25,
+      "start_frame": 21050,
+      "end_frame": 21247,
+      "keyframes": [
+        "021088.webp",
+        "021132.webp",
+        "021133.webp",
+        "021186.webp",
+        "021240.webp",
+        "021241.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hơn 670 lính cứu hỏa với sự hỗ trợ của các tình nguyện viên, 183 xe cứu hỏa, 32 máy bay chữa cháy và trực thăng vẫn đang chiến đấu suốt ngày đêm với đám cháy rừng nhưng phải đối mặt với những thách thức to lớn do quy mô của đám cháy và gió vẫn đang tiếp tục mạnh lên.",
+      "start": 708.24,
+      "end": 727.8,
+      "n_words": 61,
+      "start_frame": 21247,
+      "end_frame": 21834,
+      "keyframes": [
+        "021284.webp",
+        "021327.webp",
+        "021328.webp",
+        "021366.webp",
+        "021405.webp",
+        "021406.webp",
+        "021442.webp",
+        "021479.webp",
+        "021480.webp",
+        "021523.webp",
+        "021566.webp",
+        "021567.webp",
+        "021592.webp",
+        "021617.webp",
+        "021618.webp",
+        "021676.webp",
+        "021735.webp",
+        "021757.webp",
+        "021798.webp"
+      ],
+      "keyframe_count": 19
+    },
+    {
+      "text": "Sau khi công bố tác phẩm thứ bảy liên quan đến loài cá ở thủ đô London, nước Anh, nghệ sĩ bí ẩn Banksy lại tiếp tục công bố tác phẩm thứ tám trong chuỗi tác phẩm lấy cảm hứng từ động vật trong thời gian gần đây.",
+      "start": 727.8,
+      "end": 740.8,
+      "n_words": 48,
+      "start_frame": 21834,
+      "end_frame": 22224,
+      "keyframes": [
+        "021840.webp",
+        "021861.webp",
+        "022087.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Lần này nhân vật chính là loài tê giác.",
+      "start": 740.8,
+      "end": 744.76,
+      "n_words": 9,
+      "start_frame": 22224,
+      "end_frame": 22343,
+      "keyframes": [
+        "022314.webp",
+        "022334.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bức tranh tường mới của Banksy vẽ một con tê giác trông giống như đang trèo lên nóc một chiếc ô tô hỏng đậu trước một tòa nhà ở thủ đô London, nước Anh.",
+      "start": 744.76,
+      "end": 753.56,
+      "n_words": 34,
+      "start_frame": 22343,
+      "end_frame": 22607,
+      "keyframes": [
+        "022394.webp",
+        "022454.webp",
+        "022455.webp",
+        "022529.webp",
+        "022604.webp",
+        "022605.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Banksy đã đăng trong tuần qua trong bộ sưu tập gồm voi, dê, sói, khỉ, mèo, cá; Banksy đã bắt đầu đăng các tác phẩm mới trên tài khoản Instagram của mình hằng ngày kể từ thứ hai tuần trước.",
+      "start": 753.56,
+      "end": 766.0,
+      "n_words": 40,
+      "start_frame": 22607,
+      "end_frame": 22980,
+      "keyframes": [
+        "022634.webp",
+        "022664.webp",
+        "022665.webp",
+        "022692.webp",
+        "022719.webp",
+        "022720.webp",
+        "022743.webp",
+        "022767.webp",
+        "022768.webp",
+        "022791.webp",
+        "022815.webp",
+        "022816.webp",
+        "022844.webp",
+        "022873.webp",
+        "022874.webp",
+        "022889.webp",
+        "022904.webp",
+        "022905.webp",
+        "022924.webp",
+        "022943.webp",
+        "022944.webp",
+        "022968.webp"
+      ],
+      "keyframe_count": 22
+    },
+    {
+      "text": "Trước đó, Banksy cũng công bố tác phẩm thứ bảy là một bể cá xuất hiện trên bốn mặt của bốt gác cảnh sát ở trung tâm thủ đô London.",
+      "start": 766.0,
+      "end": 774.28,
+      "n_words": 30,
+      "start_frame": 22980,
+      "end_frame": 23228,
+      "keyframes": [
+        "022993.webp",
+        "022994.webp",
+        "023025.webp",
+        "023057.webp",
+        "023058.webp",
+        "023116.webp",
+        "023174.webp",
+        "023175.webp",
+        "023211.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Tác phẩm đã thu hút nhiều người tới chiêm ngưỡng, còn 6 tác phẩm khác đã được người dân phát hiện trên khắp thành phố trong tuần qua.",
+      "start": 774.28,
+      "end": 781.2,
+      "n_words": 28,
+      "start_frame": 23228,
+      "end_frame": 23436,
+      "keyframes": [
+        "023247.webp",
+        "023248.webp",
+        "023285.webp",
+        "023322.webp",
+        "023323.webp",
+        "023352.webp",
+        "023381.webp",
+        "023382.webp",
+        "023417.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cho đến nay, danh tính của Banksy vẫn chưa được tiết lộ, tuy nhiên các tác phẩm của người này luôn gây ấn tượng mạnh nhờ yếu tố bất ngờ và ý nghĩa sâu sắc.",
+      "start": 781.2,
+      "end": 792.68,
+      "n_words": 35,
+      "start_frame": 23436,
+      "end_frame": 23780,
+      "keyframes": [
+        "023453.webp",
+        "023454.webp",
+        "023478.webp",
+        "023503.webp",
+        "023504.webp",
+        "023541.webp",
+        "023579.webp",
+        "023580.webp",
+        "023604.webp",
+        "023629.webp",
+        "023630.webp",
+        "023654.webp",
+        "023679.webp",
+        "023680.webp",
+        "023715.webp",
+        "023750.webp",
+        "023751.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Về những ngọn đồi ở miền Trung Bosnia, một doanh nhân đã biến giấc mơ nghệ thuật ấp ủ hàng chục năm của mình thành hiện thực, đó là tái hiện bức tranh nổi tiếng \"Đêm đầy sao\" của danh họa Van Gogh trong đời thực.",
+      "start": 792.68,
+      "end": 806.64,
+      "n_words": 46,
+      "start_frame": 23780,
+      "end_frame": 24199,
+      "keyframes": [
+        "023915.webp",
+        "024080.webp",
+        "024081.webp",
+        "024112.webp",
+        "024143.webp",
+        "024171.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Doanh nhân Halim, du khách đã mua mảnh đất rộng 2 ha từ 20 năm trước và sau đó mở rộng diện tích lên 70 ha.",
+      "start": 806.64,
+      "end": 813.12,
+      "n_words": 26,
+      "start_frame": 24199,
+      "end_frame": 24394,
+      "keyframes": [
+        "024240.webp",
+        "024309.webp",
+        "024310.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cách đây 6 năm, ông bắt tay vào việc biến khu đất này thành một công viên tự nhiên theo chủ đề \"Đêm đầy sao\".",
+      "start": 814.16,
+      "end": 821.48,
+      "n_words": 25,
+      "start_frame": 24425,
+      "end_frame": 24644,
+      "keyframes": [
+        "024428.webp",
+        "024546.webp",
+        "024547.webp",
+        "024590.webp",
+        "024633.webp",
+        "024634.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "\"Phía sau tôi là công viên Đêm đầy sao, bản tái tạo lớn nhất của bức tranh nổi tiếng của Van Gogh mà cả thế giới đều biết đến.",
+      "start": 821.48,
+      "end": 829.16,
+      "n_words": 29,
+      "start_frame": 24644,
+      "end_frame": 24875,
+      "keyframes": [
+        "024728.webp",
+        "024823.webp",
+        "024824.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tôi đã dành 20 năm của cuộc đời mình để đưa ý tưởng này trở thành hiện thực.\"",
+      "start": 829.16,
+      "end": 833.76,
+      "n_words": 18,
+      "start_frame": 24875,
+      "end_frame": 25013,
+      "keyframes": [
+        "024914.webp",
+        "025004.webp",
+        "025005.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Công viên có khoảng 130.000 bụi hoa oải hương cùng nhiều loại thảo mộc thơm khác.",
+      "start": 833.76,
+      "end": 839.12,
+      "n_words": 16,
+      "start_frame": 25013,
+      "end_frame": 25174,
+      "keyframes": [
+        "025084.webp",
+        "025164.webp",
+        "025165.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bụi cây được trồng theo những vòng tròn xoắn ốc để mô tả lại những nét vẽ kỳ ảo của bức tranh \"Đêm đầy sao\".",
+      "start": 839.12,
+      "end": 846.4,
+      "n_words": 26,
+      "start_frame": 25174,
+      "end_frame": 25392,
+      "keyframes": [
+        "025273.webp",
+        "025381.webp",
+        "025382.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng tôi tái hiện bức tranh trên diện tích khoảng 10 ha, đây có lẽ là tác phẩm nghệ thuật lớn nhất thế giới.",
+      "start": 846.4,
+      "end": 853.48,
+      "n_words": 24,
+      "start_frame": 25392,
+      "end_frame": 25604,
+      "keyframes": [
+        "025487.webp",
+        "025593.webp",
+        "025594.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "\"Đêm đầy sao\" được vẽ vào năm 1889 khi Van Gogh đang điều trị tâm thần tại Pháp.",
+      "start": 853.48,
+      "end": 859.8,
+      "n_words": 18,
+      "start_frame": 25604,
+      "end_frame": 25794,
+      "keyframes": [
+        "025691.webp",
+        "025788.webp",
+        "025789.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đây là một trong những tác phẩm nghệ thuật được biết đến nhiều nhất trên thế giới và hiện đang được lưu giữ tại Bảo tàng Nghệ thuật Hiện đại New York.",
+      "start": 859.8,
+      "end": 869.44,
+      "n_words": 32,
+      "start_frame": 25794,
+      "end_frame": 26083,
+      "keyframes": [
+        "025866.webp",
+        "025944.webp",
+        "025945.webp",
+        "025998.webp",
+        "026052.webp",
+        "026053.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Những chiếc bánh taco là món ăn đặc trưng có nguồn gốc tại thị trấn San Visa, bang Lascala.",
+      "start": 869.44,
+      "end": 876.08,
+      "n_words": 19,
+      "start_frame": 26083,
+      "end_frame": 26282,
+      "keyframes": [
+        "026094.webp",
+        "026136.webp",
+        "026137.webp",
+        "026194.webp",
+        "026252.webp",
+        "026253.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Mới đây, Mexico đã lập kỷ lục Guinness thế giới về sự đa dạng hương vị của món bánh taco.",
+      "start": 876.08,
+      "end": 882.96,
+      "n_words": 20,
+      "start_frame": 26282,
+      "end_frame": 26489,
+      "keyframes": [
+        "026341.webp",
+        "026429.webp",
+        "026430.webp",
+        "026444.webp",
+        "026459.webp",
+        "026488.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chỉ có những người thợ làm bánh taco từ San Visa, Silo, Socalala được mời tham gia sự kiện lập kỷ lục Guinness ở thủ đô Mexico City và cuối cùng họ đã lập được kỳ tích với hơn 150 hương vị khác nhau.",
+      "start": 882.96,
+      "end": 896.12,
+      "n_words": 44,
+      "start_frame": 26489,
+      "end_frame": 26884,
+      "keyframes": [
+        "026516.webp",
+        "026545.webp",
+        "026546.webp",
+        "026586.webp",
+        "026627.webp",
+        "026628.webp",
+        "026659.webp",
+        "026690.webp",
+        "026691.webp",
+        "026728.webp",
+        "026766.webp",
+        "026767.webp",
+        "026793.webp",
+        "026820.webp",
+        "026821.webp",
+        "026850.webp",
+        "026880.webp",
+        "026881.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Người dân địa phương đã được thưởng thức những chiếc bánh taco với đa dạng nguyên liệu như thịt heo, khoai tây, xương rồng, miguon, hu, ares.",
+      "start": 896.12,
+      "end": 903.32,
+      "n_words": 27,
+      "start_frame": 26884,
+      "end_frame": 27100,
+      "keyframes": [
+        "026907.webp",
+        "026933.webp",
+        "026934.webp",
+        "026961.webp",
+        "026989.webp",
+        "026990.webp",
+        "027017.webp",
+        "027045.webp",
+        "027046.webp",
+        "027075.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Một thợ làm bánh taco đã có 30 năm trong nghề cho biết giải thưởng này là một nguồn động lực lớn cho mọi người: \"Đây là một niềm tự hào to lớn không chỉ với chúng tôi mà còn toàn bộ người dân ở thị trấn và cả bang Lascala khi thể hiện sự xuất sắc trong công việc tuyệt vời này.\"",
+      "start": 903.32,
+      "end": 919.64,
+      "n_words": 63,
+      "start_frame": 27100,
+      "end_frame": 27589,
+      "keyframes": [
+        "027104.webp",
+        "027105.webp",
+        "027140.webp",
+        "027175.webp",
+        "027176.webp",
+        "027206.webp",
+        "027237.webp",
+        "027238.webp",
+        "027266.webp",
+        "027294.webp",
+        "027295.webp",
+        "027373.webp",
+        "027452.webp",
+        "027453.webp",
+        "027491.webp",
+        "027529.webp",
+        "027530.webp",
+        "027554.webp",
+        "027579.webp",
+        "027580.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "các thợ làm bánh, việc đạt được kỷ lục Guinness là một cách tuyệt vời để quảng bá thị trấn của họ.",
+      "start": 920.0,
+      "end": 926.56,
+      "n_words": 22,
+      "start_frame": 27600,
+      "end_frame": 27797,
+      "keyframes": [
+        "027607.webp",
+        "027635.webp",
+        "027636.webp",
+        "027667.webp",
+        "027698.webp",
+        "027699.webp",
+        "027736.webp",
+        "027773.webp",
+        "027774.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Tại giải đua 2024 dành cho nữ, vận động viên người Hà Lan đã giành chiến thắng trong chặng mở màn.",
+      "start": 926.56,
+      "end": 932.96,
+      "n_words": 21,
+      "start_frame": 27797,
+      "end_frame": 27989,
+      "keyframes": [
+        "027871.webp",
+        "027968.webp",
+        "027969.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trong cuộc đua hôm qua, Schlon được đồng đội hỗ trợ cho chặng nước rút cuối cùng, giúp cô dẫn đầu hoàn hảo với cú bứt phá trong 100 mét cuối cùng để hoàn thành chặng đua trong thời gian 2:47:40.",
+      "start": 932.96,
+      "end": 945.32,
+      "n_words": 41,
+      "start_frame": 27989,
+      "end_frame": 28360,
+      "keyframes": [
+        "028012.webp",
+        "028055.webp",
+        "028090.webp",
+        "028110.webp",
+        "028130.webp",
+        "028131.webp",
+        "028169.webp",
+        "028208.webp",
+        "028209.webp",
+        "028236.webp",
+        "028263.webp",
+        "028264.webp",
+        "028285.webp",
+        "028307.webp",
+        "028308.webp",
+        "028332.webp",
+        "028356.webp",
+        "028357.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Kun đã giành áo vàng trong chặng đầu tiên trên đường đua dài 123 km từ Rotterdam đến La Hay, Hà Lan.",
+      "start": 947.28,
+      "end": 954.72,
+      "n_words": 22,
+      "start_frame": 28418,
+      "end_frame": 28642,
+      "keyframes": [
+        "028471.webp",
+        "028472.webp",
+        "028488.webp",
+        "028505.webp",
+        "028506.webp",
+        "028535.webp",
+        "028565.webp",
+        "028566.webp",
+        "028615.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Kujer, Anina, Anto, Solo của Phần Lan về nhì và Elisa Bastam, người Italia về đích ở vị trí thứ ba.",
+      "start": 954.72,
+      "end": 961.36,
+      "n_words": 21,
+      "start_frame": 28642,
+      "end_frame": 28841,
+      "keyframes": [
+        "028665.webp",
+        "028701.webp",
+        "028702.webp",
+        "028703.webp",
+        "028704.webp",
+        "028732.webp",
+        "028761.webp",
+        "028762.webp",
+        "028804.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Trong khi đó, Kur Lena Wi Abes, người được yêu thích nhất khi vào chặng, đã gặp trục trặc với xích xe khi còn cách vạch đích 200 mét, khiến cô không thể hoàn thành cú nước rút cuối cùng, về đích ở vị trí 41.",
+      "start": 961.36,
+      "end": 972.88,
+      "n_words": 46,
+      "start_frame": 28841,
+      "end_frame": 29186,
+      "keyframes": [
+        "028847.webp",
+        "028848.webp",
+        "028921.webp",
+        "028994.webp",
+        "028998.webp",
+        "029091.webp",
+        "029185.webp",
+        "029186.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Đoàn đua khởi đầu ở Hà Lan, sau đó sẽ qua Pháp để về đích ở dãy Alps.",
+      "start": 973.64,
+      "end": 978.24,
+      "n_words": 18,
+      "start_frame": 29209,
+      "end_frame": 29347,
+      "keyframes": [
+        "029212.webp",
+        "029239.webp",
+        "029240.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cuộc đua gồm 8 chặng, trong đó có 2 chặng leo núi.",
+      "start": 978.24,
+      "end": 980.92,
+      "n_words": 12,
+      "start_frame": 29347,
+      "end_frame": 29428,
+      "keyframes": [
+        "029393.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Hai chặng đua tiếp theo sẽ gồm một chặng dài 69.7 km từ Dodes trở về Rotterdam và tiếp theo là chặng đua tính giờ cá nhân dài 6.3 km.",
+      "start": 980.92,
+      "end": 992.24,
+      "n_words": 30,
+      "start_frame": 29428,
+      "end_frame": 29767,
+      "keyframes": [
+        "029547.webp",
+        "029548.webp",
+        "029646.webp",
+        "029745.webp",
+        "029746.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Tại giải lướt ván thế giới diễn ra ở thành phố River thuộc bang Oregon của Mỹ, chức vô địch nội dung nam và nữ đều thuộc về các vận động viên đến từ Australia.",
+      "start": 992.24,
+      "end": 1001.44,
+      "n_words": 35,
+      "start_frame": 29767,
+      "end_frame": 30043,
+      "keyframes": [
+        "029914.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ở nội dung nam, Ean Jaspan xuất sắc giành được danh hiệu vô địch thế giới đầu tiên trong sự nghiệp của mình sau khi đánh bại hai vận động viên của Canada và Argentina.",
+      "start": 1001.44,
+      "end": 1009.48,
+      "n_words": 35,
+      "start_frame": 30043,
+      "end_frame": 30284,
+      "keyframes": [
+        "030082.webp",
+        "030117.webp",
+        "030139.webp",
+        "030162.webp",
+        "030163.webp",
+        "030225.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Trong khi đó, ở cuộc thi dành cho nữ, Caty Poter thống trị mọi vòng đấu để bảo vệ thành công danh hiệu vô địch thế giới.",
+      "start": 1009.48,
+      "end": 1017.44,
+      "n_words": 27,
+      "start_frame": 30284,
+      "end_frame": 30523,
+      "keyframes": [
+        "030287.webp",
+        "030288.webp",
+        "030345.webp",
+        "030403.webp",
+        "030404.webp",
+        "030431.webp",
+        "030458.webp",
+        "030459.webp",
+        "030476.webp",
+        "030494.webp",
+        "030495.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Cuối tuần qua, ở vùng Hampshire, miền Nam nước Anh, một cuộc đua tốc độ kéo dài tới 12 giờ đã được tổ chức giữa những chiếc máy cắt cỏ.",
+      "start": 1017.44,
+      "end": 1024.64,
+      "n_words": 30,
+      "start_frame": 30523,
+      "end_frame": 30739,
+      "keyframes": [
+        "030566.webp",
+        "030637.webp",
+        "030638.webp",
+        "030680.webp",
+        "030723.webp",
+        "030724.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Những người tham gia ngồi trên những chiếc máy cắt cỏ được chế tạo riêng và chạy với tốc độ hơn 80 km/h.",
+      "start": 1024.64,
+      "end": 1029.48,
+      "n_words": 23,
+      "start_frame": 30739,
+      "end_frame": 30884,
+      "keyframes": [
+        "030817.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cuộc đua bắt đầu lúc 8:00 tối hôm trước và kết thúc lúc 8:00 sáng ngày hôm sau, quy tụ các tay đua từ hơn 40 đội.",
+      "start": 1032.2,
+      "end": 1039.04,
+      "n_words": 27,
+      "start_frame": 30966,
+      "end_frame": 31171,
+      "keyframes": [
+        "031021.webp",
+        "031079.webp",
+        "031080.webp",
+        "031123.webp",
+        "031166.webp",
+        "031167.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sự kiện có tên \"Cuộc đua máy cắt cỏ trong 12 giờ\" do Hiệp hội Đua máy cắt cỏ Anh tổ chức.",
+      "start": 1039.04,
+      "end": 1044.64,
+      "n_words": 22,
+      "start_frame": 31171,
+      "end_frame": 31339,
+      "keyframes": [
+        "031204.webp",
+        "031242.webp",
+        "031243.webp",
+        "031282.webp",
+        "031321.webp",
+        "031322.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Các tay đua đã chạy hết tốc lực thâu đêm không nghỉ; Đây được xem là một thử thách về sức bền đối với cả người lái và phương tiện.",
+      "start": 1044.64,
+      "end": 1052.0,
+      "n_words": 30,
+      "start_frame": 31339,
+      "end_frame": 31560,
+      "keyframes": [
+        "031361.webp",
+        "031400.webp",
+        "031401.webp",
+        "031442.webp",
+        "031484.webp",
+        "031485.webp",
+        "031518.webp",
+        "031551.webp",
+        "031552.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đua xe cắt cỏ là môn thể thao đã có từ năm 1973.",
+      "start": 1052.0,
+      "end": 1054.44,
+      "n_words": 13,
+      "start_frame": 31560,
+      "end_frame": 31633,
+      "keyframes": [
+        "031589.webp",
+        "031627.webp",
+        "031628.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ba tay đua mỗi đội sẽ thay phiên nhau cầm lái, họ có các trạm dừng để tiếp nhiên liệu và sửa chữa nếu cần thiết.",
+      "start": 1055.68,
+      "end": 1061.6,
+      "n_words": 26,
+      "start_frame": 31670,
+      "end_frame": 31848,
+      "keyframes": [
+        "031675.webp",
+        "031676.webp",
+        "031712.webp",
+        "031748.webp",
+        "031749.webp",
+        "031781.webp",
+        "031814.webp",
+        "031815.webp",
+        "031846.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đội chiến thắng năm nay là North Den Kitras đến từ Honford, miền Bắc nước Anh; Họ đã về đích sau khi hoàn thành 405 vòng đua của đường đua dài 1.1 km.",
+      "start": 1061.6,
+      "end": 1072.8,
+      "n_words": 33,
+      "start_frame": 31848,
+      "end_frame": 32184,
+      "keyframes": [
+        "031878.webp",
+        "031879.webp",
+        "031916.webp",
+        "031953.webp",
+        "031954.webp",
+        "032001.webp",
+        "032048.webp",
+        "032049.webp",
+        "032081.webp",
+        "032113.webp",
+        "032114.webp",
+        "032143.webp",
+        "032172.webp",
+        "032173.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "\"Nó thú vị theo một cách kỳ lạ, tôi thực sự thích cuộc đua này.\"",
+      "start": 1072.8,
+      "end": 1077.44,
+      "n_words": 15,
+      "start_frame": 32184,
+      "end_frame": 32323,
+      "keyframes": [
+        "032243.webp",
+        "032313.webp",
+        "032314.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cuộc đua dự kiến sẽ trở lại vào tháng 8 năm sau.",
+      "start": 1077.44,
+      "end": 1082.72,
+      "n_words": 12,
+      "start_frame": 32323,
+      "end_frame": 32482,
+      "keyframes": [
+        "032342.webp",
+        "032371.webp",
+        "032372.webp",
+        "032404.webp",
+        "032436.webp",
+        "032450.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cập nhật: Thưa quý vị, rạng sáng nay theo giờ Việt Nam, một trận động đất mạnh 4.4 độ Richter đã làm rung chuyển thành phố Los Angeles của Mỹ.",
+      "start": 1082.72,
+      "end": 1090.28,
+      "n_words": 30,
+      "start_frame": 32482,
+      "end_frame": 32708,
+      "keyframes": [
+        "032678.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cơ quan Khảo sát Địa chất Mỹ cho biết trận động đất xảy ra gần khu phố Highland Park phía đông bắc trung tâm thành phố, tâm chấn nằm ở độ sâu 12.1 km.",
+      "start": 1090.28,
+      "end": 1099.48,
+      "n_words": 34,
+      "start_frame": 32708,
+      "end_frame": 32984,
+      "keyframes": [
+        "032906.webp",
+        "032930.webp",
+        "032957.webp",
+        "032984.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Rung chấn của trận động đất có thể cảm nhận được trên khắp khu vực Los Angeles.",
+      "start": 1099.48,
+      "end": 1103.52,
+      "n_words": 17,
+      "start_frame": 32984,
+      "end_frame": 33106,
+      "keyframes": [
+        "032984.webp",
+        "032985.webp",
+        "033023.webp",
+        "033061.webp",
+        "033062.webp",
+        "033085.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sở cứu hỏa thành phố cho biết họ đã chuyển sang chế độ động đất và báo cáo rằng hiện tại chưa có thông tin ban đầu nào về thiệt hại cơ sở hạ tầng hoặc thương tích. Những thông tin vừa rồi cũng đã kết thúc chương trình 60 giây sáng nay của chúng tôi.",
+      "start": 1103.52,
+      "end": 1117.36,
+      "n_words": 56,
+      "start_frame": 33106,
+      "end_frame": 33521,
+      "keyframes": [
+        "033109.webp",
+        "033110.webp",
+        "033113.webp",
+        "033117.webp",
+        "033118.webp",
+        "033146.webp",
+        "033175.webp",
+        "033176.webp",
+        "033199.webp",
+        "033222.webp",
+        "033223.webp",
+        "033254.webp",
+        "033285.webp",
+        "033286.webp",
+        "033306.webp",
+        "033326.webp",
+        "033327.webp",
+        "033359.webp",
+        "033391.webp",
+        "033392.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Hẹn gặp lại quý vị trong chương trình 60 giây chiều nay. Còn bây giờ thì xin kính chào tạm biệt.",
+      "start": 1117.36,
+      "end": 1122.52,
+      "n_words": 21,
+      "start_frame": 33521,
+      "end_frame": 33676,
+      "keyframes": [
+        "033547.webp"
+      ],
+      "keyframe_count": 1
+    }
+  ]
+}

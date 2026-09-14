@@ -1,0 +1,778 @@
+{
+  "video_id": "L26_V119",
+  "fps": 25.0,
+  "n_sentences": 47,
+  "total_words": 1000,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày: Gà cà ri xanh cay cay ngon ngọt thơm nồng hương Thái. Chào các bạn khán giả đang xem chương trình Món ngon mỗi ngày - Nấu chuẩn an lành.",
+      "start": 10.56,
+      "end": 38.0,
+      "n_words": 34,
+      "start_frame": 264,
+      "end_frame": 950,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000351.webp",
+        "000403.webp",
+        "000404.webp",
+        "000438.webp",
+        "000473.webp",
+        "000488.webp",
+        "000536.webp",
+        "000585.webp",
+        "000586.webp",
+        "000621.webp",
+        "000656.webp",
+        "000657.webp",
+        "000747.webp",
+        "000837.webp",
+        "000838.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 38.0,
+      "end": 42.24,
+      "n_words": 11,
+      "start_frame": 950,
+      "end_frame": 1056,
+      "keyframes": [
+        "000966.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chào anh Vũ, chào Minh Tuấn.",
+      "start": 42.24,
+      "end": 43.84,
+      "n_words": 6,
+      "start_frame": 1056,
+      "end_frame": 1096,
+      "keyframes": [
+        "001094.webp",
+        "001095.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Hôm nay không biết là em được vinh hạnh ăn một cái món gì đặc biệt của anh đây?",
+      "start": 43.84,
+      "end": 48.0,
+      "n_words": 19,
+      "start_frame": 1096,
+      "end_frame": 1200,
+      "keyframes": [
+        "001145.webp",
+        "001196.webp",
+        "001197.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Món này rất là quen, tức là cà ri xanh món Thái.",
+      "start": 48.0,
+      "end": 53.52,
+      "n_words": 12,
+      "start_frame": 1200,
+      "end_frame": 1338,
+      "keyframes": [
+        "001235.webp",
+        "001274.webp",
+        "001275.webp",
+        "001310.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đúng rồi, mà làm dùng thịt gà, cà pháo.",
+      "start": 53.52,
+      "end": 56.36,
+      "n_words": 9,
+      "start_frame": 1338,
+      "end_frame": 1409,
+      "keyframes": [
+        "001346.webp",
+        "001347.webp",
+        "001369.webp",
+        "001392.webp",
+        "001393.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta chọn trái cà pháo tím tím cho đẹp, chúng ta cắt dọc theo chiều dọc.",
+      "start": 56.36,
+      "end": 60.12,
+      "n_words": 17,
+      "start_frame": 1409,
+      "end_frame": 1503,
+      "keyframes": [
+        "001441.webp",
+        "001489.webp",
+        "001490.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Sau đó thì ớt thì Minh Tuấn sẽ cắt hình thoi, các bạn cắt chiều dài cỡ 2 cm là vừa.",
+      "start": 60.12,
+      "end": 65.84,
+      "n_words": 21,
+      "start_frame": 1503,
+      "end_frame": 1646,
+      "keyframes": [
+        "001522.webp",
+        "001555.webp",
+        "001556.webp",
+        "001579.webp",
+        "001602.webp",
+        "001603.webp",
+        "001620.webp",
+        "001637.webp",
+        "001638.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Bây giờ là cái phần ớt mình cắt hình thoi thôi đúng không anh?",
+      "start": 65.84,
+      "end": 68.4,
+      "n_words": 14,
+      "start_frame": 1646,
+      "end_frame": 1710,
+      "keyframes": [
+        "001676.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Để chúng ta có thể cắt khoanh cũng được.",
+      "start": 68.4,
+      "end": 72.16,
+      "n_words": 9,
+      "start_frame": 1710,
+      "end_frame": 1804,
+      "keyframes": [
+        "001715.webp",
+        "001716.webp",
+        "001757.webp",
+        "001799.webp",
+        "001800.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đối với thịt gia cầm thì chúng ta cắt phải là xuôi sớ thì sau khi nấu xong thì gia cầm nó không có bị bể, không có bị vụn nát nha.",
+      "start": 72.16,
+      "end": 80.84,
+      "n_words": 32,
+      "start_frame": 1804,
+      "end_frame": 2021,
+      "keyframes": [
+        "001817.webp",
+        "001834.webp",
+        "001835.webp",
+        "001882.webp",
+        "001930.webp",
+        "001931.webp",
+        "001976.webp",
+        "002021.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Và thưa các bạn, chúng ta nêm vào đây hai muỗng cà phê hạt nêm Ajinomoto ngon gà, một muỗng canh nước cốt chanh.",
+      "start": 80.84,
+      "end": 88.68,
+      "n_words": 24,
+      "start_frame": 2021,
+      "end_frame": 2217,
+      "keyframes": [
+        "002021.webp",
+        "002022.webp",
+        "002036.webp",
+        "002050.webp",
+        "002051.webp",
+        "002063.webp",
+        "002075.webp",
+        "002076.webp",
+        "002100.webp",
+        "002125.webp",
+        "002126.webp",
+        "002145.webp",
+        "002164.webp",
+        "002165.webp",
+        "002193.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Chúng ta ướp thịt gà với lại ít nước cốt chanh để thịt gà được thơm và mau mềm hơn.",
+      "start": 88.68,
+      "end": 93.76,
+      "n_words": 20,
+      "start_frame": 2217,
+      "end_frame": 2344,
+      "keyframes": [
+        "002221.webp",
+        "002222.webp",
+        "002252.webp",
+        "002283.webp",
+        "002284.webp",
+        "002313.webp",
+        "002342.webp",
+        "002343.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Còn đậu đũa này anh đã chần sẵn như vậy thì chúng ta chỉ cần ngắt khúc, cắt nhỏ lại như vậy.",
+      "start": 93.76,
+      "end": 99.28,
+      "n_words": 22,
+      "start_frame": 2344,
+      "end_frame": 2482,
+      "keyframes": [
+        "002360.webp",
+        "002378.webp",
+        "002379.webp",
+        "002411.webp",
+        "002444.webp",
+        "002445.webp",
+        "002463.webp",
+        "002481.webp",
+        "002482.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Em sẽ dựa vào cái này của anh để em sẽ làm mẫu nè.",
+      "start": 99.28,
+      "end": 103.04,
+      "n_words": 14,
+      "start_frame": 2482,
+      "end_frame": 2576,
+      "keyframes": [
+        "002482.webp",
+        "002543.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Còn đậu đũa thì đầu tiên nó là rau cho nên là nó sẽ có rất là nhiều chất xơ, ngoài ra thì nó còn có một cái lượng protein, mà protein ở trong đậu đũa thì nó là một cái lớp protein rất là đặc biệt, nó giúp mình kéo dài cái cảm giác no.",
+      "start": 103.04,
+      "end": 115.6,
+      "n_words": 56,
+      "start_frame": 2576,
+      "end_frame": 2890,
+      "keyframes": [
+        "002605.webp",
+        "002606.webp",
+        "002648.webp",
+        "002690.webp",
+        "002691.webp",
+        "002721.webp",
+        "002751.webp",
+        "002752.webp",
+        "002799.webp",
+        "002847.webp",
+        "002848.webp",
+        "002867.webp",
+        "002887.webp",
+        "002888.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Ta sẽ bắc lên một cái chảo, chúng ta cho đem miếng dầu vào rồi cà pháo, chúng ta sau khi xào sơ xong chúng ta nấu thì cà pháo sẽ thơm hơn rất là nhiều.",
+      "start": 115.76,
+      "end": 125.16,
+      "n_words": 36,
+      "start_frame": 2894,
+      "end_frame": 3129,
+      "keyframes": [
+        "002908.webp",
+        "002929.webp",
+        "002930.webp",
+        "002964.webp",
+        "002998.webp",
+        "002999.webp",
+        "003058.webp",
+        "003118.webp",
+        "003119.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cho ướp vô nhanh qua, sau khi xong chúng ta chốt ra để qua dĩa.",
+      "start": 125.16,
+      "end": 134.2,
+      "n_words": 15,
+      "start_frame": 3129,
+      "end_frame": 3355,
+      "keyframes": [
+        "003194.webp",
+        "003269.webp",
+        "003270.webp",
+        "003297.webp",
+        "003324.webp",
+        "003325.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đây, chúng ta nên xào cà pháo trước để sau khi nấu thì cà pháo được thơm và không bị mất vị nha các bạn.",
+      "start": 134.2,
+      "end": 140.32,
+      "n_words": 25,
+      "start_frame": 3355,
+      "end_frame": 3508,
+      "keyframes": [
+        "003362.webp",
+        "003400.webp",
+        "003401.webp",
+        "003448.webp",
+        "003495.webp",
+        "003496.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cho thêm ít dầu nè, chúng ta mới cho thịt gà vào.",
+      "start": 140.32,
+      "end": 150.8,
+      "n_words": 12,
+      "start_frame": 3508,
+      "end_frame": 3770,
+      "keyframes": [
+        "003540.webp",
+        "003584.webp",
+        "003585.webp",
+        "003628.webp",
+        "003671.webp",
+        "003672.webp",
+        "003721.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Chúng ta nên để cho chảo thật nóng sau đó mới cho thịt gà vào để thịt gà không bị ra nước.",
+      "start": 150.8,
+      "end": 156.68,
+      "n_words": 22,
+      "start_frame": 3770,
+      "end_frame": 3917,
+      "keyframes": [
+        "003771.webp",
+        "003772.webp",
+        "003804.webp",
+        "003836.webp",
+        "003837.webp",
+        "003857.webp",
+        "003878.webp",
+        "003879.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta cho vào đây khoảng nửa muỗng canh nước mắm như vậy.",
+      "start": 156.68,
+      "end": 160.4,
+      "n_words": 13,
+      "start_frame": 3917,
+      "end_frame": 4010,
+      "keyframes": [
+        "003944.webp",
+        "004010.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ cho tiếp tổng hợp cà ri xanh vào, rồi chúng ta cho tiếp đường tán vào.",
+      "start": 160.4,
+      "end": 167.64,
+      "n_words": 21,
+      "start_frame": 4010,
+      "end_frame": 4191,
+      "keyframes": [
+        "004010.webp",
+        "004011.webp",
+        "004061.webp",
+        "004112.webp",
+        "004113.webp",
+        "004152.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Tại sao mình lại không dùng đường trắng thông thường mà mình dùng đường tán?",
+      "start": 167.64,
+      "end": 170.36,
+      "n_words": 15,
+      "start_frame": 4191,
+      "end_frame": 4259,
+      "keyframes": [
+        "004192.webp",
+        "004193.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Anh cái đường tán này nó có cái vị ngọt của mật đường rất là đậm.",
+      "start": 170.36,
+      "end": 174.48,
+      "n_words": 16,
+      "start_frame": 4259,
+      "end_frame": 4362,
+      "keyframes": [
+        "004287.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và bây giờ chúng ta sẽ cho nước cốt dừa vào, chúng ta cho sâm sấp thôi các bạn.",
+      "start": 174.48,
+      "end": 180.84,
+      "n_words": 19,
+      "start_frame": 4362,
+      "end_frame": 4521,
+      "keyframes": [
+        "004381.webp",
+        "004382.webp",
+        "004423.webp",
+        "004464.webp",
+        "004465.webp",
+        "004491.webp",
+        "004517.webp",
+        "004518.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta để lửa nhỏ cho nên nấu từ từ, thịt gà này chúng ta nấu lửa nhỏ khoảng độ chừng 15 phút thôi là xương gà sẽ chín rồi.",
+      "start": 180.84,
+      "end": 188.2,
+      "n_words": 30,
+      "start_frame": 4521,
+      "end_frame": 4705,
+      "keyframes": [
+        "004554.webp",
+        "004591.webp",
+        "004592.webp",
+        "004646.webp",
+        "004701.webp",
+        "004702.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ thì chúng ta sẽ cho rau củ vào nha các bạn.",
+      "start": 188.2,
+      "end": 190.6,
+      "n_words": 13,
+      "start_frame": 4705,
+      "end_frame": 4765,
+      "keyframes": [
+        "004735.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nhớ xé những cái lá chúc này cho vô sau cùng luôn đó.",
+      "start": 190.6,
+      "end": 193.84,
+      "n_words": 13,
+      "start_frame": 4765,
+      "end_frame": 4846,
+      "keyframes": [
+        "004769.webp",
+        "004770.webp",
+        "004807.webp",
+        "004844.webp",
+        "004845.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bắt đầu mùi của lá chúc đang hòa quyện với mùi cà ri xông thẳng vào mũi vị giác.",
+      "start": 193.84,
+      "end": 200.48,
+      "n_words": 19,
+      "start_frame": 4846,
+      "end_frame": 5012,
+      "keyframes": [
+        "004930.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Lá bối chúng ta sẽ cần sơ qua nước sôi, sau đó làm lạnh và xay nhuyễn như vậy.",
+      "start": 200.72,
+      "end": 206.96,
+      "n_words": 19,
+      "start_frame": 5018,
+      "end_frame": 5174,
+      "keyframes": [
+        "005062.webp",
+        "005107.webp",
+        "005108.webp",
+        "005133.webp",
+        "005159.webp",
+        "005160.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta cho vào thì nó sẽ có màu xanh thưa các bạn.",
+      "start": 206.96,
+      "end": 210.52,
+      "n_words": 13,
+      "start_frame": 5174,
+      "end_frame": 5263,
+      "keyframes": [
+        "005204.webp",
+        "005249.webp",
+        "005250.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta cho vào cà ri một ít rau bối xôi xay nhuyễn để chúng ta giữ được màu xanh của cà ri được lâu hơn và món ri chúng ta được đẹp mắt hơn nha các bạn.",
+      "start": 210.52,
+      "end": 219.36,
+      "n_words": 38,
+      "start_frame": 5263,
+      "end_frame": 5484,
+      "keyframes": [
+        "005353.webp",
+        "005457.webp",
+        "005458.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trong rau bối xôi thì có rất là nhiều những chất sắt, các bạn nào mà chúng ta hay bị dạng như là chóng mặt do là mình thiếu máu, do thiếu sắt thì mình bổ sung thêm bối xôi nó rất là lợi cho sức khỏe.",
+      "start": 219.36,
+      "end": 231.6,
+      "n_words": 47,
+      "start_frame": 5484,
+      "end_frame": 5790,
+      "keyframes": [
+        "005509.webp",
+        "005561.webp",
+        "005562.webp",
+        "005668.webp",
+        "005774.webp",
+        "005775.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đúng rồi, và cuối cùng chúng ta sẽ cho vào đây lá quế.",
+      "start": 231.6,
+      "end": 236.44,
+      "n_words": 13,
+      "start_frame": 5790,
+      "end_frame": 5911,
+      "keyframes": [
+        "005837.webp",
+        "005900.webp",
+        "005901.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Như vậy món ăn chúng ta đã hoàn tất rồi Minh Tuấn.",
+      "start": 236.44,
+      "end": 238.88,
+      "n_words": 12,
+      "start_frame": 5911,
+      "end_frame": 5972,
+      "keyframes": [
+        "005932.webp",
+        "005964.webp",
+        "005965.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rất là đơn giản, quá là thơm, quá là hấp dẫn.",
+      "start": 238.88,
+      "end": 242.08,
+      "n_words": 11,
+      "start_frame": 5972,
+      "end_frame": 6052,
+      "keyframes": [
+        "006010.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và kế bên một nồi cà ri Thái màu xanh rất bắt mắt như này là một mã QR, các bạn có thể quét mã này chúng ta sẽ có ngay lập tức công thức nấu ăn ngày hôm nay để thực hiện tại nhà.",
+      "start": 242.08,
+      "end": 252.92,
+      "n_words": 45,
+      "start_frame": 6052,
+      "end_frame": 6323,
+      "keyframes": [
+        "006056.webp",
+        "006057.webp",
+        "006107.webp",
+        "006158.webp",
+        "006159.webp",
+        "006212.webp",
+        "006266.webp",
+        "006267.webp",
+        "006291.webp",
+        "006316.webp",
+        "006317.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Đây, chúng ta sẽ cho ra cái tô quá hấp dẫn gà cà ri xanh.",
+      "start": 252.92,
+      "end": 264.44,
+      "n_words": 15,
+      "start_frame": 6323,
+      "end_frame": 6611,
+      "keyframes": [
+        "006348.webp",
+        "006379.webp",
+        "006380.webp",
+        "006419.webp",
+        "006458.webp",
+        "006459.webp",
+        "006484.webp",
+        "006510.webp",
+        "006511.webp",
+        "006564.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Thông thường thì những món này ở bên Thái Lan thì người ta sẽ ăn kèm với lại xôi trắng.",
+      "start": 264.44,
+      "end": 267.84,
+      "n_words": 20,
+      "start_frame": 6611,
+      "end_frame": 6696,
+      "keyframes": [
+        "006617.webp",
+        "006618.webp",
+        "006639.webp",
+        "006661.webp",
+        "006662.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chính xác, nhưng mà ở Việt Nam của mình thì mình hay kết hợp giữa cà ri với lại là bún, được, bánh mì cũng được.",
+      "start": 267.84,
+      "end": 274.64,
+      "n_words": 26,
+      "start_frame": 6696,
+      "end_frame": 6866,
+      "keyframes": [
+        "006699.webp",
+        "006736.webp",
+        "006737.webp",
+        "006800.webp",
+        "006864.webp",
+        "006865.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và món này thì mình có cần phải ăn kèm thêm gì nữa cho đủ bộ anh?",
+      "start": 274.64,
+      "end": 277.84,
+      "n_words": 17,
+      "start_frame": 6866,
+      "end_frame": 6946,
+      "keyframes": [
+        "006905.webp",
+        "006945.webp",
+        "006946.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta có thể kết hợp cùng với món xương chiên lá lốt cũng rất là hợp luôn.",
+      "start": 277.84,
+      "end": 282.16,
+      "n_words": 18,
+      "start_frame": 6946,
+      "end_frame": 7054,
+      "keyframes": [
+        "006946.webp",
+        "006989.webp",
+        "007032.webp",
+        "007033.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Nước sốt sánh sệt có màu xanh mát mắt, vị ngon ngọt béo, thịt gà thấm trọn hương thơm nồng của cà ri, không thể ngừng đũa.",
+      "start": 282.16,
+      "end": 292.56,
+      "n_words": 27,
+      "start_frame": 7054,
+      "end_frame": 7314,
+      "keyframes": [
+        "007078.webp",
+        "007123.webp",
+        "007124.webp",
+        "007170.webp",
+        "007216.webp",
+        "007217.webp",
+        "007282.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Lâu lâu các bạn muốn thay đổi hương vị món ăn tại nhà, hãy lựa chọn món ăn của ngày hôm nay với một món đậm đà dành cho cả gia đình, hít hà bên nồi cà ri xanh.",
+      "start": 292.56,
+      "end": 302.2,
+      "n_words": 39,
+      "start_frame": 7314,
+      "end_frame": 7555,
+      "keyframes": [
+        "007348.webp",
+        "007349.webp",
+        "007450.webp",
+        "007552.webp",
+        "007553.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và chúng ta sẽ có công thức trên tất cả các kênh quen thuộc của Món ngon mỗi ngày bao gồm YouTube, website và fanpage.",
+      "start": 302.2,
+      "end": 309.44,
+      "n_words": 25,
+      "start_frame": 7555,
+      "end_frame": 7736,
+      "keyframes": [
+        "007702.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Truy cập vào đây các bạn sẽ có ngay công thức để thực hiện tại nhà và hãy thực hiện thành công món ăn này nhé.",
+      "start": 309.44,
+      "end": 315.0,
+      "n_words": 26,
+      "start_frame": 7736,
+      "end_frame": 7875,
+      "keyframes": [
+        "007852.webp",
+        "007853.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

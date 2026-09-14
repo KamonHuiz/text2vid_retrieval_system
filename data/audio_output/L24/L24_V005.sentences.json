@@ -1,0 +1,36 @@
+{
+  "video_id": "L24_V005",
+  "fps": 25.0,
+  "n_sentences": 1,
+  "total_words": 37,
+  "sentences": [
+    {
+      "text": "Tỉnh nhiều người truyền thông tin lại nói trên đỉnh núi Thiên Cấm Sơn có một loại linh dược, nhà ngươi vượt đỉnh núi Thiên Cấm Sơn hái thuốc về để trị bệnh cho dân này mua.",
+      "start": 0.0,
+      "end": 28.88,
+      "n_words": 37,
+      "start_frame": 0,
+      "end_frame": 722,
+      "keyframes": [
+        "000000.webp",
+        "000017.webp",
+        "000034.webp",
+        "000035.webp",
+        "000127.webp",
+        "000219.webp",
+        "000220.webp",
+        "000289.webp",
+        "000359.webp",
+        "000360.webp",
+        "000432.webp",
+        "000504.webp",
+        "000505.webp",
+        "000550.webp",
+        "000572.webp",
+        "000639.webp",
+        "000640.webp"
+      ],
+      "keyframe_count": 17
+    }
+  ]
+}

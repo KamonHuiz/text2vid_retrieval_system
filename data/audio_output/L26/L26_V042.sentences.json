@@ -1,0 +1,653 @@
+{
+  "video_id": "L26_V042",
+  "fps": 25.0,
+  "n_sentences": 34,
+  "total_words": 876,
+  "sentences": [
+    {
+      "text": "Rất món ngon mỗi ngày.",
+      "start": 0.0,
+      "end": 12.4,
+      "n_words": 5,
+      "start_frame": 0,
+      "end_frame": 310,
+      "keyframes": [
+        "000000.webp",
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000155.webp",
+        "000160.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 37
+    },
+    {
+      "text": "Cá bống có màu vàng nâu đẹp mắt, chắc thịt, thấm vị.",
+      "start": 12.4,
+      "end": 16.04,
+      "n_words": 12,
+      "start_frame": 310,
+      "end_frame": 401,
+      "keyframes": [
+        "000330.webp",
+        "000360.webp",
+        "000361.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nước kho sánh sệt, đậm đà xen chút tóp mỡ và vị cay nhè nhẹ của tiêu ớt, ngon vét nồi.",
+      "start": 16.04,
+      "end": 44.36,
+      "n_words": 21,
+      "start_frame": 401,
+      "end_frame": 1109,
+      "keyframes": [
+        "000404.webp",
+        "000447.webp",
+        "000448.webp",
+        "000497.webp",
+        "000546.webp",
+        "000547.webp",
+        "000584.webp",
+        "000621.webp",
+        "000622.webp",
+        "000654.webp",
+        "000686.webp",
+        "000687.webp",
+        "000711.webp",
+        "000736.webp",
+        "000737.webp",
+        "000809.webp",
+        "000881.webp",
+        "000882.webp",
+        "000945.webp",
+        "001008.webp",
+        "001009.webp",
+        "001062.webp"
+      ],
+      "keyframe_count": 22
+    },
+    {
+      "text": "Rất vui được gặp lại các bạn khán giả đang đến với chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành.",
+      "start": 44.36,
+      "end": 49.72,
+      "n_words": 22,
+      "start_frame": 1109,
+      "end_frame": 1243,
+      "keyframes": [
+        "001115.webp",
+        "001116.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam. Không biết các bạn khán giả như thế nào chứ Kim Thảo hiện tại đang rất là thèm một tô cơm trắng và ăn với cá kho.",
+      "start": 49.72,
+      "end": 59.04,
+      "n_words": 38,
+      "start_frame": 1243,
+      "end_frame": 1476,
+      "keyframes": [
+        "001313.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thật là trùng hợp luôn, ngày hôm nay Phước Hưng cũng đang dự định sẽ làm cái món đó, chính là cá bống trứng kho tiêu.",
+      "start": 60.52,
+      "end": 66.32,
+      "n_words": 26,
+      "start_frame": 1513,
+      "end_frame": 1658,
+      "keyframes": [
+        "001552.webp",
+        "001592.webp",
+        "001593.webp",
+        "001625.webp",
+        "001658.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và cũng như theo lời của chuyên gia dinh dưỡng Tiến sĩ Đào Thị Yến Phi thì món ăn ngày hôm nay sẽ giúp hỗ trợ giảm một lượng mỡ thừa rất tốt cho cơ thể.",
+      "start": 66.32,
+      "end": 74.28,
+      "n_words": 36,
+      "start_frame": 1658,
+      "end_frame": 1857,
+      "keyframes": [
+        "001658.webp",
+        "001659.webp",
+        "001758.webp",
+        "001857.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đầu tiên cho món ăn này thì Phước Hưng sẽ hướng dẫn cho các bạn sơ chế cái phần hành lá.",
+      "start": 74.28,
+      "end": 78.16,
+      "n_words": 21,
+      "start_frame": 1857,
+      "end_frame": 1954,
+      "keyframes": [
+        "001857.webp",
+        "001858.webp",
+        "001906.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Phần đầu hành trắng thì Phước Hưng sẽ đập dập, cắt nhuyễn; Còn phần hành lá thì Phước Hưng sẽ cắt nhỏ; Còn phần ớt sừng thì Phước Hưng sẽ cắt lát, còn ớt hiểm thì Phước Hưng sẽ đập dập.",
+      "start": 78.16,
+      "end": 94.92,
+      "n_words": 41,
+      "start_frame": 1954,
+      "end_frame": 2373,
+      "keyframes": [
+        "001955.webp",
+        "001956.webp",
+        "001982.webp",
+        "002008.webp",
+        "002009.webp",
+        "002048.webp",
+        "002088.webp",
+        "002089.webp",
+        "002108.webp",
+        "002128.webp",
+        "002129.webp",
+        "002177.webp",
+        "002226.webp",
+        "002227.webp",
+        "002271.webp",
+        "002316.webp",
+        "002317.webp",
+        "002344.webp",
+        "002372.webp",
+        "002373.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Chúng ta sẽ ướp cái phần cá bống trứng ướp với đầu hành trắng cắt nhuyễn, nửa muỗng cà phê tiêu cho vào đây, nửa muỗng cà phê muối, một muỗng cà phê đường, một muỗng cà phê hạt nêm Aji-ngon heo, một muỗng canh nước mắm, một muỗng canh tương ớt, trộn nhẹ tay cái phần cá bống trứng này cho thấm vị.",
+      "start": 94.92,
+      "end": 112.96,
+      "n_words": 64,
+      "start_frame": 2373,
+      "end_frame": 2824,
+      "keyframes": [
+        "002373.webp",
+        "002406.webp",
+        "002439.webp",
+        "002440.webp",
+        "002465.webp",
+        "002491.webp",
+        "002492.webp",
+        "002511.webp",
+        "002531.webp",
+        "002532.webp",
+        "002553.webp",
+        "002575.webp",
+        "002576.webp",
+        "002593.webp",
+        "002611.webp",
+        "002612.webp",
+        "002625.webp",
+        "002638.webp",
+        "002639.webp",
+        "002655.webp",
+        "002671.webp",
+        "002672.webp",
+        "002689.webp",
+        "002707.webp",
+        "002708.webp",
+        "002728.webp",
+        "002749.webp",
+        "002750.webp",
+        "002801.webp"
+      ],
+      "keyframe_count": 29
+    },
+    {
+      "text": "Với cá bống trứng thì chúng ta đã biết là có nhiều canxi tốt cho xương, nhưng mà bên cạnh đó còn một công dụng đặc biệt khác nữa là bởi vì cá bống trứng có protein rất dễ hấp thu và hỗ trợ giảm khối mỡ thừa trong cơ thể rất là tốt.",
+      "start": 112.96,
+      "end": 127.68,
+      "n_words": 54,
+      "start_frame": 2824,
+      "end_frame": 3192,
+      "keyframes": [
+        "002852.webp",
+        "002853.webp",
+        "002981.webp",
+        "003110.webp",
+        "003111.webp",
+        "003151.webp",
+        "003191.webp",
+        "003192.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Phần nồi đất cũng đã nóng, Hưng sẽ cho phần mỡ vào thắng đến khi nào mà cái phần mỡ tan hết ra.",
+      "start": 127.68,
+      "end": 133.84,
+      "n_words": 23,
+      "start_frame": 3192,
+      "end_frame": 3346,
+      "keyframes": [
+        "003192.webp",
+        "003232.webp",
+        "003272.webp",
+        "003273.webp",
+        "003289.webp",
+        "003305.webp",
+        "003306.webp",
+        "003325.webp",
+        "003345.webp",
+        "003346.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Bây giờ thì phần mỡ cũng đã ra hết, cái phần mỡ nước rồi, nè Hưng sẽ cho vào đây một ít dầu ăn để cái phần tóp mỡ của mình sẽ được giòn hơn.",
+      "start": 133.84,
+      "end": 141.72,
+      "n_words": 35,
+      "start_frame": 3346,
+      "end_frame": 3543,
+      "keyframes": [
+        "003346.webp",
+        "003385.webp",
+        "003424.webp",
+        "003425.webp",
+        "003453.webp",
+        "003482.webp",
+        "003483.webp",
+        "003512.webp",
+        "003541.webp",
+        "003542.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Thắng đến khi nào mà tóp mỡ vàng, bây giờ Phước Hưng sẽ vớt cái phần tóp mỡ ra và bây giờ Hưng sẽ cho vào đây một muỗng canh đường để chúng ta sẽ thắng màu caramel.",
+      "start": 141.72,
+      "end": 154.72,
+      "n_words": 38,
+      "start_frame": 3543,
+      "end_frame": 3868,
+      "keyframes": [
+        "003573.webp",
+        "003604.webp",
+        "003605.webp",
+        "003640.webp",
+        "003676.webp",
+        "003677.webp",
+        "003698.webp",
+        "003719.webp",
+        "003720.webp",
+        "003742.webp",
+        "003765.webp",
+        "003766.webp",
+        "003785.webp",
+        "003804.webp",
+        "003805.webp",
+        "003815.webp",
+        "003826.webp",
+        "003827.webp",
+        "003850.webp"
+      ],
+      "keyframe_count": 19
+    },
+    {
+      "text": "Chúng ta sẽ thắng nước màu giúp cho nước kho có độ bóng sáng đẹp hơn.",
+      "start": 154.72,
+      "end": 158.84,
+      "n_words": 16,
+      "start_frame": 3868,
+      "end_frame": 3971,
+      "keyframes": [
+        "003874.webp",
+        "003875.webp",
+        "003922.webp",
+        "003970.webp",
+        "003971.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Phước Hưng sẽ cho vào đây một muỗng canh tỏi băm.",
+      "start": 158.84,
+      "end": 162.84,
+      "n_words": 11,
+      "start_frame": 3971,
+      "end_frame": 4071,
+      "keyframes": [
+        "003971.webp",
+        "004000.webp",
+        "004030.webp",
+        "004031.webp",
+        "004053.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ Phước Hưng sẽ cho phần cá vào đảo nhẹ, tay Hưng sẽ cho vào đây một ít nước, ba trái ớt hiểm nè để chúng ta kho, để chúng ta kho cùng để bớt cái mùi tanh của cá.",
+      "start": 162.84,
+      "end": 177.88,
+      "n_words": 41,
+      "start_frame": 4071,
+      "end_frame": 4447,
+      "keyframes": [
+        "004076.webp",
+        "004077.webp",
+        "004126.webp",
+        "004176.webp",
+        "004177.webp",
+        "004231.webp",
+        "004285.webp",
+        "004286.webp",
+        "004316.webp",
+        "004346.webp",
+        "004347.webp",
+        "004397.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Hưng cho vào đây một muỗng cà phê hạt nêm Aji-ngon heo và cuối cùng Hưng sẽ cho vào đây một muỗng canh nước mắm thì món ăn sẽ thấm vị ngon hơn.",
+      "start": 177.88,
+      "end": 185.96,
+      "n_words": 33,
+      "start_frame": 4447,
+      "end_frame": 4649,
+      "keyframes": [
+        "004448.webp",
+        "004449.webp",
+        "004490.webp",
+        "004531.webp",
+        "004532.webp",
+        "004566.webp",
+        "004600.webp",
+        "004601.webp",
+        "004623.webp",
+        "004646.webp",
+        "004647.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Hưng cho vào đây tóp mỡ nữa nè, rất là giòn luôn.",
+      "start": 185.96,
+      "end": 189.2,
+      "n_words": 12,
+      "start_frame": 4649,
+      "end_frame": 4730,
+      "keyframes": [
+        "004688.webp",
+        "004730.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúng ta sẽ kho cá với tóp mỡ giúp cho món ăn ngon, ngọt, béo sẽ ngon hơn.",
+      "start": 189.2,
+      "end": 193.84,
+      "n_words": 18,
+      "start_frame": 4730,
+      "end_frame": 4846,
+      "keyframes": [
+        "004730.webp",
+        "004731.webp",
+        "004789.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và bây giờ thì nước kho cũng đã sấp cạn lại rồi.",
+      "start": 193.84,
+      "end": 196.4,
+      "n_words": 12,
+      "start_frame": 4846,
+      "end_frame": 4910,
+      "keyframes": [
+        "004847.webp",
+        "004848.webp",
+        "004890.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cuối cùng Phước Hưng sẽ cho vào đây một ít ớt sừng nè và một ít hành lá.",
+      "start": 196.4,
+      "end": 201.0,
+      "n_words": 18,
+      "start_frame": 4910,
+      "end_frame": 5025,
+      "keyframes": [
+        "004933.webp",
+        "004934.webp",
+        "004953.webp",
+        "004973.webp",
+        "004974.webp",
+        "004994.webp",
+        "005014.webp",
+        "005015.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta sẽ tắt bếp, và mùi thơm của nồi cá kho đã lan tỏa khắp gian bếp rồi.",
+      "start": 201.0,
+      "end": 205.92,
+      "n_words": 19,
+      "start_frame": 5025,
+      "end_frame": 5148,
+      "keyframes": [
+        "005059.webp",
+        "005103.webp",
+        "005104.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Quý vị và các bạn có thể lấy điện thoại ra lưu lại mã QR đang hiển thị trên màn hình để lưu lại công thức của món ngon ngày hôm nay.",
+      "start": 205.92,
+      "end": 214.52,
+      "n_words": 32,
+      "start_frame": 5148,
+      "end_frame": 5363,
+      "keyframes": [
+        "005209.webp",
+        "005315.webp",
+        "005316.webp",
+        "005340.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Phước Hưng sẽ rắc lên đây một ít tiêu, rất là phù hợp với món ăn mà rất là thơm ngon luôn.",
+      "start": 214.52,
+      "end": 219.04,
+      "n_words": 22,
+      "start_frame": 5363,
+      "end_frame": 5476,
+      "keyframes": [
+        "005365.webp",
+        "005366.webp",
+        "005420.webp",
+        "005474.webp",
+        "005475.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thực sự rất là thử thách luôn, tại vì những ai mà đứng cạnh nồi cá kho như thế này sẽ tự nhiên cảm thấy đói bụng mà.",
+      "start": 219.04,
+      "end": 225.28,
+      "n_words": 28,
+      "start_frame": 5476,
+      "end_frame": 5632,
+      "keyframes": [
+        "005555.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và ở đây Phước Hưng cũng đã chuẩn bị sẵn một cái chén cơm rất là nóng để chúng ta ăn kèm.",
+      "start": 225.28,
+      "end": 229.76,
+      "n_words": 22,
+      "start_frame": 5632,
+      "end_frame": 5744,
+      "keyframes": [
+        "005635.webp",
+        "005636.webp",
+        "005685.webp",
+        "005735.webp",
+        "005736.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Mời Kim Thảo.",
+      "start": 229.76,
+      "end": 238.2,
+      "n_words": 3,
+      "start_frame": 5744,
+      "end_frame": 5955,
+      "keyframes": [
+        "005784.webp",
+        "005832.webp",
+        "005833.webp",
+        "005891.webp",
+        "005949.webp",
+        "005950.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hảo ăn được miếng tóp mỡ rất giòn.",
+      "start": 238.2,
+      "end": 240.84,
+      "n_words": 8,
+      "start_frame": 5955,
+      "end_frame": 6021,
+      "keyframes": [
+        "005992.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đúng rồi, giòn và thơm.",
+      "start": 240.84,
+      "end": 243.04,
+      "n_words": 5,
+      "start_frame": 6021,
+      "end_frame": 6076,
+      "keyframes": [
+        "006034.webp",
+        "006049.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Còn cá thì thấm vị, ăn chung với cơm trắng trời ơi đúng là không thể cưỡng lại được và chắc có lẽ là phải ăn đến hết sạch nồi cơm mới được.",
+      "start": 243.04,
+      "end": 252.16,
+      "n_words": 33,
+      "start_frame": 6076,
+      "end_frame": 6304,
+      "keyframes": [
+        "006089.webp",
+        "006130.webp",
+        "006131.webp",
+        "006158.webp",
+        "006185.webp",
+        "006200.webp",
+        "006249.webp",
+        "006299.webp",
+        "006300.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Và để đạt được hiệu quả dinh dưỡng cho món ăn này thì các bạn tham khảo món ăn ngày hôm nay cùng với một bản thực đơn sau đây.",
+      "start": 252.16,
+      "end": 261.4,
+      "n_words": 30,
+      "start_frame": 6304,
+      "end_frame": 6535,
+      "keyframes": [
+        "006357.webp",
+        "006415.webp",
+        "006416.webp",
+        "006478.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cá bống trứng vốn đã dinh dưỡng nay lại còn thêm hương vị thơm ngon, hãy chiêu đãi cả nhà món ngon ngày hôm nay nhé.",
+      "start": 261.4,
+      "end": 267.8,
+      "n_words": 26,
+      "start_frame": 6535,
+      "end_frame": 6695,
+      "keyframes": [
+        "006540.webp",
+        "006541.webp",
+        "006617.webp",
+        "006694.webp",
+        "006695.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Để xem lại công thức của món ngon ngày hôm nay cùng với rất là nhiều những món ngon khác nữa để chúng ta ghép thành một thực đơn hoàn chỉnh cho bữa ăn gia đình, chỉ cần truy cập vào YouTube, website, fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 267.8,
+      "end": 280.12,
+      "n_words": 51,
+      "start_frame": 6695,
+      "end_frame": 7003,
+      "keyframes": [
+        "006695.webp",
+        "006839.webp",
+        "006983.webp",
+        "006984.webp"
+      ],
+      "keyframe_count": 4
+    }
+  ]
+}

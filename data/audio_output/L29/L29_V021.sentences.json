@@ -1,0 +1,1881 @@
+{
+  "video_id": "L29_V021",
+  "fps": 25.0,
+  "n_sentences": 123,
+  "total_words": 3193,
+  "sentences": [
+    {
+      "text": "Hãy nương theo dòng chảy sông Mekong.",
+      "start": 0.0,
+      "end": 25.12,
+      "n_words": 7,
+      "start_frame": 0,
+      "end_frame": 628,
+      "keyframes": [
+        "000000.webp",
+        "000017.webp",
+        "000034.webp",
+        "000053.webp",
+        "000074.webp",
+        "000095.webp",
+        "000096.webp",
+        "000115.webp",
+        "000135.webp",
+        "000136.webp",
+        "000281.webp",
+        "000427.webp",
+        "000443.webp",
+        "000506.webp",
+        "000569.webp",
+        "000570.webp",
+        "000613.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Nhịp sống không chỉ là sự đan xen của những dòng nước mà còn là câu chuyện đầy màu sắc từ sự đa dạng của hệ sinh quyển của đời sống con người hòa quyện vào nhau.",
+      "start": 25.12,
+      "end": 35.84,
+      "n_words": 37,
+      "start_frame": 628,
+      "end_frame": 896,
+      "keyframes": [
+        "000657.webp",
+        "000658.webp",
+        "000695.webp",
+        "000733.webp",
+        "000734.webp",
+        "000744.webp",
+        "000754.webp",
+        "000755.webp",
+        "000772.webp",
+        "000789.webp",
+        "000790.webp",
+        "000814.webp",
+        "000839.webp",
+        "000840.webp",
+        "000866.webp",
+        "000893.webp",
+        "000894.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Hãy cùng chúng tôi hướng về đồng bằng sông Cửu Long, hạ lưu châu thổ sông Mekong.",
+      "start": 35.84,
+      "end": 40.72,
+      "n_words": 17,
+      "start_frame": 896,
+      "end_frame": 1018,
+      "keyframes": [
+        "000897.webp",
+        "000901.webp",
+        "000902.webp",
+        "000906.webp",
+        "000911.webp",
+        "000912.webp",
+        "000928.webp",
+        "000944.webp",
+        "000945.webp",
+        "000990.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Từ những cánh đồng lúa mênh mông đến những làng chài bình dị, chúng ta sẽ cảm nhận được hơi thở của nước.",
+      "start": 40.72,
+      "end": 47.52,
+      "n_words": 23,
+      "start_frame": 1018,
+      "end_frame": 1188,
+      "keyframes": [
+        "001035.webp",
+        "001036.webp",
+        "001058.webp",
+        "001080.webp",
+        "001090.webp",
+        "001117.webp",
+        "001144.webp",
+        "001145.webp",
+        "001165.webp",
+        "001185.webp",
+        "001186.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Đa số các nền văn minh đều bắt nguồn từ những dòng sông và bên dòng Mekong, hàng ngàn câu chuyện đã được ghi lại từ thế hệ này sang thế hệ khác.",
+      "start": 47.52,
+      "end": 58.44,
+      "n_words": 33,
+      "start_frame": 1188,
+      "end_frame": 1461,
+      "keyframes": [
+        "001214.webp",
+        "001243.webp",
+        "001244.webp",
+        "001279.webp",
+        "001315.webp",
+        "001316.webp",
+        "001340.webp",
+        "001364.webp",
+        "001365.webp",
+        "001402.webp",
+        "001439.webp",
+        "001440.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Hãy sẵn sàng cho một cuộc phiêu lưu đầy màu sắc và sức sống mới.",
+      "start": 58.44,
+      "end": 62.36,
+      "n_words": 15,
+      "start_frame": 1461,
+      "end_frame": 1559,
+      "keyframes": [
+        "001480.webp",
+        "001521.webp",
+        "001527.webp",
+        "001529.webp",
+        "001531.webp",
+        "001532.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta cùng nhau khám phá những bí ẩn và vẻ đẹp của cuộc sống dọc theo sông Mekong, nơi mà tinh thần của con người và mạch sống của tự nhiên cộng sinh và giao thoa tạo nên môi trường sống tươi đẹp.",
+      "start": 62.36,
+      "end": 86.76,
+      "n_words": 44,
+      "start_frame": 1559,
+      "end_frame": 2169,
+      "keyframes": [
+        "001568.webp",
+        "001605.webp",
+        "001606.webp",
+        "001628.webp",
+        "001651.webp",
+        "001652.webp",
+        "001681.webp",
+        "001711.webp",
+        "001712.webp",
+        "001747.webp",
+        "001782.webp",
+        "001816.webp",
+        "001852.webp",
+        "001889.webp",
+        "001890.webp",
+        "001977.webp",
+        "002065.webp",
+        "002066.webp",
+        "002068.webp",
+        "002071.webp",
+        "002072.webp",
+        "002126.webp"
+      ],
+      "keyframe_count": 22
+    },
+    {
+      "text": "Trong màn đêm tĩnh mịch, khi kim đồng hồ chỉ mới điểm 3:00 sáng, đoàn làm phim Đôi mắt Mekong chúng tôi bắt đầu hành trình khám phá đầm Thị Tường.",
+      "start": 86.76,
+      "end": 99.32,
+      "n_words": 31,
+      "start_frame": 2169,
+      "end_frame": 2483,
+      "keyframes": [
+        "002181.webp",
+        "002182.webp",
+        "002420.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Con thuyền nhỏ lặng lẽ trôi qua những rặng dừa nước đưa chúng tôi vào vùng trung tâm của đầm, nơi cuộc sống đang chờ đợi bình minh để thức giấc.",
+      "start": 99.32,
+      "end": 109.28,
+      "n_words": 31,
+      "start_frame": 2483,
+      "end_frame": 2732,
+      "keyframes": [
+        "002658.webp",
+        "002659.webp",
+        "002725.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Màn sương mờ ảo phủ kín mặt đầm, tạo nên một bức tranh thủy mặc mơ hồ đầy bí ẩn.",
+      "start": 109.28,
+      "end": 116.52,
+      "n_words": 20,
+      "start_frame": 2732,
+      "end_frame": 2913,
+      "keyframes": [
+        "002791.webp",
+        "002792.webp",
+        "002888.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trong ánh sáng yếu ớt của những ngọn đèn soi đường, những con thuyền của ngư dân bắt đầu rời bến.",
+      "start": 116.52,
+      "end": 123.44,
+      "n_words": 21,
+      "start_frame": 2913,
+      "end_frame": 3086,
+      "keyframes": [
+        "002985.webp",
+        "003024.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tiếng động cơ thuyền khẽ vang lên giữa không gian tĩnh lặng báo hiệu một ngày lao động mới.",
+      "start": 123.44,
+      "end": 130.12,
+      "n_words": 19,
+      "start_frame": 3086,
+      "end_frame": 3253,
+      "keyframes": [
+        "003199.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Những con thuyền lướt đi trên mặt nước yên ả để lại những đợt sóng nhỏ lăn tăn như những gợn sóng cảm xúc bắt đầu lan tỏa trong lòng mỗi người.",
+      "start": 130.12,
+      "end": 141.2,
+      "n_words": 32,
+      "start_frame": 3253,
+      "end_frame": 3530,
+      "keyframes": [
+        "003374.webp",
+        "003375.webp",
+        "003438.webp",
+        "003501.webp",
+        "003502.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Giữa bóng đêm bao trùm cả mặt đầm, từng đốm sáng nhỏ nhấp nháy thành cụm ở phía xa báo hiệu những vị trí đang có thuyền neo thả lưới và kéo chày trong đêm.",
+      "start": 141.2,
+      "end": 151.88,
+      "n_words": 35,
+      "start_frame": 3530,
+      "end_frame": 3797,
+      "keyframes": [
+        "003541.webp",
+        "003580.webp",
+        "003581.webp",
+        "003650.webp",
+        "003720.webp",
+        "003721.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chiếc xuồng nhỏ của chúng tôi bắt đầu chọn những điểm có bà con ngư dân lao động, tiến đến gần hơn để có thể hòa vào nhịp sống và lắng nghe nhiều hơn những câu chuyện về cuộc sống nơi này.",
+      "start": 151.88,
+      "end": 165.0,
+      "n_words": 42,
+      "start_frame": 3797,
+      "end_frame": 4125,
+      "keyframes": [
+        "003804.webp",
+        "003888.webp",
+        "003889.webp",
+        "003964.webp",
+        "004040.webp",
+        "004041.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "\"Trên đầm của mình, anh quăng lưới là có, em đang thấy có ghẹ tôm rồi.",
+      "start": 165.0,
+      "end": 170.88,
+      "n_words": 16,
+      "start_frame": 4125,
+      "end_frame": 4272,
+      "keyframes": [
+        "004172.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Còn có loài vật nào khác?\"",
+      "start": 170.88,
+      "end": 175.76,
+      "n_words": 6,
+      "start_frame": 4272,
+      "end_frame": 4394,
+      "keyframes": [
+        "004303.webp",
+        "004304.webp",
+        "004389.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "\"Các loại cá nâu, đủ thứ cá.",
+      "start": 175.76,
+      "end": 179.44,
+      "n_words": 7,
+      "start_frame": 4394,
+      "end_frame": 4486,
+      "keyframes": [
+        "004474.webp",
+        "004475.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Em đang thấy cái lưới này cái mắt lưới cũng khá lớn rồi, là cái lưới này mình chỉ bắt những cái loài như là ghẹ bự nhất, con to nhất chứ không có bắt con nhỏ.",
+      "start": 179.44,
+      "end": 188.48,
+      "n_words": 37,
+      "start_frame": 4486,
+      "end_frame": 4712,
+      "keyframes": [
+        "004593.webp",
+        "004711.webp",
+        "004712.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Một lượt lại cái con nhỏ để một lúc nó bự bắt nữa.",
+      "start": 188.48,
+      "end": 191.08,
+      "n_words": 13,
+      "start_frame": 4712,
+      "end_frame": 4777,
+      "keyframes": [
+        "004712.webp",
+        "004743.webp",
+        "004775.webp",
+        "004776.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Thấy trên đầm mình nó rộng rồi, khi mà bủa lưới mình có cái đánh dấu ký hiệu này mình biết là cái khu vực đó là của mình.",
+      "start": 191.08,
+      "end": 197.64,
+      "n_words": 29,
+      "start_frame": 4777,
+      "end_frame": 4941,
+      "keyframes": [
+        "004816.webp",
+        "004856.webp",
+        "004857.webp",
+        "004899.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cắm cái hàng đàn chóp nè, dạt qua đó là đàn của mình, lưới của mình, mình biết ký hiệu đó là lưới của mình.\"",
+      "start": 197.64,
+      "end": 205.12,
+      "n_words": 25,
+      "start_frame": 4941,
+      "end_frame": 5128,
+      "keyframes": [
+        "004942.webp",
+        "004943.webp",
+        "004977.webp",
+        "005012.webp",
+        "005013.webp",
+        "005123.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "\"Một nghề bủa lưới về thì thường thường mình thu được bao nhiêu ký hải sản?\"",
+      "start": 205.12,
+      "end": 210.0,
+      "n_words": 16,
+      "start_frame": 5128,
+      "end_frame": 5250,
+      "keyframes": [
+        "005233.webp",
+        "005234.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "\"Tầm nếu mà lúc mà nó tới nước thì tầm cỡ 6-7 ký ghẹ nè, các loại cá hay hải sản khác nữa, chứ không phải là riêng ghẹ không.",
+      "start": 210.0,
+      "end": 221.04,
+      "n_words": 30,
+      "start_frame": 5250,
+      "end_frame": 5526,
+      "keyframes": [
+        "005295.webp",
+        "005357.webp",
+        "005358.webp",
+        "005452.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Nhưng mà thường thường nếu mà nghề này mình được mùa thì khoảng chừng chục ký các loại.\"",
+      "start": 221.04,
+      "end": 225.56,
+      "n_words": 18,
+      "start_frame": 5526,
+      "end_frame": 5639,
+      "keyframes": [
+        "005547.webp",
+        "005548.webp",
+        "005596.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "\"Đúng rồi, mưa nó trúng mùa \" \"Anh là cái nước mặn nó hạ lại, cái độ mặn nó giảm.",
+      "start": 225.56,
+      "end": 230.4,
+      "n_words": 20,
+      "start_frame": 5639,
+      "end_frame": 5760,
+      "keyframes": [
+        "005645.webp",
+        "005646.webp",
+        "005694.webp",
+        "005742.webp",
+        "005743.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Độ mặn đúng rồi, cái con nói chung là cái con hạ độ mặn là hạ độ mặn.",
+      "start": 230.4,
+      "end": 234.4,
+      "n_words": 18,
+      "start_frame": 5760,
+      "end_frame": 5860,
+      "keyframes": [
+        "005827.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nếu mà tới mùa ngọt là nó không ngon bằng cái mùa này, mùa này nó ngon nhất.\"",
+      "start": 234.4,
+      "end": 240.4,
+      "n_words": 18,
+      "start_frame": 5860,
+      "end_frame": 6010,
+      "keyframes": [
+        "005911.webp",
+        "005912.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Khi ánh bình minh bắt đầu len lỏi qua màn sương, từng tia nắng yếu ớt chiếu sáng mặt đầm rộng lớn.",
+      "start": 240.4,
+      "end": 247.4,
+      "n_words": 22,
+      "start_frame": 6010,
+      "end_frame": 6185,
+      "keyframes": [
+        "006037.webp",
+        "006163.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Khung cảnh hoang sơ, tĩnh lặng và mênh mông của đầm Thị Tường dần dần hiện ra như một bức tranh thiên nhiên sống động.",
+      "start": 247.4,
+      "end": 256.8,
+      "n_words": 25,
+      "start_frame": 6185,
+      "end_frame": 6420,
+      "keyframes": [
+        "006193.webp",
+        "006238.webp",
+        "006283.webp",
+        "006313.webp",
+        "006409.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Mặt nước phẳng lặng phản chiếu ánh sáng rực rỡ của bình minh tạo nên một dải ánh sáng lấp lánh như những viên ngọc quý trên mặt đầm.",
+      "start": 256.8,
+      "end": 265.64,
+      "n_words": 29,
+      "start_frame": 6420,
+      "end_frame": 6641,
+      "keyframes": [
+        "006506.webp",
+        "006536.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Những ngư dân đang miệt mài với công việc của mình, những nhịp quăng chài kéo lưới trở nên nhộn nhịp và sôi động hơn.",
+      "start": 265.64,
+      "end": 274.28,
+      "n_words": 25,
+      "start_frame": 6641,
+      "end_frame": 6857,
+      "keyframes": [
+        "006691.webp",
+        "006846.webp",
+        "006847.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Theo chân những ngư dân, chúng tôi không chỉ chứng kiến cảnh mưu sinh đầy vất vả mà còn cảm nhận được tinh thần kiên cường và lòng yêu nghề của họ.",
+      "start": 274.28,
+      "end": 284.08,
+      "n_words": 32,
+      "start_frame": 6857,
+      "end_frame": 7102,
+      "keyframes": [
+        "006920.webp",
+        "006994.webp",
+        "006995.webp",
+        "007053.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Mỗi nhịp quăng chài, mỗi lần kéo lưới là một minh chứng cho sự gắn bó với biển, với nghề đánh bắt truyền thống đã nuôi sống bao thế hệ người dân nơi đây.",
+      "start": 284.08,
+      "end": 294.32,
+      "n_words": 34,
+      "start_frame": 7102,
+      "end_frame": 7358,
+      "keyframes": [
+        "007112.webp",
+        "007113.webp",
+        "007194.webp",
+        "007276.webp",
+        "007277.webp",
+        "007345.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Những giọt mồ hôi lăn dài trên gương mặt, những đôi tay chai sạn nhưng luôn mạnh mẽ kiên định, tất cả tạo nên vẻ đẹp chân thực của lao động.",
+      "start": 294.32,
+      "end": 304.72,
+      "n_words": 31,
+      "start_frame": 7358,
+      "end_frame": 7618,
+      "keyframes": [
+        "007414.webp",
+        "007415.webp",
+        "007468.webp",
+        "007522.webp",
+        "007523.webp",
+        "007596.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "\"Nhìn thấy nhịp sống của bà con mình trên đầm khá là nhộn nhịp.",
+      "start": 304.72,
+      "end": 308.88,
+      "n_words": 14,
+      "start_frame": 7618,
+      "end_frame": 7722,
+      "keyframes": [
+        "007669.webp",
+        "007670.webp",
+        "007693.webp",
+        "007716.webp",
+        "007717.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Những cái sinh kế của bà con được bắt đầu vào khoảng thời gian nào trong ngày và kết thúc vào khoảng thời gian nào trong ngày?\"",
+      "start": 308.88,
+      "end": 315.84,
+      "n_words": 27,
+      "start_frame": 7722,
+      "end_frame": 7896,
+      "keyframes": [
+        "007795.webp",
+        "007873.webp",
+        "007874.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "\"Ở đây thì những năm trước thì có bà con mình đặt lúa để bắt tôm cá.",
+      "start": 315.84,
+      "end": 322.84,
+      "n_words": 17,
+      "start_frame": 7896,
+      "end_frame": 8071,
+      "keyframes": [
+        "008052.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Năm 2023 thì tỉnh có chủ trương giải tỏa đầm cho nên là hiện nay thì bà con mình chủ yếu là sống nghề chài với giăng lưới.",
+      "start": 322.84,
+      "end": 335.08,
+      "n_words": 28,
+      "start_frame": 8071,
+      "end_frame": 8377,
+      "keyframes": [
+        "008230.webp",
+        "008231.webp",
+        "008297.webp",
+        "008363.webp",
+        "008364.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thì bắt đầu vào khoảng 4:00 chiều và kết thúc khoảng 6:00 sáng là ngày hôm sau.\"",
+      "start": 335.08,
+      "end": 340.12,
+      "n_words": 17,
+      "start_frame": 8377,
+      "end_frame": 8503,
+      "keyframes": [
+        "008428.webp",
+        "008492.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "\"Thường là mình đặt lưới vào khoảng thời gian nào?\"",
+      "start": 340.12,
+      "end": 343.04,
+      "n_words": 10,
+      "start_frame": 8503,
+      "end_frame": 8576,
+      "keyframes": [
+        "008512.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "\"Giăng chài cỡ 4:00 chiều là mình giăng, mình bủa tầm cỡ tiếng hai tiếng gì đó mình đi thăm.",
+      "start": 343.04,
+      "end": 349.12,
+      "n_words": 20,
+      "start_frame": 8576,
+      "end_frame": 8728,
+      "keyframes": [
+        "008598.webp",
+        "008685.webp",
+        "008686.webp",
+        "008726.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đó mình đi thăm 4:00 chiều là bủa lưới, sau mà cứ cách tiếng là mình thăm lần để nó cắn á ghẹ nó cắn.",
+      "start": 349.12,
+      "end": 357.84,
+      "n_words": 25,
+      "start_frame": 8728,
+      "end_frame": 8946,
+      "keyframes": [
+        "008767.webp",
+        "008768.webp",
+        "008805.webp",
+        "008843.webp",
+        "008844.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cứ đi thăm rồi là nếu mà ghẹ nó dính vô thì mình bắt bỏ vô một cái rổ, mình cũng vẫn neo ở đây để cho nó có nước.",
+      "start": 357.84,
+      "end": 365.16,
+      "n_words": 30,
+      "start_frame": 8946,
+      "end_frame": 9129,
+      "keyframes": [
+        "009011.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đại khái này mình làm gì tới sáng cỡ 5-6 giờ là có thương lái ta lại có thể mua.\"",
+      "start": 365.16,
+      "end": 372.64,
+      "n_words": 20,
+      "start_frame": 9129,
+      "end_frame": 9316,
+      "keyframes": [
+        "009179.webp",
+        "009180.webp",
+        "009243.webp",
+        "009307.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "\"Em thấy cái hệ sinh thái của đầm Thị Tường chắc là khá đa dạng.",
+      "start": 372.64,
+      "end": 376.64,
+      "n_words": 15,
+      "start_frame": 9316,
+      "end_frame": 9416,
+      "keyframes": [
+        "009327.webp",
+        "009383.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thì bà con chài lưới như vậy thì thường thường thu về những cái hải sản là những cái loại gì?\"",
+      "start": 376.64,
+      "end": 382.68,
+      "n_words": 21,
+      "start_frame": 9416,
+      "end_frame": 9567,
+      "keyframes": [
+        "009439.webp",
+        "009440.webp",
+        "009472.webp",
+        "009504.webp",
+        "009505.webp",
+        "009536.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "\"Ở đây thì cá, các loại cá như là cá chẻm, cá mú, cá dầu chó.",
+      "start": 382.68,
+      "end": 389.44,
+      "n_words": 16,
+      "start_frame": 9567,
+      "end_frame": 9736,
+      "keyframes": [
+        "009568.webp",
+        "009569.webp",
+        "009689.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ở đây có tên đặc thù nó là cá dầu chó, nhưng mà thật nó là họ cá út, cá út biển á.",
+      "start": 389.44,
+      "end": 394.8,
+      "n_words": 23,
+      "start_frame": 9736,
+      "end_frame": 9870,
+      "keyframes": [
+        "009810.webp",
+        "009811.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cá út thì nó không ngon nhưng mà ở trong đầm này đầm nước lợ cho nên là cá rất ngon.",
+      "start": 394.8,
+      "end": 398.96,
+      "n_words": 21,
+      "start_frame": 9870,
+      "end_frame": 9974,
+      "keyframes": [
+        "009878.webp",
+        "009946.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Trong đó có ghẹ, tôm tích.",
+      "start": 398.96,
+      "end": 401.04,
+      "n_words": 6,
+      "start_frame": 9974,
+      "end_frame": 10026,
+      "keyframes": [
+        "009980.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ghẹ thì nó có mùa, nhưng mùa này thì có ghẹ, có tôm tích.",
+      "start": 401.04,
+      "end": 404.56,
+      "n_words": 14,
+      "start_frame": 10026,
+      "end_frame": 10114,
+      "keyframes": [
+        "010036.webp",
+        "010093.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Các mùa khác thì những cái con hải sản khác, cá nâu, cá đối.",
+      "start": 404.56,
+      "end": 407.04,
+      "n_words": 14,
+      "start_frame": 10114,
+      "end_frame": 10176,
+      "keyframes": [
+        "010126.webp",
+        "010171.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cá nâu, cá đối chắc đó là những cái sinh vật nước lợ mặn lợ.\"",
+      "start": 407.04,
+      "end": 413.48,
+      "n_words": 15,
+      "start_frame": 10176,
+      "end_frame": 10337,
+      "keyframes": [
+        "010216.webp",
+        "010217.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "\"Thì vậy thì cái nguồn nước từ đâu đổ về đầm Thị Tường mình rồi từ đầm Thị Tường mình chảy ra đâu?\"",
+      "start": 413.48,
+      "end": 420.24,
+      "n_words": 23,
+      "start_frame": 10337,
+      "end_frame": 10506,
+      "keyframes": [
+        "010363.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "\"Ở đây thì đầm Thị Tường mình là thông ra biển Tây thông qua cửa sông Ông Đốc và cửa sông Mỹ Bình. Đó là cái con nước đi ra.",
+      "start": 420.24,
+      "end": 429.08,
+      "n_words": 30,
+      "start_frame": 10506,
+      "end_frame": 10727,
+      "keyframes": [
+        "010509.webp",
+        "010510.webp",
+        "010577.webp",
+        "010645.webp",
+        "010646.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thì cái con nước từ đâu đi vô đầm Thị Tường của mình nó cũng từ nguồn đó, từ cửa sông Ông Đốc vô.",
+      "start": 429.08,
+      "end": 434.88,
+      "n_words": 24,
+      "start_frame": 10727,
+      "end_frame": 10872,
+      "keyframes": [
+        "010818.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Hiện nay thì cửa sông Mỹ Bình đang bị bồi lắng cho nên là chủ yếu là cửa sông Ông Đốc nước vô về ra của đầm Thị Tường.",
+      "start": 434.88,
+      "end": 443.32,
+      "n_words": 29,
+      "start_frame": 10872,
+      "end_frame": 11083,
+      "keyframes": [
+        "010991.webp",
+        "010992.webp",
+        "011059.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đầm Thị Tường thì là diện tích là rộng hơn 700 ha, khoảng 701 ha, giáp với ba huyện Phú Tân, Trần Văn Thời.",
+      "start": 443.32,
+      "end": 451.48,
+      "n_words": 24,
+      "start_frame": 11083,
+      "end_frame": 11287,
+      "keyframes": [
+        "011126.webp",
+        "011127.webp",
+        "011215.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và cái nước rất là thú vị là đầm Thị Tường của mình trải dài khắp ba huyện.",
+      "start": 451.48,
+      "end": 456.6,
+      "n_words": 18,
+      "start_frame": 11287,
+      "end_frame": 11415,
+      "keyframes": [
+        "011303.webp",
+        "011304.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "\"Thì em đang thấy cái đầm Thị Tường mình có lẽ hình như là chia ba phân khu?\"",
+      "start": 456.6,
+      "end": 461.28,
+      "n_words": 18,
+      "start_frame": 11415,
+      "end_frame": 11532,
+      "keyframes": [
+        "011433.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "\"Anh đầm Thị Tường thì nó có nằm trên, đầm giữa và đầm dưới. Nằm giữa là đầm lớn nhất, đầm trên thì cạn và đầm dưới thì nhỏ hơn.\"",
+      "start": 461.28,
+      "end": 473.08,
+      "n_words": 30,
+      "start_frame": 11532,
+      "end_frame": 11827,
+      "keyframes": [
+        "011562.webp",
+        "011563.webp",
+        "011591.webp",
+        "011619.webp",
+        "011620.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "\"Dạ nếu mà đầm trên thì cạn thì cái mực nước khoảng bao nhiêu, cách cái đáy đầm thì khoảng bao nhiêu?\"",
+      "start": 473.08,
+      "end": 478.96,
+      "n_words": 22,
+      "start_frame": 11827,
+      "end_frame": 11974,
+      "keyframes": [
+        "011850.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "\"Anh nếu thủy triều lên thì khoảng là 90 phân đến 1 mét.",
+      "start": 478.96,
+      "end": 483.76,
+      "n_words": 13,
+      "start_frame": 11974,
+      "end_frame": 12094,
+      "keyframes": [
+        "012080.webp",
+        "012081.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thủy triều xuống thì còn khoảng là 20 đến 30 phân mà thôi.\" \"Vậy thì đầm sâu nhất là đầm nào anh?\"",
+      "start": 483.76,
+      "end": 489.68,
+      "n_words": 22,
+      "start_frame": 12094,
+      "end_frame": 12242,
+      "keyframes": [
+        "012127.webp",
+        "012173.webp",
+        "012174.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "\"Đầm sâu nhất thì hiện giờ thì cũng không có sâu nhất, chỉ có đầm giữa là còn một đoạn lạch cũ của cái bồi lắng của ngày xưa thôi.\"",
+      "start": 489.68,
+      "end": 497.92,
+      "n_words": 30,
+      "start_frame": 12242,
+      "end_frame": 12448,
+      "keyframes": [
+        "012308.webp",
+        "012442.webp",
+        "012443.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Còn hiện nay thì nó là quân bình, nó khoảng 1 mét đến 1.5 mét trở lại.\"",
+      "start": 497.92,
+      "end": 503.0,
+      "n_words": 17,
+      "start_frame": 12448,
+      "end_frame": 12575,
+      "keyframes": [
+        "012508.webp",
+        "012573.webp",
+        "012574.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "\"Một mét đến 1.5 mét trở lại thì chắc là sẽ thích hợp đối với những cái xuồng nhỏ, những cái vỏ lãi thôi đúng không anh?\"",
+      "start": 503.0,
+      "end": 509.56,
+      "n_words": 27,
+      "start_frame": 12575,
+      "end_frame": 12739,
+      "keyframes": [
+        "012661.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "\"Đúng rồi.\"",
+      "start": 509.56,
+      "end": 511.36,
+      "n_words": 2,
+      "start_frame": 12739,
+      "end_frame": 12784,
+      "keyframes": [
+        "012748.webp",
+        "012767.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Trong hành trình rong ruổi trên đầm, chúng tôi được nghe kể về những câu chuyện dân gian một thời về lịch sử hình thành và phát triển của đầm Thị Tường.",
+      "start": 511.36,
+      "end": 520.76,
+      "n_words": 32,
+      "start_frame": 12784,
+      "end_frame": 13019,
+      "keyframes": [
+        "012894.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Theo truyền thuyết, cái tên Thị Tường bắt nguồn từ một người phụ nữ tên Tường, người đã có công khai phá và bảo vệ vùng đất này trong những năm đầu khai hoang.",
+      "start": 520.76,
+      "end": 533.24,
+      "n_words": 34,
+      "start_frame": 13019,
+      "end_frame": 13331,
+      "keyframes": [
+        "013021.webp",
+        "013022.webp",
+        "013083.webp",
+        "013145.webp",
+        "013146.webp",
+        "013226.webp",
+        "013306.webp",
+        "013307.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Nơi này không chỉ là nguồn sống của ngư dân mà còn là biểu tượng của sự đoàn kết bền bỉ của con người trước thiên nhiên khắc nghiệt.",
+      "start": 533.24,
+      "end": 542.32,
+      "n_words": 29,
+      "start_frame": 13331,
+      "end_frame": 13558,
+      "keyframes": [
+        "013352.webp",
+        "013398.webp",
+        "013399.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Không ai còn nhớ chính xác từ khi nào cái đầm nước lớn nhất miền Tây này bắt đầu đón những cư dân đầu tiên về đây sinh sống, nhưng có những thời điểm trước đây người dân về tụ lại sinh sống khắp trên mặt đầm.",
+      "start": 542.32,
+      "end": 555.6,
+      "n_words": 47,
+      "start_frame": 13558,
+      "end_frame": 13890,
+      "keyframes": [
+        "013601.webp",
+        "013803.webp",
+        "013804.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi những năm gần đây, khi địa phương quy hoạch tổng thể mỹ quan và bảo tồn hệ sinh thái thì chỉ còn lại các hộ dân ở ven hai bờ.",
+      "start": 555.6,
+      "end": 565.92,
+      "n_words": 31,
+      "start_frame": 13890,
+      "end_frame": 14148,
+      "keyframes": [
+        "013921.webp",
+        "014039.webp",
+        "014040.webp",
+        "014095.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Hệ sinh thái nơi đây rất đa dạng do ở vùng Cà Mau lại chiếm một vùng trải dài, vì thế đầm Thị Tường có mùa nước mặn, ngọt và cả nước lợ.",
+      "start": 565.92,
+      "end": 577.04,
+      "n_words": 33,
+      "start_frame": 14148,
+      "end_frame": 14426,
+      "keyframes": [
+        "014150.webp",
+        "014151.webp",
+        "014194.webp",
+        "014237.webp",
+        "014238.webp",
+        "014303.webp",
+        "014369.webp",
+        "014370.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Mùa nước ngọt là cá lóc, cá tre; Mùa nước mặn thì tôm cua chẳng thiếu; Đặc biệt là nước lợ, cá ngát, cá mú loại nào cũng có.",
+      "start": 577.04,
+      "end": 588.04,
+      "n_words": 29,
+      "start_frame": 14426,
+      "end_frame": 14701,
+      "keyframes": [
+        "014435.webp",
+        "014501.webp",
+        "014502.webp",
+        "014565.webp",
+        "014629.webp",
+        "014630.webp",
+        "014661.webp",
+        "014692.webp",
+        "014693.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Nếu may mắn đi ngay lúc thủy triều xuống thấp, bạn có thể xắn tay áo mò tôm bắt cá với người dân nơi đây.",
+      "start": 588.04,
+      "end": 596.0,
+      "n_words": 25,
+      "start_frame": 14701,
+      "end_frame": 14900,
+      "keyframes": [
+        "014745.webp",
+        "014797.webp",
+        "014798.webp",
+        "014877.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đi lúc thủy triều lên cũng không sao, người dân nơi đây sẵn sàng cho bạn mượn cần ngồi câu cá, nhất là đi câu cá, giăng lưới, đục hào mò sò.",
+      "start": 596.0,
+      "end": 606.92,
+      "n_words": 32,
+      "start_frame": 14900,
+      "end_frame": 15173,
+      "keyframes": [
+        "014956.webp",
+        "014957.webp",
+        "015048.webp",
+        "015139.webp",
+        "015140.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nếu ai đó muốn tắm sông, cứ dịp này ùm xuống đầm mà bơi cho thỏa thích.",
+      "start": 606.92,
+      "end": 612.56,
+      "n_words": 17,
+      "start_frame": 15173,
+      "end_frame": 15314,
+      "keyframes": [
+        "015262.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "\"Trước đây em từng được đến với đầm Thị Tường một lần thì lúc đó những cái nhà ven sông thì nó cũng còn khá nhiều, nhưng mà hiện giờ thì em đang thấy cái mặt đầm ngày một rộng hơn thì chắc có thay đổi gì cái chính sách của tỉnh hơn?\"",
+      "start": 612.56,
+      "end": 626.04,
+      "n_words": 53,
+      "start_frame": 15314,
+      "end_frame": 15651,
+      "keyframes": [
+        "015385.webp",
+        "015386.webp",
+        "015431.webp",
+        "015476.webp",
+        "015477.webp",
+        "015517.webp",
+        "015558.webp",
+        "015559.webp",
+        "015578.webp",
+        "015598.webp",
+        "015599.webp",
+        "015620.webp",
+        "015641.webp",
+        "015642.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "\"Năm 2023 là tỉnh có chính sách là giải tỏa, chủ trương giải tỏa để mà làm cho thông thoáng cái đầm vì nhiều năm thì bà con cũng có tự lấn, có tự chiếm thì làm cho cái đầm nó bồi lắng đi, cái mực nước nó không sâu được rồi đánh bắt cạn kiệt những cái loại hải sản.",
+      "start": 626.04,
+      "end": 650.48,
+      "n_words": 61,
+      "start_frame": 15651,
+      "end_frame": 16262,
+      "keyframes": [
+        "015718.webp",
+        "015794.webp",
+        "015795.webp",
+        "015909.webp",
+        "016023.webp",
+        "016024.webp",
+        "016106.webp",
+        "016188.webp",
+        "016189.webp",
+        "016250.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Từ đó nhà nước có cái chính sách giải tỏa để mời gọi đầu tư phát triển du lịch ở nơi đây, là đang dự định là sẽ phát triển du lịch sinh thái ở trên đầm Thị Tường.\"",
+      "start": 650.48,
+      "end": 661.8,
+      "n_words": 39,
+      "start_frame": 16262,
+      "end_frame": 16545,
+      "keyframes": [
+        "016312.webp",
+        "016313.webp",
+        "016376.webp",
+        "016439.webp",
+        "016440.webp",
+        "016491.webp",
+        "016542.webp",
+        "016543.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "\"Ngoài cái lượng thủy hải sản thuộc về thiên nhiên thì mọi người có nuôi trồng ở trên đầm này không anh?\"",
+      "start": 661.8,
+      "end": 670.0,
+      "n_words": 22,
+      "start_frame": 16545,
+      "end_frame": 16750,
+      "keyframes": [
+        "016582.webp",
+        "016621.webp",
+        "016622.webp",
+        "016675.webp",
+        "016728.webp",
+        "016729.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "\"Là thiên nhiên hết, hoàn toàn là thiên nhiên.\" \"Lượng rau củ quả này rồi anh lấy trên bờ là anh lấy từ chợ nào?\" \"Chợ Đồng Mối. Anh là sáng là từ khuya, từ khuya mấy giờ mình đi lấy hàng?\"",
+      "start": 670.0,
+      "end": 683.68,
+      "n_words": 42,
+      "start_frame": 16750,
+      "end_frame": 17092,
+      "keyframes": [
+        "016751.webp",
+        "016773.webp",
+        "016774.webp",
+        "016793.webp",
+        "016812.webp",
+        "016832.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "\"Dạ một giờ, 1:00 khuya là bắt đầu dạ gọi lại ra cái nước lấy hàng rồi là từ cái nước trở vô là bắt đầu bán dọc đường luôn.",
+      "start": 683.68,
+      "end": 695.6,
+      "n_words": 30,
+      "start_frame": 17092,
+      "end_frame": 17390,
+      "keyframes": [
+        "017151.webp",
+        "017208.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Sáng về tới nhà, sáng cắt đồ xong rồi cắt đồ xong rồi chắc đồ lại hết rồi mới đi bán.\"",
+      "start": 695.6,
+      "end": 699.68,
+      "n_words": 21,
+      "start_frame": 17390,
+      "end_frame": 17492,
+      "keyframes": [
+        "017471.webp",
+        "017472.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "\"Anh 1:00 đi lấy hàng rồi mấy giờ sẽ đi bán?\"",
+      "start": 699.68,
+      "end": 702.44,
+      "n_words": 11,
+      "start_frame": 17492,
+      "end_frame": 17561,
+      "keyframes": [
+        "017528.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "\"Dạ 6:00.",
+      "start": 702.44,
+      "end": 703.8,
+      "n_words": 2,
+      "start_frame": 17561,
+      "end_frame": 17595,
+      "keyframes": [
+        "017584.webp",
+        "017585.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thường là bán dọc cái đầm Thị Tường, có nhiều người trước lần thì nhiều mà giờ cũng như là người ta vô ta giải tán bớt cái sinh kế cho lôi sò nên rất ít người lại nuôi, ít người mua lại.",
+      "start": 704.88,
+      "end": 720.56,
+      "n_words": 43,
+      "start_frame": 17622,
+      "end_frame": 18014,
+      "keyframes": [
+        "017794.webp",
+        "018004.webp",
+        "018005.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Giờ là chủ yếu là người ta ở ngoài này là anh bán cho những cái hộ mà còn được phép ở lại đầm mà còn ở lại đúng phép ở lại.\"",
+      "start": 720.56,
+      "end": 731.48,
+      "n_words": 32,
+      "start_frame": 18014,
+      "end_frame": 18287,
+      "keyframes": [
+        "018223.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Những câu chuyện về đời, về người, về những kỷ niệm vui buồn gắn liền với đầm Thị Tường khiến chúng tôi hiểu thêm về tình cảm sâu nặng mà người dân nơi đây dành cho mảnh đất này.",
+      "start": 731.48,
+      "end": 744.16,
+      "n_words": 39,
+      "start_frame": 18287,
+      "end_frame": 18604,
+      "keyframes": [
+        "018441.webp",
+        "018442.webp",
+        "018600.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Họ sống cùng đầm, ăn ngủ cùng đầm và yêu thương từng ngọn cỏ, từng con sóng nơi đây.",
+      "start": 744.16,
+      "end": 751.36,
+      "n_words": 19,
+      "start_frame": 18604,
+      "end_frame": 18784,
+      "keyframes": [
+        "018759.webp",
+        "018760.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Trong ánh nắng bình minh, những câu chuyện như những tia nắng ấm áp chiếu rọi và lan tỏa vào lòng mỗi người.",
+      "start": 751.36,
+      "end": 759.28,
+      "n_words": 23,
+      "start_frame": 18784,
+      "end_frame": 18982,
+      "keyframes": [
+        "018812.webp",
+        "018864.webp",
+        "018894.webp",
+        "018953.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bình minh đã lên cao, ánh nắng vàng ấm áp trải dài trên mặt đầm làm bừng sáng cảnh vật xung quanh.",
+      "start": 759.28,
+      "end": 766.24,
+      "n_words": 22,
+      "start_frame": 18982,
+      "end_frame": 19156,
+      "keyframes": [
+        "019013.webp",
+        "019043.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Những chiếc ghe thuyền trở về sau một buổi sáng làm việc mang theo những mẻ cá tươi ngon đầy ắp niềm vui và hy vọng.",
+      "start": 766.24,
+      "end": 774.04,
+      "n_words": 26,
+      "start_frame": 19156,
+      "end_frame": 19351,
+      "keyframes": [
+        "019216.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tiếng cười nói rộn rã, âm thanh của sự sống, của sự mưu sinh vang vọng giữa không gian bao la.",
+      "start": 774.04,
+      "end": 781.0,
+      "n_words": 21,
+      "start_frame": 19351,
+      "end_frame": 19525,
+      "keyframes": [
+        "019389.webp",
+        "019390.webp",
+        "019431.webp",
+        "019472.webp",
+        "019473.webp",
+        "019506.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Những khoảnh khắc giản dị nhưng đong đầy hạnh phúc như những nét chấm phá tươi sáng trên bức tranh thiên nhiên hùng vĩ.",
+      "start": 781.0,
+      "end": 789.0,
+      "n_words": 24,
+      "start_frame": 19525,
+      "end_frame": 19725,
+      "keyframes": [
+        "019539.webp",
+        "019540.webp",
+        "019573.webp",
+        "019607.webp",
+        "019608.webp",
+        "019658.webp",
+        "019708.webp",
+        "019709.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Đầm Thị Tường không chỉ là nơi cung cấp nguồn lợi thủy sản phong phú mà còn là một điểm du lịch sinh thái hấp dẫn.",
+      "start": 789.0,
+      "end": 796.28,
+      "n_words": 26,
+      "start_frame": 19725,
+      "end_frame": 19907,
+      "keyframes": [
+        "019851.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Du khách đến đây không chỉ để thưởng ngoạn cảnh đẹp thiên nhiên mà còn để tìm hiểu về văn hóa đời sống và những giá trị tinh thần của người dân địa phương.",
+      "start": 796.28,
+      "end": 807.12,
+      "n_words": 34,
+      "start_frame": 19907,
+      "end_frame": 20178,
+      "keyframes": [
+        "019994.webp",
+        "020024.webp",
+        "020055.webp",
+        "020087.webp",
+        "020088.webp",
+        "020125.webp",
+        "020163.webp",
+        "020164.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "\"Thường thì mùa nào trong năm lượng du khách đổ về cái hợp tác xã của mình nhiều?\"",
+      "start": 807.12,
+      "end": 812.76,
+      "n_words": 18,
+      "start_frame": 20178,
+      "end_frame": 20319,
+      "keyframes": [
+        "020237.webp",
+        "020310.webp",
+        "020311.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "\"Khách về đây đông nhất là vào dịp Tết Nguyên đán hoặc là lễ 30 tháng 4 hàng năm.",
+      "start": 812.76,
+      "end": 817.72,
+      "n_words": 19,
+      "start_frame": 20319,
+      "end_frame": 20443,
+      "keyframes": [
+        "020376.webp",
+        "020442.webp",
+        "020443.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ở đây thì thường du khách đến đây là sáng đi chiều về, đến đây để là trải nghiệm và thưởng thức các hải sản tươi sống ở tại đầm Thị Tường của mình.\"",
+      "start": 817.72,
+      "end": 827.96,
+      "n_words": 34,
+      "start_frame": 20443,
+      "end_frame": 20699,
+      "keyframes": [
+        "020443.webp",
+        "020490.webp",
+        "020537.webp",
+        "020538.webp",
+        "020609.webp",
+        "020681.webp",
+        "020682.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "\"Nhưng mà nếu mà em chọn là em sẽ có hai ngày ở trên đầm Thị Tường ở hợp tác xã của anh thì em sẽ có được những hoạt động nào để trải nghiệm cuộc sống ở đầm Thị Tường?\"",
+      "start": 827.96,
+      "end": 838.2,
+      "n_words": 41,
+      "start_frame": 20699,
+      "end_frame": 20955,
+      "keyframes": [
+        "020742.webp",
+        "020803.webp",
+        "020804.webp",
+        "020836.webp",
+        "020868.webp",
+        "020869.webp",
+        "020912.webp",
+        "020955.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "\"Ở đây thì tôi cũng có mô hình homestay cho khách nghỉ lại qua đêm thì một người 80.000 đối với người lớn.",
+      "start": 838.2,
+      "end": 846.64,
+      "n_words": 23,
+      "start_frame": 20955,
+      "end_frame": 21166,
+      "keyframes": [
+        "020955.webp",
+        "020956.webp",
+        "021057.webp",
+        "021159.webp",
+        "021160.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Còn ban đêm thì mình có thể là trải nghiệm cùng bà con mình đi xuồng đi bắt ba khía chẳng hạn, đi lưới cá ở trên đầm là sẽ được hòa vào cái cuộc sống thực tế của bà con nông dân ở đây.\" \"Đúng rồi.",
+      "start": 846.64,
+      "end": 863.24,
+      "n_words": 47,
+      "start_frame": 21166,
+      "end_frame": 21581,
+      "keyframes": [
+        "021383.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Dạ ở tại hợp tác xã của mình những cái món ngon chế biến thì các đoàn du khách có thể hòa vào những cái thao tác như là nấu hay là chọn thủy hải sản đúng không anh?\"",
+      "start": 863.24,
+      "end": 873.6,
+      "n_words": 39,
+      "start_frame": 21581,
+      "end_frame": 21840,
+      "keyframes": [
+        "021606.webp",
+        "021607.webp",
+        "021675.webp",
+        "021744.webp",
+        "021745.webp",
+        "021804.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "\"Dạ có, nó như là một bữa cơm gia đình.\"",
+      "start": 873.6,
+      "end": 876.36,
+      "n_words": 10,
+      "start_frame": 21840,
+      "end_frame": 21909,
+      "keyframes": [
+        "021863.webp",
+        "021864.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "\"Đúng rồi, có thể tự chọn mình homestay mà nó là một cái giống như bữa cơm gia đình mới gọi là có từ homestay đó.\"",
+      "start": 876.36,
+      "end": 885.32,
+      "n_words": 26,
+      "start_frame": 21909,
+      "end_frame": 22133,
+      "keyframes": [
+        "021972.webp",
+        "022080.webp",
+        "022081.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "\"Dạ tôi cũng học hỏi từ những nơi khác mà về mình làm homestay, trong đó có combo luôn là combo phục vụ.",
+      "start": 885.32,
+      "end": 892.8,
+      "n_words": 23,
+      "start_frame": 22133,
+      "end_frame": 22320,
+      "keyframes": [
+        "022176.webp",
+        "022272.webp",
+        "022273.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ví dụ như một người đến đây là đoàn từ năm người trở lên thì một người 140.000 bốn món, mà nếu 120.000 là năm món.\"",
+      "start": 892.8,
+      "end": 901.76,
+      "n_words": 26,
+      "start_frame": 22320,
+      "end_frame": 22544,
+      "keyframes": [
+        "022367.webp",
+        "022462.webp",
+        "022463.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "\"Dạ anh ơi, cái hợp tác xã của mình em đang thấy nó ở giữa đầm bốn bề là nước như thế này thì thuận lợi là mình có cái nguồn tôm cá thủy hải sản rất là dồi dào, nhưng mà những cái nguồn nguyên liệu khác để phục vụ cho du lịch như từ nước hay là điện mình có gặp khó khăn trở ngại gì về cái vấn đề đó không anh?\"",
+      "start": 901.76,
+      "end": 920.96,
+      "n_words": 75,
+      "start_frame": 22544,
+      "end_frame": 23024,
+      "keyframes": [
+        "022571.webp",
+        "022679.webp",
+        "022680.webp",
+        "022721.webp",
+        "022762.webp",
+        "022763.webp",
+        "022806.webp",
+        "022849.webp",
+        "022850.webp",
+        "022882.webp",
+        "022914.webp",
+        "022915.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "\"Dạ không, ở đây thì chúng tôi là khoan được hai cái giếng nước, giếng nước đây rất ngọt, khoan sâu khoảng 150 mét, 150 mét nước sinh hoạt rất là tốt, rất là sạch.",
+      "start": 920.96,
+      "end": 934.92,
+      "n_words": 35,
+      "start_frame": 23024,
+      "end_frame": 23373,
+      "keyframes": [
+        "023036.webp",
+        "023158.webp",
+        "023159.webp",
+        "023246.webp",
+        "023334.webp",
+        "023335.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Còn điện thì điện lưới quốc gia mình kéo lên đến nơi luôn.\"",
+      "start": 934.92,
+      "end": 939.04,
+      "n_words": 13,
+      "start_frame": 23373,
+      "end_frame": 23476,
+      "keyframes": [
+        "023398.webp",
+        "023461.webp",
+        "023462.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "\"Dạ anh Hùng ơi, cái chia sẻ của anh Hùng rất là thú vị.",
+      "start": 939.04,
+      "end": 941.92,
+      "n_words": 14,
+      "start_frame": 23476,
+      "end_frame": 23548,
+      "keyframes": [
+        "023513.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Có lẽ là em sẽ nhờ anh Hùng đưa ekip của em đi tham quan xung quanh cái đầm Thị Tường của mình để nhìn thấy sự bao la của 700 hecta ở đây được không anh?\"",
+      "start": 941.92,
+      "end": 952.12,
+      "n_words": 37,
+      "start_frame": 23548,
+      "end_frame": 23803,
+      "keyframes": [
+        "023565.webp",
+        "023566.webp",
+        "023623.webp",
+        "023680.webp",
+        "023681.webp",
+        "023747.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "\"Dạ được.\"",
+      "start": 952.12,
+      "end": 958.68,
+      "n_words": 2,
+      "start_frame": 23803,
+      "end_frame": 23967,
+      "keyframes": [
+        "023814.webp",
+        "023815.webp",
+        "023878.webp",
+        "023942.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Những con thuyền lặng lẽ trôi, những cánh chim bay lượn trên bầu trời xanh thẳm, tất cả tạo nên một bức tranh thiên nhiên sống động, hài hòa và thanh bình.",
+      "start": 958.68,
+      "end": 970.32,
+      "n_words": 32,
+      "start_frame": 23967,
+      "end_frame": 24258,
+      "keyframes": [
+        "023973.webp",
+        "024036.webp",
+        "024099.webp",
+        "024100.webp",
+        "024257.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Kết thúc hành trình khi nắng đã lên cao và nhịp sống nơi đầm nước vẫn tiếp tục, chúng tôi cảm nhận được tình yêu và lòng biết ơn đối với thiên nhiên, đối với cuộc sống.",
+      "start": 970.32,
+      "end": 982.16,
+      "n_words": 37,
+      "start_frame": 24258,
+      "end_frame": 24554,
+      "keyframes": [
+        "024415.webp",
+        "024416.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đầm Thị Tường - một viên ngọc quý của miền Tây Nam Bộ, nơi lưu giữ những giá trị truyền thống và tinh thần kiên cường của con người Việt Nam.",
+      "start": 982.16,
+      "end": 991.4,
+      "n_words": 31,
+      "start_frame": 24554,
+      "end_frame": 24785,
+      "keyframes": [
+        "024615.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Mỗi gợn sóng, mỗi tia nắng, mỗi câu chuyện đều mang theo hơi thở của cuộc sống, của tình người và của niềm tin vào ngày mai tươi sáng.",
+      "start": 991.4,
+      "end": 1002.04,
+      "n_words": 29,
+      "start_frame": 24785,
+      "end_frame": 25051,
+      "keyframes": [
+        "024814.webp",
+        "024815.webp",
+        "024896.webp",
+        "024977.webp",
+        "024978.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Khép lại hành trình, chúng tôi rời đầm Thị Tường với những cảm xúc đong đầy, mang theo hình ảnh những con người cần mẫn, những cảnh sắc thiên nhiên tươi đẹp, những giá trị nhân văn sâu sắc.",
+      "start": 1002.04,
+      "end": 1014.64,
+      "n_words": 39,
+      "start_frame": 25051,
+      "end_frame": 25366,
+      "keyframes": [
+        "025060.webp",
+        "025142.webp",
+        "025143.webp",
+        "025193.webp",
+        "025244.webp",
+        "025245.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đầm Thị Tường, nơi khói bếp quê hương luôn lan tỏa, nơi tình người và thiên nhiên hòa quyện mãi là một phần không thể thiếu trong tâm hồn mỗi người. Hình ảnh bình minh rực rỡ, những con thuyền lướt nhẹ trên mặt nước, những con người đầy yêu thương, tất cả tạo nên một bức tranh đẹp đẽ đậm chất thơ.",
+      "start": 1014.64,
+      "end": 1035.92,
+      "n_words": 63,
+      "start_frame": 25366,
+      "end_frame": 25898,
+      "keyframes": [
+        "025382.webp",
+        "025520.webp",
+        "025521.webp",
+        "025528.webp",
+        "025535.webp",
+        "025536.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Để thưởng thức nhiều hơn những cảnh đẹp của thiên nhiên và khoảnh khắc cuộc sống cũng như con người dọc sông Mekong, mời quý khán giả đón xem những tập phát sóng tiếp theo của chương trình Đôi mắt Mekong.",
+      "start": 1035.92,
+      "end": 1048.2,
+      "n_words": 41,
+      "start_frame": 25898,
+      "end_frame": 26205,
+      "keyframes": [
+        "025925.webp",
+        "025933.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

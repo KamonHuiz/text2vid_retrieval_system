@@ -1,0 +1,467 @@
+{
+  "video_id": "L30_V054",
+  "fps": 25.0,
+  "n_sentences": 28,
+  "total_words": 909,
+  "sentences": [
+    {
+      "text": "Tự nhiên một ngày trời sáng thức dậy, hai cái khớp gối nó cứng lắm, không hoạt động được và rất là đau.",
+      "start": 11.76,
+      "end": 20.6,
+      "n_words": 23,
+      "start_frame": 294,
+      "end_frame": 515,
+      "keyframes": [
+        "000296.webp",
+        "000303.webp",
+        "000328.webp",
+        "000384.webp",
+        "000440.webp",
+        "000490.webp",
+        "000513.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Tối nào mình cũng cầu nguyện rằng là cho tôi đi luôn được không.",
+      "start": 20.6,
+      "end": 24.48,
+      "n_words": 14,
+      "start_frame": 515,
+      "end_frame": 612,
+      "keyframes": [
+        "000537.webp",
+        "000562.webp",
+        "000610.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nhiều lần mình đã quyết định mua thuốc ngủ về rồi đó.",
+      "start": 26.72,
+      "end": 31.72,
+      "n_words": 12,
+      "start_frame": 668,
+      "end_frame": 793,
+      "keyframes": [
+        "000703.webp",
+        "000747.webp",
+        "000748.webp",
+        "000753.webp",
+        "000758.webp",
+        "000777.webp",
+        "000778.webp",
+        "000779.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Mẹ nhiều khi mẹ còn nói: \"Trời thôi già rồi, thôi mày không để căn bệnh này cho tao đi\".",
+      "start": 31.72,
+      "end": 43.84,
+      "n_words": 20,
+      "start_frame": 793,
+      "end_frame": 1096,
+      "keyframes": [
+        "000796.webp",
+        "000843.webp",
+        "000891.webp",
+        "000892.webp",
+        "000947.webp",
+        "001002.webp",
+        "001033.webp",
+        "001061.webp",
+        "001089.webp",
+        "001090.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Mình tên Nguyễn Thị Kim Hoàng, mình hiện nay là 30 tuổi, mình sinh sống ở thành phố Phan Thiết, Bình Thuận.",
+      "start": 43.84,
+      "end": 50.92,
+      "n_words": 22,
+      "start_frame": 1096,
+      "end_frame": 1273,
+      "keyframes": [
+        "001244.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Mình đã mắc căn bệnh vảy nến là được tính đến nay là được 10 năm.",
+      "start": 50.92,
+      "end": 56.48,
+      "n_words": 16,
+      "start_frame": 1273,
+      "end_frame": 1412,
+      "keyframes": [
+        "001399.webp",
+        "001400.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thì lúc đó là cứ nghĩ đơn thuần là chắc là bị dị ứng hay gì đó thì mình có bôi những cái loại thuốc rất là đơn giản, nhưng mà rồi mình cảm thấy nó không hết.",
+      "start": 56.48,
+      "end": 65.96,
+      "n_words": 38,
+      "start_frame": 1412,
+      "end_frame": 1649,
+      "keyframes": [
+        "001445.webp",
+        "001490.webp",
+        "001491.webp",
+        "001568.webp",
+        "001645.webp",
+        "001646.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Vừa khám xong á là hình như là lúc đó là bệnh mình bị viêm khớp, cả viêm khớp vảy nến luôn.",
+      "start": 65.96,
+      "end": 73.32,
+      "n_words": 22,
+      "start_frame": 1649,
+      "end_frame": 1833,
+      "keyframes": [
+        "001791.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Mình phải nghỉ việc, nghỉ học, bảo lưu học là sáu tháng.",
+      "start": 73.32,
+      "end": 77.44,
+      "n_words": 12,
+      "start_frame": 1833,
+      "end_frame": 1936,
+      "keyframes": [
+        "001936.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tự nhiên một ngày trời sáng thức dậy cái hai cái khớp gối nó cứng hết, không hoạt động được và rất là đau.",
+      "start": 77.44,
+      "end": 83.92,
+      "n_words": 24,
+      "start_frame": 1936,
+      "end_frame": 2098,
+      "keyframes": [
+        "001936.webp",
+        "001937.webp",
+        "002018.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đến giờ ăn thì mẹ sẽ đem cơm lên cho mình ăn rồi mẹ lo cho mình.",
+      "start": 83.92,
+      "end": 88.32,
+      "n_words": 17,
+      "start_frame": 2098,
+      "end_frame": 2208,
+      "keyframes": [
+        "002099.webp",
+        "002100.webp",
+        "002164.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nhiều mình ra nhà tắm thì nó bắt đầu nổi nhiều hơn và nó kết thành mảng toàn thân luôn, tay chân nói chung là bùng phát hết luôn, hình như hầu như là gần 80% cơ thể.",
+      "start": 88.6,
+      "end": 104.28,
+      "n_words": 38,
+      "start_frame": 2215,
+      "end_frame": 2607,
+      "keyframes": [
+        "002229.webp",
+        "002279.webp",
+        "002376.webp",
+        "002473.webp",
+        "002474.webp",
+        "002540.webp",
+        "002607.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Mà căn bệnh này nói rằng là đừng có stress là sẽ nặng hơn nữa, nhưng mà thật ra là không thể không stress được, bởi vì mình từng là một cô gái rất là năng động, rất là nhiều năng lượng và tự tin vào bản thân của mình.",
+      "start": 104.28,
+      "end": 119.84,
+      "n_words": 50,
+      "start_frame": 2607,
+      "end_frame": 2996,
+      "keyframes": [
+        "002607.webp",
+        "002608.webp",
+        "002714.webp",
+        "002820.webp",
+        "002821.webp",
+        "002989.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Tự nhiên mắc một căn bệnh mà nó ảnh hưởng thẩm mỹ nhiều nên như thế mình càng stress hơn chứ không thể nào không stress được.",
+      "start": 119.84,
+      "end": 132.88,
+      "n_words": 27,
+      "start_frame": 2996,
+      "end_frame": 3322,
+      "keyframes": [
+        "003158.webp",
+        "003183.webp",
+        "003235.webp",
+        "003288.webp",
+        "003316.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ai, gia đình, họ hàng ai chỉ cách nào thì mình làm theo cách đó, từ Đông y, Tây y, thuốc Nam đầy đủ hết, cái gì mình cũng làm nhưng mà càng làm lại càng nặng và nặng nhất là toàn thân luôn.",
+      "start": 132.88,
+      "end": 148.8,
+      "n_words": 44,
+      "start_frame": 3322,
+      "end_frame": 3720,
+      "keyframes": [
+        "003518.webp",
+        "003720.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Mình không ngủ được thì mẹ cũng thức, mẹ phải lấy quạt mẹ quạt tay cho mình trên những cái lưng nè, đằng sau lưng, bụng để cho nó dịu bớt đi; Mà trong khi đó là sáng mẹ phải buôn bán chạy sớm, 4:00 sáng mới dậy rồi mình chỉ cần trở mình một chút xíu thôi mẹ lại giật mình mẹ hỏi: \"Đau nữa hả con?\".",
+      "start": 148.8,
+      "end": 174.6,
+      "n_words": 68,
+      "start_frame": 3720,
+      "end_frame": 4365,
+      "keyframes": [
+        "003720.webp",
+        "003721.webp",
+        "003857.webp",
+        "003993.webp",
+        "003994.webp",
+        "004087.webp",
+        "004181.webp",
+        "004182.webp",
+        "004219.webp",
+        "004256.webp",
+        "004257.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Nên lúc đó thì thật sự là rất là thương mẹ và mình bắt đầu mình quay lại Sài Gòn làm việc.",
+      "start": 174.6,
+      "end": 182.16,
+      "n_words": 22,
+      "start_frame": 4365,
+      "end_frame": 4554,
+      "keyframes": [
+        "004372.webp",
+        "004487.webp",
+        "004488.webp",
+        "004522.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Mình cũng chỉ ở có mình thôi mà ý là mình muốn tách gia đình ra để cho mẹ đỡ bớt lo, mà mình cũng giấu mẹ.",
+      "start": 182.16,
+      "end": 189.04,
+      "n_words": 27,
+      "start_frame": 4554,
+      "end_frame": 4726,
+      "keyframes": [
+        "004557.webp",
+        "004558.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Hay là Sài Gòn thì một tháng sau nó lại bùng nặng y chang như vậy nữa, vô cùng đau đớn nhưng mà lại giấu mẹ nói \"Con không sao cả\".",
+      "start": 189.04,
+      "end": 197.56,
+      "n_words": 31,
+      "start_frame": 4726,
+      "end_frame": 4939,
+      "keyframes": [
+        "004793.webp",
+        "004828.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Mỗi lần mẹ còn phải hỏi, mình nói \"Con không sao\", là đêm nào cũng nói là giá như là đêm nay mình đừng có thức dậy nữa, mình không muốn sống cái kiểu như vậy.",
+      "start": 197.56,
+      "end": 217.88,
+      "n_words": 36,
+      "start_frame": 4939,
+      "end_frame": 5447,
+      "keyframes": [
+        "005099.webp",
+        "005100.webp",
+        "005179.webp",
+        "005259.webp",
+        "005260.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thì nếu có cơ thể này mình không làm được gì hết, mình sinh sống không có giá trị thì sống để làm gì, đang lớn thì ảnh hưởng người thân thì mình không muốn.",
+      "start": 217.88,
+      "end": 227.92,
+      "n_words": 35,
+      "start_frame": 5447,
+      "end_frame": 5698,
+      "keyframes": [
+        "005496.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cứ lúc nào tụi mình cũng nói là tối nào mình cũng cầu nguyện rằng cho tôi được đi.",
+      "start": 227.92,
+      "end": 233.2,
+      "n_words": 19,
+      "start_frame": 5698,
+      "end_frame": 5830,
+      "keyframes": [
+        "005733.webp",
+        "005734.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nhiều lần mình đã quyết định mua thuốc ngủ về rồi đó, mình sợ gia đình sợ người ở lại buồn và sốc vì bà rất là khổ, mình thấy cái hành trình bà sống không chồng, bà một mình nuôi hai đứa con nó đau khổ lắm.",
+      "start": 235.52,
+      "end": 260.28,
+      "n_words": 48,
+      "start_frame": 5888,
+      "end_frame": 6507,
+      "keyframes": [
+        "005963.webp",
+        "005964.webp",
+        "006060.webp",
+        "006157.webp",
+        "006217.webp",
+        "006270.webp",
+        "006324.webp",
+        "006354.webp",
+        "006431.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Mẹ nhiều khi mẹ còn nói: \"Trời sao già rồi sao mày không để căn bệnh này cho tao đi\", mẹ khùng, con còn chịu đau được mà thật ra bệnh đến là không ai mong muốn cả, không ai được chọn lựa là tôi phải mắc bệnh gì, bệnh gì khi đến với cuộc đời này.",
+      "start": 260.28,
+      "end": 291.08,
+      "n_words": 57,
+      "start_frame": 6507,
+      "end_frame": 7277,
+      "keyframes": [
+        "006508.webp",
+        "006509.webp",
+        "006595.webp",
+        "006682.webp",
+        "006683.webp",
+        "006754.webp",
+        "006825.webp",
+        "006826.webp",
+        "006879.webp",
+        "006933.webp",
+        "006934.webp",
+        "007050.webp",
+        "007166.webp",
+        "007211.webp",
+        "007272.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Cố gắng vào Bệnh viện Da liễu TP. HCM.",
+      "start": 291.08,
+      "end": 294.28,
+      "n_words": 9,
+      "start_frame": 7277,
+      "end_frame": 7357,
+      "keyframes": [
+        "007334.webp",
+        "007351.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "HCM khám nữa, mình làm xét nghiệm máu tất cả các kiểu là được, cơ thể mình đáp ứng được sinh học và bác sĩ cho tiêm á là mình đã rất là vui mừng ở tại bệnh viện rồi, cứ chạy tung tăng ra cái chỗ photo, rất là vui, rất là háo hức bởi vì đó là mình sống rồi, mình được sống rồi.",
+      "start": 294.28,
+      "end": 317.48,
+      "n_words": 66,
+      "start_frame": 7357,
+      "end_frame": 7937,
+      "keyframes": [
+        "007391.webp",
+        "007431.webp",
+        "007432.webp",
+        "007446.webp",
+        "007460.webp",
+        "007461.webp",
+        "007488.webp",
+        "007516.webp",
+        "007517.webp",
+        "007689.webp",
+        "007861.webp",
+        "007862.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Buổi đầu tiên là nó sẽ ngưng hình thành vảy là cảm thấy người nó sẽ bớt căng cứng, sau khi tiêm hết liệu trình thấy cơ thể mình phản ứng rất là tích cực, rất là hạnh phúc và rất là biết ơn cuộc sống này, biết ơn là còn cách để chữa, biết ơn còn có phương pháp này để mà lấy lại cuộc đời cho mình.",
+      "start": 317.48,
+      "end": 344.32,
+      "n_words": 69,
+      "start_frame": 7937,
+      "end_frame": 8608,
+      "keyframes": [
+        "008003.webp",
+        "008145.webp",
+        "008146.webp",
+        "008176.webp",
+        "008207.webp",
+        "008208.webp",
+        "008238.webp",
+        "008268.webp",
+        "008269.webp",
+        "008382.webp",
+        "008496.webp",
+        "008517.webp",
+        "008549.webp",
+        "008581.webp",
+        "008582.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Hiện nay mình vẫn đang tốt hơn, mình sống lạc quan vui vẻ hơn và năng lượng hơn, mình có thể là mang năng lượng đó vui vẻ đáp lại cha mẹ rồi yêu thương mẹ nhiều hơn, chăm sóc mẹ hàng ngày.",
+      "start": 344.32,
+      "end": 357.56,
+      "n_words": 43,
+      "start_frame": 8608,
+      "end_frame": 8939,
+      "keyframes": [
+        "008634.webp",
+        "008686.webp",
+        "008687.webp",
+        "008806.webp",
+        "008926.webp",
+        "008927.webp"
+      ],
+      "keyframe_count": 6
+    }
+  ]
+}

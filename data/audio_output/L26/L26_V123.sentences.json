@@ -1,0 +1,841 @@
+{
+  "video_id": "L26_V123",
+  "fps": 25.0,
+  "n_sentences": 51,
+  "total_words": 1122,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày: Bạch tuộc lắc cóc non sốt Thái, chuông ngọt, cay cay, sần sực.",
+      "start": 10.52,
+      "end": 16.2,
+      "n_words": 17,
+      "start_frame": 263,
+      "end_frame": 405,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000363.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Xin chào, rất vui được gặp lại các bạn đang theo dõi chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành.",
+      "start": 16.2,
+      "end": 44.8,
+      "n_words": 22,
+      "start_frame": 405,
+      "end_frame": 1120,
+      "keyframes": [
+        "000426.webp",
+        "000427.webp",
+        "000487.webp",
+        "000547.webp",
+        "000562.webp",
+        "000610.webp",
+        "000659.webp",
+        "000674.webp",
+        "000746.webp",
+        "000818.webp",
+        "000819.webp",
+        "000909.webp",
+        "000999.webp",
+        "001000.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 44.8,
+      "end": 48.76,
+      "n_words": 11,
+      "start_frame": 1120,
+      "end_frame": 1219,
+      "keyframes": [
+        "001149.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tự nhiên bây giờ Thanh Phương thèm một cái món nào mới mà chua chua, cay cay mà lạ miệng một chút.",
+      "start": 49.52,
+      "end": 53.92,
+      "n_words": 22,
+      "start_frame": 1238,
+      "end_frame": 1348,
+      "keyframes": [
+        "001298.webp",
+        "001299.webp",
+        "001328.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Vâng đúng ý xin luôn.",
+      "start": 53.92,
+      "end": 55.2,
+      "n_words": 5,
+      "start_frame": 1348,
+      "end_frame": 1380,
+      "keyframes": [
+        "001358.webp",
+        "001359.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Á wow, y chang như cái nguyên liệu mà xin chuẩn bị ngày hôm nay luôn.",
+      "start": 55.2,
+      "end": 58.4,
+      "n_words": 16,
+      "start_frame": 1380,
+      "end_frame": 1460,
+      "keyframes": [
+        "001409.webp",
+        "001460.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đối với món này thì đầu tiên là mình phải chuẩn bị bạch tuộc nè.",
+      "start": 58.4,
+      "end": 61.6,
+      "n_words": 15,
+      "start_frame": 1460,
+      "end_frame": 1540,
+      "keyframes": [
+        "001460.webp",
+        "001461.webp",
+        "001497.webp",
+        "001533.webp",
+        "001534.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ chắc là xin sẽ cần một cái nồi trước ha.",
+      "start": 61.6,
+      "end": 64.6,
+      "n_words": 12,
+      "start_frame": 1540,
+      "end_frame": 1615,
+      "keyframes": [
+        "001573.webp",
+        "001613.webp",
+        "001614.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chắc là sẽ nhờ Phương đập dập cái phần gừng với lại sả này.",
+      "start": 64.6,
+      "end": 68.04,
+      "n_words": 14,
+      "start_frame": 1615,
+      "end_frame": 1701,
+      "keyframes": [
+        "001655.webp",
+        "001697.webp",
+        "001698.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Sả mình cắt khúc ra đi, cái gừng thì mình cũng cắt lát dày, mình đập dập bỏ vô đây để mình luộc cái phần bạch tuộc cho nó thơm.",
+      "start": 68.04,
+      "end": 74.56,
+      "n_words": 30,
+      "start_frame": 1701,
+      "end_frame": 1864,
+      "keyframes": [
+        "001725.webp",
+        "001753.webp",
+        "001754.webp",
+        "001811.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ Phương đập dập nha, rồi cho cái phần gừng đã đập dập vào trước nha, rồi cái phần sả mình cũng cắt khúc mình đập dập mình bỏ vô luôn.",
+      "start": 74.56,
+      "end": 81.76,
+      "n_words": 32,
+      "start_frame": 1864,
+      "end_frame": 2044,
+      "keyframes": [
+        "001869.webp",
+        "001870.webp",
+        "001894.webp",
+        "001919.webp",
+        "001920.webp",
+        "001948.webp",
+        "001976.webp",
+        "001977.webp",
+        "002010.webp",
+        "002043.webp",
+        "002044.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Đối với phần nước này thì mình sẽ cho thêm hai muỗng canh giấm gạo lên men Ajinomoto.",
+      "start": 81.76,
+      "end": 85.48,
+      "n_words": 18,
+      "start_frame": 2044,
+      "end_frame": 2137,
+      "keyframes": [
+        "002044.webp",
+        "002095.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Các bạn nên nhớ là chúng ta luộc bạch tuộc với giấm ngâm đá trước khi cắt để bạch tuộc được giòn và ngọt hơn nha.",
+      "start": 85.92,
+      "end": 91.12,
+      "n_words": 26,
+      "start_frame": 2148,
+      "end_frame": 2278,
+      "keyframes": [
+        "002175.webp",
+        "002203.webp",
+        "002204.webp",
+        "002241.webp",
+        "002278.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thanh Phương được biết là ăn bạch tuộc rất là tốt cho sức khỏe bởi vì trong bạch tuộc có chứa chất selenium sẽ giúp chuyển hóa protein nè, rất là tốt cho hệ tiêu hóa.",
+      "start": 91.12,
+      "end": 100.12,
+      "n_words": 36,
+      "start_frame": 2278,
+      "end_frame": 2503,
+      "keyframes": [
+        "002278.webp",
+        "002279.webp",
+        "002313.webp",
+        "002347.webp",
+        "002348.webp",
+        "002426.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bên cạnh đó lại ít calo, ít chất béo nên phù hợp cho những ai mà muốn giảm cân nè.",
+      "start": 100.12,
+      "end": 104.88,
+      "n_words": 20,
+      "start_frame": 2503,
+      "end_frame": 2622,
+      "keyframes": [
+        "002504.webp",
+        "002505.webp",
+        "002529.webp",
+        "002553.webp",
+        "002554.webp",
+        "002588.webp",
+        "002622.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cái phần nước vừa sôi thì chúng ta cho bạch tuộc vào luôn.",
+      "start": 104.88,
+      "end": 109.6,
+      "n_words": 13,
+      "start_frame": 2622,
+      "end_frame": 2740,
+      "keyframes": [
+        "002622.webp",
+        "002623.webp",
+        "002651.webp",
+        "002679.webp",
+        "002680.webp",
+        "002716.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Trời ơi, xem mua bạch tuộc tươi quá!",
+      "start": 109.6,
+      "end": 111.84,
+      "n_words": 8,
+      "start_frame": 2740,
+      "end_frame": 2796,
+      "keyframes": [
+        "002752.webp",
+        "002753.webp",
+        "002789.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Có bí quyết gì không xin?",
+      "start": 111.84,
+      "end": 113.04,
+      "n_words": 6,
+      "start_frame": 2796,
+      "end_frame": 2826,
+      "keyframes": [
+        "002826.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thì bạch tuộc đầu tiên là mua bạch tuộc phải trắng nè, có độ đàn hồi rồi da liền với nhau, không bị rách.",
+      "start": 113.04,
+      "end": 118.92,
+      "n_words": 24,
+      "start_frame": 2826,
+      "end_frame": 2973,
+      "keyframes": [
+        "002826.webp",
+        "002827.webp",
+        "002859.webp",
+        "002891.webp",
+        "002892.webp",
+        "002931.webp",
+        "002970.webp",
+        "002971.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Lựa những con bạch tuộc không có những cái đốm màu xanh hay những cái đốm có màu sắc khác, bởi những con bạch tuộc đó rất là dễ làm chúng ta bị ngộ độc.",
+      "start": 118.92,
+      "end": 125.12,
+      "n_words": 35,
+      "start_frame": 2973,
+      "end_frame": 3128,
+      "keyframes": [
+        "003015.webp",
+        "003059.webp",
+        "003060.webp",
+        "003093.webp",
+        "003127.webp",
+        "003128.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đối với phần củ cải non nhỏ như là Phương, sau khi mà bào vỏ nè, rửa sạch để ráo, chắc là xin sẽ cắt đôi thôi, cắt đôi gì là vừa ăn ha.",
+      "start": 125.12,
+      "end": 133.2,
+      "n_words": 34,
+      "start_frame": 3128,
+      "end_frame": 3330,
+      "keyframes": [
+        "003128.webp",
+        "003195.webp",
+        "003263.webp",
+        "003264.webp",
+        "003294.webp",
+        "003325.webp",
+        "003326.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cóc non thì cũng có nhiều chất xơ lắm quý vị ạ, bên cạnh đó còn ít calo nè, ít chất béo nè, chính vì vậy cóc non mà kết hợp với lại bạch tuộc quả thực là một cái bộ đôi hoàn hảo luôn đó.",
+      "start": 133.2,
+      "end": 143.44,
+      "n_words": 46,
+      "start_frame": 3330,
+      "end_frame": 3586,
+      "keyframes": [
+        "003449.webp",
+        "003573.webp",
+        "003574.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cái phần ớt này xin cũng sẽ cắt lát luôn, nó không cay lắm nhưng mà nó làm cho cái phần muối trộn chúng ta có thêm màu sắc ha.",
+      "start": 143.44,
+      "end": 154.28,
+      "n_words": 30,
+      "start_frame": 3586,
+      "end_frame": 3857,
+      "keyframes": [
+        "003597.webp",
+        "003620.webp",
+        "003621.webp",
+        "003659.webp",
+        "003697.webp",
+        "003698.webp",
+        "003759.webp",
+        "003820.webp",
+        "003821.webp",
+        "003842.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Cái phần rau răm này thì xin cũng sẽ cắt nhuyễn luôn.",
+      "start": 154.28,
+      "end": 159.68,
+      "n_words": 12,
+      "start_frame": 3857,
+      "end_frame": 3992,
+      "keyframes": [
+        "003863.webp",
+        "003864.webp",
+        "003912.webp",
+        "003961.webp",
+        "003962.webp",
+        "003978.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cắt này thì mình mua về mình nhớ là ngâm muối ha, rửa sạch bởi vì mình sẽ cắt ăn luôn, cái phần vỏ cay cay the the chung với món này cũng sẽ rất là hợp.",
+      "start": 159.68,
+      "end": 172.24,
+      "n_words": 37,
+      "start_frame": 3992,
+      "end_frame": 4306,
+      "keyframes": [
+        "003995.webp",
+        "003996.webp",
+        "004060.webp",
+        "004125.webp",
+        "004126.webp",
+        "004179.webp",
+        "004233.webp",
+        "004234.webp",
+        "004272.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cái bạch tuộc chúng ta là chuyển thành cái màu hơi tím tím như vậy nè, tím tím như vậy nè, chúng ta sẽ cho vào cái tô đá.",
+      "start": 172.24,
+      "end": 177.84,
+      "n_words": 29,
+      "start_frame": 4306,
+      "end_frame": 4446,
+      "keyframes": [
+        "004311.webp",
+        "004312.webp",
+        "004351.webp",
+        "004391.webp",
+        "004392.webp",
+        "004419.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Trước khi mà chúng ta làm cái sốt thì chúng ta sẽ pha cái hỗn hợp sốt Thái trước nha Phương nha.",
+      "start": 177.84,
+      "end": 182.0,
+      "n_words": 22,
+      "start_frame": 4446,
+      "end_frame": 4550,
+      "keyframes": [
+        "004447.webp",
+        "004448.webp",
+        "004471.webp",
+        "004494.webp",
+        "004495.webp",
+        "004521.webp",
+        "004547.webp",
+        "004548.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Đầu tiên thì xin sẽ có khoảng một muỗng canh gia vị nem sẵn Ajinomoto Thái nha, khoảng một muỗng canh nước, một muỗng canh đường, xin có thêm một muỗng canh tương ớt nữa nha.",
+      "start": 182.0,
+      "end": 191.16,
+      "n_words": 36,
+      "start_frame": 4550,
+      "end_frame": 4779,
+      "keyframes": [
+        "004597.webp",
+        "004646.webp",
+        "004647.webp",
+        "004670.webp",
+        "004693.webp",
+        "004694.webp",
+        "004712.webp",
+        "004731.webp",
+        "004732.webp",
+        "004755.webp",
+        "004778.webp",
+        "004779.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Đối với những loại sốt như vậy thì chúng ta sẽ cho tất cả gia vị vào và chúng ta trộn đều trước khi nấu thì cái phần sốt Thái chúng ta sẽ ngon hơn ha.",
+      "start": 191.16,
+      "end": 198.6,
+      "n_words": 36,
+      "start_frame": 4779,
+      "end_frame": 4965,
+      "keyframes": [
+        "004779.webp",
+        "004832.webp",
+        "004885.webp",
+        "004886.webp",
+        "004925.webp",
+        "004964.webp",
+        "004965.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cuối cùng thì mình có một muỗng canh nước mắm truyền thống để cho cái phần sốt chúng ta được thơm hơn ha.",
+      "start": 198.6,
+      "end": 204.08,
+      "n_words": 23,
+      "start_frame": 4965,
+      "end_frame": 5102,
+      "keyframes": [
+        "004965.webp",
+        "005016.webp",
+        "005068.webp",
+        "005069.webp",
+        "005091.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Rồi sau khi chúng ta có cái hỗn hợp sốt Thái rồi, bây giờ chúng ta sẽ mở lửa.",
+      "start": 204.08,
+      "end": 208.56,
+      "n_words": 19,
+      "start_frame": 5102,
+      "end_frame": 5214,
+      "keyframes": [
+        "005113.webp",
+        "005114.webp",
+        "005165.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mình sẽ cho vào đây một chút xíu dầu ăn và chúng ta sẽ cho lần lượt những gia vị thơm gồm có nè: tỏi, hành, sả và chúng ta sẽ xào thơm cái phần gia vị này lên.",
+      "start": 208.56,
+      "end": 217.36,
+      "n_words": 39,
+      "start_frame": 5214,
+      "end_frame": 5434,
+      "keyframes": [
+        "005216.webp",
+        "005217.webp",
+        "005246.webp",
+        "005275.webp",
+        "005276.webp",
+        "005295.webp",
+        "005314.webp",
+        "005315.webp",
+        "005343.webp",
+        "005372.webp",
+        "005373.webp",
+        "005403.webp",
+        "005433.webp",
+        "005434.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Các bạn nhớ là chúng ta xay nhuyễn gia vị trước khi nấu để phần sốt chúng ta được sánh mịn nhất có thể nha.",
+      "start": 217.36,
+      "end": 222.2,
+      "n_words": 25,
+      "start_frame": 5434,
+      "end_frame": 5555,
+      "keyframes": [
+        "005434.webp",
+        "005453.webp",
+        "005472.webp",
+        "005473.webp",
+        "005510.webp",
+        "005547.webp",
+        "005548.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Mình giảm lửa nhỏ ha, sẽ cho cái phần sốt này vào luôn.",
+      "start": 222.2,
+      "end": 225.6,
+      "n_words": 13,
+      "start_frame": 5555,
+      "end_frame": 5640,
+      "keyframes": [
+        "005592.webp",
+        "005636.webp",
+        "005637.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hành tỏi sả cũng rất là thơm và chúng ta chỉ cần sôi nhẹ lên, trộn đều và chúng ta tắt bếp.",
+      "start": 225.6,
+      "end": 233.2,
+      "n_words": 22,
+      "start_frame": 5640,
+      "end_frame": 5830,
+      "keyframes": [
+        "005743.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tắt bếp cho ra ngoài một cái chén.",
+      "start": 233.2,
+      "end": 235.72,
+      "n_words": 8,
+      "start_frame": 5830,
+      "end_frame": 5893,
+      "keyframes": [
+        "005850.webp",
+        "005851.webp",
+        "005891.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trời ơi, cái mùi thơm đúng là chuẩn vị món Thái luôn.",
+      "start": 235.72,
+      "end": 238.72,
+      "n_words": 12,
+      "start_frame": 5893,
+      "end_frame": 5968,
+      "keyframes": [
+        "005932.webp",
+        "005933.webp",
+        "005960.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Á nha!",
+      "start": 238.72,
+      "end": 239.52,
+      "n_words": 2,
+      "start_frame": 5968,
+      "end_frame": 5988,
+      "keyframes": [
+        "005987.webp",
+        "005988.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ mình sẽ cắt cái phần bạch tuộc này ra những miếng vừa ăn ha Phương ha.",
+      "start": 239.52,
+      "end": 243.36,
+      "n_words": 18,
+      "start_frame": 5988,
+      "end_frame": 6084,
+      "keyframes": [
+        "005988.webp",
+        "006032.webp",
+        "006077.webp",
+        "006078.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Sẽ cắt từng cái râu bạch tuộc ra.",
+      "start": 243.36,
+      "end": 246.64,
+      "n_words": 8,
+      "start_frame": 6084,
+      "end_frame": 6166,
+      "keyframes": [
+        "006126.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đúng là khi mà chúng ta nấu và luộc bạch tuộc vừa chín tới thì bạch tuộc vẫn còn giữ được vị giòn nè và bên trong vẫn còn giữ được cái vị ngọt tự nhiên của hải sản và giờ cũng đã có sốt rồi, hấp dẫn dữ dằn!",
+      "start": 246.64,
+      "end": 258.36,
+      "n_words": 50,
+      "start_frame": 6166,
+      "end_frame": 6459,
+      "keyframes": [
+        "006175.webp",
+        "006176.webp",
+        "006259.webp",
+        "006342.webp",
+        "006343.webp",
+        "006368.webp",
+        "006394.webp",
+        "006395.webp",
+        "006411.webp",
+        "006428.webp",
+        "006429.webp",
+        "006434.webp",
+        "006440.webp",
+        "006441.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Trời ơi cái màu sốt đẹp quá và món này bây giờ Phương chỉ cần trộn đều lên và thưởng thức thôi.",
+      "start": 258.36,
+      "end": 264.44,
+      "n_words": 22,
+      "start_frame": 6459,
+      "end_frame": 6611,
+      "keyframes": [
+        "006490.webp",
+        "006540.webp",
+        "006541.webp",
+        "006584.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chắc chắn là các bạn cũng đang rất là thích thú với món ăn này đúng không ạ?",
+      "start": 264.44,
+      "end": 267.52,
+      "n_words": 18,
+      "start_frame": 6611,
+      "end_frame": 6688,
+      "keyframes": [
+        "006628.webp",
+        "006629.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúng ta có thể quét mã QR để tìm hiểu thông tin chi tiết để thực hiện món ăn nhé.",
+      "start": 267.52,
+      "end": 273.04,
+      "n_words": 20,
+      "start_frame": 6688,
+      "end_frame": 6826,
+      "keyframes": [
+        "006704.webp",
+        "006780.webp",
+        "006781.webp",
+        "006805.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và bây giờ mình sẽ cho cái phần bạch tuộc này ra dĩa nha.",
+      "start": 273.04,
+      "end": 276.36,
+      "n_words": 14,
+      "start_frame": 6826,
+      "end_frame": 6909,
+      "keyframes": [
+        "006830.webp",
+        "006831.webp",
+        "006834.webp",
+        "006838.webp",
+        "006888.webp",
+        "006897.webp",
+        "006907.webp",
+        "006908.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Về màu sắc thì hấp dẫn nè, rồi cái mùi thì kiểu giống như là mình nghe được cái mùi chua ngọt luôn á.",
+      "start": 276.36,
+      "end": 282.6,
+      "n_words": 24,
+      "start_frame": 6909,
+      "end_frame": 7065,
+      "keyframes": [
+        "006938.webp",
+        "006968.webp",
+        "006969.webp",
+        "007018.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và với một cái món khai vị hấp dẫn như thế này thì mình sẽ ăn kèm với món gì thì sẽ hợp với món này?",
+      "start": 282.6,
+      "end": 287.8,
+      "n_words": 26,
+      "start_frame": 7065,
+      "end_frame": 7195,
+      "keyframes": [
+        "007067.webp",
+        "007068.webp",
+        "007104.webp",
+        "007141.webp",
+        "007142.webp",
+        "007162.webp",
+        "007183.webp",
+        "007184.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Thì cần một món ví dụ như là cá chiên sốt cam chẳng hạn.",
+      "start": 287.8,
+      "end": 291.84,
+      "n_words": 14,
+      "start_frame": 7195,
+      "end_frame": 7296,
+      "keyframes": [
+        "007223.webp",
+        "007263.webp",
+        "007264.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Sốt màu đỏ cam áo đều trên cóc non và bạch tuộc giòn sần sật, cắn một miếng vị chua ngọt hài hòa, cay cay lan tỏa trong khoang miệng, ngon mê ly.",
+      "start": 291.84,
+      "end": 303.2,
+      "n_words": 33,
+      "start_frame": 7296,
+      "end_frame": 7580,
+      "keyframes": [
+        "007329.webp",
+        "007395.webp",
+        "007410.webp",
+        "007437.webp",
+        "007464.webp",
+        "007465.webp",
+        "007523.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Thêm món chua ngọt cay cay, thực hiện ngay món bạch tuộc lắc cóc non sốt Thái.",
+      "start": 303.2,
+      "end": 308.0,
+      "n_words": 17,
+      "start_frame": 7580,
+      "end_frame": 7700,
+      "keyframes": [
+        "007581.webp",
+        "007582.webp",
+        "007641.webp",
+        "007700.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Ngoài ra hãy truy cập vào kênh YouTube, website và fanpage của chương trình Món ngon mỗi ngày để cập nhật những công thức của món ăn ngày hôm nay nhé.",
+      "start": 308.0,
+      "end": 316.0,
+      "n_words": 31,
+      "start_frame": 7700,
+      "end_frame": 7900,
+      "keyframes": [
+        "007700.webp",
+        "007701.webp",
+        "007791.webp",
+        "007882.webp",
+        "007883.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

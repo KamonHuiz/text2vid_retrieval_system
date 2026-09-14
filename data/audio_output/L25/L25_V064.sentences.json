@@ -1,0 +1,996 @@
+{
+  "video_id": "L25_V064",
+  "fps": 25.0,
+  "n_sentences": 51,
+  "total_words": 3938,
+  "sentences": [
+    {
+      "text": "Chào mừng các em đã quay trở lại với chương trình ôn tập bộ môn Lịch sử cho kỳ thi tốt nghiệp trung học phổ thông 2023-2024 của báo Thanh Niên.",
+      "start": 0.04,
+      "end": 11.6,
+      "n_words": 31,
+      "start_frame": 1,
+      "end_frame": 290,
+      "keyframes": [
+        "000033.webp",
+        "000067.webp",
+        "000068.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các em học sinh thân mến, như vậy chúng ta đã ôn tập tất cả là hai chuyên đề và trong chuyên đề này chúng ta sẽ chuyển sang một cái phần lịch sử mới trong chương trình lịch sử của lớp 12, đó là phần kháng chiến chống Mỹ. Trong phần kháng chiến chống Mỹ này, chúng ta sẽ có hai chuyên đề.",
+      "start": 11.6,
+      "end": 29.04,
+      "n_words": 64,
+      "start_frame": 290,
+      "end_frame": 726,
+      "keyframes": [
+        "000322.webp",
+        "000577.webp",
+        "000578.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chuyên đề đầu tiên đó là chúng ta sẽ tìm hiểu về các chiến lược quân sự của Mỹ ở miền Nam Việt Nam từ 1961 cho đến 1973.",
+      "start": 29.04,
+      "end": 35.92,
+      "n_words": 29,
+      "start_frame": 726,
+      "end_frame": 898,
+      "keyframes": [
+        "000759.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Phần các chiến lược quân sự của Mỹ ở miền Nam Việt Nam sẽ giúp cho chúng ta có thể ghi nhớ sâu hơn những thắng lợi quân sự của ta trong cuộc kháng chiến chống Mỹ và như vậy chúng ta có thể giải được những câu hỏi liên quan đến phần kháng chiến chống Mỹ trong đề thi trường Đại học Quốc tế Sài Gòn.",
+      "start": 37.6,
+      "end": 56.24,
+      "n_words": 67,
+      "start_frame": 940,
+      "end_frame": 1406,
+      "keyframes": [
+        "000941.webp",
+        "000942.webp",
+        "001153.webp",
+        "001365.webp",
+        "001366.webp",
+        "001379.webp",
+        "001393.webp",
+        "001394.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "SIU không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SIU nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt.",
+      "start": 56.24,
+      "end": 65.44,
+      "n_words": 32,
+      "start_frame": 1406,
+      "end_frame": 1636,
+      "keyframes": [
+        "001409.webp",
+        "001425.webp",
+        "001426.webp",
+        "001448.webp",
+        "001470.webp",
+        "001471.webp",
+        "001479.webp",
+        "001487.webp",
+        "001488.webp",
+        "001496.webp",
+        "001505.webp",
+        "001506.webp",
+        "001514.webp",
+        "001522.webp",
+        "001523.webp",
+        "001535.webp",
+        "001547.webp",
+        "001548.webp",
+        "001556.webp",
+        "001565.webp",
+        "001587.webp",
+        "001590.webp",
+        "001593.webp",
+        "001594.webp",
+        "001611.webp",
+        "001628.webp",
+        "001629.webp"
+      ],
+      "keyframe_count": 27
+    },
+    {
+      "text": "SIU mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới, trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.",
+      "start": 65.44,
+      "end": 76.2,
+      "n_words": 39,
+      "start_frame": 1636,
+      "end_frame": 1905,
+      "keyframes": [
+        "001643.webp",
+        "001657.webp",
+        "001658.webp",
+        "001671.webp",
+        "001685.webp",
+        "001686.webp",
+        "001704.webp",
+        "001722.webp",
+        "001723.webp",
+        "001739.webp",
+        "001755.webp",
+        "001756.webp",
+        "001771.webp",
+        "001786.webp",
+        "001787.webp",
+        "001803.webp",
+        "001820.webp",
+        "001821.webp",
+        "001841.webp",
+        "001861.webp",
+        "001862.webp",
+        "001870.webp",
+        "001879.webp",
+        "001880.webp",
+        "001887.webp",
+        "001894.webp",
+        "001904.webp"
+      ],
+      "keyframe_count": 27
+    },
+    {
+      "text": "Năm 2024, SIU tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng bốn phương thức tuyển sinh.",
+      "start": 76.2,
+      "end": 84.8,
+      "n_words": 23,
+      "start_frame": 1905,
+      "end_frame": 2120,
+      "keyframes": [
+        "001917.webp",
+        "001930.webp",
+        "001931.webp",
+        "001946.webp",
+        "001961.webp",
+        "001962.webp",
+        "001977.webp",
+        "001993.webp",
+        "001994.webp",
+        "002012.webp",
+        "002030.webp",
+        "002031.webp",
+        "002045.webp",
+        "002060.webp",
+        "002086.webp",
+        "002101.webp",
+        "002117.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "SIU cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SIU, 100 suất học bổng Tiếp bước hành trình Quỹ tài năng trẻ, học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa, thể thao, nghệ thuật; Học bổng Đồng hành xây dựng nhân lực chất lượng cao cho thành phố Thủ Đức, thành phố Hồ Chí Minh; Học bổng doanh nghiệp tài trợ; Học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.",
+      "start": 84.8,
+      "end": 111.32,
+      "n_words": 106,
+      "start_frame": 2120,
+      "end_frame": 2783,
+      "keyframes": [
+        "002122.webp",
+        "002142.webp",
+        "002162.webp",
+        "002174.webp",
+        "002217.webp",
+        "002261.webp",
+        "002262.webp",
+        "002291.webp",
+        "002320.webp",
+        "002321.webp",
+        "002334.webp",
+        "002347.webp",
+        "002348.webp",
+        "002360.webp",
+        "002372.webp",
+        "002399.webp",
+        "002407.webp",
+        "002415.webp",
+        "002445.webp",
+        "002459.webp",
+        "002474.webp",
+        "002475.webp",
+        "002490.webp",
+        "002506.webp",
+        "002507.webp",
+        "002522.webp",
+        "002537.webp",
+        "002538.webp",
+        "002556.webp",
+        "002574.webp",
+        "002575.webp",
+        "002592.webp",
+        "002609.webp",
+        "002610.webp",
+        "002629.webp",
+        "002648.webp",
+        "002649.webp",
+        "002664.webp",
+        "002679.webp",
+        "002680.webp",
+        "002693.webp",
+        "002706.webp",
+        "002707.webp",
+        "002725.webp",
+        "002743.webp",
+        "002744.webp",
+        "002759.webp",
+        "002774.webp",
+        "002775.webp"
+      ],
+      "keyframe_count": 49
+    },
+    {
+      "text": "SIU - Tâm hồn Việt Nam, giáo dục thế giới.",
+      "start": 111.32,
+      "end": 115.0,
+      "n_words": 10,
+      "start_frame": 2783,
+      "end_frame": 2875,
+      "keyframes": [
+        "002785.webp",
+        "002796.webp",
+        "002809.webp",
+        "002836.webp",
+        "002864.webp",
+        "002865.webp",
+        "002872.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Đầu tiên, thầy mời tất cả chúng ta nhìn lên sơ đồ để có thể nắm được các chiến lược quân sự của Mỹ từ thời điểm 1961 cho đến 1973 tại miền Nam Việt Nam. Đầu tiên đó là chiến lược Chiến tranh đặc biệt từ 1961 cho đến 1965. Sau đó là chiến lược Chiến tranh cục bộ từ 1965 đến 1968 và chiến lược Việt Nam hóa chiến tranh từ 1969 cho đến 1973.",
+      "start": 115.0,
+      "end": 143.84,
+      "n_words": 77,
+      "start_frame": 2875,
+      "end_frame": 3596,
+      "keyframes": [
+        "002879.webp",
+        "002880.webp",
+        "003319.webp",
+        "003327.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ lần lượt đi tìm hiểu từng chiến lược quân sự của Mỹ. Đầu tiên, chúng ta sẽ tìm hiểu về chiến lược Chiến tranh đặc biệt của Mỹ được tiến hành tại miền Nam Việt Nam từ 1961 cho đến 1965.",
+      "start": 145.96,
+      "end": 160.56,
+      "n_words": 46,
+      "start_frame": 3649,
+      "end_frame": 4014,
+      "keyframes": [
+        "003774.webp",
+        "003775.webp",
+        "003789.webp",
+        "003804.webp",
+        "003805.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Từ cuối 1960, hình thức thống trị bằng chính quyền Sài Gòn đầu tây Ngô Đình Diệm bị thất bại, đế quốc Mỹ buộc phải chuyển sang thực hiện chiến lược Chiến tranh đặc biệt từ 1961 đến 1965. Chiến tranh đặc biệt là gì? Chiến tranh đặc biệt là hình thức chiến tranh xâm lược thực dân kiểu mới của Mỹ được tiến hành ở miền Nam Việt Nam nhằm mục tiêu để thí điểm cho một cái hình thức xâm lược kiểu mới của Mỹ và có thể nhân rộng tại những khu vực khác là thuộc địa của Mỹ. Về lực lượng, Chiến tranh đặc biệt sử dụng hai lực lượng cơ bản đó là quân đội Sài Gòn và cố vấn Mỹ.",
+      "start": 163.04,
+      "end": 199.12,
+      "n_words": 126,
+      "start_frame": 4076,
+      "end_frame": 4978,
+      "keyframes": [
+        "004097.webp",
+        "004112.webp",
+        "004419.webp",
+        "004420.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng ta lưu ý trong các lực lượng thực hiện các chiến lược, những lực lượng nào được tô đỏ là lực lượng sẽ giữ vai trò chủ yếu trong chiến lược. Ở đây, trong chiến lược Chiến tranh đặc biệt thì cái lực lượng quân đội Sài Gòn sẽ là lực lượng cơ bản. Và do lực lượng quân đội Sài Gòn là lực lượng cơ bản cho nên nó sẽ bộc lộ được âm mưu của Mỹ khi thực hiện chiến lược Chiến tranh đặc biệt là gì, đó chính là dùng người Việt đánh người Việt.",
+      "start": 199.12,
+      "end": 227.6,
+      "n_words": 99,
+      "start_frame": 4978,
+      "end_frame": 5690,
+      "keyframes": [
+        "005071.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Về địa bàn, Chiến tranh đặc biệt được tiến hành tại miền Nam Việt Nam. Và như lúc đầu thầy đã nói, với mục tiêu là thí điểm để thực hiện Chiến tranh đặc biệt thì Mỹ đã có những thủ đoạn như sau: đầu tiên đó là lập Bộ Chỉ huy quân sự Mỹ ở Sài Gòn, tăng viện trợ quân sự và lực lượng cố vấn Mỹ, phát triển lực lượng quân đội Sài Gòn và dồn dân lập ấp chiến lược. Chúng ta lưu ý là trong các thủ đoạn của Mỹ thì dồn dân lập ấp chiến lược sẽ là cái thủ đoạn xương sống, được xem như là cái thủ đoạn cơ bản nhất để có thể tạo nên sự thành công của Chiến tranh đặc biệt. Ngoài ra còn sử dụng chiến thuật trực thăng vận và thiết giáp vận, mở nhiều cuộc hành quân càn quét.",
+      "start": 227.6,
+      "end": 276.88,
+      "n_words": 153,
+      "start_frame": 5690,
+      "end_frame": 6922,
+      "keyframes": [
+        "005722.webp",
+        "005723.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Để thực hiện Chiến tranh đặc biệt, Mỹ đã có những thủ đoạn như sau: đầu tiên lập Bộ Chỉ huy quân sự Mỹ ở Sài Gòn, đánh dấu sự có mặt chính thức của Mỹ trong chiến tranh Việt Nam; Tăng viện trợ quân sự và lực lượng cố vấn Mỹ; Phát triển lực lượng quân đội Sài Gòn; Dồn dân lập ấp chiến lược. Ấp chiến lược sau đó còn gọi là ấp tân sinh, được Mỹ và chính quyền Sài Gòn coi như xương sống của chiến lược Chiến tranh đặc biệt và nâng lên thành quốc sách. Chúng coi việc lập ấp chiến lược như cuộc chiến tranh tổng lực nhằm đẩy lực lượng cách mạng ra khỏi các xã ấp, tách dân khỏi cách mạng, tiến tới nắm dân thực hiện chương trình bình định miền Nam. Chúng dự định dồn 10 triệu nông dân vào 16.000 ấp chiến lược trong tổng số 17.000 ấp trên toàn miền Nam. Thì những số liệu này đều có rất là rõ trong sách giáo khoa, chúng ta cần phải lưu ý về cái thủ đoạn này. Cho nên đối với lại những câu hỏi liên quan đến thủ đoạn của chiến lược Chiến tranh đặc biệt, chúng ta cần phải lưu ý đến thủ đoạn xương sống đó chính là ấp chiến lược.",
+      "start": 276.88,
+      "end": 336.24,
+      "n_words": 226,
+      "start_frame": 6922,
+      "end_frame": 8406,
+      "keyframes": [
+        "007151.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ngoài ra Mỹ còn sử dụng chiến thuật trực thăng vận và thiết xa vận là những chiến thuật quân sự phù hợp với địa bàn ngập nước tại miền Nam Việt Nam, mở nhiều cuộc hành quân càn quét. Như vậy chúng ta vừa mới tìm hiểu những ý cơ bản của chiến lược Chiến tranh đặc biệt được Mỹ thực hiện từ 1961 đến 1965 thông qua hai kế hoạch đó là kế hoạch Staley-Taylor và kế hoạch Johnson-McNamara.",
+      "start": 336.24,
+      "end": 358.32,
+      "n_words": 81,
+      "start_frame": 8406,
+      "end_frame": 8958,
+      "keyframes": [
+        "008580.webp",
+        "008581.webp",
+        "008623.webp",
+        "008665.webp",
+        "008666.webp",
+        "008668.webp",
+        "008671.webp",
+        "008672.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Tuy nhiên, với những thắng lợi ví dụ như là Bình Gia, An Lão, Đồng Xoài thì chiến lược Chiến tranh đặc biệt của Mỹ đã hoàn toàn bị phá sản. Đến 1965, Mỹ buộc phải chuyển sang cái chiến lược thứ hai đó là chiến lược Chiến tranh cục bộ tại miền Nam Việt Nam.",
+      "start": 359.52,
+      "end": 375.8,
+      "n_words": 56,
+      "start_frame": 8988,
+      "end_frame": 9395,
+      "keyframes": [
+        "009081.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ cùng nhau tìm hiểu về chiến lược Chiến tranh cục bộ nhé. Đầu tiên thì chiến lược Chiến tranh cục bộ là gì? Thì cũng giống như Chiến tranh đặc biệt, Chiến tranh cục bộ cũng là một hình thức chiến tranh xâm lược thực dân kiểu mới của Mỹ được tiến hành ở miền Nam Việt Nam nhằm mục tiêu là biến miền Nam thành thuộc địa kiểu mới của Mỹ. Về lực lượng của Chiến tranh cục bộ thì có điểm khác so với Chiến tranh đặc biệt.",
+      "start": 375.8,
+      "end": 403.32,
+      "n_words": 95,
+      "start_frame": 9395,
+      "end_frame": 10083,
+      "keyframes": [
+        "009491.webp",
+        "009492.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Lực lượng tham gia vào Chiến tranh cục bộ này sẽ gồm có ba lực lượng đó là quân Mỹ, quân đồng minh của Mỹ gồm năm nước Hàn Quốc, Thái Lan, Philippines, Úc và New Zealand, và quân đội Sài Gòn. Và cũng giống như phần trước, cái lực lượng chiếm vai trò chủ yếu sẽ là lực lượng được tô đỏ trên màn hình, đó chính là lực lượng quân Mỹ. Và khi quân Mỹ trở thành lực lượng chủ yếu tham chiến trực tiếp trong cuộc chiến tranh Việt Nam thì chúng ta có thể thấy rất là rõ là âm mưu của Chiến tranh cục bộ đã có một sự thay đổi. Như vậy, âm mưu của Chiến tranh cục bộ là gì?",
+      "start": 403.32,
+      "end": 443.72,
+      "n_words": 127,
+      "start_frame": 10083,
+      "end_frame": 11093,
+      "keyframes": [
+        "010465.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cùng với sự tham gia trực tiếp của quân Mỹ và lực lượng quân đồng minh đã chứng tỏ sự nôn nóng của Mỹ muốn nhanh chóng tạo ra sự ưu thế về quân sự nhằm giành lại thế chủ động trên chiến trường.",
+      "start": 443.72,
+      "end": 459.6,
+      "n_words": 44,
+      "start_frame": 11093,
+      "end_frame": 11490,
+      "keyframes": [
+        "011438.webp",
+        "011439.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Địa bàn của chiến lược Chiến tranh cục bộ đó là ở miền Nam nhưng được mở rộng với lại cuộc chiến tranh phá hoại miền Bắc. Về thủ đoạn của Chiến tranh cục bộ, chúng ta cần phải lưu ý đó là dựa vào ưu thế về quân sự và vũ khí, Mỹ mở nhiều cuộc hành quân tìm diệt, bình định vào đất thánh của Việt Cộng. Điều này cho chúng ta thấy là Mỹ đang rất là nôn nóng muốn thể hiện cái sự vượt trội của mình. Mở đầu cho chiến lược Chiến tranh cục bộ là hàng loạt những cuộc tấn công thể hiện tính chủ động vào Núi Thành, Vạn Tường (Quảng Ngãi) và sau đó là hàng loạt những cuộc phản công vào mùa khô 1965-1966, 1966-1967.",
+      "start": 459.6,
+      "end": 502.12,
+      "n_words": 134,
+      "start_frame": 11490,
+      "end_frame": 12553,
+      "keyframes": [
+        "011591.webp",
+        "011743.webp",
+        "011744.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trong mùa khô năm 1965-1966 với 72 vạn quân, trong đó có 22 vạn quân Mỹ và đồng minh Mỹ, đã mở đợt phản công với 450 cuộc hành quân, trong đó có năm cuộc hành quân tìm diệt nhắm vào các khu vực chính, khu vực chính của cách mạng đó là Đông Nam Bộ và Liên khu V. Trong mùa khô thứ hai từ 1966 đến 1967, với lực lượng được tăng cường lên 98 vạn quân Mỹ, đã mở tổng cộng là 895 cuộc hành quân, trong đó có ba cuộc hành quân lớn tìm diệt và bình định. Lớn nhất đó là cuộc hành quân Johnston Plan đánh vào căn cứ Dương Minh Châu ở Tây Ninh nhằm tiêu diệt cơ quan đầu não của ta.",
+      "start": 508.16,
+      "end": 556.64,
+      "n_words": 130,
+      "start_frame": 12704,
+      "end_frame": 13916,
+      "keyframes": [
+        "012867.webp",
+        "013020.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tuy nhiên, sau hàng loạt những cuộc hành quân phản công không thành công thì với cuộc Tổng tiến công và nổi dậy xuân Mậu Thân 1968, Mỹ đã thất bại hoàn toàn trong chiến lược Chiến tranh cục bộ và phải chuyển sang thực hiện một chiến lược mới tại miền Nam Việt Nam đó chính là chiến lược Việt Nam hóa chiến tranh.",
+      "start": 556.64,
+      "end": 575.24,
+      "n_words": 65,
+      "start_frame": 13916,
+      "end_frame": 14381,
+      "keyframes": [
+        "014296.webp",
+        "014297.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ chuyển sang tìm hiểu cái chiến lược thứ ba và cũng là chiến lược cuối cùng của Mỹ tại miền Nam Việt Nam đó là chiến lược Việt Nam hóa chiến tranh.",
+      "start": 575.24,
+      "end": 585.64,
+      "n_words": 37,
+      "start_frame": 14381,
+      "end_frame": 14641,
+      "keyframes": [
+        "014442.webp",
+        "014588.webp",
+        "014589.webp",
+        "014625.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.",
+      "start": 585.64,
+      "end": 596.24,
+      "n_words": 33,
+      "start_frame": 14641,
+      "end_frame": 14906,
+      "keyframes": [
+        "014661.webp",
+        "014694.webp",
+        "014732.webp",
+        "014771.webp",
+        "014772.webp",
+        "014792.webp",
+        "014813.webp",
+        "014814.webp",
+        "014835.webp",
+        "014856.webp",
+        "014857.webp",
+        "014865.webp",
+        "014874.webp",
+        "014887.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện, cân bằng giữa học thuật và nghệ thuật, thể thao.",
+      "start": 596.24,
+      "end": 603.84,
+      "n_words": 23,
+      "start_frame": 14906,
+      "end_frame": 15096,
+      "keyframes": [
+        "014940.webp",
+        "014994.webp",
+        "014995.webp",
+        "015015.webp",
+        "015036.webp",
+        "015037.webp",
+        "015052.webp",
+        "015067.webp",
+        "015068.webp",
+        "015078.webp",
+        "015089.webp",
+        "015090.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, thêm nguồn cảm hứng độc lập để phát triển và hoàn thiện nhân cách.",
+      "start": 603.84,
+      "end": 614.52,
+      "n_words": 34,
+      "start_frame": 15096,
+      "end_frame": 15363,
+      "keyframes": [
+        "015102.webp",
+        "015115.webp",
+        "015116.webp",
+        "015188.webp",
+        "015260.webp",
+        "015261.webp",
+        "015286.webp",
+        "015312.webp",
+        "015313.webp",
+        "015336.webp",
+        "015360.webp",
+        "015361.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Ngoài những giờ học trên lớp, học sinh Trường Quốc tế Á Châu còn được trải nghiệm, thử thách bản thân và phản biện các vấn đề để tự mình học hỏi, trưởng thành độc lập hơn.",
+      "start": 614.52,
+      "end": 634.6,
+      "n_words": 37,
+      "start_frame": 15363,
+      "end_frame": 15865,
+      "keyframes": [
+        "015370.webp",
+        "015379.webp",
+        "015380.webp",
+        "015396.webp",
+        "015413.webp",
+        "015414.webp",
+        "015441.webp",
+        "015468.webp",
+        "015469.webp",
+        "015478.webp",
+        "015488.webp",
+        "015489.webp",
+        "015552.webp",
+        "015615.webp",
+        "015616.webp",
+        "015631.webp",
+        "015646.webp",
+        "015656.webp",
+        "015662.webp",
+        "015669.webp",
+        "015685.webp",
+        "015694.webp",
+        "015704.webp",
+        "015730.webp",
+        "015745.webp",
+        "015761.webp",
+        "015762.webp",
+        "015776.webp",
+        "015791.webp",
+        "015792.webp",
+        "015804.webp",
+        "015816.webp",
+        "015817.webp",
+        "015835.webp",
+        "015854.webp"
+      ],
+      "keyframe_count": 35
+    },
+    {
+      "text": "Nơi đây với tôi còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.",
+      "start": 634.6,
+      "end": 650.16,
+      "n_words": 33,
+      "start_frame": 15865,
+      "end_frame": 16254,
+      "keyframes": [
+        "015866.webp",
+        "015928.webp",
+        "015990.webp",
+        "016014.webp",
+        "016029.webp",
+        "016044.webp",
+        "016045.webp",
+        "016069.webp",
+        "016093.webp",
+        "016094.webp",
+        "016114.webp",
+        "016134.webp",
+        "016135.webp",
+        "016142.webp",
+        "016149.webp",
+        "016181.webp",
+        "016189.webp",
+        "016198.webp",
+        "016221.webp",
+        "016233.webp",
+        "016245.webp",
+        "016246.webp"
+      ],
+      "keyframe_count": 22
+    },
+    {
+      "text": "Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là cuộc sống.",
+      "start": 650.16,
+      "end": 655.28,
+      "n_words": 15,
+      "start_frame": 16254,
+      "end_frame": 16382,
+      "keyframes": [
+        "016279.webp",
+        "016312.webp",
+        "016313.webp",
+        "016321.webp",
+        "016329.webp",
+        "016330.webp",
+        "016343.webp",
+        "016356.webp",
+        "016357.webp",
+        "016363.webp",
+        "016369.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Từ môi trường giáo dục này chúng tôi đã tự tin bước tiếp và viết nên câu chuyện tương lai của chính mình. Việt Nam hóa chiến tranh là chiến lược được Mỹ thực hiện từ 1969 cho đến 1973. Đầu tiên chúng ta lại quay trở lại để tìm hiểu xem Việt Nam hóa chiến tranh là gì. Thì cũng giống như là Chiến tranh đặc biệt và Chiến tranh cục bộ, Việt Nam hóa chiến tranh là hình thức chiến tranh xâm lược thực dân kiểu mới của Mỹ được tiến hành tại miền Nam Việt Nam, tuy nhiên có mở rộng ra ở Lào và Campuchia, có nghĩa là trên toàn cõi Đông Dương. Cho nên trong một số sách sẽ được gọi là Đông Dương hóa chiến tranh. Lực lượng Mỹ dùng để thực hiện chiến lược Việt Nam hóa chiến tranh tại miền Nam Việt Nam sẽ bao gồm có quân đội Sài Gòn và quân đội Mỹ. Lực lượng thực hiện chiến lược Việt Nam hóa chiến tranh là lực lượng quân đội Sài Gòn và quân Mỹ. Nhìn vào sơ đồ, chúng ta có thể thấy lực lượng quân đội Sài Gòn là chủ yếu khi thầy đã tô đỏ lên trong sơ đồ. Như vậy chúng ta sẽ có một cảm giác rất là quen khi thấy rằng với chiến lược Việt Nam hóa chiến tranh, Mỹ lại quay trở lại với lực lượng chủ đạo đó chính là quân đội Sài Gòn. Thì như vậy, âm mưu của Mỹ là gì khi thực hiện chiến lược Việt Nam hóa chiến tranh?",
+      "start": 655.28,
+      "end": 737.08,
+      "n_words": 270,
+      "start_frame": 16382,
+      "end_frame": 18427,
+      "keyframes": [
+        "016386.webp",
+        "016400.webp",
+        "016414.webp",
+        "016430.webp",
+        "016431.webp",
+        "016433.webp",
+        "016458.webp",
+        "016463.webp",
+        "016469.webp",
+        "016496.webp",
+        "016513.webp",
+        "016531.webp",
+        "016555.webp",
+        "016576.webp",
+        "016597.webp",
+        "016598.webp",
+        "016602.webp",
+        "016607.webp",
+        "016668.webp",
+        "016689.webp",
+        "016711.webp",
+        "016712.webp"
+      ],
+      "keyframe_count": 22
+    },
+    {
+      "text": "Chắc chắn là dùng người Việt đánh người Việt khi mà lực lượng chính tham gia vào cái chiến lược này đó là quân đội Sài Gòn. Tuy nhiên, cái âm mưu dùng người Việt đánh người Việt của Mỹ trong Việt Nam hóa chiến tranh nó sẽ có một cái điểm khác so với cái âm mưu dùng người Việt đánh người Việt trong cái chiến lược Chiến tranh đặc biệt. Đầu tiên, lý do là bởi vì sau hàng loạt những thất bại của Chiến tranh cục bộ thì dư luận thế giới đã lên án rất là nặng nề và nó có ảnh hưởng đến cái nội bộ của nước Mỹ. Cho nên là việc từ bỏ sự chủ động khi mà sử dụng lực lượng quân đội Mỹ để thay thế bằng lực lượng quân đội Việt Nam không phải là một sự chủ động của Mỹ, mà việc dùng người Việt đánh người Việt của Việt Nam hóa chiến tranh là nhằm mục tiêu giảm bớt xương máu của người Mỹ trên chiến trường. Điều đó có thể cho thấy rằng là cái âm mưu dùng người Việt đánh người Việt trong Việt Nam hóa chiến tranh nó thể hiện một cái sự thất bại của Mỹ trong cuộc chiến tranh tại Việt Nam. Địa bàn của Việt Nam hóa chiến tranh được mở rộng ra toàn bộ cõi Đông Dương gồm có ba nước Việt Nam, Lào và Campuchia.",
+      "start": 737.08,
+      "end": 805.56,
+      "n_words": 245,
+      "start_frame": 18427,
+      "end_frame": 20139,
+      "keyframes": [
+        "018478.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Mỹ và quân đội Sài Gòn liên tục có những hoạt động quân sự nằm ở những khu vực biên giới hay là ở bên Campuchia hay là ở bên Lào. Về thủ đoạn, chúng ta lưu ý một số những thủ đoạn của chiến lược Việt Nam hóa chiến tranh. Đầu tiên đó là sử dụng quân đội Sài Gòn để mở rộng chiến tranh xâm lược Campuchia vào thời điểm 1970 và Lào 1971. Ngoài ra còn có một bước đi về mặt chính trị rất đặc biệt đó là Mỹ đã thỏa hiệp với Trung Quốc, hòa hoãn với Liên Xô để cô lập cách mạng Việt Nam.",
+      "start": 805.56,
+      "end": 842.52,
+      "n_words": 111,
+      "start_frame": 20139,
+      "end_frame": 21063,
+      "keyframes": [
+        "020245.webp",
+        "020246.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Trong khoảng thời gian 1970, Tổng thống Mỹ đã có những chuyến tham quan đến Trung Quốc hay là có những cái động tác ký một số hiệp ước với lại Liên Xô để tìm cách cô lập cách mạng Việt Nam. Ngoài ra chúng ta cần phải lưu ý một số những cái thủ đoạn về mặt chính trị được Mỹ thực hiện trong khoảng thời gian này đó là thỏa hiệp với Trung Quốc, hòa hoãn với Liên Xô để cô lập cách mạng Việt Nam. Trong cái phần chính trị thì chúng ta có đề cập đến một sự kiện đó là Tổng thống Mỹ có một chuyến tham quan hữu nghị đến Trung Quốc và có gặp gỡ với lại Mao Trạch Đông.",
+      "start": 842.52,
+      "end": 879.28,
+      "n_words": 127,
+      "start_frame": 21063,
+      "end_frame": 21982,
+      "keyframes": [
+        "021199.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thì rõ ràng sự kiện này sẽ có một cái tác động đối với cách mạng Việt Nam.",
+      "start": 879.28,
+      "end": 886.44,
+      "n_words": 18,
+      "start_frame": 21982,
+      "end_frame": 22161,
+      "keyframes": [
+        "022152.webp",
+        "022153.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Như vậy chúng ta vừa mới tìm hiểu xong ba chiến lược cơ bản mà Mỹ thực hiện tại miền Nam Việt Nam từ 1961 cho đến 1973, đó là chiến lược Chiến tranh đặc biệt, chiến lược Chiến tranh cục bộ và Việt Nam hóa chiến tranh.",
+      "start": 886.44,
+      "end": 900.68,
+      "n_words": 48,
+      "start_frame": 22161,
+      "end_frame": 22517,
+      "keyframes": [
+        "022427.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trong khi làm bài chúng ta lưu ý so sánh để tìm ra những điểm giống nhau và khác nhau giữa ba chiến lược quân sự này. Hãy mời tất cả chúng ta theo dõi bản so sánh này.",
+      "start": 900.68,
+      "end": 912.08,
+      "n_words": 39,
+      "start_frame": 22517,
+      "end_frame": 22802,
+      "keyframes": [
+        "022702.webp",
+        "022703.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đầu tiên là sự giống nhau giữa Chiến tranh đặc biệt, Chiến tranh cục bộ và Việt Nam hóa chiến tranh thì chắc có lẽ khi chúng ta ôn tập từng chiến lược chúng ta cũng đã nhận ra cái sự giống nhau giữa ba chiến lược này rồi, đó là Chiến tranh đặc biệt, Chiến tranh cục bộ và Việt Nam hóa chiến tranh đều là các hình thức chiến tranh xâm lược thực dân kiểu mới của Mỹ nhằm chia cắt lâu dài Việt Nam và thực hiện chiến lược toàn cầu của Mỹ.",
+      "start": 912.08,
+      "end": 937.88,
+      "n_words": 96,
+      "start_frame": 22802,
+      "end_frame": 23447,
+      "keyframes": [
+        "022966.webp",
+        "023241.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chắc mọi người còn nhớ là chiến lược toàn cầu của Mỹ được thực hiện sau khi Chiến tranh thế giới lần thứ hai kết thúc với mục tiêu đó là nhằm coi như là hướng đến sự cô lập và tiêu diệt các nước xã hội chủ nghĩa, đồng thời đàn áp phong trào cách mạng thế giới trong đó có phong trào giải phóng dân tộc. Về khác nhau thì những điểm khác nhau cơ bản chúng ta có thể nhận ra giữa ba cái chiến lược chiến tranh này đó chính là sự khác nhau về lực lượng. Từ sự khác nhau về lực lượng sẽ dẫn đến sự khác nhau về âm mưu và thêm một sự khác nhau nữa đó là sự khác nhau về mặt địa bàn. Về lực lượng, trong Chiến tranh đặc biệt có thể thấy Mỹ sử dụng hai lực lượng cơ bản đó là quân đội Sài Gòn và cố vấn Mỹ, trong đó lực lượng quân đội Sài Gòn là chủ yếu. Đối với Chiến tranh cục bộ thì lực lượng tham gia chiến lược này tăng lên ba gồm có quân Mỹ, quân đồng minh và quân đội Sài Gòn, trong đó quân Mỹ đã thay thế vai trò chủ đạo cho quân đội Sài Gòn. Và đến Việt Nam hóa chiến tranh thì chỉ còn hai lực lượng quân đội đó là quân đội Sài Gòn và quân đội Mỹ. Từ sự khác nhau về lực lượng, chúng ta sẽ thấy sự khác nhau về âm mưu.",
+      "start": 937.88,
+      "end": 1010.12,
+      "n_words": 260,
+      "start_frame": 23447,
+      "end_frame": 25253,
+      "keyframes": [
+        "023779.webp",
+        "023780.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Trong chiến lược Chiến tranh đặc biệt, do lực lượng chủ đạo thực hiện chiến lược đó chính là quân đội Sài Gòn, cho nên âm mưu của Mỹ là dùng người Việt đánh người Việt. Đến Chiến tranh cục bộ, do quân Mỹ làm chủ đạo thì âm mưu của Mỹ đó là muốn tạo ra một cái thắng lợi về mặt quân sự nhằm giành lại thế chủ động trên chiến trường. Đối với Việt Nam hóa chiến tranh, với việc sử dụng chủ đạo quay trở lại với quân đội Sài Gòn thì có thể cho thấy là âm mưu của Mỹ là dùng người Việt đánh người Việt. Tuy nhiên khi so sánh âm mưu dùng người Việt đánh người Việt của Chiến tranh đặc biệt và Việt Nam hóa chiến tranh thì chúng ta cần phải lưu ý trong cái bối cảnh là Việt Nam hóa chiến tranh sử dụng âm mưu dùng người Việt đánh người Việt khi đã thất bại trong Chiến tranh cục bộ trước đó, có nghĩa là nó mang tính thụ động và dùng người Việt đánh người Việt trong Việt Nam hóa chiến tranh chỉ nhằm mục tiêu là giảm bớt xương máu của người Mỹ trên chiến trường, nó thể hiện sự thất bại của Mỹ trong cái chiến lược chiến tranh trước đó để giải quyết những mâu thuẫn trong nội bộ của nước Mỹ.",
+      "start": 1010.12,
+      "end": 1078.08,
+      "n_words": 238,
+      "start_frame": 25253,
+      "end_frame": 26952,
+      "keyframes": [
+        "025546.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Về địa bàn, Chiến tranh đặc biệt là miền Nam Việt Nam; Chiến tranh cục bộ vẫn tiếp tục ở miền Nam Việt Nam nhưng có sự kết hợp với chiến tranh phá hoại miền Bắc và một số những cái hoạt động nhằm mục tiêu là đánh phá cái việc chi viện cho miền Nam Việt Nam; Và Việt Nam hóa chiến tranh thì địa bàn được mở rộng ra toàn bộ Đông Dương.",
+      "start": 1078.08,
+      "end": 1104.08,
+      "n_words": 75,
+      "start_frame": 26952,
+      "end_frame": 27602,
+      "keyframes": [
+        "027313.webp",
+        "027314.webp",
+        "027434.webp",
+        "027554.webp",
+        "027585.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Có được thành công như hôm nay tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình bắt đầu từ trường Đại học Quốc tế Sài Gòn SIU.",
+      "start": 1104.08,
+      "end": 1116.48,
+      "n_words": 34,
+      "start_frame": 27602,
+      "end_frame": 27912,
+      "keyframes": [
+        "027613.webp",
+        "027641.webp",
+        "027642.webp",
+        "027673.webp",
+        "027704.webp",
+        "027734.webp",
+        "027781.webp",
+        "027829.webp",
+        "027841.webp",
+        "027854.webp",
+        "027868.webp",
+        "027881.webp",
+        "027900.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Đào tạo đa dạng đa lĩnh vực, SIU mở ra cho chúng tôi nhiều cơ hội lựa chọn nghề nghiệp trong tương lai.",
+      "start": 1116.48,
+      "end": 1123.24,
+      "n_words": 23,
+      "start_frame": 27912,
+      "end_frame": 28081,
+      "keyframes": [
+        "027920.webp",
+        "027921.webp",
+        "027940.webp",
+        "027959.webp",
+        "027960.webp",
+        "027978.webp",
+        "027997.webp",
+        "027998.webp",
+        "028015.webp",
+        "028033.webp",
+        "028034.webp",
+        "028051.webp",
+        "028068.webp",
+        "028069.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Tất cả sinh viên đều có cơ hội để thể hiện và phát triển năng lực, những ý tưởng luôn được khuyến khích và phát huy tối đa.",
+      "start": 1123.24,
+      "end": 1130.52,
+      "n_words": 28,
+      "start_frame": 28081,
+      "end_frame": 28263,
+      "keyframes": [
+        "028086.webp",
+        "028103.webp",
+        "028104.webp",
+        "028114.webp",
+        "028124.webp",
+        "028150.webp",
+        "028160.webp",
+        "028171.webp",
+        "028172.webp",
+        "028181.webp",
+        "028191.webp",
+        "028192.webp",
+        "028198.webp",
+        "028205.webp",
+        "028206.webp",
+        "028233.webp",
+        "028261.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin, chúng tôi được học cách học, cách nghĩ và cách sống.",
+      "start": 1130.52,
+      "end": 1136.64,
+      "n_words": 23,
+      "start_frame": 28263,
+      "end_frame": 28416,
+      "keyframes": [
+        "028278.webp",
+        "028295.webp",
+        "028313.webp",
+        "028314.webp",
+        "028331.webp",
+        "028349.webp",
+        "028350.webp",
+        "028375.webp",
+        "028400.webp",
+        "028401.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.",
+      "start": 1136.64,
+      "end": 1143.72,
+      "n_words": 28,
+      "start_frame": 28416,
+      "end_frame": 28593,
+      "keyframes": [
+        "028420.webp",
+        "028440.webp",
+        "028441.webp",
+        "028459.webp",
+        "028477.webp",
+        "028478.webp",
+        "028521.webp",
+        "028565.webp",
+        "028577.webp",
+        "028589.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Hiện đại, năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc, đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn SIU luôn hướng đến.",
+      "start": 1143.72,
+      "end": 1154.32,
+      "n_words": 34,
+      "start_frame": 28593,
+      "end_frame": 28858,
+      "keyframes": [
+        "028602.webp",
+        "028607.webp",
+        "028621.webp",
+        "028636.webp",
+        "028649.webp",
+        "028660.webp",
+        "028672.webp",
+        "028697.webp",
+        "028707.webp",
+        "028717.webp",
+        "028718.webp",
+        "028729.webp",
+        "028740.webp",
+        "028758.webp",
+        "028765.webp",
+        "028772.webp",
+        "028802.webp",
+        "028819.webp",
+        "028837.webp"
+      ],
+      "keyframe_count": 19
+    },
+    {
+      "text": "Đã đến lúc vươn xa hơn những gì đã học. Các em học sinh thân mến, như vậy chúng ta vừa mới ôn tập những kiến thức cơ bản trong ba chiến lược được Mỹ thực hiện tại Việt Nam từ 1961 đến 1973.",
+      "start": 1154.32,
+      "end": 1172.8,
+      "n_words": 44,
+      "start_frame": 28858,
+      "end_frame": 29320,
+      "keyframes": [
+        "028885.webp",
+        "028899.webp",
+        "028914.webp",
+        "028937.webp",
+        "028995.webp",
+        "029054.webp",
+        "029055.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Khi chúng ta ôn tập về ba chiến lược này, chúng ta nên nắm những ý cơ bản về âm mưu, thủ đoạn, địa bàn, lực lượng và dựa trên những ý cơ bản đó chúng ta có thể tiến hành so sánh để nhận ra điểm giống nhau và khác nhau giữa ba chiến lược này.",
+      "start": 1174.72,
+      "end": 1191.88,
+      "n_words": 57,
+      "start_frame": 29368,
+      "end_frame": 29797,
+      "keyframes": [
+        "029422.webp",
+        "029790.webp",
+        "029791.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hy vọng rằng với những kiến thức cơ bản và việc thực hành so sánh thì chúng ta có thể giải được những câu hỏi liên quan đến nội dung này trong kỳ thi sắp tới. Cảm ơn tất cả các bạn đã theo dõi, hy vọng sẽ tiếp tục đồng hành cùng các bạn trong những chuyên đề tiếp theo.",
+      "start": 1192.12,
+      "end": 1208.52,
+      "n_words": 61,
+      "start_frame": 29803,
+      "end_frame": 30213,
+      "keyframes": [
+        "030020.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Xin cảm ơn tất cả các bạn.",
+      "start": 1208.52,
+      "end": 1210.68,
+      "n_words": 7,
+      "start_frame": 30213,
+      "end_frame": 30267,
+      "keyframes": [
+        "030249.webp",
+        "030250.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

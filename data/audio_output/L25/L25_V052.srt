@@ -1,0 +1,771 @@
+1
+00:00:07,200 --> 00:00:09,440
+Xin chào tất cả các em.
+
+2
+00:00:09,440 --> 00:00:17,280
+Hôm nay chúng ta sẽ tiếp tục với chuyên đề thứ năm là các bài toán về số phức và ứng dụng của hình học trong số phức.
+
+3
+00:00:17,280 --> 00:00:25,760
+Trong những năm qua, thì số phức luôn là một cái chủ đề mà thường xuyên xuất hiện trong các câu vận dụng thấp cũng như là vận dụng cao trong đề thi trung học phổ thông quốc gia.
+
+4
+00:00:25,760 --> 00:00:35,000
+Thì trong chuyên đề này, thầy sẽ giới thiệu cho các em một số phương pháp để giúp chúng ta có thể giải quyết nhanh chóng và dễ dàng các bài toán liên quan đến số phức.
+
+5
+00:00:35,000 --> 00:00:37,400
+Thầy trò chúng ta cùng nhau đi vào bài học.
+
+6
+00:00:37,400 --> 00:00:48,240
+Trường Đại học Quốc tế Sài Gòn không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SI nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt.
+
+7
+00:00:48,240 --> 00:00:58,960
+SI mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới, trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.
+
+8
+00:00:58,960 --> 00:01:07,600
+Năm 2024, SI tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng bốn phương thức tuyển sinh.
+
+9
+00:01:07,600 --> 00:01:34,120
+SI cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SI, 100 suất học bổng Tiếp bước hành trình Quỹ tài năng trẻ, học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa, thể thao, nghệ thuật, học bổng Đồng hành xây dựng nhân lực chất lượng cao cho thành phố Thủ Đức, thành phố Hồ Chí Minh, học bổng doanh nghiệp tài trợ, học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.
+
+10
+00:01:34,120 --> 00:01:37,640
+SI: Tâm hồn Việt Nam, giáo dục thế giới.
+
+11
+00:01:37,640 --> 00:01:40,400
+Bây giờ chúng ta sẽ xét một số cái ví dụ.
+
+12
+00:01:40,400 --> 00:01:45,280
+Đầu tiên là ví dụ thứ nhất là một bài toán về tìm số phức.
+
+13
+00:01:45,280 --> 00:02:05,240
+Ví dụ: Một số phức thỏa mãn z + 2$\bar{z}$ = 1 + 5i, tất cả mũ 2 có phần ảo là Đối với các bài toán về số phức, thì cách làm chung là chúng ta sẽ đặt z = x + iy và chúng ta sẽ đi tìm x và y.
+
+14
+00:02:05,240 --> 00:02:12,080
+Bây giờ chúng ta sẽ thay cái z này vào cái phương trình của đề bài.
+
+15
+00:02:12,080 --> 00:02:19,400
+Z chúng ta thay bằng x + iy, $\bar{z}$ là số phức liên hợp chúng ta sẽ thay bằng x - iy.
+
+16
+00:02:19,400 --> 00:02:21,720
+Vế phải chúng ta tính được là -24 + 10i.
+
+17
+00:02:24,400 --> 00:02:27,760
+Bây giờ vế trái chúng ta sẽ gom phần thực với phần ảo lại.
+
+18
+00:02:27,760 --> 00:02:38,760
+Phần thực chúng ta có thể thấy x + 2x là bằng 3x, chính là phần thực; Phần ảo là iy trừ cho 2iy là bằng -iy.
+
+19
+00:02:39,760 --> 00:02:46,840
+Lúc này chúng ta được hai số phức bằng nhau, do đó chúng ta sẽ có phần thực bằng phần thực, phần ảo bằng phần ảo.
+
+20
+00:02:46,840 --> 00:02:52,640
+Tức là 3x thì bằng -24, -y thì bằng 10.
+
+21
+00:02:52,640 --> 00:02:57,120
+Lúc này chúng ta sẽ giải ra được x bằng -8 và y bằng -10.
+
+22
+00:02:58,280 --> 00:03:01,600
+Vậy thì cái số $= -7 + 3y + z$.
+
+23
+00:03:28,240 --> 00:03:32,560
+Yêu cầu tính mô đun của số phức $v_k$ là $= 1 - z + z^2$.
+
+24
+00:03:35,440 --> 00:03:41,520
+Phương pháp tương tự như ví dụ 1, chúng ta sẽ đặt $z = x + iy$.
+
+25
+00:03:41,520 --> 00:03:45,600
+Lúc này chúng ta sẽ thay vào phương trình đề bài.
+
+26
+00:03:45,600 --> 00:03:56,080
+Dĩ nhiên mô đun $z$ chính là $= \sqrt{x^2 + y^2}$, $z$ ngang chúng ta thay $= x - iy$ và chúng ta chuyển qua bên vế phải.
+
+27
+00:03:56,080 --> 00:04:00,800
+Tương tự $z$ chúng ta cũng thay $= x + iy$.
+
+28
+00:04:00,800 --> 00:04:04,600
+Bây giờ vế phải chúng ta sẽ cố gắng gom phần thực với phần ảo lại.
+
+29
+00:04:04,600 --> 00:04:12,920
+Phần thực chúng ta thấy là chúng ta có $2x$ là phần thực, trừ 7 cộng $x$, ta được $3x - 7$ là phần thực.
+
+30
+00:04:12,920 --> 00:04:20,000
+Tương tự phần ảo, chúng ta đặt $y$ làm nhân tử chung, bên trong sẽ còn lại là $3 - y$.
+
+31
+00:04:20,000 --> 00:04:31,960
+Bây giờ chúng ta được hai số phức bằng nhau thì lúc này ta sẽ suy ra ngay được là $3 - y = 0$ bởi vì số phức bên trái không có phần ảo.
+
+32
+00:04:31,960 --> 00:04:35,280
+Lúc này ta giải ra được $y = 3$.
+
+33
+00:04:35,280 --> 00:04:47,960
+Tiếp theo chúng ta cho phần thực = phần thực, tức là $\sqrt{x^2 + y^2} = 3x - 7$ và $y$ chúng ta thay $= 3$, chúng ta được $\sqrt{x^2 + 9} = 3x - 7$.
+
+34
+00:04:49,920 --> 00:04:51,000
+Đến đây chúng ta sẽ giải $x$ ra.
+
+35
+00:04:51,000 --> 00:04:55,840
+Giải $x$ ra thì đây là một dạng phương trình căn thức quen thuộc.
+
+36
+00:04:55,840 --> 00:04:59,320
+Đầu tiên chúng ta phải có điều kiện $3x - 7 \ge 0$.
+
+37
+00:05:00,280 --> 00:05:08,040
+Sau đó chúng ta bình phương hai vế, chúng ta thu được phương trình bậc hai là $x^2 - 42x + 40 = 0$.
+
+38
+00:05:11,640 --> 00:05:14,080
+Điều kiện chúng ta giải ra được $x \ge 7/3$.
+
+39
+00:05:16,720 --> 00:05:22,200
+Phương trình bậc hai bên dưới chúng ta thu được hai nghiệm là $x = 4$ và $x = 5/4$.
+
+40
+00:05:22,960 --> 00:05:30,320
+Thì đối chiếu với điều kiện, chúng ta chỉ nhận $x = 4$.
+
+41
+00:05:30,960 --> 00:05:36,240
+Với $x = 4$ và $y = 3$ thì chúng ta sẽ thu được số phức $z$ là $4 + 3i$.
+
+42
+00:05:37,280 --> 00:05:44,880
+Đến đây chúng ta thay số phức $z$ này vào để tính số phức $v_k$ thì $v_k = 1 - (4 + 3i) + (4 + 3i)^2$.
+
+43
+00:05:47,240 --> 00:06:10,560
+Thu gọn ta tính được $v_k$, ở đây ta phải có kỹ năng biến đổi thật là tốt và nhớ được cách giải của phương trình.
+
+44
+00:06:12,480 --> 00:06:17,160
+Tiếp theo chúng ta đến với ví dụ 3.
+
+45
+00:06:17,160 --> 00:06:25,920
+Ví dụ 3 cho số phức $z$ thỏa mãn $z - 4 = i + 1$ nhân mô đun $z - 3z + 4i$.
+
+46
+00:06:29,120 --> 00:06:33,600
+Đề nào dưới đây là đúng về mô đun của z?
+
+47
+00:06:33,600 --> 00:06:45,280
+Thì quan sát ví dụ 3, chúng ta có thể thấy là chúng ta vẫn có thể áp dụng phương pháp giống như ví dụ 1 và 2 đã làm, tức là chúng ta vẫn có thể đặt z = x + iy và giải quyết bài toán này.
+
+48
+00:06:45,280 --> 00:06:48,920
+Tuy nhiên, nếu chúng ta đặt như vậy thì việc tính toán nó sẽ rất là khó khăn.
+
+49
+00:06:48,920 --> 00:06:54,000
+Thì trong ví dụ 3 này thầy sẽ giới thiệu cho các em một phương pháp để giúp chúng ta tính được mô đun z.
+
+50
+00:06:54,000 --> 00:07:02,200
+Trong trường hợp này chúng ta không cần phải đặt z = x + iy cụ thể như sau.
+
+51
+00:07:02,200 --> 00:07:12,960
+Bây giờ từ cái phương trình đề bài, bên vế phải thầy nhân phân phối thầy sẽ được i nhân mô đun z + i nhân mô đun z - 4i - 4i.
+
+52
+00:07:15,920 --> 00:07:22,600
+Bây giờ những cái số hạng nào mà có chữ z thầy sẽ đem nó qua vế trái.
+
+53
+00:07:22,600 --> 00:07:32,640
+Do đó thầy chuyển cái 3zi này qua vế trái, thầy sẽ được là z + 3zi = i mô đun z + (mô đun z - 4)i + 4.
+
+54
+00:07:33,920 --> 00:07:37,280
+Vế trái thầy đặt z là nhân tử chung.
+
+55
+00:07:37,280 --> 00:07:41,920
+Vế phải thì đây là một cái số phức, thầy sẽ gom phần thực với phần ảo lại.
+
+56
+00:07:41,920 --> 00:07:59,800
+Chúng ta để ý mô đun z thì chắc chắn nó là một số thực rồi, vậy thì cái phần thực trong cái số phức bên phải nó sẽ là mô đun z + 4, còn phần ảo thì thầy đặt i làm nhân tử chung thì chúng ta sẽ được mô đun z - 4.
+
+57
+00:07:59,800 --> 00:08:06,720
+Đến đây để tính mô đun z thì thầy sẽ làm một cái động tác đó chính là thầy sẽ lấy mô đun hai vế.
+
+58
+00:08:06,720 --> 00:08:14,160
+Thì lúc này mô đun của vế trái thầy có thể tách ra thành là mô đun của 1 + 3i nhân cho mô đun z.
+
+59
+00:08:14,160 --> 00:08:23,000
+Bên vế phải thì đây là một cái số phức, do đó mô đun của nó = căn của phần thực bình cộng phần ảo bình, tức là căn của (4 + mô đun z) tất cả.
+
+60
+00:08:29,640 --> 00:08:33,040
+Ta có thể giải và tìm được nó.
+
+61
+00:08:33,040 --> 00:08:37,480
+Mô đun của $|1 + 3i|$ là bằng căn 10.
+
+62
+00:08:37,480 --> 00:08:43,200
+Bên vế phải chúng ta khai triển và thu gọn ta sẽ được căn của 2 lần mô đun $z$ mũ 2 cộng 32.
+
+63
+00:08:45,080 --> 00:08:56,120
+Bình phương hai vế thì thầy sẽ thu được là 10 lần mô đun $z$ mũ 2 bằng 2 lần mô đun $z$ mũ 2 cộng 32, tương đương là mô đun của $z$ mũ 2 là bằng 4.
+
+64
+00:08:56,120 --> 00:09:03,360
+Từ đây chúng ta tính được mô đun $z$ là bằng 2, ta chọn đáp án C.
+
+65
+00:09:03,360 --> 00:09:16,320
+Thì qua bài toán này chúng ta để ý thêm một cái phương pháp, đôi khi đề bài yêu cầu tính mô đun $z$ thì chúng ta có thể sử dụng phương pháp là lấy mô đun hai vế.
+
+66
+00:09:16,320 --> 00:09:26,880
+Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến, hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.
+
+67
+00:09:26,880 --> 00:09:34,560
+Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện, cân bằng giữa học thuật và nghệ thuật, thể thao.
+
+68
+00:09:34,560 --> 00:09:45,160
+Hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, thêm nguồn cảm hứng độc lập để phát triển và hoàn thiện nhân cách.
+
+69
+00:09:45,160 --> 00:10:04,800
+Ngoài những giờ học trên lớp, học sinh Trường Quốc tế Á Châu còn được trải nghiệm, thử thách bản thân và phản biện các vấn đề để tự mình học hỏi, trưởng thành độc lập hơn.
+
+70
+00:10:04,800 --> 00:10:20,760
+Nơi đây với tôi còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.
+
+71
+00:10:20,760 --> 00:10:25,840
+Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là cuộc sống.
+
+72
+00:10:25,840 --> 00:10:39,760
+Từ môi trường giáo dục này, chúng tôi đã tự tin bước tiếp và viết nên câu chuyện tương lai của chính mình.
+
+73
+00:10:39,760 --> 00:10:43,880
+Tiếp theo chúng ta đến với ví dụ thứ tư.
+
+74
+00:10:43,880 --> 00:10:59,320
+Đây là một ví dụ tương đối khó cho $z$ và $\bar{z}$ là hai số phức liên hợp thỏa mãn $z/\bar{z}^2$ là số thực và mô đun của $|z - \bar{z}|$ là bằng $2\sqrt{3}$.
+
+75
+00:11:00,280 --> 00:11:05,120
+Mệnh đề nào sau đây là đúng về mô đun $z$?
+
+76
+00:11:05,120 --> 00:11:10,160
+Bây giờ chúng ta sẽ bình tĩnh và giải quyết từng cái giả thiết.
+
+77
+00:11:10,160 --> 00:11:27,840
+Đầu tiên chúng ta để ý $z$ và $\bar{z}$ là hai số phức liên hợp, do đó chúng ta sẽ có $z$ thì bằng $\bar{w}$ thì bằng $w$ và mô đun của $z$ thì bằng với lại mô đun của $w$.
+
+78
+00:11:27,840 --> 00:11:34,080
+Đây là những điều chúng ta sẽ có nếu $z$ và $\bar{z}$ là liên hợp.
+
+79
+00:11:34,080 --> 00:11:47,360
+Tiếp theo chúng ta sẽ giải quyết đến cái giả thiết là mô thì lúc này ta sẽ có bình phương hai vế ta sẽ được mô đun của $z$ trừ $w$ mũ hai là bằng 12.
+
+80
+00:11:48,720 --> 00:12:02,160
+Thì ở đây chúng ta có một cách để chúng ta khai triển bình phương của một cái mô đun thì mô đun của $z$ trừ $w$ mũ hai chúng ta có thể tính bằng cách là chúng ta lấy $z$ trừ $w$ nhân cho chính cái liên hợp của nó.
+
+81
+00:12:02,160 --> 00:12:06,640
+Đây là một công thức để tính mô đun bình phương, các em lưu ý công thức này.
+
+82
+00:12:06,640 --> 00:12:33,120
+Tới đây chúng ta tiếp tục khai triển $z$ trừ $\bar{w}$ sẽ bằng $\bar{z}$ trừ cho $\bar{w}$ nhân phân phối $z$ nhân $\bar{z}$ thì nó sẽ bằng mô đun $z$ bình phương thì đây chính là công thức thầy vừa nói, trừ $w$ nhân cho $\bar{w}$ thì thầy cũng sẽ được mô đun của $w$ bình phương, trừ lại cho $\bar{z}w$ và $z\bar{w}$.
+
+83
+00:12:35,320 --> 00:12:47,880
+Và chúng ta, chúng ta để ý giả thiết là chúng ta có mô đun $z$ bằng với mô đun $w$, do đó mô đun $z$ mũ hai cộng mô đun $w$ mũ hai thì sẽ đưa về là hai lần mô đun $z$ mũ hai.
+
+84
+00:12:47,880 --> 00:12:59,520
+Tiếp theo $z$ nhân $\bar{w}$ thì bản chất $\bar{w}$ chính là bằng $z$ chúng ta có ở đây, do đó $z$ nhân $\bar{w}$ chính là bằng $z$ mũ hai.
+
+85
+00:12:59,520 --> 00:13:08,720
+Tương tự $\bar{z}$ thì bằng $w$, do đó $\bar{z}w$ là bằng $w$ mũ hai, ta được cái phương trình sau.
+
+86
+00:13:08,720 --> 00:13:15,080
+Tiếp theo chúng ta sẽ giải quyết đến cái giả thiết là $z$ phần $w$ mũ hai là số thực.
+
+87
+00:13:15,080 --> 00:13:25,760
+Đến đây để giải quyết cái giả thiết này chúng ta sẽ có hai cách: Cách thứ nhất là chúng ta có thể đặt $z$ bằng $x$ cộng $yi$, từ đó chúng ta khai triển cái phép chia này ra.
+
+88
+00:13:25,760 --> 00:13:38,120
+Ngoài ra chúng ta có một cách giải quyết thứ hai và là cách giải quyết mà thường hay sử dụng đó chính là: nếu một số phức mà là số thực thì số phức đó sẽ bằng chính với số phức liên hợp của nó.
+
+89
+00:13:38,120 --> 00:13:57,240
+Hay nói cách khác $z$ phần $w$ mũ hai nó sẽ bằng với $z$ phần $w$ mũ hai liên hợp, và $z$ phần $w$ mũ hai liên hợp nó sẽ bằng $\bar{z}$ phần $\bar{w}$ tất cả mũ hai.
+
+90
+00:13:58,080 --> 00:14:13,920
+Đã biết $\bar{z}$ thì nó bằng $z$, $\bar{w}$ thì bằng $w$, do đó z phần w mũ hai ngay chỗ này thì nó sẽ bằng với lại w phần z mũ hai.
+
+91
+00:14:13,920 --> 00:14:18,960
+Đây chúng ta đang sử dụng cái giả thuyết này.
+
+92
+00:14:18,960 --> 00:14:25,760
+Từ đây chúng ta nhân chéo chúng ta sẽ được z mũ ba bằng với lại w mũ ba.
+
+93
+00:14:36,160 --> 00:14:49,160
+Rõ ràng chúng ta thấy z và Vk là hai số phức liên hợp, do đó (z - Vk) nó sẽ khác không.
+
+94
+00:14:49,160 --> 00:14:58,080
+(z - Vk) khác 0 là do chúng ta thấy là mô đun của (z - Vk) là = 2 căn 3 chứ không có = 0 do z khác w.
+
+95
+00:14:58,080 --> 00:15:05,960
+Cho nên bắt buộc là z mũ hai + zw + 2 phải = 0.
+
+96
+00:15:05,960 --> 00:15:12,240
+Lúc này chuyển vế chúng ta sẽ được z mũ hai + Vk mũ hai là = -zv.
+
+97
+00:15:13,200 --> 00:15:28,480
+Chúng ta chuyển vế ngay chỗ này và dĩ nhiên v k thì ở đây chúng ta thấy w chính là bằng z ngang, do đó chúng ta thay w bằng z ngang ngay chỗ này và chúng ta sẽ được là bằng -mô đun của z mũ hai.
+
+98
+00:15:28,480 --> 00:15:40,480
+Đến đây chúng ta sẽ thay cái điều này vào cái phương trình sau ở trên thì chúng ta sẽ được 3 lần mô đun của z mũ hai bằng 12.
+
+99
+00:15:42,440 --> 00:15:45,920
+Lúc này chúng ta tính được mô đun của z bằng 2.
+
+100
+00:15:45,920 --> 00:15:50,000
+Chúng ta chọn đáp án D.
+
+101
+00:15:50,000 --> 00:16:01,040
+Tóm lại thì cái ví dụ 4 này cũng là một ví dụ tương đối khó, thì qua ví dụ này các em cần nắm một số cái phương pháp mới để giải quyết các bài tập liên quan đến số phức.
+
+102
+00:16:01,040 --> 00:16:13,560
+Bây giờ sau khi giải quyết xong ví dụ thứ tư, chúng ta sẽ đến với một cái phần cũng thường xuyên xuất hiện trong các bài toán về số phức đó là ứng dụng hình học Oxy để giải quyết các bài toán về số phức.
+
+103
+00:16:13,560 --> 00:16:38,320
+Vậy thì bây giờ để có thể ứng dụng được hình học Oxy thì các em cần nhớ một số cái kiến thức sau đây: đầu tiên với một cái số phức z = a + bi, tương ứng là chúng ta sẽ được một cái điểm M có tọa độ là (a, b) trong mặt phẳng Oxy.
+
+104
+00:16:38,320 --> 00:16:52,960
+Tiếp theo, một cái số phức z = a + bi ngoài được biểu diễn bằng điểm M thì nó còn có thể được hiểu là vectơ OM tọa độ là (a, b).
+
+105
+00:16:52,960 --> 00:17:03,600
+Tiếp theo, mô đun |z| thì ý nghĩa hình học của nó chính là độ dài của đoạn OM với M là điểm biểu diễn của z.
+
+106
+00:17:03,600 --> 00:17:15,280
+Mô đun của |z - w| ý nghĩa hình học là độ dài của đoạn AB với A là điểm biểu diễn của z, B là điểm biểu diễn của w.
+
+107
+00:17:15,280 --> 00:17:31,120
+Tiếp theo, mô đun của |z - z1| = mô đun của |z - z2|, lúc này tập hợp điểm biểu diễn của z, hay nói cách khác là điểm biểu diễn của z, nó sẽ nằm trên đường trung trực của đoạn AB.
+
+108
+00:17:31,120 --> 00:17:59,680
+Kiểu mà chúng ta rất thường hay gặp đó chính là mô đun của |z - z0| = r thì lúc này các điểm biểu diễn của số phức z nó sẽ nằm trên đường tròn có tâm là điểm biểu diễn của z0 và bán kính là r.
+
+109
+00:17:59,680 --> 00:18:07,440
+Thì để giải quyết được một cái bài toán số phức mà chúng ta muốn dùng hình học thì chắc chắn là chúng ta phải nhớ cái sự chuyển đổi này.
+
+110
+00:18:07,440 --> 00:18:13,280
+Thì bây giờ thầy trò chúng ta sẽ cùng nhau làm một số ví dụ.
+
+111
+00:18:13,280 --> 00:18:25,320
+Thứ năm, trong mặt phẳng Oxy, cho hai điểm A và B là điểm biểu diễn của số phức z và số phức w, trong đó w là bằng 1 + iz.
+
+112
+00:18:27,680 --> 00:18:31,760
+Biết tam giác OAB có diện tích bằng 8.
+
+113
+00:18:31,760 --> 00:18:36,760
+Đề bài hỏi mô đun của số phức |w - z|.
+
+114
+00:18:36,760 --> 00:18:46,040
+Thì sau khi đọc đề chúng ta có thể thấy ngay là mô đun của |w - z|, ý nghĩa hình học của nó chính là độ dài của đoạn AB, đúng chưa?
+
+115
+00:18:46,040 --> 00:18:49,960
+Do B là điểm biểu diễn của w, còn A là điểm biểu diễn của z.
+
+116
+00:18:49,960 --> 00:18:52,880
+Bây giờ chúng ta sẽ đi tính độ dài đoạn AB.
+
+117
+00:18:54,040 --> 00:19:01,800
+Thì đầu tiên do A là điểm biểu diễn của z cho nên mô đun z ý nghĩa hình học của nó chính là độ dài đoạn OA.
+
+118
+00:19:04,240 --> 00:19:07,440
+Tiếp theo, mô đun của w chính là độ dài đoạn OB.
+
+119
+00:19:08,240 --> 00:19:20,640
+Mặt khác w bằng 1 + iz thì mô đun của 1 + i bằng căn 2, do đó OB chính là bằng căn 2 lần mô đun z.
+
+120
+00:19:20,640 --> 00:19:27,040
+Cuối cùng, mô đun của |w - z| chính là cái mà đề bài hỏi thì đó chính là độ dài của đoạn AB.
+
+121
+00:19:28,800 --> 00:19:45,120
+Ở đây chúng ta thay w bằng 1 + iz vào chúng ta sẽ được AB bằng mô đun của |iz|, mà mô đun của i là bằng 1 do đó AB nó cũng sẽ bằng mô đun z.
+
+122
+00:19:45,120 --> 00:19:51,960
+Vì sau khi thầy tính được OA, OB và AB thì thầy sẽ có cái hình minh họa như sau.
+
+123
+00:19:51,960 --> 00:20:02,720
+Thì sau khi nhìn cái hình này chúng ta có thể thấy ngay rằng OB bình phương bằng OA bình phương cộng AB bình phương theo định lý Pythagoras.
+
+124
+00:20:02,720 --> 00:20:11,040
+Mặt khác OA thì lại bằng với AB, do đó tam giác OAB là một tam giác vuông cân tại A.
+
+125
+00:20:11,040 --> 00:20:48,840
+Lúc này chúng ta sử dụng tiếp giả thiết tam giác OAB có diện tích bằng 8 thì diện tích tam giác OAB sẽ bằng một phần hai của OA nhân AB, trong đó OA thì chúng ta biết là bằng mô đun z, AB cũng bằng mô đun z, mô đun của v k trừ z cũng sẽ bằng 4.
+
+126
+00:20:48,840 --> 00:20:51,560
+Ta chọn đáp án C.
+
+127
+00:20:51,560 --> 00:20:59,760
+Thì đây là một cái ví dụ mà chúng ta chuyển một cái bài toán số phức qua một cái bài toán hình học.
+
+128
+00:20:59,760 --> 00:21:09,200
+Để có được thành công như hôm nay, tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình bắt đầu từ trường Đại học Quốc tế Sài Gòn.
+
+129
+00:21:09,200 --> 00:21:19,480
+Với đào tạo đa dạng đa lĩnh vực, SIU mở ra cho chúng tôi nhiều cơ hội lựa chọn, cơ hội lựa chọn nghề nghiệp trong tương lai.
+
+130
+00:21:19,480 --> 00:21:26,760
+Tất cả sinh viên đều có cơ hội để thể hiện và phát triển năng lực; Những ý tưởng luôn được khuyến khích và phát huy tối đa.
+
+131
+00:21:26,760 --> 00:21:32,880
+Chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin; Chúng tôi được học cách học, cách nghĩ và cách sống.
+
+132
+00:21:32,880 --> 00:21:39,960
+Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.
+
+133
+00:21:39,960 --> 00:21:50,560
+Hiện đại, năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc, đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn SIU luôn hướng đến.
+
+134
+00:21:50,560 --> 00:21:58,640
+Đã đến lúc vươn xa hơn những gì đã học.
+
+135
+00:21:58,640 --> 00:22:01,000
+Bây giờ chúng ta sẽ nâng độ khó lên một chút.
+
+136
+00:22:01,000 --> 00:22:05,840
+Chúng ta đến với ví dụ số 6.
+
+137
+00:22:05,840 --> 00:22:09,520
+Ví dụ số 6 có nội dung như sau: Cho hai số phức z1, z2.
+
+138
+00:22:12,320 --> 00:22:16,880
+Tập hợp S, tập hợp các z thỏa mãn là |z - (2 + 3i)| = 2.
+
+139
+00:22:20,000 --> 00:22:24,320
+Ngoài ra z1, z2 còn thỏa thêm điều kiện là z1 + z2 = 4 - 2i.
+
+140
+00:22:25,800 --> 00:22:28,120
+Yêu cầu tính A = |z1|^2 + |z2|^2.
+
+141
+00:22:33,760 --> 00:22:38,840
+Bây giờ thầy sẽ giải quyết bài toán này bằng cách chuyển qua một cái bài toán hình học.
+
+142
+00:22:38,840 --> 00:22:46,880
+Thì dĩ nhiên đầu tiên muốn chuyển qua được bài toán hình học thì thầy phải gọi được hai điểm M, N lần lượt là điểm biểu diễn của z1 và z2.
+
+143
+00:22:50,160 --> 00:23:03,600
+Bây giờ biểu thức cần tính A = mô đun của z1 mũ hai cộng mô đun của z2 mũ hai thì về ý nghĩa hình học nó chính là bằng độ dài của đoạn OM mũ hai cộng ON mũ hai.
+
+144
+00:23:03,600 --> 00:23:06,280
+Bây giờ chúng ta sẽ đi giải quyết từng giả thiết.
+
+145
+00:23:06,280 --> 00:23:24,280
+Đầu tiên chúng ta sẽ tìm coi là cái tập hợp S này thì các điểm mà thuộc tập S nó là đường diễn, nó là đường tập số z thỏa mãn là mô đun của yz trừ hai trừ ba y bằng hai.
+
+146
+00:23:24,280 --> 00:23:35,400
+Ở đây ta sẽ đặt y là nhân tử chung thì bên trong sẽ còn lại là z trừ ba cộng hai y, tất cả mô đun là bằng hai.
+
+147
+00:23:35,400 --> 00:23:44,760
+Và do mô đun của y là bằng một, do đó chúng ta sẽ có được là mô đun của z trừ ba cộng hai y là bằng hai.
+
+148
+00:23:44,760 --> 00:24:02,840
+Thì lúc nãy chúng ta đã có một cái tính chất là các số phức mà thỏa mãn đẳng thức này thì nó sẽ nằm trên cái đường tròn tâm y là 3-2i, bán kính là bằng hai, và do đó m nó cũng sẽ thuộc vô cái đường tròn này.
+
+149
+00:24:02,840 --> 00:24:13,280
+Thì lúc này thầy sẽ biểu diễn bằng hình vẽ, đây là cái đường tròn tâm I tọa độ là 3-2i, bán kính là bằng hai.
+
+150
+00:24:13,280 --> 00:24:18,040
+M, N sẽ chạy trên cái đường, cái đường tròn này.
+
+151
+00:24:18,040 --> 00:24:25,440
+Chúng ta giải quyết xong được cái giả thiết nhất, tiếp theo chúng ta sẽ giải quyết đến giả thiết này là z1 cộng z2 bằng 4 trừ 2i.
+
+152
+00:24:27,520 --> 00:24:38,200
+Thì như thầy vừa nói lúc nãy thì z1 ngoài việc chúng ta có thể hiểu là điểm M thì chúng ta có thể hiểu nó là vector OM.
+
+153
+00:24:39,680 --> 00:24:47,080
+Đó cái đẳng thức này tương đương z1 thầy hay là vector OM, vậy tương ứng z2 sẽ là vector ON.
+
+154
+00:24:47,080 --> 00:24:56,560
+Vector OM cộng vector ON sẽ bằng một cái vector có tọa độ là 4-2i, chính là vector biểu diễn số phức 4-2i.
+
+155
+00:24:59,200 --> 00:25:14,680
+Từ đây chúng ta cần phải nhớ đến một cái kiến thức liên quan đến lớp 10 phần vector, đó chính là gì: vector OM cộng vector ON thì nó sẽ bằng hai lần vector OE với E là trung điểm của MN.
+
+156
+00:25:16,000 --> 00:25:25,520
+Và do đó hai lần vector OE sẽ có tọa độ là 4-2i, do đó thầy tính được vector OE sẽ có tọa độ là 2-i.
+
+157
+00:25:26,120 --> 00:25:34,800
+Hay nói cách khác, điểm E sẽ có tọa độ là 2-i, chính là trung điểm của đoạn MN.
+
+158
+00:25:34,800 --> 00:25:43,760
+Vậy tóm lại cái giả thiết này sẽ cho chúng ta được tọa độ trung điểm của đoạn MN.
+
+159
+00:25:43,760 --> 00:25:53,280
+Thì bây giờ bằng tất cả những cái giả thiết mà chúng ta có, chúng ta sẽ đi cố gắng tính được OM bình cộng ON bình.
+
+160
+00:25:53,280 --> 00:26:03,960
+Bây giờ ta có điểm E tọa độ là 2-i, tâm I tọa độ là 3-2i thì chắc chắn chúng ta sẽ tính được độ dài của đoạn IE là bằng căn hai.
+
+161
+00:26:03,960 --> 00:26:11,440
+Bây giờ chúng ta sẽ có MN sẽ bằng hai lần độ dài của đoạn ME.
+
+162
+00:26:11,720 --> 00:26:35,320
+Chúng ta quan sát hình vẽ trong khi đoạn ME này chúng ta có thể tính được bằng định lý Py-ta-go là sẽ bằng trừ cho $y_E^2$, chúng ta vừa mới tính được và do đó chúng ta tính được ME là bằng $\sqrt{2}$, và do đó $MN = 2ME$ sẽ bằng $2\sqrt{2}$.
+
+163
+00:26:36,560 --> 00:26:42,400
+Vậy thì chúng ta đã có được độ dài của đoạn MN.
+
+164
+00:26:42,400 --> 00:27:00,240
+Bây giờ chúng ta sẽ xét trong cái tam giác OMN, chúng ta cần nhớ một cái công thức tính độ dài đường trung tuyến OE thì $OE^2$ sẽ bằng $(OM^2 + ON^2)/2$ tất cả trừ cho $MN^2/4$.
+
+165
+00:27:01,440 --> 00:27:04,560
+Đây là công thức tính độ dài đường trung tuyến đã học ở lớp 10.
+
+166
+00:27:04,560 --> 00:27:11,920
+Thì ở đây chúng ta sẽ thấy là có sự xuất hiện của $OM^2 + ON^2$, đây chính là thứ mà chúng ta cần tính.
+
+167
+00:27:11,920 --> 00:27:14,760
+MN chúng ta đã có rồi chính là bằng $2\sqrt{2}$.
+
+168
+00:27:15,520 --> 00:27:23,360
+Trong khi OE thì chắc chắn chúng ta sẽ tính được, OE thì nó sẽ bằng căn của $2^2 + (-1)^2$.
+
+169
+00:27:24,880 --> 00:27:31,440
+Chúng ta thay $MN = 2\sqrt{2}$, từ đây dễ dàng tính được $OM^2 + ON^2$ là bằng 14.
+
+170
+00:27:32,000 --> 00:27:39,440
+Do đó cái biểu thức A sẽ có giá trị là bằng 14, ta chọn đáp án B.
+
+171
+00:27:39,440 --> 00:27:54,120
+Thì qua ví dụ này chúng ta thấy từ một cái bài toán thuần về số phức thì chúng ta đã chuyển hoàn toàn về một cái bài toán hình học, thì đây là một cái lời giải rất đẹp và các em lưu ý bài toán này.
+
+172
+00:27:54,120 --> 00:27:59,440
+Cuối cùng là chúng ta đến với ví dụ số 7.
+
+173
+00:27:59,440 --> 00:28:06,720
+Ví dụ số 7 có nội dung như sau: Cho số phức $z, w$ thỏa mãn $|z| = 1, |w| = \sqrt{5}$.
+
+174
+00:28:10,320 --> 00:28:19,560
+Đề bài hỏi khi $|z - w| = 2$ thì $|3z - 2w|$ bằng bao nhiêu?
+
+175
+00:28:19,560 --> 00:28:26,400
+Thì bài này hoàn toàn chúng ta có thể giải bằng phương pháp đại số, tuy nhiên ở đây thầy sẽ giới thiệu cách làm bằng phương pháp hình học.
+
+176
+00:28:26,400 --> 00:28:35,080
+Thì dĩ nhiên đầu tiên chúng ta sẽ gọi A, B, C, D lần lượt là điểm biểu diễn của $z, w, 3z$ và $2w$.
+
+177
+00:28:38,880 --> 00:28:49,520
+Giờ $|z| = 1$ tức là độ dài của đoạn OA là bằng 1, $|w| = \sqrt{5}$ tức là $OB = \sqrt{5}$, $|z - w| = 2$.
+
+178
+00:28:49,520 --> 00:28:56,920
+$|z - w|$ chính là độ dài đoạn AB, tức là $AB = 2$.
+
+179
+00:28:56,920 --> 00:29:07,920
+Từ đây dễ thấy cái tam giác OAB này sẽ là một cái tam giác vuông tại A, tại A vì nó thỏa định lý Pythagoras.
+
+180
+00:29:07,920 --> 00:29:34,800
+Tiếp theo có các điểm O, A, B, C, D như hình bên.
+
+181
+00:29:34,800 --> 00:29:45,280
+Tam giác OAB là tam giác vuông, OC = 3 lần OA và OD = 2 lần OB, các em có thể quan sát.
+
+182
+00:29:45,280 --> 00:29:57,000
+Vậy thì bây giờ bài toán chuyển về một cái bài toán hình học yêu cầu tính mô đun của 3z trừ 2v, tức là tính độ dài của đoạn CD.
+
+183
+00:29:59,160 --> 00:30:10,560
+Thì bây giờ, để tính được CD thì hãy gọi H là hình chiếu của D lên OC, hay nói cách khác là DH vuông góc với OC.
+
+184
+00:30:10,560 --> 00:30:29,520
+Thì bây giờ hãy tính DH trước, thì chúng ta có thể thấy ngay B là trung điểm của OD, trong khi DH thì song song với AB, do đó cái AB này chính là đường trung bình của tam giác OD, và do đó DH sẽ = 2 lần của AB.
+
+185
+00:30:29,520 --> 00:30:35,120
+Mà AB = 2, cho nên DH = 4.
+
+186
+00:30:35,120 --> 00:30:44,000
+Tiếp theo thầy sẽ cố gắng tính HC, thì chúng ta sẽ thấy ngay HC chính là = OC mà trừ cho OH.
+
+187
+00:30:44,000 --> 00:30:51,720
+OC chúng ta đã có rồi là = 3, OH thì sẽ = 2 lần của OA = 2*1 = 2.
+
+188
+00:30:54,240 --> 00:30:56,640
+Từ đó tính được HC là = 1.
+
+189
+00:30:56,960 --> 00:31:14,440
+Thì sau khi có DH và HC, chúng ta có thể tính được độ dài đoạn CD bằng định lý Pythagoras: CD = căn của HD mũ hai cộng HC mũ hai, chính là = căn của 4 mũ hai cộng 1 mũ hai và = căn 17.
+
+190
+00:31:15,040 --> 00:31:18,360
+Chúng ta chọn đáp án A và kết thúc bài toán.
+
+191
+00:31:18,360 --> 00:31:24,160
+Thì trên đây là toàn bộ các ví dụ liên quan đến chủ đề số phức trong chuyên đề ngày hôm nay.
+
+192
+00:31:24,160 --> 00:31:26,840
+Hẹn gặp lại các em ở các chuyên đề tiếp theo.
+
+193
+00:31:26,840 --> 00:31:29,440
+Xin chào và hẹn gặp lại các em.

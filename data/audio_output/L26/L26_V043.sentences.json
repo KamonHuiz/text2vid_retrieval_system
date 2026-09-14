@@ -1,0 +1,737 @@
+{
+  "video_id": "L26_V043",
+  "fps": 25.0,
+  "n_sentences": 44,
+  "total_words": 946,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.48,
+      "end": 12.36,
+      "n_words": 4,
+      "start_frame": 262,
+      "end_frame": 309,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nước dùng có màu nâu nhạt, mùi thơm đặc trưng của các loại thảo mộc, vị ngọt thanh từ xương bò hầm với kỷ tử và đẳng sâm cùng thịt bò tái mềm.",
+      "start": 12.36,
+      "end": 21.24,
+      "n_words": 33,
+      "start_frame": 309,
+      "end_frame": 531,
+      "keyframes": [
+        "000348.webp",
+        "000396.webp",
+        "000411.webp",
+        "000471.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Nồi lẩu nóng hổi chuẩn bị.",
+      "start": 21.24,
+      "end": 23.32,
+      "n_words": 6,
+      "start_frame": 531,
+      "end_frame": 583,
+      "keyframes": [
+        "000532.webp",
+        "000533.webp",
+        "000580.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nhà hàng rất vui khi được gặp lại các bạn khán giả đang theo dõi chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành.",
+      "start": 23.32,
+      "end": 39.68,
+      "n_words": 25,
+      "start_frame": 583,
+      "end_frame": 992,
+      "keyframes": [
+        "000628.webp",
+        "000629.webp",
+        "000657.webp",
+        "000686.webp",
+        "000687.webp",
+        "000719.webp",
+        "000752.webp",
+        "000753.webp",
+        "000776.webp",
+        "000800.webp",
+        "000801.webp",
+        "000829.webp",
+        "000858.webp",
+        "000859.webp",
+        "000973.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Asino Việt Nam.",
+      "start": 39.68,
+      "end": 44.16,
+      "n_words": 11,
+      "start_frame": 992,
+      "end_frame": 1104,
+      "keyframes": [
+        "001088.webp",
+        "001089.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Anh Nghị ơi, thành phố của mình bữa giờ thời tiết sáng nắng chiều thì mưa, thế thì buổi tối ở nhà cùng nhau quây quần và nhâm nhi một cái món lẩu thì còn gì bằng đúng không nào?",
+      "start": 44.16,
+      "end": 56.08,
+      "n_words": 40,
+      "start_frame": 1104,
+      "end_frame": 1402,
+      "keyframes": [
+        "001128.webp",
+        "001137.webp",
+        "001168.webp",
+        "001169.webp",
+        "001292.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chuyện nhỏ!",
+      "start": 56.08,
+      "end": 56.64,
+      "n_words": 2,
+      "start_frame": 1402,
+      "end_frame": 1416,
+      "keyframes": [
+        "001416.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Hôm nay Quốc Nghị sẽ hướng dẫn Minh Phương cùng các bạn khán giả thực hiện món lẩu bò thảo mộc.",
+      "start": 56.64,
+      "end": 61.64,
+      "n_words": 21,
+      "start_frame": 1416,
+      "end_frame": 1541,
+      "keyframes": [
+        "001416.webp",
+        "001417.webp",
+        "001477.webp",
+        "001537.webp",
+        "001538.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và theo chuyên gia dinh dưỡng Tiến sĩ Đào Thị Yến Phi Á thì món ăn này giúp bổ máu nữa đó nha.",
+      "start": 61.64,
+      "end": 66.32,
+      "n_words": 23,
+      "start_frame": 1541,
+      "end_frame": 1658,
+      "keyframes": [
+        "001572.webp",
+        "001607.webp",
+        "001608.webp",
+        "001633.webp",
+        "001658.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Công đoạn đầu tiên chúng ta sẽ luộc chín nạm bò.",
+      "start": 66.32,
+      "end": 69.36,
+      "n_words": 11,
+      "start_frame": 1658,
+      "end_frame": 1734,
+      "keyframes": [
+        "001658.webp",
+        "001659.webp",
+        "001684.webp",
+        "001710.webp",
+        "001711.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Minh Phương muốn hỏi là tại sao món lẩu ngày hôm nay thì anh lại lựa phần nạm bò mà không phải là phần khác?",
+      "start": 69.36,
+      "end": 74.84,
+      "n_words": 25,
+      "start_frame": 1734,
+      "end_frame": 1871,
+      "keyframes": [
+        "001737.webp",
+        "001763.webp",
+        "001764.webp",
+        "001800.webp",
+        "001836.webp",
+        "001837.webp",
+        "001854.webp",
+        "001871.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Trong nạm bò nó sẽ chứa một lượng nhỏ mỡ bò và khi ăn nó sẽ thơm béo và giòn hơn.",
+      "start": 74.84,
+      "end": 80.24,
+      "n_words": 21,
+      "start_frame": 1871,
+      "end_frame": 2006,
+      "keyframes": [
+        "001871.webp",
+        "001872.webp",
+        "001939.webp",
+        "002006.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Các bạn chuẩn bị một nồi nước nè để luộc nạm bò và chúng ta sẽ cho gừng cắt lát vào nồi nước luộc nạm bò.",
+      "start": 80.24,
+      "end": 88.56,
+      "n_words": 26,
+      "start_frame": 2006,
+      "end_frame": 2214,
+      "keyframes": [
+        "002006.webp",
+        "002007.webp",
+        "002051.webp",
+        "002095.webp",
+        "002096.webp",
+        "002130.webp",
+        "002164.webp",
+        "002165.webp",
+        "002189.webp",
+        "002214.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Hành tím thì các bạn tách làm đôi cho vào nồi nước luộc luôn.",
+      "start": 88.56,
+      "end": 92.0,
+      "n_words": 14,
+      "start_frame": 2214,
+      "end_frame": 2300,
+      "keyframes": [
+        "002214.webp",
+        "002215.webp",
+        "002230.webp",
+        "002246.webp",
+        "002247.webp",
+        "002258.webp",
+        "002269.webp",
+        "002270.webp",
+        "002285.webp",
+        "002300.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Sả củ các bạn đập dập cắt khúc.",
+      "start": 92.0,
+      "end": 98.8,
+      "n_words": 8,
+      "start_frame": 2300,
+      "end_frame": 2470,
+      "keyframes": [
+        "002300.webp",
+        "002301.webp",
+        "002362.webp",
+        "002423.webp",
+        "002424.webp",
+        "002446.webp",
+        "002468.webp",
+        "002469.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Tiếp tục cho táo đỏ vào nồi nước luộc nạm bò.",
+      "start": 100.4,
+      "end": 103.08,
+      "n_words": 11,
+      "start_frame": 2510,
+      "end_frame": 2577,
+      "keyframes": [
+        "002514.webp",
+        "002515.webp",
+        "002545.webp",
+        "002576.webp",
+        "002577.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta nên luộc thịt nạm bò cùng với vài lát gừng nè, sả, hành tím để giúp món ăn thơm ngon hơn.",
+      "start": 103.08,
+      "end": 108.8,
+      "n_words": 23,
+      "start_frame": 2577,
+      "end_frame": 2720,
+      "keyframes": [
+        "002577.webp",
+        "002648.webp",
+        "002719.webp",
+        "002720.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Không biết là các bạn khán giả khi lựa chọn thịt nạm bò sẽ lựa chọn như thế nào?",
+      "start": 108.8,
+      "end": 113.12,
+      "n_words": 19,
+      "start_frame": 2720,
+      "end_frame": 2828,
+      "keyframes": [
+        "002720.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nhưng mà Minh Phương sẽ lựa chọn về màu sắc đầu tiên thịt phải có màu đỏ tươi nè, tươi nè.",
+      "start": 113.12,
+      "end": 117.84,
+      "n_words": 21,
+      "start_frame": 2828,
+      "end_frame": 2946,
+      "keyframes": [
+        "002873.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Kế đến đó là phần gân, phần thịt phải phân tầng rõ ràng và thịt thì cái thớ nó phải mịn và khi chúng ta nhấn nhẹ vào thì cảm nhận được cái độ săn.",
+      "start": 117.84,
+      "end": 125.6,
+      "n_words": 35,
+      "start_frame": 2946,
+      "end_frame": 3140,
+      "keyframes": [
+        "003026.webp",
+        "003027.webp",
+        "003083.webp",
+        "003139.webp",
+        "003140.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bò phi lê thì các bạn sẽ cắt lát mỏng và các bạn phải cắt ngược sớ nha, thịt bò nó sẽ mềm.",
+      "start": 125.6,
+      "end": 131.52,
+      "n_words": 23,
+      "start_frame": 3140,
+      "end_frame": 3288,
+      "keyframes": [
+        "003140.webp",
+        "003216.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Các bạn sẽ khứa chữ thập lên trên cái viên bò.",
+      "start": 131.52,
+      "end": 136.76,
+      "n_words": 11,
+      "start_frame": 3288,
+      "end_frame": 3419,
+      "keyframes": [
+        "003292.webp",
+        "003293.webp",
+        "003361.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cuối cùng là khoai môn, các bạn gọt vỏ cắt khối vuông.",
+      "start": 136.76,
+      "end": 144.08,
+      "n_words": 12,
+      "start_frame": 3419,
+      "end_frame": 3602,
+      "keyframes": [
+        "003429.webp",
+        "003430.webp",
+        "003472.webp",
+        "003514.webp",
+        "003515.webp",
+        "003558.webp",
+        "003601.webp",
+        "003602.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ chiên khoai môn để cho nó săn lại, khi nấu lẩu nó không có bị vỡ ra.",
+      "start": 144.08,
+      "end": 153.0,
+      "n_words": 22,
+      "start_frame": 3602,
+      "end_frame": 3825,
+      "keyframes": [
+        "003602.webp",
+        "003623.webp",
+        "003645.webp",
+        "003646.webp",
+        "003670.webp",
+        "003694.webp",
+        "003695.webp",
+        "003760.webp",
+        "003825.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Khoai đã vàng, chín mặt rồi đó, mình mau vớt ra giấy thấm dầu.",
+      "start": 153.0,
+      "end": 157.44,
+      "n_words": 14,
+      "start_frame": 3825,
+      "end_frame": 3936,
+      "keyframes": [
+        "003825.webp",
+        "003826.webp",
+        "003850.webp",
+        "003875.webp",
+        "003876.webp",
+        "003919.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Khi hầm nạm bò được 30 phút, nạm bò cũng vừa mềm tới, các bạn vớt ra nè ngâm qua một tô nước lạnh để cho nó săn lại rồi cắt lát mỏng để ăn kèm lẩu nha.",
+      "start": 157.76,
+      "end": 166.48,
+      "n_words": 38,
+      "start_frame": 3944,
+      "end_frame": 4162,
+      "keyframes": [
+        "003963.webp",
+        "003964.webp",
+        "004019.webp",
+        "004074.webp",
+        "004075.webp",
+        "004118.webp",
+        "004161.webp",
+        "004162.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Cái phần nước hầm nó có đẳng sâm, có gừng, có sả, có táo đỏ nên là rất là thơm khi nấu lẩu bò và những nguyên liệu này còn có tác dụng giúp hỗ trợ bổ máu nè, bổ máu nè, tạo hồng cầu và điều hòa khí huyết.",
+      "start": 166.48,
+      "end": 178.2,
+      "n_words": 50,
+      "start_frame": 4162,
+      "end_frame": 4455,
+      "keyframes": [
+        "004162.webp",
+        "004236.webp",
+        "004310.webp",
+        "004311.webp",
+        "004381.webp",
+        "004452.webp",
+        "004453.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Vì cái định lượng của gói gia vị nêm sẵn Aji-Quick lẩu bò nó sẽ tương thích với một lít rưỡi nước nên là các bạn châm thêm nước lọc để vừa đủ một lít rưỡi nha.",
+      "start": 178.2,
+      "end": 187.12,
+      "n_words": 37,
+      "start_frame": 4455,
+      "end_frame": 4678,
+      "keyframes": [
+        "004476.webp",
+        "004500.webp",
+        "004501.webp",
+        "004537.webp",
+        "004574.webp",
+        "004575.webp",
+        "004622.webp",
+        "004670.webp",
+        "004671.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Chúng ta sẽ nêm vào đây một gói gia vị nêm sẵn Aji-Quick lẩu bò này. Này.",
+      "start": 187.12,
+      "end": 192.04,
+      "n_words": 17,
+      "start_frame": 4678,
+      "end_frame": 4801,
+      "keyframes": [
+        "004717.webp",
+        "004763.webp",
+        "004764.webp",
+        "004788.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng ta nên dùng gói gia vị nêm sẵn Ajinomoto lẩu bò để giúp tiết kiệm thời gian nấu và món ăn nó sẽ thơm ngon hơn đó.",
+      "start": 192.04,
+      "end": 198.68,
+      "n_words": 28,
+      "start_frame": 4801,
+      "end_frame": 4967,
+      "keyframes": [
+        "004813.webp",
+        "004814.webp",
+        "004889.webp",
+        "004964.webp",
+        "004965.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thêm cho kỷ tử và khoai môn chiên.",
+      "start": 198.68,
+      "end": 203.52,
+      "n_words": 8,
+      "start_frame": 4967,
+      "end_frame": 5088,
+      "keyframes": [
+        "004987.webp",
+        "005010.webp",
+        "005011.webp",
+        "005052.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng ta chờ cho nước lẩu bò sôi thì trong thời gian chờ đợi chúng ta sẽ cắt mỏng lát nạm bò.",
+      "start": 203.52,
+      "end": 209.68,
+      "n_words": 22,
+      "start_frame": 5088,
+      "end_frame": 5242,
+      "keyframes": [
+        "005094.webp",
+        "005095.webp",
+        "005146.webp",
+        "005198.webp",
+        "005199.webp",
+        "005209.webp",
+        "005219.webp",
+        "005220.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Cái phần gân nè, cái phần thịt nè phân tầng và trông rất là đẹp mắt.",
+      "start": 209.68,
+      "end": 214.92,
+      "n_words": 16,
+      "start_frame": 5242,
+      "end_frame": 5373,
+      "keyframes": [
+        "005296.webp",
+        "005373.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và Minh Phương cũng không ngờ là món lẩu bò thảo mộc lại được nấu nhanh gọn lẹ đến như vậy.",
+      "start": 214.92,
+      "end": 219.68,
+      "n_words": 21,
+      "start_frame": 5373,
+      "end_frame": 5492,
+      "keyframes": [
+        "005373.webp",
+        "005374.webp",
+        "005405.webp",
+        "005436.webp",
+        "005437.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Các bạn có thể dùng điện thoại của mình để quét mã QR đang hiển thị trên màn hình lưu lại công thức của món lẩu ngày hôm nay nhé.",
+      "start": 219.68,
+      "end": 227.4,
+      "n_words": 30,
+      "start_frame": 5492,
+      "end_frame": 5685,
+      "keyframes": [
+        "005538.webp",
+        "005639.webp",
+        "005640.webp",
+        "005664.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ Quốc Nghị sẽ cho nước lẩu bò ra nồi lẩu để thưởng thức.",
+      "start": 227.4,
+      "end": 230.76,
+      "n_words": 15,
+      "start_frame": 5685,
+      "end_frame": 5769,
+      "keyframes": [
+        "005689.webp",
+        "005690.webp",
+        "005725.webp",
+        "005760.webp",
+        "005761.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nước trong có màu rất là đẹp luôn đó Minh Phương.",
+      "start": 230.76,
+      "end": 233.04,
+      "n_words": 11,
+      "start_frame": 5769,
+      "end_frame": 5826,
+      "keyframes": [
+        "005809.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Anh Nghị múc đến đâu là cái hương thơm nó ngào ngạt trong cái gian bếp của mình.",
+      "start": 234.32,
+      "end": 241.04,
+      "n_words": 18,
+      "start_frame": 5858,
+      "end_frame": 6026,
+      "keyframes": [
+        "005858.webp",
+        "005859.webp",
+        "005908.webp",
+        "005958.webp",
+        "005959.webp",
+        "005979.webp",
+        "005999.webp",
+        "006000.webp",
+        "006018.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Bò viên cho ăn nước lẩu vào nè, như vậy là món lẩu bò thảo mộc đã xong trong tích tắc thôi.",
+      "start": 241.04,
+      "end": 248.24,
+      "n_words": 22,
+      "start_frame": 6026,
+      "end_frame": 6206,
+      "keyframes": [
+        "006036.webp",
+        "006037.webp",
+        "006057.webp",
+        "006078.webp",
+        "006079.webp",
+        "006085.webp",
+        "006091.webp",
+        "006092.webp",
+        "006130.webp",
+        "006168.webp",
+        "006169.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Và bây giờ Quốc Nghị sẽ mời Minh Phương thưởng thức và cho cái cảm nhận nha.",
+      "start": 248.24,
+      "end": 252.48,
+      "n_words": 17,
+      "start_frame": 6206,
+      "end_frame": 6312,
+      "keyframes": [
+        "006211.webp",
+        "006254.webp",
+        "006255.webp",
+        "006304.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Dạ anh Nghị ơi, điểm nhấn đầu tiên là cái phần nước lẩu rất là thơm mùi thảo mộc nè, vị đậm đà và cái phần nạm bò Ấn Độ nha mềm nè và một chút dai dai sần sật nhẹ của cái phần gân.",
+      "start": 252.48,
+      "end": 274.24,
+      "n_words": 45,
+      "start_frame": 6312,
+      "end_frame": 6856,
+      "keyframes": [
+        "006354.webp",
+        "006355.webp",
+        "006431.webp",
+        "006508.webp",
+        "006509.webp",
+        "006538.webp",
+        "006567.webp",
+        "006568.webp",
+        "006606.webp",
+        "006644.webp",
+        "006645.webp",
+        "006682.webp",
+        "006719.webp",
+        "006720.webp",
+        "006761.webp",
+        "006803.webp",
+        "006804.webp",
+        "006847.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Và để đạt được hiệu quả dinh dưỡng thì các bạn có thể tham khảo món ăn này cùng với bản thực đơn một ngày sau đây các bạn nhé.",
+      "start": 274.24,
+      "end": 284.0,
+      "n_words": 30,
+      "start_frame": 6856,
+      "end_frame": 7100,
+      "keyframes": [
+        "006891.webp",
+        "006892.webp",
+        "006935.webp",
+        "006979.webp",
+        "006980.webp",
+        "007042.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Vào những ngày trời mưa lành lạnh mà có một nồi lẩu bò thảo mộc nóng hổi như thế này thì còn gì bằng. Làm thử ngay các bạn nhé.",
+      "start": 284.0,
+      "end": 291.0,
+      "n_words": 30,
+      "start_frame": 7100,
+      "end_frame": 7275,
+      "keyframes": [
+        "007104.webp",
+        "007105.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và để xem thêm thông tin của món ăn thì các bạn cũng có thể truy cập vào kênh YouTube, website và fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 291.64,
+      "end": 299.32,
+      "n_words": 30,
+      "start_frame": 7291,
+      "end_frame": 7483,
+      "keyframes": [
+        "007460.webp",
+        "007461.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

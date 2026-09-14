@@ -1,0 +1,837 @@
+{
+  "video_id": "L26_V197",
+  "fps": 25.0,
+  "n_sentences": 45,
+  "total_words": 951,
+  "sentences": [
+    {
+      "text": "Chào món ngon mỗi ngày.",
+      "start": 0.04,
+      "end": 12.0,
+      "n_words": 5,
+      "start_frame": 1,
+      "end_frame": 300,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000087.webp",
+        "000089.webp",
+        "000092.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000130.webp",
+        "000147.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 39
+    },
+    {
+      "text": "Bao tử khìa nước xá xị dai dai, thấm vị, ăn đã thèm.",
+      "start": 12.0,
+      "end": 29.8,
+      "n_words": 13,
+      "start_frame": 300,
+      "end_frame": 745,
+      "keyframes": [
+        "000300.webp",
+        "000352.webp",
+        "000404.webp",
+        "000405.webp",
+        "000450.webp",
+        "000496.webp",
+        "000511.webp",
+        "000554.webp",
+        "000597.webp",
+        "000598.webp",
+        "000688.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Chào mừng các bạn đang đến với chương trình Món Ngon Mỗi Ngày - nấu chuẩn ăn lành.",
+      "start": 29.8,
+      "end": 35.88,
+      "n_words": 18,
+      "start_frame": 745,
+      "end_frame": 897,
+      "keyframes": [
+        "000778.webp",
+        "000779.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 35.88,
+      "end": 40.08,
+      "n_words": 11,
+      "start_frame": 897,
+      "end_frame": 1002,
+      "keyframes": [
+        "000954.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và ngày hôm nay, chúng ta có món bao tử khìa nước xá xị, nghe tên thôi là đã thấy hấp dẫn rồi đúng không ạ?",
+      "start": 40.08,
+      "end": 46.84,
+      "n_words": 26,
+      "start_frame": 1002,
+      "end_frame": 1171,
+      "keyframes": [
+        "001129.webp",
+        "001130.webp",
+        "001150.webp",
+        "001170.webp",
+        "001171.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và Kim Thảo được biết thì bao tử là có tính ấm, bổ tỳ vị cũng như là bổ khí huyết, giảm mệt mỏi, cho nên là các bạn hãy theo dõi thật kỹ đầu bếp Thu Hà hướng dẫn ngày hôm nay nha.",
+      "start": 46.84,
+      "end": 58.08,
+      "n_words": 44,
+      "start_frame": 1171,
+      "end_frame": 1452,
+      "keyframes": [
+        "001171.webp",
+        "001187.webp",
+        "001204.webp",
+        "001205.webp",
+        "001236.webp",
+        "001268.webp",
+        "001269.webp",
+        "001356.webp",
+        "001444.webp",
+        "001445.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Và đây là bao tử chúng ta sẽ chọn.",
+      "start": 58.08,
+      "end": 59.24,
+      "n_words": 9,
+      "start_frame": 1452,
+      "end_frame": 1481,
+      "keyframes": [
+        "001461.webp",
+        "001478.webp",
+        "001479.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta sẽ chọn bao tử dày, trắng tươi là phù hợp nhất và giúp món ăn ngon hơn.",
+      "start": 59.24,
+      "end": 64.24,
+      "n_words": 19,
+      "start_frame": 1481,
+      "end_frame": 1606,
+      "keyframes": [
+        "001504.webp",
+        "001530.webp",
+        "001531.webp",
+        "001567.webp",
+        "001604.webp",
+        "001605.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Mua về sẽ ngâm rửa sơ qua với lại nước muối, sau đó mình dùng phèn chua mình sẽ chà xát cho kỹ cho sạch, rồi sau đó mình rửa lại để ráo.",
+      "start": 64.24,
+      "end": 72.76,
+      "n_words": 33,
+      "start_frame": 1606,
+      "end_frame": 1819,
+      "keyframes": [
+        "001643.webp",
+        "001681.webp",
+        "001682.webp",
+        "001742.webp",
+        "001803.webp",
+        "001804.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta sẽ cắt bao tử làm bốn miếng, sẽ ướp vào bao tử nửa muỗng cà phê bột ngũ vị hương, nửa muỗng cà phê muối, hai muỗng cà phê bột ngọt Ajinomoto, hai muỗng canh nước hành tỏi, một muỗng canh màu dầu điều, nửa muỗng canh dầu hào và hai muỗng canh nước tương Phú Sĩ.",
+      "start": 72.76,
+      "end": 96.8,
+      "n_words": 59,
+      "start_frame": 1819,
+      "end_frame": 2420,
+      "keyframes": [
+        "001835.webp",
+        "001866.webp",
+        "001867.webp",
+        "001882.webp",
+        "001897.webp",
+        "001898.webp",
+        "001922.webp",
+        "001947.webp",
+        "001948.webp",
+        "001970.webp",
+        "001992.webp",
+        "001993.webp",
+        "002022.webp",
+        "002051.webp",
+        "002052.webp",
+        "002070.webp",
+        "002088.webp",
+        "002089.webp",
+        "002118.webp",
+        "002147.webp",
+        "002148.webp",
+        "002168.webp",
+        "002188.webp",
+        "002189.webp",
+        "002205.webp",
+        "002222.webp",
+        "002223.webp",
+        "002238.webp",
+        "002253.webp",
+        "002254.webp",
+        "002278.webp",
+        "002303.webp",
+        "002304.webp",
+        "002334.webp",
+        "002365.webp",
+        "002366.webp",
+        "002395.webp"
+      ],
+      "keyframe_count": 37
+    },
+    {
+      "text": "Sau đó thì chúng ta sẽ trộn đều và để khoảng chừng 30 phút cho bao tử thấm gia vị.",
+      "start": 96.8,
+      "end": 101.92,
+      "n_words": 20,
+      "start_frame": 2420,
+      "end_frame": 2548,
+      "keyframes": [
+        "002425.webp",
+        "002426.webp",
+        "002487.webp",
+        "002548.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Rồi bây giờ cô chuẩn bị cho Kim Thảo giúp cô.",
+      "start": 101.92,
+      "end": 104.76,
+      "n_words": 11,
+      "start_frame": 2548,
+      "end_frame": 2619,
+      "keyframes": [
+        "002548.webp",
+        "002549.webp",
+        "002588.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi đó, phần sả thì em sẽ đập dập các khúc khoảng chừng 5 phân, còn hành lá thì mình sẽ cắt cái đầu hành cũng dài 5 phân, phần lá thì cắt nhỏ.",
+      "start": 104.76,
+      "end": 119.76,
+      "n_words": 34,
+      "start_frame": 2619,
+      "end_frame": 2994,
+      "keyframes": [
+        "002628.webp",
+        "002629.webp",
+        "002647.webp",
+        "002666.webp",
+        "002667.webp",
+        "002682.webp",
+        "002698.webp",
+        "002699.webp",
+        "002714.webp",
+        "002729.webp",
+        "002730.webp",
+        "002743.webp",
+        "002757.webp",
+        "002758.webp",
+        "002775.webp",
+        "002793.webp",
+        "002794.webp",
+        "002814.webp",
+        "002835.webp",
+        "002836.webp",
+        "002855.webp",
+        "002874.webp",
+        "002875.webp",
+        "002922.webp",
+        "002970.webp",
+        "002971.webp",
+        "002990.webp"
+      ],
+      "keyframe_count": 27
+    },
+    {
+      "text": "Bắt đầu khìa bao tử nha.",
+      "start": 119.76,
+      "end": 122.84,
+      "n_words": 6,
+      "start_frame": 2994,
+      "end_frame": 3071,
+      "keyframes": [
+        "003010.webp",
+        "003011.webp",
+        "003025.webp",
+        "003039.webp",
+        "003040.webp",
+        "003055.webp",
+        "003070.webp",
+        "003071.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Cho vào đây khoảng chừng năm muỗng canh dầu, phần hành lá cắt nhỏ bây giờ mình sẽ cho vào đây một chút xíu bột ngọt Ajinomoto, mình trộn đều lên.",
+      "start": 122.84,
+      "end": 130.08,
+      "n_words": 31,
+      "start_frame": 3071,
+      "end_frame": 3252,
+      "keyframes": [
+        "003071.webp",
+        "003094.webp",
+        "003117.webp",
+        "003118.webp",
+        "003134.webp",
+        "003151.webp",
+        "003152.webp",
+        "003172.webp",
+        "003193.webp",
+        "003194.webp",
+        "003206.webp",
+        "003219.webp",
+        "003220.webp",
+        "003239.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Mình sẽ múc dầu nóng này nè, mình đổ lên trên phần hành lá này, mình chừa lại trong chảo này khoảng chừng hai muỗng canh dầu.",
+      "start": 130.08,
+      "end": 137.28,
+      "n_words": 27,
+      "start_frame": 3252,
+      "end_frame": 3432,
+      "keyframes": [
+        "003259.webp",
+        "003260.webp",
+        "003281.webp",
+        "003303.webp",
+        "003304.webp",
+        "003335.webp",
+        "003366.webp",
+        "003367.webp",
+        "003398.webp",
+        "003429.webp",
+        "003430.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Chúng ta sẽ cho sả cắt khúc đập dập vào phi lên cho thơm.",
+      "start": 137.28,
+      "end": 143.44,
+      "n_words": 14,
+      "start_frame": 3432,
+      "end_frame": 3586,
+      "keyframes": [
+        "003466.webp",
+        "003502.webp",
+        "003503.webp",
+        "003547.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Tiếp theo thì mình sẽ cho cái phần bao tử đã ướp vào, mình chỉ cho phần bao tử thôi, nước ướp này mình chưa cho vô lúc này nha.",
+      "start": 143.44,
+      "end": 150.72,
+      "n_words": 30,
+      "start_frame": 3586,
+      "end_frame": 3768,
+      "keyframes": [
+        "003591.webp",
+        "003592.webp",
+        "003630.webp",
+        "003669.webp",
+        "003670.webp",
+        "003692.webp",
+        "003715.webp",
+        "003716.webp",
+        "003742.webp",
+        "003768.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Mình sẽ áp chảo cái phần bao tử này.",
+      "start": 150.72,
+      "end": 153.04,
+      "n_words": 9,
+      "start_frame": 3768,
+      "end_frame": 3826,
+      "keyframes": [
+        "003768.webp",
+        "003769.webp",
+        "003798.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Gian bếp của Món Ngon Mỗi Ngày là có một cái mùi thơm quyến rũ rồi đó cô.",
+      "start": 153.04,
+      "end": 158.64,
+      "n_words": 18,
+      "start_frame": 3826,
+      "end_frame": 3966,
+      "keyframes": [
+        "003827.webp",
+        "003828.webp",
+        "003863.webp",
+        "003898.webp",
+        "003899.webp",
+        "003932.webp",
+        "003966.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Chúng ta sẽ khìa cho đến khi cái miếng bao tử nó sẽ săn lại và cái phần nước này nó cạn dần rồi nè.",
+      "start": 158.64,
+      "end": 165.76,
+      "n_words": 25,
+      "start_frame": 3966,
+      "end_frame": 4144,
+      "keyframes": [
+        "003966.webp",
+        "003967.webp",
+        "004054.webp",
+        "004141.webp",
+        "004142.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ thì mình sẽ cho vào đây cái phần xác hành tỏi mà nãy mình đã chắt lấy nước, rồi thì cái phần xác hành tỏi này nó sẽ tạo được cái mùi thơm.",
+      "start": 165.76,
+      "end": 173.44,
+      "n_words": 35,
+      "start_frame": 4144,
+      "end_frame": 4336,
+      "keyframes": [
+        "004200.webp",
+        "004258.webp",
+        "004259.webp",
+        "004298.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Mình cho cái phần nước vào đây luôn.",
+      "start": 173.44,
+      "end": 175.28,
+      "n_words": 8,
+      "start_frame": 4336,
+      "end_frame": 4382,
+      "keyframes": [
+        "004337.webp",
+        "004338.webp",
+        "004367.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Dạ dạ, em cảm thấy là rất là thơm rồi đúng chưa.",
+      "start": 175.28,
+      "end": 178.28,
+      "n_words": 12,
+      "start_frame": 4382,
+      "end_frame": 4457,
+      "keyframes": [
+        "004396.webp",
+        "004397.webp",
+        "004428.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và tiếp tục mình sẽ cho khoảng chừng một chén nước xá xị vô đây.",
+      "start": 178.28,
+      "end": 181.44,
+      "n_words": 15,
+      "start_frame": 4457,
+      "end_frame": 4536,
+      "keyframes": [
+        "004459.webp",
+        "004460.webp",
+        "004500.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Như vậy là với nước xá xị thì chúng ta đã có cái độ ngọt sẵn rồi, thành ra là khi mà ướp bao tử thì cô Hà không có sử dụng đường nữa.",
+      "start": 181.44,
+      "end": 189.08,
+      "n_words": 34,
+      "start_frame": 4536,
+      "end_frame": 4727,
+      "keyframes": [
+        "004540.webp",
+        "004541.webp",
+        "004578.webp",
+        "004616.webp",
+        "004617.webp",
+        "004649.webp",
+        "004681.webp",
+        "004682.webp",
+        "004704.webp",
+        "004727.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Mình cho thêm một nửa chén nước để quá trình mà mình nấu bao tử nó sẽ được mềm.",
+      "start": 189.08,
+      "end": 193.44,
+      "n_words": 19,
+      "start_frame": 4727,
+      "end_frame": 4836,
+      "keyframes": [
+        "004727.webp",
+        "004728.webp",
+        "004780.webp",
+        "004833.webp",
+        "004834.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ em đậy nắp giúp cô.",
+      "start": 193.44,
+      "end": 194.88,
+      "n_words": 7,
+      "start_frame": 4836,
+      "end_frame": 4872,
+      "keyframes": [
+        "004852.webp",
+        "004870.webp",
+        "004871.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn lưu ý là sau khi đậy vung, chúng ta sẽ om bao tử dưới lửa riu riu giúp bao tử mềm và thấm vị nhé.",
+      "start": 194.88,
+      "end": 201.92,
+      "n_words": 27,
+      "start_frame": 4872,
+      "end_frame": 5048,
+      "keyframes": [
+        "004904.webp",
+        "004937.webp",
+        "004938.webp",
+        "004991.webp",
+        "005045.webp",
+        "005046.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi bây giờ phần nước sánh rồi đó.",
+      "start": 201.92,
+      "end": 203.4,
+      "n_words": 8,
+      "start_frame": 5048,
+      "end_frame": 5085,
+      "keyframes": [
+        "005077.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Kim Thảo em mở nắp giúp cô đi.",
+      "start": 203.4,
+      "end": 205.08,
+      "n_words": 8,
+      "start_frame": 5085,
+      "end_frame": 5127,
+      "keyframes": [
+        "005108.webp",
+        "005109.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đó rồi, mình sẽ cho phần đầu hành lá này vào đây, đảo đều thôi xong rồi.",
+      "start": 205.08,
+      "end": 210.16,
+      "n_words": 17,
+      "start_frame": 5127,
+      "end_frame": 5254,
+      "keyframes": [
+        "005175.webp",
+        "005242.webp",
+        "005243.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nó hấp dẫn rồi, tắt lửa đi em. Được rồi đó.",
+      "start": 210.16,
+      "end": 212.92,
+      "n_words": 11,
+      "start_frame": 5254,
+      "end_frame": 5323,
+      "keyframes": [
+        "005291.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Dạ, và bây giờ thì chúng ta sẽ gắp cái phần bao tử ra.",
+      "start": 212.92,
+      "end": 216.24,
+      "n_words": 14,
+      "start_frame": 5323,
+      "end_frame": 5406,
+      "keyframes": [
+        "005339.webp",
+        "005340.webp",
+        "005372.webp",
+        "005405.webp",
+        "005406.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Các bạn lưu ý là chúng ta sẽ để bao tử nguội rồi mới cắt lát để giữ lại nước ngọt ở trong bao tử nha.",
+      "start": 216.24,
+      "end": 222.12,
+      "n_words": 26,
+      "start_frame": 5406,
+      "end_frame": 5553,
+      "keyframes": [
+        "005406.webp",
+        "005477.webp",
+        "005548.webp",
+        "005549.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Các bạn có thể quét mã QR trên màn hình của chúng tôi để có thể là mình làm đúng công thức nấu chuẩn và ăn ngon lành nhất.",
+      "start": 222.12,
+      "end": 232.76,
+      "n_words": 29,
+      "start_frame": 5553,
+      "end_frame": 5819,
+      "keyframes": [
+        "005661.webp",
+        "005773.webp",
+        "005774.webp",
+        "005798.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Sẽ cắt lát để trình bày nha.",
+      "start": 233.2,
+      "end": 235.04,
+      "n_words": 7,
+      "start_frame": 5830,
+      "end_frame": 5876,
+      "keyframes": [
+        "005849.webp",
+        "005874.webp",
+        "005875.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Khi cắt mình sẽ nghiêng con dao như thế này thì mình sẽ có cái miếng bao tử có bản to nha.",
+      "start": 235.04,
+      "end": 250.24,
+      "n_words": 22,
+      "start_frame": 5876,
+      "end_frame": 6256,
+      "keyframes": [
+        "005949.webp",
+        "006023.webp",
+        "006024.webp",
+        "006059.webp",
+        "006094.webp",
+        "006095.webp",
+        "006128.webp",
+        "006162.webp",
+        "006163.webp",
+        "006200.webp",
+        "006237.webp",
+        "006238.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Nước sốt có màu vàng nâu sáng và sánh đặc như thế này thì bánh mì ăn sẽ rất là ngon.",
+      "start": 250.24,
+      "end": 255.8,
+      "n_words": 21,
+      "start_frame": 6256,
+      "end_frame": 6395,
+      "keyframes": [
+        "006275.webp",
+        "006313.webp",
+        "006314.webp",
+        "006357.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đây, rưới lên đây một ít mỡ hành á nãy mình làm, và để cho món ăn đẹp thì mình sẽ cho cái đầu hành.",
+      "start": 255.8,
+      "end": 263.48,
+      "n_words": 25,
+      "start_frame": 6395,
+      "end_frame": 6587,
+      "keyframes": [
+        "006401.webp",
+        "006402.webp",
+        "006435.webp",
+        "006469.webp",
+        "006470.webp",
+        "006509.webp",
+        "006548.webp",
+        "006549.webp",
+        "006570.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Món ăn này thì chúng ta sẽ ăn kèm với lại bánh mì nè, dưa leo, cà chua, rau và với lại nước tương có một ít ớt cắt lát và tương ớt.",
+      "start": 263.48,
+      "end": 272.32,
+      "n_words": 33,
+      "start_frame": 6587,
+      "end_frame": 6808,
+      "keyframes": [
+        "006592.webp",
+        "006593.webp",
+        "006623.webp",
+        "006653.webp",
+        "006668.webp",
+        "006701.webp",
+        "006734.webp",
+        "006735.webp",
+        "006769.webp",
+        "006803.webp",
+        "006804.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Một món ngon ăn với bánh mì để đổi vị và cả nhà chắc chắn sẽ rất là thích điều này.",
+      "start": 272.32,
+      "end": 279.0,
+      "n_words": 21,
+      "start_frame": 6808,
+      "end_frame": 6975,
+      "keyframes": [
+        "006839.webp",
+        "006874.webp",
+        "006875.webp",
+        "006921.webp",
+        "006968.webp",
+        "006969.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bao tử khìa thơm mùi ngũ vị hương và nước tương, miếng bao tử cắt mỏng giòn giòn dai dai, vị mặn ngọt đậm đà, càng nhai càng ngon.",
+      "start": 279.0,
+      "end": 288.92,
+      "n_words": 29,
+      "start_frame": 6975,
+      "end_frame": 7223,
+      "keyframes": [
+        "007006.webp",
+        "007043.webp",
+        "007058.webp",
+        "007091.webp",
+        "007124.webp",
+        "007125.webp",
+        "007174.webp",
+        "007223.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Bao tử khìa nước xá xị, món ăn đơn giản dễ làm, làm rồi là sẽ mê. Các bạn hãy thử làm ngay nhé.",
+      "start": 288.92,
+      "end": 295.96,
+      "n_words": 24,
+      "start_frame": 7223,
+      "end_frame": 7399,
+      "keyframes": [
+        "007223.webp",
+        "007224.webp",
+        "007313.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và để xem lại công thức của món ăn ngày hôm nay và nhiều những món ăn hấp dẫn khác nữa, các bạn hãy truy cập vào YouTube, website, fanpage của chương trình Món Ngon Mỗi Ngày.",
+      "start": 295.96,
+      "end": 306.16,
+      "n_words": 37,
+      "start_frame": 7399,
+      "end_frame": 7654,
+      "keyframes": [
+        "007402.webp",
+        "007403.webp",
+        "007517.webp",
+        "007631.webp",
+        "007632.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

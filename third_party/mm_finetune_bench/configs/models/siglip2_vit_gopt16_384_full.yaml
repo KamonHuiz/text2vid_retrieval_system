@@ -1,0 +1,29 @@
+# ViT-gopt-16-SigLIP2-384 -- Google SigLIP2 (giant-opt vision tower, patch16,
+# 384px). Round-3 variant: TRUE full-parameter fine-tune (adaptation: full
+# unfreezes every parameter -- the LoRA config on the base yaml is unused
+# here). Copied from siglip2_vit_gopt16_384.yaml.
+
+name: siglip2_ft3
+wrapper: siglip2
+backend: transformers
+transformers:
+  model_id: "google/siglip2-giant-opt-patch16-384"
+  trust_remote_code: false
+
+embed_dim: 1536
+image_size: 384
+max_text_length: 64
+
+adaptation: full
+quantization: null
+
+loss:
+  type: siglip
+  learnable_logit_scale: true
+  learnable_logit_bias: true
+
+differential_lr_groups:
+  vision_encoder: "vision_model.*"
+  text_encoder: "text_model.*"
+  projection: ".*head.*"
+  logit_scale: "(logit_scale|logit_bias)"

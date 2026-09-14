@@ -1,0 +1,28 @@
+# BAAI/BGE-VL-large -- CLIP ViT-L/14 retriever (MegaPairs). Round-4 variant:
+# TRUE full-parameter fine-tune (adaptation: full unfreezes every parameter;
+# the LoRA section on the base yaml is unused here). Copied from
+# bge_vl_large.yaml.
+
+name: bge_vl_large_ft4
+wrapper: bge_vl
+backend: transformers
+transformers:
+  model_id: "BAAI/BGE-VL-large"
+  trust_remote_code: false
+
+embed_dim: 768
+image_size: 224
+max_text_length: 77
+
+adaptation: full
+quantization: null
+
+loss:
+  type: infonce
+  learnable_logit_scale: true
+
+differential_lr_groups:
+  vision_encoder: "vision_model.*"
+  text_encoder: "text_model.*"
+  projection: "(visual_projection|text_projection)"
+  logit_scale: "logit_scale"

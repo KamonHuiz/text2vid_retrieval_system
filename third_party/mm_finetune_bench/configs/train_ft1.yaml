@@ -1,0 +1,40 @@
+# Fine-tune round 1: a 1-epoch probe on the filtered subset
+# (data/splits/finetune_train.jsonl: every-other keyframe per video, first 50
+# keyframes of each L26 video dropped). One model per GPU.
+
+seed: 42
+
+epochs: 1
+per_device_batch_size: 128          # overridden per model at launch (--set per_device_batch_size=N)
+grad_accum_steps: 1                 # accumulation adds no contrastive negatives, only step size
+max_grad_norm: 1.0
+weight_decay: 0.05
+warmup_ratio: 0.05
+lr_scheduler: cosine
+
+# Batch = 128 in-batch negatives, far fewer than CLIP pretraining (~32k), so
+# gradients are noisy; LRs sit at the conservative end of the usual LoRA
+# range to protect the pretrained alignment on a first probe.
+learning_rate:
+  vision_encoder: 5.0e-6
+  text_encoder: 5.0e-6
+  projection: 2.0e-5
+  lora: 2.0e-4
+  logit_scale: 1.0e-4
+
+precision: bf16
+flash_attention: false              # flash-attn is not installed; transformers falls back to SDPA
+grad_checkpointing: true
+compile: false
+
+save_every_steps: 250
+eval_every_steps: 1000000           # no in-loop eval; Phase 2 runs scripts/benchmark.py afterwards
+log_every_steps: 25
+keep_last_n_checkpoints: 2
+
+num_workers: 12
+prefetch_factor: 4
+
+loss:
+  type: infonce
+  logit_scale_max: 4.6052

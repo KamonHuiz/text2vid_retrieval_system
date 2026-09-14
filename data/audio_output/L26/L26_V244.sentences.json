@@ -1,0 +1,973 @@
+{
+  "video_id": "L26_V244",
+  "fps": 25.0,
+  "n_sentences": 60,
+  "total_words": 1015,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.56,
+      "end": 12.28,
+      "n_words": 4,
+      "start_frame": 264,
+      "end_frame": 307,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Anh Vũ ơi trời!",
+      "start": 12.28,
+      "end": 14.04,
+      "n_words": 4,
+      "start_frame": 307,
+      "end_frame": 351,
+      "keyframes": [
+        "000325.webp",
+        "000351.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "* Tự nhiên em khoái, em sang quá anh Vũ hả?",
+      "start": 14.04,
+      "end": 16.72,
+      "n_words": 11,
+      "start_frame": 351,
+      "end_frame": 418,
+      "keyframes": [
+        "000351.webp",
+        "000352.webp",
+        "000385.webp",
+        "000418.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Ăn khoai hả?",
+      "start": 16.72,
+      "end": 17.72,
+      "n_words": 3,
+      "start_frame": 418,
+      "end_frame": 443,
+      "keyframes": [
+        "000418.webp",
+        "000419.webp",
+        "000431.webp",
+        "000443.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Có 20.000 ký à?",
+      "start": 17.72,
+      "end": 18.88,
+      "n_words": 4,
+      "start_frame": 443,
+      "end_frame": 472,
+      "keyframes": [
+        "000443.webp",
+        "000444.webp",
+        "000456.webp",
+        "000469.webp",
+        "000470.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ăn bình dân dữ vậy.",
+      "start": 19.32,
+      "end": 20.72,
+      "n_words": 5,
+      "start_frame": 483,
+      "end_frame": 518,
+      "keyframes": [
+        "000506.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Vụ gì vụ gì?",
+      "start": 20.72,
+      "end": 21.92,
+      "n_words": 4,
+      "start_frame": 518,
+      "end_frame": 548,
+      "keyframes": [
+        "000543.webp",
+        "000544.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Em khoái ăn sang à?",
+      "start": 21.92,
+      "end": 24.0,
+      "n_words": 5,
+      "start_frame": 548,
+      "end_frame": 600,
+      "keyframes": [
+        "000565.webp",
+        "000587.webp",
+        "000588.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tưởng em muốn sáng ăn khoai đổ.",
+      "start": 24.0,
+      "end": 26.04,
+      "n_words": 7,
+      "start_frame": 600,
+      "end_frame": 651,
+      "keyframes": [
+        "000612.webp",
+        "000637.webp",
+        "000638.webp",
+        "000645.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Em đây là gì?",
+      "start": 26.04,
+      "end": 27.24,
+      "n_words": 4,
+      "start_frame": 651,
+      "end_frame": 681,
+      "keyframes": [
+        "000652.webp",
+        "000653.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Wow, đậu ngự!",
+      "start": 27.24,
+      "end": 29.6,
+      "n_words": 3,
+      "start_frame": 681,
+      "end_frame": 740,
+      "keyframes": [
+        "000719.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đúng rồi, đậu ngự này sang biết không?",
+      "start": 29.6,
+      "end": 33.6,
+      "n_words": 8,
+      "start_frame": 740,
+      "end_frame": 840,
+      "keyframes": [
+        "000786.webp",
+        "000787.webp",
+        "000801.webp",
+        "000816.webp",
+        "000817.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Anh nói em nghe nè, theo như là đậu ngự này xưa cho vua ăn không đó, dùng để tiến vua hả anh?",
+      "start": 34.16,
+      "end": 40.52,
+      "n_words": 23,
+      "start_frame": 854,
+      "end_frame": 1013,
+      "keyframes": [
+        "000868.webp",
+        "000920.webp",
+        "000921.webp",
+        "000948.webp",
+        "000975.webp",
+        "000976.webp",
+        "001001.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Rồi, mà đậu ngự này mà kết hợp với lại một nguyên liệu nào có cái mỡ màng tí xíu béo là numerous oanh luôn.",
+      "start": 40.72,
+      "end": 46.56,
+      "n_words": 25,
+      "start_frame": 1018,
+      "end_frame": 1164,
+      "keyframes": [
+        "001026.webp",
+        "001027.webp",
+        "001096.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Á wow!",
+      "start": 46.56,
+      "end": 47.16,
+      "n_words": 2,
+      "start_frame": 1164,
+      "end_frame": 1179,
+      "keyframes": [
+        "001166.webp",
+        "001167.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Một món ăn đáp ứng đủ tiêu chí ngon nè, bổ nè, rồi còn sang nữa chứ.",
+      "start": 47.16,
+      "end": 54.28,
+      "n_words": 17,
+      "start_frame": 1179,
+      "end_frame": 1357,
+      "keyframes": [
+        "001235.webp",
+        "001304.webp",
+        "001305.webp",
+        "001329.webp",
+        "001354.webp",
+        "001355.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sườn nấu đậu ngự sang chảnh.",
+      "start": 54.28,
+      "end": 56.6,
+      "n_words": 6,
+      "start_frame": 1357,
+      "end_frame": 1415,
+      "keyframes": [
+        "001395.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rất vui khi được gặp lại các bạn khán giả đang xem chương trình Món ngon mỗi ngày.",
+      "start": 56.6,
+      "end": 76.2,
+      "n_words": 18,
+      "start_frame": 1415,
+      "end_frame": 1905,
+      "keyframes": [
+        "001436.webp",
+        "001437.webp",
+        "001492.webp",
+        "001548.webp",
+        "001563.webp",
+        "001596.webp",
+        "001629.webp",
+        "001630.webp",
+        "001720.webp",
+        "001810.webp",
+        "001811.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 76.2,
+      "end": 80.08,
+      "n_words": 11,
+      "start_frame": 1905,
+      "end_frame": 2002,
+      "keyframes": [
+        "001907.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Hôm nay thì chúng ta sử dụng sườn ngon thôi các bạn ha.",
+      "start": 80.08,
+      "end": 82.48,
+      "n_words": 13,
+      "start_frame": 2002,
+      "end_frame": 2062,
+      "keyframes": [
+        "002004.webp",
+        "002005.webp",
+        "002033.webp",
+        "002062.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng ta cần nửa ký, cắt khúc khoảng 3 đến 4 centimet.",
+      "start": 82.48,
+      "end": 86.96,
+      "n_words": 12,
+      "start_frame": 2062,
+      "end_frame": 2174,
+      "keyframes": [
+        "002062.webp",
+        "002063.webp",
+        "002079.webp",
+        "002096.webp",
+        "002097.webp",
+        "002140.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Như vậy để xử lý cho miếng sườn này được sạch thơm và ngon, chúng ta nhớ ngâm pha tiếp trong nước lạnh nha các bạn.",
+      "start": 86.96,
+      "end": 94.88,
+      "n_words": 26,
+      "start_frame": 2174,
+      "end_frame": 2372,
+      "keyframes": [
+        "002184.webp",
+        "002185.webp",
+        "002236.webp",
+        "002287.webp",
+        "002288.webp",
+        "002312.webp",
+        "002336.webp",
+        "002337.webp",
+        "002350.webp",
+        "002363.webp",
+        "002364.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Ngâm xả khoảng chừng 3-4 lần vậy đó cho cái nước ở trong, chúng ta lấy ra để ráo như vậy.",
+      "start": 94.88,
+      "end": 100.64,
+      "n_words": 21,
+      "start_frame": 2372,
+      "end_frame": 2516,
+      "keyframes": [
+        "002440.webp",
+        "002516.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ ướp sườn nha các bạn.",
+      "start": 100.64,
+      "end": 102.92,
+      "n_words": 10,
+      "start_frame": 2516,
+      "end_frame": 2573,
+      "keyframes": [
+        "002516.webp",
+        "002517.webp",
+        "002543.webp",
+        "002569.webp",
+        "002570.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đây, một gia vị rất là tiện dụng các bạn: một muỗng cà phê bột gia vị đa năng Ajinomoto, một muỗng cà phê muối hành tỏi, hai muỗng canh vào ướp và chúng ta ướp khoảng độ 15 phút cho gia vị thấm vào trong thịt.",
+      "start": 102.92,
+      "end": 116.8,
+      "n_words": 47,
+      "start_frame": 2573,
+      "end_frame": 2920,
+      "keyframes": [
+        "002630.webp",
+        "002691.webp",
+        "002692.webp",
+        "002723.webp",
+        "002755.webp",
+        "002756.webp",
+        "002770.webp",
+        "002785.webp",
+        "002786.webp",
+        "002810.webp",
+        "002835.webp",
+        "002836.webp",
+        "002856.webp",
+        "002876.webp",
+        "002877.webp",
+        "002904.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Như vậy gia vị lagu các bạn chúng ta có thể mua sẵn có dạng bột và dạng nước.",
+      "start": 116.8,
+      "end": 122.6,
+      "n_words": 19,
+      "start_frame": 2920,
+      "end_frame": 3065,
+      "keyframes": [
+        "002931.webp",
+        "002932.webp",
+        "002972.webp",
+        "003013.webp",
+        "003014.webp",
+        "003045.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thì nếu dạng bột chúng ta cho đây khoảng chừng một muỗng canh thôi là được.",
+      "start": 122.6,
+      "end": 126.64,
+      "n_words": 16,
+      "start_frame": 3065,
+      "end_frame": 3166,
+      "keyframes": [
+        "003077.webp",
+        "003078.webp",
+        "003121.webp",
+        "003164.webp",
+        "003165.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Gia vị lagu dạng ướt này nó có cái màu đều rồi màu cà chua đậm, các bạn ta sẽ cho vào đây luôn.",
+      "start": 126.64,
+      "end": 132.4,
+      "n_words": 24,
+      "start_frame": 3166,
+      "end_frame": 3310,
+      "keyframes": [
+        "003208.webp",
+        "003252.webp",
+        "003253.webp",
+        "003267.webp",
+        "003282.webp",
+        "003283.webp",
+        "003284.webp",
+        "003285.webp",
+        "003286.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Mình cũng sẽ cho vừa dạng bột và dạng ướt luôn.",
+      "start": 132.4,
+      "end": 134.88,
+      "n_words": 11,
+      "start_frame": 3310,
+      "end_frame": 3372,
+      "keyframes": [
+        "003315.webp",
+        "003344.webp",
+        "003345.webp",
+        "003370.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đúng rồi, ướt luôn ạ.",
+      "start": 134.88,
+      "end": 135.92,
+      "n_words": 5,
+      "start_frame": 3372,
+      "end_frame": 3398,
+      "keyframes": [
+        "003396.webp",
+        "003397.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tức là tùy theo cái gia vị mà lẩu gà các bạn mua ha, chúng ta cho vô chúng ta ướp như vậy.",
+      "start": 135.92,
+      "end": 140.88,
+      "n_words": 23,
+      "start_frame": 3398,
+      "end_frame": 3522,
+      "keyframes": [
+        "003429.webp",
+        "003462.webp",
+        "003463.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Như vậy thì màu sắc của nó sẽ rất là đẹp luôn đúng không ạ?",
+      "start": 140.88,
+      "end": 143.24,
+      "n_words": 15,
+      "start_frame": 3522,
+      "end_frame": 3581,
+      "keyframes": [
+        "003528.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đúng vậy.",
+      "start": 143.24,
+      "end": 143.84,
+      "n_words": 2,
+      "start_frame": 3581,
+      "end_frame": 3596,
+      "keyframes": [
+        "003594.webp",
+        "003595.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ em giúp anh cắt cà rốt đó các bạn, cắt bông ha.",
+      "start": 143.84,
+      "end": 147.64,
+      "n_words": 14,
+      "start_frame": 3596,
+      "end_frame": 3691,
+      "keyframes": [
+        "003609.webp",
+        "003623.webp",
+        "003624.webp",
+        "003657.webp",
+        "003690.webp",
+        "003691.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Em nghĩ nếu là ragu thì mình sẽ hầm lâu nên mình sẽ cắt một cái khoảng nó dày hơn.",
+      "start": 147.64,
+      "end": 151.32,
+      "n_words": 20,
+      "start_frame": 3691,
+      "end_frame": 3783,
+      "keyframes": [
+        "003691.webp",
+        "003732.webp",
+        "003774.webp",
+        "003775.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đúng rồi, đây bông hoa cà rốt rất là xinh xắn.",
+      "start": 151.32,
+      "end": 154.88,
+      "n_words": 11,
+      "start_frame": 3783,
+      "end_frame": 3872,
+      "keyframes": [
+        "003792.webp",
+        "003809.webp",
+        "003810.webp",
+        "003825.webp",
+        "003840.webp",
+        "003841.webp",
+        "003861.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Rồi cảm ơn em rất là nhiều.",
+      "start": 154.88,
+      "end": 157.12,
+      "n_words": 7,
+      "start_frame": 3872,
+      "end_frame": 3928,
+      "keyframes": [
+        "003882.webp",
+        "003883.webp",
+        "003901.webp",
+        "003920.webp",
+        "003921.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đậu ngự này đậu ngự tươi cho nên rất là mau chín, còn nếu như mua đậu ngự khô thì mình phải làm như thế nào ạ?",
+      "start": 157.12,
+      "end": 162.36,
+      "n_words": 27,
+      "start_frame": 3928,
+      "end_frame": 4059,
+      "keyframes": [
+        "003936.webp",
+        "003952.webp",
+        "003953.webp",
+        "003982.webp",
+        "004011.webp",
+        "004012.webp",
+        "004035.webp",
+        "004058.webp",
+        "004059.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Rất dễ các bạn à, nếu chúng ta dùng đậu ngự khô thì chúng ta ngâm đậu ngự với một lít nước và 5 g bột baking soda cho mặt nước cao hơn đậu khoảng 2 cm.",
+      "start": 162.36,
+      "end": 173.08,
+      "n_words": 37,
+      "start_frame": 4059,
+      "end_frame": 4327,
+      "keyframes": [
+        "004059.webp",
+        "004194.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "4 giờ như vậy thì cái luộc đậu sẽ rất là mềm, sẽ rất là mềm và bùi nha các bạn.",
+      "start": 173.08,
+      "end": 177.04,
+      "n_words": 21,
+      "start_frame": 4327,
+      "end_frame": 4426,
+      "keyframes": [
+        "004330.webp",
+        "004331.webp",
+        "004376.webp",
+        "004422.webp",
+        "004423.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Tới giai đoạn là chế biến thôi.",
+      "start": 177.04,
+      "end": 179.76,
+      "n_words": 7,
+      "start_frame": 4426,
+      "end_frame": 4494,
+      "keyframes": [
+        "004458.webp",
+        "004493.webp",
+        "004494.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cho khoảng một muỗng canh dầu thôi, nóng thôi nha, người ta cho vô xào cho những miếng sườn này săn lại.",
+      "start": 179.76,
+      "end": 187.36,
+      "n_words": 22,
+      "start_frame": 4494,
+      "end_frame": 4684,
+      "keyframes": [
+        "004494.webp",
+        "004518.webp",
+        "004543.webp",
+        "004544.webp",
+        "004568.webp",
+        "004592.webp",
+        "004593.webp",
+        "004638.webp",
+        "004684.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Thêm tỏi nè, nó vừa dậy mùi thơm và đặc biệt cái mỡ trong những miếng sườn nó tiết ra đó các bạn ơi.",
+      "start": 187.36,
+      "end": 195.4,
+      "n_words": 24,
+      "start_frame": 4684,
+      "end_frame": 4885,
+      "keyframes": [
+        "004684.webp",
+        "004685.webp",
+        "004703.webp",
+        "004722.webp",
+        "004723.webp",
+        "004747.webp",
+        "004771.webp",
+        "004772.webp",
+        "004795.webp",
+        "004819.webp",
+        "004820.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Rồi bây giờ chúng ta sẽ cho lá xôm vào, 1-2 lá là được.",
+      "start": 195.4,
+      "end": 199.2,
+      "n_words": 14,
+      "start_frame": 4885,
+      "end_frame": 4980,
+      "keyframes": [
+        "004903.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rồi bây giờ kế tiếp chúng ta cho vào đây mì, chúng ta xào hạ lửa nhỏ các bạn.",
+      "start": 199.2,
+      "end": 205.04,
+      "n_words": 19,
+      "start_frame": 4980,
+      "end_frame": 5126,
+      "keyframes": [
+        "004987.webp",
+        "004988.webp",
+        "005011.webp",
+        "005035.webp",
+        "005036.webp",
+        "005102.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thưa các bạn, chúng ta cho bột mì vô ngay từ đầu như vậy để tạo độ sánh cho nước lagu cũng như giữ lại vị ngọt của miếng sườn nha các bạn.",
+      "start": 205.04,
+      "end": 212.8,
+      "n_words": 33,
+      "start_frame": 5126,
+      "end_frame": 5320,
+      "keyframes": [
+        "005169.webp",
+        "005170.webp",
+        "005244.webp",
+        "005319.webp",
+        "005320.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Kế tiếp cho vào đây một lít nước và nước dừa cũng khoảng cao hơn cái mặt sườn, tăng lửa lên đảo đều như vậy để cho bột mì tan ra hết.",
+      "start": 212.8,
+      "end": 222.88,
+      "n_words": 32,
+      "start_frame": 5320,
+      "end_frame": 5572,
+      "keyframes": [
+        "005320.webp",
+        "005349.webp",
+        "005378.webp",
+        "005379.webp",
+        "005422.webp",
+        "005466.webp",
+        "005467.webp",
+        "005519.webp",
+        "005571.webp",
+        "005572.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Chúng ta nêm vào đây một muỗng cà phê đường, một muỗng cà phê muối.",
+      "start": 222.88,
+      "end": 226.04,
+      "n_words": 15,
+      "start_frame": 5572,
+      "end_frame": 5651,
+      "keyframes": [
+        "005572.webp",
+        "005597.webp",
+        "005622.webp",
+        "005623.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Rồi bây giờ thì chúng ta để cho nước sôi rồi chúng ta vớt bọt, cho cà rốt bỏ vào nấu nhỏ lửa khoảng 10 phút cho cà rốt chín.",
+      "start": 226.04,
+      "end": 235.24,
+      "n_words": 30,
+      "start_frame": 5651,
+      "end_frame": 5881,
+      "keyframes": [
+        "005656.webp",
+        "005689.webp",
+        "005690.webp",
+        "005707.webp",
+        "005724.webp",
+        "005725.webp",
+        "005742.webp",
+        "005760.webp",
+        "005761.webp",
+        "005786.webp",
+        "005812.webp",
+        "005813.webp",
+        "005845.webp",
+        "005877.webp",
+        "005878.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Các bạn cũng lưu ý một điều nhỏ nhỏ này nha, đậu ngự tươi thì rất là mau chín nên chúng ta chỉ cho vào sau cùng thôi nha các bạn.",
+      "start": 235.24,
+      "end": 241.68,
+      "n_words": 31,
+      "start_frame": 5881,
+      "end_frame": 6042,
+      "keyframes": [
+        "005927.webp",
+        "005976.webp",
+        "005977.webp",
+        "006009.webp",
+        "006041.webp",
+        "006042.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Các bạn thấy là trong cái món ăn này là có đầy đủ dinh dưỡng luôn: ngoài đạm từ sườn, chất béo là từ đậu ngự và rau củ từ cà rốt, rất là hài hòa các bạn.",
+      "start": 241.68,
+      "end": 253.2,
+      "n_words": 38,
+      "start_frame": 6042,
+      "end_frame": 6330,
+      "keyframes": [
+        "006042.webp",
+        "006082.webp",
+        "006123.webp",
+        "006124.webp",
+        "006185.webp",
+        "006247.webp",
+        "006248.webp",
+        "006274.webp",
+        "006301.webp",
+        "006302.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Nếu như muốn tìm hiểu kỹ về công thức món ăn ngày hôm nay, hãy quét mã QR đang hiển thị trên màn hình nhé.",
+      "start": 253.2,
+      "end": 259.48,
+      "n_words": 25,
+      "start_frame": 6330,
+      "end_frame": 6487,
+      "keyframes": [
+        "006352.webp",
+        "006402.webp",
+        "006403.webp",
+        "006442.webp",
+        "006482.webp",
+        "006483.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi bây giờ chúng ta hoàn tất rồi đó.",
+      "start": 259.48,
+      "end": 262.08,
+      "n_words": 9,
+      "start_frame": 6487,
+      "end_frame": 6552,
+      "keyframes": [
+        "006525.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thôi nhìn hấp dẫn quá, những cái miếng sườn cực kỳ ngon luôn, bên cạnh đó là phần đậu ngự, màu sắc của món ăn này rất là đẹp nữa.",
+      "start": 262.08,
+      "end": 274.12,
+      "n_words": 30,
+      "start_frame": 6552,
+      "end_frame": 6853,
+      "keyframes": [
+        "006568.webp",
+        "006569.webp",
+        "006593.webp",
+        "006618.webp",
+        "006619.webp",
+        "006647.webp",
+        "006675.webp",
+        "006676.webp",
+        "006712.webp",
+        "006748.webp",
+        "006749.webp",
+        "006798.webp",
+        "006847.webp",
+        "006848.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Anh ơi món này thì mình ăn kèm với những món nào thì nó sẽ hợp khẩu vị anh?",
+      "start": 274.12,
+      "end": 277.56,
+      "n_words": 19,
+      "start_frame": 6853,
+      "end_frame": 6939,
+      "keyframes": [
+        "006892.webp",
+        "006936.webp",
+        "006937.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Món này thì chúng ta ăn kèm với món bánh mì để có thể thành một bữa ăn hoàn chỉnh.",
+      "start": 277.56,
+      "end": 281.4,
+      "n_words": 20,
+      "start_frame": 6939,
+      "end_frame": 7035,
+      "keyframes": [
+        "006987.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tuy nhiên sẽ ngon hơn nếu món nấu thì chúng ta kết hợp với một món xào vậy đi, ví dụ như là hú kiến xào nấm các bạn, rất là hợp luôn đó.",
+      "start": 281.4,
+      "end": 289.08,
+      "n_words": 34,
+      "start_frame": 7035,
+      "end_frame": 7227,
+      "keyframes": [
+        "007037.webp",
+        "007038.webp",
+        "007134.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nha sườn thấm mềm, đậu ngự bở, bùi, nước hầm nâu sánh ngọt lâng lâng.",
+      "start": 289.08,
+      "end": 296.48,
+      "n_words": 15,
+      "start_frame": 7227,
+      "end_frame": 7412,
+      "keyframes": [
+        "007231.webp",
+        "007232.webp",
+        "007255.webp",
+        "007279.webp",
+        "007294.webp",
+        "007312.webp",
+        "007330.webp",
+        "007331.webp",
+        "007381.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Các bạn thân mến, hãy thực hiện ngay món sườn nấu đậu ngự để chiêu đãi những thành viên trong gia đình mình nhé.",
+      "start": 296.48,
+      "end": 302.36,
+      "n_words": 24,
+      "start_frame": 7412,
+      "end_frame": 7559,
+      "keyframes": [
+        "007431.webp",
+        "007432.webp",
+        "007496.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và để tìm hiểu lại công thức của món ăn ngày hôm nay, hãy truy cập vào kênh YouTube, website và fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 302.36,
+      "end": 309.8,
+      "n_words": 29,
+      "start_frame": 7559,
+      "end_frame": 7745,
+      "keyframes": [
+        "007560.webp",
+        "007561.webp",
+        "007640.webp",
+        "007720.webp",
+        "007721.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

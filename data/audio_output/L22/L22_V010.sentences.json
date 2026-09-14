@@ -1,0 +1,2427 @@
+{
+  "video_id": "L22_V010",
+  "fps": 25.0,
+  "n_sentences": 130,
+  "total_words": 3886,
+  "sentences": [
+    {
+      "text": "Kính chào quý vị, chúng tôi rất vui được gặp lại quý vị trong chương trình 60 giây chiều thứ bảy.",
+      "start": 4.48,
+      "end": 8.68,
+      "n_words": 21,
+      "start_frame": 112,
+      "end_frame": 217,
+      "keyframes": [
+        "000216.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rất cảm ơn quý vị đã dành thời gian theo dõi chương trình và ngay sau đây sẽ là các thông tin được quan tâm trong ngày.",
+      "start": 8.68,
+      "end": 17.68,
+      "n_words": 27,
+      "start_frame": 217,
+      "end_frame": 442,
+      "keyframes": [
+        "000369.webp",
+        "000378.webp",
+        "000403.webp",
+        "000429.webp",
+        "000430.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Gói thầu xây lắp số 9 dự án đường nối đường Trần Quốc Hoàn - đường Cộng Hòa chính thức thông xe.",
+      "start": 17.68,
+      "end": 22.84,
+      "n_words": 22,
+      "start_frame": 442,
+      "end_frame": 571,
+      "keyframes": [
+        "000444.webp",
+        "000458.webp",
+        "000459.webp",
+        "000508.webp",
+        "000557.webp",
+        "000558.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sạt lở tại Sơn La, một homestay bị vùi lấp khiến ba người trong một gia đình thương vong.",
+      "start": 22.84,
+      "end": 27.92,
+      "n_words": 19,
+      "start_frame": 571,
+      "end_frame": 698,
+      "keyframes": [
+        "000592.webp",
+        "000627.webp",
+        "000628.webp",
+        "000654.webp",
+        "000681.webp",
+        "000682.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Máy bay rơi ở Brazil, toàn bộ 61 người trên máy bay thiệt mạng.",
+      "start": 27.92,
+      "end": 33.12,
+      "n_words": 14,
+      "start_frame": 698,
+      "end_frame": 828,
+      "keyframes": [
+        "000722.webp",
+        "000762.webp",
+        "000763.webp",
+        "000780.webp",
+        "000798.webp",
+        "000799.webp",
+        "000823.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Thưa quý vị, sáng nay sau hơn một năm thi công, gói thầu xây lắp số 9 cũng là gói thầu thi công đầu tiên của dự án xây dựng đường nối đường Trần Quốc Hoàn - đường Cộng Hòa đã chính thức thông xe đưa vào phục vụ người dân sớm hơn 3 tháng so với kế hoạch.",
+      "start": 33.12,
+      "end": 47.04,
+      "n_words": 59,
+      "start_frame": 828,
+      "end_frame": 1176,
+      "keyframes": [
+        "000847.webp",
+        "000848.webp",
+        "001080.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thủ tướng Chính phủ Phạm Minh Chính cùng các lãnh đạo thành phố đã tham dự sự kiện quan trọng này.",
+      "start": 47.04,
+      "end": 53.44,
+      "n_words": 21,
+      "start_frame": 1176,
+      "end_frame": 1336,
+      "keyframes": [
+        "001313.webp",
+        "001314.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Gói thầu xây lắp số 9 dài 600 m, rộng 30 m, quy mô 6 làn xe, điểm đầu tại giao lộ Phan Thúc Duy - Phan Đình Giót và điểm cuối giao với đường Thăng Long.",
+      "start": 53.44,
+      "end": 63.8,
+      "n_words": 37,
+      "start_frame": 1336,
+      "end_frame": 1595,
+      "keyframes": [
+        "001353.webp",
+        "001392.webp",
+        "001393.webp",
+        "001434.webp",
+        "001475.webp",
+        "001476.webp",
+        "001499.webp",
+        "001523.webp",
+        "001524.webp",
+        "001563.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Đặc biệt là hầm chui dài hơn 400 m tại nút giao Phan Thúc Duy - Trần Quốc Hoàn.",
+      "start": 63.8,
+      "end": 68.96,
+      "n_words": 19,
+      "start_frame": 1595,
+      "end_frame": 1724,
+      "keyframes": [
+        "001603.webp",
+        "001604.webp",
+        "001624.webp",
+        "001644.webp",
+        "001645.webp",
+        "001669.webp",
+        "001694.webp",
+        "001695.webp",
+        "001711.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Thành phố đã đầu tư là một công trình rất là lớn để cho cái hành lang của sân bay được thuận tiện và rất là khang trang và sạch đẹp.",
+      "start": 68.96,
+      "end": 77.12,
+      "n_words": 31,
+      "start_frame": 1724,
+      "end_frame": 1928,
+      "keyframes": [
+        "001727.webp",
+        "001728.webp",
+        "001763.webp",
+        "001798.webp",
+        "001799.webp",
+        "001838.webp",
+        "001877.webp",
+        "001878.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng tôi cũng rất là mong đợi với cái ngày này, đây cũng là một thách thức lớn nhưng với cái tinh thần quyết tâm thực hiện chỉ đạo của Thủ tướng Chính phủ, của các cấp lãnh đạo thành phố thì đến nay thì cái gói thầu số 9 đã được hoàn thành đưa vào phục vụ người dân sớm hơn 3 tháng so với cái mốc hoàn thành trước đây.",
+      "start": 77.12,
+      "end": 94.8,
+      "n_words": 72,
+      "start_frame": 1928,
+      "end_frame": 2370,
+      "keyframes": [
+        "001938.webp",
+        "001998.webp",
+        "001999.webp",
+        "002051.webp",
+        "002103.webp",
+        "002104.webp",
+        "002130.webp",
+        "002157.webp",
+        "002158.webp",
+        "002189.webp",
+        "002221.webp",
+        "002222.webp",
+        "002262.webp",
+        "002302.webp",
+        "002303.webp",
+        "002334.webp",
+        "002365.webp",
+        "002366.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Ban quản lý dự án đã phát động đợt thi đua 130 ngày đêm đẩy nhanh tiến độ hoàn thành thông xe toàn bộ dự án vào cuối năm nay.",
+      "start": 94.8,
+      "end": 103.28,
+      "n_words": 30,
+      "start_frame": 2370,
+      "end_frame": 2582,
+      "keyframes": [
+        "002416.webp",
+        "002466.webp",
+        "002467.webp",
+        "002520.webp",
+        "002574.webp",
+        "002575.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thủ tướng Chính phủ Phạm Minh Chính nhấn mạnh đây là quyết tâm của thành phố Hồ Chí Minh, đặc biệt nhân dân đã bàn giao phần đất của mình cho dự án.",
+      "start": 103.28,
+      "end": 111.08,
+      "n_words": 33,
+      "start_frame": 2582,
+      "end_frame": 2777,
+      "keyframes": [
+        "002613.webp",
+        "002652.webp",
+        "002653.webp",
+        "002678.webp",
+        "002704.webp",
+        "002705.webp",
+        "002733.webp",
+        "002761.webp",
+        "002762.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Thủ tướng cảm ơn sự cố gắng của tất cả mọi người, đặc biệt là lãnh đạo thành phố đã huy động được sức mạnh tổng hợp.",
+      "start": 111.08,
+      "end": 117.12,
+      "n_words": 27,
+      "start_frame": 2777,
+      "end_frame": 2928,
+      "keyframes": [
+        "002826.webp",
+        "002891.webp",
+        "002892.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hoan nghênh tinh thần không bàn lui, chỉ bàn làm của các đơn vị.",
+      "start": 117.76,
+      "end": 121.88,
+      "n_words": 14,
+      "start_frame": 2944,
+      "end_frame": 3047,
+      "keyframes": [
+        "002968.webp",
+        "003045.webp",
+        "003046.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Dự án xây dựng đường nối đường Trần Quốc Hoàn - Cộng Hòa kết nối trực tiếp với nhà ga T3 của cảng hàng không quốc tế Tân Sơn Nhất với tổng mức đầu tư hơn 4.800 tỷ đồng, hiện đã thi công được hơn 70%.",
+      "start": 121.88,
+      "end": 133.96,
+      "n_words": 46,
+      "start_frame": 3047,
+      "end_frame": 3349,
+      "keyframes": [
+        "003085.webp",
+        "003125.webp",
+        "003126.webp",
+        "003171.webp",
+        "003217.webp",
+        "003218.webp",
+        "003227.webp",
+        "003236.webp",
+        "003237.webp",
+        "003273.webp",
+        "003310.webp",
+        "003311.webp",
+        "003349.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Sáng nay, một vụ sạt lở xảy ra tại huyện Bắc Yên, tỉnh Sơn La, nửa quả đồi sạt lở đã vùi lấp hoàn toàn một homestay không phép ở Tà Xùa khiến gia đình ba người thương vong.",
+      "start": 136.16,
+      "end": 147.2,
+      "n_words": 39,
+      "start_frame": 3404,
+      "end_frame": 3680,
+      "keyframes": [
+        "003525.webp",
+        "003661.webp",
+        "003662.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Vụ sạt lở xảy ra khoảng 4 đến 5 giờ sáng nay tại homestay Mando ở bản Tà Xùa, cùng trượt chạy đến hàng trăm mét trượt từ đỉnh núi xuống vùi lấp toàn bộ homestay.",
+      "start": 147.2,
+      "end": 157.36,
+      "n_words": 36,
+      "start_frame": 3680,
+      "end_frame": 3934,
+      "keyframes": [
+        "003740.webp",
+        "003819.webp",
+        "003820.webp",
+        "003923.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Vụ việc đã khiến cho bà Rê Sinh (sinh năm 1992), là vợ của chủ homestay thiệt mạng; Chồng và con của nạn nhân bị thương nhẹ.",
+      "start": 157.36,
+      "end": 165.68,
+      "n_words": 27,
+      "start_frame": 3934,
+      "end_frame": 4142,
+      "keyframes": [
+        "004027.webp",
+        "004028.webp",
+        "004134.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thi thể của nạn nhân bị vùi lấp đã được tìm thấy và đưa về nhà xác ở bệnh viện đa khoa Bắc Yên.",
+      "start": 165.68,
+      "end": 171.2,
+      "n_words": 24,
+      "start_frame": 4142,
+      "end_frame": 4280,
+      "keyframes": [
+        "004240.webp",
+        "004241.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Lực lượng địa phương đã đến thăm hỏi động viên và chia buồn với gia đình nạn nhân.",
+      "start": 171.2,
+      "end": 175.12,
+      "n_words": 18,
+      "start_frame": 4280,
+      "end_frame": 4378,
+      "keyframes": [
+        "004322.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Do mưa lớn liên tục gây nguy cơ sạt lở ở các vùng núi nên mấy ngày gần đây chính quyền địa phương đã thông tin và cắm biển cảnh báo nguy hiểm.",
+      "start": 176.16,
+      "end": 183.92,
+      "n_words": 33,
+      "start_frame": 4404,
+      "end_frame": 4598,
+      "keyframes": [
+        "004404.webp",
+        "004405.webp",
+        "004427.webp",
+        "004450.webp",
+        "004451.webp",
+        "004473.webp",
+        "004496.webp",
+        "004497.webp",
+        "004524.webp",
+        "004552.webp",
+        "004553.webp",
+        "004583.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Trong ngày 9 tháng 8, đoàn công tác đã làm việc và yêu cầu chủ homestay này ký cam kết không lưu trú trong cơ sở nhưng gia đình vẫn ngủ lại.",
+      "start": 183.92,
+      "end": 192.44,
+      "n_words": 32,
+      "start_frame": 4598,
+      "end_frame": 4811,
+      "keyframes": [
+        "004613.webp",
+        "004614.webp",
+        "004636.webp",
+        "004659.webp",
+        "004660.webp",
+        "004687.webp",
+        "004714.webp",
+        "004715.webp",
+        "004800.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Được biết homestay này không được cấp phép, huyện đã yêu cầu tháo dỡ nhiều lần nhưng đến giờ vẫn chưa thực hiện. Cháy rừng đang xảy ra tại huyện Quảng Trạch, tỉnh Quảng Bình, lực lượng chức năng vẫn đang cố gắng kiểm soát đám cháy.",
+      "start": 192.44,
+      "end": 206.16,
+      "n_words": 47,
+      "start_frame": 4811,
+      "end_frame": 5154,
+      "keyframes": [
+        "004885.webp",
+        "004886.webp",
+        "004935.webp",
+        "004985.webp",
+        "004986.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Rừng bạch đàn bùng phát chiều ngày 9 tháng 8 tại xã Quảng Đông, công tác chữa cháy gặp nhiều khó khăn do gió lớn và nắng nóng hơn 40 °C. Ngoài yếu tố thời tiết, đám cháy nằm trên đồi cao nên không thể đưa nước lên tới.",
+      "start": 206.16,
+      "end": 220.56,
+      "n_words": 49,
+      "start_frame": 5154,
+      "end_frame": 5514,
+      "keyframes": [
+        "005172.webp",
+        "005358.webp",
+        "005359.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ngọn lửa đã cháy xuyên đêm, sức nóng tỏa ra là rất lớn. 21 giờ tối qua, lực lượng chữa cháy đã phải rút về nhằm đảm bảo an toàn.",
+      "start": 220.56,
+      "end": 228.8,
+      "n_words": 30,
+      "start_frame": 5514,
+      "end_frame": 5720,
+      "keyframes": [
+        "005583.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đến sáng nay, đám cháy tiếp tục lan ra rừng tràm, rừng thông và chưa có dấu hiệu được kiểm soát.",
+      "start": 228.8,
+      "end": 234.64,
+      "n_words": 21,
+      "start_frame": 5720,
+      "end_frame": 5866,
+      "keyframes": [
+        "005807.webp",
+        "005808.webp",
+        "005845.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ước tính ban đầu diện tích rừng bị cháy là khoảng 70 ha.",
+      "start": 234.64,
+      "end": 237.68,
+      "n_words": 13,
+      "start_frame": 5866,
+      "end_frame": 5942,
+      "keyframes": [
+        "005882.webp",
+        "005883.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Trong sáng nay, Chủ tịch UBND huyện Quảng Trạch đã họp với chính quyền địa phương cùng lực lượng chức năng để huy động khoảng 1.000 người tham gia chữa cháy gồm công an, quân đội, kiểm lâm, dân quân tự vệ và người dân.",
+      "start": 238.52,
+      "end": 251.52,
+      "n_words": 45,
+      "start_frame": 5963,
+      "end_frame": 6288,
+      "keyframes": [
+        "005965.webp",
+        "006048.webp",
+        "006074.webp",
+        "006075.webp",
+        "006076.webp",
+        "006077.webp",
+        "006086.webp",
+        "006095.webp",
+        "006096.webp",
+        "006232.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Tổ công tác cũng đã thảo luận các phương án nhằm hạn chế cháy lan, trong đó có làm đường băng cản lửa.",
+      "start": 251.52,
+      "end": 258.56,
+      "n_words": 23,
+      "start_frame": 6288,
+      "end_frame": 6464,
+      "keyframes": [
+        "006368.webp",
+        "006369.webp",
+        "006415.webp",
+        "006461.webp",
+        "006462.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Năm học mới 2024-2025 đang đến gần, các phụ huynh cũng bắt đầu mua sách giáo khoa cho con em mình. Tình trạng sách giả, sách lậu cũng tăng lên vào thời điểm này khiến nhiều người băn khoăn.",
+      "start": 258.56,
+      "end": 270.2,
+      "n_words": 39,
+      "start_frame": 6464,
+      "end_frame": 6755,
+      "keyframes": [
+        "006546.webp",
+        "006631.webp",
+        "006632.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và trong thời gian qua, nhiều vụ kinh doanh và sản xuất sách giả, sách lậu đã bị lực lượng chức năng phát hiện và xử lý.",
+      "start": 270.2,
+      "end": 277.84,
+      "n_words": 27,
+      "start_frame": 6755,
+      "end_frame": 6946,
+      "keyframes": [
+        "006756.webp",
+        "006881.webp",
+        "006882.webp",
+        "006903.webp",
+        "006924.webp",
+        "006925.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chuẩn bị vào năm học mới, chị Quyên đã chuẩn bị sách vở cho con trước cả tháng nay: \"Tôi cũng khá là lo lắng khi mà biết được những cái thông tin về sách giáo khoa lậu nên tôi thường chỉ đặt sách giáo khoa từ nhà trường thôi.",
+      "start": 277.84,
+      "end": 290.12,
+      "n_words": 50,
+      "start_frame": 6946,
+      "end_frame": 7253,
+      "keyframes": [
+        "006953.webp",
+        "006982.webp",
+        "006983.webp",
+        "006995.webp",
+        "007008.webp",
+        "007009.webp",
+        "007020.webp",
+        "007032.webp",
+        "007033.webp",
+        "007047.webp",
+        "007061.webp",
+        "007062.webp",
+        "007075.webp",
+        "007089.webp",
+        "007090.webp",
+        "007106.webp",
+        "007123.webp",
+        "007124.webp",
+        "007187.webp",
+        "007250.webp",
+        "007251.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Cũng từng mua phải những cái tiểu thuyết in lần hai, lần ba, cảm thấy rõ ràng là chất lượng giấy hay là chất lượng mực nó đều kém hơn hẳn, thỉnh thoảng còn thấy có cả lỗi phông chữ nữa, nếu con gặp phải sách in lậu cũng sẽ không dùng\".",
+      "start": 290.12,
+      "end": 305.08,
+      "n_words": 52,
+      "start_frame": 7253,
+      "end_frame": 7627,
+      "keyframes": [
+        "007265.webp",
+        "007279.webp",
+        "007280.webp",
+        "007312.webp",
+        "007344.webp",
+        "007345.webp",
+        "007366.webp",
+        "007387.webp",
+        "007388.webp",
+        "007426.webp",
+        "007465.webp",
+        "007466.webp",
+        "007485.webp",
+        "007504.webp",
+        "007505.webp",
+        "007571.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Thời gian gần đây, dù việc kinh doanh sách giáo khoa giả đã bị phát hiện, trong quá trình kiểm tra thì đòi hỏi là cán bộ phải nghiên cứu thật kỹ trước, tại vì trong sách hiện nay nó cũng là có các cái tem nhãn nó cũng giống như là nếu mà mình nhìn mắt thường thì rất là khó phát hiện.",
+      "start": 305.72,
+      "end": 322.16,
+      "n_words": 64,
+      "start_frame": 7643,
+      "end_frame": 8054,
+      "keyframes": [
+        "007647.webp",
+        "007656.webp",
+        "007657.webp",
+        "007679.webp",
+        "007701.webp",
+        "007702.webp",
+        "007714.webp",
+        "007727.webp",
+        "007728.webp",
+        "007743.webp",
+        "007759.webp",
+        "007760.webp",
+        "007775.webp",
+        "007790.webp",
+        "007791.webp",
+        "007817.webp",
+        "007843.webp",
+        "007844.webp",
+        "007912.webp",
+        "007980.webp",
+        "007981.webp",
+        "008054.webp"
+      ],
+      "keyframe_count": 22
+    },
+    {
+      "text": "Vì lợi nhuận, bởi vì các đối tượng làm sách giả, sách lậu không phải mất những chi phí như biên soạn, biên tập, dạy thực nghiệm, giới thiệu cuốn sách.",
+      "start": 322.16,
+      "end": 331.64,
+      "n_words": 31,
+      "start_frame": 8054,
+      "end_frame": 8291,
+      "keyframes": [
+        "008054.webp",
+        "008127.webp",
+        "008128.webp",
+        "008208.webp",
+        "008288.webp",
+        "008289.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Với các thủ đoạn tinh vi, bộ sách lậu có thể dễ dàng qua mắt người tiêu dùng, do đó người dân cần đến các công ty sách và thiết bị trường học hoặc hệ thống của Nhà xuất bản Giáo dục Việt Nam để tránh mua phải hàng giả, sách lậu.",
+      "start": 331.64,
+      "end": 345.04,
+      "n_words": 52,
+      "start_frame": 8291,
+      "end_frame": 8626,
+      "keyframes": [
+        "008307.webp",
+        "008326.webp",
+        "008327.webp",
+        "008339.webp",
+        "008351.webp",
+        "008352.webp",
+        "008362.webp",
+        "008373.webp",
+        "008374.webp",
+        "008431.webp",
+        "008488.webp",
+        "008489.webp",
+        "008530.webp",
+        "008572.webp",
+        "008573.webp",
+        "008589.webp",
+        "008606.webp",
+        "008607.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Thưa quý vị, dù còn đến một tháng nữa mới tới Tết Trung thu nhưng phố lồng đèn lớn nhất thành phố Hồ Chí Minh đã chính thức lên đèn mở cửa đón khách.",
+      "start": 345.04,
+      "end": 352.8,
+      "n_words": 34,
+      "start_frame": 8626,
+      "end_frame": 8820,
+      "keyframes": [
+        "008698.webp",
+        "008789.webp",
+        "008790.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Con phố náo nhiệt này là điểm hẹn lý tưởng cho những ai muốn tìm hiểu về nghệ thuật đèn lồng truyền thống, mua sắm và tận hưởng không khí Trung thu đầy sắc màu.",
+      "start": 352.8,
+      "end": 361.96,
+      "n_words": 35,
+      "start_frame": 8820,
+      "end_frame": 9049,
+      "keyframes": [
+        "008835.webp",
+        "008880.webp",
+        "008881.webp",
+        "008906.webp",
+        "008931.webp",
+        "008932.webp",
+        "008952.webp",
+        "008973.webp",
+        "008974.webp",
+        "009004.webp",
+        "009035.webp",
+        "009036.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Thưa quý vị, phố lồng đèn Lương Nhữ Học ở Quận 5 đã được hình thành từ rất lâu đời và đã sớm trở thành một nét văn hóa truyền thống của người dân thành phố mỗi dịp Trung thu.",
+      "start": 361.96,
+      "end": 372.0,
+      "n_words": 40,
+      "start_frame": 9049,
+      "end_frame": 9300,
+      "keyframes": [
+        "009067.webp",
+        "009099.webp",
+        "009100.webp",
+        "009133.webp",
+        "009166.webp",
+        "009167.webp",
+        "009196.webp",
+        "009226.webp",
+        "009227.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Nơi đây vừa là địa chỉ sản xuất vừa là nơi bày bán những loại lồng đèn truyền thống rất là dễ thương như thế này, và đồng thời cũng là một địa điểm tham quan, một địa điểm dành cho giới trẻ có thể chụp hình và check-in nổi tiếng.",
+      "start": 372.0,
+      "end": 383.28,
+      "n_words": 51,
+      "start_frame": 9300,
+      "end_frame": 9582,
+      "keyframes": [
+        "009391.webp",
+        "009556.webp",
+        "009557.webp",
+        "009580.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "\"Hộ mình vẽ ra khung dán dầu mình vẽ 25.000 tới 50.000\".",
+      "start": 383.28,
+      "end": 388.8,
+      "n_words": 12,
+      "start_frame": 9582,
+      "end_frame": 9720,
+      "keyframes": [
+        "009604.webp",
+        "009605.webp",
+        "009606.webp",
+        "009607.webp",
+        "009608.webp",
+        "009638.webp",
+        "009669.webp",
+        "009670.webp",
+        "009693.webp",
+        "009717.webp",
+        "009718.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Nhiều mẫu lồng đèn mới được tạo hình các nhân vật đang được giới trẻ yêu thích, bên cạnh những mẫu lồng đèn truyền thống bằng khung tre giấy kiếng màu với hình ông sao, chiếc thuyền, con bươm bướm cũng bán khá chạy.",
+      "start": 389.68,
+      "end": 401.44,
+      "n_words": 44,
+      "start_frame": 9742,
+      "end_frame": 10036,
+      "keyframes": [
+        "009758.webp",
+        "009778.webp",
+        "009779.webp",
+        "009803.webp",
+        "009828.webp",
+        "009829.webp",
+        "009852.webp",
+        "009875.webp",
+        "009876.webp",
+        "009893.webp",
+        "009911.webp",
+        "009912.webp",
+        "009943.webp",
+        "009974.webp",
+        "009975.webp",
+        "010007.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "\"Dạ trên mạng đèn hot, cái lồng đèn mà Labubu lắm, ngoài cái lồng đèn mà hiện đại giống bé, thay pin giống bé cũng rất là đẹp luôn\".",
+      "start": 401.44,
+      "end": 410.68,
+      "n_words": 29,
+      "start_frame": 10036,
+      "end_frame": 10267,
+      "keyframes": [
+        "010040.webp",
+        "010041.webp",
+        "010087.webp",
+        "010134.webp",
+        "010135.webp",
+        "010155.webp",
+        "010176.webp",
+        "010177.webp",
+        "010200.webp",
+        "010224.webp",
+        "010225.webp",
+        "010247.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Ra đây mình sẽ có được một cái không khí nó khá là ấm cúng, rất là sum vầy khi mà tràn ngập xung quanh mình là những cái sắc màu của lồng đèn Trung thu, cảm nhận được là không khí Trung thu nó đang đến gần và ngày càng mình cảm thấy háo hức.",
+      "start": 410.68,
+      "end": 424.72,
+      "n_words": 56,
+      "start_frame": 10267,
+      "end_frame": 10618,
+      "keyframes": [
+        "010270.webp",
+        "010271.webp",
+        "010331.webp",
+        "010391.webp",
+        "010392.webp",
+        "010414.webp",
+        "010437.webp",
+        "010438.webp",
+        "010454.webp",
+        "010471.webp",
+        "010472.webp",
+        "010495.webp",
+        "010518.webp",
+        "010519.webp",
+        "010547.webp",
+        "010576.webp",
+        "010577.webp",
+        "010595.webp",
+        "010614.webp",
+        "010615.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Các tiểu thương dự báo khoảng một đến hai tuần nữa khách sẽ nhộn nhịp hơn, chuẩn bị cho mùa Trung thu lung linh ấm áp đang đến gần.",
+      "start": 424.72,
+      "end": 435.36,
+      "n_words": 29,
+      "start_frame": 10618,
+      "end_frame": 10884,
+      "keyframes": [
+        "010644.webp",
+        "010673.webp",
+        "010674.webp",
+        "010696.webp",
+        "010719.webp",
+        "010720.webp",
+        "010743.webp",
+        "010766.webp",
+        "010767.webp",
+        "010785.webp",
+        "010803.webp",
+        "010804.webp",
+        "010823.webp",
+        "010843.webp",
+        "010844.webp",
+        "010857.webp",
+        "010870.webp",
+        "010871.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Thưa quý vị, một máy bay chở 61 người đã rơi ở ngoại ô São Paulo của Brazil trong ngày 9 tháng 8 giờ địa phương.",
+      "start": 435.36,
+      "end": 441.6,
+      "n_words": 26,
+      "start_frame": 10884,
+      "end_frame": 11040,
+      "keyframes": [
+        "010988.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chiếc máy bay đâm vào một khu dân cư khiến toàn bộ người trên máy bay thiệt mạng.",
+      "start": 441.6,
+      "end": 445.4,
+      "n_words": 18,
+      "start_frame": 11040,
+      "end_frame": 11135,
+      "keyframes": [
+        "011106.webp",
+        "011107.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nhà chức trách cho hay họ không nhận được bất kỳ báo cáo khẩn cấp nào từ máy bay lúc gặp nạn.",
+      "start": 445.4,
+      "end": 449.92,
+      "n_words": 22,
+      "start_frame": 11135,
+      "end_frame": 11248,
+      "keyframes": [
+        "011231.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Hầu hết thi thể đều bị bỏng nặng khiến công tác xác định danh tính gặp khó khăn, không có cư dân nào dưới đất bị thương.",
+      "start": 449.92,
+      "end": 458.0,
+      "n_words": 27,
+      "start_frame": 11248,
+      "end_frame": 11450,
+      "keyframes": [
+        "011356.webp",
+        "011357.webp",
+        "011363.webp",
+        "011369.webp",
+        "011370.webp",
+        "011426.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Theo hãng hàng không vừa phát, chiếc máy bay ATR 72 mang số hiệu 2283 cất cánh từ thành phố Cascavel ở bang Paraná đi đến sân bay quốc tế chính của São Paulo.",
+      "start": 458.0,
+      "end": 469.52,
+      "n_words": 34,
+      "start_frame": 11450,
+      "end_frame": 11738,
+      "keyframes": [
+        "011482.webp",
+        "011483.webp",
+        "011534.webp",
+        "011585.webp",
+        "011586.webp",
+        "011617.webp",
+        "011649.webp",
+        "011650.webp",
+        "011687.webp",
+        "011724.webp",
+        "011725.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Máy bay được xác định rơi vào khoảng 13:30 theo giờ địa phương.",
+      "start": 469.52,
+      "end": 473.4,
+      "n_words": 13,
+      "start_frame": 11738,
+      "end_frame": 11835,
+      "keyframes": [
+        "011756.webp",
+        "011788.webp",
+        "011789.webp",
+        "011832.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Trên máy bay có 57 hành khách và 4 thành viên phi hành đoàn.",
+      "start": 473.4,
+      "end": 477.16,
+      "n_words": 14,
+      "start_frame": 11835,
+      "end_frame": 11929,
+      "keyframes": [
+        "011875.webp",
+        "011876.webp",
+        "011895.webp",
+        "011915.webp",
+        "011916.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nhà chức trách đã tìm thấy hai hộp đen.",
+      "start": 477.16,
+      "end": 479.52,
+      "n_words": 9,
+      "start_frame": 11929,
+      "end_frame": 11988,
+      "keyframes": [
+        "011936.webp",
+        "011956.webp",
+        "011957.webp",
+        "011972.webp",
+        "011987.webp",
+        "011988.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Dữ liệu cho thấy chiếc máy bay đã lao xuống với tốc độ lên đến hơn 5.000 m trong một phút.",
+      "start": 479.52,
+      "end": 484.72,
+      "n_words": 21,
+      "start_frame": 11988,
+      "end_frame": 12118,
+      "keyframes": [
+        "011988.webp",
+        "012017.webp",
+        "012046.webp",
+        "012047.webp",
+        "012066.webp",
+        "012085.webp",
+        "012086.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Các nhà điều tra bao gồm một đơn vị cảnh sát khoa học đã tiếp quản khu vực này để điều tra nguyên nhân vụ rơi máy bay.",
+      "start": 484.72,
+      "end": 491.2,
+      "n_words": 28,
+      "start_frame": 12118,
+      "end_frame": 12280,
+      "keyframes": [
+        "012142.webp",
+        "012198.webp",
+        "012199.webp",
+        "012225.webp",
+        "012252.webp",
+        "012253.webp",
+        "012264.webp",
+        "012276.webp",
+        "012277.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Hôm nay, người thân của các nạn nhân đợi tại sân bay Cascavel để chờ thông tin về thân nhân của mình trong tuyệt vọng.",
+      "start": 491.2,
+      "end": 498.48,
+      "n_words": 25,
+      "start_frame": 12280,
+      "end_frame": 12462,
+      "keyframes": [
+        "012291.webp",
+        "012306.webp",
+        "012307.webp",
+        "012326.webp",
+        "012346.webp",
+        "012347.webp",
+        "012364.webp",
+        "012381.webp",
+        "012382.webp",
+        "012397.webp",
+        "012412.webp",
+        "012413.webp",
+        "012434.webp",
+        "012456.webp",
+        "012457.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "\"Nhiều người như tôi không thể xác nhận rằng người thân của mình có phải đã tử nạn hay không, ở đây không ai nhận được bất kỳ thông tin nào, nhiều người không thể có được hồ sơ hành khách vì họ không có quyền truy cập vào danh sách\".",
+      "start": 498.48,
+      "end": 510.68,
+      "n_words": 51,
+      "start_frame": 12462,
+      "end_frame": 12767,
+      "keyframes": [
+        "012503.webp",
+        "012549.webp",
+        "012550.webp",
+        "012576.webp",
+        "012603.webp",
+        "012604.webp",
+        "012623.webp",
+        "012642.webp",
+        "012643.webp",
+        "012670.webp",
+        "012698.webp",
+        "012699.webp",
+        "012733.webp",
+        "012767.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Tổng thống Brazil Lula da Silva đã gửi lời chia buồn đến gia đình các nạn nhân và tuyên bố ba ngày quốc tang.",
+      "start": 510.68,
+      "end": 520.0,
+      "n_words": 24,
+      "start_frame": 12767,
+      "end_frame": 13000,
+      "keyframes": [
+        "012767.webp",
+        "012768.webp",
+        "012873.webp",
+        "012978.webp",
+        "012979.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hàng trăm bệnh nhân mắc chứng thiếu máu có thể cải thiện chất lượng sống nhờ liệu pháp chỉnh sửa gen đầu tiên trên thế giới.",
+      "start": 520.0,
+      "end": 527.52,
+      "n_words": 26,
+      "start_frame": 13000,
+      "end_frame": 13188,
+      "keyframes": [
+        "013042.webp",
+        "013106.webp",
+        "013107.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Liệu pháp này có chi phí là 1.6 triệu bảng Anh nhưng cơ quan y tế quốc gia Anh đang trợ giá cho các bệnh nhân.",
+      "start": 527.52,
+      "end": 534.64,
+      "n_words": 26,
+      "start_frame": 13188,
+      "end_frame": 13366,
+      "keyframes": [
+        "013226.webp",
+        "013346.webp",
+        "013347.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Theo phương pháp điều trị mới này, tế bào gốc sẽ được chiết tách từ tủy xương của bệnh nhân.",
+      "start": 534.64,
+      "end": 539.8,
+      "n_words": 20,
+      "start_frame": 13366,
+      "end_frame": 13495,
+      "keyframes": [
+        "013384.webp",
+        "013421.webp",
+        "013422.webp",
+        "013457.webp",
+        "013492.webp",
+        "013493.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Các chuyên gia di truyền học sẽ sửa các gen bị lỗi trong phòng thí nghiệm bằng công nghệ CRISPR. Công nghệ này đã được trao giải Nobel Hóa học năm 2020.",
+      "start": 539.8,
+      "end": 547.84,
+      "n_words": 32,
+      "start_frame": 13495,
+      "end_frame": 13696,
+      "keyframes": [
+        "013528.webp",
+        "013563.webp",
+        "013564.webp",
+        "013593.webp",
+        "013622.webp",
+        "013623.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sau đó, các gen đã chỉnh sửa sẽ được truyền trở lại vào cơ thể bệnh nhân, từ đó cơ thể tạo ra huyết sắc tố hemoglobin cho phép các tế bào hồng cầu vận chuyển oxy đi khắp cơ thể.",
+      "start": 549.12,
+      "end": 561.48,
+      "n_words": 41,
+      "start_frame": 13728,
+      "end_frame": 14037,
+      "keyframes": [
+        "013777.webp",
+        "013778.webp",
+        "013797.webp",
+        "013817.webp",
+        "013818.webp",
+        "013856.webp",
+        "013894.webp",
+        "013895.webp",
+        "013917.webp",
+        "013939.webp",
+        "013940.webp",
+        "013983.webp",
+        "014027.webp",
+        "014028.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Liệu pháp này có thể đem lại lợi ích lâu dài cho những người mắc bệnh, giảm việc phải đi truyền máu thường xuyên và chứng minh hiệu quả về mặt điều trị.",
+      "start": 561.48,
+      "end": 569.76,
+      "n_words": 33,
+      "start_frame": 14037,
+      "end_frame": 14244,
+      "keyframes": [
+        "014108.webp",
+        "014188.webp",
+        "014189.webp",
+        "014231.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Ruana Mahari, may mắn là một trong 460 người ở Anh tham gia liệu pháp chỉnh sửa gen mới, cô đã phải đi truyền máu trong suốt 35 năm qua.",
+      "start": 569.76,
+      "end": 580.64,
+      "n_words": 30,
+      "start_frame": 14244,
+      "end_frame": 14516,
+      "keyframes": [
+        "014273.webp",
+        "014274.webp",
+        "014295.webp",
+        "014316.webp",
+        "014317.webp",
+        "014377.webp",
+        "014438.webp",
+        "014439.webp",
+        "014474.webp",
+        "014509.webp",
+        "014510.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Theo các nhà nghiên cứu, những người điều trị chứng rối loạn máu thường dễ gặp các biến chứng về xương khớp và gan, với liệu pháp mới này những biến chứng có thể được loại bỏ.",
+      "start": 580.64,
+      "end": 591.64,
+      "n_words": 37,
+      "start_frame": 14516,
+      "end_frame": 14791,
+      "keyframes": [
+        "014528.webp",
+        "014547.webp",
+        "014548.webp",
+        "014586.webp",
+        "014624.webp",
+        "014625.webp",
+        "014634.webp",
+        "014644.webp",
+        "014645.webp",
+        "014675.webp",
+        "014705.webp",
+        "014706.webp",
+        "014739.webp",
+        "014773.webp",
+        "014774.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Thành phố Pula ở bán đảo Istria của Croatia nổi tiếng nhất với đấu trường La Mã cổ đại.",
+      "start": 591.64,
+      "end": 597.56,
+      "n_words": 19,
+      "start_frame": 14791,
+      "end_frame": 14939,
+      "keyframes": [
+        "014817.webp",
+        "014861.webp",
+        "014862.webp",
+        "014908.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Gần đây, Pula càng nổi tiếng hơn do một món ăn đường phố truyền thống nay được thay đổi công thức và đang gây sốt khắp khu vực này.",
+      "start": 597.56,
+      "end": 605.84,
+      "n_words": 29,
+      "start_frame": 14939,
+      "end_frame": 15146,
+      "keyframes": [
+        "014955.webp",
+        "014956.webp",
+        "014987.webp",
+        "015019.webp",
+        "015020.webp",
+        "015071.webp",
+        "015122.webp",
+        "015123.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Nhà hàng Plosica nổi tiếng nhờ món ćevapi vốn được làm từ thịt bê và thịt bò băm nhỏ, thêm bột ớt ngọt.",
+      "start": 605.84,
+      "end": 613.44,
+      "n_words": 23,
+      "start_frame": 15146,
+      "end_frame": 15336,
+      "keyframes": [
+        "015149.webp",
+        "015176.webp",
+        "015177.webp",
+        "015226.webp",
+        "015276.webp",
+        "015277.webp",
+        "015308.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Dù các nguyên liệu cơ bản đều giống nhau ở mọi nơi nhưng những thay đổi nhỏ về loại thịt, gia vị hoặc cách chế biến đã tạo ra những thành phẩm hoàn toàn khác biệt.",
+      "start": 613.44,
+      "end": 623.2,
+      "n_words": 36,
+      "start_frame": 15336,
+      "end_frame": 15580,
+      "keyframes": [
+        "015340.webp",
+        "015341.webp",
+        "015379.webp",
+        "015418.webp",
+        "015419.webp",
+        "015471.webp",
+        "015524.webp",
+        "015525.webp",
+        "015560.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Tuy nhiên công thức khác biệt này được chủ nhà hàng Plosica giữ bí mật.",
+      "start": 623.2,
+      "end": 627.96,
+      "n_words": 15,
+      "start_frame": 15580,
+      "end_frame": 15699,
+      "keyframes": [
+        "015595.webp",
+        "015596.webp",
+        "015623.webp",
+        "015651.webp",
+        "015652.webp",
+        "015670.webp",
+        "015689.webp",
+        "015690.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "\"Chúng tôi đã hoàn thiện món ăn sao cho ngon hơn và cuối cùng là nó đã nổi tiếng như ngày hôm nay\", Halilovic cho biết.",
+      "start": 627.96,
+      "end": 635.32,
+      "n_words": 26,
+      "start_frame": 15699,
+      "end_frame": 15883,
+      "keyframes": [
+        "015756.webp",
+        "015823.webp",
+        "015824.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ông được truyền cảm hứng và tư vấn bởi những bậc thầy về ćevapi ở quê hương Bosnia của ông.",
+      "start": 635.32,
+      "end": 641.04,
+      "n_words": 20,
+      "start_frame": 15883,
+      "end_frame": 16026,
+      "keyframes": [
+        "015924.webp",
+        "016024.webp",
+        "016025.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "\"Món ăn này thực sự rất ngon, tôi hy vọng có thể đưa gia đình đến đây để nếm thử, tôi chắc chắn sẽ nhớ món ăn này khi trở về nhà\".",
+      "start": 641.04,
+      "end": 648.64,
+      "n_words": 32,
+      "start_frame": 16026,
+      "end_frame": 16216,
+      "keyframes": [
+        "016122.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nhà hàng đã trở nên nổi tiếng trong nước vào tháng 7 năm 2024 sau khi một đầu bếp người Đức John Hotwit đến thăm Israel, ông nhận xét ćevapi tại Plosica là một trong ba món ăn đường phố ngon nhất thế giới.",
+      "start": 648.64,
+      "end": 664.04,
+      "n_words": 44,
+      "start_frame": 16216,
+      "end_frame": 16601,
+      "keyframes": [
+        "016219.webp",
+        "016220.webp",
+        "016262.webp",
+        "016304.webp",
+        "016305.webp",
+        "016334.webp",
+        "016364.webp",
+        "016365.webp",
+        "016394.webp",
+        "016424.webp",
+        "016425.webp",
+        "016471.webp",
+        "016518.webp",
+        "016519.webp",
+        "016552.webp",
+        "016586.webp",
+        "016587.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Một loại cà phê của Panama đã phá kỷ lục thế giới khi có giá bán lên đến hơn 10.013 đô la Mỹ một kg trong một cuộc đấu giá trực tuyến mới đây.",
+      "start": 664.04,
+      "end": 672.56,
+      "n_words": 34,
+      "start_frame": 16601,
+      "end_frame": 16814,
+      "keyframes": [
+        "016721.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Mức giá này phá vỡ kỷ lục của năm ngoái là 10.005 đô la.",
+      "start": 672.56,
+      "end": 678.24,
+      "n_words": 14,
+      "start_frame": 16814,
+      "end_frame": 16956,
+      "keyframes": [
+        "016856.webp",
+        "016857.webp",
+        "016893.webp",
+        "016929.webp",
+        "016930.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Loại cà phê đắt đỏ này có tên là Elida Geisha của gia đình Lamartinus được trồng ở Panama.",
+      "start": 678.24,
+      "end": 686.2,
+      "n_words": 19,
+      "start_frame": 16956,
+      "end_frame": 17155,
+      "keyframes": [
+        "016967.webp",
+        "017005.webp",
+        "017006.webp",
+        "017014.webp",
+        "017023.webp",
+        "017024.webp",
+        "017054.webp",
+        "017085.webp",
+        "017086.webp",
+        "017133.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Một công ty Nhật Bản mua nó tại cuộc đấu giá.",
+      "start": 686.2,
+      "end": 689.2,
+      "n_words": 11,
+      "start_frame": 17155,
+      "end_frame": 17230,
+      "keyframes": [
+        "017180.webp",
+        "017181.webp",
+        "017192.webp",
+        "017204.webp",
+        "017205.webp",
+        "017219.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "\"Panama 2024, chúng tôi đã vượt qua kỷ lục của chính mình vào năm ngoái.",
+      "start": 689.44,
+      "end": 694.48,
+      "n_words": 15,
+      "start_frame": 17236,
+      "end_frame": 17362,
+      "keyframes": [
+        "017259.webp",
+        "017285.webp",
+        "017286.webp",
+        "017352.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Tổng giá trị thu được từ cuộc đấu giá vượt hơn 1.2 triệu đô la Mỹ.",
+      "start": 694.48,
+      "end": 698.24,
+      "n_words": 16,
+      "start_frame": 17362,
+      "end_frame": 17456,
+      "keyframes": [
+        "017419.webp",
+        "017420.webp",
+        "017445.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Giờ đây chúng tôi có những loại cà phê có giá trị rất cao tính theo kg\", nhà sản xuất loại cà phê đắt đỏ này cho biết.",
+      "start": 698.24,
+      "end": 705.52,
+      "n_words": 28,
+      "start_frame": 17456,
+      "end_frame": 17638,
+      "keyframes": [
+        "017470.webp",
+        "017471.webp",
+        "017507.webp",
+        "017543.webp",
+        "017544.webp",
+        "017555.webp",
+        "017567.webp",
+        "017568.webp",
+        "017599.webp",
+        "017630.webp",
+        "017631.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Họ trồng cà phê tại nơi tận dụng được lợi thế của điều kiện tự nhiên cùng với đó là kinh nghiệm 106 năm của những người trồng cà phê.",
+      "start": 705.52,
+      "end": 713.4,
+      "n_words": 30,
+      "start_frame": 17638,
+      "end_frame": 17835,
+      "keyframes": [
+        "017665.webp",
+        "017700.webp",
+        "017701.webp",
+        "017727.webp",
+        "017754.webp",
+        "017755.webp",
+        "017768.webp",
+        "017781.webp",
+        "017782.webp",
+        "017806.webp",
+        "017830.webp",
+        "017831.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Cà phê Geisha nằm tại Elida Estate, đây là nơi có độ cao lớn với nhiều đa dạng sinh học, đất núi lửa, thảm thực vật.",
+      "start": 713.4,
+      "end": 722.88,
+      "n_words": 26,
+      "start_frame": 17835,
+      "end_frame": 18072,
+      "keyframes": [
+        "017887.webp",
+        "017943.webp",
+        "017944.webp",
+        "017951.webp",
+        "017959.webp",
+        "017960.webp",
+        "017991.webp",
+        "018023.webp",
+        "018024.webp",
+        "018047.webp",
+        "018071.webp",
+        "018072.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "\"Chúng tôi đã gần đạt đến điểm hoàn thiện và đáp ứng được tất cả những yêu cầu tỉ mỉ nhất từ các khách hàng khó tính nhất thế giới\".",
+      "start": 722.88,
+      "end": 729.68,
+      "n_words": 30,
+      "start_frame": 18072,
+      "end_frame": 18242,
+      "keyframes": [
+        "018072.webp",
+        "018100.webp",
+        "018129.webp",
+        "018130.webp",
+        "018181.webp",
+        "018232.webp",
+        "018233.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Sự kiện đấu giá này là nơi các đồn điền địa phương quảng bá cho chất lượng và các mặt hàng nông sản dưới sự giám sát và đánh giá của các chuyên gia trong nước và quốc tế trong ngành cà phê.",
+      "start": 729.68,
+      "end": 741.08,
+      "n_words": 43,
+      "start_frame": 18242,
+      "end_frame": 18527,
+      "keyframes": [
+        "018264.webp",
+        "018295.webp",
+        "018296.webp",
+        "018326.webp",
+        "018357.webp",
+        "018358.webp",
+        "018379.webp",
+        "018400.webp",
+        "018401.webp",
+        "018417.webp",
+        "018433.webp",
+        "018434.webp",
+        "018445.webp",
+        "018457.webp",
+        "018458.webp",
+        "018486.webp",
+        "018514.webp",
+        "018515.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Khu phố Walthamstow ở London, Anh lại đang thu hút người hâm mộ nghệ thuật nhờ bức tranh tường hai chú bồ nông xuất hiện trên biển hiệu của một cửa hàng vào ngày 9 tháng 8.",
+      "start": 741.08,
+      "end": 750.32,
+      "n_words": 37,
+      "start_frame": 18527,
+      "end_frame": 18758,
+      "keyframes": [
+        "018562.webp",
+        "018610.webp",
+        "018611.webp",
+        "018710.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Các chuyên gia cho rằng đây là tác phẩm mới nhất của nghệ sĩ giấu mặt Banksy.",
+      "start": 750.32,
+      "end": 756.8,
+      "n_words": 17,
+      "start_frame": 18758,
+      "end_frame": 18920,
+      "keyframes": [
+        "018809.webp",
+        "018810.webp",
+        "018845.webp",
+        "018881.webp",
+        "018882.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Banksy đã vẽ hai chú bồ nông ăn cá trên đỉnh của biển hiệu cửa hàng khoai tây chiên Boner Fishbar ở đại lộ Pretoria.",
+      "start": 756.8,
+      "end": 765.36,
+      "n_words": 25,
+      "start_frame": 18920,
+      "end_frame": 19134,
+      "keyframes": [
+        "018924.webp",
+        "018967.webp",
+        "018968.webp",
+        "019006.webp",
+        "019045.webp",
+        "019046.webp",
+        "019124.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Đây là một trong các tác phẩm mới nhất theo chủ đề động vật của nghệ sĩ này và có mặt ở khắp mọi nơi ở Luân Đôn.",
+      "start": 765.36,
+      "end": 771.92,
+      "n_words": 28,
+      "start_frame": 19134,
+      "end_frame": 19298,
+      "keyframes": [
+        "019203.webp",
+        "019204.webp",
+        "019250.webp",
+        "019296.webp",
+        "019297.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "\"Tôi cho rằng nghệ sĩ đang phản ánh cách con người xâm lấn thiên nhiên, các tác phẩm thực sự rất tuyệt vời, nghệ thuật kết nối văn hóa và cả xã hội nơi chúng ta đang sống\".",
+      "start": 771.92,
+      "end": 782.24,
+      "n_words": 38,
+      "start_frame": 19298,
+      "end_frame": 19556,
+      "keyframes": [
+        "019308.webp",
+        "019319.webp",
+        "019320.webp",
+        "019350.webp",
+        "019380.webp",
+        "019381.webp",
+        "019408.webp",
+        "019435.webp",
+        "019436.webp",
+        "019489.webp",
+        "019543.webp",
+        "019544.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Trước đó trong ngày 5 tháng 8, Banksy đã vẽ bức tranh trên tường hình ảnh một con dê đứng trên mỏm đá với những tảng đá rơi xuống bên dưới xuất hiện gần cầu Kew Bridge.",
+      "start": 782.24,
+      "end": 792.56,
+      "n_words": 37,
+      "start_frame": 19556,
+      "end_frame": 19814,
+      "keyframes": [
+        "019570.webp",
+        "019597.webp",
+        "019598.webp",
+        "019620.webp",
+        "019642.webp",
+        "019643.webp",
+        "019668.webp",
+        "019694.webp",
+        "019695.webp",
+        "019720.webp",
+        "019745.webp",
+        "019746.webp",
+        "019768.webp",
+        "019791.webp",
+        "019792.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Sau đó, nghệ sĩ đường phố bí ẩn này đã vẽ hai con voi ở bên hông ngôi nhà ở Chelsea phía tây nam Luân Đôn.",
+      "start": 792.56,
+      "end": 799.24,
+      "n_words": 26,
+      "start_frame": 19814,
+      "end_frame": 19981,
+      "keyframes": [
+        "019821.webp",
+        "019851.webp",
+        "019852.webp",
+        "019884.webp",
+        "019916.webp",
+        "019917.webp",
+        "019947.webp",
+        "019977.webp",
+        "019978.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đến ngày 7 tháng 8, hình ảnh ba con khỉ đu mình qua một cây cầu xuất hiện ở Brick Lane, còn hình ảnh con sói được vẽ trên chảo vệ tinh được nhìn thấy ở Hackney vào ngày 8 tháng 8.",
+      "start": 799.24,
+      "end": 810.88,
+      "n_words": 42,
+      "start_frame": 19981,
+      "end_frame": 20272,
+      "keyframes": [
+        "020005.webp",
+        "020033.webp",
+        "020034.webp",
+        "020061.webp",
+        "020088.webp",
+        "020089.webp",
+        "020110.webp",
+        "020132.webp",
+        "020133.webp",
+        "020154.webp",
+        "020176.webp",
+        "020177.webp",
+        "020197.webp",
+        "020217.webp",
+        "020218.webp",
+        "020240.webp",
+        "020263.webp",
+        "020264.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Tất cả tác phẩm đều khiến người qua đường thích thú và phải dừng chân để chụp hình.",
+      "start": 810.88,
+      "end": 817.88,
+      "n_words": 18,
+      "start_frame": 20272,
+      "end_frame": 20447,
+      "keyframes": [
+        "020287.webp",
+        "020311.webp",
+        "020312.webp",
+        "020369.webp",
+        "020427.webp",
+        "020428.webp",
+        "020429.webp",
+        "020430.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Tiếp theo trong 60 giây: Tai nạn giữa xe ôm và xe tải khiến hai mẹ con tử vong tại chỗ.",
+      "start": 817.88,
+      "end": 827.52,
+      "n_words": 21,
+      "start_frame": 20447,
+      "end_frame": 20688,
+      "keyframes": [
+        "020526.webp",
+        "020531.webp",
+        "020536.webp",
+        "020537.webp",
+        "020556.webp",
+        "020575.webp",
+        "020576.webp",
+        "020593.webp",
+        "020611.webp",
+        "020612.webp",
+        "020629.webp",
+        "020647.webp",
+        "020648.webp",
+        "020656.webp",
+        "020665.webp",
+        "020666.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Cháy chợ Mỹ Đức, An Giang thiêu rụi nhiều ki-ốt, thiệt hại hơn 1 tỷ đồng.",
+      "start": 827.52,
+      "end": 836.36,
+      "n_words": 16,
+      "start_frame": 20688,
+      "end_frame": 20909,
+      "keyframes": [
+        "020698.webp",
+        "020730.webp",
+        "020731.webp",
+        "020751.webp",
+        "020771.webp",
+        "020772.webp",
+        "020787.webp",
+        "020803.webp",
+        "020804.webp",
+        "020820.webp",
+        "020836.webp",
+        "020837.webp",
+        "020850.webp",
+        "020863.webp",
+        "020864.webp",
+        "020899.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Chiều nay 10 tháng 8, tại thành phố Dĩ An, tỉnh Bình Dương đã xảy ra vụ tai nạn giao thông giữa một xe ôm và xe tải, vụ việc làm hai mẹ con tử vong tại chỗ.",
+      "start": 836.36,
+      "end": 846.76,
+      "n_words": 38,
+      "start_frame": 20909,
+      "end_frame": 21169,
+      "keyframes": [
+        "020935.webp",
+        "020936.webp",
+        "020993.webp",
+        "021050.webp",
+        "021051.webp",
+        "021109.webp",
+        "021168.webp",
+        "021169.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Gần 14:00 chiều cùng ngày, tài xế xe ôm công nghệ tên Trần Xuân Bảo, 49 tuổi, ngụ thành phố Thủ Đức, chở chị Võ Thị Sâm, 37 tuổi, ngụ thành phố Dĩ An và một bé trai tên Trần Bách Lân, 6 tuổi, con trai chị Sâm chạy trên đường Mỹ Phước - Tân Vạn.",
+      "start": 846.76,
+      "end": 862.6,
+      "n_words": 56,
+      "start_frame": 21169,
+      "end_frame": 21565,
+      "keyframes": [
+        "021169.webp",
+        "021210.webp",
+        "021252.webp",
+        "021253.webp",
+        "021268.webp",
+        "021283.webp",
+        "021284.webp",
+        "021308.webp",
+        "021332.webp",
+        "021333.webp",
+        "021359.webp",
+        "021386.webp",
+        "021387.webp",
+        "021405.webp",
+        "021423.webp",
+        "021424.webp",
+        "021492.webp",
+        "021561.webp",
+        "021562.webp"
+      ],
+      "keyframe_count": 19
+    },
+    {
+      "text": "Khi đến chốt đèn giao thông giao với đường Châu Thới, phường Bình An, thành phố Dĩ An thì va chạm với xe tải do tài xế Nguyễn Văn Rôn, 28 tuổi, quê Thừa Thiên Huế cầm lái chạy cùng chiều bên trái.",
+      "start": 862.6,
+      "end": 873.24,
+      "n_words": 43,
+      "start_frame": 21565,
+      "end_frame": 21831,
+      "keyframes": [
+        "021575.webp",
+        "021589.webp",
+        "021590.webp",
+        "021639.webp",
+        "021689.webp",
+        "021690.webp",
+        "021739.webp",
+        "021789.webp",
+        "021790.webp",
+        "021808.webp",
+        "021826.webp",
+        "021827.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Cú va chạm làm ba người trên xe ngã xuống đường, người phụ nữ và con trai bị cán tử vong tại chỗ, tài xế xe ôm may mắn thoát chết.",
+      "start": 873.24,
+      "end": 880.88,
+      "n_words": 31,
+      "start_frame": 21831,
+      "end_frame": 22022,
+      "keyframes": [
+        "021851.webp",
+        "021875.webp",
+        "021876.webp",
+        "021900.webp",
+        "021925.webp",
+        "021926.webp",
+        "021942.webp",
+        "021959.webp",
+        "021960.webp",
+        "021988.webp",
+        "022016.webp",
+        "022017.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Nhận tin báo, công an thành phố Dĩ An đã có mặt điều tiết giao thông, khám nghiệm hiện trường.",
+      "start": 880.88,
+      "end": 884.88,
+      "n_words": 20,
+      "start_frame": 22022,
+      "end_frame": 22122,
+      "keyframes": [
+        "022043.webp",
+        "022069.webp",
+        "022070.webp",
+        "022092.webp",
+        "022114.webp",
+        "022115.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thông tin trên app, tài xế xe ôm đón hai nạn nhân ở ngã ba Tân Vạn chở về đường Bùi Thị Xuân, thành phố Dĩ An.",
+      "start": 884.88,
+      "end": 891.12,
+      "n_words": 27,
+      "start_frame": 22122,
+      "end_frame": 22278,
+      "keyframes": [
+        "022139.webp",
+        "022163.webp",
+        "022217.webp",
+        "022246.webp",
+        "022275.webp",
+        "022276.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bước đầu xác định chiếc xe tải đã lấn vào làn xe máy.",
+      "start": 891.12,
+      "end": 895.64,
+      "n_words": 13,
+      "start_frame": 22278,
+      "end_frame": 22391,
+      "keyframes": [
+        "022307.webp",
+        "022338.webp",
+        "022339.webp",
+        "022357.webp",
+        "022376.webp",
+        "022377.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đến hơn 13:00 chiều nay 10 tháng 8, lực lượng chức năng vẫn đang khẩn trương xử lý khắc phục sự cố vụ tai nạn khiến xe container tông gãy trụ điện đường dây trung thế 22 kV xảy ra vào rạng sáng nay trên tỉnh lộ 8, huyện Củ Chi, thành phố Hồ Chí Minh.",
+      "start": 895.64,
+      "end": 911.84,
+      "n_words": 56,
+      "start_frame": 22391,
+      "end_frame": 22796,
+      "keyframes": [
+        "022572.webp",
+        "022768.webp",
+        "022769.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Khoảng hơn 0:00, xe container biển số tỉnh Bắc Ninh chạy trên tỉnh lộ 8 hướng về tỉnh Bình Dương, khi xe đến khu vực thuộc cầu ba xã Bình Mỹ, huyện Củ Chi thì húc văng vài chục mét dải phân cách bằng thép giữa đường, chiếc xe container lao qua chiều ngược lại va chạm với một xe tải khiến xe tải lật ngang.",
+      "start": 911.84,
+      "end": 928.72,
+      "n_words": 66,
+      "start_frame": 22796,
+      "end_frame": 23218,
+      "keyframes": [
+        "022873.webp",
+        "022978.webp",
+        "022979.webp",
+        "023022.webp",
+        "023066.webp",
+        "023067.webp",
+        "023122.webp",
+        "023178.webp",
+        "023179.webp",
+        "023201.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Chiếc xe container chỉ dừng lại khi tông gãy một trụ điện đường dây trung thế 22 kV và tông sập một phần cửa hàng bán đồ điện bên đường.",
+      "start": 928.72,
+      "end": 936.4,
+      "n_words": 30,
+      "start_frame": 23218,
+      "end_frame": 23410,
+      "keyframes": [
+        "023224.webp",
+        "023225.webp",
+        "023317.webp",
+        "023409.webp",
+        "023410.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thời điểm xảy ra tai nạn, bên trong cửa hàng không có người.",
+      "start": 936.4,
+      "end": 939.36,
+      "n_words": 13,
+      "start_frame": 23410,
+      "end_frame": 23484,
+      "keyframes": [
+        "023410.webp",
+        "023452.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Vụ tai nạn cũng khiến phụ xe của chiếc xe tải bị thương.",
+      "start": 939.36,
+      "end": 942.32,
+      "n_words": 13,
+      "start_frame": 23484,
+      "end_frame": 23558,
+      "keyframes": [
+        "023494.webp",
+        "023495.webp",
+        "023515.webp",
+        "023536.webp",
+        "023537.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nhận tin báo, lực lượng chức năng đã có mặt giải quyết hiện trường và xử lý vụ tai nạn.",
+      "start": 942.32,
+      "end": 946.96,
+      "n_words": 20,
+      "start_frame": 23558,
+      "end_frame": 23674,
+      "keyframes": [
+        "023560.webp",
+        "023584.webp",
+        "023585.webp",
+        "023614.webp",
+        "023643.webp",
+        "023644.webp",
+        "023668.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Hình ảnh từ camera an ninh nhà dân cho thấy thời điểm trên chiếc xe container vừa đổ dốc cầu Ba Bến đã tông dải phân cách và liên tiếp các xe, trụ điện, cửa hàng bên đường.",
+      "start": 946.96,
+      "end": 956.6,
+      "n_words": 38,
+      "start_frame": 23674,
+      "end_frame": 23915,
+      "keyframes": [
+        "023692.webp",
+        "023693.webp",
+        "023734.webp",
+        "023775.webp",
+        "023776.webp",
+        "023885.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Tai nạn cũng khiến hai xe máy khác ngã ra đường, tuy nhiên các nạn nhân cũng như phương tiện chỉ trầy xước nhẹ nên đã rời đi sau đó.",
+      "start": 956.88,
+      "end": 965.28,
+      "n_words": 30,
+      "start_frame": 23922,
+      "end_frame": 24132,
+      "keyframes": [
+        "023994.webp",
+        "023995.webp",
+        "024021.webp",
+        "024048.webp",
+        "024049.webp",
+        "024082.webp",
+        "024116.webp",
+        "024117.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Rạng sáng nay 10 tháng 8, một vụ cháy lớn đã xảy ra tại chợ Mỹ Đức, huyện Châu Phú, An Giang, lửa đã thiêu rụi nhiều cửa hàng, thiệt hại ước tính hơn 1 tỷ đồng.",
+      "start": 965.28,
+      "end": 975.48,
+      "n_words": 37,
+      "start_frame": 24132,
+      "end_frame": 24387,
+      "keyframes": [
+        "024208.webp",
+        "024300.webp",
+        "024301.webp",
+        "024333.webp",
+        "024365.webp",
+        "024366.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Khoảng 1:30 sáng, người dân phát hiện cháy tại một ki-ốt kinh doanh đồ nhựa liền tri hô báo cơ quan chức năng.",
+      "start": 975.48,
+      "end": 981.8,
+      "n_words": 23,
+      "start_frame": 24387,
+      "end_frame": 24545,
+      "keyframes": [
+        "024449.webp",
+        "024532.webp",
+        "024533.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Lửa nhanh chóng bao trùm cả cửa hàng và lan sang những căn bên cạnh.",
+      "start": 981.8,
+      "end": 985.48,
+      "n_words": 15,
+      "start_frame": 24545,
+      "end_frame": 24637,
+      "keyframes": [
+        "024580.webp",
+        "024628.webp",
+        "024629.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Một tiểu thương ở chợ cho biết đám cháy kèm theo nhiều tiếng nổ.",
+      "start": 985.48,
+      "end": 988.88,
+      "n_words": 14,
+      "start_frame": 24637,
+      "end_frame": 24722,
+      "keyframes": [
+        "024671.webp",
+        "024713.webp",
+        "024714.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Do hỏa hoạn xảy ra vào lúc khuya, chỉ một vài tiểu thương còn ở lại dùng các bình chữa cháy mini để dập lửa nhưng không được.",
+      "start": 988.88,
+      "end": 995.44,
+      "n_words": 28,
+      "start_frame": 24722,
+      "end_frame": 24886,
+      "keyframes": [
+        "024755.webp",
+        "024797.webp",
+        "024798.webp",
+        "024837.webp",
+        "024876.webp",
+        "024877.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Lực lượng chữa cháy đã có mặt để dập tắt đám cháy lúc 3:00 sáng.",
+      "start": 995.44,
+      "end": 999.36,
+      "n_words": 15,
+      "start_frame": 24886,
+      "end_frame": 24984,
+      "keyframes": [
+        "024901.webp",
+        "024926.webp",
+        "024927.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Vụ hỏa hoạn không gây thương vong nhưng đã thiêu rụi 15 cửa hàng của 8 hộ dân, thiệt hại khoảng 1.2 tỷ đồng.",
+      "start": 999.36,
+      "end": 1005.84,
+      "n_words": 24,
+      "start_frame": 24984,
+      "end_frame": 25146,
+      "keyframes": [
+        "025070.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nguyên nhân vụ cháy đang được điều tra làm rõ.",
+      "start": 1005.84,
+      "end": 1008.64,
+      "n_words": 10,
+      "start_frame": 25146,
+      "end_frame": 25216,
+      "keyframes": [
+        "025213.webp",
+        "025214.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Công an tỉnh Thanh Hóa cho biết vừa bắt quả tang hai cơ sở chuyên sản xuất bán nước giặt và nước rửa chén giả một thương hiệu nổi tiếng ở huyện Nông Cống.",
+      "start": 1008.64,
+      "end": 1016.6,
+      "n_words": 34,
+      "start_frame": 25216,
+      "end_frame": 25415,
+      "keyframes": [
+        "025368.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Lực lượng chức năng đã tạm giữ hai đối tượng, tịch thu số lượng lớn hàng giả.",
+      "start": 1016.6,
+      "end": 1021.92,
+      "n_words": 17,
+      "start_frame": 25415,
+      "end_frame": 25548,
+      "keyframes": [
+        "025523.webp",
+        "025524.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ngày 9 tháng 8, kiểm tra tổng kho Đông Hưng ở xã Tây Nông, huyện Nông Cống do Lê Tuấn Thành, 29 tuổi làm chủ, công an thu giữ 198 thùng nước giặt giả thương hiệu Omo, một máy vi tính, một máy tạo đơn hàng, 110 kg thùng bia các-tông.",
+      "start": 1021.92,
+      "end": 1036.48,
+      "n_words": 51,
+      "start_frame": 25548,
+      "end_frame": 25912,
+      "keyframes": [
+        "025552.webp",
+        "025581.webp",
+        "025582.webp",
+        "025608.webp",
+        "025634.webp",
+        "025635.webp",
+        "025646.webp",
+        "025657.webp",
+        "025658.webp",
+        "025673.webp",
+        "025689.webp",
+        "025690.webp",
+        "025717.webp",
+        "025745.webp",
+        "025746.webp",
+        "025779.webp",
+        "025813.webp",
+        "025814.webp",
+        "025835.webp",
+        "025857.webp",
+        "025858.webp",
+        "025875.webp",
+        "025892.webp",
+        "025893.webp",
+        "025910.webp"
+      ],
+      "keyframe_count": 25
+    },
+    {
+      "text": "Cùng ngày, khi kiểm tra cơ sở khác do Lê Hà Tuấn, 29 tuổi làm chủ ở xã Tân Phúc, công an thu giữ 433 thùng nước giặt giả thương hiệu Omo, khoảng 600 lít nước giặt chưa đóng chai, 47 thùng nước rửa chén giả nhãn hiệu Senly.",
+      "start": 1037.2,
+      "end": 1050.72,
+      "n_words": 49,
+      "start_frame": 25930,
+      "end_frame": 26268,
+      "keyframes": [
+        "026010.webp",
+        "026092.webp",
+        "026093.webp",
+        "026109.webp",
+        "026125.webp",
+        "026126.webp",
+        "026142.webp",
+        "026159.webp",
+        "026160.webp",
+        "026197.webp",
+        "026234.webp",
+        "026235.webp",
+        "026253.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Công an xác định Tuấn làm giả các sản phẩm nêu trên, còn Thành là người mua sản phẩm của Tuấn rồi bán trên sàn thương mại điện tử.",
+      "start": 1051.4,
+      "end": 1058.8,
+      "n_words": 29,
+      "start_frame": 26285,
+      "end_frame": 26470,
+      "keyframes": [
+        "026306.webp",
+        "026340.webp",
+        "026341.webp",
+        "026371.webp",
+        "026401.webp",
+        "026402.webp",
+        "026409.webp",
+        "026417.webp",
+        "026418.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Được biết là cơ sở sản xuất giấy vệ sinh, Tuấn dùng cơ sở này làm nơi pha chế, sang chiết các sản phẩm giả thương hiệu Omo.",
+      "start": 1058.8,
+      "end": 1065.52,
+      "n_words": 28,
+      "start_frame": 26470,
+      "end_frame": 26638,
+      "keyframes": [
+        "026480.webp",
+        "026543.webp",
+        "026544.webp",
+        "026566.webp",
+        "026589.webp",
+        "026590.webp",
+        "026637.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Mỗi tháng, các đối tượng này bán hơn 4.000 sản phẩm giả, thu lợi bất chính hàng trăm triệu đồng.",
+      "start": 1065.52,
+      "end": 1070.52,
+      "n_words": 20,
+      "start_frame": 26638,
+      "end_frame": 26763,
+      "keyframes": [
+        "026684.webp",
+        "026685.webp",
+        "026728.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Lê Hà Tuấn và Lê Tuấn Thành đang bị tạm giữ để điều tra. Những hình ảnh vừa rồi cũng đã khép lại chương trình 60 giây của chúng tôi.",
+      "start": 1070.52,
+      "end": 1079.16,
+      "n_words": 30,
+      "start_frame": 26763,
+      "end_frame": 26979,
+      "keyframes": [
+        "026772.webp",
+        "026773.webp",
+        "026828.webp",
+        "026884.webp",
+        "026885.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Xin chúc quý vị có một buổi tối cuối tuần thật vui vẻ. Xin kính chào tạm biệt và hẹn gặp lại.",
+      "start": 1079.16,
+      "end": 1084.48,
+      "n_words": 22,
+      "start_frame": 26979,
+      "end_frame": 27112,
+      "keyframes": [
+        "027012.webp"
+      ],
+      "keyframe_count": 1
+    }
+  ]
+}

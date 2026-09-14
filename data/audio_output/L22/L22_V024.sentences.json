@@ -1,0 +1,2609 @@
+{
+  "video_id": "L22_V024",
+  "fps": 25.0,
+  "n_sentences": 145,
+  "total_words": 4124,
+  "sentences": [
+    {
+      "text": "Chào mừng quý vị đến với chương trình 60 giây của Đài Truyền hình Thành phố Hồ Chí Minh.",
+      "start": 3.48,
+      "end": 9.68,
+      "n_words": 19,
+      "start_frame": 87,
+      "end_frame": 242,
+      "keyframes": [
+        "000221.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chương trình hôm nay của chúng tôi gồm có các nội dung chính sau đây: Mưa lớn trong ba ngày làm hoa màu ngập úng, sạt lở nhiều tuyến giao thông tại Cao Bằng; Khai mạc triển lãm Văn Miếu Quốc Tử Giám \"Ươm mầm khát vọng hiền tài\" tại Thành phố Hồ Chí Minh; Khởi tố nhóm thanh niên Hà Nam dùng kiếm chặt biển số xe máy rồi khoe lên mạng. Mưa lớn kéo dài ba ngày qua khiến mực nước tại các sông suối tại tỉnh Cao Bằng dâng cao.",
+      "start": 9.68,
+      "end": 38.12,
+      "n_words": 93,
+      "start_frame": 242,
+      "end_frame": 953,
+      "keyframes": [
+        "000386.webp",
+        "000387.webp",
+        "000402.webp",
+        "000417.webp",
+        "000418.webp",
+        "000432.webp",
+        "000447.webp",
+        "000448.webp",
+        "000463.webp",
+        "000478.webp",
+        "000479.webp",
+        "000496.webp",
+        "000513.webp",
+        "000514.webp",
+        "000530.webp",
+        "000547.webp",
+        "000548.webp",
+        "000563.webp",
+        "000578.webp",
+        "000579.webp",
+        "000593.webp",
+        "000608.webp",
+        "000609.webp",
+        "000623.webp",
+        "000637.webp",
+        "000638.webp",
+        "000661.webp",
+        "000684.webp",
+        "000685.webp",
+        "000703.webp",
+        "000722.webp",
+        "000723.webp",
+        "000741.webp",
+        "000760.webp",
+        "000761.webp",
+        "000786.webp",
+        "000811.webp",
+        "000812.webp"
+      ],
+      "keyframe_count": 38
+    },
+    {
+      "text": "Hậu quả là một số diện tích đất nông nghiệp bị ngập úng, nhiều tuyến giao thông bị ngập sâu trong nước, nhiều tuyến đường bị sạt lở.",
+      "start": 38.12,
+      "end": 46.12,
+      "n_words": 28,
+      "start_frame": 953,
+      "end_frame": 1153,
+      "keyframes": [
+        "000966.webp",
+        "001120.webp",
+        "001121.webp",
+        "001133.webp",
+        "001145.webp",
+        "001146.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Toàn tỉnh Cao Bằng có hơn 145 ha lúa và hoa màu bị ngập úng.",
+      "start": 46.12,
+      "end": 50.6,
+      "n_words": 15,
+      "start_frame": 1153,
+      "end_frame": 1265,
+      "keyframes": [
+        "001181.webp",
+        "001216.webp",
+        "001217.webp",
+        "001247.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Về giao thông, đường Hồ Chí Minh từ Hà Quảng đi Thành phố Cao Bằng, Quốc lộ 3 đoạn qua xã Bạch Đằng huyện Hòa An bị sạt lở nghiêm trọng gây ách tắc giao thông.",
+      "start": 50.6,
+      "end": 59.0,
+      "n_words": 36,
+      "start_frame": 1265,
+      "end_frame": 1475,
+      "keyframes": [
+        "001277.webp",
+        "001278.webp",
+        "001311.webp",
+        "001345.webp",
+        "001346.webp",
+        "001375.webp",
+        "001405.webp",
+        "001406.webp",
+        "001443.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đường tỉnh 20, đường tỉnh 202 huyện Nguyên Bình bị sụt lún tạo thành hố sâu gây tắc đường.",
+      "start": 59.0,
+      "end": 64.16,
+      "n_words": 19,
+      "start_frame": 1475,
+      "end_frame": 1604,
+      "keyframes": [
+        "001481.webp",
+        "001482.webp",
+        "001511.webp",
+        "001540.webp",
+        "001541.webp",
+        "001573.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Mưa lớn kéo dài cũng đã khiến cuộc sống của nhiều người dân ở các huyện Hòa An, Hà Quảng và thành phố Cao Bằng bị xáo trộn.",
+      "start": 64.16,
+      "end": 70.88,
+      "n_words": 28,
+      "start_frame": 1604,
+      "end_frame": 1772,
+      "keyframes": [
+        "001606.webp",
+        "001607.webp",
+        "001637.webp",
+        "001667.webp",
+        "001668.webp",
+        "001709.webp",
+        "001750.webp",
+        "001751.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Trước tình hình trên, chính quyền các địa phương theo dõi chặt chẽ tình hình, dự phòng các tình huống khẩn cấp, cắm biển cảnh báo, cử người canh gác, huy động lực lượng tại chỗ khẩn trương hỗ trợ nhân dân vùng ngập úng di dời tài sản đến nơi an toàn.",
+      "start": 70.88,
+      "end": 86.44,
+      "n_words": 53,
+      "start_frame": 1772,
+      "end_frame": 2161,
+      "keyframes": [
+        "001784.webp",
+        "001818.webp",
+        "001819.webp",
+        "001884.webp",
+        "001949.webp",
+        "001950.webp",
+        "001983.webp",
+        "002017.webp",
+        "002018.webp",
+        "002072.webp",
+        "002126.webp",
+        "002137.webp",
+        "002157.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Chuyển sang các thông tin khác, sáng nay 24 tháng 8, triển lãm Văn Miếu Quốc Tử Giám \"Ươm mầm khát vọng hiền tài\" diễn ra tại trường tiểu học Nguyễn Thái Sơn, Quận 3.",
+      "start": 86.44,
+      "end": 95.64,
+      "n_words": 35,
+      "start_frame": 2161,
+      "end_frame": 2391,
+      "keyframes": [
+        "002178.webp",
+        "002179.webp",
+        "002345.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Sự kiện nằm trong chương trình những ngày Hà Nội tại Thành phố Hồ Chí Minh.",
+      "start": 95.64,
+      "end": 101.56,
+      "n_words": 16,
+      "start_frame": 2391,
+      "end_frame": 2539,
+      "keyframes": [
+        "002511.webp",
+        "002532.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Không gian triển lãm có 30 hạng mục giới thiệu lịch sử hình thành của Văn Miếu Quốc Tử Giám, thể hiện ba giá trị tinh hoa nhất của đại học Việt Nam đó là truyền thống hiếu học, tinh thần tôn sư trọng đạo và tư tưởng trọng dụng hiền tài.",
+      "start": 101.56,
+      "end": 115.6,
+      "n_words": 52,
+      "start_frame": 2539,
+      "end_frame": 2890,
+      "keyframes": [
+        "002602.webp",
+        "002673.webp",
+        "002674.webp",
+        "002718.webp",
+        "002763.webp",
+        "002764.webp",
+        "002782.webp",
+        "002801.webp",
+        "002802.webp",
+        "002803.webp",
+        "002805.webp",
+        "002806.webp",
+        "002848.webp",
+        "002890.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Các khu vực được trưng bày theo hơi hướng hiện đại nhưng phù hợp với lứa tuổi học trò đó là các bức vẽ graffiti hình rồng, tham quan cụ rùa bằng công nghệ AI thế giới ảo giới thiệu về Văn Miếu Quốc Tử Giám.",
+      "start": 115.6,
+      "end": 129.8,
+      "n_words": 46,
+      "start_frame": 2890,
+      "end_frame": 3245,
+      "keyframes": [
+        "002890.webp",
+        "002891.webp",
+        "002905.webp",
+        "002920.webp",
+        "002921.webp",
+        "002940.webp",
+        "002960.webp",
+        "002961.webp",
+        "003016.webp",
+        "003071.webp",
+        "003072.webp",
+        "003112.webp",
+        "003152.webp",
+        "003153.webp",
+        "003182.webp",
+        "003211.webp",
+        "003212.webp",
+        "003227.webp",
+        "003242.webp",
+        "003243.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "\"Và chúng tôi muốn tổ chức các cuộc trưng bày này với mong muốn giới thiệu những cái giá trị, cái tinh hoa của đại học Việt Nam lưu giữ tại Văn Miếu Quốc Tử Giám đến với các em học sinh, đến với công chúng của Thành phố Hồ Chí Minh để thông qua đó muốn lan tỏa những giá trị của văn hóa Thăng Long Hà Nội\".",
+      "start": 129.8,
+      "end": 147.24,
+      "n_words": 69,
+      "start_frame": 3245,
+      "end_frame": 3681,
+      "keyframes": [
+        "003285.webp",
+        "003327.webp",
+        "003328.webp",
+        "003432.webp",
+        "003536.webp",
+        "003537.webp",
+        "003567.webp",
+        "003597.webp",
+        "003598.webp",
+        "003633.webp",
+        "003668.webp",
+        "003669.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Sự kiện diễn ra đến hết 31/10/2024.",
+      "start": 147.24,
+      "end": 148.84,
+      "n_words": 7,
+      "start_frame": 3681,
+      "end_frame": 3721,
+      "keyframes": [
+        "003697.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bộ Giáo dục và Đào tạo mới công bố dự thảo thông tư quy định về dạy thêm học thêm.",
+      "start": 154.08,
+      "end": 159.04,
+      "n_words": 20,
+      "start_frame": 3852,
+      "end_frame": 3976,
+      "keyframes": [
+        "003878.webp",
+        "003928.webp",
+        "003929.webp",
+        "003974.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Theo đó, nếu muốn dạy thêm, giáo viên phải báo cáo với hiệu trưởng về môn học, địa điểm, thời gian và cam kết với hiệu trưởng hoàn thành nhiệm vụ được giao.",
+      "start": 159.04,
+      "end": 166.48,
+      "n_words": 33,
+      "start_frame": 3976,
+      "end_frame": 4162,
+      "keyframes": [
+        "004019.webp",
+        "004050.webp",
+        "004070.webp",
+        "004090.webp",
+        "004091.webp",
+        "004123.webp",
+        "004155.webp",
+        "004156.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Giáo viên phải báo cáo, lập danh sách các học sinh này gửi lên hiệu trưởng cùng với đó là cam kết không dùng bất kỳ hình thức nào ép buộc học sinh học thêm.",
+      "start": 170.24,
+      "end": 180.08,
+      "n_words": 35,
+      "start_frame": 4256,
+      "end_frame": 4502,
+      "keyframes": [
+        "004261.webp",
+        "004282.webp",
+        "004283.webp",
+        "004294.webp",
+        "004305.webp",
+        "004306.webp",
+        "004317.webp",
+        "004328.webp",
+        "004329.webp",
+        "004352.webp",
+        "004375.webp",
+        "004376.webp",
+        "004400.webp",
+        "004425.webp",
+        "004426.webp",
+        "004445.webp",
+        "004465.webp",
+        "004466.webp",
+        "004481.webp",
+        "004496.webp",
+        "004497.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Thưa quý vị, sau gần hai năm thi công, cầu Nhơn Trạch lớn nhất vành đai 3 nối thành phố Hồ Chí Minh, Đồng Nai cơ bản thành hình.",
+      "start": 180.08,
+      "end": 186.8,
+      "n_words": 29,
+      "start_frame": 4502,
+      "end_frame": 4670,
+      "keyframes": [
+        "004636.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Hợp long nhịp chín đầu tiên dự kiến sẽ diễn ra vào tháng chín này.",
+      "start": 186.8,
+      "end": 191.16,
+      "n_words": 15,
+      "start_frame": 4670,
+      "end_frame": 4779,
+      "keyframes": [
+        "004776.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cầu Nhơn Trạch thuộc gói thầu CT1.1 trong hai gói xây lắp chính của dự án thành phần 1A trên tuyến vành đai 3 thành phố Hồ Chí Minh.",
+      "start": 191.16,
+      "end": 200.04,
+      "n_words": 29,
+      "start_frame": 4779,
+      "end_frame": 5001,
+      "keyframes": [
+        "004794.webp",
+        "004828.webp",
+        "004862.webp",
+        "004863.webp",
+        "004902.webp",
+        "004941.webp",
+        "004942.webp",
+        "005000.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Cầu bắc qua sông Đồng Nai dài hơn 2 km, rộng 19.5 m, tĩnh không thông thuyền 30 m, khoảng cách từ mực nước cao nhất tới gầm cầu.",
+      "start": 200.04,
+      "end": 208.72,
+      "n_words": 29,
+      "start_frame": 5001,
+      "end_frame": 5218,
+      "keyframes": [
+        "005059.webp",
+        "005060.webp",
+        "005115.webp",
+        "005170.webp",
+        "005171.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Khởi công tháng chín 2022, cầu Nhơn Trạch đến nay đạt khoảng 80% khối lượng.",
+      "start": 208.72,
+      "end": 214.32,
+      "n_words": 15,
+      "start_frame": 5218,
+      "end_frame": 5358,
+      "keyframes": [
+        "005222.webp",
+        "005273.webp",
+        "005274.webp",
+        "005336.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "So với hơn một năm trước, công trình đã cơ bản thành hình.",
+      "start": 214.32,
+      "end": 217.56,
+      "n_words": 13,
+      "start_frame": 5358,
+      "end_frame": 5439,
+      "keyframes": [
+        "005398.webp",
+        "005399.webp",
+        "005434.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Gói thầu xây cầu Nhơn Trạch trị giá hơn 1.600 tỷ đồng do nhà thầu Kumho E&C Hàn Quốc thi công.",
+      "start": 217.56,
+      "end": 223.8,
+      "n_words": 21,
+      "start_frame": 5439,
+      "end_frame": 5595,
+      "keyframes": [
+        "005470.webp",
+        "005471.webp",
+        "005514.webp",
+        "005557.webp",
+        "005558.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hợp đồng kéo dài đến tháng chín 2025 nhưng đơn vị đặt mục tiêu rút ngắn tiến độ bốn tháng, hoàn thành dịp 30 tháng 4.",
+      "start": 223.8,
+      "end": 231.92,
+      "n_words": 26,
+      "start_frame": 5595,
+      "end_frame": 5798,
+      "keyframes": [
+        "005599.webp",
+        "005640.webp",
+        "005641.webp",
+        "005672.webp",
+        "005704.webp",
+        "005705.webp",
+        "005744.webp",
+        "005784.webp",
+        "005785.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cầu gồm 39 trụ, trong đó phần cầu chính gồm năm trụ bốn nhịp.",
+      "start": 231.92,
+      "end": 236.08,
+      "n_words": 14,
+      "start_frame": 5798,
+      "end_frame": 5902,
+      "keyframes": [
+        "005834.webp",
+        "005884.webp",
+        "005885.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tháng chín tới, nhịp chính đầu tiên của cầu ở giữa sông Đồng Nai sẽ được hợp long trước khi nối thông các nhịp khác vào đầu 2025.",
+      "start": 236.08,
+      "end": 242.56,
+      "n_words": 28,
+      "start_frame": 5902,
+      "end_frame": 6064,
+      "keyframes": [
+        "005910.webp",
+        "005936.webp",
+        "005937.webp",
+        "005962.webp",
+        "005988.webp",
+        "005989.webp",
+        "006047.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Những hạng mục còn lại sau đó được nhà thầu hoàn thiện để thông xe vào dịp lễ năm sau.",
+      "start": 244.2,
+      "end": 249.32,
+      "n_words": 20,
+      "start_frame": 6105,
+      "end_frame": 6233,
+      "keyframes": [
+        "006106.webp",
+        "006107.webp",
+        "006147.webp",
+        "006187.webp",
+        "006188.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nhơn Trạch là cầu lớn nhất trên tuyến vành đai 3 thành phố Hồ Chí Minh.",
+      "start": 249.32,
+      "end": 252.88,
+      "n_words": 16,
+      "start_frame": 6233,
+      "end_frame": 6322,
+      "keyframes": [
+        "006239.webp",
+        "006291.webp",
+        "006292.webp",
+        "006319.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "So với hơn một năm trước, các trụ cầu giữa sông đã được xây dựng chuẩn bị nối nhịp.",
+      "start": 252.88,
+      "end": 260.04,
+      "n_words": 19,
+      "start_frame": 6322,
+      "end_frame": 6501,
+      "keyframes": [
+        "006347.webp",
+        "006348.webp",
+        "006370.webp",
+        "006392.webp",
+        "006393.webp",
+        "006417.webp",
+        "006442.webp",
+        "006443.webp",
+        "006461.webp",
+        "006479.webp",
+        "006480.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Tuyến cao tốc Cần Thơ - Cà Mau đoạn qua địa bàn tỉnh Hậu Giang đang được triển khai trong sự đồng thuận cao của người dân địa phương.",
+      "start": 260.04,
+      "end": 266.88,
+      "n_words": 29,
+      "start_frame": 6501,
+      "end_frame": 6672,
+      "keyframes": [
+        "006579.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tuy nhiên, việc thi công làm tắc tuyến đường dẫn nước tưới tiêu vào vườn cây ăn trái gây thiệt hại cho nhiều hộ dân.",
+      "start": 266.88,
+      "end": 274.24,
+      "n_words": 25,
+      "start_frame": 6672,
+      "end_frame": 6856,
+      "keyframes": [
+        "006678.webp",
+        "006679.webp",
+        "006758.webp",
+        "006837.webp",
+        "006838.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Xã Đông Phước A, huyện Châu Thành đã sớm bàn giao mặt bằng cho dự án nhưng giờ đây đang lo lắng cho hoạt động sản xuất nông nghiệp.",
+      "start": 274.96,
+      "end": 283.92,
+      "n_words": 29,
+      "start_frame": 6874,
+      "end_frame": 7098,
+      "keyframes": [
+        "006883.webp",
+        "006928.webp",
+        "006929.webp",
+        "006959.webp",
+        "006989.webp",
+        "006990.webp",
+        "007011.webp",
+        "007033.webp",
+        "007034.webp",
+        "007059.webp",
+        "007085.webp",
+        "007086.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "\"Đường cao tốc cày là toàn bộ hư hết toàn bộ không có nước tưới, tháng tư là nước sẽ cạn đáy mương\".",
+      "start": 283.92,
+      "end": 299.56,
+      "n_words": 23,
+      "start_frame": 7098,
+      "end_frame": 7489,
+      "keyframes": [
+        "007124.webp",
+        "007162.webp",
+        "007163.webp",
+        "007190.webp",
+        "007218.webp",
+        "007219.webp",
+        "007239.webp",
+        "007259.webp",
+        "007260.webp",
+        "007291.webp",
+        "007322.webp",
+        "007323.webp",
+        "007351.webp",
+        "007379.webp",
+        "007380.webp",
+        "007420.webp",
+        "007460.webp",
+        "007461.webp",
+        "007472.webp",
+        "007483.webp",
+        "007484.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Theo thống kê của Ủy ban nhân dân xã, tổng cộng có 24 hộ bị thiệt hại cây trồng, 117 hộ bị ảnh hưởng về nước tưới tiêu phục vụ sản xuất nông nghiệp.",
+      "start": 299.56,
+      "end": 309.12,
+      "n_words": 34,
+      "start_frame": 7489,
+      "end_frame": 7728,
+      "keyframes": [
+        "007501.webp",
+        "007518.webp",
+        "007519.webp",
+        "007619.webp",
+        "007720.webp",
+        "007721.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Tính toán phương án giải quyết vấn đề liên quan, cần có sự phối hợp chặt chẽ và nhanh chóng giữa đơn vị thi công và chủ đầu tư để đảm bảo ổn định sinh kế và hoạt động sản xuất cho bà con.",
+      "start": 313.6,
+      "end": 327.16,
+      "n_words": 44,
+      "start_frame": 7840,
+      "end_frame": 8179,
+      "keyframes": [
+        "007851.webp",
+        "007893.webp",
+        "007894.webp",
+        "007919.webp",
+        "007944.webp",
+        "007945.webp",
+        "007975.webp",
+        "008006.webp",
+        "008007.webp",
+        "008042.webp",
+        "008078.webp",
+        "008079.webp",
+        "008113.webp",
+        "008148.webp",
+        "008160.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Các nhà khảo cổ học phát hiện một địa điểm làm muối cổ xưa của người tiền sử tại tỉnh Quảng Ngãi.",
+      "start": 327.16,
+      "end": 332.24,
+      "n_words": 22,
+      "start_frame": 8179,
+      "end_frame": 8306,
+      "keyframes": [
+        "008299.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Dù đang trong quá trình nghiên cứu xác định chuẩn xác niên đại, nhưng bước đầu các chuyên gia khẳng định địa điểm này trễ nhất cũng từ thời cư dân văn hóa Sa Huỳnh, tức là cách đây hơn 2.000 năm và còn kéo dài đến tận ngày nay.",
+      "start": 332.24,
+      "end": 347.04,
+      "n_words": 50,
+      "start_frame": 8306,
+      "end_frame": 8676,
+      "keyframes": [
+        "008439.webp",
+        "008440.webp",
+        "008518.webp",
+        "008596.webp",
+        "008654.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Những dấu tích về kỹ thuật làm muối trên đá của người tiền sử được phát hiện tại khu vực gần đá có tên Trảng Muối ở làng Gò Cỏ, thị xã Đức Phổ.",
+      "start": 347.04,
+      "end": 354.96,
+      "n_words": 34,
+      "start_frame": 8676,
+      "end_frame": 8874,
+      "keyframes": [
+        "008694.webp",
+        "008735.webp",
+        "008736.webp",
+        "008753.webp",
+        "008770.webp",
+        "008771.webp",
+        "008800.webp",
+        "008829.webp",
+        "008830.webp",
+        "008852.webp",
+        "008874.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Địa điểm này rộng 10 ha, nằm trong không gian văn hóa Sa Huỳnh, di tích quốc gia đặc biệt gồm khu hồ chứa nước biển và khu vực ruộng muối trên đá.",
+      "start": 354.96,
+      "end": 363.44,
+      "n_words": 33,
+      "start_frame": 8874,
+      "end_frame": 9086,
+      "keyframes": [
+        "008874.webp",
+        "008875.webp",
+        "008892.webp",
+        "008909.webp",
+        "008910.webp",
+        "008928.webp",
+        "008947.webp",
+        "008948.webp",
+        "008973.webp",
+        "008999.webp",
+        "009000.webp",
+        "009038.webp",
+        "009077.webp",
+        "009078.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Ngày nay, một số cư dân địa phương vẫn duy trì kỹ thuật như hơn 2.000 năm trước.",
+      "start": 363.44,
+      "end": 368.32,
+      "n_words": 18,
+      "start_frame": 9086,
+      "end_frame": 9208,
+      "keyframes": [
+        "009097.webp",
+        "009117.webp",
+        "009118.webp",
+        "009136.webp",
+        "009155.webp",
+        "009156.webp",
+        "009181.webp",
+        "009207.webp",
+        "009208.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Anh Bò xưa kể lại là: \"cái muối này là nó có từ cái thời tiền sử, chú bót đồ của cô mới xuống đây làm, cô còn nhỏ cô mới theo mấy cô mấy bót đó\".",
+      "start": 368.32,
+      "end": 380.4,
+      "n_words": 37,
+      "start_frame": 9208,
+      "end_frame": 9510,
+      "keyframes": [
+        "009208.webp",
+        "009277.webp",
+        "009346.webp",
+        "009347.webp",
+        "009353.webp",
+        "009359.webp",
+        "009360.webp",
+        "009429.webp",
+        "009498.webp",
+        "009499.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Phương pháp phơi nước biển trên đá để kết tinh muối tương tự như đồng muối cổ Dương Phố ở Hải Nam, Trung Quốc, nơi có niên đại trễ hơn vào khoảng năm 800.",
+      "start": 380.4,
+      "end": 388.4,
+      "n_words": 34,
+      "start_frame": 9510,
+      "end_frame": 9710,
+      "keyframes": [
+        "009526.webp",
+        "009554.webp",
+        "009555.webp",
+        "009581.webp",
+        "009607.webp",
+        "009608.webp",
+        "009633.webp",
+        "009659.webp",
+        "009660.webp",
+        "009693.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Những cái mẫu có cái mẫu sò than hay là gì đó để chúng tôi xác định về mặt niên đại, ý nghĩa lớn về mặt so sánh chung cái khu vực làm muối của cư dân tiền sử này với khu vực Đông Nam Á và khu vực châu Á.",
+      "start": 390.24,
+      "end": 403.2,
+      "n_words": 51,
+      "start_frame": 9756,
+      "end_frame": 10080,
+      "keyframes": [
+        "009777.webp",
+        "009827.webp",
+        "009828.webp",
+        "009862.webp",
+        "009896.webp",
+        "009897.webp",
+        "009935.webp",
+        "009973.webp",
+        "009974.webp",
+        "010022.webp",
+        "010071.webp",
+        "010072.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Việc phát hiện đồng muối cổ này chứng minh người tiền sử Việt Nam đã nắm bắt kỹ thuật làm muối từ rất sớm.",
+      "start": 403.2,
+      "end": 410.68,
+      "n_words": 24,
+      "start_frame": 10080,
+      "end_frame": 10267,
+      "keyframes": [
+        "010095.webp",
+        "010119.webp",
+        "010120.webp",
+        "010136.webp",
+        "010152.webp",
+        "010153.webp",
+        "010186.webp",
+        "010220.webp",
+        "010221.webp",
+        "010241.webp",
+        "010261.webp",
+        "010262.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Trong vùng sa mạc Thar của Ấn Độ, nhiệt độ có khi lên trên 50 °C.",
+      "start": 410.68,
+      "end": 414.6,
+      "n_words": 16,
+      "start_frame": 10267,
+      "end_frame": 10365,
+      "keyframes": [
+        "010341.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Người dân tại đây kết hợp kỹ thuật cổ xưa với thiết kế hiện đại để làm nên một địa điểm học tập có không khí mát mẻ dễ chịu một cách tự nhiên.",
+      "start": 415.08,
+      "end": 425.04,
+      "n_words": 34,
+      "start_frame": 10377,
+      "end_frame": 10626,
+      "keyframes": [
+        "010421.webp",
+        "010422.webp",
+        "010479.webp",
+        "010536.webp",
+        "010537.webp",
+        "010567.webp",
+        "010597.webp",
+        "010622.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Trường nữ sinh này dùng cùng một loại vật liệu xây dựng với di tích cổ thế kỷ 12 ở gần đó.",
+      "start": 425.04,
+      "end": 430.28,
+      "n_words": 22,
+      "start_frame": 10626,
+      "end_frame": 10757,
+      "keyframes": [
+        "010660.webp",
+        "010698.webp",
+        "010699.webp",
+        "010717.webp",
+        "010735.webp",
+        "010736.webp",
+        "010757.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Người ta thấy nhiệt độ trong lớp học thấp hơn bên ngoài 20 độ.",
+      "start": 430.28,
+      "end": 433.68,
+      "n_words": 14,
+      "start_frame": 10757,
+      "end_frame": 10842,
+      "keyframes": [
+        "010757.webp",
+        "010778.webp",
+        "010779.webp",
+        "010805.webp",
+        "010831.webp",
+        "010832.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sân trường cũng là yếu tố giúp giảm nhiệt độ.",
+      "start": 433.68,
+      "end": 437.08,
+      "n_words": 10,
+      "start_frame": 10842,
+      "end_frame": 10927,
+      "keyframes": [
+        "010858.webp",
+        "010885.webp",
+        "010886.webp",
+        "010924.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Trường này độc đáo ở chỗ phòng học mát mẻ trong mùa hè nóng nực. Gạch lát thềm màu trắng để bớt hấp thụ nhiệt.",
+      "start": 437.08,
+      "end": 442.24,
+      "n_words": 25,
+      "start_frame": 10927,
+      "end_frame": 11056,
+      "keyframes": [
+        "010963.webp",
+        "010964.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Hình dáng sân trường dạng oval cũng giúp gió lưu thông tốt hơn.",
+      "start": 442.24,
+      "end": 447.0,
+      "n_words": 13,
+      "start_frame": 11056,
+      "end_frame": 11175,
+      "keyframes": [
+        "011059.webp",
+        "011154.webp",
+        "011155.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tường là đất có nhiều lỗ xốp giúp điều chỉnh độ ẩm và làm giảm nhiệt độ phòng một cách tự nhiên.",
+      "start": 450.6,
+      "end": 455.28,
+      "n_words": 22,
+      "start_frame": 11265,
+      "end_frame": 11382,
+      "keyframes": [
+        "011280.webp",
+        "011299.webp",
+        "011300.webp",
+        "011325.webp",
+        "011351.webp",
+        "011352.webp",
+        "011377.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Nhưng trên mái trường là những tấm pin mặt trời, tường bao có gắn lam thông gió giúp cản ánh nắng rát, trong khi cửa sổ được xây cao dễ đưa nhiệt từ trong thoát ra ngoài.",
+      "start": 455.28,
+      "end": 465.32,
+      "n_words": 37,
+      "start_frame": 11382,
+      "end_frame": 11633,
+      "keyframes": [
+        "011403.webp",
+        "011404.webp",
+        "011430.webp",
+        "011456.webp",
+        "011457.webp",
+        "011484.webp",
+        "011512.webp",
+        "011513.webp",
+        "011540.webp",
+        "011567.webp",
+        "011568.webp",
+        "011593.webp",
+        "011619.webp",
+        "011620.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Thiết kế này của kiến trúc sư Mia Kao Log.",
+      "start": 465.32,
+      "end": 468.24,
+      "n_words": 10,
+      "start_frame": 11633,
+      "end_frame": 11706,
+      "keyframes": [
+        "011652.webp",
+        "011685.webp",
+        "011686.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Việc thi công do cộng đồng địa phương đảm nhiệm, trong đó có cả cha mẹ học sinh. Campuchia vừa tổ chức lễ tiếp nhận các cổ vật nghệ thuật Khmer được Mỹ trao trả.",
+      "start": 468.24,
+      "end": 478.92,
+      "n_words": 35,
+      "start_frame": 11706,
+      "end_frame": 11973,
+      "keyframes": [
+        "011710.webp",
+        "011734.webp",
+        "011735.webp",
+        "011764.webp",
+        "011794.webp",
+        "011795.webp",
+        "011815.webp",
+        "011836.webp",
+        "011837.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đây là những tượng Phật và tượng trong tín ngưỡng đạo Hindu từng nằm trong bộ sưu tập tư nhân và bảo tàng cảnh sát và ngành tư pháp của Mỹ.",
+      "start": 478.92,
+      "end": 489.04,
+      "n_words": 31,
+      "start_frame": 11973,
+      "end_frame": 12226,
+      "keyframes": [
+        "011985.webp",
+        "012133.webp",
+        "012134.webp",
+        "012193.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Những năm gần đây gia tăng chiến dịch chống buôn lậu cổ vật quốc tế với New York được xem như là trung tâm của các hoạt động mua bán trao đổi cổ vật bị đánh cắp.",
+      "start": 489.04,
+      "end": 498.4,
+      "n_words": 37,
+      "start_frame": 12226,
+      "end_frame": 12460,
+      "keyframes": [
+        "012252.webp",
+        "012253.webp",
+        "012280.webp",
+        "012308.webp",
+        "012309.webp",
+        "012367.webp",
+        "012426.webp",
+        "012427.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Phát biểu tại lễ tiếp nhận cổ vật, Thủ tướng Campuchia ông Hun Manet cho biết những hiện vật được trưng bày trong sự kiện này là các tạo tác của nghệ thuật Khmer thuộc loại đẹp nhất.",
+      "start": 498.4,
+      "end": 509.4,
+      "n_words": 38,
+      "start_frame": 12460,
+      "end_frame": 12735,
+      "keyframes": [
+        "012516.webp",
+        "012605.webp",
+        "012606.webp",
+        "012634.webp",
+        "012662.webp",
+        "012663.webp",
+        "012720.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Đây là biểu hiện của sự hợp tác giữa hai nước.",
+      "start": 509.4,
+      "end": 512.52,
+      "n_words": 11,
+      "start_frame": 12735,
+      "end_frame": 12813,
+      "keyframes": [
+        "012777.webp",
+        "012778.webp",
+        "012811.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các hiện vật được trao trả gồm 70 tác phẩm nghệ thuật Khmer, trong đó có các tượng đá thể hiện các vị thần Mahabharata, Siva và Uma cùng với một tượng đúc đồng.",
+      "start": 512.52,
+      "end": 523.56,
+      "n_words": 34,
+      "start_frame": 12813,
+      "end_frame": 13089,
+      "keyframes": [
+        "012844.webp",
+        "012845.webp",
+        "012905.webp",
+        "012966.webp",
+        "012967.webp",
+        "013024.webp",
+        "013082.webp",
+        "013083.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Giai đoạn Khmer Đỏ cầm quyền 1975-1979 đã gia tăng nạn buôn lậu cổ vật Campuchia ra nước ngoài.",
+      "start": 523.56,
+      "end": 534.04,
+      "n_words": 19,
+      "start_frame": 13089,
+      "end_frame": 13351,
+      "keyframes": [
+        "013158.webp",
+        "013234.webp",
+        "013235.webp",
+        "013280.webp",
+        "013326.webp",
+        "013327.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đêm chung kết giải vô địch thế giới Jota không khí lần thứ 37 ở Phần Lan đã khép lại vào hôm 23 tháng 8.",
+      "start": 534.04,
+      "end": 540.4,
+      "n_words": 25,
+      "start_frame": 13351,
+      "end_frame": 13510,
+      "keyframes": [
+        "013402.webp",
+        "013477.webp",
+        "013478.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nhà vô địch năm nay là một thí sinh đến từ Canada.",
+      "start": 540.4,
+      "end": 545.96,
+      "n_words": 12,
+      "start_frame": 13510,
+      "end_frame": 13649,
+      "keyframes": [
+        "013517.webp",
+        "013556.webp",
+        "013557.webp",
+        "013589.webp",
+        "013622.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Sự kiện diễn ra tại Oulu, một thành phố nằm cách thủ đô Helsinki gần 540 km về phía bắc.",
+      "start": 545.96,
+      "end": 552.88,
+      "n_words": 20,
+      "start_frame": 13649,
+      "end_frame": 13822,
+      "keyframes": [
+        "013655.webp",
+        "013666.webp",
+        "013678.webp",
+        "013679.webp",
+        "013717.webp",
+        "013755.webp",
+        "013756.webp",
+        "013772.webp",
+        "013789.webp",
+        "013790.webp",
+        "013791.webp",
+        "013793.webp",
+        "013794.webp",
+        "013821.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Các thí sinh từ khắp thế giới đã thể hiện hết mình trên sân khấu với những nhạc cụ vô hình.",
+      "start": 552.88,
+      "end": 558.24,
+      "n_words": 21,
+      "start_frame": 13822,
+      "end_frame": 13956,
+      "keyframes": [
+        "013848.webp",
+        "013849.webp",
+        "013901.webp",
+        "013953.webp",
+        "013954.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Họ được chấm điểm dựa trên phần trình diễn hai bài hát trong hai vòng riêng biệt, mỗi vòng kéo dài 60 giây.",
+      "start": 558.24,
+      "end": 564.52,
+      "n_words": 23,
+      "start_frame": 13956,
+      "end_frame": 14113,
+      "keyframes": [
+        "014016.webp",
+        "014078.webp",
+        "014079.webp",
+        "014098.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Kết quả là Jacory Crolas đến từ Canada đã đăng quang trở thành nhà vô địch thế giới Juta không khí 2024.",
+      "start": 564.52,
+      "end": 572.48,
+      "n_words": 22,
+      "start_frame": 14113,
+      "end_frame": 14312,
+      "keyframes": [
+        "014117.webp",
+        "014118.webp",
+        "014134.webp",
+        "014151.webp",
+        "014152.webp",
+        "014231.webp",
+        "014311.webp",
+        "014312.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Nanami Servency Nagura của Nhật Bản và người chiến thắng cuộc thi năm 2022 là King Girang Gitran Grela Bream của Pháp lần lượt giành vị trí thứ hai và thứ ba.",
+      "start": 574.16,
+      "end": 587.04,
+      "n_words": 32,
+      "start_frame": 14354,
+      "end_frame": 14676,
+      "keyframes": [
+        "014359.webp",
+        "014407.webp",
+        "014408.webp",
+        "014426.webp",
+        "014444.webp",
+        "014445.webp",
+        "014498.webp",
+        "014551.webp",
+        "014552.webp",
+        "014599.webp",
+        "014646.webp",
+        "014647.webp",
+        "014657.webp",
+        "014667.webp",
+        "014668.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Người giành giải thí sinh được khán giả yêu thích nhất năm nay là Martin Clipper Dot từ Pháp với một chương trình biểu diễn dữ dội và càng trở nên kịch tính hơn. Chứng nhận di sản của tổ chức UNESCO.",
+      "start": 587.04,
+      "end": 616.44,
+      "n_words": 42,
+      "start_frame": 14676,
+      "end_frame": 15411,
+      "keyframes": [
+        "014680.webp",
+        "014693.webp",
+        "014694.webp",
+        "014723.webp",
+        "014752.webp",
+        "014753.webp",
+        "014784.webp",
+        "014815.webp",
+        "014816.webp",
+        "014859.webp",
+        "014903.webp",
+        "014904.webp",
+        "014920.webp",
+        "014936.webp",
+        "014937.webp",
+        "014963.webp",
+        "014990.webp",
+        "014991.webp",
+        "015016.webp",
+        "015041.webp",
+        "015042.webp",
+        "015082.webp",
+        "015123.webp",
+        "015124.webp",
+        "015270.webp"
+      ],
+      "keyframe_count": 25
+    },
+    {
+      "text": "Được biết The Beatles lần đầu tiên biểu diễn tại quán rượu kiểu Anh nằm trên đường Slater vào tháng tám năm 1960.",
+      "start": 616.44,
+      "end": 622.04,
+      "n_words": 23,
+      "start_frame": 15411,
+      "end_frame": 15551,
+      "keyframes": [
+        "015417.webp",
+        "015441.webp",
+        "015455.webp",
+        "015469.webp",
+        "015470.webp",
+        "015530.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Quản lý đầu tiên của ban nhạc The Beatles, ông Alan White, mở quán này vào năm 1957.",
+      "start": 623.2,
+      "end": 627.48,
+      "n_words": 18,
+      "start_frame": 15580,
+      "end_frame": 15687,
+      "keyframes": [
+        "015591.webp",
+        "015592.webp",
+        "015614.webp",
+        "015637.webp",
+        "015638.webp",
+        "015681.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Từ đó cho đến nay, Canada không chỉ là một điểm đến yêu thích của người dân địa phương mà còn là một di sản văn hóa quan trọng thu hút du khách từ khắp nơi trên thế giới.",
+      "start": 628.64,
+      "end": 637.68,
+      "n_words": 39,
+      "start_frame": 15716,
+      "end_frame": 15942,
+      "keyframes": [
+        "015725.webp",
+        "015726.webp",
+        "015799.webp",
+        "015872.webp",
+        "015873.webp",
+        "015941.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sự kiện công nhận di tích còn khẳng định Canada như là một nơi khởi đầu lan tỏa văn hóa âm nhạc Anh ra thế giới.",
+      "start": 637.68,
+      "end": 645.32,
+      "n_words": 26,
+      "start_frame": 15942,
+      "end_frame": 16133,
+      "keyframes": [
+        "016009.webp",
+        "016010.webp",
+        "016076.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tại Trung Quốc, ngành kinh doanh thú cưng có tiềm năng rất lớn, tạo ra thị trường trị giá đến hàng chục tỷ đô la.",
+      "start": 645.32,
+      "end": 652.84,
+      "n_words": 25,
+      "start_frame": 16133,
+      "end_frame": 16321,
+      "keyframes": [
+        "016143.webp",
+        "016144.webp",
+        "016177.webp",
+        "016210.webp",
+        "016211.webp",
+        "016238.webp",
+        "016266.webp",
+        "016267.webp",
+        "016291.webp",
+        "016315.webp",
+        "016316.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Hội chợ thú cưng châu Á Petfair 2024 mới khai mạc tại thành phố Thượng Hải, giới thiệu đủ loại sản phẩm đáp ứng nhu cầu các khách hàng ở đất nước tỷ dân này.",
+      "start": 652.84,
+      "end": 665.08,
+      "n_words": 35,
+      "start_frame": 16321,
+      "end_frame": 16627,
+      "keyframes": [
+        "016359.webp",
+        "016403.webp",
+        "016404.webp",
+        "016426.webp",
+        "016449.webp",
+        "016450.webp",
+        "016511.webp",
+        "016573.webp",
+        "016574.webp",
+        "016584.webp",
+        "016594.webp",
+        "016616.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Sự kiện cung cấp từ những giống thú cưng đến các phụ kiện thực phẩm dành cho động vật.",
+      "start": 665.08,
+      "end": 670.68,
+      "n_words": 19,
+      "start_frame": 16627,
+      "end_frame": 16767,
+      "keyframes": [
+        "016635.webp",
+        "016655.webp",
+        "016656.webp",
+        "016680.webp",
+        "016705.webp",
+        "016706.webp",
+        "016736.webp",
+        "016766.webp",
+        "016767.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Phần lớn mọi người đến xem các con vật lạ tại triển lãm là giới trẻ, có thể vì họ tò mò nhưng cũng muốn tìm kiếm học hỏi thêm kinh nghiệm chăm sóc thú cưng của mình.",
+      "start": 670.68,
+      "end": 679.52,
+      "n_words": 38,
+      "start_frame": 16767,
+      "end_frame": 16988,
+      "keyframes": [
+        "016767.webp",
+        "016874.webp",
+        "016981.webp",
+        "016982.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Trong khuôn khổ hội chợ còn có một cuộc thi chăm sóc chó cưng.",
+      "start": 679.52,
+      "end": 683.84,
+      "n_words": 14,
+      "start_frame": 16988,
+      "end_frame": 17096,
+      "keyframes": [
+        "017001.webp",
+        "017020.webp",
+        "017021.webp",
+        "017040.webp",
+        "017060.webp",
+        "017061.webp",
+        "017086.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cuộc thi là một cách để mọi người giới thiệu về sự khác biệt giữa các vùng miền và các kỹ thuật chăm sóc thú cưng.",
+      "start": 683.84,
+      "end": 689.2,
+      "n_words": 26,
+      "start_frame": 17096,
+      "end_frame": 17230,
+      "keyframes": [
+        "017112.webp",
+        "017113.webp",
+        "017132.webp",
+        "017152.webp",
+        "017153.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hội chợ này cũng cho thấy các xu hướng thịnh hành trong ngành nuôi dưỡng và chăm sóc thú cưng, đồng thời là tham chiếu để các nhà cung cấp dịch vụ nghiên cứu phát triển những sản phẩm mới để đáp ứng nhu cầu của thị trường trong tương lai.",
+      "start": 689.2,
+      "end": 700.64,
+      "n_words": 51,
+      "start_frame": 17230,
+      "end_frame": 17516,
+      "keyframes": [
+        "017327.webp",
+        "017501.webp",
+        "017502.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nền kinh tế thú cưng của Trung Quốc cho thấy tiềm năng phát triển to lớn, có đến hơn 4 triệu doanh nghiệp liên quan đến ngành.",
+      "start": 700.64,
+      "end": 707.12,
+      "n_words": 27,
+      "start_frame": 17516,
+      "end_frame": 17678,
+      "keyframes": [
+        "017522.webp",
+        "017543.webp",
+        "017544.webp",
+        "017564.webp",
+        "017585.webp",
+        "017586.webp",
+        "017606.webp",
+        "017626.webp",
+        "017627.webp",
+        "017649.webp",
+        "017672.webp",
+        "017673.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Sự kiện sẽ kết thúc vào cuối tuần này, dự kiến thu hút 100.000 chuyên gia trong ngành và 350.000 người yêu những bạn bốn chân. Tại Anh, lễ hội hóa trang Notting Hill sẽ diễn ra vào chủ nhật tuần này tại thủ đô London.",
+      "start": 707.12,
+      "end": 722.28,
+      "n_words": 46,
+      "start_frame": 17678,
+      "end_frame": 18057,
+      "keyframes": [
+        "017689.webp",
+        "017706.webp",
+        "017707.webp",
+        "017727.webp",
+        "017747.webp",
+        "017748.webp",
+        "017773.webp",
+        "017799.webp",
+        "017800.webp",
+        "017825.webp",
+        "017850.webp",
+        "017851.webp",
+        "017879.webp",
+        "017907.webp",
+        "017908.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Hiện các khâu chuẩn bị cho ngày khai mạc đang được gấp rút hoàn thành.",
+      "start": 722.28,
+      "end": 725.4,
+      "n_words": 15,
+      "start_frame": 18057,
+      "end_frame": 18135,
+      "keyframes": [
+        "018073.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Lễ hội mang đậm nét văn hóa của vùng Caribe tại Vương quốc Anh.",
+      "start": 725.4,
+      "end": 730.6,
+      "n_words": 14,
+      "start_frame": 18135,
+      "end_frame": 18265,
+      "keyframes": [
+        "018239.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Để chuẩn bị cho Carnival Notting Hill, các nhạc sĩ và vũ công đã có các buổi tập dượt.",
+      "start": 730.6,
+      "end": 736.08,
+      "n_words": 19,
+      "start_frame": 18265,
+      "end_frame": 18402,
+      "keyframes": [
+        "018317.webp",
+        "018356.webp",
+        "018395.webp",
+        "018396.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Lễ hội hóa trang này thật đặc biệt, không chỉ vì bản thân tôi xuất thân từ vùng Caribe mà còn bởi những gì mà lễ hội mang tới cho mọi người.",
+      "start": 746.24,
+      "end": 754.64,
+      "n_words": 32,
+      "start_frame": 18656,
+      "end_frame": 18866,
+      "keyframes": [
+        "018679.webp",
+        "018728.webp",
+        "018729.webp",
+        "018733.webp",
+        "018737.webp",
+        "018741.webp",
+        "018791.webp",
+        "018841.webp",
+        "018842.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đây là nét văn hóa độc đáo, nét văn hóa độc đáo của nước Anh.",
+      "start": 754.64,
+      "end": 757.76,
+      "n_words": 15,
+      "start_frame": 18866,
+      "end_frame": 18944,
+      "keyframes": [
+        "018872.webp",
+        "018902.webp",
+        "018903.webp",
+        "018921.webp",
+        "018939.webp",
+        "018940.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Notting Hill là một trong những cuộc biểu diễn nghệ thuật lớn mà chúng tôi tham gia mỗi năm.",
+      "start": 757.76,
+      "end": 762.8,
+      "n_words": 19,
+      "start_frame": 18944,
+      "end_frame": 19070,
+      "keyframes": [
+        "018980.webp",
+        "019021.webp",
+        "019022.webp",
+        "019046.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng tôi cũng tham gia các buổi biểu diễn âm nhạc lớn khác, chẳng hạn như lễ hội âm nhạc Glastonbury.",
+      "start": 762.8,
+      "end": 768.68,
+      "n_words": 21,
+      "start_frame": 19070,
+      "end_frame": 19217,
+      "keyframes": [
+        "019071.webp",
+        "019072.webp",
+        "019107.webp",
+        "019143.webp",
+        "019144.webp",
+        "019208.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Ở tất cả các sự kiện, các thành viên của nhóm đều cống hiến hết sức mình đem niềm vui đến cho khán giả.",
+      "start": 768.68,
+      "end": 775.6,
+      "n_words": 24,
+      "start_frame": 19217,
+      "end_frame": 19390,
+      "keyframes": [
+        "019272.webp",
+        "019273.webp",
+        "019303.webp",
+        "019334.webp",
+        "019335.webp",
+        "019358.webp",
+        "019381.webp",
+        "019382.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Notting Hill Carnival là sự kiện đường phố lớn nhất châu Âu, cũng là một trong những lễ hội hóa trang lớn nhất thế giới thu hút khoảng 2 triệu người tham gia mỗi năm.",
+      "start": 775.6,
+      "end": 784.76,
+      "n_words": 35,
+      "start_frame": 19390,
+      "end_frame": 19619,
+      "keyframes": [
+        "019418.webp",
+        "019454.webp",
+        "019455.webp",
+        "019530.webp",
+        "019605.webp",
+        "019606.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Năm nay lễ hội sẽ diễn ra từ ngày 25 đến ngày 26 tháng 8. Trở lại chương trình, thưa quý vị, tiếp thông tin vụ nhóm bốn thiếu niên chạy xe máy tăng tốc rồi nằm dài trên yên xe gây náo loạn đường Phạm Văn Đồng.",
+      "start": 784.76,
+      "end": 799.28,
+      "n_words": 48,
+      "start_frame": 19619,
+      "end_frame": 19982,
+      "keyframes": [
+        "019685.webp",
+        "019764.webp",
+        "019765.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Vào chiều ngày 17 tháng 8 hôm nay, cơ quan cảnh sát điều tra Công an quận Gò Vấp, thành phố Hồ Chí Minh đã xác minh và khởi tố bị can, thi hành lệnh cấm đi khỏi nơi cư trú đối với nhóm thiếu niên từ 16 đến 17 tuổi này để điều tra về hành vi gây rối trật tự công cộng.",
+      "start": 799.28,
+      "end": 813.08,
+      "n_words": 64,
+      "start_frame": 19982,
+      "end_frame": 20327,
+      "keyframes": [
+        "020060.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Một người trong nhóm bốn thanh niên gây rối khai nhận vừa độ xe máy nên rủ nhóm bạn ra đường thử xe và phân công người quay phim.",
+      "start": 814.76,
+      "end": 822.08,
+      "n_words": 29,
+      "start_frame": 20369,
+      "end_frame": 20552,
+      "keyframes": [
+        "020372.webp",
+        "020529.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cả nhóm chạy xe theo đường Nguyễn Thái Sơn đến khu vực nút giao Phạm Văn Đồng thì hướng về thành phố Thủ Đức rồi ngang nhiên cho xe chạy vào phần đường dành cho ô tô.",
+      "start": 822.08,
+      "end": 830.4,
+      "n_words": 37,
+      "start_frame": 20552,
+      "end_frame": 20760,
+      "keyframes": [
+        "020687.webp",
+        "020688.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Họ liên tục lạng lách đánh võng và nằm dài trên yên xe.",
+      "start": 830.4,
+      "end": 833.44,
+      "n_words": 13,
+      "start_frame": 20760,
+      "end_frame": 20836,
+      "keyframes": [
+        "020810.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ngoài bốn thanh niên lái xe gây rối còn có HQ, 22 tuổi, bị xử phạt hành chính về hành vi sử dụng trái phép chất ma túy.",
+      "start": 833.44,
+      "end": 840.92,
+      "n_words": 28,
+      "start_frame": 20836,
+      "end_frame": 21023,
+      "keyframes": [
+        "020933.webp",
+        "020934.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Người này cũng bị điều tra và làm rõ về tội danh gây rối trật tự công cộng với vai trò đồng phạm giúp sức tích cực.",
+      "start": 840.92,
+      "end": 848.56,
+      "n_words": 27,
+      "start_frame": 21023,
+      "end_frame": 21214,
+      "keyframes": [
+        "021065.webp",
+        "021196.webp",
+        "021197.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Một hành vi ngông cuồng khác của một nhóm thanh thiếu niên chỉ mới từ 15 đến 17 tuổi tại Hà Nam đó là dùng kiếm chặt biển số xe máy rồi khoe chiến tích trên mạng xã hội.",
+      "start": 848.56,
+      "end": 858.12,
+      "n_words": 39,
+      "start_frame": 21214,
+      "end_frame": 21453,
+      "keyframes": [
+        "021417.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nhóm này đã bị Công an thành phố Phủ Lý khởi tố vụ án, khởi tố bị can để điều tra về hành vi cướp tài sản vào sáng nay.",
+      "start": 858.12,
+      "end": 866.36,
+      "n_words": 30,
+      "start_frame": 21453,
+      "end_frame": 21659,
+      "keyframes": [
+        "021638.webp",
+        "021639.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Trước đó tối 16 tháng 8 tại phường Quang Trung, Nguyễn Ánh Đồng, Nguyễn Quốc Toàn, Đoàn Hoàng Việt chạy tốc độ cao, cầm theo kiếm truy đuổi chặn một xe máy của người khác rồi dùng kiếm chém đứt phần nhựa đuôi xe có gắn biển kiểm soát.",
+      "start": 866.36,
+      "end": 884.6,
+      "n_words": 49,
+      "start_frame": 21659,
+      "end_frame": 22115,
+      "keyframes": [
+        "021679.webp",
+        "021720.webp",
+        "021721.webp",
+        "021737.webp",
+        "021753.webp",
+        "021754.webp",
+        "021785.webp",
+        "021817.webp",
+        "021818.webp",
+        "021827.webp",
+        "021837.webp",
+        "021838.webp",
+        "021873.webp",
+        "021908.webp",
+        "021909.webp",
+        "021950.webp",
+        "021991.webp",
+        "021992.webp",
+        "022024.webp",
+        "022056.webp",
+        "022057.webp",
+        "022086.webp",
+        "022115.webp"
+      ],
+      "keyframe_count": 23
+    },
+    {
+      "text": "Sau đó nhóm này khoe lên mạng xã hội.",
+      "start": 884.6,
+      "end": 887.04,
+      "n_words": 9,
+      "start_frame": 22115,
+      "end_frame": 22176,
+      "keyframes": [
+        "022115.webp",
+        "022116.webp",
+        "022131.webp",
+        "022147.webp",
+        "022148.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nhận thấy tính chất mức độ nghiêm trọng của vụ việc, Cảnh sát hình sự Phủ Lý đã khẩn trương huy động lực lượng tập trung điều tra bắt giữ nhóm đối tượng trên.",
+      "start": 887.04,
+      "end": 895.04,
+      "n_words": 34,
+      "start_frame": 22176,
+      "end_frame": 22376,
+      "keyframes": [
+        "022181.webp",
+        "022215.webp",
+        "022216.webp",
+        "022246.webp",
+        "022276.webp",
+        "022277.webp",
+        "022315.webp",
+        "022353.webp",
+        "022354.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Tại cơ quan Công an, các đối tượng khai do thích phô trương và muốn thị uy với các nhóm thanh thiếu niên khác.",
+      "start": 895.04,
+      "end": 901.16,
+      "n_words": 24,
+      "start_frame": 22376,
+      "end_frame": 22529,
+      "keyframes": [
+        "022385.webp",
+        "022417.webp",
+        "022418.webp",
+        "022458.webp",
+        "022498.webp",
+        "022499.webp",
+        "022521.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Hiện cơ quan Công an đang tiếp tục điều tra làm rõ để xử lý nghiêm theo quy định của pháp luật.",
+      "start": 901.16,
+      "end": 908.04,
+      "n_words": 22,
+      "start_frame": 22529,
+      "end_frame": 22701,
+      "keyframes": [
+        "022544.webp",
+        "022545.webp",
+        "022584.webp",
+        "022624.webp",
+        "022625.webp",
+        "022654.webp",
+        "022683.webp",
+        "022684.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chiều nay, Công an thành phố Tân Uyên, Bình Dương điều tra vụ cháy xảy ra tại nhà xưởng cho thuê rộng khoảng 2.000 m², nằm tại phường Thạnh Phước.",
+      "start": 908.04,
+      "end": 916.04,
+      "n_words": 30,
+      "start_frame": 22701,
+      "end_frame": 22901,
+      "keyframes": [
+        "022842.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Vụ cháy khiến 200 m² nhà xưởng bị đổ sập.",
+      "start": 916.04,
+      "end": 920.56,
+      "n_words": 10,
+      "start_frame": 22901,
+      "end_frame": 23014,
+      "keyframes": [
+        "023001.webp",
+        "023002.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Theo thông tin ban đầu, vào khoảng 10:00 sáng nay, Đội Cảnh sát Phòng cháy chữa cháy Công an thành phố Tân Uyên nhận được tin báo về vụ cháy tại nhà xưởng cho thuê ở khu phố Tân Lư.",
+      "start": 920.56,
+      "end": 929.52,
+      "n_words": 40,
+      "start_frame": 23014,
+      "end_frame": 23238,
+      "keyframes": [
+        "023039.webp",
+        "023077.webp",
+        "023078.webp",
+        "023109.webp",
+        "023140.webp",
+        "023141.webp",
+        "023182.webp",
+        "023224.webp",
+        "023225.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Ngay lập tức, Công an đã điều động xe chữa cháy cùng cán bộ chiến sĩ đến hiện trường.",
+      "start": 929.52,
+      "end": 933.72,
+      "n_words": 19,
+      "start_frame": 23238,
+      "end_frame": 23343,
+      "keyframes": [
+        "023281.webp",
+        "023338.webp",
+        "023339.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Do bên trong nhà xưởng chứa nhiều mút xốp dễ cháy nên lửa nhanh chóng lan rộng, cột khói đen bốc cao cuồn cuộn.",
+      "start": 933.72,
+      "end": 939.52,
+      "n_words": 24,
+      "start_frame": 23343,
+      "end_frame": 23488,
+      "keyframes": [
+        "023387.webp",
+        "023435.webp",
+        "023436.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Sau khoảng 1 giờ nỗ lực dập lửa, đám cháy đã được khống chế.",
+      "start": 939.52,
+      "end": 942.56,
+      "n_words": 14,
+      "start_frame": 23488,
+      "end_frame": 23564,
+      "keyframes": [
+        "023498.webp",
+        "023561.webp",
+        "023562.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Vụ hỏa hoạn khiến 200 m² nhà xưởng bị đổ sập nhưng may mắn không có thương vong về người.",
+      "start": 942.56,
+      "end": 947.44,
+      "n_words": 20,
+      "start_frame": 23564,
+      "end_frame": 23686,
+      "keyframes": [
+        "023626.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Lực lượng chức năng đã cứu được tài sản bên trong trị giá khoảng 3 tỷ đồng.",
+      "start": 947.44,
+      "end": 951.08,
+      "n_words": 17,
+      "start_frame": 23686,
+      "end_frame": 23777,
+      "keyframes": [
+        "023691.webp",
+        "023692.webp",
+        "023757.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Được biết, nhà xưởng trên đã bị đình chỉ hoạt động từ ngày 24 tháng 5 theo quyết định của Công an thành phố Tân Uyên. Cũng tại Bình Dương, vào tối qua đã xảy ra tai nạn chết người tại thành phố Thuận An.",
+      "start": 951.08,
+      "end": 963.28,
+      "n_words": 45,
+      "start_frame": 23777,
+      "end_frame": 24082,
+      "keyframes": [
+        "023822.webp",
+        "023823.webp",
+        "023893.webp",
+        "023964.webp",
+        "023965.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Một người đàn ông đi xe máy chạy ngược chiều đã bị xe bốn bánh không kịp xử lý tông trực diện.",
+      "start": 963.28,
+      "end": 969.84,
+      "n_words": 22,
+      "start_frame": 24082,
+      "end_frame": 24246,
+      "keyframes": [
+        "024105.webp",
+        "024245.webp",
+        "024246.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thông tin ban đầu, tai nạn xảy ra khoảng 19:00 trên đường Nguyễn Thị Minh Khai, cú tông mạnh khiến xe máy bị dính chặt dưới gầm, nạn nhân tên VT, 44 tuổi, người địa phương văng ra xa và tử vong tại chỗ.",
+      "start": 969.84,
+      "end": 982.04,
+      "n_words": 44,
+      "start_frame": 24246,
+      "end_frame": 24551,
+      "keyframes": [
+        "024246.webp",
+        "024316.webp",
+        "024386.webp",
+        "024387.webp",
+        "024408.webp",
+        "024429.webp",
+        "024430.webp",
+        "024452.webp",
+        "024475.webp",
+        "024476.webp",
+        "024520.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Theo một số người dân có mặt tại hiện trường, anh T làm công nhân tại một lò gốm gần nơi xảy ra tai nạn, hàng ngày sau khi tăng ca anh này thường chạy xe ngược chiều một đoạn để tới ngã ba rồi qua đường.",
+      "start": 982.04,
+      "end": 992.64,
+      "n_words": 47,
+      "start_frame": 24551,
+      "end_frame": 24816,
+      "keyframes": [
+        "024564.webp",
+        "024565.webp",
+        "024583.webp",
+        "024601.webp",
+        "024602.webp",
+        "024621.webp",
+        "024641.webp",
+        "024642.webp",
+        "024661.webp",
+        "024681.webp",
+        "024682.webp",
+        "024704.webp",
+        "024726.webp",
+        "024727.webp",
+        "024756.webp",
+        "024785.webp",
+        "024786.webp",
+        "024810.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Thi thể người xấu số được gia đình đưa về lo hậu sự.",
+      "start": 992.64,
+      "end": 996.36,
+      "n_words": 13,
+      "start_frame": 24816,
+      "end_frame": 24909,
+      "keyframes": [
+        "024834.webp",
+        "024835.webp",
+        "024865.webp",
+        "024896.webp",
+        "024897.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thông tin từ người thân, khoảng gần 0:00 ngày 10 tháng tám, trong lúc đánh đuổi loài vật bò sát, nạn nhân là anh IQ, 37 tuổi, không may bị rắn cắn vào cổ chân.",
+      "start": 1011.2,
+      "end": 1022.24,
+      "n_words": 35,
+      "start_frame": 25280,
+      "end_frame": 25556,
+      "keyframes": [
+        "025402.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nạn nhân được đưa đi cấp cứu tại Trung tâm Y tế huyện rồi lần lượt đến Bệnh viện Đa khoa Vùng Tây Nguyên, Bệnh viện Chợ Rẫy Thành phố Hồ Chí Minh điều trị.",
+      "start": 1022.24,
+      "end": 1030.84,
+      "n_words": 35,
+      "start_frame": 25556,
+      "end_frame": 25771,
+      "keyframes": [
+        "025565.webp",
+        "025566.webp",
+        "025721.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tuy nhiên, sau hơn 10 ngày điều trị tích cực nhưng bệnh tình không có chuyển biến.",
+      "start": 1030.84,
+      "end": 1035.12,
+      "n_words": 17,
+      "start_frame": 25771,
+      "end_frame": 25878,
+      "keyframes": [
+        "025877.webp",
+        "025878.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Vào khoảng 23:30 ngày 22 tháng tám, anh đã tử vong.",
+      "start": 1035.12,
+      "end": 1039.68,
+      "n_words": 11,
+      "start_frame": 25878,
+      "end_frame": 25992,
+      "keyframes": [
+        "025878.webp",
+        "025941.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Được biết, hôm đó có hai con rắn cạp nia bò vào nhà, nạn nhân đánh được một con và bị tấn công, con còn lại đã thoát đi.",
+      "start": 1039.68,
+      "end": 1049.76,
+      "n_words": 29,
+      "start_frame": 25992,
+      "end_frame": 26244,
+      "keyframes": [
+        "026005.webp",
+        "026006.webp",
+        "026067.webp",
+        "026129.webp",
+        "026130.webp",
+        "026177.webp",
+        "026224.webp",
+        "026225.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Vừa qua, Lực lượng phòng chống ma túy và tội phạm Bộ đội Biên phòng Tây Ninh và các lực lượng đã triệt phá thành công đường dây mua bán người từ Việt Nam sang Campuchia, qua đó bắt được hai đối tượng và giải cứu thành công một nạn nhân đưa về nước.",
+      "start": 1049.76,
+      "end": 1064.4,
+      "n_words": 54,
+      "start_frame": 26244,
+      "end_frame": 26610,
+      "keyframes": [
+        "026406.webp",
+        "026587.webp",
+        "026588.webp",
+        "026603.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Qua lời khai của các nạn nhân, Công an đã bắt giữ Phạm Thị Kim Anh, 21 tuổi, ngụ Đồng Nai và Đới Thị Yến Linh, trong đó Linh là bạn thân từ nhỏ của em L, nạn nhân đã được giải cứu hôm 24 tháng bảy.",
+      "start": 1064.4,
+      "end": 1076.76,
+      "n_words": 47,
+      "start_frame": 26610,
+      "end_frame": 26919,
+      "keyframes": [
+        "026619.webp",
+        "026620.webp",
+        "026635.webp",
+        "026651.webp",
+        "026652.webp",
+        "026668.webp",
+        "026685.webp",
+        "026686.webp",
+        "026702.webp",
+        "026718.webp",
+        "026719.webp",
+        "026750.webp",
+        "026782.webp",
+        "026783.webp",
+        "026810.webp",
+        "026838.webp",
+        "026839.webp",
+        "026849.webp",
+        "026859.webp",
+        "026860.webp",
+        "026880.webp",
+        "026901.webp",
+        "026902.webp"
+      ],
+      "keyframe_count": 23
+    },
+    {
+      "text": "Qua đấu tranh, Kim Anh khai nhận cùng nhiều người Việt Nam làm việc ở casino Campuchia tạo các tài khoản mạng xã hội để lừa tuyển dụng người Việt Nam sang Bavet, tỉnh Svay Rieng làm việc mức lương từ 1.000 đến 2.000 đô la Mỹ một tháng.",
+      "start": 1076.76,
+      "end": 1091.44,
+      "n_words": 49,
+      "start_frame": 26919,
+      "end_frame": 27286,
+      "keyframes": [
+        "026932.webp",
+        "026963.webp",
+        "026964.webp",
+        "026993.webp",
+        "027023.webp",
+        "027024.webp",
+        "027045.webp",
+        "027067.webp",
+        "027097.webp",
+        "027110.webp",
+        "027124.webp",
+        "027149.webp",
+        "027171.webp",
+        "027194.webp",
+        "027195.webp",
+        "027245.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Sau đó, Kim Anh cùng đồng bọn bán các nạn nhân cho nhiều công ty cờ bạc lừa đảo với giá từ 100 đến 500 đô la Mỹ một người.",
+      "start": 1091.44,
+      "end": 1099.56,
+      "n_words": 30,
+      "start_frame": 27286,
+      "end_frame": 27489,
+      "keyframes": [
+        "027295.webp",
+        "027296.webp",
+        "027316.webp",
+        "027337.webp",
+        "027338.webp",
+        "027360.webp",
+        "027383.webp",
+        "027384.webp",
+        "027405.webp",
+        "027426.webp",
+        "027427.webp",
+        "027467.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Các nạn nhân bị cưỡng bức lao động, tra tấn, dùng nhục hình, chích điện, nếu ai không chịu nổi thì điện về gia đình mang tiền qua chuộc mạng.",
+      "start": 1099.56,
+      "end": 1110.36,
+      "n_words": 30,
+      "start_frame": 27489,
+      "end_frame": 27759,
+      "keyframes": [
+        "027507.webp",
+        "027508.webp",
+        "027609.webp",
+        "027710.webp",
+        "027711.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Công an đã khởi tố vụ án hình sự mua bán người dưới 16 tuổi và xử lý vụ việc theo quy định của pháp luật.",
+      "start": 1120.8,
+      "end": 1129.24,
+      "n_words": 26,
+      "start_frame": 28020,
+      "end_frame": 28231,
+      "keyframes": [
+        "028030.webp",
+        "028054.webp",
+        "028055.webp",
+        "028078.webp",
+        "028102.webp",
+        "028103.webp",
+        "028128.webp",
+        "028153.webp",
+        "028154.webp",
+        "028187.webp",
+        "028220.webp",
+        "028221.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Tay đua người Bỉ đã bứt phá để giành chiến thắng chặng 7 giải đua xe đạp Vuelta a España.",
+      "start": 1129.24,
+      "end": 1136.08,
+      "n_words": 20,
+      "start_frame": 28231,
+      "end_frame": 28402,
+      "keyframes": [
+        "028263.webp",
+        "028306.webp",
+        "028307.webp",
+        "028336.webp",
+        "028365.webp",
+        "028366.webp",
+        "028378.webp",
+        "028390.webp",
+        "028391.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đây là chiến thắng chặng thứ hai của anh trong cuộc đua năm nay, trong khi Ben O'Connor của Australia vẫn giữ vị trí dẫn đầu chung cuộc.",
+      "start": 1136.08,
+      "end": 1146.8,
+      "n_words": 28,
+      "start_frame": 28402,
+      "end_frame": 28670,
+      "keyframes": [
+        "028438.webp",
+        "028485.webp",
+        "028486.webp",
+        "028552.webp",
+        "028619.webp",
+        "028646.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chặng 7 từ Akidona đến Codaba dài 180.5 km với thách thức lớn nhất là đoạn đèo.",
+      "start": 1146.8,
+      "end": 1152.76,
+      "n_words": 17,
+      "start_frame": 28670,
+      "end_frame": 28819,
+      "keyframes": [
+        "028705.webp",
+        "028764.webp",
+        "028765.webp",
+        "028814.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Giai đoạn quyết định 25 km sau cùng diễn ra vô cùng căng thẳng.",
+      "start": 1158.84,
+      "end": 1163.08,
+      "n_words": 14,
+      "start_frame": 28971,
+      "end_frame": 29077,
+      "keyframes": [
+        "029027.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trong rút cadence group, nỗ lực đổ dốc để vào lại nhóm đầu nhưng không may va quẹt với Nero Kintana bị tuột lại.",
+      "start": 1163.08,
+      "end": 1170.56,
+      "n_words": 24,
+      "start_frame": 29077,
+      "end_frame": 29264,
+      "keyframes": [
+        "029114.webp",
+        "029115.webp",
+        "029177.webp",
+        "029239.webp",
+        "029240.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Công, đoàn đua nhập lại thành một nhóm lao về đích.",
+      "start": 1172.36,
+      "end": 1175.44,
+      "n_words": 11,
+      "start_frame": 29309,
+      "end_frame": 29386,
+      "keyframes": [
+        "029337.webp",
+        "029338.webp",
+        "029358.webp",
+        "029378.webp",
+        "029379.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Tuy nhiên tại đây, vút Vanas đã xuất sắc tung cú nước rút để cán đích đầu tiên với thời gian 4:15:39.",
+      "start": 1175.44,
+      "end": 1181.16,
+      "n_words": 22,
+      "start_frame": 29386,
+      "end_frame": 29529,
+      "keyframes": [
+        "029450.webp",
+        "029522.webp",
+        "029523.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đây là chiến thắng chặng thứ hai của tay đua người Bỉ ở cuộc đua năm nay và nó giúp anh củng cố áo xanh tổng sắp với 203 điểm.",
+      "start": 1183.2,
+      "end": 1190.92,
+      "n_words": 30,
+      "start_frame": 29580,
+      "end_frame": 29773,
+      "keyframes": [
+        "029690.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Về nhì và ba chặng này là tay đua Sepp Kuss và Primož Roglič của Tây Ban Nha.",
+      "start": 1190.92,
+      "end": 1197.8,
+      "n_words": 18,
+      "start_frame": 29773,
+      "end_frame": 29945,
+      "keyframes": [
+        "029858.webp",
+        "029859.webp",
+        "029910.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Vẫn bảo vệ được áo đỏ, cách biệt 4 phút 45 giây so với tay đua xếp hạng nhì Primož Roglič.",
+      "start": 1200.76,
+      "end": 1208.96,
+      "n_words": 21,
+      "start_frame": 30019,
+      "end_frame": 30224,
+      "keyframes": [
+        "030065.webp",
+        "030066.webp",
+        "030127.webp",
+        "030188.webp",
+        "030202.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thông tin cập nhật, thưa quý vị, chiều nay đã xảy ra tai nạn giao thông liên hoàn giữa xe khách và hai xe máy ngay trên cầu Rạch Miễu đoạn qua tỉnh Tiền Giang, đã ghi nhận thiệt hại nhân mạng.",
+      "start": 1208.96,
+      "end": 1220.8,
+      "n_words": 42,
+      "start_frame": 30224,
+      "end_frame": 30520,
+      "keyframes": [
+        "030338.webp",
+        "030475.webp",
+        "030491.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nhân chứng kiến tai nạn xảy ra vào khoảng 13:50, hai xe máy chạy cùng chiều va chạm nhau, một trong hai người đi xe máy ngã xuống đường thì bị xe ô tô khách mang biển kiểm soát tỉnh Bến Tre từ phía sau chạy tới đụng tiếp cú va chạm, khiến nam thanh niên chừng 20 tuổi tử vong, còn người kia may mắn bị xây xát nhẹ.",
+      "start": 1220.8,
+      "end": 1237.36,
+      "n_words": 70,
+      "start_frame": 30520,
+      "end_frame": 30934,
+      "keyframes": [
+        "030528.webp",
+        "030565.webp",
+        "030566.webp",
+        "030593.webp",
+        "030621.webp",
+        "030622.webp",
+        "030647.webp",
+        "030673.webp",
+        "030674.webp",
+        "030694.webp",
+        "030714.webp",
+        "030715.webp",
+        "030742.webp",
+        "030769.webp",
+        "030770.webp",
+        "030801.webp",
+        "030833.webp",
+        "030834.webp",
+        "030863.webp",
+        "030892.webp",
+        "030893.webp",
+        "030917.webp"
+      ],
+      "keyframe_count": 22
+    },
+    {
+      "text": "Cả ba phương tiện nằm chiếm hết một làn đường khiến lưu thông ngang qua bị ùn ứ kéo dài.",
+      "start": 1237.36,
+      "end": 1242.0,
+      "n_words": 20,
+      "start_frame": 30934,
+      "end_frame": 31050,
+      "keyframes": [
+        "030942.webp",
+        "030943.webp",
+        "030967.webp",
+        "030992.webp",
+        "030993.webp",
+        "031018.webp",
+        "031044.webp",
+        "031045.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Nhận tin báo, đơn vị nghiệp vụ có liên quan có mặt tại hiện trường điều tiết giao thông, điều tra nguyên nhân vụ tai nạn. Chương trình 60 giây hôm nay xin được khép lại tại đây.",
+      "start": 1242.0,
+      "end": 1252.36,
+      "n_words": 38,
+      "start_frame": 31050,
+      "end_frame": 31309,
+      "keyframes": [
+        "031133.webp",
+        "031221.webp",
+        "031222.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hẹn gặp lại quý vị trong chương trình 60 giây sáng mai phát sóng trên hai kênh HTV7 và HTV9 lúc 6:30. Cảm ơn sự quan tâm theo dõi của quý vị và xin chào tạm biệt.",
+      "start": 1252.36,
+      "end": 1262.08,
+      "n_words": 37,
+      "start_frame": 31309,
+      "end_frame": 31552,
+      "keyframes": [
+        "031416.webp"
+      ],
+      "keyframe_count": 1
+    }
+  ]
+}

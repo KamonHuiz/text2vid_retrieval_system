@@ -1,0 +1,704 @@
+{
+  "video_id": "L26_V126",
+  "fps": 25.0,
+  "n_sentences": 42,
+  "total_words": 1037,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày: lẩu hoa cá kèo chua chua cay cay.",
+      "start": 10.52,
+      "end": 14.8,
+      "n_words": 12,
+      "start_frame": 263,
+      "end_frame": 370,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000355.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Sơ chế ngay nhé. Chào các bạn khán giả đang theo dõi chương trình Món ngon mỗi ngày, nấu chuẩn an lành.",
+      "start": 14.8,
+      "end": 41.0,
+      "n_words": 22,
+      "start_frame": 370,
+      "end_frame": 1025,
+      "keyframes": [
+        "000410.webp",
+        "000411.webp",
+        "000462.webp",
+        "000514.webp",
+        "000529.webp",
+        "000626.webp",
+        "000723.webp",
+        "000724.webp",
+        "000814.webp",
+        "000904.webp",
+        "000905.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 41.0,
+      "end": 44.84,
+      "n_words": 11,
+      "start_frame": 1025,
+      "end_frame": 1121,
+      "keyframes": [
+        "001049.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nhìn nguyên liệu trên bàn, Phương nghĩ hôm nay mình sẽ nấu cái gì nào?",
+      "start": 45.28,
+      "end": 47.8,
+      "n_words": 15,
+      "start_frame": 1132,
+      "end_frame": 1195,
+      "keyframes": [
+        "001194.webp",
+        "001195.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Trời ơi, xin lỗi, nãy giờ Thanh Phương để là đĩa rau mà có rất là nhiều hoa trên đó luôn nha, chắc là món lẩu đúng không?",
+      "start": 47.8,
+      "end": 53.44,
+      "n_words": 28,
+      "start_frame": 1195,
+      "end_frame": 1336,
+      "keyframes": [
+        "001195.webp",
+        "001219.webp",
+        "001244.webp",
+        "001245.webp",
+        "001294.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đúng rồi.",
+      "start": 53.44,
+      "end": 53.84,
+      "n_words": 2,
+      "start_frame": 1336,
+      "end_frame": 1346,
+      "keyframes": [
+        "001344.webp",
+        "001345.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cá kèo thì xin cũng đã tranh thủ đi mua và làm sạch trước rồi.",
+      "start": 53.84,
+      "end": 56.8,
+      "n_words": 15,
+      "start_frame": 1346,
+      "end_frame": 1420,
+      "keyframes": [
+        "001383.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Các bạn nên nhớ đối với món này chúng ta nên chọn cá kèo tự nhiên để món ăn được ngọt và thơm hơn nha.",
+      "start": 56.8,
+      "end": 61.6,
+      "n_words": 25,
+      "start_frame": 1420,
+      "end_frame": 1540,
+      "keyframes": [
+        "001421.webp",
+        "001422.webp",
+        "001478.webp",
+        "001534.webp",
+        "001535.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Rau nè, mình thích rau gì thì mình mua rau đó, tùy vào khẩu vị gia đình của chúng ta ha. Tiếp theo, xin mời cà chua nè, thơm và hai trái ớt hiểm.",
+      "start": 61.6,
+      "end": 69.96,
+      "n_words": 34,
+      "start_frame": 1540,
+      "end_frame": 1749,
+      "keyframes": [
+        "001574.webp",
+        "001613.webp",
+        "001614.webp",
+        "001641.webp",
+        "001669.webp",
+        "001670.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Kèm theo cái phần rau nêm bên đó thì nhờ Phương là nhặt cái lá quế và chúng ta sẽ cắt nhuyễn ra để chúng ta nêm vào cái nồi lẩu sau khi nấu xong.",
+      "start": 69.96,
+      "end": 77.64,
+      "n_words": 35,
+      "start_frame": 1749,
+      "end_frame": 1941,
+      "keyframes": [
+        "001786.webp",
+        "001902.webp",
+        "001903.webp",
+        "001932.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Lại cà chua này thì chúng ta sẽ cắt múi cau, phần thơm này thì chúng ta sẽ cắt rẻ quạt nha.",
+      "start": 77.64,
+      "end": 98.28,
+      "n_words": 22,
+      "start_frame": 1941,
+      "end_frame": 2457,
+      "keyframes": [
+        "001962.webp",
+        "001963.webp",
+        "001999.webp",
+        "002035.webp",
+        "002036.webp",
+        "002075.webp",
+        "002115.webp",
+        "002116.webp",
+        "002167.webp",
+        "002219.webp",
+        "002220.webp",
+        "002244.webp",
+        "002268.webp",
+        "002269.webp",
+        "002340.webp",
+        "002412.webp",
+        "002413.webp",
+        "002437.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Ớt này thì xin sẽ đập dập thôi, mình không có băm ra, chỉ để nấu lấy cái mùi thơm và cái vị the nhẹ nhẹ trong canh thôi.",
+      "start": 98.28,
+      "end": 104.16,
+      "n_words": 29,
+      "start_frame": 2457,
+      "end_frame": 2604,
+      "keyframes": [
+        "002462.webp",
+        "002463.webp",
+        "002534.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Xin chuẩn bị cái nồi nước dùng gà nè, Phương mở lửa lên.",
+      "start": 104.16,
+      "end": 107.64,
+      "n_words": 13,
+      "start_frame": 2604,
+      "end_frame": 2691,
+      "keyframes": [
+        "002605.webp",
+        "002606.webp",
+        "002630.webp",
+        "002654.webp",
+        "002655.webp",
+        "002675.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Xin ơi, Phương rất là thích ăn cá kèo luôn á, nhưng mà cái công đoạn mà mình sơ chế làm sao để cho sạch, đừng có bị nhớt á.",
+      "start": 107.64,
+      "end": 112.88,
+      "n_words": 30,
+      "start_frame": 2691,
+      "end_frame": 2822,
+      "keyframes": [
+        "002695.webp",
+        "002696.webp",
+        "002755.webp",
+        "002815.webp",
+        "002816.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta sẽ dùng nước đá, nước lạnh, chúng ta ngâm cái phần cá kèo này vào thì cá sẽ không còn dảy nữa.",
+      "start": 112.88,
+      "end": 117.2,
+      "n_words": 24,
+      "start_frame": 2822,
+      "end_frame": 2930,
+      "keyframes": [
+        "002871.webp",
+        "002926.webp",
+        "002927.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Sau đó thì chúng ta sẽ vớt ra và cho vào nước giấm thật là chua thì cái phần nhớt ở bên ngoài sẽ đục lại và chúng ta dễ tuốt ra hơn.",
+      "start": 117.2,
+      "end": 124.0,
+      "n_words": 33,
+      "start_frame": 2930,
+      "end_frame": 3100,
+      "keyframes": [
+        "002942.webp",
+        "002958.webp",
+        "002959.webp",
+        "002987.webp",
+        "003016.webp",
+        "003017.webp",
+        "003044.webp",
+        "003071.webp",
+        "003072.webp",
+        "003092.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Sau đó chúng ta rửa với vòi nước lạnh và với muối lại thì cá sẽ không còn nhớt và trơn nữa.",
+      "start": 124.0,
+      "end": 127.84,
+      "n_words": 22,
+      "start_frame": 3100,
+      "end_frame": 3196,
+      "keyframes": [
+        "003113.webp",
+        "003114.webp",
+        "003137.webp",
+        "003160.webp",
+        "003161.webp",
+        "003177.webp",
+        "003194.webp",
+        "003195.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Cá kèo thì thuộc dòng cá bống trắng nè, có vị ngọt mặn, bổ phình nè và ngoài ra thì cá kèo còn giúp cho chúng ta có xương khớp được chắc khỏe hơn, lưu thông máu huyết cũng được tốt hơn nữa.",
+      "start": 127.84,
+      "end": 139.76,
+      "n_words": 43,
+      "start_frame": 3196,
+      "end_frame": 3494,
+      "keyframes": [
+        "003267.webp",
+        "003340.webp",
+        "003341.webp",
+        "003455.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Vậy các bạn nhớ cho cá kèo vào thực đơn hằng ngày của gia đình mình nhé.",
+      "start": 139.76,
+      "end": 142.84,
+      "n_words": 17,
+      "start_frame": 3494,
+      "end_frame": 3571,
+      "keyframes": [
+        "003570.webp",
+        "003571.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ nước đã sôi rồi, xin cho cái phần thơm và cà chua vào trước.",
+      "start": 142.84,
+      "end": 146.68,
+      "n_words": 16,
+      "start_frame": 3571,
+      "end_frame": 3667,
+      "keyframes": [
+        "003571.webp",
+        "003619.webp",
+        "003667.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta sẽ tiến hành nêm nếm cái nồi lẩu chúng ta trước luôn: có một muỗng cà phê bột ngọt Ajinomoto, thêm một muỗng rưỡi cà phê muối nè, một muỗng canh hạt nêm Aji-ngon gà, hai muỗng canh đường, bốn muỗng canh giấm gạo lên men Ajinomoto nữa nha, ba muỗng canh nước mắm truyền thống.",
+      "start": 146.68,
+      "end": 162.92,
+      "n_words": 58,
+      "start_frame": 3667,
+      "end_frame": 4073,
+      "keyframes": [
+        "003667.webp",
+        "003668.webp",
+        "003700.webp",
+        "003733.webp",
+        "003734.webp",
+        "003747.webp",
+        "003760.webp",
+        "003761.webp",
+        "003780.webp",
+        "003800.webp",
+        "003801.webp",
+        "003813.webp",
+        "003826.webp",
+        "003827.webp",
+        "003839.webp",
+        "003851.webp",
+        "003852.webp",
+        "003862.webp",
+        "003873.webp",
+        "003874.webp",
+        "003888.webp",
+        "003903.webp",
+        "003904.webp",
+        "003929.webp",
+        "003955.webp",
+        "003956.webp",
+        "003989.webp",
+        "004023.webp",
+        "004024.webp",
+        "004050.webp"
+      ],
+      "keyframe_count": 30
+    },
+    {
+      "text": "Các bạn nên nhớ là chúng ta nêm gia vị vào nồi trước khi cho cá vào để cá được săn và thơm ngon hơn nha.",
+      "start": 162.92,
+      "end": 168.56,
+      "n_words": 26,
+      "start_frame": 4073,
+      "end_frame": 4214,
+      "keyframes": [
+        "004077.webp",
+        "004078.webp",
+        "004145.webp",
+        "004213.webp",
+        "004214.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cái món lẩu này vừa thanh mát, vừa tốt cho sức khỏe và đặc biệt là với những người giảm cân thì rất là phù hợp luôn nha bởi vì trong cá kèo có chứa protein nè và lại ít chất béo nữa.",
+      "start": 168.56,
+      "end": 178.0,
+      "n_words": 43,
+      "start_frame": 4214,
+      "end_frame": 4450,
+      "keyframes": [
+        "004214.webp",
+        "004281.webp",
+        "004349.webp",
+        "004350.webp",
+        "004400.webp",
+        "004450.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Nhìn thấy là rất là thơm rồi, chúng ta sẽ cho cái phần cá kèo vào nha.",
+      "start": 178.0,
+      "end": 182.44,
+      "n_words": 17,
+      "start_frame": 4450,
+      "end_frame": 4561,
+      "keyframes": [
+        "004450.webp",
+        "004451.webp",
+        "004507.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thanh Phương rất là mê cái đĩa rau này bởi vì trong đây có rau nhúc nè, rồi bắp chuối nè, rồi có rau muống bào, giá, còn có bông điên điển này nha.",
+      "start": 182.44,
+      "end": 193.0,
+      "n_words": 34,
+      "start_frame": 4561,
+      "end_frame": 4825,
+      "keyframes": [
+        "004563.webp",
+        "004564.webp",
+        "004678.webp",
+        "004792.webp",
+        "004793.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Muốn xào đũa thì có nhiều vitamin C nè, tăng cường hệ miễn dịch cho cơ thể, còn có cả bông bí nữa.",
+      "start": 193.0,
+      "end": 198.24,
+      "n_words": 23,
+      "start_frame": 4825,
+      "end_frame": 4956,
+      "keyframes": [
+        "004858.webp",
+        "004924.webp",
+        "004925.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trời ơi, những ai mà thích ăn những cái món bông như thế này là cái món lẩu này rất là hợp khẩu vị luôn, vừa đẹp nè, vừa thơm ngon lại vừa dinh dưỡng, giảm cân nữa nha.",
+      "start": 198.24,
+      "end": 207.24,
+      "n_words": 39,
+      "start_frame": 4956,
+      "end_frame": 5181,
+      "keyframes": [
+        "004959.webp",
+        "004994.webp",
+        "004995.webp",
+        "005084.webp",
+        "005173.webp",
+        "005174.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi bây giờ cái phần nước đã sôi lại ha, xin sẽ cho mỗi thứ một nửa vào trước.",
+      "start": 207.24,
+      "end": 212.64,
+      "n_words": 19,
+      "start_frame": 5181,
+      "end_frame": 5316,
+      "keyframes": [
+        "005244.webp",
+        "005315.webp",
+        "005316.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cho một ít bông bí vào nè, rau nhúc vào, xua đũa vào, bông điên điển nữa.",
+      "start": 212.64,
+      "end": 220.92,
+      "n_words": 17,
+      "start_frame": 5316,
+      "end_frame": 5523,
+      "keyframes": [
+        "005316.webp",
+        "005342.webp",
+        "005368.webp",
+        "005369.webp",
+        "005393.webp",
+        "005418.webp",
+        "005419.webp",
+        "005446.webp",
+        "005474.webp",
+        "005475.webp",
+        "005500.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Bắp chuối và rau muống thì rất là dễ chín nên xin cho vào sau ha, một ít giá chính giữa nữa, rắc thêm một ít tỏi vào trong đó.",
+      "start": 220.92,
+      "end": 230.96,
+      "n_words": 30,
+      "start_frame": 5523,
+      "end_frame": 5774,
+      "keyframes": [
+        "005526.webp",
+        "005527.webp",
+        "005574.webp",
+        "005621.webp",
+        "005622.webp",
+        "005653.webp",
+        "005684.webp",
+        "005685.webp",
+        "005733.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Không thể nào thiếu những loại rau thơm này được, chúng ta sẽ cho một ít vào và bây giờ chúng ta sẽ tắt lửa nồi lẩu này ha.",
+      "start": 230.96,
+      "end": 237.24,
+      "n_words": 29,
+      "start_frame": 5774,
+      "end_frame": 5931,
+      "keyframes": [
+        "005781.webp",
+        "005782.webp",
+        "005828.webp",
+        "005874.webp",
+        "005875.webp",
+        "005927.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta sẽ chuyển sang một nồi lẩu khác và ngồi ăn với nhau xem nó ngon như thế nào. Sẵn sàng!",
+      "start": 237.24,
+      "end": 241.68,
+      "n_words": 22,
+      "start_frame": 5931,
+      "end_frame": 6042,
+      "keyframes": [
+        "005980.webp",
+        "005981.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và các bạn ơi, các bạn có thể quét mã QR để xem lại công thức của món ăn ngày hôm nay nhé.",
+      "start": 241.68,
+      "end": 247.84,
+      "n_words": 23,
+      "start_frame": 6042,
+      "end_frame": 6196,
+      "keyframes": [
+        "006066.webp",
+        "006151.webp",
+        "006152.webp",
+        "006176.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Rồi bây giờ xin phép múc ra ngoài bên cái nồi lẩu này nha, cho thêm một miếng nước lẩu nữa nha.",
+      "start": 247.84,
+      "end": 260.08,
+      "n_words": 22,
+      "start_frame": 6196,
+      "end_frame": 6502,
+      "keyframes": [
+        "006201.webp",
+        "006202.webp",
+        "006244.webp",
+        "006287.webp",
+        "006288.webp",
+        "006328.webp",
+        "006369.webp",
+        "006370.webp",
+        "006403.webp",
+        "006437.webp",
+        "006438.webp",
+        "006463.webp",
+        "006489.webp",
+        "006490.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Nước lẩu là trong, thơm ơi là thơm.",
+      "start": 260.08,
+      "end": 262.52,
+      "n_words": 8,
+      "start_frame": 6502,
+      "end_frame": 6563,
+      "keyframes": [
+        "006525.webp",
+        "006560.webp",
+        "006561.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Món này mà chúng ta có thể quây quần cùng với gia đình, bạn bè, người thân vào những dịp cuối tuần nè hoặc là vào những cái ngày hè hay ngày nghỉ lễ thì quả thật rất là tuyệt vời luôn đó ạ.",
+      "start": 262.52,
+      "end": 273.12,
+      "n_words": 44,
+      "start_frame": 6563,
+      "end_frame": 6828,
+      "keyframes": [
+        "006694.webp",
+        "006827.webp",
+        "006828.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cuối cùng thì có một chút xíu tỏi phi lên trên nữa.",
+      "start": 273.12,
+      "end": 275.68,
+      "n_words": 12,
+      "start_frame": 6828,
+      "end_frame": 6892,
+      "keyframes": [
+        "006828.webp",
+        "006888.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Món này thì mình sẽ ăn kèm với những món nào hả xin?",
+      "start": 275.68,
+      "end": 278.4,
+      "n_words": 13,
+      "start_frame": 6892,
+      "end_frame": 6960,
+      "keyframes": [
+        "006948.webp",
+        "006949.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đối với món lẩu ngày hôm nay xin nghĩ là chúng ta thêm món mực xào sốt tiêu xanh thì bữa cơm sẽ phù hợp hơn.",
+      "start": 278.4,
+      "end": 284.48,
+      "n_words": 26,
+      "start_frame": 6960,
+      "end_frame": 7112,
+      "keyframes": [
+        "007025.webp",
+        "007101.webp",
+        "007102.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nước lẩu chua thanh, cá kèo ngọt thịt lẫn chút đắng từ mật cá, thơm của tỏi phi, ăn kèm với các loại rau hoa tươi mát giòn ngọt, thật sự mê.",
+      "start": 284.48,
+      "end": 295.68,
+      "n_words": 32,
+      "start_frame": 7112,
+      "end_frame": 7392,
+      "keyframes": [
+        "007174.webp",
+        "007246.webp",
+        "007247.webp",
+        "007323.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Vào cuối tuần này, quây quần bên nồi lẩu hoa cá kèo chua chua ngọt ngọt thật đã những ngày hè.",
+      "start": 295.68,
+      "end": 301.48,
+      "n_words": 21,
+      "start_frame": 7392,
+      "end_frame": 7537,
+      "keyframes": [
+        "007399.webp",
+        "007400.webp",
+        "007469.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn có thể truy cập vào kênh YouTube, website và fanpage của chương trình Món ngon mỗi ngày để tìm hiểu thêm nhiều công thức của các món ăn ngon.",
+      "start": 301.48,
+      "end": 309.32,
+      "n_words": 31,
+      "start_frame": 7537,
+      "end_frame": 7733,
+      "keyframes": [
+        "007539.webp",
+        "007540.webp",
+        "007627.webp",
+        "007715.webp",
+        "007716.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

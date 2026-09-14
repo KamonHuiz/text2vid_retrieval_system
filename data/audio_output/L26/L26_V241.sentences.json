@@ -1,0 +1,831 @@
+{
+  "video_id": "L26_V241",
+  "fps": 25.0,
+  "n_sentences": 46,
+  "total_words": 1122,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày, nhanh gọn ngon hết ý với bò bít tết.",
+      "start": 10.52,
+      "end": 29.52,
+      "n_words": 13,
+      "start_frame": 263,
+      "end_frame": 738,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000334.webp",
+        "000368.webp",
+        "000369.webp",
+        "000424.webp",
+        "000480.webp",
+        "000495.webp",
+        "000528.webp",
+        "000561.webp",
+        "000562.webp",
+        "000652.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Rất vui được gặp lại các bạn đang theo dõi chương trình Món ngon mỗi ngày.",
+      "start": 29.52,
+      "end": 33.04,
+      "n_words": 16,
+      "start_frame": 738,
+      "end_frame": 826,
+      "keyframes": [
+        "000742.webp",
+        "000743.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 33.04,
+      "end": 36.8,
+      "n_words": 11,
+      "start_frame": 826,
+      "end_frame": 920,
+      "keyframes": [
+        "000836.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đối với món bò bít tết thì thịt thăn nội là cái phần mà rất là ngon của con bò, khi ăn thì chúng ta có cái độ mềm và đầy đủ chất dinh dưỡng hơn.",
+      "start": 36.8,
+      "end": 44.84,
+      "n_words": 36,
+      "start_frame": 920,
+      "end_frame": 1121,
+      "keyframes": [
+        "000930.webp",
+        "000931.webp",
+        "000988.webp",
+        "001046.webp",
+        "001047.webp",
+        "001083.webp",
+        "001119.webp",
+        "001120.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Phương Hương sẽ cắt ra thành từng miếng.",
+      "start": 44.84,
+      "end": 46.52,
+      "n_words": 8,
+      "start_frame": 1121,
+      "end_frame": 1163,
+      "keyframes": [
+        "001148.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta sẽ dùng cái đồ đập, chúng ta đập nè, để cho cái phần nó dẹp ra để khi ướp được thấm gia vị mà miếng bò trông cũng to hơn nữa, đúng rồi, và bò nó sẽ mềm hơn nữa.",
+      "start": 47.2,
+      "end": 56.52,
+      "n_words": 42,
+      "start_frame": 1180,
+      "end_frame": 1413,
+      "keyframes": [
+        "001242.webp",
+        "001307.webp",
+        "001308.webp",
+        "001361.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Lần lượt thì chúng ta sẽ đập hết bốn miếng bò này luôn.",
+      "start": 56.52,
+      "end": 59.12,
+      "n_words": 13,
+      "start_frame": 1413,
+      "end_frame": 1478,
+      "keyframes": [
+        "001414.webp",
+        "001415.webp",
+        "001454.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ cho vào, sẽ ướp gia vị vào trong thịt bò này.",
+      "start": 59.8,
+      "end": 63.36,
+      "n_words": 16,
+      "start_frame": 1495,
+      "end_frame": 1584,
+      "keyframes": [
+        "001495.webp",
+        "001522.webp",
+        "001549.webp",
+        "001550.webp",
+        "001565.webp",
+        "001581.webp",
+        "001582.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Ở đây Phương Hương xay thật làm mịn cái phần tỏi này, thì cái phần tỏi mịn này sẽ bám một cái lớp bên ngoài làm cho cái miếng thịt bò ngon hơn.",
+      "start": 63.36,
+      "end": 70.52,
+      "n_words": 33,
+      "start_frame": 1584,
+      "end_frame": 1763,
+      "keyframes": [
+        "001618.webp",
+        "001655.webp",
+        "001656.webp",
+        "001681.webp",
+        "001707.webp",
+        "001708.webp",
+        "001727.webp",
+        "001746.webp",
+        "001747.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cho vào đây nửa muỗng canh nước tương Phú Sĩ, một muỗng cà phê đường, nửa muỗng cà phê bột ngọt Ajinomoto, cho vào đây một ít tiêu để tăng thêm cái độ thơm cho phần thịt bò.",
+      "start": 70.52,
+      "end": 80.04,
+      "n_words": 38,
+      "start_frame": 1763,
+      "end_frame": 2001,
+      "keyframes": [
+        "001765.webp",
+        "001783.webp",
+        "001784.webp",
+        "001801.webp",
+        "001819.webp",
+        "001820.webp",
+        "001834.webp",
+        "001849.webp",
+        "001850.webp",
+        "001880.webp",
+        "001911.webp",
+        "001912.webp",
+        "001957.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Khuấy đều cái gia vị này, Phương Hương sẽ cho hết cái phần thịt bò vào trộn đều cái phần gia vị cho phần thịt bò được thấm.",
+      "start": 80.04,
+      "end": 87.12,
+      "n_words": 28,
+      "start_frame": 2001,
+      "end_frame": 2178,
+      "keyframes": [
+        "002003.webp",
+        "002004.webp",
+        "002030.webp",
+        "002056.webp",
+        "002057.webp",
+        "002082.webp",
+        "002108.webp",
+        "002109.webp",
+        "002122.webp",
+        "002135.webp",
+        "002136.webp",
+        "002155.webp",
+        "002174.webp",
+        "002175.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Để thấm khoảng 20 tới 30 phút.",
+      "start": 87.12,
+      "end": 89.12,
+      "n_words": 7,
+      "start_frame": 2178,
+      "end_frame": 2228,
+      "keyframes": [
+        "002200.webp",
+        "002225.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúng ta còn có những cái nguyên liệu ăn kèm cho món bò bít tết đó là salad và khoai tây chiên, không thể nào thiếu được.",
+      "start": 89.12,
+      "end": 95.56,
+      "n_words": 27,
+      "start_frame": 2228,
+      "end_frame": 2389,
+      "keyframes": [
+        "002299.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Với khoai tây này thì cũng có một cái lượng protein nhất định, quý vị ơi, protein trong khoai tây nó tương đương như là protein ở trong trứng vậy đó.",
+      "start": 95.56,
+      "end": 102.72,
+      "n_words": 31,
+      "start_frame": 2389,
+      "end_frame": 2568,
+      "keyframes": [
+        "002432.webp",
+        "002566.webp",
+        "002567.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và đối với món ăn ngày hôm nay thì Phương Hương sẽ giữ nguyên vỏ để giúp khoai tây khi chiên ăn sẽ giòn và ngon hơn.",
+      "start": 102.72,
+      "end": 109.32,
+      "n_words": 27,
+      "start_frame": 2568,
+      "end_frame": 2733,
+      "keyframes": [
+        "002647.webp",
+        "002728.webp",
+        "002729.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi bây giờ Phương Hương sẽ cắt hình muối cau cái phần khoai tây chiên nha.",
+      "start": 109.32,
+      "end": 113.28,
+      "n_words": 16,
+      "start_frame": 2733,
+      "end_frame": 2832,
+      "keyframes": [
+        "002743.webp",
+        "002758.webp",
+        "002759.webp",
+        "002771.webp",
+        "002784.webp",
+        "002785.webp",
+        "002808.webp",
+        "002831.webp",
+        "002832.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Rồi Phương Hương cũng đã chuẩn bị sẵn cho Phương Hương một cái tô nước lạnh pha một ít muối loãng, một ít muối loãng vào trong đó nè để ngâm khoai tây vào.",
+      "start": 113.28,
+      "end": 119.6,
+      "n_words": 34,
+      "start_frame": 2832,
+      "end_frame": 2990,
+      "keyframes": [
+        "002832.webp",
+        "002866.webp",
+        "002901.webp",
+        "002902.webp",
+        "002940.webp",
+        "002978.webp",
+        "002979.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Và bây giờ tiếp theo Phương Hương sẽ hướng dẫn cho các bạn, chúng ta sẽ pha cái hỗn hợp dầu giấm.",
+      "start": 119.6,
+      "end": 124.04,
+      "n_words": 22,
+      "start_frame": 2990,
+      "end_frame": 3101,
+      "keyframes": [
+        "003035.webp",
+        "003092.webp",
+        "003093.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đầu tiên Phương Hương sẽ cho vào đây là một muỗng canh đường, nửa muỗng canh giấm gạo lên men Ajinomoto, một muỗng canh nước lọc, nửa muỗng cà phê muối, một phần ba muỗng cà phê tiêu, một muỗng canh dầu ô liu.",
+      "start": 124.04,
+      "end": 135.36,
+      "n_words": 44,
+      "start_frame": 3101,
+      "end_frame": 3384,
+      "keyframes": [
+        "003129.webp",
+        "003166.webp",
+        "003167.webp",
+        "003185.webp",
+        "003204.webp",
+        "003205.webp",
+        "003206.webp",
+        "003207.webp",
+        "003208.webp",
+        "003222.webp",
+        "003236.webp",
+        "003237.webp",
+        "003256.webp",
+        "003275.webp",
+        "003276.webp",
+        "003290.webp",
+        "003305.webp",
+        "003306.webp",
+        "003325.webp",
+        "003344.webp",
+        "003345.webp",
+        "003360.webp",
+        "003376.webp",
+        "003377.webp"
+      ],
+      "keyframe_count": 24
+    },
+    {
+      "text": "Rồi và bây giờ chúng ta sẽ trộn đều cái hỗn hợp dầu giấm này lên.",
+      "start": 135.36,
+      "end": 139.04,
+      "n_words": 16,
+      "start_frame": 3384,
+      "end_frame": 3476,
+      "keyframes": [
+        "003401.webp",
+        "003425.webp",
+        "003426.webp",
+        "003450.webp",
+        "003475.webp",
+        "003476.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sau khi mà chúng ta khuấy đều cái hỗn hợp dầu giấm này rồi, và bây giờ Phương Hương sẽ cho cái phần củ hành tím mà chúng ta đã cắt lát mỏng vào đây.",
+      "start": 139.04,
+      "end": 146.44,
+      "n_words": 35,
+      "start_frame": 3476,
+      "end_frame": 3661,
+      "keyframes": [
+        "003476.webp",
+        "003529.webp",
+        "003583.webp",
+        "003584.webp",
+        "003620.webp",
+        "003657.webp",
+        "003658.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Còn với hành tây thì chúng ta sẽ cắt sợi để có thể trộn với lại salad cũng hấp dẫn lắm nha.",
+      "start": 146.44,
+      "end": 152.28,
+      "n_words": 22,
+      "start_frame": 3661,
+      "end_frame": 3807,
+      "keyframes": [
+        "003671.webp",
+        "003685.webp",
+        "003686.webp",
+        "003734.webp",
+        "003782.webp",
+        "003783.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và cà chua, cà chua thì chúng ta sẽ xắt đôi như thế này.",
+      "start": 152.28,
+      "end": 155.72,
+      "n_words": 14,
+      "start_frame": 3807,
+      "end_frame": 3893,
+      "keyframes": [
+        "003809.webp",
+        "003836.webp",
+        "003837.webp",
+        "003854.webp",
+        "003871.webp",
+        "003872.webp",
+        "003884.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Và bây giờ Phương Hương sẽ đặt lên trên bếp một cái chảo dầu để cho dầu được nóng để chúng ta chiên phần khoai tây.",
+      "start": 155.72,
+      "end": 160.56,
+      "n_words": 26,
+      "start_frame": 3893,
+      "end_frame": 4014,
+      "keyframes": [
+        "003897.webp",
+        "003898.webp",
+        "003918.webp",
+        "003938.webp",
+        "003939.webp",
+        "003975.webp",
+        "004012.webp",
+        "004013.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Cái phần khoai tây này chúng ta nhớ là chúng ta sẽ vớt ra để ráo trước khi chiên nha.",
+      "start": 160.56,
+      "end": 165.56,
+      "n_words": 20,
+      "start_frame": 4014,
+      "end_frame": 4139,
+      "keyframes": [
+        "004052.webp",
+        "004091.webp",
+        "004092.webp",
+        "004131.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và thêm một bí quyết nữa để khoai tây chiên giòn hơn đó là chúng ta sẽ chiên hai lần, đúng luôn.",
+      "start": 165.56,
+      "end": 169.88,
+      "n_words": 22,
+      "start_frame": 4139,
+      "end_frame": 4247,
+      "keyframes": [
+        "004171.webp",
+        "004172.webp",
+        "004209.webp",
+        "004247.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Tiếp theo Phương Hương sẽ đặt lên trên bếp một cái chảo chống dính để chúng ta áp chảo cái phần thịt bò.",
+      "start": 169.88,
+      "end": 174.56,
+      "n_words": 23,
+      "start_frame": 4247,
+      "end_frame": 4364,
+      "keyframes": [
+        "004247.webp",
+        "004248.webp",
+        "004281.webp",
+        "004315.webp",
+        "004316.webp",
+        "004339.webp",
+        "004362.webp",
+        "004363.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Khoai tây cũng đã vàng rồi, bây giờ Phương Hương sẽ vớt ra và mình thấm dầu.",
+      "start": 174.56,
+      "end": 178.24,
+      "n_words": 17,
+      "start_frame": 4364,
+      "end_frame": 4456,
+      "keyframes": [
+        "004396.webp",
+        "004429.webp",
+        "004430.webp",
+        "004454.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Phương Hương sẽ cho vào đây khoảng hai muỗng canh dầu ô liu để chúng ta áp chảo cái phần thịt bò.",
+      "start": 178.24,
+      "end": 183.48,
+      "n_words": 22,
+      "start_frame": 4456,
+      "end_frame": 4587,
+      "keyframes": [
+        "004479.webp",
+        "004480.webp",
+        "004503.webp",
+        "004527.webp",
+        "004528.webp",
+        "004557.webp",
+        "004587.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Và đây cũng là một cái lưu ý cho các bạn, chúng ta sẽ để chảo thật nóng và chúng ta hãy cho bò vào giúp cho bò chín mềm, khi ăn sẽ ngon hơn.",
+      "start": 183.48,
+      "end": 190.52,
+      "n_words": 35,
+      "start_frame": 4587,
+      "end_frame": 4763,
+      "keyframes": [
+        "004587.webp",
+        "004588.webp",
+        "004627.webp",
+        "004667.webp",
+        "004668.webp",
+        "004690.webp",
+        "004713.webp",
+        "004714.webp",
+        "004737.webp",
+        "004760.webp",
+        "004761.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Và cùng lúc luôn cho vào đây một nhánh hương thảo để tăng thêm hương vị đặc trưng cho phần bò bít tết.",
+      "start": 190.52,
+      "end": 195.32,
+      "n_words": 23,
+      "start_frame": 4763,
+      "end_frame": 4883,
+      "keyframes": [
+        "004821.webp",
+        "004882.webp",
+        "004883.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ Phương Hương cho vào chiên khoai tây lần hai để khoai tây được giòn hơn.",
+      "start": 195.32,
+      "end": 198.72,
+      "n_words": 17,
+      "start_frame": 4883,
+      "end_frame": 4968,
+      "keyframes": [
+        "004883.webp",
+        "004928.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Phương Hương sẽ trở cái phần thịt bò, à, có một cái độ cháy xém rất là ngon.",
+      "start": 198.72,
+      "end": 204.88,
+      "n_words": 18,
+      "start_frame": 4968,
+      "end_frame": 5122,
+      "keyframes": [
+        "004973.webp",
+        "004974.webp",
+        "005021.webp",
+        "005068.webp",
+        "005069.webp",
+        "005115.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đúng là cái mùi thơm của lá hương thảo nó quyện với lại cái thịt bò rất là hợp luôn.",
+      "start": 204.88,
+      "end": 209.08,
+      "n_words": 20,
+      "start_frame": 5122,
+      "end_frame": 5227,
+      "keyframes": [
+        "005161.webp",
+        "005162.webp",
+        "005207.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Á đúng rồi, khoai tây chiên của chúng ta cũng đã vàng giòn rồi nè.",
+      "start": 209.08,
+      "end": 214.0,
+      "n_words": 15,
+      "start_frame": 5227,
+      "end_frame": 5350,
+      "keyframes": [
+        "005252.webp",
+        "005253.webp",
+        "005280.webp",
+        "005307.webp",
+        "005308.webp",
+        "005328.webp",
+        "005349.webp",
+        "005350.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta sẽ rắc vào khoai tây chiên khoảng một phần ba muỗng cà phê muối và một phần ba muỗng cà phê tiêu để khoai tây chiên được đậm đà hơn.",
+      "start": 214.0,
+      "end": 220.56,
+      "n_words": 32,
+      "start_frame": 5350,
+      "end_frame": 5514,
+      "keyframes": [
+        "005350.webp",
+        "005390.webp",
+        "005431.webp",
+        "005432.webp",
+        "005453.webp",
+        "005474.webp",
+        "005475.webp",
+        "005494.webp",
+        "005513.webp",
+        "005514.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Bây giờ thì phần thịt bò cũng đã vừa chín tới rồi.",
+      "start": 220.56,
+      "end": 223.12,
+      "n_words": 12,
+      "start_frame": 5514,
+      "end_frame": 5578,
+      "keyframes": [
+        "005514.webp",
+        "005545.webp",
+        "005577.webp",
+        "005578.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đối với món ăn ngày hôm nay thì chúng ta sẽ cho vào ít bơ cuối cùng để cho phần thịt bò bóng nè, mềm khi ăn sẽ thơm ngon hơn.",
+      "start": 223.12,
+      "end": 229.52,
+      "n_words": 31,
+      "start_frame": 5578,
+      "end_frame": 5738,
+      "keyframes": [
+        "005578.webp",
+        "005607.webp",
+        "005636.webp",
+        "005637.webp",
+        "005661.webp",
+        "005686.webp",
+        "005687.webp",
+        "005711.webp",
+        "005735.webp",
+        "005736.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Và để tìm hiểu kỹ về công thức của món ăn hấp dẫn ngày hôm nay, các bạn nhớ quét mã QR đang hiển thị trên màn hình nhé.",
+      "start": 229.52,
+      "end": 236.84,
+      "n_words": 29,
+      "start_frame": 5738,
+      "end_frame": 5921,
+      "keyframes": [
+        "005766.webp",
+        "005797.webp",
+        "005798.webp",
+        "005837.webp",
+        "005877.webp",
+        "005878.webp",
+        "005902.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Và bây giờ chúng ta sẽ ra món nè.",
+      "start": 236.84,
+      "end": 238.72,
+      "n_words": 9,
+      "start_frame": 5921,
+      "end_frame": 5968,
+      "keyframes": [
+        "005927.webp",
+        "005928.webp",
+        "005955.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi Thanh Phương sẽ trang trí cái phần salad nha.",
+      "start": 238.72,
+      "end": 240.84,
+      "n_words": 10,
+      "start_frame": 5968,
+      "end_frame": 6021,
+      "keyframes": [
+        "005982.webp",
+        "005983.webp",
+        "006001.webp",
+        "006019.webp",
+        "006020.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Trong đó Phương Hương sẽ làm cái phần thịt bò, ít khoai tây chiên vào, cho phần thịt bò vào.",
+      "start": 240.84,
+      "end": 248.64,
+      "n_words": 20,
+      "start_frame": 6021,
+      "end_frame": 6216,
+      "keyframes": [
+        "006047.webp",
+        "006074.webp",
+        "006075.webp",
+        "006091.webp",
+        "006108.webp",
+        "006109.webp",
+        "006119.webp",
+        "006130.webp",
+        "006131.webp",
+        "006153.webp",
+        "006175.webp",
+        "006176.webp",
+        "006196.webp",
+        "006216.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Rồi bây giờ Phương Hương sẽ cắt phần bò ra nè, rồi cho vào rắc lên trên đây một ít lá hương thảo băm, rưới vào phần sa lách một ít xốt dầu giấm mà chúng ta đã pha từ ban đầu và cho lên đây một ít hành tím chúng ta đã ngâm với giấm luôn rồi. Wow, món ăn cực kỳ hấp dẫn luôn!",
+      "start": 248.64,
+      "end": 268.72,
+      "n_words": 66,
+      "start_frame": 6216,
+      "end_frame": 6718,
+      "keyframes": [
+        "006216.webp",
+        "006217.webp",
+        "006248.webp",
+        "006280.webp",
+        "006281.webp",
+        "006304.webp",
+        "006328.webp",
+        "006329.webp",
+        "006349.webp",
+        "006369.webp",
+        "006370.webp",
+        "006385.webp",
+        "006400.webp",
+        "006401.webp",
+        "006416.webp",
+        "006431.webp",
+        "006432.webp",
+        "006481.webp",
+        "006530.webp",
+        "006531.webp",
+        "006645.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Và để có một cái bữa ăn dinh dưỡng thì chúng ta phải ăn kèm những cái món hài hòa ha, thì chúng ta sẽ kết hợp với món sa lách trộn xốt cam ăn cũng sẽ rất là tuyệt vời.",
+      "start": 268.72,
+      "end": 277.68,
+      "n_words": 41,
+      "start_frame": 6718,
+      "end_frame": 6942,
+      "keyframes": [
+        "006760.webp",
+        "006761.webp",
+        "006787.webp",
+        "006814.webp",
+        "006815.webp",
+        "006873.webp",
+        "006931.webp",
+        "006932.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Mềm mọng, thấm vị ngọt thịt, thơm mùi lá hương thảo, khoai tây chiên bùi xoa giòn giòn, chua chua ngọt ngọt kích thích vị giác vô cùng, một món Tây vô cùng ngậy.",
+      "start": 278.32,
+      "end": 289.84,
+      "n_words": 34,
+      "start_frame": 6958,
+      "end_frame": 7246,
+      "keyframes": [
+        "006962.webp",
+        "006992.webp",
+        "007007.webp",
+        "007051.webp",
+        "007096.webp",
+        "007097.webp",
+        "007153.webp",
+        "007210.webp",
+        "007211.webp",
+        "007232.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Nếu như các bạn muốn tìm hiểu kỹ về công thức của món ăn ngày hôm nay, vui lòng truy cập vào kênh YouTube, website và fanpage của chương trình nhé.",
+      "start": 290.12,
+      "end": 297.84,
+      "n_words": 31,
+      "start_frame": 7253,
+      "end_frame": 7446,
+      "keyframes": [
+        "007254.webp",
+        "007255.webp",
+        "007337.webp",
+        "007420.webp",
+        "007421.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

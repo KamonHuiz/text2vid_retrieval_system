@@ -1,0 +1,650 @@
+{
+  "video_id": "L26_V344",
+  "fps": 25.0,
+  "n_sentences": 33,
+  "total_words": 844,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.52,
+      "end": 12.56,
+      "n_words": 4,
+      "start_frame": 263,
+      "end_frame": 314,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Trời ơi, không có đi được Hàn Quốc thì bây giờ ăn món Hàn Quốc.",
+      "start": 12.56,
+      "end": 21.0,
+      "n_words": 15,
+      "start_frame": 314,
+      "end_frame": 525,
+      "keyframes": [
+        "000380.webp",
+        "000461.webp",
+        "000462.webp",
+        "000506.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Trời ơi ôi sao hôm nay nói tiếng Hàn Quốc.",
+      "start": 21.0,
+      "end": 25.48,
+      "n_words": 10,
+      "start_frame": 525,
+      "end_frame": 637,
+      "keyframes": [
+        "000551.webp",
+        "000552.webp",
+        "000606.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trời ơi, đang dưa leo mình chấm với nước tương đó.",
+      "start": 25.48,
+      "end": 29.44,
+      "n_words": 11,
+      "start_frame": 637,
+      "end_frame": 736,
+      "keyframes": [
+        "000661.webp",
+        "000662.webp",
+        "000728.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Anh biết sao em đâu có được đi Hàn Quốc đâu, thèm bây giờ mà mỗi cái món mà nướng đậm đà sốt nướng với lại kim chi nha, rồi ăn với lại rau củ nữa, ước gì được ăn.",
+      "start": 29.44,
+      "end": 43.76,
+      "n_words": 40,
+      "start_frame": 736,
+      "end_frame": 1094,
+      "keyframes": [
+        "000795.webp",
+        "000796.webp",
+        "000816.webp",
+        "000836.webp",
+        "000837.webp",
+        "000912.webp",
+        "000988.webp",
+        "000989.webp",
+        "001014.webp",
+        "001039.webp",
+        "001040.webp",
+        "001071.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Rồi bây giờ thì chúng ta sẽ làm một món thịt nướng theo kiểu Hàn Quốc luôn.",
+      "start": 43.76,
+      "end": 49.92,
+      "n_words": 17,
+      "start_frame": 1094,
+      "end_frame": 1248,
+      "keyframes": [
+        "001103.webp",
+        "001104.webp",
+        "001148.webp",
+        "001192.webp",
+        "001193.webp",
+        "001218.webp",
+        "001243.webp",
+        "001244.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Nãy giờ em chỉ chờ có câu đó thôi, vô liền thịt nướng Hàn Quốc vị đậm đà ăn thật đã.",
+      "start": 49.92,
+      "end": 73.6,
+      "n_words": 21,
+      "start_frame": 1248,
+      "end_frame": 1840,
+      "keyframes": [
+        "001273.webp",
+        "001302.webp",
+        "001303.webp",
+        "001327.webp",
+        "001352.webp",
+        "001353.webp",
+        "001399.webp",
+        "001445.webp",
+        "001446.webp",
+        "001489.webp",
+        "001533.webp",
+        "001548.webp",
+        "001609.webp",
+        "001670.webp",
+        "001671.webp",
+        "001757.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Mến chào các bạn đang theo dõi chương trình Món ngon mỗi ngày.",
+      "start": 73.6,
+      "end": 76.44,
+      "n_words": 13,
+      "start_frame": 1840,
+      "end_frame": 1911,
+      "keyframes": [
+        "001844.webp",
+        "001845.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 76.44,
+      "end": 80.64,
+      "n_words": 11,
+      "start_frame": 1911,
+      "end_frame": 2016,
+      "keyframes": [
+        "001929.webp",
+        "002014.webp",
+        "002015.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và thưa các bạn, đối với món nướng này chúng ta nên dùng da cổ heo, như vậy thì món supi nướng sẽ rất là giòn và béo nha các bạn.",
+      "start": 80.64,
+      "end": 89.68,
+      "n_words": 31,
+      "start_frame": 2016,
+      "end_frame": 2242,
+      "keyframes": [
+        "002061.webp",
+        "002108.webp",
+        "002109.webp",
+        "002135.webp",
+        "002162.webp",
+        "002163.webp",
+        "002193.webp",
+        "002224.webp",
+        "002225.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Lát dày khoảng độ 3 ly, cắt cái miếng thịt là nó đã ngon rồi đó.",
+      "start": 89.68,
+      "end": 96.72,
+      "n_words": 16,
+      "start_frame": 2242,
+      "end_frame": 2418,
+      "keyframes": [
+        "002312.webp",
+        "002400.webp",
+        "002401.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta cắt miếng dày khoảng 3 ly được nha các bạn.",
+      "start": 96.72,
+      "end": 100.84,
+      "n_words": 12,
+      "start_frame": 2418,
+      "end_frame": 2521,
+      "keyframes": [
+        "002431.webp",
+        "002461.webp",
+        "002462.webp",
+        "002483.webp",
+        "002504.webp",
+        "002505.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đó, như vậy pha cái nước ướp trước nha các bạn.",
+      "start": 100.84,
+      "end": 104.0,
+      "n_words": 11,
+      "start_frame": 2521,
+      "end_frame": 2600,
+      "keyframes": [
+        "002527.webp",
+        "002549.webp",
+        "002550.webp",
+        "002574.webp",
+        "002598.webp",
+        "002599.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Công thức như sau: 4 muỗng canh nước tương Fuji, đây chúng ta cho vô khoảng 2 muỗng canh nước tỏi nè, hay quá đi, nước gừng 1 muỗng canh luôn, 1 muỗng cà phê tiêu đen rang, chúng ta cho vào đây 2 muỗng canh dầu mè, khoảng 1 muỗng canh hành lá chúng ta dùng hành lá các bạn cắt nhỏ chúng ta cho vào đây, 2 muỗng cà phê hạt nêm Ajinomoto ngon heo, 1 muỗng canh đường Hàn Quốc thì có cái vị hơi ngọt tí đó, ăn tí bóng bẩy Hàn Quốc đâu đây.",
+      "start": 104.0,
+      "end": 132.84,
+      "n_words": 99,
+      "start_frame": 2600,
+      "end_frame": 3321,
+      "keyframes": [
+        "002621.webp",
+        "002644.webp",
+        "002645.webp",
+        "002670.webp",
+        "002696.webp",
+        "002697.webp",
+        "002736.webp",
+        "002775.webp",
+        "002776.webp",
+        "002799.webp",
+        "002822.webp",
+        "002823.webp",
+        "002844.webp",
+        "002865.webp",
+        "002866.webp",
+        "002894.webp",
+        "002922.webp",
+        "002923.webp",
+        "002947.webp",
+        "002972.webp",
+        "002973.webp",
+        "003005.webp",
+        "003037.webp",
+        "003038.webp",
+        "003052.webp",
+        "003067.webp",
+        "003068.webp",
+        "003101.webp",
+        "003134.webp",
+        "003135.webp",
+        "003161.webp",
+        "003188.webp",
+        "003189.webp",
+        "003215.webp",
+        "003242.webp",
+        "003243.webp",
+        "003282.webp",
+        "003321.webp"
+      ],
+      "keyframe_count": 38
+    },
+    {
+      "text": "Cho vào trong thịt heo chúng ta ướp, các bạn sẽ thấy chúng ta ướp thịt với lại nước gừng và nước tỏi để cho mau thấm gia vị và món nướng chúng ta được thơm và không bị hôi nha các bạn, hay đồ thấm lắm nha.",
+      "start": 132.84,
+      "end": 145.6,
+      "n_words": 48,
+      "start_frame": 3321,
+      "end_frame": 3640,
+      "keyframes": [
+        "003321.webp",
+        "003322.webp",
+        "003358.webp",
+        "003395.webp",
+        "003396.webp",
+        "003478.webp",
+        "003561.webp",
+        "003562.webp",
+        "003600.webp",
+        "003639.webp",
+        "003640.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Bây giờ chúng ta chờ khoảng từ 15-20 phút hoặc 30 phút thì nó sẽ thấm hơn, để qua bên.",
+      "start": 145.6,
+      "end": 151.36,
+      "n_words": 20,
+      "start_frame": 3640,
+      "end_frame": 3784,
+      "keyframes": [
+        "003640.webp",
+        "003680.webp",
+        "003721.webp",
+        "003722.webp",
+        "003740.webp",
+        "003759.webp",
+        "003760.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Một phần quan trọng nữa, đúng rồi, đầu tiên là tạo sự đậm đà ha: cho vào đây 2 muỗng cà phê nước tương Fuji, 2 muỗng cà phê chấm gạo limen Ajinomoto, 1 muỗng canh đường, 1 muỗng cà phê bột ngọt Ajinomoto, 1 muỗng canh tương ướp Hàn Quốc.",
+      "start": 151.36,
+      "end": 168.4,
+      "n_words": 51,
+      "start_frame": 3784,
+      "end_frame": 4210,
+      "keyframes": [
+        "003785.webp",
+        "003810.webp",
+        "003811.webp",
+        "003830.webp",
+        "003850.webp",
+        "003851.webp",
+        "003880.webp",
+        "003909.webp",
+        "003910.webp",
+        "003937.webp",
+        "003965.webp",
+        "003966.webp",
+        "003985.webp",
+        "004005.webp",
+        "004006.webp",
+        "004025.webp",
+        "004045.webp",
+        "004046.webp",
+        "004067.webp",
+        "004089.webp",
+        "004090.webp",
+        "004102.webp",
+        "004115.webp",
+        "004116.webp",
+        "004134.webp",
+        "004152.webp",
+        "004153.webp",
+        "004171.webp",
+        "004190.webp",
+        "004191.webp"
+      ],
+      "keyframe_count": 30
+    },
+    {
+      "text": "Gia vị chính tạo nên cái mùi vị ngon ngày hôm nay khoảng 3 muỗng canh các bạn, 2 muỗng cà phê dầu mè, chúng ta sẽ vắt đều chúng ta có một chén nước chấm như vậy đó.",
+      "start": 168.84,
+      "end": 180.48,
+      "n_words": 39,
+      "start_frame": 4221,
+      "end_frame": 4512,
+      "keyframes": [
+        "004224.webp",
+        "004258.webp",
+        "004259.webp",
+        "004293.webp",
+        "004328.webp",
+        "004329.webp",
+        "004354.webp",
+        "004379.webp",
+        "004380.webp",
+        "004422.webp",
+        "004464.webp",
+        "004465.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Cuốn thịt chúng ta chấm cho các bạn đúng kiểu Hàn Quốc rồi đó anh.",
+      "start": 180.48,
+      "end": 183.16,
+      "n_words": 15,
+      "start_frame": 4512,
+      "end_frame": 4579,
+      "keyframes": [
+        "004521.webp",
+        "004577.webp",
+        "004578.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thưa các bạn, chúng ta có thể thay tương ướp Hàn Quốc bằng tương ướp Việt Nam nhưng chúng ta nhớ điều chỉnh lại liều lượng cho phù hợp nha các bạn.",
+      "start": 183.16,
+      "end": 189.44,
+      "n_words": 32,
+      "start_frame": 4579,
+      "end_frame": 4736,
+      "keyframes": [
+        "004656.webp",
+        "004735.webp",
+        "004736.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và thưa các bạn, ở đây chúng ta sử dụng một cái vỉ nướng, đây chúng ta để cho nóng ha.",
+      "start": 189.44,
+      "end": 195.2,
+      "n_words": 21,
+      "start_frame": 4736,
+      "end_frame": 4880,
+      "keyframes": [
+        "004736.webp",
+        "004764.webp",
+        "004793.webp",
+        "004794.webp",
+        "004821.webp",
+        "004848.webp",
+        "004849.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Trời ơi, đây là cái tiếng mà quyến rũ nhất trong nhà bếp.",
+      "start": 195.2,
+      "end": 199.52,
+      "n_words": 13,
+      "start_frame": 4880,
+      "end_frame": 4988,
+      "keyframes": [
+        "004882.webp",
+        "004916.webp",
+        "004917.webp",
+        "004951.webp",
+        "004985.webp",
+        "004986.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thưa các bạn, đối với vỉ nướng này chúng ta cài khoảng độ 180 °C thôi, còn lò nướng thì tới 250 lận dạ, đó là nó phải vàng tí nữa, mùi thơm phức nữa nha rồi thịt nướng là một cực phẩm rồi, gớm quá.",
+      "start": 199.52,
+      "end": 214.32,
+      "n_words": 46,
+      "start_frame": 4988,
+      "end_frame": 5358,
+      "keyframes": [
+        "005042.webp",
+        "005098.webp",
+        "005099.webp",
+        "005132.webp",
+        "005166.webp",
+        "005167.webp",
+        "005221.webp",
+        "005276.webp",
+        "005277.webp",
+        "005301.webp",
+        "005325.webp",
+        "005326.webp",
+        "005351.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Mình để vào đây rồi mấy miếng thịt chúng ta để chín nè các bạn.",
+      "start": 214.32,
+      "end": 217.92,
+      "n_words": 15,
+      "start_frame": 5358,
+      "end_frame": 5448,
+      "keyframes": [
+        "005377.webp",
+        "005378.webp",
+        "005395.webp",
+        "005413.webp",
+        "005414.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Sang đây bây giờ để mình nâng cấp tạo cái giá trị cho món ăn, trình bày món làm sao cho nó hấp dẫn hơn thì chúng ta có thể dùng những cái phiến đá nè hoặc những cái gạch cũng được nữa.",
+      "start": 217.92,
+      "end": 232.68,
+      "n_words": 43,
+      "start_frame": 5448,
+      "end_frame": 5817,
+      "keyframes": [
+        "005465.webp",
+        "005516.webp",
+        "005517.webp",
+        "005541.webp",
+        "005566.webp",
+        "005567.webp",
+        "005589.webp",
+        "005612.webp",
+        "005613.webp",
+        "005627.webp",
+        "005642.webp",
+        "005643.webp",
+        "005669.webp",
+        "005696.webp",
+        "005697.webp",
+        "005730.webp",
+        "005764.webp",
+        "005765.webp",
+        "005790.webp",
+        "005816.webp",
+        "005817.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Ở đây mình đốt ở dưới cái đèn cầy xíu cũng được, mình bày lên đây cho tí xíu hành lá lên cho nó xanh xanh, mỡ trắng ra tới gắt lá.",
+      "start": 232.68,
+      "end": 244.48,
+      "n_words": 32,
+      "start_frame": 5817,
+      "end_frame": 6112,
+      "keyframes": [
+        "005817.webp",
+        "005884.webp",
+        "005952.webp",
+        "005953.webp",
+        "005986.webp",
+        "006019.webp",
+        "006020.webp",
+        "006050.webp",
+        "006081.webp",
+        "006082.webp",
+        "006095.webp",
+        "006108.webp",
+        "006109.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Rồi thế là xong, ở nhà là nãy giờ là em xong từng cái công đoạn mà nướng đa luôn rồi đó.",
+      "start": 244.48,
+      "end": 250.56,
+      "n_words": 22,
+      "start_frame": 6112,
+      "end_frame": 6264,
+      "keyframes": [
+        "006167.webp",
+        "006225.webp",
+        "006226.webp",
+        "006245.webp",
+        "006264.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ngon quá anh ơi!",
+      "start": 250.56,
+      "end": 251.64,
+      "n_words": 4,
+      "start_frame": 6264,
+      "end_frame": 6291,
+      "keyframes": [
+        "006264.webp",
+        "006265.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thưa các bạn, để chúng ta kết hợp món này thành một bữa tiệc hoàn chỉnh thì chúng ta nên kết hợp với lại ớt chuông hải sản phô mai nè, món thứ hai là món canh kim chi tofu thì là tuyệt vời luôn.",
+      "start": 251.64,
+      "end": 263.64,
+      "n_words": 45,
+      "start_frame": 6291,
+      "end_frame": 6591,
+      "keyframes": [
+        "006314.webp",
+        "006363.webp",
+        "006364.webp",
+        "006475.webp",
+        "006586.webp",
+        "006587.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thịt nướng cháy xém nhẹ thơm lừng, mặn ngọt hài hòa, cuốn kèm với xà lách dưa leo tươi mát chấm với một ít sốt đậm đà cay cay chuẩn vị Hàn Quốc.",
+      "start": 263.64,
+      "end": 275.92,
+      "n_words": 33,
+      "start_frame": 6591,
+      "end_frame": 6898,
+      "keyframes": [
+        "006659.webp",
+        "006732.webp",
+        "006733.webp",
+        "006820.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Các bạn không cần phải đi Hàn Quốc để có được món Hàn Quốc ngon, ngay bây giờ hãy làm món heo nướng Hàn Quốc ngon tuyệt vời.",
+      "start": 275.92,
+      "end": 282.24,
+      "n_words": 28,
+      "start_frame": 6898,
+      "end_frame": 7056,
+      "keyframes": [
+        "006907.webp",
+        "006908.webp",
+        "006981.webp",
+        "007055.webp",
+        "007056.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Công thức thì luôn có ở trên YouTube, website và fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 282.24,
+      "end": 287.8,
+      "n_words": 18,
+      "start_frame": 7056,
+      "end_frame": 7195,
+      "keyframes": [
+        "007056.webp",
+        "007074.webp",
+        "007093.webp",
+        "007094.webp",
+        "007123.webp",
+        "007152.webp",
+        "007153.webp",
+        "007195.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Truy cập vào làm ngay các bạn nha.",
+      "start": 287.8,
+      "end": 290.24,
+      "n_words": 8,
+      "start_frame": 7195,
+      "end_frame": 7256,
+      "keyframes": [
+        "007195.webp",
+        "007237.webp",
+        "007238.webp"
+      ],
+      "keyframe_count": 3
+    }
+  ]
+}

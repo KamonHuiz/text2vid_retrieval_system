@@ -1,0 +1,1038 @@
+{
+  "video_id": "L25_V083",
+  "fps": 25.0,
+  "n_sentences": 55,
+  "total_words": 3074,
+  "sentences": [
+    {
+      "text": "Rất vui gặp lại các em trong chương trình ôn tập chuẩn bị cho kỳ thi trung học phổ thông quốc gia năm 2024 do báo Thanh Niên tổ chức. Thầy tên là Thanh Bình, hiện đang công tác tại trường Trung học phổ thông chuyên Lê Hồng Phong.",
+      "start": 0.08,
+      "end": 13.68,
+      "n_words": 49,
+      "start_frame": 2,
+      "end_frame": 342,
+      "keyframes": [
+        "000033.webp",
+        "000066.webp",
+        "000067.webp",
+        "000224.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Hôm nay thầy sẽ hướng dẫn các em ôn tập chuyên đề thứ nhất: một số dạng bài tập về ADN.",
+      "start": 13.68,
+      "end": 18.72,
+      "n_words": 21,
+      "start_frame": 342,
+      "end_frame": 468,
+      "keyframes": [
+        "000381.webp",
+        "000382.webp",
+        "000456.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nhắc lại về ADN là viết tắt của chữ axit deoxyribonucleic, gồm có hai mạch đơn xếp song song và xoắn ngược chiều, cấu tạo theo nguyên tắc đa phân với các đơn phân là nucleotide và có bốn loại nu đó là A, T, G và X. Phần này có một số công thức tính toán về ADN như là tổng số nu của ADN, chiều dài của ADN, số liên kết hydrogen vân vân, thì phần này thầy đã thực hiện trong chuyên đề của các năm trước, các em quan tâm thì có thể xem lại.",
+      "start": 21.28,
+      "end": 59.8,
+      "n_words": 99,
+      "start_frame": 532,
+      "end_frame": 1495,
+      "keyframes": [
+        "000532.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Hôm nay thầy sẽ hướng dẫn các em một dạng bài tập mà thường gặp trong đề thi của hai năm qua, đó là dạng bài tập về gen. Gen là một đoạn của ADN nhưng có khả năng mã hóa tạo ra một sản phẩm nào đó và chính vì đặc điểm này mà một gen cấu trúc sẽ có đặc điểm chung là ba thành phần: đó là vùng điều hòa, vùng mã hóa và vùng kết thúc theo trật tự từ đầu 3' đến 5' của mạch mã gốc. Mạch mã gốc là mạch được dùng làm khuôn cho quá trình phiên mã.",
+      "start": 59.8,
+      "end": 91.48,
+      "n_words": 106,
+      "start_frame": 1495,
+      "end_frame": 2287,
+      "keyframes": [
+        "001556.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Quá trình phiên mã là quá trình tổng hợp ARN và quá trình này chỉ diễn ra trên một mạch của gen; Đây là đặc điểm chung của một gen cấu trúc. Vấn đề thứ hai đó là về cơ chế phân tử của hiện tượng di truyền. Hiện tượng di truyền là hiện tượng đời sau mang một số đặc điểm giống như đời bố mẹ và trong cơ chế phân tử thì có ba quá trình: thứ nhất đó là quá trình nhân đôi ADN.",
+      "start": 91.48,
+      "end": 121.72,
+      "n_words": 87,
+      "start_frame": 2287,
+      "end_frame": 3043,
+      "keyframes": [
+        "002581.webp",
+        "002582.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Từ một ADN ban đầu, kết thúc quá trình nhân đôi sẽ tạo được hai ADN mới giống như ADN ban đầu nhờ vào nguyên tắc bán bảo toàn và nguyên tắc bổ sung. Nguyên tắc bán bảo toàn tức là ADN con có hai mạch thì một mạch là của ADN ban đầu và một mạch là mới được tổng hợp từ các nucleotide tự do trong môi trường và hai ADN mới này sẽ nằm trong hai tế bào mới. Các gen trên ADN, tức là những đoạn có khả năng mã hóa nên một sản phẩm nào đó, sẽ phiên mã để mà tổng hợp nên các loại ARN. Có ba loại ARN là ARN thông tin, ARN vận chuyển và ARN ribosome. Trong ba loại ARN này, ARN thông tin sẽ được dùng làm khuôn cho quá trình dịch mã, tức là quá trình tổng hợp chuỗi polypeptide.",
+      "start": 122.32,
+      "end": 175.28,
+      "n_words": 152,
+      "start_frame": 3058,
+      "end_frame": 4382,
+      "keyframes": [
+        "003156.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và mARN lưu ý là sẽ theo chiều 5' tới 3' như trên màn hình và trên mARN có bốn bộ ba đặc biệt mà các em cần phải lưu ý: thứ nhất đó là bộ ba AUG đóng vai trò là mã mở đầu cho quá trình dịch mã và mã hóa cho axit amin là methionine ở sinh vật nhân thực và formyl-methionine ở sinh vật nhân sơ. Trên mARN thì sẽ có bộ ba kết thúc có thể là UAA, UAG hoặc UGA. Và khi ribosome di chuyển trên mARN gặp bộ ba kết thúc nào đầu tiên thì quá trình dịch mã sẽ dừng lại. Các bộ ba này hay còn gọi là các codon. Các em nhớ là phải nhìn theo chiều 5' tới 3', đó là chiều ribosome di chuyển trên mARN sẽ tiến hành dịch mã để tạo nên chuỗi polypeptide. Chuỗi polypeptide sẽ biến đổi cấu trúc để tạo thành protein có hoạt tính sinh học để quy định nên tính trạng. Đây là cơ chế phân tử của hiện tượng di truyền.",
+      "start": 175.28,
+      "end": 242.76,
+      "n_words": 181,
+      "start_frame": 4382,
+      "end_frame": 6069,
+      "keyframes": [
+        "004394.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ thầy sẽ hướng dẫn các em làm một số bài tập của các đề thi trong những năm qua.",
+      "start": 242.76,
+      "end": 249.76,
+      "n_words": 21,
+      "start_frame": 6069,
+      "end_frame": 6244,
+      "keyframes": [
+        "006206.webp",
+        "006207.webp",
+        "006226.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trường Đại học Quốc tế Sài Gòn SIU không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SIU nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt.",
+      "start": 249.76,
+      "end": 260.64,
+      "n_words": 39,
+      "start_frame": 6244,
+      "end_frame": 6516,
+      "keyframes": [
+        "006245.webp",
+        "006246.webp",
+        "006259.webp",
+        "006273.webp",
+        "006274.webp",
+        "006289.webp",
+        "006305.webp",
+        "006306.webp",
+        "006328.webp",
+        "006350.webp",
+        "006351.webp",
+        "006359.webp",
+        "006367.webp",
+        "006368.webp",
+        "006376.webp",
+        "006385.webp",
+        "006386.webp",
+        "006394.webp",
+        "006402.webp",
+        "006403.webp",
+        "006415.webp",
+        "006427.webp",
+        "006428.webp",
+        "006436.webp",
+        "006445.webp",
+        "006467.webp",
+        "006470.webp",
+        "006473.webp",
+        "006474.webp",
+        "006491.webp",
+        "006508.webp",
+        "006509.webp"
+      ],
+      "keyframe_count": 32
+    },
+    {
+      "text": "Việc mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.",
+      "start": 260.64,
+      "end": 271.4,
+      "n_words": 39,
+      "start_frame": 6516,
+      "end_frame": 6785,
+      "keyframes": [
+        "006523.webp",
+        "006537.webp",
+        "006538.webp",
+        "006551.webp",
+        "006565.webp",
+        "006566.webp",
+        "006584.webp",
+        "006602.webp",
+        "006603.webp",
+        "006619.webp",
+        "006635.webp",
+        "006636.webp",
+        "006651.webp",
+        "006666.webp",
+        "006667.webp",
+        "006683.webp",
+        "006700.webp",
+        "006701.webp",
+        "006721.webp",
+        "006741.webp",
+        "006742.webp",
+        "006750.webp",
+        "006759.webp",
+        "006760.webp",
+        "006767.webp",
+        "006774.webp",
+        "006784.webp"
+      ],
+      "keyframe_count": 27
+    },
+    {
+      "text": "Năm 2024, SIU tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng bốn phương thức tuyển sinh.",
+      "start": 271.4,
+      "end": 280.0,
+      "n_words": 23,
+      "start_frame": 6785,
+      "end_frame": 7000,
+      "keyframes": [
+        "006797.webp",
+        "006810.webp",
+        "006811.webp",
+        "006826.webp",
+        "006841.webp",
+        "006842.webp",
+        "006857.webp",
+        "006873.webp",
+        "006874.webp",
+        "006892.webp",
+        "006910.webp",
+        "006911.webp",
+        "006925.webp",
+        "006940.webp",
+        "006966.webp",
+        "006981.webp",
+        "006996.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "SIU cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SIU, 100 suất học bổng Tiếp bước hành trình quỹ Tài năng trẻ, học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa, thể thao, nghệ thuật; Học bổng đồng hành xây dựng nhân lực chất lượng cao cho thành phố Thủ Đức, thành phố Hồ Chí Minh; Học bổng doanh nghiệp tài trợ; Học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.",
+      "start": 280.0,
+      "end": 306.52,
+      "n_words": 106,
+      "start_frame": 7000,
+      "end_frame": 7663,
+      "keyframes": [
+        "007002.webp",
+        "007022.webp",
+        "007042.webp",
+        "007043.webp",
+        "007092.webp",
+        "007141.webp",
+        "007142.webp",
+        "007171.webp",
+        "007200.webp",
+        "007201.webp",
+        "007214.webp",
+        "007227.webp",
+        "007228.webp",
+        "007240.webp",
+        "007252.webp",
+        "007279.webp",
+        "007287.webp",
+        "007295.webp",
+        "007296.webp",
+        "007310.webp",
+        "007324.webp",
+        "007325.webp",
+        "007339.webp",
+        "007354.webp",
+        "007355.webp",
+        "007370.webp",
+        "007386.webp",
+        "007387.webp",
+        "007402.webp",
+        "007417.webp",
+        "007418.webp",
+        "007436.webp",
+        "007454.webp",
+        "007455.webp",
+        "007472.webp",
+        "007489.webp",
+        "007490.webp",
+        "007509.webp",
+        "007528.webp",
+        "007529.webp",
+        "007544.webp",
+        "007559.webp",
+        "007560.webp",
+        "007573.webp",
+        "007586.webp",
+        "007587.webp",
+        "007605.webp",
+        "007623.webp",
+        "007624.webp",
+        "007639.webp",
+        "007654.webp",
+        "007655.webp"
+      ],
+      "keyframe_count": 52
+    },
+    {
+      "text": "SIU - Tâm hồn Việt Nam, giáo dục thế giới. Câu số một, đây là đề trong đề thi chính thức năm 2022: \"Một nhóm nghiên cứu thực nghiệm thực hiện thí nghiệm để kiểm chứng mô hình nhân đôi ADN ở vùng nhân của tế bào nhân sơ. Họ đã nuôi một số vi khuẩn E. Coli trong môi trường chỉ có nitơ đồng vị nặng, sau đó họ chuyển vi khuẩn sang nuôi kế tiếp năm thế hệ chỉ có nitơ đồng vị nhẹ tức là nitơ 14. Biết số lần nhân lên của vi khuẩn E. Coli trong các ống nghiệm là như nhau, tách ADN sau mỗi thế hệ và thu được kết quả như hình dưới đây.\"",
+      "start": 306.52,
+      "end": 346.0,
+      "n_words": 122,
+      "start_frame": 7663,
+      "end_frame": 8650,
+      "keyframes": [
+        "007665.webp",
+        "007675.webp",
+        "007689.webp",
+        "007716.webp",
+        "007744.webp",
+        "007745.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và thông tin quan trọng nhất trong đoạn này đó là cho biết X biết X là vị trí của ADN chứa cả hai mạch nitơ 15. Môi trường ban đầu chỉ chứa nitơ 15 cho nên trên cả hai mạch đều chứa nitơ 15, cho nên là ở vị trí X này là 100%. Y là vị trí của ADN chứa cả mạch nitơ 14 và mạch nitơ 15. Các em thấy ở lần nhân đôi thứ nhất thì 100% đều ở vị trí Y, tức là cả hai mạch của ADN đều chứa cả nitơ 14 và nitơ 15, còn X là vị trí của ADN chứa cả hai mạch nitơ 14.",
+      "start": 346.0,
+      "end": 388.56,
+      "n_words": 114,
+      "start_frame": 8650,
+      "end_frame": 9714,
+      "keyframes": [
+        "008769.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và bây giờ chúng ta cùng phân tích kết quả thí nghiệm này.",
+      "start": 395.32,
+      "end": 400.92,
+      "n_words": 13,
+      "start_frame": 9883,
+      "end_frame": 10023,
+      "keyframes": [
+        "009982.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Như thầy đã nói lúc nãy, ban đầu vi khuẩn được nuôi trên môi trường chứa nitơ 15 cho nên cả hai mạch đều chứa nitơ 15.",
+      "start": 400.92,
+      "end": 410.64,
+      "n_words": 27,
+      "start_frame": 10023,
+      "end_frame": 10266,
+      "keyframes": [
+        "010107.webp",
+        "010232.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Qua quá trình nhân đôi thứ nhất thì nhờ vào nguyên tắc bán bảo toàn, một mạch chứa nitơ 15 của ADN ban đầu vẫn được giữ lại và một mạch chỉ chứa nitơ 14 do lúc này vi khuẩn được chuyển vào môi trường chứa nitơ 14, cho nên một mạch chỉ chứa các nu chứa nitơ 14, cho nên 100% là ở vạch Y.",
+      "start": 411.84,
+      "end": 437.88,
+      "n_words": 66,
+      "start_frame": 10296,
+      "end_frame": 10947,
+      "keyframes": [
+        "010357.webp",
+        "010482.webp",
+        "010607.webp",
+        "010732.webp",
+        "010857.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và số lượng ADN bây giờ gấp đôi so với ban đầu, cho nên mới gọi là đó là quá trình nhân đôi ADN; Số lượng ADN sau khi kết thúc quá trình nhân đôi sẽ gấp đôi so với số lượng ADN ban đầu.",
+      "start": 437.88,
+      "end": 451.84,
+      "n_words": 45,
+      "start_frame": 10947,
+      "end_frame": 11296,
+      "keyframes": [
+        "010982.webp",
+        "011107.webp",
+        "011232.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tương tự qua lần nhân đôi thứ hai thì hai mạch chứa nitơ 15 vẫn được giữ lại và các mạch còn lại sẽ lấy các nu tự do trong môi trường tức là nitơ 14 để tổng hợp nên mạch mới, và số lượng ADN bây giờ là gấp bốn lần so với ban đầu.",
+      "start": 451.84,
+      "end": 468.96,
+      "n_words": 56,
+      "start_frame": 11296,
+      "end_frame": 11724,
+      "keyframes": [
+        "011357.webp",
+        "011482.webp",
+        "011607.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và trong bốn phân tử này thì có hai phân tử đều chứa nitơ 14 và nitơ 15 (tức là một vạch màu xanh, một vạch màu đỏ như trên màn hình các em thấy) và hai phân tử đều chứa cả hai mạch có nitơ 14.",
+      "start": 468.96,
+      "end": 488.2,
+      "n_words": 47,
+      "start_frame": 11724,
+      "end_frame": 12205,
+      "keyframes": [
+        "011732.webp",
+        "011857.webp",
+        "011982.webp",
+        "012107.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cũng tương tự như thế ở lần nhân đôi thứ ba thì số phân tử ADN sẽ là 2 mũ 3 là 8, và trong tám phân tử này sẽ có hai phân tử có một mạch là nitơ 15 và một mạch là nitơ 14, còn sáu phân tử còn lại đều chứa hoàn toàn nitơ 14.",
+      "start": 489.24,
+      "end": 506.32,
+      "n_words": 58,
+      "start_frame": 12231,
+      "end_frame": 12658,
+      "keyframes": [
+        "012232.webp",
+        "012357.webp",
+        "012482.webp",
+        "012607.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Lần nhân đôi thứ tư và lần nhân đôi thứ năm cũng tương tự như vậy.",
+      "start": 507.12,
+      "end": 511.84,
+      "n_words": 16,
+      "start_frame": 12678,
+      "end_frame": 12796,
+      "keyframes": [
+        "012732.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ chúng ta phân tích bốn phát biểu: phát biểu thứ nhất \"Thí nghiệm trên đã kiểm chứng quá trình nhân đôi ADN theo nguyên tắc bán bảo toàn\".",
+      "start": 511.84,
+      "end": 518.96,
+      "n_words": 30,
+      "start_frame": 12796,
+      "end_frame": 12974,
+      "keyframes": [
+        "012857.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta thấy phát biểu này là đúng bởi vì nguyên tắc bán bảo toàn đó là hai mạch của ADN con có một mạch là của ADN mẹ ban đầu và một mạch là mới được tổng hợp lấy nguyên liệu từ môi trường, cho nên chúng ta thấy là ở ADN con vừa có một mạch chứa nitơ 15 vừa có một mạch chứa nitơ 14, cho nên phát biểu số một là đúng. Phát biểu số hai \"Nếu một vi khuẩn E.",
+      "start": 518.96,
+      "end": 548.16,
+      "n_words": 85,
+      "start_frame": 12974,
+      "end_frame": 13704,
+      "keyframes": [
+        "012982.webp",
+        "013107.webp",
+        "013232.webp",
+        "013357.webp",
+        "013482.webp",
+        "013607.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Coli được nuôi với các điều kiện thí nghiệm như trên thì luôn có hai mạch ADN chứa nitơ 15 ở mỗi thế hệ\".",
+      "start": 548.16,
+      "end": 555.84,
+      "n_words": 24,
+      "start_frame": 13704,
+      "end_frame": 13896,
+      "keyframes": [
+        "013732.webp",
+        "013857.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúng ta thấy phát biểu này là đúng, luôn có hai mạch ADN chứa nitơ 15 ở mỗi thế hệ, đó là hai mạch của ADN ban đầu.",
+      "start": 555.84,
+      "end": 566.0,
+      "n_words": 28,
+      "start_frame": 13896,
+      "end_frame": 14150,
+      "keyframes": [
+        "013982.webp",
+        "014107.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Phát biểu thứ ba \"Ở thế hệ thứ tư, tỷ lệ ADN ở vị trí Y không thay đổi so với thế hệ thứ ba\".",
+      "start": 566.0,
+      "end": 575.32,
+      "n_words": 25,
+      "start_frame": 14150,
+      "end_frame": 14383,
+      "keyframes": [
+        "014232.webp",
+        "014357.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Mặc dù ở thế hệ thứ tư và thế hệ thứ ba, tỷ lệ ADN ở vị trí Y (tức là ADN có một mạch là chứa nitơ 15 và một mạch là chứa nitơ 14), mặc dù số lượng vẫn không đổi nhưng mà tổng số ADN con tạo ra đã thay đổi, cụ thể là ở lần nhân đôi thứ tư thì đã gấp đôi so với ở lần nhân đôi thứ ba, cho nên tỷ lệ ADN ở vị trí Y sẽ bị thay đổi. Vì vậy phát biểu thứ ba này là chưa chính xác.",
+      "start": 575.32,
+      "end": 609.0,
+      "n_words": 99,
+      "start_frame": 14383,
+      "end_frame": 15225,
+      "keyframes": [
+        "014482.webp",
+        "014607.webp",
+        "014732.webp",
+        "014857.webp",
+        "014982.webp",
+        "015107.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Phát biểu thứ tư \"Ở thế hệ thứ năm, tỷ lệ ADN ở vị trí Y so với ADN ở vị trí X là 1/15\".",
+      "start": 609.0,
+      "end": 617.0,
+      "n_words": 25,
+      "start_frame": 15225,
+      "end_frame": 15425,
+      "keyframes": [
+        "015232.webp",
+        "015357.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nhìn trên màn hình thấy là ở thế hệ thứ năm, tỷ lệ ADN ở vị trí Y vẫn là có hai phân tử và tỷ lệ ADN ở vị trí X (tức là cả hai mạch đều chứa nitơ 14) là 30, cho nên tỷ lệ sẽ là 2/30 tức là 1/15, vì vậy phát biểu thứ tư này là đúng.",
+      "start": 619.04,
+      "end": 642.04,
+      "n_words": 62,
+      "start_frame": 15476,
+      "end_frame": 16051,
+      "keyframes": [
+        "015482.webp",
+        "015607.webp",
+        "015732.webp",
+        "015857.webp",
+        "015982.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Tóm lại trong câu này có ba phát biểu đúng.",
+      "start": 642.04,
+      "end": 649.16,
+      "n_words": 10,
+      "start_frame": 16051,
+      "end_frame": 16229,
+      "keyframes": [
+        "016107.webp",
+        "016180.webp",
+        "016191.webp",
+        "016220.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.",
+      "start": 649.16,
+      "end": 659.76,
+      "n_words": 33,
+      "start_frame": 16229,
+      "end_frame": 16494,
+      "keyframes": [
+        "016249.webp",
+        "016267.webp",
+        "016313.webp",
+        "016359.webp",
+        "016360.webp",
+        "016380.webp",
+        "016401.webp",
+        "016402.webp",
+        "016423.webp",
+        "016444.webp",
+        "016445.webp",
+        "016453.webp",
+        "016462.webp",
+        "016475.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện, cân bằng giữa học thuật và nghệ thuật thể thao; Hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, thêm nguồn cảm hứng độc lập để phát triển và hoàn thiện nhân cách.",
+      "start": 659.76,
+      "end": 678.04,
+      "n_words": 57,
+      "start_frame": 16494,
+      "end_frame": 16951,
+      "keyframes": [
+        "016528.webp",
+        "016582.webp",
+        "016583.webp",
+        "016603.webp",
+        "016624.webp",
+        "016625.webp",
+        "016640.webp",
+        "016655.webp",
+        "016656.webp",
+        "016666.webp",
+        "016677.webp",
+        "016678.webp",
+        "016690.webp",
+        "016703.webp",
+        "016704.webp",
+        "016776.webp",
+        "016848.webp",
+        "016849.webp",
+        "016874.webp",
+        "016900.webp",
+        "016901.webp",
+        "016924.webp",
+        "016948.webp",
+        "016949.webp"
+      ],
+      "keyframe_count": 24
+    },
+    {
+      "text": "Ngoài những giờ học trên lớp, học sinh trường Quốc tế Á Châu còn được trải nghiệm, thử thách bản thân và phản biện các vấn đề để tự mình học hỏi, trưởng thành độc lập hơn.",
+      "start": 678.04,
+      "end": 699.0,
+      "n_words": 37,
+      "start_frame": 16951,
+      "end_frame": 17475,
+      "keyframes": [
+        "016958.webp",
+        "016967.webp",
+        "016968.webp",
+        "016984.webp",
+        "017001.webp",
+        "017002.webp",
+        "017029.webp",
+        "017056.webp",
+        "017057.webp",
+        "017130.webp",
+        "017203.webp",
+        "017204.webp",
+        "017219.webp",
+        "017234.webp",
+        "017273.webp",
+        "017282.webp",
+        "017292.webp",
+        "017293.webp",
+        "017305.webp",
+        "017317.webp",
+        "017318.webp",
+        "017333.webp",
+        "017349.webp",
+        "017350.webp",
+        "017364.webp",
+        "017379.webp",
+        "017380.webp",
+        "017392.webp",
+        "017404.webp",
+        "017405.webp",
+        "017423.webp",
+        "017442.webp",
+        "017454.webp"
+      ],
+      "keyframe_count": 33
+    },
+    {
+      "text": "Nơi đây với tôi còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.",
+      "start": 699.0,
+      "end": 713.68,
+      "n_words": 33,
+      "start_frame": 17475,
+      "end_frame": 17842,
+      "keyframes": [
+        "017516.webp",
+        "017578.webp",
+        "017579.webp",
+        "017630.webp",
+        "017681.webp",
+        "017682.webp",
+        "017702.webp",
+        "017722.webp",
+        "017723.webp",
+        "017730.webp",
+        "017737.webp",
+        "017768.webp",
+        "017777.webp",
+        "017786.webp",
+        "017787.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "\"Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là cuộc sống\".",
+      "start": 713.68,
+      "end": 718.8,
+      "n_words": 15,
+      "start_frame": 17842,
+      "end_frame": 17970,
+      "keyframes": [
+        "017843.webp",
+        "017900.webp",
+        "017901.webp",
+        "017909.webp",
+        "017917.webp",
+        "017918.webp",
+        "017931.webp",
+        "017944.webp",
+        "017945.webp",
+        "017950.webp",
+        "017956.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Từ môi trường giáo dục này, chúng tôi đã tự tin bước tiếp và viết nên câu chuyện tương lai của chính mình.",
+      "start": 718.8,
+      "end": 731.96,
+      "n_words": 23,
+      "start_frame": 17970,
+      "end_frame": 18299,
+      "keyframes": [
+        "017975.webp",
+        "017988.webp",
+        "018001.webp",
+        "018019.webp",
+        "018020.webp",
+        "018021.webp",
+        "018046.webp",
+        "018052.webp",
+        "018058.webp",
+        "018083.webp",
+        "018101.webp",
+        "018119.webp",
+        "018143.webp",
+        "018164.webp",
+        "018185.webp",
+        "018186.webp",
+        "018190.webp",
+        "018195.webp",
+        "018215.webp",
+        "018257.webp",
+        "018299.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Bây giờ chúng ta qua câu thứ hai trong đề chính thức năm 2023: \"Hình dưới mô tả một giai đoạn của quá trình phiên mã xảy ra trong vùng mã hóa của một gen ở sinh vật nhân sơ. Ký hiệu A, B, C là các vị trí tương ứng với đầu 3' hoặc 5' của mạch polynucleotide\".",
+      "start": 731.96,
+      "end": 754.64,
+      "n_words": 59,
+      "start_frame": 18299,
+      "end_frame": 18866,
+      "keyframes": [
+        "018299.webp",
+        "018300.webp",
+        "018302.webp",
+        "018304.webp",
+        "018305.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ở đây các em nhớ mạch polynucleotide còn gọi là mạch đơn, mạch đơn này có thể là của ADN, có thể là mạch mã gốc, có thể là mạch bổ sung và mạch đơn này cũng có thể là mạch đơn của ARN. Vị trí nu 1, 2, 3 là bộ ba mở đầu. Ở đây người ta có ký hiệu cho nu 1, 2, 3 là nu mở đầu, là bộ ba mở đầu, các em thấy là A, U, G chưa xác định là dấu hỏi liên kết với G của mạch khuôn.",
+      "start": 755.6,
+      "end": 789.6,
+      "n_words": 96,
+      "start_frame": 18890,
+      "end_frame": 19740,
+      "keyframes": [
+        "019084.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trong quá trình phiên mã, các nu còn lại của gen không được thể hiện trên hình, thì hỏi có bao nhiêu phát biểu đúng? Đề đã cho các em biết là bộ ba có ba nu 1, 2, 3 này là bộ ba mở đầu là AUG, cho nên F này phải là đầu 5' của mARN.",
+      "start": 789.6,
+      "end": 814.48,
+      "n_words": 58,
+      "start_frame": 19740,
+      "end_frame": 20362,
+      "keyframes": [
+        "019864.webp",
+        "019865.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bộ ba trên mARN nhớ là sẽ nhìn theo chiều 5' tới 3', đó là chiều di chuyển của ribosome trên mARN, cho nên chúng ta nhìn bộ ba AUG thì F này sẽ là đầu 5'. F là đầu 5' cho nên D ở đây sẽ là đầu 3' của mạch mã gốc. Khi mà hai nu bổ sung cho nhau thì sẽ ngược chiều nhau, vì vậy mà F là đầu 5' thì D sẽ là đầu 3'.",
+      "start": 814.48,
+      "end": 843.76,
+      "n_words": 80,
+      "start_frame": 20362,
+      "end_frame": 21094,
+      "keyframes": [
+        "020397.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tương tự như vậy thì C là đầu còn lại của mạch này, cho nên C sẽ là đầu 5' của mạch mã gốc, tức là mạch được dùng làm khuôn cho quá trình phiên mã. Cho nên phát biểu thứ nhất \"Vị trí C tương ứng với đầu 5' của mạch làm khuôn\" là đúng. Phát biểu thứ hai \"Nếu nu trên hình là U, tức là ở vị trí này là U thì sẽ phát sinh đột biến gen\". Các em thấy rằng nếu như vị trí này là U nhưng mà trên mạch mã gốc của gen vẫn là G, cho nên sẽ không phát sinh đột biến gen mà là phát sinh đột biến tạo nên mARN đột biến. Đó là do sự lắp sai của enzyme ARN polymerase, nó không ảnh hưởng đến gen, cho nên sẽ không phát sinh đột biến gen. Cho nên phát biểu thứ hai là chưa chính xác.",
+      "start": 844.52,
+      "end": 899.28,
+      "n_words": 158,
+      "start_frame": 21113,
+      "end_frame": 22482,
+      "keyframes": [
+        "021179.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Phát biểu thứ ba \"Nếu nu này trên hình là U thì phân tử mARN này khi làm khuôn để dịch mã sẽ tạo ra chuỗi polypeptide có sáu axit amin không kể axit amin ở đầu\". Cứ một bộ ba codon trên mARN sẽ mã hóa cho một axit amin. Cho nên bây giờ mARN chúng ta đã biết bộ ba mở đầu là AUG, thì các em cứ đếm theo từng bộ ba để xác định số axit amin: cụ thể ở đây là một bộ ba, bộ ba thứ hai, bộ ba thứ ba, thứ tư, thứ năm và nếu như đây là U thì chúng ta sẽ thấy bộ ba kế tiếp là UGA, đó là bộ ba kết thúc và bộ ba kết thúc sẽ không mã hóa cho axit amin nào hết.",
+      "start": 899.28,
+      "end": 949.08,
+      "n_words": 138,
+      "start_frame": 22482,
+      "end_frame": 23727,
+      "keyframes": [
+        "022494.webp",
+        "022495.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cho nên nếu như mà mARN này được dùng làm khuôn cho quá trình dịch mã thì sẽ tạo ra được 4 axit amin không tính axit amin mở đầu.",
+      "start": 949.08,
+      "end": 960.16,
+      "n_words": 30,
+      "start_frame": 23727,
+      "end_frame": 24004,
+      "keyframes": [
+        "023892.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Vì vậy phát biểu này là chưa chính xác. Phát biểu thứ tư \"Quá trình phiên mã của gen này chỉ diễn ra trên một mạch\". Phát biểu này là đúng, đây là một câu lý thuyết mà thầy vừa mới trao đổi với các em. Như vậy câu này có hai phát biểu đúng. Đây là một số vấn đề thầy muốn trao đổi với các em về phần cơ chế phân tử của hiện tượng di truyền. Về phần ADN trong phần này các em lưu ý là trên mRNA mình sẽ nhìn theo chiều 5' đến 3' và có bốn bộ ba đặc biệt đó là bộ ba mở đầu và ba bộ ba kết thúc. Trên mạch mã gốc thì sẽ theo chiều 3' tới 5'. Phần này các em chịu khó lập luận, suy luận dựa trên các bộ ba này thì các em có thể làm được.",
+      "start": 960.16,
+      "end": 1006.8,
+      "n_words": 153,
+      "start_frame": 24004,
+      "end_frame": 25170,
+      "keyframes": [
+        "024031.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúc các em thành công khi mà gặp dạng bài này trong đề thi.",
+      "start": 1006.8,
+      "end": 1012.88,
+      "n_words": 14,
+      "start_frame": 25170,
+      "end_frame": 25322,
+      "keyframes": [
+        "025289.webp",
+        "025290.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cảm ơn các em đã dành thời gian theo dõi, chúc các em luôn nhiều sức khỏe, ôn tập thật tốt và đạt kết quả cao trong kỳ thi sắp tới.",
+      "start": 1012.88,
+      "end": 1020.32,
+      "n_words": 31,
+      "start_frame": 25322,
+      "end_frame": 25508,
+      "keyframes": [
+        "025428.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chào các em.",
+      "start": 1020.32,
+      "end": 1022.96,
+      "n_words": 3,
+      "start_frame": 25508,
+      "end_frame": 25574,
+      "keyframes": [
+        "025567.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Để có được thành công như hôm nay, tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình bắt đầu từ trường Đại học Quốc tế Sài Gòn SIU.",
+      "start": 1022.96,
+      "end": 1037.16,
+      "n_words": 35,
+      "start_frame": 25574,
+      "end_frame": 25929,
+      "keyframes": [
+        "025598.webp",
+        "025626.webp",
+        "025654.webp",
+        "025655.webp",
+        "025686.webp",
+        "025717.webp",
+        "025747.webp",
+        "025794.webp",
+        "025842.webp",
+        "025854.webp",
+        "025867.webp",
+        "025881.webp",
+        "025895.webp",
+        "025914.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Đào tạo đa dạng đa lĩnh vực, SIU mở ra cho chúng tôi nhiều cơ hội lựa chọn nghề nghiệp trong tương lai.",
+      "start": 1037.16,
+      "end": 1043.8,
+      "n_words": 23,
+      "start_frame": 25929,
+      "end_frame": 26095,
+      "keyframes": [
+        "025933.webp",
+        "025934.webp",
+        "025953.webp",
+        "025972.webp",
+        "025973.webp",
+        "025991.webp",
+        "026010.webp",
+        "026011.webp",
+        "026028.webp",
+        "026046.webp",
+        "026047.webp",
+        "026064.webp",
+        "026081.webp",
+        "026082.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Tất cả sinh viên đều có cơ hội để thể hiện và phát triển năng lực, những ý tưởng luôn được khuyến khích và phát huy tối đa.",
+      "start": 1043.8,
+      "end": 1051.04,
+      "n_words": 28,
+      "start_frame": 26095,
+      "end_frame": 26276,
+      "keyframes": [
+        "026099.webp",
+        "026116.webp",
+        "026117.webp",
+        "026127.webp",
+        "026137.webp",
+        "026163.webp",
+        "026173.webp",
+        "026184.webp",
+        "026185.webp",
+        "026201.webp",
+        "026218.webp",
+        "026219.webp",
+        "026246.webp",
+        "026274.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin, chúng tôi được học cách học, cách nghĩ và cách sống.",
+      "start": 1051.04,
+      "end": 1057.16,
+      "n_words": 23,
+      "start_frame": 26276,
+      "end_frame": 26429,
+      "keyframes": [
+        "026290.webp",
+        "026308.webp",
+        "026326.webp",
+        "026327.webp",
+        "026344.webp",
+        "026362.webp",
+        "026363.webp",
+        "026388.webp",
+        "026413.webp",
+        "026414.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.",
+      "start": 1057.16,
+      "end": 1064.24,
+      "n_words": 28,
+      "start_frame": 26429,
+      "end_frame": 26606,
+      "keyframes": [
+        "026433.webp",
+        "026453.webp",
+        "026454.webp",
+        "026472.webp",
+        "026490.webp",
+        "026501.webp",
+        "026539.webp",
+        "026578.webp",
+        "026590.webp",
+        "026603.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Hiện đại, năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc, đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn SIU luôn hướng đến.",
+      "start": 1064.24,
+      "end": 1074.8,
+      "n_words": 34,
+      "start_frame": 26606,
+      "end_frame": 26870,
+      "keyframes": [
+        "026616.webp",
+        "026620.webp",
+        "026634.webp",
+        "026649.webp",
+        "026662.webp",
+        "026673.webp",
+        "026685.webp",
+        "026711.webp",
+        "026720.webp",
+        "026730.webp",
+        "026731.webp",
+        "026742.webp",
+        "026753.webp",
+        "026771.webp",
+        "026778.webp",
+        "026785.webp",
+        "026815.webp",
+        "026832.webp",
+        "026850.webp"
+      ],
+      "keyframe_count": 19
+    },
+    {
+      "text": "Đã đến lúc vươn xa hơn những gì đã học.",
+      "start": 1074.8,
+      "end": 1079.2,
+      "n_words": 10,
+      "start_frame": 26870,
+      "end_frame": 26980,
+      "keyframes": [
+        "026898.webp",
+        "026912.webp",
+        "026927.webp",
+        "026950.webp"
+      ],
+      "keyframe_count": 4
+    }
+  ]
+}

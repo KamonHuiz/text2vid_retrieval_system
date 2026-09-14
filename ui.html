@@ -1,0 +1,2448 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AIC · Retrieval Workspace</title>
+<style>
+  :root{
+    --bg:#0e0e11; --panel:#16161b; --panel2:#1c1c23; --ink:#e9e9f0; --muted:#8b8b98;
+    --line:#2a2a33; --accent:#3b82f6; --accent2:#22d3ee; --ok:#22c55e; --warn:#f59e0b;
+    --danger:#ef4444; --chip:#23232c;
+  }
+  :root[data-light]{
+    --bg:#f7f7f9; --panel:#fff; --panel2:#f0f0f4; --ink:#16161a; --muted:#65656f;
+    --line:#e2e2e8; --chip:#eceef4;
+  }
+  *{box-sizing:border-box}
+  html,body{height:100%}
+  body{margin:0;background:var(--bg);color:var(--ink);overflow:hidden;
+    font:14px/1.5 ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+  button,input,select,textarea{font:inherit;color:inherit}
+  button{cursor:pointer;border:1px solid var(--line);background:var(--panel2);
+    border-radius:7px;padding:6px 11px}
+  button:hover{border-color:var(--accent)}
+  button.primary{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600}
+  button.danger{border-color:var(--danger);color:var(--danger)}
+  button:disabled{opacity:.45;cursor:default}
+  input,select,textarea{background:var(--bg);border:1px solid var(--line);
+    border-radius:7px;padding:7px 10px;outline:none}
+  input:focus,textarea:focus,select:focus{border-color:var(--accent)}
+  .mono{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+
+  #app{display:grid;grid-template-rows:auto 1fr;height:100vh}
+
+  /* ---- top bar ---- */
+  header{background:var(--panel);border-bottom:1px solid var(--line);padding:9px 14px;
+    display:flex;gap:9px;align-items:center;flex-wrap:wrap}
+  .brand{font-weight:700;letter-spacing:.02em;margin-right:4px;white-space:nowrap}
+  #q{flex:1 1 260px;min-width:160px}
+  #topk{width:82px}
+  .spacer{flex:1}
+  .pill{background:var(--chip);border-radius:999px;padding:4px 11px;font-size:12.5px;
+    color:var(--muted);white-space:nowrap}
+  .pill b{color:var(--ink)}
+  #saved{color:var(--ok);font-size:12.5px;min-width:64px}
+
+  /* ---- body ---- */
+  #body{display:grid;grid-template-columns:1fr 372px;min-height:0}
+  #left{display:grid;grid-template-rows:auto auto 1fr;min-height:0;min-width:0}
+  #right{border-left:1px solid var(--line);background:var(--panel);
+    display:grid;grid-template-rows:auto auto 1fr auto;min-height:0}
+
+  /* ---- stages ---- */
+  #browsebar{display:flex;gap:5px;align-items:center}
+  #browsebar .hint{font-size:11px;letter-spacing:.06em}
+  #blot{width:78px} #bvid{width:158px}
+  #browsebar input{padding:4px 8px;font-size:12.5px}
+  #browsebar button{padding:4px 10px;font-size:12.5px}
+  /* Đang duyệt cả một video thì viền lưới đổi màu, để không nhầm với kết quả tìm kiếm. */
+  #gridwrap.browsing{box-shadow:inset 0 0 0 2px var(--accent2)}
+  #stagebar{display:flex;gap:6px;padding:9px 14px;border-bottom:1px solid var(--line);
+    align-items:center;flex-wrap:wrap;background:var(--panel)}
+  .stage{padding:5px 12px;border-radius:7px;background:var(--chip);color:var(--muted);
+    font-size:13px;cursor:pointer;border:1px solid transparent;white-space:nowrap}
+  .stage.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+  .stage small{opacity:.8;margin-left:5px}
+  .stage .x{margin-left:7px;opacity:.6}
+  .stage .x:hover{opacity:1;color:var(--danger)}
+  #stageinfo{padding:7px 14px;color:var(--muted);font-size:12.5px;
+    border-bottom:1px solid var(--line);display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+
+  /* ---- grid ---- */
+  /* The scroll container and the grid MUST be two different elements. When one element was
+     both, its height was definite (the 1fr row of #left) and Chrome sized the auto rows to
+     divide that height -- 8 rows of 70px instead of 146px -- so scrollHeight never exceeded
+     clientHeight (no scrollbar) and .card{overflow:hidden} clipped every frame. An inner
+     grid inside a plain block scroller has an INDEFINITE height, so rows take their content
+     size, the inner box grows, and the outer box scrolls. */
+  #gridwrap{overflow-y:auto;overflow-x:hidden;padding:12px 14px;min-height:0}
+  #grid{display:grid;gap:12px;align-content:start;align-items:start;
+    grid-auto-rows:max-content;grid-template-columns:repeat(auto-fill,minmax(210px,1fr))}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:10px;
+    overflow:hidden;position:relative;transition:border-color .12s,box-shadow .12s}
+  .card:hover{border-color:var(--accent2)}
+  .card.sel{border-color:var(--accent);box-shadow:0 0 0 1px var(--accent)}
+  /* The frame box derives its height from its OWN width (padding-top = 9/16), so it never
+     depends on how the grid sizes rows. A fixed pixel height was the bug: as soon as a
+     column grew past height x 16/9, object-fit:cover cropped the frame into a flat band. */
+  .card .shot{position:relative;width:100%;padding-top:56.25%;background:var(--panel2);
+    cursor:zoom-in;display:block}
+  .card .shot img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;
+    display:block}
+  .card .rk{position:absolute;left:6px;bottom:6px;padding:1px 6px;border-radius:5px;
+    background:#000b;color:#fff;font-size:11px;font-variant-numeric:tabular-nums;
+    letter-spacing:.02em}
+  /* Gộp scene: huy hiệu trên frame đại diện, cho biết nó đang thay mặt mấy keyframe. */
+  .card .mg{position:absolute;right:6px;bottom:6px;padding:1px 6px;border-radius:5px;
+    background:var(--accent2);color:#00121c;font-size:11px;font-weight:700;
+    font-variant-numeric:tabular-nums}
+  /* Một chuỗi = một hàng trong khối video: các event xếp ngang theo thứ tự thời gian. */
+  .seq{border-top:1px solid var(--line);padding:9px 0 3px}
+  .vgrp .hd + .seq{border-top:0;padding-top:2px}
+  .seq .sh{display:flex;gap:9px;align-items:center;margin-bottom:7px;flex-wrap:wrap}
+  .seq .n{color:var(--muted);font-variant-numeric:tabular-nums;min-width:18px}
+  .seq .sq{font-weight:700;color:var(--ok);font-variant-numeric:tabular-nums}
+  .seq .strip{display:grid;gap:8px;align-items:start;
+    grid-template-columns:repeat(auto-fill,minmax(190px,1fr))}
+  .card .stg{position:absolute;left:7px;bottom:7px;padding:1px 6px;border-radius:5px;
+    background:#000a;color:var(--accent2);font-size:11px;font-weight:700}
+  .vgrp{background:var(--panel);border:1px solid var(--line);border-radius:9px;
+    padding:10px;margin-bottom:10px}
+  .vgrp .hd{display:flex;gap:9px;align-items:baseline;margin-bottom:8px;flex-wrap:wrap}
+  .vgrp .hd b{font-size:14px}
+  /* Wraps onto new lines rather than scrolling sideways -- a video with 40 hits would
+     otherwise hide most of them behind a horizontal drag. */
+  .vgrp .strip{display:grid;gap:8px;align-items:start;grid-auto-rows:max-content;
+    grid-template-columns:repeat(auto-fill,minmax(190px,1fr))}
+  .card .cb{position:absolute;top:7px;left:7px;width:19px;height:19px;cursor:pointer;
+    accent-color:var(--accent);z-index:2}
+  .card .meta{padding:6px 8px;font-size:11.5px;color:var(--muted);
+    display:flex;justify-content:space-between;gap:6px}
+  .card .sc{color:var(--accent2);font-variant-numeric:tabular-nums}
+  /* Khớp temporal: rê chuột lên là biết stage kia đang nằm ở giây nào. */
+  .card .ch{color:var(--ok);cursor:help;font-variant-numeric:tabular-nums}
+  .card .pickbtn{position:absolute;top:5px;right:5px;padding:2px 7px;font-size:11px;
+    background:#000a;border-color:transparent;z-index:2}
+
+  /* ---- right sidebar ---- */
+  .sechead{padding:9px 12px;border-bottom:1px solid var(--line);display:flex;
+    gap:8px;align-items:center;font-size:12.5px;color:var(--muted);font-weight:600;
+    letter-spacing:.04em;text-transform:uppercase}
+  .sechead .spacer{flex:1}
+  #qfilter{display:flex;gap:4px;padding:7px 10px;border-bottom:1px solid var(--line);flex-wrap:wrap}
+  #scenebar{display:none;gap:6px;align-items:center;margin-left:10px}
+  .fchip{font-size:11.5px;padding:3px 9px;border-radius:999px;background:var(--chip);
+    color:var(--muted);cursor:pointer}
+  .fchip.on{background:var(--accent);color:#fff}
+  #qlist{overflow:auto;min-height:0}
+  .qrow{display:flex;gap:8px;align-items:center;padding:7px 12px;cursor:pointer;
+    border-bottom:1px solid var(--line);font-size:13px}
+  .qrow:hover{background:var(--panel2)}
+  .qrow.on{background:var(--accent);color:#fff}
+  .qrow.on .qt,.qrow.on .qc{color:#fff;opacity:.9}
+  .qrow .qn{font-variant-numeric:tabular-nums;width:24px;color:var(--muted)}
+  .qrow.on .qn{color:#fff}
+  .qrow .qt{width:52px;font-size:11px;font-weight:700;color:var(--accent2)}
+  .qrow .qc{margin-left:auto;font-size:11.5px;color:var(--muted);font-variant-numeric:tabular-nums}
+  .qrow .qopen{opacity:.45;font-size:13px;padding:0 2px}
+  .qrow .qopen:hover{opacity:1;color:var(--accent2)}
+  .qrow.on .qopen{opacity:.9}
+  /* Đề bài mở ngay trong danh sách, không popup: đọc đề là việc làm liên tục trong lúc
+     thi, mỗi lần mở/đóng hộp thoại là một nhịp chờ. Vẫn là <textarea> vì bôi đen, cuộn và
+     Ctrl+A đều có sẵn. */
+  .qfull{border-bottom:1px solid var(--line);background:var(--panel2);padding:9px 12px 11px;
+    display:flex;flex-direction:column;gap:8px}
+  /* Đề bài hiện TRỌN VẸN, không có thanh cuộn riêng: đọc đề mà phải cuộn trong một ô nhỏ
+     là mất thời gian, và cột phải vốn đã cuộn được rồi. Vẫn bôi đen copy được bình thường
+     vì đây là text thật, chỉ khác là không nằm trong <textarea>. */
+  .qfull .body{font-size:14px;line-height:1.62;white-space:pre-wrap;word-break:break-word;
+    border-left:2px solid var(--accent2);padding-left:9px;user-select:text;cursor:text}
+  .qfull .bar{display:flex;gap:7px;align-items:center;flex-wrap:wrap}
+  .qfull .bar .hint{margin-right:auto;font-size:11.5px}
+  .qfull button{padding:3px 9px;font-size:11.5px}
+
+  /* Trần chiều cao + cuộn riêng: 30 đáp án mà để danh sách tự dài ra thì Picks và nút
+     Export bị đẩy khỏi màn hình, còn cả cột phải thì không cuộn được. */
+  #subwrap{overflow-y:auto;overflow-x:hidden;min-height:0;max-height:34vh;
+    border-top:1px solid var(--line)}
+  #subwrap.tall{max-height:68vh}
+  .sechead .tog{cursor:pointer;user-select:none;width:11px;text-align:center}
+  .sechead .cnt{font-variant-numeric:tabular-nums;color:var(--accent2)}
+  /* Nội dung XUỐNG DÒNG chứ không tràn sang phải: đáp án QA dài hay TRAKE nhiều event
+     từng đẩy cụm nút ↑ ↓ ✎ ✕ ra ngoài khung, bấm không tới. Cụm nút ghim cứng bên phải. */
+  .sub{display:flex;gap:7px;align-items:flex-start;padding:5px 10px;font-size:12.5px;
+    border-bottom:1px solid var(--line);min-width:0}
+  .sub:hover{background:var(--panel2)}
+  .sub .n{color:var(--muted);flex:0 0 26px;padding-top:2px;font-variant-numeric:tabular-nums}
+  .sub .b{flex:1 1 auto;min-width:0;white-space:normal;overflow-wrap:anywhere;
+    word-break:break-word;line-height:1.5}
+  .sub .acts{display:flex;gap:3px;flex:0 0 auto}
+  /* Đáp án đã thêm bấm được để mở lại popup frame, giống Picks. */
+  .sub .fx{cursor:zoom-in;border-bottom:1px dotted var(--muted)}
+  .sub .fx:hover{color:var(--accent2);border-bottom-color:var(--accent2)}
+  .sub button{padding:1px 6px;font-size:11px}
+  .sub.drag{opacity:.4}
+
+  #picks{border-top:1px solid var(--line);background:var(--panel)}
+  #pickbody{max-height:220px;overflow:auto}
+  .pk{display:flex;gap:7px;align-items:center;padding:4px 10px;font-size:12px;
+    border-bottom:1px solid var(--line)}
+  .pk img{width:56px;aspect-ratio:16/9;object-fit:cover;border-radius:4px;cursor:pointer}
+  .pk .b{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+
+  /* ---- TRAKE builder ---- */
+  #trake{padding:9px 12px;border-top:1px solid var(--line);display:none}
+  .evrow{display:flex;gap:7px;align-items:center;margin-bottom:5px;font-size:12px}
+  .evrow .lbl{width:52px;color:var(--muted)}
+  .evrow.active .lbl{color:var(--accent);font-weight:700}
+  .evrow img{width:64px;aspect-ratio:16/9;object-fit:cover;border-radius:4px;
+    background:var(--panel2);cursor:pointer}
+  .evrow .txt{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+
+  /* ---- modals ---- */
+  .modal{position:fixed;inset:0;z-index:60;background:#000c;display:none;
+    align-items:center;justify-content:center;padding:22px}
+  .modal.on{display:flex}
+  .sheet{background:var(--panel);border:1px solid var(--line);border-radius:12px;
+    width:min(1180px,100%);max-height:92vh;display:grid;grid-template-rows:auto 1fr auto;
+    overflow:hidden}
+  .sheet .hd{padding:10px 14px;border-bottom:1px solid var(--line);display:flex;
+    gap:10px;align-items:center;flex-wrap:wrap}
+  .sheet .bd{overflow:auto;padding:14px}
+  .sheet .ft{padding:10px 14px;border-top:1px solid var(--line);display:flex;
+    gap:8px;align-items:center;flex-wrap:wrap}
+  /* the two navigation units are visually separated so ±1 keyframe is never mistaken
+     for ±1 frame -- they differ by a factor of ~36 */
+  .ft .grp{display:flex;gap:4px;align-items:center;padding:3px 7px 3px 5px;
+    background:var(--panel2);border:1px solid var(--line);border-radius:9px}
+  .ft .glab{font-size:10.5px;color:var(--muted);text-transform:uppercase;
+    letter-spacing:.06em;margin-right:2px}
+  .ft .grp select{padding:4px 6px;font-size:12px;border-radius:6px}
+  #insp .bd{display:grid;grid-template-columns:1.15fr 1fr;gap:14px;align-items:start}
+  #bigimg{width:100%;border-radius:8px;background:var(--panel2)}
+  #ytwrap{width:100%;aspect-ratio:16/9;border-radius:8px;overflow:hidden;background:#000}
+  #ytwrap iframe,#ytwrap>div{width:100%;height:100%;border:0;display:block}
+  .kv{font-size:12.5px;color:var(--muted);margin-top:8px}
+  .kv b{color:var(--ink)}
+  /* Link YouTube kèm mốc giây. URL phải xuống dòng được: cột phải của popup hẹp, để
+     nowrap là nó đẩy ngang cả khung player. */
+  #iytlink{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-top:7px}
+  #iytlink a{color:var(--accent2);overflow-wrap:anywhere;text-decoration:none;
+    border-bottom:1px dotted var(--accent2)}
+  #iytlink a:hover{color:var(--ink);border-bottom-color:var(--ink)}
+  #iytlink button{padding:1px 8px;font-size:11px}
+  /* OCR and ASR side by side, spanning under both columns: they are the two text views of
+     the same moment and get read together, so putting one under the image and the other
+     elsewhere would mean looking in two places. */
+  #ifb{display:flex;gap:7px;align-items:center}
+  #ifb .lab{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+  #ifbtext{flex:1;min-width:0;padding:5px 9px;font-size:13px}
+  #ifbw{width:62px;padding:5px 7px;font-size:12.5px}
+  #itexts{grid-column:1/-1;display:grid;grid-template-columns:1fr 1fr;gap:10px;
+    align-items:start}
+  .ocrbox{padding:9px 10px;background:var(--panel2);border-radius:7px;
+    font-size:13px;max-height:150px;overflow:auto;line-height:1.55}
+  .ocrbox .lab{display:block;font-size:10.5px;text-transform:uppercase;letter-spacing:.06em;
+    color:var(--muted);margin-bottom:4px}
+  #iasr .lab{color:var(--accent2)}
+  .ocrbox .rng{font-size:11px;color:var(--muted);font-variant-numeric:tabular-nums}
+  /* filmstrip: 3 keyframes before, the current one, 3 after -- spans under both columns */
+  #istrip{grid-column:1/-1;display:grid;grid-template-columns:repeat(7,1fr);gap:7px;
+    border-top:1px solid var(--line);padding-top:11px}
+  #istrip .pv{border:1px solid var(--line);border-radius:7px;overflow:hidden;
+    cursor:pointer;background:var(--panel2)}
+  #istrip .pv:hover{border-color:var(--accent2)}
+  #istrip .pv.cur{border-color:var(--warn);box-shadow:0 0 0 2px var(--warn)}
+  #istrip .pv .box{position:relative;width:100%;padding-top:56.25%}
+  #istrip .pv img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+  #istrip .pv .lb{padding:3px 6px;font-size:11px;color:var(--muted);display:flex;
+    justify-content:space-between;gap:4px;font-variant-numeric:tabular-nums}
+  #istrip .pv.cur .lb{color:var(--warn)}
+  /* Placeholder at the start/end of a video, so the current frame stays in the middle. */
+  #istrip .pv.ph{visibility:hidden}
+  /* TRAKE slots, inside the popup: assigning an event has to be visible WHERE the user is
+     looking. The sidebar builder is behind the modal, so its updates went unseen. */
+  #itrakebar{grid-column:1/-1;display:none;gap:8px;align-items:center;flex-wrap:wrap;
+    border-top:1px solid var(--line);padding-top:11px}
+  #itrakebar .thd{font-size:11px;text-transform:uppercase;letter-spacing:.06em;
+    color:var(--muted);margin-right:2px}
+  .tslot{display:flex;gap:7px;align-items:center;padding:5px 9px;border-radius:9px;
+    border:1px solid var(--line);background:var(--panel2);cursor:pointer;min-width:132px}
+  .tslot:hover{border-color:var(--accent2)}
+  .tslot.filled{border-color:var(--ok);background:color-mix(in srgb,var(--ok) 9%,var(--panel2))}
+  /* the cursor: the slot the next "Add frame từ YouTube" will write into. Declared after
+     .filled so a filled slot under the cursor still reads as the cursor. */
+  .tslot.active{border-color:var(--accent);box-shadow:0 0 0 2px var(--accent)}
+  .tslot .n{font-weight:700;font-size:12.5px;min-width:12px}
+  .tslot img{width:54px;height:31px;object-fit:cover;border-radius:4px;background:var(--bg)}
+  .tslot .v{font-size:11.5px;color:var(--muted);font-variant-numeric:tabular-nums}
+  .tslot.filled .v{color:var(--ink)}
+  .tslot .x{opacity:.5;font-size:12px;padding:0 2px}
+  .tslot .x:hover{opacity:1;color:var(--danger)}
+  #fivgrid{display:grid;gap:8px;grid-template-columns:repeat(auto-fill,minmax(140px,1fr))}
+  #fivgrid .card.cur{border-color:var(--warn);box-shadow:0 0 0 2px var(--warn)}
+  .hint{font-size:12px;color:var(--muted)}
+  kbd{background:var(--chip);border:1px solid var(--line);border-radius:4px;
+    padding:1px 5px;font-family:ui-monospace,monospace;font-size:11px}
+  .empty{color:var(--muted);text-align:center;padding:26px 12px;font-size:13px}
+  .toast{position:fixed;bottom:16px;left:50%;transform:translateX(-50%);z-index:80;
+    background:var(--panel);border:1px solid var(--line);border-radius:9px;
+    padding:9px 15px;font-size:13px;box-shadow:0 6px 24px #0007;display:none}
+  .toast.on{display:block}
+</style>
+</head>
+<body>
+<div id="app">
+
+<header>
+  <span class="brand">AIC</span>
+  <select id="mode" title="chế độ tìm">
+    <option value="BGE_VL">BGE-VL</option>
+    <option value="DFN5B">DFN5B</option>
+    <option value="SIGLIP2">SigLIP2</option>
+    <option value="PE_CORE_FT2">PE-Core-ft2</option>
+    <option value="ALL_RRF">Cả 4 (RRF)</option>
+    <option value="ALL_ZSCORE">Cả 4 (z-score)</option>
+    <option value="ZSCORE_BGE_SIGLIP">BGE+SigLIP (z-score)</option>
+    <option value="RRF_DFN5B_PECORE">DFN5B+PE-Core (RRF)</option>
+    <option value="OCR">OCR</option>
+    <option value="ASR">ASR</option>
+  </select>
+  <select id="tech" title="kỹ thuật khớp chữ — chỉ áp dụng cho OCR/ASR">
+    <option value="HYBRID">Cân bằng</option>
+    <option value="KEYWORD">Chính xác</option>
+    <option value="SEMANTIC">Recall tối đa</option>
+  </select>
+  <input id="q" type="text" placeholder="mô tả cảnh cần tìm (tiếng Anh)">
+  <input id="topk" type="number" value="700" min="1" max="3000" title="top_k">
+  <select id="mt" title="4 model đều chỉ hiểu tiếng Anh — câu tiếng Việt được dịch qua Google trước khi tìm">
+    <option value="google">Dịch: Google</option>
+    <option value="off">Không dịch</option>
+  </select>
+  <button class="primary" id="go">Search</button>
+  <span class="spacer"></span>
+  <span class="pill" id="curq">Chưa nạp query</span>
+  <span id="saved"></span>
+  <button id="theme" title="sáng/tối">◐</button>
+</header>
+
+<div id="body">
+  <div id="left">
+    <div id="stagebar">
+      <span class="hint" style="margin-right:4px">STAGE</span>
+      <span id="stages"></span>
+      <button id="addstage">+ Add Stage</button>
+      <select id="tmode" title="cách ghép các stage với nhau theo thời gian">
+        <option value="paper">Temporal: chuỗi</option>
+        <option value="chain">Temporal: nối tiếp</option>
+        <option value="amb">Temporal: chuỗi mờ</option>
+        <option value="off">Temporal: tắt</option>
+      </select>
+      <span id="twinbox" style="display:inline-flex;gap:4px;align-items:center">
+        <input id="twin" type="number" min="1" max="900" step="1" value="7"
+               style="width:52px" title="cửa sổ thời gian W, tính bằng giây">
+        <span class="hint">s</span>
+      </span>
+      <span id="gbox" style="display:none;gap:4px;align-items:center">
+        <span class="hint">γ</span>
+        <input id="gamma" type="number" min="0" max="10" step="0.01" value="0"
+               style="width:58px" title="hệ số phạt khoảng cách: FinalScore = AvgScore / (1 + Distance·γ)">
+        <select id="gunit" title="đơn vị đo Distance">
+          <option value="frame">·frame</option>
+          <option value="sec">·giây</option>
+        </select>
+      </span>
+      <span class="spacer" style="flex:1"></span>
+      <span id="browsebar">
+        <span class="hint">XEM VIDEO</span>
+        <select id="blot" title="lot"></select>
+        <input id="bvid" list="vidlist" placeholder="5 hoặc L26_V005" spellcheck="false"
+               title="video — gõ số cho nhanh, Enter để mở">
+        <datalist id="vidlist"></datalist>
+        <button id="bopen">Mở</button>
+      </span>
+      <span class="spacer"></span>
+      <button id="selall">Chọn hết</button>
+      <button id="selnone">Bỏ chọn</button>
+      <button class="primary" id="addsel">Add đã chọn →</button>
+    </div>
+    <div id="stageinfo">
+      <span id="stagemeta"></span>
+      <span class="spacer" style="flex:1"></span>
+      <span id="views">
+        <span class="fchip" data-v="imageBased">Theo ảnh</span>
+        <span class="fchip on" data-v="videoBasedType1">Theo video</span>
+      </span>
+      <span id="scenebar">
+        <span class="fchip" id="scenechip"
+              title="Gộp các keyframe cùng một cú máy (theo omnishotcut) thành 1 ảnh đại diện">Gộp shot</span>
+      </span>
+    </div>
+    <div id="gridwrap">
+      <div id="grid"><div class="empty">Nạp folder query ở cột phải, rồi Search.</div></div>
+    </div>
+  </div>
+
+  <div id="right">
+    <div class="sechead">
+      <span>Query</span>
+      <span class="spacer"></span>
+      <button id="loadq">Nạp folder…</button>
+      <input id="qdir" type="file" webkitdirectory directory multiple style="display:none">
+      <button id="loadr" title="nạp lại folder CSV kết quả cũ để sửa tiếp">Nạp result…</button>
+      <input id="rdir" type="file" webkitdirectory directory multiple style="display:none">
+    </div>
+    <div id="qfilter">
+      <span class="fchip on" data-f="ALL">All</span>
+      <span class="fchip" data-f="KIS">KIS</span>
+      <span class="fchip" data-f="QA">QA</span>
+      <span class="fchip" data-f="TRAKE">TRAKE</span>
+      <span class="fchip" data-f="TODO">Chưa xong</span>
+      <span class="spacer"></span>
+      <button id="exportall" style="padding:2px 8px;font-size:11.5px">Export tất cả</button>
+    </div>
+    <div id="qlist"><div class="empty">Chưa nạp query nào</div></div>
+
+    <div>
+      <div class="sechead">
+        <span class="tog" id="subtog" title="ẩn/hiện danh sách đáp án">▾</span>
+        <span id="subtitle">Submission</span>
+        <span class="cnt" id="subn">0</span>
+        <span class="spacer"></span>
+        <button id="subtall" style="padding:2px 7px;font-size:11.5px"
+                title="danh sách cao hơn / thấp hơn">⤢</button>
+        <button id="exportone" style="padding:2px 8px;font-size:11.5px">Export CSV</button>
+      </div>
+      <div id="trake">
+        <div class="hint" style="margin-bottom:6px">TRAKE · <span id="tlock">chưa khoá video</span></div>
+        <div id="events"></div>
+        <button class="primary" id="addtrake" style="width:100%;margin-top:6px">Chưa có event nào</button>
+      </div>
+      <div id="subwrap"><div class="empty">Chưa có đáp án</div></div>
+      <div id="picks">
+        <div class="sechead" style="cursor:pointer" id="pickhead">
+          <span>Picks (<span id="pkn">0</span>)</span>
+          <span class="spacer"></span>
+          <span id="pkcaret">▸</span>
+        </div>
+        <div id="pickbody" style="display:none"></div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<!-- Frame Inspector -->
+<div class="modal" id="insp">
+  <div class="sheet" tabindex="-1" style="outline:none">
+    <div class="hd">
+      <b id="ititle" class="mono">—</b>
+      <span class="pill" id="itime">—</span>
+      <span class="spacer"></span>
+      <span class="hint"><kbd>a</kbd><kbd>d</kbd> ±1 keyframe · <kbd>G</kbd> add từ YouTube ·
+        <kbd>1</kbd>–<kbd>4</kbd> đổi ô TRAKE · <kbd>P</kbd> pick · click ra ngoài để đóng</span>
+      <button id="iclose">Đóng</button>
+    </div>
+    <div class="bd">
+      <div>
+        <img id="bigimg" alt="">
+        <div class="kv" id="ikv"></div>
+      </div>
+      <div>
+        <div id="ytwrap"><div id="ytmount"></div></div>
+        <div class="kv" id="iytlink"></div>
+        <div class="kv" id="iyt"></div>
+      </div>
+      <div id="itexts">
+        <div class="ocrbox" id="icap"></div>
+        <div class="ocrbox" id="iocr"></div>
+        <div class="ocrbox" id="iasr"></div>
+      </div>
+      <div id="istrip"></div>
+      <div id="itrakebar"></div>
+    </div>
+    <div class="ft" id="ifb">
+      <span class="lab">Feedback</span>
+      <input id="ifbtext" placeholder="ảnh này nhưng… (vd: 4 người ngồi mặc áo đỏ)"
+             spellcheck="false">
+      <input id="ifbw" type="number" min="0" max="1" step="0.1" value="0.7"
+             title="trọng số của chữ — phần còn lại là của ảnh">
+      <button class="primary" id="ifbgo">Tìm lại theo ảnh + chữ</button>
+    </div>
+    <div class="ft">
+      <button id="ifiv">Frames in Video</button>
+      <button id="ipick">Pick (P)</button>
+      <button id="isim" title="tìm các frame giống ảnh này">Ảnh tương tự</button>
+      <span class="spacer"></span>
+      <button id="iadd">Add keyframe</button>
+      <button class="primary" id="iytadd" title="lấy giây hiện tại của player YouTube → frame (G)">
+        Add frame từ YouTube</button>
+    </div>
+  </div>
+</div>
+
+<!-- Frames in Video -->
+<div class="modal" id="fiv">
+  <div class="sheet">
+    <div class="hd">
+      <b id="fivtitle" class="mono">—</b>
+      <span class="spacer"></span>
+      <span class="hint">Click ảnh = preview · checkbox = chọn · click ra ngoài để đóng</span>
+      <button id="fivclose">Đóng</button>
+    </div>
+    <div class="bd"><div id="fivgrid"></div></div>
+    <div class="ft">
+      <span class="pill" id="fivsel">0 đã chọn</span>
+      <span class="spacer"></span>
+      <button id="fivpick">Cho vào Picks</button>
+      <button class="primary" id="fivadd">Add vào query hiện tại</button>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+"use strict";
+const $ = s => document.querySelector(s);
+const $$ = s => [...document.querySelectorAll(s)];
+const FALLBACK = "https://inspired-commentary-prefers-lenders.trycloudflare.com";
+const BASE = location.protocol === "file:" ? FALLBACK : location.origin;
+const LS = "aic-ui-v2";
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c =>
+  ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const pad6 = n => String(Math.max(0, n)).padStart(6, "0");
+
+// ---------------------------------------------------------------- dịch câu truy vấn
+// Cả 4 model chỉ được huấn luyện trên chú thích tiếng Anh, nên câu tiếng Việt phải
+// dịch trước khi encode. Google dịch tốt nhất nhưng mất ~1,1s cho một câu mới, nên UI gọi
+// /translate NGAY LÚC MỞ ĐỀ: trong lúc người dùng còn đang đọc, bản dịch đã nằm sẵn trong
+// cache của API, tới lúc bấm Search thì tốn 0ms. Bản dịch cũng được giữ ở đây để hiện ra
+// cho người dùng thấy máy thực sự đã tìm bằng câu tiếng Anh nào.
+const MT_LS = "aic-mt";
+const enCache = new Map();          // câu gốc -> câu tiếng Anh
+
+const mtMode = () => $("#mt").value;          // google | local | off
+
+function prefetchTranslation(text) {
+  text = (text || "").trim();
+  if (!text || mtMode() === "off" || enCache.has(mtKey(text))) return;
+  fetch(`${BASE}/translate`, {
+    method: "POST", headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ text, backend: mtMode() }),
+  }).then(r => r.json()).then(d => {
+    if (!d || d.status !== "success") return;
+    enCache.set(mtKey(text), d.vietnamese ? d.translated : null);
+  }).catch(() => {});            // mất mạng thì thôi, server tự lo phần fallback
+}
+const mtKey = t => `${mtMode()}|${t}`;
+
+// ---------------------------------------------------------------- state
+const S = {
+  queries: [],        // {file,num,type,text,subs:[]}
+  cur: -1,
+  filter: "ALL",
+  stages: [],         // {query,mode,tech,topk,frames:[],videos:[]}
+  stage: 0,
+  sel: new Set(),     // "video|frameid" selected in the current stage grid
+  basket: [],         // {video_id,frame_id,image_url}
+  trake: { video: null, events: [], slot: 0 },
+  insp: null,         // {video_id, frame_id, list:[], pos, meta}
+  fivSel: new Set(),
+  view: "videoBasedType1",   // imageBased | videoBasedType1
+  open: null,           // chỉ số đề đang mở rộng trong danh sách
+  scene: false,         // gộp keyframe cùng một shot khi xem theo video
+  browse: null,         // {video_id, frames} khi đang duyệt nguyên một video
+  seqs: null,           // danh sách chuỗi khi đang ở chế độ temporal "chuỗi"/"chuỗi mờ"
+  subOpen: true,        // khối Submission đang mở hay đang gập
+  subTall: false,       // danh sách đáp án cao gấp đôi
+};
+
+function save() {
+  $("#saved").textContent = "Saving…";
+  try {
+    localStorage.setItem(LS, JSON.stringify({
+      queries: S.queries.map(q => ({ ...q, })),
+      cur: S.cur, basket: S.basket, trake: S.trake,
+    }));
+    setTimeout(() => { $("#saved").textContent = "Saved ✓"; }, 120);
+  } catch (e) { $("#saved").textContent = "Save lỗi"; }
+}
+function load() {
+  try {
+    const d = JSON.parse(localStorage.getItem(LS) || "null");
+    if (!d) return;
+    S.queries = d.queries || []; S.cur = d.cur ?? -1;
+    S.basket = d.basket || [];
+    // Saved sessions predate both the variable-length list and the cursor: a stored
+    // [null,null,null,null] would render four empty slots, and a missing slot came out as
+    // "Event NaN" on the button. Normalise on the way in.
+    if (d.trake) S.trake = {
+      video: d.trake.video || null,
+      events: (d.trake.events || []).filter(Boolean),
+      slot: Number.isInteger(d.trake.slot) ? d.trake.slot : 0,
+    };
+  } catch (e) { /* corrupt store: start clean rather than block the app */ }
+}
+function toast(msg, ms = 1800) {
+  const t = $("#toast"); t.textContent = msg; t.classList.add("on");
+  clearTimeout(toast._t); toast._t = setTimeout(() => t.classList.remove("on"), ms);
+}
+const curQ = () => S.queries[S.cur] || null;
+const curStage = () => S.stages[S.stage] || null;
+// Lưới đang hiện cái gì: video đang duyệt nếu có, còn không thì kết quả của stage.
+const curFrames = () => (S.browse ? S.browse.frames : (curStage()?.frames || []));
+// Ở chế độ chuỗi, frame đang hiện thuộc NHIỀU stage cùng lúc, nên lấy theo stage hiện tại
+// sẽ đánh rơi những frame người dùng vừa tick ở bước khác.
+const pickableFrames = () => (S.seqs && !S.browse ? S.seqs.flatMap(q => q.items) : curFrames());
+
+// ---------------------------------------------------------------- query files
+$("#loadq").onclick = () => $("#qdir").click();
+$("#qdir").onchange = async (e) => {
+  const files = [...e.target.files].filter(f => f.name.toLowerCase().endsWith(".txt"));
+  if (!files.length) return toast("Không thấy file .txt nào trong folder");
+  const out = [];
+  for (const f of files) {
+    out.push({ file: f.name, ...parseQueryName(f.name), text: (await f.text()).trim(), subs: [] });
+  }
+  // Round first, then ordinal. A plain numeric sort on the first number in the name put
+  // "query-p2-1-kis" before "query-p1-9-kis", because it read the 2 out of "p2".
+  out.sort((a, b) => (a.phase - b.phase) || (a.num - b.num) || a.file.localeCompare(b.file));
+  // Keep answers already entered for a file of the same name (re-loading the folder
+  // mid-contest must not wipe work).
+  const old = new Map(S.queries.map(q => [q.file, q.subs]));
+  out.forEach(q => { if (old.has(q.file)) q.subs = old.get(q.file); });
+  S.queries = out; S.cur = 0;
+  renderQueries(); renderSub(); save();
+  toast(`Đã nạp ${out.length} query`);
+};
+
+// "query-p2-1-kis.txt" -> {phase: 2, num: 1, type: "KIS"}. Tokens are matched by SHAPE,
+// not by position, so "query-1-kis.txt" (no round) and any future reordering still parse:
+//   p<digits>          the round        p1 p2 p3
+//   pure digits        the ordinal      1 2 3 ...
+//   kis | qa | trake   the query kind
+function parseQueryName(name) {
+  const parts = name.replace(/\.[^.]+$/, "").toLowerCase().split(/[-_\s]+/);
+  let phase = 0, num = null, type = null;
+  for (const p of parts) {
+    if (/^p\d+$/.test(p)) { if (!phase) phase = +p.slice(1); }
+    else if (/^\d+$/.test(p)) { if (num === null) num = +p; }
+    else if (["kis", "qa", "trake"].includes(p)) { type = p; }
+  }
+  return { phase, num: num ?? 0, type: (type || "kis").toUpperCase() };
+}
+
+// ---------------------------------------------------------------- nạp lại result cũ
+// Nạp một folder CSV đã export lần trước để sửa tiếp: file trùng tên với file đề, chỉ
+// khác đuôi (query-p1-01-kis.txt -> query-p1-01-kis.csv). Không khớp được tên thì thử
+// khớp theo (vòng, số thứ tự, loại) đọc từ chính tên file, để đổi tên vặt vẫn về đúng chỗ.
+$("#loadr").onclick = () => {
+  if (!S.queries.length) return toast("Nạp folder query trước đã");
+  $("#rdir").click();
+};
+
+// Bộ đọc CSV đúng chuẩn: đáp án QA nằm trong dấu ngoặc kép và có thể chứa dấu phẩy,
+// xuống dòng, hay chính dấu ngoặc kép (viết đôi). Tách bằng split(",") là hỏng ngay.
+function parseCsv(text) {
+  const rows = [];
+  let row = [], cell = "", inq = false;
+  for (let i = 0; i < text.length; i++) {
+    const c = text[i];
+    if (inq) {
+      if (c !== '"') { cell += c; continue; }
+      if (text[i + 1] === '"') { cell += '"'; i++; } else inq = false;
+    } else if (c === '"') inq = true;
+    else if (c === ",") { row.push(cell); cell = ""; }
+    else if (c === "\n") { row.push(cell); rows.push(row); row = []; cell = ""; }
+    else if (c !== "\r") cell += c;
+  }
+  if (cell !== "" || row.length) { row.push(cell); rows.push(row); }
+  return rows.filter(r => r.some(x => x.trim() !== ""));
+}
+
+// Một dòng CSV -> một đáp án, theo đúng loại của query. Dòng tiêu đề (cột thứ hai không
+// phải số) bị bỏ qua, nên file có header hay không đều nạp được.
+function rowToSub(row, type) {
+  const cells = row.map(c => c.trim());
+  const video = cells[0];
+  if (!video) return null;
+  const nums = cells.slice(1).map(c => parseInt(c, 10));
+  if (!Number.isFinite(nums[0])) return null;             // header hoặc dòng rác
+  if (type === "TRAKE") {
+    const frames = cells.slice(1).map(c => parseInt(c, 10)).filter(Number.isFinite);
+    return frames.length ? { video_id: video, frames } : null;
+  }
+  const sub = { video_id: video, frame_id: pad6(nums[0]) };
+  if (type === "QA") sub.answer = cells[2] ?? "";         // giữ nguyên, kể cả rỗng
+  return sub;
+}
+
+$("#rdir").onchange = async (e) => {
+  const files = [...e.target.files].filter(f => f.name.toLowerCase().endsWith(".csv"));
+  e.target.value = "";                                    // để nạp lại đúng folder đó được
+  if (!files.length) return toast("Không thấy file .csv nào trong folder");
+
+  const stem = n => n.replace(/\.[^.]+$/, "").toLowerCase();
+  const byStem = new Map(S.queries.map((q, i) => [stem(q.file), i]));
+  const byKey = new Map(S.queries.map((q, i) => [`${q.phase}|${q.num}|${q.type}`, i]));
+
+  const found = [];                                       // {qi, subs}
+  const missed = [];
+  for (const f of files) {
+    let qi = byStem.get(stem(f.name));
+    if (qi === undefined) {
+      const k = parseQueryName(f.name);
+      qi = byKey.get(`${k.phase}|${k.num}|${k.type}`);
+    }
+    if (qi === undefined) { missed.push(f.name); continue; }
+    const type = S.queries[qi].type;
+    const subs = parseCsv(await f.text()).map(r => rowToSub(r, type)).filter(Boolean);
+    if (subs.length) found.push({ qi, subs: subs.slice(0, 100) });
+  }
+  if (!found.length)
+    return toast(`Không file CSV nào khớp với query đang nạp (${missed.length} file bị bỏ)`, 4000);
+
+  // Query đang có đáp án là công sức đang làm dở -- không bao giờ ghi đè lặng lẽ.
+  const clash = found.filter(x => S.queries[x.qi].subs.length);
+  let overwrite = true;
+  if (clash.length) {
+    overwrite = confirm(
+      `${clash.length} query đang có đáp án sẵn:\n`
+      + clash.slice(0, 8).map(x => `  · ${queryLabel(S.queries[x.qi])} (${S.queries[x.qi].subs.length} đáp án)`).join("\n")
+      + (clash.length > 8 ? `\n  · … và ${clash.length - 8} query nữa` : "")
+      + `\n\nOK  = ghi đè bằng file CSV\nCancel = giữ nguyên, chỉ nạp những query đang trống`);
+  }
+
+  let nq = 0, nr = 0;
+  for (const { qi, subs } of found) {
+    if (S.queries[qi].subs.length && !overwrite) continue;
+    S.queries[qi].subs = subs;
+    nq++; nr += subs.length;
+  }
+  renderQueries(); renderSub(); save();
+  toast(`Nạp result: ${nq} query · ${nr} đáp án`
+        + (missed.length ? ` · ${missed.length} file không khớp` : "")
+        + (!overwrite && clash.length ? ` · giữ nguyên ${clash.length} query đã có` : ""), 4200);
+};
+
+// Label shown in the list and on the CSV subtitle: "P2 · 01" when the file names a round.
+function queryLabel(q) {
+  return (q.phase ? `P${q.phase} · ` : "") + String(q.num).padStart(2, "0");
+}
+
+function renderQueries() {
+  const box = $("#qlist");
+  if (!S.queries.length) { box.innerHTML = `<div class="empty">Chưa nạp query nào</div>`; return; }
+  const rows = S.queries.map((q, i) => {
+    if (S.filter === "TODO" && q.subs.length) return "";
+    if (["KIS", "QA", "TRAKE"].includes(S.filter) && q.type !== S.filter) return "";
+    const open = S.open === i;
+    return `<div class="qrow ${i === S.cur ? "on" : ""}" data-i="${i}">
+      <span class="qn">${esc(queryLabel(q))}</span>
+      <span class="qt">${q.type}</span>
+      <span class="b" title="${esc(q.text)}">${esc(q.text.slice(0, 26))}</span>
+      <span class="qc">${q.subs.length}/100</span>
+      <span class="qopen" data-t="${i}" title="${open ? "thu gọn đề" : "mở toàn bộ đề"}"
+        >${open ? "▴" : "⤢"}</span></div>`
+      + (open ? `<div class="qfull" data-full="${i}">
+          <div class="body">${esc(q.text || "(file rỗng)")}</div>
+          <div class="bar">
+            <span class="hint mono">${esc(q.file)}</span>
+            <button data-a="copy">Copy đề</button>
+            <button data-a="use">Đưa vào ô tìm kiếm</button>
+            <button data-a="close">Thu gọn</button>
+          </div>
+        </div>` : "");
+  }).join("");
+  box.innerHTML = rows || `<div class="empty">Không có query khớp bộ lọc</div>`;
+  box.querySelectorAll(".qrow").forEach(r => r.onclick = e => {
+    if (e.target.dataset.t !== undefined) return toggleQueryText(+e.target.dataset.t);
+    switchQuery(+r.dataset.i);
+  });
+  box.querySelectorAll(".qfull").forEach(el => {
+    const i = +el.dataset.full;
+    el.querySelectorAll("button").forEach(b => b.onclick = ev => {
+      ev.stopPropagation();
+      const a = b.dataset.a, text = S.queries[i].text || "";
+      if (a === "close") return toggleQueryText(i);
+      if (a === "use") { $("#q").value = text; $("#q").focus(); return; }
+      navigator.clipboard.writeText(text).then(
+        () => toast("Đã copy đề vào clipboard"),
+        () => {
+          const r = document.createRange(); r.selectNodeContents(el.querySelector(".body"));
+          const sel = getSelection(); sel.removeAllRanges(); sel.addRange(r);
+          toast("Đã bôi đen — bấm Ctrl+C");
+        });
+    });
+  });
+  const q = curQ();
+  $("#curq").innerHTML = q
+    ? `Query <b>${esc(queryLabel(q))}</b> · <b>${q.type}</b> · <b>${q.subs.length}</b>/100`
+    : "Chưa nạp query";
+  $("#curq").style.cursor = q ? "pointer" : "";
+  $("#curq").title = q ? "bấm để xem toàn bộ đề" : "";
+  $("#subtitle").textContent = q ? `Submission · ${q.file.replace(/\.txt$/i, ".csv")}` : "Submission";
+  $("#trake").style.display = q && q.type === "TRAKE" ? "" : "none";
+  renderTrake();
+}
+
+// Đề bài mở ngay trong danh sách. Mở đề KHÔNG đổi query đang làm: lý do thường gặp để đọc
+// đề 12 khi đang làm đề 7 là xem có phải cùng một cảnh không, mà đổi query thì mất sạch
+// các event TRAKE đang dựng dở. Mỗi lúc chỉ mở một đề, để danh sách không bị dài ra.
+function toggleQueryText(i) {
+  S.open = S.open === i ? null : i;
+  renderQueries();
+  if (S.open === i) {
+    prefetchTranslation(S.queries[i]?.text || "");
+    const el = $(`.qfull[data-full="${i}"]`);
+    if (el) el.scrollIntoView({ block: "nearest" });
+  }
+}
+$("#curq").onclick = () => { if (curQ()) toggleQueryText(S.cur); };
+
+function switchQuery(i) {
+  save();                       // leaving a query always persists it first
+  S.cur = i;
+  S.open = i;                   // chọn đề nào thì mở luôn đề đó, khỏi bấm thêm một nhịp
+  S.trake = { video: null, events: [], slot: 0 };
+  renderQueries(); renderSub(); save();
+  prefetchTranslation(S.queries[i]?.text || "");
+}
+
+$$("#qfilter .fchip").forEach(c => c.onclick = () => {
+  $$("#qfilter .fchip").forEach(x => x.classList.remove("on"));
+  c.classList.add("on"); S.filter = c.dataset.f; renderQueries();
+});
+
+// ---------------------------------------------------------------- search + stages
+$("#mode").onchange = () => {
+  // The technique selector stays visible at all times and is only disabled, so the three
+  // matching modes are always discoverable instead of appearing out of nowhere.
+  const txt = ["OCR", "ASR"].includes($("#mode").value);
+  $("#tech").disabled = !txt;
+  $("#tech").style.opacity = txt ? "1" : ".45";
+  $("#q").placeholder = txt ? "chữ trên màn hình / lời nói (tiếng Việt)"
+                            : "mô tả cảnh cần tìm (tiếng Anh)";
+};
+
+// ---------------------------------------------------------------- temporal (đa stage)
+// Mỗi stage giữ nguyên kết quả THÔ của nó (s.raw); phần lọc/ghép được tính lại từ đầu
+// trên toàn bộ stage mỗi khi có gì đổi, nên chạy lại stage 1 là mọi stage sau tự cập nhật.
+//
+// HAI CHIẾN LƯỢC, để đặt cạnh nhau mà đo:
+//
+//   nối tiếp (chain) — lọc theo stage liền trước: frame của stage n được giữ nếu trong
+//     cùng video có một hit của stage n-1 nằm trong ±W giây. Một chiều, không xét thứ tự.
+//     Kết quả là DANH SÁCH FRAME của từng stage, xem như bình thường.
+//
+//   chuỗi (paper)  — theo Temporal Search của paper: mỗi stage tìm độc lập, sau đó ghép
+//     các keyframe cùng video thành CHUỖI theo đúng thứ tự thời gian, rồi xếp hạng bằng
+//         AvgScore  = (1/k)·Σ Sᵢ
+//         Distance  = Σ_{i<j} |fⱼ − fᵢ|
+//         FinalScore = AvgScore / (1 + Distance·γ)         γ mặc định 0.05
+//     Kết quả là DANH SÁCH CHUỖI, mỗi chuỗi k ảnh -- đúng thứ mà TRAKE cần nộp.
+//
+//     RÀNG BUỘC SHOT: mỗi event phải ở một CÚ MÁY KHÁC và đứng sau, tức shot_index phải
+//     TĂNG NGẶT dọc chuỗi. Chỉ đòi chỉ số frame tăng là chưa đủ: keyframe trong cùng một
+//     shot cách nhau vài chục frame, nên chuỗi 002595 → 002596 hay 000112 → 000114 vẫn
+//     "đúng thứ tự" mà thực chất chỉ là một cảnh duy nhất -- không phải hai sự việc nối
+//     tiếp nhau. shot_index lấy từ omnishotcut, có sẵn trên mọi frame API trả về.
+//
+//   chuỗi mờ (amb) — Ambiguous Temporal Search của cùng paper: khi đề không nói rõ thứ tự
+//     ("thầy giáo rời phòng, cùng lúc đó chuông reo"), chỉ gom theo TÊN VIDEO, bỏ hẳn ràng
+//     buộc chỉ số frame. Mỗi video cho một chuỗi gồm frame điểm cao nhất của từng stage,
+//     xếp hạng thuần bằng AvgScore (không có Distance vì thông tin thời gian không đáng tin).
+//
+// LƯU Ý về đơn vị Distance: paper cộng hiệu các CHỈ SỐ FRAME, nhưng bộ dữ liệu này có 4
+// mức fps khác nhau (25 · 30 · 29.97 · 26.438), nên cùng một khoảng cách frame lại là
+// những khoảng thời gian khác nhau tuỳ video -- mà bảng xếp hạng thì so chung mọi video.
+// Vì vậy có ô chọn đơn vị: "γ·frame" đúng nguyên văn paper, "γ·giây" quy về thời gian thật.
+const TMODE_LS = "aic-tmode", TWIN_LS = "aic-twin", GAMMA_LS = "aic-gamma", GUNIT_LS = "aic-gunit";
+const tWin = () => Math.max(1, +$("#twin").value || 7);
+const tGamma = () => Math.max(0, +$("#gamma").value || 0);
+const tUnit = () => $("#gunit").value;
+const tMode = () => $("#tmode").value;
+const TMODE_LABEL = { chain: "nối tiếp", paper: "chuỗi", amb: "chuỗi mờ", off: "tắt" };
+
+// The API sends timestamp_sec on every frame; fall back to nothing rather than guessing an
+// fps, because a wrong fps would silently shift the window.
+function frameSeconds(f) {
+  return typeof f.timestamp_sec === "number" ? f.timestamp_sec : null;
+}
+const frameNum = f => parseInt(f.frame_id, 10) || 0;
+
+// video -> [{t, f}] sắp theo thời gian. Frame không có timestamp bị bỏ khỏi chỉ mục và
+// được giữ vô điều kiện ở bước cuối: thà thừa một hit còn hơn mất nó vì thiếu metadata.
+function timeIndex(frames) {
+  const m = new Map();
+  for (const f of frames) {
+    const t = frameSeconds(f);
+    if (t === null) continue;
+    if (!m.has(f.video_id)) m.set(f.video_id, []);
+    m.get(f.video_id).push({ t, f });
+  }
+  for (const arr of m.values()) arr.sort((a, b) => a.t - b.t);
+  return m;
+}
+function timesOf(idx) {
+  const m = new Map();
+  for (const [v, arr] of idx) m.set(v, arr.map(x => x.t));
+  return m;
+}
+// Phần tử đầu tiên ≥ lo. Mảng đã sắp nên nhị phân, không quét.
+function lowerBound(arr, lo) {
+  let a = 0, b = arr.length;
+  while (a < b) { const m = (a + b) >> 1; if (arr[m] < lo) a = m + 1; else b = m; }
+  return a;
+}
+function hasInRange(arr, lo, hi) {
+  const i = lowerBound(arr, lo);
+  return i < arr.length && arr[i] <= hi;
+}
+function nearestIn(arr, t, lo, hi) {
+  const i = lowerBound(arr, lo);
+  let best = null;
+  for (let j = i; j < arr.length && arr[j] <= hi; j++)
+    if (best === null || Math.abs(arr[j] - t) < Math.abs(best - t)) best = arr[j];
+  return best;
+}
+function keepIf(idx, ok) {
+  const out = new Map();
+  for (const [v, arr] of idx) {
+    const kept = arr.filter(x => ok(v, x.t));
+    if (kept.length) out.set(v, kept);
+  }
+  return out;
+}
+
+// Chỉ so với stage liền trước, một chiều, không quan tâm thứ tự.
+function joinChain(idxs, W) {
+  const out = [idxs[0]];
+  for (let a = 1; a < idxs.length; a++) {
+    const prev = timesOf(out[a - 1]);
+    out.push(keepIf(idxs[a], (v, t) => {
+      const list = prev.get(v);
+      return !!list && hasInRange(list, t - W, t + W);
+    }));
+  }
+  return out;
+}
+
+// ---- chuỗi theo paper --------------------------------------------------------------
+// Số ứng viên tối đa lấy từ mỗi stage TRONG MỘT VIDEO trước khi ghép. Không chặn thì một
+// video có 40 hit mỗi stage × 4 stage là 2,5 triệu tổ hợp cho riêng nó.
+const SEQ_PER_STAGE = 10;     // giữ 10 frame điểm cao nhất của mỗi stage trong mỗi video
+const SEQ_PER_VIDEO = 5;      // mỗi video được góp nhiều nhất 5 chuỗi, để không lấp bảng
+const SEQ_TOTAL = 300;        // tổng số chuỗi hiển thị
+const SEQ_BUDGET = 3e6;       // trần số tổ hợp duyệt, để UI không bao giờ treo
+
+// Chèn vào mảng top-n đang sắp giảm dần theo final.
+function pushBest(arr, seq, n) {
+  let i = arr.length;
+  while (i > 0 && arr[i - 1].final < seq.final) i--;
+  if (i >= n) return;
+  arr.splice(i, 0, seq);
+  if (arr.length > n) arr.length = n;
+}
+
+function buildSequences(act, gamma, unit, ambiguous) {
+  const k = act.length;
+  const byVideo = new Map();
+  act.forEach(({ s }, a) => {
+    for (const f of s.raw) {
+      let slot = byVideo.get(f.video_id);
+      if (!slot) { slot = act.map(() => []); byVideo.set(f.video_id, slot); }
+      slot[a].push(f);
+    }
+  });
+  const posOf = f => unit === "sec" ? (frameSeconds(f) ?? frameNum(f)) : frameNum(f);
+  // Frame hiếm hoi không rơi vào shot nào thì tự nó là một shot riêng, để vẫn ghép được.
+  const shotKey = f => f.shot_index == null ? `f${frameNum(f)}` : `s${f.shot_index}`;
+  const stages = act.map(x => x.i + 1);
+  const out = [];
+  let budget = SEQ_BUDGET;
+
+  for (const [video, lists] of byVideo) {
+    if (lists.some(l => !l.length)) continue;      // thiếu hẳn một stage: video này loại
+    // cắt theo điểm trước (giữ ứng viên mạnh nhất), rồi sắp theo thời gian để ghép
+    const cand = lists.map(l =>
+      l.slice().sort((x, y) => (y.score ?? 0) - (x.score ?? 0)).slice(0, SEQ_PER_STAGE));
+
+    if (ambiguous) {
+      // Không xét thứ tự, nhưng hai event vẫn không được cùng một cú máy. Chọn tổ hợp
+      // TỔNG ĐIỂM CAO NHẤT mà mỗi stage một shot khác nhau. Tham lam theo thứ tự stage là
+      // sai: stage 1 chiếm mất shot 3 thì stage 2 -- vốn chỉ có hit ở shot 3 -- hết đường,
+      // trong khi stage 1 lùi sang shot 9 là cả hai cùng sống. Nên duyệt có chặn trên:
+      // đang đi mà phần còn lại dù lấy hết điểm cao nhất cũng không vượt được phương án
+      // đang giữ thì cắt luôn, nhờ vậy gần như lúc nào cũng dừng ngay ở nhánh đầu tiên.
+      const suffix = new Array(k + 1).fill(0);
+      for (let a = k - 1; a >= 0; a--) suffix[a] = suffix[a + 1] + (cand[a][0]?.score ?? 0);
+      const used = new Set(), cur = new Array(k);
+      let bestSum = -1, bestItems = null;
+      const walk = (a, sum) => {
+        if (sum + suffix[a] <= bestSum) return;
+        if (a === k) { bestSum = sum; bestItems = cur.slice(); return; }
+        for (const f of cand[a]) {
+          const sk = shotKey(f);
+          if (used.has(sk)) continue;
+          used.add(sk); cur[a] = f;
+          walk(a + 1, sum + (f.score ?? 0));
+          used.delete(sk);
+        }
+      };
+      walk(0, 0);
+      if (!bestItems) continue;                // không đủ shot khác nhau: bỏ video này
+      const avg = bestSum / k;
+      out.push({ video_id: video, items: bestItems, stages, avg, dist: null, final: avg });
+      continue;
+    }
+
+    cand.forEach(l => l.sort((x, y) => frameNum(x) - frameNum(y)));
+    const best = [];
+    const pick = new Array(k), pos = new Array(k);
+    let sum = 0;
+    const dfs = (a, minShot, minN) => {
+      if (budget <= 0) return;
+      if (a === k) {
+        budget--;
+        let dist = 0;
+        for (let i = 0; i < k; i++) for (let j = i + 1; j < k; j++) dist += Math.abs(pos[j] - pos[i]);
+        const avg = sum / k;
+        const final = avg / (1 + dist * gamma);
+        // Chỉ dựng object khi chuỗi này thật sự lọt top của video -- vòng lặp trong cùng
+        // chạy hàng triệu lần, cấp phát ở đây là chỗ duy nhất đủ sức làm chậm cả UI.
+        if (best.length < SEQ_PER_VIDEO || final > best[best.length - 1].final)
+          pushBest(best, { video_id: video, items: pick.slice(), stages, avg, dist, final },
+                   SEQ_PER_VIDEO);
+        return;
+      }
+      const list = cand[a];
+      for (let i = 0; i < list.length; i++) {
+        const f = list[i], n = frameNum(f), sh = f.shot_index;
+        // Event sau phải ở CÚ MÁY KHÁC và ở sau. Thiếu shot_index thì đành xét frame.
+        if (sh == null || minShot == null) { if (n <= minN) continue; }
+        else if (sh <= minShot) continue;
+        pick[a] = f; pos[a] = posOf(f); sum += (f.score ?? 0);
+        dfs(a + 1, sh == null ? minShot : sh, n);
+        sum -= (f.score ?? 0);
+        if (budget <= 0) return;
+      }
+    };
+    dfs(0, null, -Infinity);
+    out.push(...best);
+  }
+  out.sort((x, y) => y.final - x.final);
+  if (budget <= 0) toast("Quá nhiều tổ hợp — đã cắt bớt, hạ top_k hoặc thêm stage cho chặt lại", 3600);
+  return out.slice(0, SEQ_TOTAL);
+}
+
+const vidsOf = frames => [...new Set(frames.map(f => f.video_id))];
+
+// Tính lại phần hiển thị của MỌI stage từ kết quả thô. Gọi sau mỗi lần search, xoá stage,
+// hay đổi kiểu ghép / tham số. Không đụng tới câu query hay kết quả thô của stage nào.
+function applyTemporal() {
+  const act = S.stages.map((s, i) => ({ s, i })).filter(x => (x.s.raw || []).length);
+  for (const { s } of act) { s.frames = s.raw.slice(); s.videos = vidsOf(s.frames); }
+  S.seqs = null;
+  const mode = tMode();
+  if (mode === "off" || act.length < 2) return;
+
+  if (mode === "paper" || mode === "amb") {
+    S.seqs = buildSequences(act, tGamma(), tUnit(), mode === "amb");
+    // Frame nào có góp mặt trong một chuỗi thì vẫn giữ trong danh sách của stage nó, để
+    // "Chọn hết", Picks và popup vẫn hiểu được mình đang xem cái gì.
+    const live = act.map(() => new Set());
+    for (const q of S.seqs) q.items.forEach((f, a) => live[a].add(key(f)));
+    act.forEach(({ s }, a) => {
+      s.frames = s.raw.filter(f => live[a].has(key(f)));
+      s.videos = vidsOf(s.frames);
+    });
+    return;
+  }
+
+  const W = tWin();
+  const idxs = act.map(x => timeIndex(x.s.raw));
+  const kept = joinChain(idxs, W);
+  const keptTimes = kept.map(timesOf);
+  act.forEach(({ s }, a) => {
+    const alive = new Set();
+    for (const arr of kept[a].values()) for (const x of arr) alive.add(key(x.f));
+    // Frame thiếu timestamp không tham gia ghép được thì giữ nguyên, đừng đánh rơi.
+    s.frames = s.raw.filter(f => frameSeconds(f) === null || alive.has(key(f))).map(f => {
+      const t = frameSeconds(f);
+      if (t === null) return f;
+      // Chú thích: mỗi stage khác đang khớp ở giây nào, để soi lại cho nhanh.
+      const mates = [];
+      keptTimes.forEach((tm, b) => {
+        if (b === a) return;
+        const list = tm.get(f.video_id);
+        if (!list) return;
+        const m = nearestIn(list, t, t - W, t + W);
+        if (m !== null) mates.push({ st: act[b].i + 1, t: m });
+      });
+      return { ...f, mates };
+    });
+    s.videos = vidsOf(s.frames);
+  });
+}
+
+// Ô nào có nghĩa với chế độ nào thì hiện ô đó, tránh bày ra tham số không dùng tới.
+function syncTemporalBar() {
+  const m = tMode();
+  $("#twinbox").style.display = m === "chain" ? "inline-flex" : "none";
+  $("#gbox").style.display = m === "paper" ? "inline-flex" : "none";
+  const seqView = (m === "paper" || m === "amb") && !!S.seqs;
+  $("#views").style.display = seqView ? "none" : "";
+  if (seqView) $("#scenebar").style.display = "none"; else syncSceneBar();
+}
+
+$("#tmode").onchange = () => {
+  localStorage.setItem(TMODE_LS, tMode());
+  applyTemporal(); syncTemporalBar(); renderStages(); renderGrid();
+};
+[["#twin", TWIN_LS], ["#gamma", GAMMA_LS], ["#gunit", GUNIT_LS]].forEach(([sel, ls]) => {
+  $(sel).onchange = $(sel).oninput = () => {
+    localStorage.setItem(ls, $(sel).value);
+    applyTemporal(); syncTemporalBar(); renderStages(); renderGrid();
+  };
+});
+
+async function runSearch() {
+  const query = $("#q").value.trim();
+  if (!query) return;
+  const mode = $("#mode").value, topk = Math.max(1, +$("#topk").value || 700);
+  const isText = ["OCR", "ASR"].includes(mode);
+  $("#go").disabled = true;
+  try {
+    const res = await fetch(BASE + (isText ? "/ocr_asr_search" : "/main_search"), {
+      method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(isText
+        ? { query, top_k: topk, search_mode: mode, search_technique: $("#tech").value }
+        : { query, top_k: topk, search_mode: mode,
+            translate: mtMode() === "off" ? "off" : "auto" }),
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status} — ${(await res.text()).slice(0, 160)}`);
+    const data = await res.json();
+    let frames = data.imageBased || [];
+
+    if (data.query_en) enCache.set(mtKey(query), data.query_en);
+    S.browse = null;                    // kết quả mới thay chỗ video đang duyệt
+    // raw = nguyên văn từ API; frames = phần còn lại sau khi ghép với các stage khác.
+    S.stages[S.stage] = { query, mode, tech: $("#tech").value, topk,
+                          raw: frames, frames, videos: vidsOf(frames),
+                          en: data.query_en || null, mtb: data.translate_backend || null };
+    applyTemporal();
+    S.sel.clear();
+    renderStages(); renderGrid();
+    $("#gridwrap").scrollTop = 0;   // new results start from the top, not mid-list
+  } catch (e) {
+    $("#grid").innerHTML = `<div class="empty" style="grid-column:1/-1;color:var(--danger)">${esc(e.message)}</div>`;
+  } finally { $("#go").disabled = false; }
+}
+$("#go").onclick = runSearch;
+$("#q").onkeydown = e => { if (e.key === "Enter") runSearch(); };
+// Gõ xong ngưng 600ms thì dịch trước, để lúc bấm Search không phải chờ Google.
+let mtTimer = null;
+$("#q").oninput = () => {
+  clearTimeout(mtTimer);
+  const text = $("#q").value.trim();
+  mtTimer = setTimeout(() => prefetchTranslation(text), 600);
+};
+$("#mt").onchange = () => {
+  localStorage.setItem(MT_LS, mtMode());
+  prefetchTranslation($("#q").value.trim());
+  const q = curQ(); if (q) prefetchTranslation(q.text || "");
+};
+
+$("#addstage").onclick = () => {
+  S.stages.push({ query: "", mode: "BGE_VL", frames: [], videos: [] });
+  S.stage = S.stages.length - 1; S.sel.clear();
+  renderStages(); renderGrid();
+};
+
+function renderStages() {
+  if (!S.stages.length) S.stages = [{ query: "", mode: "BGE_VL", frames: [], videos: [] }];
+  $("#stages").innerHTML = S.stages.map((s, i) => `
+    <span class="stage ${i === S.stage ? "on" : ""}" data-i="${i}"
+          title="${(s.raw || []).length ? `${(s.raw || []).length} frame thô → ${s.frames.length} sau khi ghép temporal` : ""}">Stage ${i + 1}
+      <small>${s.frames.length}f · ${s.videos.length}v${
+        (s.raw || []).length > s.frames.length ? `<i style="opacity:.55;font-style:normal">/${s.raw.length}</i>` : ""}</small>
+      ${S.stages.length > 1 ? `<span class="x" data-x="${i}">✕</span>` : ""}</span>`).join(" ");
+  $("#stages").querySelectorAll(".stage").forEach(el => el.onclick = ev => {
+    if (ev.target.dataset.x !== undefined) {
+      S.stages.splice(+ev.target.dataset.x, 1);
+      S.stage = Math.min(S.stage, S.stages.length - 1);
+      applyTemporal();
+    } else { S.stage = +el.dataset.i; }
+    S.browse = null; S.sel.clear(); renderStages(); renderGrid();
+  });
+  const s = curStage();
+  if (S.browse) {
+    const n = S.browse.frames.length;
+    const shots = new Set(S.browse.frames.map(f => f.shot_index).filter(x => x != null)).size;
+    $("#stagemeta").innerHTML =
+      `<span class="pill" style="background:var(--accent2);color:#00121c">Đang xem video</span>
+       <span class="mono"><b>${esc(S.browse.video_id)}</b></span>
+       <span><b>${n}</b> keyframe · <b>${shots}</b> shot</span>
+       <button id="bclose" style="padding:2px 9px;font-size:11.5px">Về kết quả tìm kiếm</button>`;
+    $("#bclose").onclick = closeBrowse;
+    return;
+  }
+  $("#stagemeta").innerHTML = s && s.frames.length
+    ? `<span class="pill">Stage ${S.stage + 1}</span>
+       <span><b>${s.frames.length}</b> frames · <b>${s.videos.length}</b> videos</span>
+       <span class="hint mono">${esc(s.mode)}${s.tech && ["OCR","ASR"].includes(s.mode) ? " · " + s.tech : ""} · “${esc(s.query)}”</span>
+       ${s.img ? `<span class="hint">ảnh gốc <b class="mono">${esc(s.img)}</b>${
+          s.blend ? ` · trộn ${esc(s.blend)}` : ""}</span>` : ""}
+       ${s.en ? `<span class="hint" title="câu thực sự đưa vào model (${esc(s.mtb || "")})">→ EN: “${esc(s.en)}”</span>` : ""}
+       ${temporalNote(s)}`
+    : `<span class="hint">Stage ${S.stage + 1} — chưa có kết quả</span>`;
+  if (s && s.query) { $("#q").value = s.query; $("#mode").value = s.mode; $("#mode").onchange(); }
+}
+
+// Nói rõ phép ghép vừa làm gì với stage này -- con số bị cắt đi là thứ dễ gây hoang mang
+// nhất, nên phải thấy ngay chứ không phải đoán.
+function temporalNote(s) {
+  const others = S.stages.filter(x => x !== s && (x.raw || []).length).length;
+  if (!others || tMode() === "off" || !(s.raw || []).length) return "";
+  if (S.seqs)
+    return `<span class="hint">temporal <b>${TMODE_LABEL[tMode()]}</b>
+      · <b>${S.seqs.length}</b> chuỗi ${others + 1} bước${tMode() === "paper"
+        ? ` · FinalScore = AvgScore / (1 + Distance·${tGamma()})` : " · xếp theo AvgScore"}</span>`;
+  const cut = s.raw.length - s.frames.length;
+  return `<span class="hint">temporal <b>${TMODE_LABEL[tMode()]}</b> ±${tWin()}s
+    · ghép với ${others} stage khác · bỏ <b>${cut}</b>/${s.raw.length} frame</span>`;
+}
+
+function key(f) { return f.video_id + "|" + f.frame_id; }
+
+// The API returns videoBasedType1 ready-made, but a stage after the first shows a FILTERED
+// frame list, so the grouping is rebuilt from what survived -- by the same rule as the
+// server: groups in order of first appearance, no group score. Frames inside a group are
+// always re-sorted by frame_id so a group reads in playback order.
+function buildViews(frames) {
+  const groups = new Map();
+  frames.forEach(f => {
+    if (!groups.has(f.video_id)) groups.set(f.video_id, []);
+    groups.get(f.video_id).push(f);
+  });
+  return [...groups.entries()].map(([video_id, hits]) => ({
+    video_id,
+    frames: [...hits].sort((a, b) => a.frame_id.localeCompare(b.frame_id)),
+  }));
+}
+
+// ---------------------------------------------------------------- gộp shot
+// Gộp theo ĐÚNG cú cắt cảnh của omnishotcut, không đoán bằng khoảng cách giây nữa: API gắn
+// sẵn shot_index cho từng frame, các frame cùng (video, shot_index) là cùng một cú máy nên
+// chỉ hiện frame điểm cao nhất làm đại diện. Đoán bằng giây luôn sai ở hai đầu -- hai
+// keyframe cách nhau 1s có thể đã sang cảnh khác, còn một cú máy dài thì các keyframe
+// trong nó cách nhau cả chục giây.
+const SCENE_LS = "aic-scene";
+const SUB_LS = "aic-subopen", SUBTALL_LS = "aic-subtall";
+
+function groupScenes(frames) {
+  const order = [];                       // giữ thứ tự xuất hiện, không xáo theo shot_index
+  const byShot = new Map();
+  for (const f of frames) {
+    // Frame rơi vào khoảng chuyển cảnh không có shot_index -> để riêng, đừng gộp bừa.
+    const k = f.shot_index == null ? `solo:${f.frame_id}` : `shot:${f.shot_index}`;
+    if (!byShot.has(k)) { byShot.set(k, []); order.push(k); }
+    byShot.get(k).push(f);
+  }
+  return order.map(k => {
+    const members = byShot.get(k);
+    return { members, shot: members[0].shot_index,
+             rep: members.reduce((a, b) => ((b.score ?? 0) > (a.score ?? 0) ? b : a)) };
+  });
+}
+
+// Frame đang thực sự hiển thị. "Chọn hết" và "Chọn cả nhóm" phải theo đúng cái này, không
+// thì đang gộp scene mà bấm Chọn hết lại chọn luôn cả những frame đã bị gộp mất.
+function shownFrames() {
+  if (S.seqs && !S.browse) return S.seqs.flatMap(q => q.items);
+  const list = curFrames();
+  if (S.view === "imageBased" || !S.scene) return list;
+  return buildViews(list).flatMap(g => groupScenes(g.frames).map(sc => sc.rep));
+}
+
+function frameCard(f, rank = null, extraClass = "", merged = 0, tag = "") {
+  const k = key(f);
+  return `<div class="card ${extraClass} ${S.sel.has(k) ? "sel" : ""}" data-k="${esc(k)}">
+    <input class="cb" type="checkbox" ${S.sel.has(k) ? "checked" : ""}>
+    <button class="pickbtn">P</button>
+    <div class="shot"><img loading="lazy" src="${BASE + f.image_url}" alt="" title="${esc(f.caption || "")}">
+      ${tag ? `<span class="stg">${esc(tag)}</span>` : ""}
+      ${rank ? `<span class="rk">#${rank}</span>` : ""}
+      ${merged > 1 ? `<span class="mg" title="gộp ${merged} keyframe cùng một shot">×${merged}</span>` : ""}</div>
+    <div class="meta"><span class="mono">${esc(f.video_id)} ${esc(f.frame_id)}</span>
+      ${f.mates?.length ? `<span class="ch" title="stage khác khớp ở: ${
+        f.mates.map(m => `S${m.st} @${m.t.toFixed(1)}s`).join(" · ")}">⛓${f.mates.length}</span>` : ""}
+      <span class="sc">${(f.score ?? 0).toFixed(3)}</span></div>
+  </div>`;
+}
+
+function wireCards(root, lookup, list) {
+  root.querySelectorAll(".card").forEach(card => {
+    const k = card.dataset.k;
+    const f = lookup(k);
+    if (!f) return;
+    card.querySelector(".cb").onclick = e => {
+      e.stopPropagation();
+      e.target.checked ? S.sel.add(k) : S.sel.delete(k);
+      card.classList.toggle("sel", e.target.checked);
+    };
+    card.querySelector(".pickbtn").onclick = e => { e.stopPropagation(); addPick(f); };
+    card.querySelector(".shot").onclick = () => openInspector(f, list || curFrames());
+  });
+}
+
+// Chế độ "chuỗi": kết quả không còn là danh sách frame rời mà là danh sách CHUỖI, mỗi
+// chuỗi k ảnh xếp đúng thứ tự thời gian -- đúng hình dạng một đáp án TRAKE. Các chuỗi
+// cùng một video gom chung dưới MỘT tiêu đề video: một video thường cho vài chuỗi khác
+// nhau, in lại tên video trước mỗi chuỗi chỉ tổ đọc lâu và khó thấy chúng cùng một chỗ.
+function renderSeqs() {
+  const g = $("#grid"), seqs = S.seqs;
+  const flat = seqs.flatMap(q => q.items);
+  g.style.display = "block";
+  if (!seqs.length) {
+    g.innerHTML = `<div class="empty">Không ghép được chuỗi nào — không video nào có đủ
+      ${S.stages.filter(x => (x.raw || []).length).length} event ở ${
+      S.stages.filter(x => (x.raw || []).length).length} cú máy khác nhau.</div>`;
+    return;
+  }
+  // seqs đã sắp giảm dần theo FinalScore, nên video xuất hiện trước là video có chuỗi tốt
+  // nhất; giữ nguyên thứ tự gặp là đủ, không cần sắp lại.
+  const groups = [];
+  const byVid = new Map();
+  seqs.forEach((q, i) => {
+    let grp = byVid.get(q.video_id);
+    if (!grp) { grp = { video_id: q.video_id, rows: [] }; byVid.set(q.video_id, grp); groups.push(grp); }
+    grp.rows.push({ q, i });
+  });
+
+  g.innerHTML = groups.map((grp, gi) => `<div class="vgrp">
+    <div class="hd">
+      <span class="sc" style="color:var(--accent2)">#${gi + 1}</span>
+      <b class="mono">${esc(grp.video_id)}</b>
+      <span class="hint">${grp.rows.length} chuỗi · tốt nhất
+        <b>${grp.rows[0].q.final.toFixed(4)}</b></span>
+    </div>
+    ${grp.rows.map(({ q, i }, ri) => {
+      const dist = q.dist === null ? "bỏ qua thứ tự"
+        : `Δ ${Math.round(q.dist)}${tUnit() === "sec" ? "s" : "f"}`;
+      return `<div class="seq" data-i="${i}">
+        <div class="sh">
+          <span class="n">${ri + 1}.</span>
+          <span class="sq" title="FinalScore">${q.final.toFixed(4)}</span>
+          <span class="hint">avg ${q.avg.toFixed(3)} · ${dist} · shot ${
+            q.items.map(f => f.shot_index ?? "?").join("→")}</span>
+          <span class="spacer" style="flex:1"></span>
+          <button data-trk="${i}" title="đổ cả chuỗi vào các slot Event của TRAKE">→ TRAKE</button>
+          <button data-sel="${i}">Chọn cả chuỗi</button>
+        </div>
+        <div class="strip">${q.items.map((f, a) =>
+          frameCard(f, null, "", 0, `E${a + 1}`)).join("")}</div>
+      </div>`;
+    }).join("")}
+  </div>`).join("");
+
+  g.querySelectorAll("[data-sel]").forEach(b => b.onclick = () => {
+    seqs[+b.dataset.sel].items.forEach(f => S.sel.add(key(f)));
+    renderGrid();
+  });
+  g.querySelectorAll("[data-trk]").forEach(b => b.onclick = () => {
+    const q = seqs[+b.dataset.trk];
+    if (S.trake.events.length && !confirm(
+        `TRAKE đang có ${S.trake.events.length} event${S.trake.video ? ` ở ${S.trake.video}` : ""}.\n\n`
+        + `Thay hết bằng chuỗi ${q.items.length} event của ${q.video_id}?`)) return;
+    S.trake = { video: q.video_id, slot: q.items.length,
+                events: q.items.map(f => ({ video_id: f.video_id, frame_id: f.frame_id,
+                                            image_url: f.image_url })) };
+    renderTrake(); renderInspTrake(); save();
+    toast(`TRAKE ← ${q.items.length} event từ ${q.video_id}`);
+  });
+  $("#gridwrap").classList.remove("browsing");
+  // Popup đi lại được trong TOÀN BỘ các chuỗi đang hiện, không chỉ trong một hàng.
+  wireCards(g, k => flat.find(x => key(x) === k), flat);
+}
+
+function renderGrid() {
+  const g = $("#grid");
+  syncTemporalBar();                       // chế độ chuỗi ẩn hai nút chọn kiểu xem
+  if (S.seqs && !S.browse) return renderSeqs();
+  const frames = curFrames();
+  if (!frames.length) {
+    g.style.display = "grid";
+    g.innerHTML = `<div class="empty" style="grid-column:1/-1">${S.browse
+      ? `Video ${esc(S.browse.video_id)} không có keyframe nào.`
+      : `Chưa có kết quả cho Stage ${S.stage + 1}.`}</div>`;
+    return;
+  }
+  const byKey = k => frames.find(x => key(x) === k);
+
+  if (S.view === "imageBased") {
+    g.style.display = "grid";
+    g.innerHTML = frames.map((f, i) => frameCard(f, S.browse ? null : i + 1)).join("");
+  } else {
+    const groups = buildViews(frames);
+    const shown = new Map();          // video_id -> các frame đang hiện của video đó
+    g.style.display = "block";
+    g.innerHTML = groups.map((grp, i) => {
+      const scenes = S.scene ? groupScenes(grp.frames) : null;
+      shown.set(grp.video_id, scenes ? scenes.map(sc => sc.rep) : grp.frames);
+      const cards = scenes
+        ? scenes.map(sc => frameCard(sc.rep, null, "", sc.members.length)).join("")
+        : grp.frames.map(f => frameCard(f)).join("");
+      return `<div class="vgrp">
+        <div class="hd"><span class="sc" style="color:var(--accent2)">#${i + 1}</span>
+          <b class="mono">${esc(grp.video_id)}</b>
+          <span class="hint">${grp.frames.length} frame${scenes ? ` · ${scenes.length} shot` : ""}</span>
+          <span class="spacer" style="flex:1"></span>
+          <button data-vid="${esc(grp.video_id)}">Chọn cả nhóm</button>
+        </div>
+        <div class="strip">${cards}</div>
+      </div>`;
+    }).join("");
+    g.querySelectorAll("[data-vid]").forEach(b => b.onclick = () => {
+      (shown.get(b.dataset.vid) || []).forEach(f => S.sel.add(key(f)));
+      renderGrid();
+    });
+  }
+  $("#gridwrap").classList.toggle("browsing", !!S.browse);
+  wireCards(g, byKey);
+}
+
+$$("#views .fchip").forEach(c => c.onclick = () => {
+  $$("#views .fchip").forEach(x => x.classList.remove("on"));
+  c.classList.add("on"); S.view = c.dataset.v; syncSceneBar(); renderGrid();
+});
+// Nút gộp scene chỉ có nghĩa ở chế độ xem theo video, nên chỉ hiện ở đó.
+function syncSceneBar() {
+  $("#scenebar").style.display = S.view === "imageBased" ? "none" : "inline-flex";
+  $("#scenechip").classList.toggle("on", S.scene);
+}
+$("#scenechip").onclick = () => {
+  S.scene = !S.scene;
+  localStorage.setItem(SCENE_LS, S.scene ? "1" : "0");
+  syncSceneBar(); renderGrid();
+};
+$("#selall").onclick = () => { shownFrames().forEach(f => S.sel.add(key(f))); renderGrid(); };
+$("#selnone").onclick = () => { S.sel.clear(); renderGrid(); };
+
+// ---------------------------------------------------------------- tìm bằng ảnh
+// Hai lối vào cùng một endpoint /image_search:
+//   Ctrl+V   dán ảnh bất kỳ (clipboard hoặc URL ảnh) -> tìm thuần bằng ảnh
+//   Feedback chọn một frame đang xem + viết thêm một câu -> trộn vector chữ với vector ảnh
+//
+// Trộn chữ + ảnh: backend cộng thẳng text_weight*vector_chữ + image_weight*vector_ảnh rồi
+// chuẩn hoá (không có nhiều "cách trộn" như hệ thống cũ — xem app/main.py:image_search).
+async function imageSearch(body, label) {
+  const topk = Math.max(1, +$("#topk").value || 700);
+  // image_search cần đúng 1 model thật -- các mode OCR/ASR và mọi tổ hợp trộn (ALL_*,
+  // ZSCORE_*, RRF_*) không dùng được, rơi về BGE_VL.
+  const SINGLE_MODEL_MODES = ["BGE_VL", "DFN5B", "SIGLIP2", "PE_CORE_FT2"];
+  const mode = SINGLE_MODEL_MODES.includes($("#mode").value) ? $("#mode").value : "BGE_VL";
+  $("#go").disabled = true;
+  try {
+    const res = await fetch(`${BASE}/image_search`, {
+      method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        top_k: topk, search_mode: mode,
+        translate: mtMode() === "off" ? "off" : "auto",
+        ...body,
+      }),
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status} — ${(await res.text()).slice(0, 160)}`);
+    const data = await res.json();
+    let frames = data.imageBased || [];
+    S.browse = null;
+    S.stages[S.stage] = {
+      query: label, mode, topk, raw: frames, frames, videos: vidsOf(frames),
+      en: data.query_en || null, mtb: data.translate_backend || null,
+      img: data.source || null,
+    };
+    applyTemporal();
+    S.sel.clear();
+    renderStages(); renderGrid();
+    $("#gridwrap").scrollTop = 0;
+    if (data.warning) toast(data.warning, 3200);
+  } catch (e) {
+    toast("Tìm bằng ảnh lỗi: " + e.message, 3200);
+  } finally { $("#go").disabled = false; }
+}
+
+// Ctrl+V ở bất cứ đâu ngoài ô chữ. Ảnh trong clipboard tới dưới dạng file; copy ảnh trên
+// web ở vài trình duyệt lại chỉ cho ra URL, nên nhận cả hai.
+document.addEventListener("paste", async e => {
+  const el = document.activeElement;
+  if (el && (el.tagName === "INPUT" || el.tagName === "TEXTAREA" || el.isContentEditable)) return;
+  const items = [...(e.clipboardData?.items || [])];
+  const file = items.find(i => i.type.startsWith("image/"))?.getAsFile();
+  if (file) {
+    e.preventDefault();
+    const b64 = await new Promise(ok => {
+      const r = new FileReader(); r.onload = () => ok(r.result); r.readAsDataURL(file);
+    });
+    toast("Đang tìm bằng ảnh vừa dán…");
+    return imageSearch({ image: b64 }, "🖼 ảnh dán");
+  }
+  const text = (e.clipboardData?.getData("text") || "").trim();
+  if (/^https?:\/\/\S+$/i.test(text)) {
+    e.preventDefault();
+    toast("Đang tải ảnh từ link…");
+    imageSearch({ image: text }, "🖼 " + text.slice(0, 40));
+  }
+});
+
+// ---------------------------------------------------------------- duyệt video
+// Hai ô: lot rồi video. Danh sách 873 video được tải MỘT LẦN lúc mở trang (~25 KB) rồi lọc
+// tại chỗ, nên gõ tới đâu lọc tới đó không tốn vòng mạng nào -- kể cả khi bộ dữ liệu tăng
+// lên L21..L50 thì vẫn chỉ là lọc một mảng trong bộ nhớ.
+//
+// Ô video nhận nhiều cách gõ cho nhanh: "L26_V005", "26_5", "V005", hay chỉ "5".
+let VIDEOS = { lots: [], byLot: new Map() };
+
+async function loadVideoList() {
+  try {
+    const d = await (await fetch(`${BASE}/videos`)).json();
+    VIDEOS.lots = (d.lots || []).map(l => l.lot);
+    VIDEOS.byLot = new Map((d.lots || []).map(l => [l.lot, l.videos]));
+    $("#blot").innerHTML = VIDEOS.lots.map(l => `<option value="${esc(l)}">${esc(l)}</option>`).join("");
+    fillVideoList();
+  } catch (e) { /* API chưa lên: ô duyệt tạm thời trống, phần còn lại vẫn chạy */ }
+}
+
+function fillVideoList() {
+  const vids = VIDEOS.byLot.get($("#blot").value.trim().toUpperCase()) || [];
+  $("#vidlist").innerHTML = vids.map(v =>
+    `<option value="${esc(v.video_id)}">${v.frames} frame</option>`).join("");
+  $("#bvid").placeholder = vids.length ? `${vids.length} video — gõ số hoặc tên` : "chọn lot trước";
+}
+
+// "26_5" / "V005" / "5" / "L26_V005" -> "L26_V005", miễn là video đó có thật.
+function resolveVideo(raw) {
+  const lot = $("#blot").value.trim().toUpperCase();
+  const vids = VIDEOS.byLot.get(lot) || [];
+  const t = (raw || "").trim().toUpperCase().replace(/\s+/g, "");
+  if (!t) return null;
+  const exact = vids.find(v => v.video_id === t);
+  if (exact) return exact.video_id;
+  const num = t.match(/(\d+)\s*$/);          // lấy cụm số cuối: "V005", "26_5", "5"
+  if (num) {
+    const want = `${lot}_V${String(+num[1]).padStart(3, "0")}`;
+    if (vids.some(v => v.video_id === want)) return want;
+  }
+  const like = vids.find(v => v.video_id.includes(t));
+  return like ? like.video_id : null;
+}
+
+async function openVideo(videoId) {
+  if (!videoId) return toast("Không tìm thấy video đó");
+  $("#bopen").disabled = true;
+  try {
+    const d = await (await fetch(`${BASE}/video_meta/${encodeURIComponent(videoId)}`)).json();
+    // Chuẩn hoá về đúng dạng frame của kết quả search, để mọi thứ sẵn có -- tick chọn,
+    // nút P, popup, gộp shot, add vào đáp án -- chạy y như trên kết quả tìm kiếm.
+    S.browse = {
+      video_id: videoId,
+      frames: (d.frames || []).map(fr => ({
+        video_id: videoId, frame_id: fr.frame_id, frame_index: fr.frame_index,
+        timestamp_sec: fr.timestamp_sec, image_url: fr.image_url,
+        shot_index: fr.shot_index, score: 0,
+      })),
+    };
+    S.sel.clear();
+    renderStages(); renderGrid();
+    $("#gridwrap").scrollTop = 0;
+  } catch (e) {
+    toast("Không mở được video: " + e.message);
+  } finally { $("#bopen").disabled = false; }
+}
+
+function closeBrowse() {
+  S.browse = null; S.sel.clear();
+  renderStages(); renderGrid();
+}
+
+$("#blot").onchange = () => { $("#bvid").value = ""; fillVideoList(); $("#bvid").focus(); };
+// Ô video cũng lọc theo chữ đang gõ, nên vào ô là xoá trắng để danh sách bung ra đủ; rời ô
+// mà không gõ gì thì trả lại giá trị cũ.
+$("#bvid").onfocus = e => { e.target.dataset.prev = e.target.value; e.target.value = ""; };
+$("#bvid").onblur = e => { if (!e.target.value) e.target.value = e.target.dataset.prev || ""; };
+$("#bvid").onkeydown = e => { if (e.key === "Enter") openVideo(resolveVideo($("#bvid").value)); };
+$("#bvid").onchange = () => { const v = resolveVideo($("#bvid").value); if (v) openVideo(v); };
+$("#bopen").onclick = () => openVideo(resolveVideo($("#bvid").value));
+
+// ---------------------------------------------------------------- submissions
+function addAnswer(video_id, frame_id, answer) {
+  const q = curQ();
+  if (!q) return toast("Chưa chọn query");
+  if (q.subs.length >= 100) return toast("Query này đã đủ 100 đáp án");
+  if (q.type === "QA") q.subs.push({ video_id, frame_id, answer: answer ?? "" });
+  else q.subs.push({ video_id, frame_id });
+  renderQueries(); renderSub(); save();
+}
+
+$("#addsel").onclick = () => {
+  const q = curQ();
+  if (!q) return toast("Chưa chọn query");
+  // curFrames, không phải curStage: khi đang duyệt một video thì frame đã tick nằm ở đó,
+  // lấy theo stage sẽ lọc ra rỗng và nút im lặng không làm gì.
+  const picked = pickableFrames().filter(f => S.sel.has(key(f)));
+  if (!picked.length) return toast("Chưa tick frame nào");
+  if (q.type === "TRAKE") return toast("TRAKE dùng 4 slot Event bên phải");
+  if (q.type === "QA") {
+    const a = prompt(`QA · ${q.text}\n\nNhập đáp án cho ${picked.length} frame đã chọn:`);
+    if (a === null) return;
+    picked.forEach(f => addAnswer(f.video_id, f.frame_id, a));
+  } else {
+    picked.forEach(f => addAnswer(f.video_id, f.frame_id));
+  }
+  S.sel.clear(); renderGrid();
+};
+
+function renderSub() {
+  const q = curQ(), box = $("#subwrap");
+  // Bộ đếm và nút gập luôn phản ánh trạng thái thật, kể cả khi danh sách đang ẩn.
+  $("#subn").textContent = q ? String(q.subs.length) : "0";
+  $("#subtog").textContent = S.subOpen ? "▾" : "▸";
+  box.style.display = S.subOpen ? "" : "none";
+  box.classList.toggle("tall", !!S.subTall);
+  if (!q) { box.innerHTML = `<div class="empty">Chưa chọn query</div>`; return; }
+  if (!q.subs.length) { box.innerHTML = `<div class="empty">Chưa có đáp án</div>`; return; }
+  box.innerHTML = q.subs.map((r, i) => {
+    const body = q.type === "TRAKE"
+      ? `${esc(r.video_id)} · ` + r.frames.map((n, j) =>
+          `<a class="fx" data-f="${j}">${pad6(n)}</a>`).join(", ")
+      : `<a class="fx">${esc(r.video_id)} · ${esc(r.frame_id)}</a>`
+        // Hiện đúng thứ sẽ ghi ra CSV, dấu ngoặc kép và tất cả.
+        + (q.type === "QA" ? ` · <b>"${esc(r.answer)}"</b>` : "");
+    return `<div class="sub" draggable="true" data-i="${i}">
+      <span class="n">${String(i + 1).padStart(2, "0")}</span>
+      <span class="b mono">${body}</span>
+      <span class="acts">
+        <button data-a="up">↑</button><button data-a="dn">↓</button>
+        ${q.type === "QA" ? `<button data-a="ed">✎</button><button data-a="du">⧉</button>` : ""}
+        <button data-a="rm">✕</button></span></div>`;
+  }).join("");
+  box.querySelectorAll(".sub").forEach(el => {
+    const i = +el.dataset.i;
+    // Bấm vào đáp án đã thêm để xem lại đúng frame đó, giống hệt Picks.
+    el.querySelectorAll(".fx").forEach(a => a.onclick = ev => {
+      ev.stopPropagation();
+      const r = q.subs[i];
+      const fid = q.type === "TRAKE" ? r.frames[+a.dataset.f] : r.frame_id;
+      openInspector(refFrame(r.video_id, fid), subFrames(q));
+    });
+    el.querySelectorAll("button").forEach(b => b.onclick = () => {
+      const a = b.dataset.a, arr = q.subs;
+      if (a === "up" && i > 0) [arr[i - 1], arr[i]] = [arr[i], arr[i - 1]];
+      if (a === "dn" && i < arr.length - 1) [arr[i + 1], arr[i]] = [arr[i], arr[i + 1]];
+      if (a === "rm") arr.splice(i, 1);
+      if (a === "du") arr.splice(i + 1, 0, { ...arr[i] });
+      if (a === "ed") {
+        const v = prompt("Sửa đáp án:", arr[i].answer ?? "");
+        if (v !== null) arr[i].answer = v;
+      }
+      renderQueries(); renderSub(); save();
+    });
+    el.ondragstart = e => { e.dataTransfer.setData("text/plain", i); el.classList.add("drag"); };
+    el.ondragend = () => el.classList.remove("drag");
+    el.ondragover = e => e.preventDefault();
+    el.ondrop = e => {
+      e.preventDefault();
+      const from = +e.dataTransfer.getData("text/plain");
+      const [m] = q.subs.splice(from, 1); q.subs.splice(i, 0, m);
+      renderQueries(); renderSub(); save();
+    };
+  });
+}
+
+// Hai nút gập/giãn của khối Submission. Trạng thái nhớ qua localStorage vì thói quen
+// làm bài của mỗi người khác nhau, và không ai muốn chỉnh lại sau mỗi lần F5.
+$("#subtog").onclick = $("#subtitle").onclick = () => {
+  S.subOpen = !S.subOpen;
+  localStorage.setItem(SUB_LS, S.subOpen ? "1" : "0");
+  renderSub();
+};
+$("#subtall").onclick = () => {
+  S.subTall = !S.subTall;
+  localStorage.setItem(SUBTALL_LS, S.subTall ? "1" : "0");
+  if (!S.subOpen) { S.subOpen = true; localStorage.setItem(SUB_LS, "1"); }
+  renderSub();
+};
+
+// Đáp án chỉ lưu video_id + frame_id, không lưu image_url; ảnh suy ra từ lot.
+function refFrame(video_id, frame_id) {
+  const n = parseInt(frame_id, 10);
+  const fid = Number.isFinite(n) ? pad6(n) : String(frame_id);
+  return { video_id, frame_id: fid,
+           image_url: `/images/${video_id.split("_")[0]}/${video_id}/${fid}.webp` };
+}
+// Toàn bộ frame của mọi đáp án trong query, để a/d trong popup đi qua được cả danh sách.
+function subFrames(q) {
+  return q.subs.flatMap(r => (q.type === "TRAKE" ? r.frames : [r.frame_id])
+                             .map(fid => refFrame(r.video_id, fid)));
+}
+
+// ---------------------------------------------------------------- TRAKE
+// The event list has NO fixed length and NO holes. A TRAKE answer is "this video, then
+// these moments in order", so a query may want 2 events or 6; and a gap in the middle
+// could never be submitted anyway -- the answer line is just a list of frame numbers.
+// The list therefore grows by appending, and deleting closes the gap and renumbers.
+// S.trake.slot is the cursor: an index into events, or events.length meaning "append".
+function trakeSlot() {
+  const n = S.trake.events.length;
+  const s = Number.isInteger(S.trake.slot) ? S.trake.slot : n;
+  return Math.max(0, Math.min(s, n));
+}
+
+function renderTrake() {
+  const q = curQ();
+  if (!q || q.type !== "TRAKE") return;
+  const ev = S.trake.events, slot = trakeSlot();
+  $("#tlock").innerHTML = `<b>${ev.length}</b> event · `
+    + (S.trake.video ? `khoá video <b class="mono">${esc(S.trake.video)}</b>` : "chưa khoá video");
+  $("#events").innerHTML = ev.map((e, i) => `
+    <div class="evrow ${i === slot ? "active" : ""}">
+      <span class="lbl">Event ${i + 1}</span>
+      <img src="${BASE + e.image_url}" data-p="${i}">
+      <span class="txt mono">${esc(e.video_id + " " + e.frame_id)}</span>
+      <button data-r="${i}" title="xoá event này">✕</button>
+    </div>`).join("")
+    + `<div class="evrow ${slot === ev.length ? "active" : ""}">
+         <span class="lbl">Event ${ev.length + 1}</span>
+         <span class="txt hint">ô kế tiếp</span></div>`;
+  $("#events").querySelectorAll("[data-r]").forEach(b => b.onclick = () => clearTrake(+b.dataset.r));
+  $("#events").querySelectorAll("img[data-p]").forEach(img => img.onclick = () => {
+    const e = S.trake.events[+img.dataset.p];
+    if (e) openInspector(e, [e]);
+  });
+  $("#addtrake").textContent = ev.length ? `Nộp ${ev.length} event` : "Chưa có event nào";
+  $("#addtrake").disabled = !ev.length;
+}
+
+function assignTrake(f, slot) {
+  if (S.trake.video && f.video_id !== S.trake.video)
+    return toast(`TRAKE đang khoá ở ${S.trake.video} — frame này thuộc ${f.video_id}`);
+  const ev = S.trake.events;
+  const at = Math.max(0, Math.min(slot, ev.length));
+  const had = ev[at];
+  S.trake.video = f.video_id;
+  ev[at] = { video_id: f.video_id, frame_id: f.frame_id, image_url: f.image_url };
+  S.trake.slot = ev.length;          // after any write the cursor waits at the end
+  renderTrake(); renderInspTrake(); save();
+  toast(`${had ? "Đổi" : "Thêm"} Event ${at + 1} = ${f.frame_id} · tổng ${ev.length} event`);
+}
+
+function clearTrake(i) {
+  S.trake.events.splice(i, 1);       // close the gap: event 3 becomes event 2
+  if (!S.trake.events.length) S.trake.video = null;   // last one out unlocks the video
+  S.trake.slot = Math.min(trakeSlot(), S.trake.events.length);
+  renderTrake(); renderInspTrake(); save();
+}
+
+function resetTrake() {
+  S.trake = { video: null, events: [], slot: 0 };
+  renderTrake(); renderInspTrake(); save();
+}
+
+
+function renderInspTrake() {
+  const bar = $("#itrakebar"), q = curQ();
+  if (!bar) return;
+  if (!q || q.type !== "TRAKE" || !S.insp) { bar.style.display = "none"; bar.innerHTML = ""; return; }
+  bar.style.display = "flex";
+  const ev = S.trake.events, slot = trakeSlot();
+  const wrongVideo = S.trake.video && S.trake.video !== S.insp.video_id;
+
+  const head = `<span class="thd">TRAKE · ${ev.length} event`
+    + (S.trake.video ? ` · khoá ở <b class="mono">${esc(S.trake.video)}</b>` : "") + `</span>`;
+
+  if (wrongVideo) {
+    // A TRAKE answer is one video plus its moments, so mixing videos is not a warning to
+    // dismiss -- it is a decision: keep what is there, or start over on this video.
+    bar.innerHTML = head + `<span class="hint" style="color:var(--warn)">
+      Frame này thuộc <b class="mono">${esc(S.insp.video_id)}</b>, không gán vào đáp án đang dở được.</span>
+      <button class="danger" id="itreset">Xoá ${ev.length} event & chuyển sang video này</button>`;
+    $("#itreset").onclick = () => { resetTrake(); toast("Đã xoá các Event cũ"); };
+    return;
+  }
+
+  // Every event that exists, plus ONE empty slot on the end. That trailing slot is what
+  // makes the count open-ended: fill it and another empty one appears behind it.
+  const cell = (i, e) => `
+    <div class="tslot ${e ? "filled" : ""} ${i === slot ? "active" : ""}"
+         data-ev="${i}" title="bấm để đưa con trỏ xanh về ô này">
+      <span class="n">${i + 1}</span>
+      ${e ? `<img src="${BASE + e.image_url}" alt="">` : ""}
+      <span class="v">${e ? esc(e.frame_id) : "trống"}</span>
+      ${e ? `<span class="x" data-clr="${i}" title="bỏ event này">✕</span>` : ""}
+    </div>`;
+  bar.innerHTML = head + ev.map((e, i) => cell(i, e)).join("") + cell(ev.length, null)
+    + `<span class="hint">nút <b>Chọn event</b> ghi vào ô viền xanh</span>`
+    + (ev.length ? `<button class="primary" id="itsubmit">✔ Nộp ${ev.length} event</button>` : "");
+
+  // Clicking a slot MOVES the cursor, it does not write. Writing is always the one button,
+  // so a stray click can never overwrite an event that was already placed.
+  bar.querySelectorAll(".tslot").forEach(el => el.onclick = () => {
+    S.trake.slot = +el.dataset.ev; renderTrake(); renderInspTrake(); save();
+  });
+  bar.querySelectorAll("[data-clr]").forEach(x => x.onclick = e => {
+    e.stopPropagation(); clearTrake(+x.dataset.clr);
+  });
+  if ($("#itsubmit")) $("#itsubmit").onclick = submitTrake;
+}
+
+function submitTrake() {
+  const q = curQ();
+  if (!q || q.type !== "TRAKE") return;
+  if (!S.trake.events.length) return toast("Chưa có event nào");
+  if (q.subs.length >= 100) return toast("Đã đủ 100 đáp án");
+  // However many events are in the list is how many get submitted -- 2, 3, 5, whatever the
+  // query needs. Order is whatever the user assigned; sorting would silently rewrite the
+  // answer, so a suspicious order is only WARNED about.
+  const nums = S.trake.events.map(e => parseInt(e.frame_id, 10));
+  const rising = nums.every((n, i) => i === 0 || n > nums[i - 1]);
+  if (!rising && !confirm(`Thứ tự frame không tăng dần:\n${nums.join(" → ")}\n\nVẫn giữ nguyên thứ tự này?`))
+    return;
+  q.subs.push({ video_id: S.trake.video, frames: nums });
+  S.trake = { video: null, events: [], slot: 0 };
+  renderQueries(); renderSub(); renderTrake(); renderInspTrake(); save();
+  toast(`Đã thêm đáp án TRAKE: ${nums.join(" → ")}`);
+}
+$("#addtrake").onclick = submitTrake;
+
+// ---------------------------------------------------------------- picks
+function addPick(f) {
+  if (S.basket.some(b => b.video_id === f.video_id && b.frame_id === f.frame_id))
+    return toast("Đã có trong Picks");
+  S.basket.push({ video_id: f.video_id, frame_id: f.frame_id, image_url: f.image_url });
+  renderPicks(); save(); toast("→ Picks");
+}
+$("#pickhead").onclick = () => {
+  const b = $("#pickbody"), open = b.style.display !== "none";
+  b.style.display = open ? "none" : "";
+  $("#pkcaret").textContent = open ? "▸" : "▾";
+};
+function renderPicks() {
+  $("#pkn").textContent = S.basket.length;
+  const b = $("#pickbody");
+  b.innerHTML = (S.basket.length ? S.basket.map((p, i) => `
+    <div class="pk" data-i="${i}">
+      <img src="${BASE + p.image_url}">
+      <span class="b mono">${esc(p.video_id)} ${esc(p.frame_id)}</span>
+      <button data-a="add">+Q</button><button data-a="rm">✕</button>
+    </div>`).join("") : `<div class="empty">Chưa pick frame nào</div>`)
+    + (S.basket.length ? `<div style="padding:8px 10px"><button class="danger" id="pkclear"
+        style="width:100%">Clear Basket</button></div>` : "");
+  b.querySelectorAll(".pk").forEach(el => {
+    const p = S.basket[+el.dataset.i];
+    el.querySelector("img").onclick = () => openInspector(p, S.basket);
+    el.querySelectorAll("button").forEach(btn => btn.onclick = () => {
+      if (btn.dataset.a === "rm") { S.basket.splice(+el.dataset.i, 1); renderPicks(); save(); }
+      else {
+        const q = curQ();
+        if (!q) return toast("Chưa chọn query");
+        if (q.type === "TRAKE") {
+          const slot = prompt("Gán vào Event nào? (1-4)");
+          if (slot && +slot >= 1 && +slot <= 4) assignTrake(p, +slot - 1);
+        } else if (q.type === "QA") {
+          const a = prompt(`QA · ${q.text}\n\nĐáp án cho ${p.video_id} ${p.frame_id}:`);
+          if (a !== null) addAnswer(p.video_id, p.frame_id, a);
+        } else addAnswer(p.video_id, p.frame_id);
+      }
+    });
+  });
+  const c = $("#pkclear");
+  // Two-step, because one stray click would destroy a whole session of bookmarking.
+  if (c) c.onclick = () => {
+    if (confirm(`Xoá toàn bộ ${S.basket.length} frame đã pick?\n\nKhông hoàn tác được.`)) {
+      S.basket = []; renderPicks(); save();
+    }
+  };
+}
+
+// ---------------------------------------------------------------- inspector
+async function openInspector(f, list) {
+  S.insp = { video_id: f.video_id, frame_id: f.frame_id, list: list || [f],
+             pos: (list || [f]).findIndex(x => x.video_id === f.video_id && x.frame_id === f.frame_id) };
+  $("#insp").classList.add("on");
+  // Take focus so a/d works straight away even if the last click was a <select> or input
+  // (the keyboard handler deliberately ignores keys typed into form fields).
+  $("#insp .sheet").focus({ preventScroll: true });
+  await showFrame(f);
+}
+
+async function showFrame(f, exact = null) {
+  S.insp.video_id = f.video_id; S.insp.frame_id = f.frame_id;
+  $("#bigimg").src = BASE + (f.image_url || `/images/${f.video_id.split("_")[0]}/${f.video_id}/${f.frame_id}.webp`);
+
+  let meta = S.insp.meta;
+  if (!meta || meta.video_id !== f.video_id) {
+    try {
+      meta = await (await fetch(`${BASE}/video_meta/${f.video_id}`)).json();
+      S.insp.meta = meta;
+    } catch (e) { meta = null; }
+  }
+  const n = parseInt(f.frame_id, 10);
+  const frameMeta = meta?.frames?.find(x => x.frame_id === f.frame_id);
+  const caption = frameMeta?.caption || f.caption || "";
+  $("#icap").innerHTML = `<span class="lab">Caption (tiếng Anh, auto-generated)</span>`
+    + (caption ? esc(caption) : `<span class="hint">frame này chưa có caption</span>`);
+  const ocr = frameMeta?.ocr || "";
+  $("#iocr").innerHTML = `<span class="lab">OCR · chữ trên màn hình (Chandra OCR 2)</span>`
+    + (ocr ? esc(ocr) : `<span class="hint">frame này không có chữ</span>`);
+  renderAsr(meta, n);
+  renderStrip(meta, n);
+
+  if (meta?.youtube_id) {
+    ytShow(meta.youtube_id, meta.fps ? n / meta.fps : 0);
+  } else {
+    // Wiping the wrapper orphans any player bound to it; ytAlive() will notice and the
+    // next video with a YouTube link rebuilds from scratch.
+    clearTimeout(ytRetryTimer); ytRetryTimer = null;
+    $("#ytwrap").innerHTML = ""; ytVideoId = null; ytWant = null; ytAttempt = 0;
+    $("#iytlink").innerHTML = "";
+    $("#iyt").textContent = "Video này không có link YouTube trong metadata";
+  }
+  setExact(exact ?? n);   // player follows the still image
+}
+
+// ---------------------------------------------------------------- exact frame (YouTube)
+// Two different units are in play and conflating them loses marks:
+//   keyframe  an image that exists on disk, ~1 per 36 frames   -> a / d
+//   frame     any frame number of the source video, no image   -> , / .
+// The submission file wants a frame NUMBER, so , / . can land on a number we cannot
+// render. The YouTube player renders it instead; the still stays on the nearest keyframe.
+// --- YouTube player -----------------------------------------------------------------
+// Chỉ có player dựng bằng IFrame API mới gọi được getCurrentTime(), tức là mới đổi được
+// "giây trên player" thành "số frame" -- đó là cách duy nhất lấy frame chính xác cho
+// những đoạn không có keyframe. Vì vậy player API KHÔNG BAO GIỜ bị bỏ cuộc: dựng hỏng
+// thì dựng lại, có giãn cách tăng dần, chừng nào popup còn mở thì còn thử. Bản trước
+// hỏng hai lần là tụt xuống embed thường và nằm luôn ở đó -- lúc ấy nút "Add frame từ
+// YouTube" âm thầm trả về bộ đếm frame thay vì giây thật.
+// Embed thường giờ chỉ là ảnh chữa cháy khi chính script API không tải nổi (mạng chặn),
+// và ngay cả khi đó vẫn có hẹn giờ dựng lại.
+let ytPlayer = null, ytReady = false, ytBuilding = false, ytVideoId = null,
+    ytScript = false, ytWant = null, ytSeq = 0, ytAttempt = 0,
+    ytRetryTimer = null, ytWatch = null;
+
+// Chữa cháy: vẫn xem được hình trong lúc chờ dựng lại player đọc được giây.
+function ytPlain(videoId, t) {
+  $("#ytwrap").innerHTML = `<iframe allow="accelerometer;autoplay;encrypted-media;picture-in-picture"
+    allowfullscreen referrerpolicy="strict-origin-when-cross-origin"
+    src="https://www.youtube.com/embed/${encodeURIComponent(videoId)}?start=${Math.max(0, Math.floor(t))}&rel=0"></iframe>`;
+}
+
+// The player object can outlive its DOM node (closing the inspector in plain mode wipes
+// the wrapper), and calling into a player whose iframe is gone fails silently -- which is
+// exactly how opening a second frame ended up with a dead box. Check both.
+function ytAlive() {
+  try {
+    return !!(ytPlayer && ytReady && ytPlayer.getIframe && document.contains(ytPlayer.getIframe()));
+  } catch (e) { return false; }
+}
+// "Sống" chưa đủ: điều kiện thật sự là ĐỌC ĐƯỢC GIÂY. Một player còn iframe nhưng
+// getCurrentTime() ném lỗi thì với việc này cũng như đã chết.
+function ytUsable() {
+  if (!ytAlive()) return false;
+  try { return typeof ytPlayer.getCurrentTime() === "number"; } catch (e) { return false; }
+}
+
+// Hẹn dựng lại. slow dành cho trường hợp chính script API không về (bị chặn / mất mạng):
+// thử dày ở đó chỉ tổ nạp lại iframe liên tục làm video nhảy về đầu.
+function ytRetry(why, slow) {
+  clearTimeout(ytRetryTimer); ytRetryTimer = null;
+  try { if (ytPlayer?.destroy) ytPlayer.destroy(); } catch (e) {}
+  ytPlayer = null; ytReady = false; ytBuilding = false; ytVideoId = null;
+  if (!ytWant) return;
+  ytAttempt += 1;
+  const wait = slow ? 30000 : Math.min(1200 * ytAttempt, 6000);
+  ytStatus(`${why} — đang dựng lại player (lần ${ytAttempt})`);
+  ytRetryTimer = setTimeout(() => {
+    ytRetryTimer = null;
+    if (ytWant) ytBuild(0);
+  }, wait);
+}
+
+// Every request records WHAT should be on screen; the code then makes reality match. The
+// previous version acted on the request directly and bailed out when the player happened
+// to be mid-construction, losing the request entirely.
+function ytShow(videoId, t) {
+  ytWant = { videoId, t: Math.max(0, t) };
+  ytGuard();                           // đồng hồ canh chừng chạy cả khi không phải dựng lại
+  if (ytVideoId === videoId && (ytUsable() || ytBuilding)) return;
+  // Video mới là một khởi đầu sạch: bộ đếm hỏng đặt lại, không để lần trước làm chậm.
+  if (ytVideoId !== videoId) { ytAttempt = 0; clearTimeout(ytRetryTimer); ytRetryTimer = null; }
+  if (ytRetryTimer) return;            // đã có hẹn dựng lại, đừng chồng thêm
+  ytBuild(0);
+}
+
+// Lưới an toàn cho những kiểu hỏng KHÔNG có sự kiện nào báo: tab ngủ dậy, iframe bị thay,
+// mạng rớt giữa chừng. Popup còn mở mà không đọc được giây thì tự dựng lại.
+function ytGuard() {
+  clearInterval(ytWatch);
+  ytWatch = setInterval(() => {
+    if (!ytWant || !$("#insp").classList.contains("on")) return;
+    if (ytUsable() || ytBuilding || ytRetryTimer) return;
+    ytRetry("player mất tín hiệu");
+  }, 3000);
+}
+
+function ytBuild(tries) {
+  const want = ytWant;
+  if (!want) return;
+  if (!window.YT?.Player) {
+    if (!ytScript) {
+      ytScript = true;
+      const s = document.createElement("script");
+      s.src = "https://www.youtube.com/iframe_api";
+      s.onerror = () => { ytScript = false; };   // cho phép nạp lại ở lần thử sau
+      document.head.appendChild(s);
+    }
+    if (tries < 25) return setTimeout(() => ytBuild(tries + 1), 400);
+    ytScript = false;
+    ytPlain(want.videoId, want.t);               // ít nhất vẫn xem được video
+    return ytRetry("không tải được API YouTube", true);
+  }
+  // destroy() before rebuilding, and a FRESH element id every time. The IFrame API keeps
+  // an internal registry keyed by element id; dropping the old node with innerHTML while
+  // leaving the registration behind is what left the second video with a dead player.
+  try { if (ytPlayer?.destroy) ytPlayer.destroy(); } catch (e) {}
+  ytBuilding = true; ytReady = false; ytPlayer = null;
+  ytVideoId = want.videoId;
+  const mySeq = ++ytSeq;
+  const mount = `ytmount${mySeq}`;
+  $("#ytwrap").innerHTML = `<div id="${mount}"></div>`;
+  ytStatus(ytAttempt ? `đang dựng lại player (lần ${ytAttempt})…` : "đang dựng player…");
+  try {
+    ytPlayer = new YT.Player(mount, {
+      videoId: want.videoId,
+      playerVars: { start: Math.floor(want.t), rel: 0 },
+      events: {
+        onReady: () => {
+          if (ytSeq !== mySeq) return;              // a newer build has taken over
+          ytBuilding = false; ytReady = true;
+          // Ready mới chỉ là lời hứa; chỉ tin khi đọc được giây thật.
+          if (!ytUsable()) return ytRetry("player không đọc được giây");
+          ytAttempt = 0;
+          clearTimeout(ytRetryTimer); ytRetryTimer = null;
+          ytStatus();
+          // The user may have moved to another video while this one was building.
+          if (ytWant && ytWant.videoId !== ytVideoId) ytBuild(0);
+          else if (ytWant) { try { ytPlayer.seekTo(ytWant.t, true); } catch (e) {} }
+        },
+        onError: () => { if (ytSeq === mySeq) ytRetry("player báo lỗi"); },
+      },
+    });
+    // The handshake can simply never complete. Rather than leave a black box, rebuild --
+    // but only if THIS build is still the current one, or opening two videos quickly
+    // would restart a player that was never given a chance.
+    setTimeout(() => {
+      if (!ytReady && ytSeq === mySeq) ytRetry("player không phản hồi");
+    }, 8000);
+  } catch (e) { ytRetry("lỗi khởi tạo player"); }
+}
+
+function ytTime() {
+  try { return ytReady ? ytPlayer.getCurrentTime() : null; } catch (e) { return null; }
+}
+
+// Seconds are read to 2 decimals and the frame is computed from THAT value, so the number
+// on screen and the number that gets submitted can never disagree.
+function ytSeconds() {
+  const t = ytTime();
+  return t === null || !Number.isFinite(t) ? null : Math.round(t * 100) / 100;
+}
+function frameOfSeconds(sec, fps) { return Math.round(sec * fps); }
+
+
+// Im lặng khi mọi thứ chạy được -- dòng trạng thái chỉ nói khi đang hỏng, và luôn kèm
+// việc nó đang tự làm gì để sửa, để không ai phải ngồi đoán hay tự bấm nút.
+function ytStatus(msg) {
+  const box = $("#iyt");
+  if (!box) return;
+  box.innerHTML = ytUsable() ? ""
+    : `<span class="hint">${esc(msg || "đang dựng player…")} — chưa đọc được giây, nút
+       “Add frame từ YouTube” tạm lấy theo bộ đếm frame.</span>`;
+}
+
+function nearestKeyframe(meta, n) {
+  if (!meta?.frames?.length) return null;
+  let best = meta.frames[0];
+  for (const fr of meta.frames) {
+    if (Math.abs(fr.frame_index - n) < Math.abs(best.frame_index - n)) best = fr;
+    if (fr.frame_index > n && Math.abs(fr.frame_index - n) > Math.abs(best.frame_index - n)) break;
+  }
+  return best;
+}
+
+// Link YouTube kèm mốc giây, đặt ngay dưới khung player. Giây lấy từ BỘ ĐẾM FRAME --
+// đúng con số đang hiện ở tiêu đề popup và ở #itime -- nên link luôn khớp với thứ đang
+// xem, kể cả khi bấm , . để dời frame. Bấm "Add frame từ YouTube" cũng kéo bộ đếm về
+// đúng giây của player, nên link đi theo luôn.
+// YouTube chỉ nhận t nguyên giây, làm tròn xuống để không nhảy quá mốc cần xem.
+function renderYtLink(meta, t) {
+  const box = $("#iytlink");
+  if (!box) return;
+  if (!meta?.youtube_id) { box.innerHTML = ""; return; }
+  const sec = Math.max(0, Math.floor(t));
+  const url = `https://www.youtube.com/watch?v=${encodeURIComponent(meta.youtube_id)}&t=${sec}s`;
+  box.innerHTML = `<a href="${esc(url)}" target="_blank" rel="noopener"
+       title="mở tab mới đúng tại ${sec}s">${esc(url)}</a>
+     <button id="iytcopy" title="copy link">Copy</button>`;
+  $("#iytcopy").onclick = () => navigator.clipboard.writeText(url).then(
+    () => toast(`Đã copy link · ${sec}s`),
+    () => toast("Trình duyệt chặn clipboard — bôi đen link rồi Ctrl+C", 2600));
+}
+
+let seekTimer = null;
+function setExact(n) {
+  if (!S.insp) return;
+  const meta = S.insp.meta, fps = meta?.fps || 0;
+  S.insp.exact = Math.max(0, Math.round(n));
+  const e = S.insp.exact, kf = parseInt(S.insp.frame_id, 10), t = fps ? e / fps : 0;
+
+  $("#ititle").innerHTML = `${esc(S.insp.video_id)} · frame <b>${pad6(e)}</b>`;
+  $("#itime").textContent = fps ? `${t.toFixed(2)}s · fps ${fps}` : "—";
+  $("#ikv").innerHTML = meta
+    ? `ảnh đang hiển thị: keyframe <b>${pad6(kf)}</b>`
+      + (e === kf ? " · <b>đúng frame đang chọn</b>"
+                  : ` · frame đang chọn <b>${pad6(e)}</b> lệch <b>${e > kf ? "+" : ""}${e - kf}</b> frame`
+                    + ` — xem trên player YouTube`)
+      + ` · video có <b>${meta.total_frames}</b> keyframe (${meta.first_frame}–${meta.last_frame})`
+    : "không lấy được metadata";
+  renderYtLink(meta, t);
+  $("#iadd").textContent = `Add keyframe ${pad6(kf)}`;
+  // No number on the button: the blue slot already says where it lands.
+  $("#iytadd").textContent = curQ()?.type === "TRAKE" ? "Chọn event" : "Add frame từ YouTube";
+
+  // The player follows the frame counter automatically -- no button for it. Debounced so
+  // holding an arrow key does not fire a seek per keystroke. Only in API mode: seeking a
+  // plain embed means reloading the iframe, which would restart the video every step.
+  if (ytReady && meta?.youtube_id) {
+    clearTimeout(seekTimer);
+    seekTimer = setTimeout(() => { try { ytPlayer.seekTo(t, true); } catch (err) {} }, 220);
+  }
+
+  renderInspTrake();
+}
+
+// The ASR sentence covering this frame. /video_meta ships the video's segments once, so
+// stepping through frames costs no extra request. Only the segment whose frame RANGE
+// contains the frame is shown -- the same rule the ASR search uses, so what is read here
+// is exactly what a search would have matched, with nothing widened.
+function renderAsr(meta, n) {
+  const box = $("#iasr");
+  const segs = meta?.asr || [];
+  const hit = segs.find(s => s.frame_start <= n && n <= s.frame_end);
+  box.innerHTML = `<span class="lab">ASR · lời nói (audio-aic-2025)</span>`
+    + (hit
+      ? `<span class="rng">${hit.t_start.toFixed(1)}–${hit.t_end.toFixed(1)}s ·
+           frame ${pad6(hit.frame_start)}–${pad6(hit.frame_end)}</span><br>${esc(hit.text)}`
+      : `<span class="hint">${segs.length ? "không có lời nói ở đoạn này"
+                                          : "video này không có ASR"}</span>`);
+}
+
+// Jump the inspector to any frame number, swapping the still to the nearest keyframe when
+// the number has crossed into another keyframe's territory.
+function gotoFrame(n) {
+  const meta = S.insp?.meta;
+  if (!meta) return setExact(n);
+  const kf = nearestKeyframe(meta, n);
+  if (kf && kf.frame_id !== S.insp.frame_id)
+    showFrame({ video_id: meta.video_id, frame_id: kf.frame_id, image_url: kf.image_url }, n);
+  else setExact(n);
+}
+
+
+
+// Position of a frame number inside the video's own keyframe list. The frame may not be
+// in the list at all (a strip click always is, a search hit always is, but a hand-typed
+// number need not be), so fall back to the next keyframe after it.
+function stripIndex(meta, frameNumber) {
+  const nums = meta.frames.map(x => x.frame_index);
+  let i = nums.indexOf(frameNumber);
+  if (i < 0) { i = nums.findIndex(x => x > frameNumber); if (i < 0) i = nums.length - 1; }
+  return i;
+}
+
+function jumpTo(meta, j) {
+  const fr = meta.frames[j];
+  return showFrame({ video_id: meta.video_id, frame_id: fr.frame_id, image_url: fr.image_url });
+}
+
+// 3 keyframes before / 3 after, like scrubbing a paused video. Placeholders keep the
+// current frame in the centre cell even at the very start or end of a video.
+function renderStrip(meta, frameNumber) {
+  const strip = $("#istrip");
+  if (!meta?.frames?.length) { strip.innerHTML = ""; return; }
+  const i = stripIndex(meta, frameNumber);
+  strip.innerHTML = [-3, -2, -1, 0, 1, 2, 3].map(d => {
+    const j = i + d;
+    if (j < 0 || j >= meta.frames.length) return `<div class="pv ph"></div>`;
+    const fr = meta.frames[j];
+    return `<div class="pv ${d === 0 ? "cur" : ""}" data-j="${j}">
+      <div class="box"><img loading="lazy" src="${BASE + fr.image_url}" alt=""></div>
+      <div class="lb"><span>${d === 0 ? "● hiện tại" : (d > 0 ? "+" + d : d)}</span>
+        <span class="mono">${esc(fr.frame_id)}</span></div>
+    </div>`;
+  }).join("");
+  strip.querySelectorAll("[data-j]").forEach(el => el.onclick = () => jumpTo(meta, +el.dataset.j));
+}
+
+async function step(delta) {
+  if (!S.insp) return;
+  const meta = S.insp.meta;
+  // Walk the video's own keyframes, not the search results: the point of a and d is to
+  // sweep the neighbourhood of a moment, including frames the query never returned.
+  if (meta?.frames?.length) {
+    const i = stripIndex(meta, parseInt(S.insp.frame_id, 10));
+    await jumpTo(meta, Math.min(meta.frames.length - 1, Math.max(0, i + delta)));
+  }
+}
+// The player's own clock is the accurate source: park it on the moment, then read it.
+// Không đọc được giây thì vẫn trả về bộ đếm frame để nút không đứng im -- NHƯNG nói to
+// là số đó không phải giây thật và lập tức dựng lại player, để lần bấm sau đã có giây.
+function ytFrameNow() {
+  const fps = S.insp?.meta?.fps || 0;
+  const sec = ytSeconds();
+  if (sec !== null && fps) return { n: frameOfSeconds(sec, fps), from: `${sec.toFixed(2)}s × ${fps}fps` };
+  if (!ytBuilding && !ytRetryTimer) ytRetry("chưa đọc được giây");
+  return { n: S.insp.exact ?? parseInt(S.insp.frame_id, 10), from: "bộ đếm frame — KHÔNG phải giây player" };
+}
+
+// One button, two meanings, because the answer shape differs by query type:
+//   TRAKE   -> writes into the slot under the blue cursor, cursor moves on
+//   KIS/QA  -> adds the frame straight into the submission list
+$("#iytadd").onclick = () => {
+  const q = curQ();
+  if (!q) return toast("Chưa chọn query");
+  if (!S.insp) return;
+  const { n, from } = ytFrameNow();
+  gotoFrame(n);
+  if (q.type === "TRAKE") {
+    const slot = S.trake.slot;
+    assignTrake({ video_id: S.insp.video_id, frame_id: pad6(n),
+                  image_url: `/images/${S.insp.video_id.split("_")[0]}/${S.insp.video_id}/${S.insp.frame_id}.webp` },
+                slot);
+  } else {
+    addFrameNumber(n);
+    toast(`Add frame ${pad6(n)} (${from})`);
+  }
+};
+// Blur after choosing: the keyboard handler ignores keys aimed at a <select>, so leaving
+// focus here would silently kill , and . right after the user set the step size.
+function closeInsp() {
+  $("#insp").classList.remove("on");
+  // Pausing keeps the API player alive for the next open; without the API the only way to
+  // stop the sound is to throw the iframe away -- and then ytVideoId must be cleared too,
+  // or the next open would think the right video is already on screen.
+  // Đóng popup thì tắt cả vòng thử lại lẫn đồng hồ canh chừng: dựng player cho một cửa
+  // sổ không còn ai nhìn chỉ tốn mạng, và lần mở sau sẽ tự thử lại từ đầu.
+  clearTimeout(ytRetryTimer); ytRetryTimer = null;
+  clearInterval(ytWatch); ytWatch = null;
+  if (ytAlive()) { try { ytPlayer.pauseVideo(); } catch (e) {} }
+  else { $("#ytwrap").innerHTML = ""; ytVideoId = null; ytWant = null; ytAttempt = 0; }
+}
+function closeFiv() { $("#fiv").classList.remove("on"); }
+// Click on the dark backdrop closes the dialog. Both mousedown AND click must land on the
+// backdrop itself: dragging a text selection from inside the sheet out to the backdrop
+// would otherwise fire a click whose target is the backdrop and shut the dialog.
+[["#insp", closeInsp], ["#fiv", closeFiv]].forEach(([sel, close]) => {
+  const m = $(sel);
+  let fromBackdrop = false;
+  m.addEventListener("mousedown", e => { fromBackdrop = e.target === m; });
+  m.addEventListener("click", e => { if (fromBackdrop && e.target === m) close(); });
+});
+$("#iclose").onclick = closeInsp;
+$("#ipick").onclick = () => S.insp && addPick(curInspFrame());
+
+function runFeedback(withText) {
+  if (!S.insp) return;
+  const f = curInspFrame();
+  const text = withText ? $("#ifbtext").value.trim() : "";
+  if (withText && !text) return toast("Viết thêm một câu mô tả đã");
+  const tw = withText ? Math.min(1, Math.max(0, +$("#ifbw").value || 0.7)) : 0;
+  closeInsp();
+  imageSearch(
+    { video_id: f.video_id, frame_id: f.frame_id, text, text_weight: tw, image_weight: 1 - tw },
+    (text ? `🖼+✎ ${text}` : `🖼 giống ${f.video_id}/${f.frame_id}`));
+}
+$("#ifbgo").onclick = () => runFeedback(true);
+$("#isim").onclick = () => runFeedback(false);
+$("#ifbtext").onkeydown = e => {
+  e.stopPropagation();                       // đừng để a/d/p nhảy frame khi đang gõ
+  if (e.key === "Enter") runFeedback(true);
+};
+// One path, two entry points: the keyframe on screen, or the exact frame number that the
+// player is parked on. Both write the same submission shape -- only the number differs.
+function addFrameNumber(n) {
+  const q = curQ(); if (!q) return toast("Chưa chọn query");
+  if (!S.insp) return;
+  const vid = S.insp.video_id, fid = pad6(n);
+  if (q.type === "TRAKE") return toast("Query TRAKE: bấm ô Event 1–4 ngay dưới dải ảnh");
+  if (q.type === "QA") {
+    const a = prompt(`QA · ${q.text}\n\nĐáp án cho ${vid} ${fid}:`);
+    if (a === null) return;
+    addAnswer(vid, fid, a);
+  } else addAnswer(vid, fid);
+  toast(`Đã add ${vid} · ${fid}`);
+}
+$("#iadd").onclick = () => addFrameNumber(parseInt(S.insp.frame_id, 10));
+function curInspFrame() {
+  const lot = S.insp.video_id.split("_")[0];
+  return { video_id: S.insp.video_id, frame_id: S.insp.frame_id,
+           image_url: `/images/${lot}/${S.insp.video_id}/${S.insp.frame_id}.webp` };
+}
+
+// ---------------------------------------------------------------- frames in video
+$("#ifiv").onclick = async () => {
+  if (!S.insp) return;
+  const center = parseInt(S.insp.frame_id, 10);
+  const r = await (await fetch(`${BASE}/video_meta/${S.insp.video_id}?center=${center}&radius=100`)).json();
+  S.fivSel.clear();
+  $("#fivtitle").textContent = `${r.video_id} · ${r.returned}/${r.total_frames} keyframes quanh ${center}`;
+  $("#fivgrid").innerHTML = r.frames.map(x => `
+    <div class="card ${x.frame_index === center ? "cur" : ""}" data-f="${x.frame_id}">
+      <input class="cb" type="checkbox">
+      <div class="shot"><img loading="lazy" src="${BASE + x.image_url}" alt=""></div>
+      <div class="meta"><span class="mono">${x.frame_id}</span>
+        <span>${x.timestamp_sec ?? "—"}s</span></div>
+    </div>`).join("");
+  $("#fivgrid").querySelectorAll(".card").forEach(card => {
+    const fid = card.dataset.f;
+    card.querySelector(".cb").onclick = e => {
+      e.stopPropagation();
+      e.target.checked ? S.fivSel.add(fid) : S.fivSel.delete(fid);
+      card.classList.toggle("sel", e.target.checked);
+      $("#fivsel").textContent = `${S.fivSel.size} đã chọn`;
+    };
+    card.querySelector(".shot").onclick = () => {
+      const lot = r.video_id.split("_")[0];
+      showFrame({ video_id: r.video_id, frame_id: fid,
+                  image_url: `/images/${lot}/${r.video_id}/${fid}.webp` });
+      $("#fivgrid").querySelectorAll(".card").forEach(c => c.classList.remove("cur"));
+      card.classList.add("cur");
+    };
+  });
+  $("#fivsel").textContent = "0 đã chọn";
+  $("#fiv").classList.add("on");
+};
+$("#fivclose").onclick = closeFiv;
+function fivFrames() {
+  const v = S.insp.video_id, lot = v.split("_")[0];
+  return [...S.fivSel].map(fid => ({ video_id: v, frame_id: fid,
+    image_url: `/images/${lot}/${v}/${fid}.webp` }));
+}
+$("#fivpick").onclick = () => { fivFrames().forEach(addPick); };
+$("#fivadd").onclick = () => {
+  const q = curQ(); if (!q) return toast("Chưa chọn query");
+  const fs = fivFrames(); if (!fs.length) return toast("Chưa tick frame nào");
+  if (q.type === "TRAKE") {
+    const slot = prompt("Gán frame đầu tiên vào Event nào? (1-4)");
+    if (slot && +slot >= 1 && +slot <= 4) assignTrake(fs[0], +slot - 1);
+    return;
+  }
+  if (q.type === "QA") {
+    const a = prompt(`QA · ${q.text}\n\nĐáp án cho ${fs.length} frame:`);
+    if (a === null) return;
+    fs.forEach(f => addAnswer(f.video_id, f.frame_id, a));
+  } else fs.forEach(f => addAnswer(f.video_id, f.frame_id));
+  $("#fiv").classList.remove("on");
+};
+
+// ---------------------------------------------------------------- CSV
+// Đáp án QA LUÔN được bọc trong dấu ngoặc kép, kể cả khi không có dấu phẩy nào — định
+// dạng nộp yêu cầu vậy, và bọc thừa thì CSV vẫn đọc đúng, thiếu thì sai cả dòng.
+function qaCell(v) { return `"${String(v ?? "").replace(/"/g, '""')}"`; }
+function csvCell(v) {
+  const s = String(v ?? "");
+  // Quote whenever a comma, quote or newline would otherwise break the column count --
+  // QA answers are free text and routinely contain commas.
+  return /[",\n\r]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s;
+}
+function csvFor(q) {
+  return q.subs.map(r => q.type === "TRAKE"
+    ? [r.video_id, ...r.frames].map(csvCell).join(",")
+    : q.type === "QA"
+      ? [csvCell(r.video_id), parseInt(r.frame_id, 10), qaCell(r.answer)].join(",")
+      : [r.video_id, parseInt(r.frame_id, 10)].map(csvCell).join(",")
+  ).join("\n");
+}
+function download(name, text) {
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob([text], { type: "text/csv;charset=utf-8" }));
+  a.download = name; a.click();
+  setTimeout(() => URL.revokeObjectURL(a.href), 4000);
+}
+$("#exportone").onclick = () => {
+  const q = curQ(); if (!q) return toast("Chưa chọn query");
+  if (!q.subs.length) return toast("Query này chưa có đáp án");
+  download(q.file.replace(/\.txt$/i, ".csv"), csvFor(q));
+};
+$("#exportall").onclick = () => {
+  const has = S.queries.filter(q => q.subs.length);
+  if (!has.length) return toast("Chưa query nào có đáp án");
+  has.forEach((q, i) => setTimeout(() => download(q.file.replace(/\.txt$/i, ".csv"), csvFor(q)), i * 250));
+  toast(`Đang tải ${has.length} file CSV`);
+};
+
+// ---------------------------------------------------------------- keyboard
+document.addEventListener("keydown", e => {
+  const t = e.target.tagName;
+  const typing = t === "INPUT" || t === "TEXTAREA" || t === "SELECT" || e.target.isContentEditable;
+  // Escape đóng được ngay cả khi con trỏ đang ở trong ô chữ -- ô đề bài trong danh sách là
+  // một textarea, chặn phím từ ô chữ sẽ nhốt người dùng trong đó.
+  if (e.key === "Escape") {
+    if ($("#fiv").classList.contains("on")) closeFiv();
+    else if ($("#insp").classList.contains("on")) closeInsp();
+    else if (S.open !== null) { S.open = null; renderQueries(); }
+    return;
+  }
+  // Never steal other keys from a text field -- QA answers contain commas and full stops.
+  if (typing) return;
+  if (!$("#insp").classList.contains("on")) return;
+  // Frame-level stepping is gone from here on purpose: the frame-by-frame extension does
+  // it inside the player, and the exact number comes back through "Add frame từ YouTube".
+  // a / d still move by one KEYFRAME, i.e. the next image that exists on disk.
+  const k = e.key.toLowerCase();
+  if (k === "a") { e.preventDefault(); step(-1); }
+  if (k === "d") { e.preventDefault(); step(1); }
+  if (k === "p") { e.preventDefault(); addPick(curInspFrame()); }
+  if (k === "g") { e.preventDefault(); $("#iytadd").click(); }
+  // 1-4 move the cursor; writing is always the one button, so a mistyped digit
+  // cannot overwrite an event.
+  if (["1", "2", "3", "4"].includes(e.key) && curQ()?.type === "TRAKE") {
+    e.preventDefault();
+    S.trake.slot = +e.key - 1; renderTrake(); renderInspTrake(); save();
+  }
+});
+
+$("#theme").onclick = () => {
+  document.documentElement.toggleAttribute("data-light");
+};
+
+// ---------------------------------------------------------------- boot
+load();
+loadVideoList();
+S.scene = localStorage.getItem(SCENE_LS) === "1";
+S.subOpen = localStorage.getItem(SUB_LS) !== "0";   // mặc định mở
+S.subTall = localStorage.getItem(SUBTALL_LS) === "1";
+// Phiên cũ có thể còn nhớ hai chế độ đã bỏ; giá trị lạ thì về "nối tiếp".
+$("#tmode").value = TMODE_LABEL[localStorage.getItem(TMODE_LS)] ? localStorage.getItem(TMODE_LS) : "paper";
+$("#twin").value = localStorage.getItem(TWIN_LS) || "7";
+$("#gamma").value = localStorage.getItem(GAMMA_LS) || "0";
+$("#gunit").value = localStorage.getItem(GUNIT_LS) || "frame";
+$("#mt").value = localStorage.getItem(MT_LS) || "google";
+syncTemporalBar();
+renderQueries(); renderSub(); renderStages(); renderGrid(); renderPicks();
+$("#mode").onchange();
+$("#saved").textContent = S.queries.length ? "Saved ✓" : "";
+</script>
+</body>
+</html>

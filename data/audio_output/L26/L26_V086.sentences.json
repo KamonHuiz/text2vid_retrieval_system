@@ -1,0 +1,647 @@
+{
+  "video_id": "L26_V086",
+  "fps": 25.0,
+  "n_sentences": 39,
+  "total_words": 983,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày: Lẩu Thái đầu cá lóc bông chua ngọt, cay cay, dai ngon, đậm vị.",
+      "start": 10.48,
+      "end": 33.0,
+      "n_words": 18,
+      "start_frame": 262,
+      "end_frame": 825,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000364.webp",
+        "000428.webp",
+        "000429.webp",
+        "000502.webp",
+        "000575.webp",
+        "000576.webp",
+        "000624.webp",
+        "000673.webp",
+        "000674.webp",
+        "000764.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Rất vui mừng gặp lại các bạn trong chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành.",
+      "start": 33.0,
+      "end": 38.76,
+      "n_words": 18,
+      "start_frame": 825,
+      "end_frame": 969,
+      "keyframes": [
+        "000854.webp",
+        "000855.webp",
+        "000968.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 38.76,
+      "end": 43.32,
+      "n_words": 11,
+      "start_frame": 969,
+      "end_frame": 1083,
+      "keyframes": [
+        "001082.webp",
+        "001083.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ngày hôm nay thì thời tiết đang se se lạnh rồi, cho nên là Kim Thảo đã nhờ cô Hà chuẩn bị một món ăn nào đó mà nghi ngút khói, ăn mà phải có nhiều rau nữa.",
+      "start": 43.32,
+      "end": 52.92,
+      "n_words": 38,
+      "start_frame": 1083,
+      "end_frame": 1323,
+      "keyframes": [
+        "001083.webp",
+        "001117.webp",
+        "001151.webp",
+        "001152.webp",
+        "001205.webp",
+        "001258.webp",
+        "001259.webp",
+        "001288.webp",
+        "001318.webp",
+        "001319.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Theo yêu cầu của Kim Thảo sẽ là món lẩu Thái đầu cá lóc bông.",
+      "start": 52.92,
+      "end": 56.88,
+      "n_words": 15,
+      "start_frame": 1323,
+      "end_frame": 1422,
+      "keyframes": [
+        "001369.webp",
+        "001420.webp",
+        "001421.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đầu cá lóc bông sau khi mà chúng ta mua về, ta mua về mình sẽ rửa sạch và mình sẽ cho vào đây, mình ướp với gia vị.",
+      "start": 56.88,
+      "end": 63.72,
+      "n_words": 29,
+      "start_frame": 1422,
+      "end_frame": 1593,
+      "keyframes": [
+        "001463.webp",
+        "001505.webp",
+        "001506.webp",
+        "001549.webp",
+        "001592.webp",
+        "001593.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta sẽ ướp đầu cá với lại nửa muỗng canh hạt nêm Aji-ngon heo và một muỗng cà phê ớt băm, trộn đều lên để cho đầu cá thấm gia vị khoảng chừng năm phút thôi.",
+      "start": 63.72,
+      "end": 75.44,
+      "n_words": 37,
+      "start_frame": 1593,
+      "end_frame": 1886,
+      "keyframes": [
+        "001593.webp",
+        "001647.webp",
+        "001702.webp",
+        "001703.webp",
+        "001739.webp",
+        "001776.webp",
+        "001777.webp",
+        "001830.webp",
+        "001883.webp",
+        "001884.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Rồi em cắt cái muối cao, cái quả cà chua là được rồi.",
+      "start": 75.44,
+      "end": 80.72,
+      "n_words": 13,
+      "start_frame": 1886,
+      "end_frame": 2018,
+      "keyframes": [
+        "001946.webp",
+        "002008.webp",
+        "002009.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thơm thì em chỉ cần cắt ngang thôi rồi em để chung dĩa cũng được.",
+      "start": 80.72,
+      "end": 89.08,
+      "n_words": 15,
+      "start_frame": 2018,
+      "end_frame": 2227,
+      "keyframes": [
+        "002045.webp",
+        "002081.webp",
+        "002082.webp",
+        "002113.webp",
+        "002144.webp",
+        "002145.webp",
+        "002204.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Tiếp theo thì nấm rơm á, mình sử dụng nấm rơm búp thì rất ngon rồi.",
+      "start": 89.08,
+      "end": 92.64,
+      "n_words": 16,
+      "start_frame": 2227,
+      "end_frame": 2316,
+      "keyframes": [
+        "002264.webp",
+        "002265.webp",
+        "002275.webp",
+        "002286.webp",
+        "002287.webp",
+        "002308.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ để ngon thêm thì mình sẽ khứa chữ thập ở đầu nấm.",
+      "start": 92.64,
+      "end": 95.68,
+      "n_words": 14,
+      "start_frame": 2316,
+      "end_frame": 2392,
+      "keyframes": [
+        "002330.webp",
+        "002331.webp",
+        "002385.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta sẽ đập dập các khúc ớt, thì mình cũng sẽ đập dập sơ sơ thôi thì mình nấu nó sẽ tiết ra cái vị cay vừa phải mà nó thơm.",
+      "start": 96.0,
+      "end": 116.8,
+      "n_words": 32,
+      "start_frame": 2400,
+      "end_frame": 2920,
+      "keyframes": [
+        "002440.webp",
+        "002441.webp",
+        "002513.webp",
+        "002585.webp",
+        "002586.webp",
+        "002644.webp",
+        "002702.webp",
+        "002703.webp",
+        "002791.webp",
+        "002879.webp",
+        "002880.webp",
+        "002881.webp",
+        "002882.webp",
+        "002883.webp",
+        "002914.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Lá này là lá chanh thái thì chúng ta sẽ xé bỏ, tước bớt cái cọng xơ của nó đi, mình dò xơ để mình bỏ vô để cho tạo nên cái mùi thơm đặc trưng của món lẩu Thái nữa.",
+      "start": 116.8,
+      "end": 128.0,
+      "n_words": 41,
+      "start_frame": 2920,
+      "end_frame": 3200,
+      "keyframes": [
+        "002945.webp",
+        "002946.webp",
+        "003004.webp",
+        "003062.webp",
+        "003063.webp",
+        "003133.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Nấu lẩu thì cô sẽ đặt lên trên bếp một nồi có một nước rưỡi.",
+      "start": 128.0,
+      "end": 131.92,
+      "n_words": 15,
+      "start_frame": 3200,
+      "end_frame": 3298,
+      "keyframes": [
+        "003203.webp",
+        "003204.webp",
+        "003231.webp",
+        "003259.webp",
+        "003260.webp",
+        "003295.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Nước ngày hôm nay mình có thơm, cà chua và nấm rơm, đây là ba nguyên liệu mà giúp cho chúng ta có nhiều vitamin C.",
+      "start": 131.92,
+      "end": 139.12,
+      "n_words": 26,
+      "start_frame": 3298,
+      "end_frame": 3478,
+      "keyframes": [
+        "003331.webp",
+        "003332.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đặc biệt là trong nấm rơm có cả kali và protein, kali thì rất là tốt cho sức khỏe tim mạch, còn vitamin C thì mọi người biết rồi đúng không ạ, đó là chống lão hóa và tăng cường hệ miễn dịch.",
+      "start": 139.12,
+      "end": 150.24,
+      "n_words": 43,
+      "start_frame": 3478,
+      "end_frame": 3756,
+      "keyframes": [
+        "003544.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta sẽ bắt một cái chảo lên trên bếp ha, cho vào đây một ít dầu ăn.",
+      "start": 150.24,
+      "end": 156.24,
+      "n_words": 18,
+      "start_frame": 3756,
+      "end_frame": 3906,
+      "keyframes": [
+        "003757.webp",
+        "003758.webp",
+        "003785.webp",
+        "003812.webp",
+        "003813.webp",
+        "003863.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Mình sẽ cho sả đã đập dập vào đây, mình phi cho cái sả ra mùi thơm.",
+      "start": 156.24,
+      "end": 162.0,
+      "n_words": 17,
+      "start_frame": 3906,
+      "end_frame": 4050,
+      "keyframes": [
+        "003913.webp",
+        "003914.webp",
+        "003983.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn lưu ý là chúng ta phi sả để khử mùi cho đầu cá và lòng cá không bị tanh nhé.",
+      "start": 162.0,
+      "end": 167.68,
+      "n_words": 22,
+      "start_frame": 4050,
+      "end_frame": 4192,
+      "keyframes": [
+        "004052.webp",
+        "004053.webp",
+        "004122.webp",
+        "004191.webp",
+        "004192.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Sau khi mà sả dậy mùi thơm rồi á thì chúng ta sẽ tắt cái lửa này, chúng ta sẽ cho cá vào đây.",
+      "start": 167.68,
+      "end": 173.52,
+      "n_words": 24,
+      "start_frame": 4192,
+      "end_frame": 4338,
+      "keyframes": [
+        "004192.webp",
+        "004233.webp",
+        "004274.webp",
+        "004275.webp",
+        "004288.webp",
+        "004301.webp",
+        "004302.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cái bước này mình gọi là khử mùi thơm là khử mùi thơm cho cá.",
+      "start": 173.52,
+      "end": 176.72,
+      "n_words": 15,
+      "start_frame": 4338,
+      "end_frame": 4418,
+      "keyframes": [
+        "004360.webp",
+        "004418.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ cho gia vị nêm sẵn Aji-Quick lẩu Thái vào đây ha.",
+      "start": 176.72,
+      "end": 180.76,
+      "n_words": 16,
+      "start_frame": 4418,
+      "end_frame": 4519,
+      "keyframes": [
+        "004418.webp",
+        "004419.webp",
+        "004445.webp",
+        "004471.webp",
+        "004472.webp",
+        "004509.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Một lít rưỡi nước cô sẽ cho một gói gia vị này vô đây, sẽ cho cá vô, mình nhớ là khi mình cho cá vô thì nước phải sôi nha.",
+      "start": 180.76,
+      "end": 187.76,
+      "n_words": 31,
+      "start_frame": 4519,
+      "end_frame": 4694,
+      "keyframes": [
+        "004547.webp",
+        "004548.webp",
+        "004574.webp",
+        "004600.webp",
+        "004601.webp",
+        "004668.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đó, chúng ta sẽ cho cá vào sau khi nêm nước dùng để vị chua giúp khử tanh cho cá và hài hòa hương vị cho món ăn.",
+      "start": 187.76,
+      "end": 196.04,
+      "n_words": 28,
+      "start_frame": 4694,
+      "end_frame": 4901,
+      "keyframes": [
+        "004735.webp",
+        "004736.webp",
+        "004757.webp",
+        "004779.webp",
+        "004780.webp",
+        "004840.webp",
+        "004901.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cũng cái chảo này bây giờ chúng ta sẽ mở lửa lên ha, cho một chút dầu, mình sẽ cho tỏi vô đây, mình phi cho nó thơm.",
+      "start": 196.04,
+      "end": 204.52,
+      "n_words": 28,
+      "start_frame": 4901,
+      "end_frame": 5113,
+      "keyframes": [
+        "004901.webp",
+        "004902.webp",
+        "004945.webp",
+        "004988.webp",
+        "004989.webp",
+        "005013.webp",
+        "005038.webp",
+        "005039.webp",
+        "005076.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cho nấm rơm vô đây mình xào cho thơm và cà chua qua đây mình cũng chỉ cần sóc sơ thôi.",
+      "start": 204.72,
+      "end": 211.84,
+      "n_words": 21,
+      "start_frame": 5118,
+      "end_frame": 5296,
+      "keyframes": [
+        "005139.webp",
+        "005163.webp",
+        "005164.webp",
+        "005219.webp",
+        "005274.webp",
+        "005275.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đó thì em sẽ thấy là gì, mấy cái nguyên liệu này nó sẽ rất là thơm mùi tỏi nè.",
+      "start": 211.84,
+      "end": 217.72,
+      "n_words": 20,
+      "start_frame": 5296,
+      "end_frame": 5443,
+      "keyframes": [
+        "005327.webp",
+        "005380.webp",
+        "005381.webp",
+        "005413.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cá vừa chín tới thực ra là nó lẩu thì mình cá mình trừ hao cái độ chín lên chút ha, rồi mình sẽ cho luôn cái phần này vô.",
+      "start": 217.72,
+      "end": 225.2,
+      "n_words": 30,
+      "start_frame": 5443,
+      "end_frame": 5630,
+      "keyframes": [
+        "005445.webp",
+        "005446.webp",
+        "005478.webp",
+        "005510.webp",
+        "005511.webp",
+        "005571.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Với món ăn này chúng ta có thể thêm các loại nấm hoặc là các loại rau phù hợp với lại cái món canh chua ăn kèm tùy theo ý thích nha các bạn.",
+      "start": 225.2,
+      "end": 232.92,
+      "n_words": 34,
+      "start_frame": 5630,
+      "end_frame": 5823,
+      "keyframes": [
+        "005631.webp",
+        "005632.webp",
+        "005727.webp",
+        "005822.webp",
+        "005823.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Tiếp tục là cô sẽ cho cái phần lá chanh thái luôn và ớt đã đập dập vô đây luôn.",
+      "start": 232.92,
+      "end": 237.0,
+      "n_words": 20,
+      "start_frame": 5823,
+      "end_frame": 5925,
+      "keyframes": [
+        "005823.webp",
+        "005887.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Dạ rồi bây giờ thì em tắt lửa đi, cuối cùng mình sẽ cho một muỗng canh nước mắm vô đây.",
+      "start": 237.0,
+      "end": 244.88,
+      "n_words": 21,
+      "start_frame": 5925,
+      "end_frame": 6122,
+      "keyframes": [
+        "005951.webp",
+        "005952.webp",
+        "005976.webp",
+        "006001.webp",
+        "006002.webp",
+        "006063.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cá lóc rất là lành tính và nhiều dưỡng chất.",
+      "start": 244.88,
+      "end": 247.92,
+      "n_words": 10,
+      "start_frame": 6122,
+      "end_frame": 6198,
+      "keyframes": [
+        "006125.webp",
+        "006126.webp",
+        "006163.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Theo Đông y thì cá lóc sẽ bổ khí huyết cho nên là món ăn ngày hôm nay rất tuyệt vời thưa quý vị.",
+      "start": 247.92,
+      "end": 252.84,
+      "n_words": 24,
+      "start_frame": 6198,
+      "end_frame": 6321,
+      "keyframes": [
+        "006200.webp",
+        "006201.webp",
+        "006317.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Để xem lại công thức trọn vẹn thì quý vị và các bạn chỉ cần quét mã QR trên màn hình.",
+      "start": 252.84,
+      "end": 259.12,
+      "n_words": 21,
+      "start_frame": 6321,
+      "end_frame": 6478,
+      "keyframes": [
+        "006434.webp",
+        "006435.webp",
+        "006459.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta sẽ trình bày món ăn ra nha các bạn, và như vậy là món ăn của chúng ta ngày hôm nay đã hoàn thành rồi.",
+      "start": 259.12,
+      "end": 266.96,
+      "n_words": 27,
+      "start_frame": 6478,
+      "end_frame": 6674,
+      "keyframes": [
+        "006484.webp",
+        "006485.webp",
+        "006513.webp",
+        "006541.webp",
+        "006542.webp",
+        "006595.webp",
+        "006649.webp",
+        "006650.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Với món ăn này thì chúng ta sẽ ăn kèm với lại cơm hoặc là bún nè, cho nên là mình cũng không cần kèm thêm món gì nữa dạ đúng rồi, vì đã có cá lóc nè bổ sung đầy đủ dinh dưỡng rồi, tất cả các loại rau là đủ vitamin rồi, thành ra là quý vị chỉ cần là chúng ta tập hợp đầy đủ các thành viên trong gia đình và thưởng thức thôi ạ.",
+      "start": 266.96,
+      "end": 286.4,
+      "n_words": 79,
+      "start_frame": 6674,
+      "end_frame": 7160,
+      "keyframes": [
+        "006743.webp",
+        "006837.webp",
+        "006838.webp",
+        "006987.webp",
+        "007136.webp",
+        "007137.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Nước dùng màu cam đỏ bắt mắt, hương thơm của lá chanh thái, vị chua ngọt cay cay, ngọt cay cay thấm trong từng thớ cá và các loại rau củ đậm vị thôn quê.",
+      "start": 286.4,
+      "end": 298.4,
+      "n_words": 35,
+      "start_frame": 7160,
+      "end_frame": 7460,
+      "keyframes": [
+        "007223.webp",
+        "007310.webp",
+        "007311.webp",
+        "007387.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Lẩu Thái đầu cá lóc bông chua cay bắt vị, đảm bảo là cả nhà mình ai cũng mê.",
+      "start": 298.4,
+      "end": 304.08,
+      "n_words": 19,
+      "start_frame": 7460,
+      "end_frame": 7602,
+      "keyframes": [
+        "007463.webp",
+        "007464.webp",
+        "007534.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Quý vị và các bạn có thể lấy lại công thức của món ăn ngày hôm nay và rất nhiều những sự lựa chọn khác nữa bằng cách là truy cập vào YouTube, website, fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 304.08,
+      "end": 315.2,
+      "n_words": 42,
+      "start_frame": 7602,
+      "end_frame": 7880,
+      "keyframes": [
+        "007605.webp",
+        "007606.webp",
+        "007735.webp",
+        "007865.webp",
+        "007866.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

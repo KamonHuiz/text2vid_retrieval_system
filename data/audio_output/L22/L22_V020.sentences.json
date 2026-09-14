@@ -1,0 +1,2663 @@
+{
+  "video_id": "L22_V020",
+  "fps": 30.0,
+  "n_sentences": 146,
+  "total_words": 4394,
+  "sentences": [
+    {
+      "text": "Kính chào mừng quý vị đến với chương trình 60 giây của Đài Truyền hình Thành phố Hồ Chí Minh.",
+      "start": 0.0,
+      "end": 7.48,
+      "n_words": 20,
+      "start_frame": 0,
+      "end_frame": 224,
+      "keyframes": [
+        "000000.webp",
+        "000009.webp",
+        "000018.webp",
+        "000048.webp",
+        "000184.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chương trình hôm nay sẽ có những nội dung đáng chú ý sau đây: Khoảng địa chất hạn chế lưu thông qua đèo Bảo Lộc dự kiến kéo dài từ ngày 20 đến ngày 30 tháng 8 trên quốc lộ 20.",
+      "start": 7.48,
+      "end": 20.64,
+      "n_words": 41,
+      "start_frame": 224,
+      "end_frame": 619,
+      "keyframes": [
+        "000321.webp",
+        "000322.webp",
+        "000325.webp",
+        "000329.webp",
+        "000330.webp",
+        "000362.webp",
+        "000394.webp",
+        "000395.webp",
+        "000410.webp",
+        "000425.webp",
+        "000426.webp",
+        "000440.webp",
+        "000455.webp",
+        "000456.webp",
+        "000471.webp",
+        "000487.webp",
+        "000488.webp",
+        "000503.webp",
+        "000518.webp",
+        "000519.webp",
+        "000533.webp",
+        "000548.webp",
+        "000549.webp",
+        "000579.webp",
+        "000609.webp",
+        "000610.webp"
+      ],
+      "keyframe_count": 26
+    },
+    {
+      "text": "Lai Châu và Điện Biên bị chia cắt hoàn toàn từ 01/01/2025.",
+      "start": 20.92,
+      "end": 24.28,
+      "n_words": 12,
+      "start_frame": 628,
+      "end_frame": 728,
+      "keyframes": [
+        "000633.webp",
+        "000656.webp",
+        "000657.webp",
+        "000676.webp",
+        "000695.webp",
+        "000696.webp",
+        "000714.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cho phép 4 trường hợp xe hai bánh được chở theo hai người.",
+      "start": 26.32,
+      "end": 29.72,
+      "n_words": 13,
+      "start_frame": 790,
+      "end_frame": 892,
+      "keyframes": [
+        "000807.webp",
+        "000808.webp",
+        "000826.webp",
+        "000845.webp",
+        "000846.webp",
+        "000863.webp",
+        "000880.webp",
+        "000881.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Tổng thống Biden bàn giao vai trò ứng cử viên đại diện đảng Dân chủ cho bà Kamala. Kính thưa quý vị, Bộ Y tế cho biết hiện tình hình bệnh sởi trên địa bàn Thành phố Hồ Chí Minh đang diễn biến phức tạp.",
+      "start": 29.72,
+      "end": 42.44,
+      "n_words": 45,
+      "start_frame": 892,
+      "end_frame": 1273,
+      "keyframes": [
+        "000895.webp",
+        "000910.webp",
+        "000911.webp",
+        "000925.webp",
+        "000940.webp",
+        "000941.webp",
+        "000960.webp",
+        "000979.webp",
+        "000980.webp",
+        "000995.webp",
+        "001011.webp",
+        "001012.webp",
+        "001051.webp",
+        "001090.webp",
+        "001097.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Từ ngày 23 tháng 5 đến ngày 12 tháng 8, thành phố ghi nhận 597 ca sốt phát ban nghi sởi, trong đó có 346 ca dương tính sởi.",
+      "start": 42.44,
+      "end": 50.48,
+      "n_words": 29,
+      "start_frame": 1273,
+      "end_frame": 1514,
+      "keyframes": [
+        "001386.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trong số các ca bệnh sởi, có khoảng 50% bệnh nhân từ các tỉnh chuyển đến.",
+      "start": 50.48,
+      "end": 56.24,
+      "n_words": 16,
+      "start_frame": 1514,
+      "end_frame": 1687,
+      "keyframes": [
+        "001675.webp",
+        "001676.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Theo Trung tâm Kiểm soát Bệnh tật thành phố, sởi đã xuất hiện tại 57 phường xã, 16 quận huyện của thành phố, trong đó 9 quận huyện có 2 ca trở lên.",
+      "start": 56.24,
+      "end": 66.28,
+      "n_words": 33,
+      "start_frame": 1687,
+      "end_frame": 1988,
+      "keyframes": [
+        "001701.webp",
+        "001727.webp",
+        "001728.webp",
+        "001741.webp",
+        "001754.webp",
+        "001755.webp",
+        "001786.webp",
+        "001817.webp",
+        "001818.webp",
+        "001838.webp",
+        "001859.webp",
+        "001860.webp",
+        "001879.webp",
+        "001898.webp",
+        "001899.webp",
+        "001931.webp",
+        "001964.webp",
+        "001965.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Ba quận huyện có số ca sởi cao nhất là huyện Bình Chánh, Hóc Môn, quận Bình Tân.",
+      "start": 66.28,
+      "end": 71.76,
+      "n_words": 18,
+      "start_frame": 1988,
+      "end_frame": 2153,
+      "keyframes": [
+        "001997.webp",
+        "002029.webp",
+        "002030.webp",
+        "002064.webp",
+        "002098.webp",
+        "002099.webp",
+        "002119.webp",
+        "002140.webp",
+        "002141.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đáng chú ý, năm 2024, Thành phố Hồ Chí Minh đã ghi nhận 3 trường hợp tử vong do mắc bệnh sởi.",
+      "start": 71.76,
+      "end": 78.64,
+      "n_words": 22,
+      "start_frame": 2153,
+      "end_frame": 2359,
+      "keyframes": [
+        "002180.webp",
+        "002219.webp",
+        "002220.webp",
+        "002258.webp",
+        "002297.webp",
+        "002298.webp",
+        "002339.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Để bảo đảm an toàn, giảm thiểu thấp nhất lây nhiễm sởi trong cơ sở khám chữa bệnh trực thuộc, ngày 19 tháng 8, Cục Quản lý Khám chữa bệnh Bộ Y tế đã có văn bản gửi Sở Y tế Thành phố Hồ Chí Minh về việc tăng cường phòng và kiểm soát lây nhiễm sởi trong cơ sở khám chữa bệnh.",
+      "start": 78.64,
+      "end": 95.08,
+      "n_words": 63,
+      "start_frame": 2359,
+      "end_frame": 2852,
+      "keyframes": [
+        "002380.webp",
+        "002381.webp",
+        "002410.webp",
+        "002440.webp",
+        "002441.webp",
+        "002479.webp",
+        "002517.webp",
+        "002518.webp",
+        "002522.webp",
+        "002527.webp",
+        "002528.webp",
+        "002550.webp",
+        "002573.webp",
+        "002574.webp",
+        "002592.webp",
+        "002611.webp",
+        "002612.webp",
+        "002645.webp",
+        "002679.webp",
+        "002680.webp",
+        "002712.webp",
+        "002744.webp",
+        "002745.webp",
+        "002784.webp",
+        "002824.webp",
+        "002825.webp"
+      ],
+      "keyframe_count": 26
+    },
+    {
+      "text": "Cục Quản lý Khám chữa bệnh đề nghị Sở Y tế Thành phố Hồ Chí Minh khẩn trương triển khai thực hiện hiệu quả các hoạt động phòng kiểm soát lây nhiễm sởi trên địa bàn toàn thành phố, bao gồm cả hoạt động tiêm chủng.",
+      "start": 95.08,
+      "end": 107.36,
+      "n_words": 46,
+      "start_frame": 2852,
+      "end_frame": 3221,
+      "keyframes": [
+        "002854.webp",
+        "002883.webp",
+        "002884.webp",
+        "002916.webp",
+        "002948.webp",
+        "002949.webp",
+        "002967.webp",
+        "002985.webp",
+        "002986.webp",
+        "003022.webp",
+        "003059.webp",
+        "003060.webp",
+        "003095.webp",
+        "003130.webp",
+        "003131.webp",
+        "003144.webp",
+        "003157.webp",
+        "003158.webp",
+        "003180.webp",
+        "003202.webp",
+        "003203.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Ủy ban Nhân dân Thành phố Hồ Chí Minh đã ban hành quyết định phê duyệt danh mục bản đồ phân vùng cấm, vùng hạn chế khai thác nước dưới đất.",
+      "start": 107.36,
+      "end": 114.12,
+      "n_words": 31,
+      "start_frame": 3221,
+      "end_frame": 3424,
+      "keyframes": [
+        "003415.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Theo đó, thành phố xác định có 141 vùng hạn chế khai thác nước dưới đất, chia làm hai cấp độ: Vùng hạn chế 1 gồm 135 vùng, bao gồm khu vực có nguy cơ sụt lún đất và khu vực có nguồn nước ngầm có nguy cơ bị xâm nhập mặn; Vùng hạn chế 2 gồm 6 vùng, tập trung ở Thành phố Thủ Đức, gần khu vực có mực nước dưới đất bị suy giảm liên tục và có nguy cơ vượt ngưỡng.",
+      "start": 114.12,
+      "end": 133.88,
+      "n_words": 85,
+      "start_frame": 3424,
+      "end_frame": 4016,
+      "keyframes": [
+        "003628.webp",
+        "003644.webp",
+        "003671.webp",
+        "003698.webp",
+        "003699.webp",
+        "003720.webp",
+        "003742.webp",
+        "003743.webp",
+        "003780.webp",
+        "003818.webp",
+        "003819.webp",
+        "003849.webp",
+        "003879.webp",
+        "003880.webp",
+        "003905.webp",
+        "003931.webp",
+        "003932.webp",
+        "003978.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Ủy ban Nhân dân Thành phố Hồ Chí Minh yêu cầu không chấp thuận việc đăng ký cấp phép thăm dò, giấy phép khai thác nước để xây dựng thêm công trình khai thác, trừ trường hợp khoan thay thế giếng thuộc công trình đã được cấp giấy phép theo quy định và thực hiện các biện pháp hạn chế khai thác từ ngày 20 tháng 8.",
+      "start": 134.76,
+      "end": 155.52,
+      "n_words": 67,
+      "start_frame": 4043,
+      "end_frame": 4666,
+      "keyframes": [
+        "004068.webp",
+        "004111.webp",
+        "004112.webp",
+        "004155.webp",
+        "004199.webp",
+        "004200.webp",
+        "004245.webp",
+        "004291.webp",
+        "004292.webp",
+        "004329.webp",
+        "004367.webp",
+        "004368.webp",
+        "004428.webp",
+        "004489.webp",
+        "004490.webp",
+        "004533.webp",
+        "004577.webp",
+        "004578.webp",
+        "004587.webp",
+        "004597.webp",
+        "004598.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Nhằm xử lý các điểm sạt lở trên đèo Bảo Lộc thuộc Quốc lộ 20, đoạn qua Thành phố Bảo Lộc và huyện Di Linh, Lâm Đồng.",
+      "start": 158.56,
+      "end": 166.56,
+      "n_words": 27,
+      "start_frame": 4757,
+      "end_frame": 4997,
+      "keyframes": [
+        "004787.webp",
+        "004977.webp",
+        "004978.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cụ thể, việc hạn chế lưu thông đối với các loại ô tô tham gia giao thông qua đèo Bảo Lộc dự kiến kéo dài từ ngày 20 tháng 8 đến ngày 30 tháng 8.",
+      "start": 166.56,
+      "end": 175.0,
+      "n_words": 35,
+      "start_frame": 4997,
+      "end_frame": 5250,
+      "keyframes": [
+        "005068.webp",
+        "005159.webp",
+        "005160.webp",
+        "005194.webp",
+        "005228.webp",
+        "005229.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thời gian áp dụng từ 7:00 đến 11:30 và 13:00 đến 17:30 hằng ngày.",
+      "start": 175.0,
+      "end": 180.88,
+      "n_words": 14,
+      "start_frame": 5250,
+      "end_frame": 5426,
+      "keyframes": [
+        "005306.webp",
+        "005384.webp",
+        "005385.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ngoài thời gian trên, các phương tiện lưu thông qua phạm vi đèo Bảo Lộc diễn ra bình thường.",
+      "start": 180.88,
+      "end": 185.76,
+      "n_words": 19,
+      "start_frame": 5426,
+      "end_frame": 5573,
+      "keyframes": [
+        "005456.webp",
+        "005528.webp",
+        "005529.webp",
+        "005565.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Từ ngày 20 tháng 8, đơn vị thi công bắt đầu tiến hành khoan địa chất.",
+      "start": 185.76,
+      "end": 189.68,
+      "n_words": 16,
+      "start_frame": 5573,
+      "end_frame": 5690,
+      "keyframes": [
+        "005602.webp",
+        "005603.webp",
+        "005649.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trong thời gian thi công, mặt đường Quốc lộ 20 có thể bị lấn chiếm 2.5 m phía taluy dương để đặt thiết bị khoan.",
+      "start": 189.68,
+      "end": 197.12,
+      "n_words": 25,
+      "start_frame": 5690,
+      "end_frame": 5914,
+      "keyframes": [
+        "005695.webp",
+        "005696.webp",
+        "005729.webp",
+        "005763.webp",
+        "005764.webp",
+        "005803.webp",
+        "005843.webp",
+        "005844.webp",
+        "005884.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đèo Bảo Lộc dài khoảng 10 km thuộc Quốc lộ 20 là tuyến huyết mạch nối Đà Lạt, Lâm Đồng với các tỉnh Đông Nam Bộ.",
+      "start": 197.12,
+      "end": 204.56,
+      "n_words": 26,
+      "start_frame": 5914,
+      "end_frame": 6137,
+      "keyframes": [
+        "005925.webp",
+        "005926.webp",
+        "005983.webp",
+        "006040.webp",
+        "006041.webp",
+        "006075.webp",
+        "006109.webp",
+        "006110.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Ngoài mặt đường nhỏ, nhiều khúc cua gắt, đèo Bảo Lộc cũng có nguy cơ sạt lở vào mùa mưa hàng năm, trong đó vụ sạt lở nghiêm trọng xảy ra cuối tháng 7 năm ngoái đã khiến 4 người tử vong.",
+      "start": 204.56,
+      "end": 217.56,
+      "n_words": 42,
+      "start_frame": 6137,
+      "end_frame": 6527,
+      "keyframes": [
+        "006161.webp",
+        "006213.webp",
+        "006214.webp",
+        "006258.webp",
+        "006303.webp",
+        "006304.webp",
+        "006349.webp",
+        "006394.webp",
+        "006395.webp",
+        "006447.webp",
+        "006500.webp",
+        "006501.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Thông tin từ Sở Giao thông Vận tải tỉnh Lai Châu cho biết, rạng sáng ngày 20 tháng 8, cả một sườn núi trên Quốc lộ 4H tại km 218+750 thuộc địa phận bản Si Nế, xã Mù Cả xảy ra sạt lở taluy dương chắn ngang đường, chiều dài khoảng 150 m, cao từ 15 đến 20 m, tổng khối lượng ước tính khoảng 40.000 m3.",
+      "start": 217.56,
+      "end": 235.16,
+      "n_words": 67,
+      "start_frame": 6527,
+      "end_frame": 7055,
+      "keyframes": [
+        "006862.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Vụ sạt lở đã gây đứt sụt khoảng 70 m chiều dài nền đường nhựa.",
+      "start": 235.92,
+      "end": 241.52,
+      "n_words": 15,
+      "start_frame": 7078,
+      "end_frame": 7246,
+      "keyframes": [
+        "007223.webp",
+        "007224.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Giao thông giữa xã biên giới Mù Cả và các xã khác của huyện Mường Tè đã bị chia cắt, đặc biệt giao thông giữa huyện Mường Tè, Lai Châu và huyện Mường Nhé, Điện Biên bị chia cắt hoàn toàn.",
+      "start": 241.52,
+      "end": 251.2,
+      "n_words": 41,
+      "start_frame": 7246,
+      "end_frame": 7536,
+      "keyframes": [
+        "007295.webp",
+        "007367.webp",
+        "007368.webp",
+        "007385.webp",
+        "007403.webp",
+        "007404.webp",
+        "007463.webp",
+        "007522.webp",
+        "007523.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Công ty Cổ phần Bảo trì Đường bộ 1, đơn vị quản lý tuyến, đang nỗ lực tập trung nhân công, máy móc khắc phục sự cố và sẽ cố gắng thực hiện thông xe trong thời gian sớm nhất.",
+      "start": 251.2,
+      "end": 260.72,
+      "n_words": 40,
+      "start_frame": 7536,
+      "end_frame": 7822,
+      "keyframes": [
+        "007662.webp",
+        "007801.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Việc lưu thông từ huyện biên giới Mường Tè đi huyện Mường Nhé và các huyện khác của tỉnh Điện Biên sẽ được phân luồng đi theo Quốc lộ 4H hoặc tỉnh lộ 127 ra huyện Nậm Nhùn, Lai Châu rồi đi theo Quốc lộ 12 về thị xã Mường Lay, Điện Biên.",
+      "start": 260.72,
+      "end": 274.56,
+      "n_words": 53,
+      "start_frame": 7822,
+      "end_frame": 8237,
+      "keyframes": [
+        "007828.webp",
+        "008114.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Huyện Mường Tè đã chỉ đạo các cơ quan chuyên môn phối hợp với chính quyền xã Mù Cả kiểm tra rà soát các mặt hàng lương thực thực phẩm.",
+      "start": 274.56,
+      "end": 281.12,
+      "n_words": 30,
+      "start_frame": 8237,
+      "end_frame": 8434,
+      "keyframes": [
+        "008401.webp",
+        "008402.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Một số thông tin đáng chú ý khác: Theo Bộ Nông nghiệp và Phát triển Nông thôn, hiện trái cây của Việt Nam đã xuất khẩu sang 60 thị trường và vùng lãnh thổ.",
+      "start": 290.28,
+      "end": 299.92,
+      "n_words": 34,
+      "start_frame": 8708,
+      "end_frame": 8998,
+      "keyframes": [
+        "008819.webp",
+        "008973.webp",
+        "008974.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cũng theo Bộ Nông nghiệp và Phát triển Nông thôn, từng thị trường nhập khẩu đưa ra các quy định riêng từ vệ sinh an toàn thực phẩm đến kiểm dịch thực vật trong lô hàng xuất khẩu.",
+      "start": 299.92,
+      "end": 309.48,
+      "n_words": 38,
+      "start_frame": 8998,
+      "end_frame": 9284,
+      "keyframes": [
+        "009005.webp",
+        "009036.webp",
+        "009037.webp",
+        "009071.webp",
+        "009106.webp",
+        "009107.webp",
+        "009127.webp",
+        "009147.webp",
+        "009148.webp",
+        "009191.webp",
+        "009235.webp",
+        "009236.webp",
+        "009247.webp",
+        "009259.webp",
+        "009260.webp",
+        "009280.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Vậy, khi xuất khẩu, doanh nghiệp cần tìm hiểu rõ quy định yêu cầu nhập khẩu trái cây từ các quốc gia, cần phải phân ra thành hai nhóm: nhóm thứ nhất chỉ yêu cầu cơ bản trái cây không nhiễm đối tượng kiểm dịch thực vật và không để lại dư lượng thuốc bảo vệ thực vật; Còn nhóm thứ hai yêu cầu khó hơn, thuộc nhóm thị trường các nước khó tính hay những nước có yêu cầu chất lượng cao như thị trường Mỹ, Australia, Nhật Bản, Hàn Quốc; Những thị trường đó lại có yêu cầu kiểm dịch thực vật.",
+      "start": 309.76,
+      "end": 341.48,
+      "n_words": 104,
+      "start_frame": 9293,
+      "end_frame": 10244,
+      "keyframes": [
+        "009301.webp",
+        "009302.webp",
+        "009333.webp",
+        "009365.webp",
+        "009366.webp",
+        "009391.webp",
+        "009417.webp",
+        "009418.webp",
+        "009459.webp",
+        "009501.webp",
+        "009502.webp",
+        "009545.webp",
+        "009589.webp",
+        "009590.webp",
+        "009626.webp",
+        "009663.webp",
+        "009664.webp",
+        "009696.webp",
+        "009728.webp",
+        "009729.webp",
+        "009773.webp",
+        "009817.webp",
+        "009818.webp",
+        "009849.webp",
+        "009881.webp",
+        "009882.webp",
+        "009915.webp",
+        "009949.webp",
+        "009950.webp",
+        "009993.webp",
+        "010036.webp",
+        "010037.webp",
+        "010073.webp",
+        "010109.webp",
+        "010110.webp",
+        "010136.webp",
+        "010162.webp",
+        "010163.webp",
+        "010213.webp"
+      ],
+      "keyframe_count": 39
+    },
+    {
+      "text": "Những ngày qua, người dân các làng chài ở Khánh Hòa vào mùa đánh bắt cua gạch.",
+      "start": 341.48,
+      "end": 346.56,
+      "n_words": 17,
+      "start_frame": 10244,
+      "end_frame": 10397,
+      "keyframes": [
+        "010264.webp",
+        "010265.webp",
+        "010304.webp",
+        "010343.webp",
+        "010344.webp",
+        "010385.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Theo đó, tháng 7 đến tháng 9 âm lịch hàng năm là mùa đánh bắt cua gạch.",
+      "start": 346.56,
+      "end": 349.2,
+      "n_words": 17,
+      "start_frame": 10397,
+      "end_frame": 10476,
+      "keyframes": [
+        "010427.webp",
+        "010428.webp",
+        "010459.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đánh bắt cua gạch trên đầm Nha Phu, thương lái thu mua tại chỗ giá 400.000 đến 500.000 đồng một ký.",
+      "start": 349.2,
+      "end": 355.52,
+      "n_words": 21,
+      "start_frame": 10476,
+      "end_frame": 10666,
+      "keyframes": [
+        "010491.webp",
+        "010492.webp",
+        "010561.webp",
+        "010630.webp",
+        "010631.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cua gạch là cua cái trưởng thành chứa đầy gạch ở hai bên mai cua và trứng cua nằm gọn vào giữa yếm.",
+      "start": 355.52,
+      "end": 361.32,
+      "n_words": 23,
+      "start_frame": 10666,
+      "end_frame": 10840,
+      "keyframes": [
+        "010672.webp",
+        "010714.webp",
+        "010715.webp",
+        "010738.webp",
+        "010761.webp",
+        "010762.webp",
+        "010771.webp",
+        "010780.webp",
+        "010781.webp",
+        "010810.webp",
+        "010839.webp",
+        "010840.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Thịt cua gạch vừa ngon lại vừa chắc, thơm béo nên giá bán cao hơn loại cua thịt.",
+      "start": 361.32,
+      "end": 366.52,
+      "n_words": 18,
+      "start_frame": 10840,
+      "end_frame": 10996,
+      "keyframes": [
+        "010840.webp",
+        "010882.webp",
+        "010925.webp",
+        "010926.webp",
+        "010987.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đầm Nha Phu ở thị xã Ninh Hòa nổi tiếng có nhiều cua gạch ngon.",
+      "start": 366.52,
+      "end": 374.6,
+      "n_words": 15,
+      "start_frame": 10996,
+      "end_frame": 11238,
+      "keyframes": [
+        "011049.webp",
+        "011050.webp",
+        "011087.webp",
+        "011125.webp",
+        "011126.webp",
+        "011176.webp",
+        "011227.webp",
+        "011228.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Số liệu của Bộ Nông nghiệp và Phát triển Nông thôn cho biết sản lượng cà phê của Việt Nam niên vụ 2023-2024 ước giảm 20% so với niên vụ trước, xuống còn 1,47 triệu tấn, thấp nhất trong 4 năm do yếu tố thời tiết không thuận lợi và tình trạng sâu bệnh khiến diện tích bị thu hẹp dần.",
+      "start": 374.6,
+      "end": 393.76,
+      "n_words": 61,
+      "start_frame": 11238,
+      "end_frame": 11813,
+      "keyframes": [
+        "011266.webp",
+        "011305.webp",
+        "011306.webp",
+        "011335.webp",
+        "011365.webp",
+        "011366.webp",
+        "011404.webp",
+        "011443.webp",
+        "011444.webp",
+        "011488.webp",
+        "011533.webp",
+        "011534.webp",
+        "011550.webp",
+        "011567.webp",
+        "011568.webp",
+        "011620.webp",
+        "011673.webp",
+        "011674.webp",
+        "011710.webp",
+        "011746.webp",
+        "011747.webp",
+        "011788.webp"
+      ],
+      "keyframe_count": 22
+    },
+    {
+      "text": "Hiệp hội Cà phê Buôn Ma Thuột cũng nhận định sản lượng cà phê niên vụ tới có thể tiếp tục giảm khoảng 15% so với niên vụ hiện tại.",
+      "start": 393.76,
+      "end": 402.16,
+      "n_words": 30,
+      "start_frame": 11813,
+      "end_frame": 12065,
+      "keyframes": [
+        "011830.webp",
+        "011831.webp",
+        "011869.webp",
+        "011907.webp",
+        "011908.webp",
+        "011943.webp",
+        "011978.webp",
+        "011979.webp",
+        "012026.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Ngoài ra, trong mùa khô vừa qua, hạn hán khá nghiêm trọng nên hạt sẽ nhỏ lại.",
+      "start": 402.16,
+      "end": 407.16,
+      "n_words": 17,
+      "start_frame": 12065,
+      "end_frame": 12215,
+      "keyframes": [
+        "012073.webp",
+        "012074.webp",
+        "012122.webp",
+        "012171.webp",
+        "012172.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Giá vàng miếng SJC sáng ngày 20 tháng 8 tăng 1 triệu lên 81 triệu đồng mỗi lượng, cao nhất từ khi Ngân hàng Nhà nước thay đổi cách bình ổn thị trường.",
+      "start": 410.08,
+      "end": 418.36,
+      "n_words": 33,
+      "start_frame": 12302,
+      "end_frame": 12551,
+      "keyframes": [
+        "012302.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và theo quy định thì 4 ngân hàng quốc doanh và SJC được phép bán chênh tối đa 1 triệu đồng so với giá họ mua từ Ngân hàng Nhà nước.",
+      "start": 418.36,
+      "end": 425.64,
+      "n_words": 31,
+      "start_frame": 12551,
+      "end_frame": 12769,
+      "keyframes": [
+        "012601.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Công ty Vàng bạc đá quý Sài Gòn SJC niêm yết giá vàng miếng ở mức 79 đến 81 triệu đồng một lượng, tăng 1 triệu đồng ở cả hai chiều mua bán.",
+      "start": 431.8,
+      "end": 440.8,
+      "n_words": 33,
+      "start_frame": 12954,
+      "end_frame": 13224,
+      "keyframes": [
+        "012973.webp",
+        "012999.webp",
+        "013000.webp",
+        "013029.webp",
+        "013059.webp",
+        "013060.webp",
+        "013094.webp",
+        "013129.webp",
+        "013130.webp",
+        "013163.webp",
+        "013196.webp",
+        "013197.webp",
+        "013223.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Mức này cao nhất từ khi Ngân hàng Nhà nước thay đổi cách bình ổn thị trường từ đầu tháng 6 thông qua bán vàng trực tiếp cho bốn ngân hàng quốc doanh và SJC thay vì đấu thầu.",
+      "start": 440.8,
+      "end": 449.96,
+      "n_words": 39,
+      "start_frame": 13224,
+      "end_frame": 13499,
+      "keyframes": [
+        "013250.webp",
+        "013251.webp",
+        "013283.webp",
+        "013315.webp",
+        "013316.webp",
+        "013346.webp",
+        "013376.webp",
+        "013377.webp",
+        "013402.webp",
+        "013427.webp",
+        "013428.webp",
+        "013458.webp",
+        "013489.webp",
+        "013490.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Một số thương hiệu khác như Tập đoàn Vàng bạc đá quý DOJI cũng điều chỉnh giá bán loại vàng này lên ngang với SJC sau dịp tăng mạnh cuối tuần.",
+      "start": 449.96,
+      "end": 458.8,
+      "n_words": 31,
+      "start_frame": 13499,
+      "end_frame": 13764,
+      "keyframes": [
+        "013508.webp",
+        "013526.webp",
+        "013527.webp",
+        "013542.webp",
+        "013558.webp",
+        "013559.webp",
+        "013600.webp",
+        "013642.webp",
+        "013643.webp",
+        "013680.webp",
+        "013717.webp",
+        "013718.webp",
+        "013763.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Vàng nhẫn đi ngang ở mức giá trên 78 triệu đồng sáng nay, mỗi lượng nhẫn trơn 24K giao dịch ở mức 76.8 đến 78.2 triệu đồng, thấp hơn 200.000 đồng so với cuối tuần trước.",
+      "start": 458.8,
+      "end": 472.44,
+      "n_words": 36,
+      "start_frame": 13764,
+      "end_frame": 14173,
+      "keyframes": [
+        "013809.webp",
+        "013810.webp",
+        "013848.webp",
+        "013887.webp",
+        "013888.webp",
+        "013924.webp",
+        "013961.webp",
+        "013962.webp",
+        "013994.webp",
+        "014027.webp",
+        "014028.webp",
+        "014048.webp",
+        "014069.webp",
+        "014070.webp",
+        "014087.webp",
+        "014104.webp",
+        "014105.webp",
+        "014128.webp",
+        "014151.webp",
+        "014152.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Phố Hồ Chí Minh vừa có văn bản gửi Bộ Văn hóa, Thể thao và Du lịch đề nghị xem xét đưa di sản văn hóa phi vật thể nghệ thuật Lân Sư Rồng Thành phố Hồ Chí Minh vào danh mục di sản văn hóa phi vật thể quốc gia.",
+      "start": 473.68,
+      "end": 485.28,
+      "n_words": 51,
+      "start_frame": 14210,
+      "end_frame": 14558,
+      "keyframes": [
+        "014346.webp",
+        "014540.webp",
+        "014541.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trước đó, UBND Thành phố Hồ Chí Minh đã chỉ đạo Sở Văn hóa và Thể thao phối hợp Liên đoàn Lân Sư Rồng Thành phố và các đơn vị liên quan thực hiện kiểm kê và lập hồ sơ khoa học di sản văn hóa phi vật thể nghệ thuật Lân Sư Rồng Thành phố Hồ Chí Minh.",
+      "start": 485.28,
+      "end": 499.32,
+      "n_words": 59,
+      "start_frame": 14558,
+      "end_frame": 14980,
+      "keyframes": [
+        "014577.webp",
+        "014614.webp",
+        "014615.webp",
+        "014673.webp",
+        "014732.webp",
+        "014733.webp",
+        "014797.webp",
+        "014861.webp",
+        "014862.webp",
+        "014902.webp",
+        "014942.webp",
+        "014943.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Nghệ thuật Lân Sư Rồng là hình thức nghệ thuật trình diễn đặc trưng của người Hoa tại Thành phố Hồ Chí Minh.",
+      "start": 499.32,
+      "end": 504.12,
+      "n_words": 23,
+      "start_frame": 14980,
+      "end_frame": 15124,
+      "keyframes": [
+        "015016.webp",
+        "015089.webp",
+        "015090.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bên cạnh các yếu tố nghệ thuật múa, Lân Sư Rồng còn mang ý nghĩa tâm linh và phản ánh đời sống văn hóa tinh thần của cộng đồng người Hoa.",
+      "start": 504.12,
+      "end": 511.0,
+      "n_words": 31,
+      "start_frame": 15124,
+      "end_frame": 15330,
+      "keyframes": [
+        "015163.webp",
+        "015236.webp",
+        "015237.webp",
+        "015293.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Ba linh vật Lân Sư Rồng đều mang tính thần thoại, đại diện cho mong ước thịnh vượng, may mắn, xua đuổi điềm xấu, thường được biểu diễn trong các lễ hội Tết Nguyên đán, Tết Trung thu, ngày khai trương, động thổ.",
+      "start": 511.0,
+      "end": 525.64,
+      "n_words": 43,
+      "start_frame": 15330,
+      "end_frame": 15769,
+      "keyframes": [
+        "015350.webp",
+        "015351.webp",
+        "015389.webp",
+        "015427.webp",
+        "015428.webp",
+        "015482.webp",
+        "015537.webp",
+        "015538.webp",
+        "015579.webp",
+        "015621.webp",
+        "015622.webp",
+        "015646.webp",
+        "015670.webp",
+        "015671.webp",
+        "015702.webp",
+        "015733.webp",
+        "015744.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Trong phần sau của chương trình, chiêm ngưỡng siêu trăng đầu tiên của năm 2024 tại nhiều nước trên thế giới.",
+      "start": 525.64,
+      "end": 535.2,
+      "n_words": 21,
+      "start_frame": 15769,
+      "end_frame": 16056,
+      "keyframes": [
+        "015776.webp",
+        "015808.webp",
+        "015809.webp",
+        "015839.webp",
+        "015869.webp",
+        "015870.webp",
+        "015893.webp",
+        "015916.webp",
+        "015917.webp",
+        "015946.webp",
+        "015975.webp",
+        "015976.webp",
+        "016000.webp",
+        "016024.webp",
+        "016025.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Tỷ phú công nghệ Elon Musk mất tích trong vụ chìm du thuyền ngoài khơi Sicily, Italia. Đại hội Đảng Dân chủ Mỹ đã khai mạc đêm 19 tháng 8, tức sáng sớm ngày hôm nay theo giờ Việt Nam tại Chicago.",
+      "start": 535.2,
+      "end": 551.2,
+      "n_words": 42,
+      "start_frame": 16056,
+      "end_frame": 16536,
+      "keyframes": [
+        "016061.webp",
+        "016097.webp",
+        "016098.webp",
+        "016121.webp",
+        "016144.webp",
+        "016145.webp",
+        "016162.webp",
+        "016180.webp",
+        "016181.webp",
+        "016203.webp",
+        "016225.webp",
+        "016226.webp",
+        "016244.webp",
+        "016263.webp",
+        "016264.webp",
+        "016308.webp",
+        "016352.webp",
+        "016353.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Phó Tổng thống Kamala Harris, ứng viên của Đảng Dân chủ, đã bất ngờ xuất hiện trong đêm khai mạc trong tiếng reo hò của những người tham dự đại hội.",
+      "start": 551.2,
+      "end": 559.92,
+      "n_words": 31,
+      "start_frame": 16536,
+      "end_frame": 16798,
+      "keyframes": [
+        "016563.webp",
+        "016773.webp",
+        "016774.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Theo thông lệ, ứng viên của Đảng Dân chủ sẽ xuất hiện và phát biểu vào đêm cuối, bà đã nói về điều mà bà gọi là vai trò lãnh đạo mang tính lịch sử của ông Biden.",
+      "start": 559.92,
+      "end": 574.8,
+      "n_words": 38,
+      "start_frame": 16798,
+      "end_frame": 17244,
+      "keyframes": [
+        "016809.webp",
+        "016845.webp",
+        "016846.webp",
+        "016877.webp",
+        "016909.webp",
+        "016910.webp",
+        "016935.webp",
+        "016960.webp",
+        "016961.webp",
+        "017010.webp",
+        "017059.webp",
+        "017060.webp",
+        "017204.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Bà nói rằng bà mãi mãi biết ơn Tổng thống Mỹ Joe Biden cùng một số thành viên gia đình, trong đó có Đệ nhất phu nhân Biden.",
+      "start": 574.8,
+      "end": 581.04,
+      "n_words": 28,
+      "start_frame": 17244,
+      "end_frame": 17431,
+      "keyframes": [
+        "017349.webp",
+        "017350.webp",
+        "017382.webp",
+        "017414.webp",
+        "017415.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Phu nhân Jill Biden tối 19 tháng 8 đã tham dự đại hội toàn quốc Đảng Dân chủ.",
+      "start": 581.04,
+      "end": 585.76,
+      "n_words": 18,
+      "start_frame": 17431,
+      "end_frame": 17573,
+      "keyframes": [
+        "017452.webp",
+        "017489.webp",
+        "017490.webp",
+        "017534.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Hàng nghìn người reo hò vỗ tay nồng nhiệt và hô vang \"Chúng tôi yêu ngài\".",
+      "start": 585.76,
+      "end": 590.44,
+      "n_words": 16,
+      "start_frame": 17573,
+      "end_frame": 17713,
+      "keyframes": [
+        "017579.webp",
+        "017580.webp",
+        "017606.webp",
+        "017633.webp",
+        "017634.webp",
+        "017648.webp",
+        "017663.webp",
+        "017664.webp",
+        "017682.webp",
+        "017701.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Chưa đầy một tháng trước, ông Biden tuyên bố dừng tranh cử nhường lại cơ hội cho Phó Tổng thống Kamala Harris.",
+      "start": 590.44,
+      "end": 595.6,
+      "n_words": 22,
+      "start_frame": 17713,
+      "end_frame": 17868,
+      "keyframes": [
+        "017751.webp",
+        "017811.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nhiệm kỳ duy nhất của ông Biden còn khoảng năm tháng nữa là kết thúc.",
+      "start": 596.36,
+      "end": 600.28,
+      "n_words": 15,
+      "start_frame": 17891,
+      "end_frame": 18008,
+      "keyframes": [
+        "017905.webp",
+        "017938.webp",
+        "017939.webp",
+        "018004.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Các cuộc thăm dò dư luận của các báo đài hàng đầu nước Mỹ cho thấy mặc dù bà Harris dường như nhận được nhiều ủng hộ hơn ông Trump trên toàn quốc, nhưng ông Trump vẫn nhận được nhiều ủng hộ hơn trong các vấn đề liên quan đến kinh tế Mỹ, đặc biệt là những vấn đề như lạm phát, giá cả leo thang và vấn đề người nhập cư. Ngày 19 tháng 8, người dân tại nhiều nước trên thế giới đã chiêm ngưỡng được siêu trăng đầu tiên của năm 2024.",
+      "start": 600.28,
+      "end": 624.24,
+      "n_words": 95,
+      "start_frame": 18008,
+      "end_frame": 18727,
+      "keyframes": [
+        "018070.webp",
+        "018071.webp",
+        "018219.webp",
+        "018368.webp",
+        "018369.webp",
+        "018420.webp",
+        "018471.webp",
+        "018472.webp",
+        "018514.webp",
+        "018556.webp",
+        "018557.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Hiện tượng siêu trăng này rất hiếm khi xảy ra vì lần này nó xuất hiện trùng với hiện tượng trăng xanh nên mặt trăng đã xuất hiện to hơn và sáng hơn thường lệ.",
+      "start": 625.28,
+      "end": 635.12,
+      "n_words": 35,
+      "start_frame": 18758,
+      "end_frame": 19054,
+      "keyframes": [
+        "018786.webp",
+        "019016.webp",
+        "019030.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hiện tượng siêu trăng xảy ra khi mặt trăng ở gần Trái đất nhất và vào thời điểm trăng tròn, còn trăng xanh không phải là mặt trăng có màu xanh mà là cách gọi để diễn tả sự hiếm có của hiện tượng này khi đó có đến hai lần trăng tròn xuất hiện trong một tháng.",
+      "start": 635.12,
+      "end": 650.88,
+      "n_words": 58,
+      "start_frame": 19054,
+      "end_frame": 19526,
+      "keyframes": [
+        "019078.webp",
+        "019127.webp",
+        "019128.webp",
+        "019201.webp",
+        "019274.webp",
+        "019275.webp",
+        "019309.webp",
+        "019343.webp",
+        "019344.webp",
+        "019396.webp",
+        "019449.webp",
+        "019450.webp",
+        "019498.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Theo NASA, sự trùng hợp giữa siêu trăng và trăng xanh xảy ra khoảng 10 năm một lần.",
+      "start": 650.88,
+      "end": 657.08,
+      "n_words": 18,
+      "start_frame": 19526,
+      "end_frame": 19712,
+      "keyframes": [
+        "019546.webp",
+        "019547.webp",
+        "019644.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tại Hy Lạp, siêu trăng đã xuất hiện trên đỉnh đền thờ thần Poseidon ở mũi đất Sounion, phía nam thủ đô Athens.",
+      "start": 657.08,
+      "end": 664.0,
+      "n_words": 23,
+      "start_frame": 19712,
+      "end_frame": 19920,
+      "keyframes": [
+        "019741.webp",
+        "019742.webp",
+        "019778.webp",
+        "019814.webp",
+        "019815.webp",
+        "019853.webp",
+        "019892.webp",
+        "019893.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Nhìn từ xa, người dân sẽ thấy siêu trăng nằm ngay cạnh đền thờ và chiếu sáng cả ngôi đền.",
+      "start": 664.0,
+      "end": 670.0,
+      "n_words": 20,
+      "start_frame": 19920,
+      "end_frame": 20100,
+      "keyframes": [
+        "019932.webp",
+        "019971.webp",
+        "019972.webp",
+        "020004.webp",
+        "020037.webp",
+        "020038.webp",
+        "020087.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Còn ở Brazil, siêu trăng đã xuất hiện trên đỉnh núi Sugarloaf và chiếu sáng bờ biển Botafogo tại Rio de Janeiro.",
+      "start": 670.0,
+      "end": 678.2,
+      "n_words": 22,
+      "start_frame": 20100,
+      "end_frame": 20346,
+      "keyframes": [
+        "020137.webp",
+        "020138.webp",
+        "020168.webp",
+        "020198.webp",
+        "020199.webp",
+        "020234.webp",
+        "020269.webp",
+        "020270.webp",
+        "020300.webp",
+        "020330.webp",
+        "020331.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Hiện tượng siêu trăng xanh cũng tạo ra cảnh tượng kỳ thú tại thủ đô Lisbon của Bồ Đào Nha, khiến nhiều người thích thú ghi hình lại.",
+      "start": 678.2,
+      "end": 688.0,
+      "n_words": 28,
+      "start_frame": 20346,
+      "end_frame": 20640,
+      "keyframes": [
+        "020358.webp",
+        "020385.webp",
+        "020386.webp",
+        "020412.webp",
+        "020438.webp",
+        "020439.webp",
+        "020492.webp",
+        "020546.webp",
+        "020547.webp",
+        "020584.webp",
+        "020621.webp",
+        "020622.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Mới đây, Trường Đại học Quốc gia Toribio Rodríguez de Mendoza ở Peru đã thành công trong thí nghiệm nhân bản vô tính loài ngựa bản địa Paso Peru.",
+      "start": 688.0,
+      "end": 696.48,
+      "n_words": 29,
+      "start_frame": 20640,
+      "end_frame": 20894,
+      "keyframes": [
+        "020712.webp",
+        "020803.webp",
+        "020804.webp",
+        "020879.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Mục tiêu nhằm phục hồi và bảo tồn giống loài di sản của quốc gia này.",
+      "start": 696.48,
+      "end": 701.24,
+      "n_words": 16,
+      "start_frame": 20894,
+      "end_frame": 21037,
+      "keyframes": [
+        "020955.webp",
+        "020956.webp",
+        "020993.webp",
+        "021031.webp",
+        "021032.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Các nhà nghiên cứu và nhiều chuyên gia đa ngành của Trường Đại học Quốc gia Toribio Rodríguez de Mendoza thu được nhiều nguyên bào sợi, rồi sau đó tạo ra phôi nhân nguyên bản.",
+      "start": 701.24,
+      "end": 719.6,
+      "n_words": 35,
+      "start_frame": 21037,
+      "end_frame": 21588,
+      "keyframes": [
+        "021140.webp",
+        "021249.webp",
+        "021250.webp",
+        "021296.webp",
+        "021343.webp",
+        "021344.webp",
+        "021391.webp",
+        "021439.webp",
+        "021440.webp",
+        "021468.webp",
+        "021496.webp",
+        "021497.webp",
+        "021527.webp",
+        "021557.webp",
+        "021558.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Các nhà nghiên cứu tiếp đó cấy phôi này vào ngựa cái.",
+      "start": 719.6,
+      "end": 723.32,
+      "n_words": 12,
+      "start_frame": 21588,
+      "end_frame": 21700,
+      "keyframes": [
+        "021613.webp",
+        "021668.webp",
+        "021669.webp",
+        "021684.webp",
+        "021699.webp",
+        "021700.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Nhờ triển khai công nghệ sinh học sinh sản này, trường đại học đang bảo tồn được các loài động vật có giá trị di sản lớn đối với đất nước.",
+      "start": 723.32,
+      "end": 730.08,
+      "n_words": 31,
+      "start_frame": 21700,
+      "end_frame": 21902,
+      "keyframes": [
+        "021700.webp",
+        "021758.webp",
+        "021817.webp",
+        "021818.webp",
+        "021876.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Không chỉ riêng ngựa Peru, chúng tôi đã đông lạnh nhiều loại tế bào khác nhau của nhiều loài động vật trong ngân hàng gen.",
+      "start": 730.08,
+      "end": 736.96,
+      "n_words": 25,
+      "start_frame": 21902,
+      "end_frame": 22109,
+      "keyframes": [
+        "021934.webp",
+        "021935.webp",
+        "021966.webp",
+        "021997.webp",
+        "021998.webp",
+        "022022.webp",
+        "022046.webp",
+        "022047.webp",
+        "022077.webp",
+        "022107.webp",
+        "022108.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Ngựa Paso Peru được nhiều người coi là loài ngựa bản địa của Peru.",
+      "start": 736.96,
+      "end": 741.88,
+      "n_words": 14,
+      "start_frame": 22109,
+      "end_frame": 22256,
+      "keyframes": [
+        "022165.webp",
+        "022222.webp",
+        "022223.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ban đầu, loại ngựa này được phối giống để những người quản đốc trên các điền trang có đủ nguồn động vật để di chuyển.",
+      "start": 741.88,
+      "end": 749.88,
+      "n_words": 25,
+      "start_frame": 22256,
+      "end_frame": 22496,
+      "keyframes": [
+        "022292.webp",
+        "022361.webp",
+        "022362.webp",
+        "022411.webp",
+        "022461.webp",
+        "022462.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hôm qua, quốc gia Nam Á Sri Lanka đã tổ chức lễ hội rước xá lợi răng Phật, một trong những sự kiện trọng đại nhất năm tại cố đô Kandy, cũng là nơi mà tương truyền lưu giữ xá lợi răng của Phật Thích Ca.",
+      "start": 749.88,
+      "end": 762.24,
+      "n_words": 46,
+      "start_frame": 22496,
+      "end_frame": 22867,
+      "keyframes": [
+        "022659.webp",
+        "022856.webp",
+        "022857.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Lễ hội thường niên được tổ chức hoành tráng với sự tham gia của hàng trăm vũ công trong những bộ trang phục sặc sỡ.",
+      "start": 762.24,
+      "end": 768.56,
+      "n_words": 25,
+      "start_frame": 22867,
+      "end_frame": 23057,
+      "keyframes": [
+        "022894.webp",
+        "022931.webp",
+        "022932.webp",
+        "022973.webp",
+        "023014.webp",
+        "023015.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Họ thể hiện những điệu múa truyền thống mang đậm nét văn hóa địa phương.",
+      "start": 768.56,
+      "end": 772.6,
+      "n_words": 15,
+      "start_frame": 23057,
+      "end_frame": 23178,
+      "keyframes": [
+        "023077.webp",
+        "023140.webp",
+        "023141.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bên cạnh đó, những chú voi đại diện cho sức mạnh tâm thức cũng tham gia diễu hành trong những bộ trang phục lộng lẫy.",
+      "start": 772.6,
+      "end": 779.4,
+      "n_words": 25,
+      "start_frame": 23178,
+      "end_frame": 23382,
+      "keyframes": [
+        "023190.webp",
+        "023239.webp",
+        "023240.webp",
+        "023355.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Lưng voi mang kiệu xá lợi răng Phật và diễu hành quanh thành phố để công chúng chiêm ngưỡng.",
+      "start": 779.4,
+      "end": 784.72,
+      "n_words": 19,
+      "start_frame": 23382,
+      "end_frame": 23542,
+      "keyframes": [
+        "023471.webp",
+        "023472.webp",
+        "023515.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Theo truyền thống, nghi thức này nhằm ban phước lành cho nhà vua và người dân.",
+      "start": 784.72,
+      "end": 788.72,
+      "n_words": 16,
+      "start_frame": 23542,
+      "end_frame": 23662,
+      "keyframes": [
+        "023559.webp",
+        "023560.webp",
+        "023595.webp",
+        "023631.webp",
+        "023632.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đám rước sau đó sẽ chia ra nhiều nhóm đi qua Sri Dalada Maligawa, ngôi chùa Phật giáo tôn kính nhất của Sri Lanka và cũng là nơi thờ xá lợi răng Phật.",
+      "start": 788.72,
+      "end": 801.36,
+      "n_words": 33,
+      "start_frame": 23662,
+      "end_frame": 24041,
+      "keyframes": [
+        "023677.webp",
+        "023722.webp",
+        "023723.webp",
+        "023871.webp",
+        "024019.webp",
+        "024020.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Xưởng đúc tiền Hoàng gia Anh ngày 20 tháng 8 cho biết những đồng xu một bảng Anh đầu tiên có chân dung Vua Charles III sẽ được lưu hành trong tuần này.",
+      "start": 801.36,
+      "end": 810.8,
+      "n_words": 33,
+      "start_frame": 24041,
+      "end_frame": 24324,
+      "keyframes": [
+        "024158.webp",
+        "024297.webp",
+        "024306.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đợt này sẽ có gần 3 triệu đồng xu loại một bảng được đưa vào sử dụng.",
+      "start": 810.8,
+      "end": 814.72,
+      "n_words": 17,
+      "start_frame": 24324,
+      "end_frame": 24442,
+      "keyframes": [
+        "024391.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Một mặt in chân dung của Vua Charles III, mặt còn lại in hình hai con ong.",
+      "start": 814.72,
+      "end": 819.12,
+      "n_words": 17,
+      "start_frame": 24442,
+      "end_frame": 24574,
+      "keyframes": [
+        "024477.webp",
+        "024478.webp",
+        "024510.webp",
+        "024543.webp",
+        "024544.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Mẫu đồng xu này nằm trong số tám mẫu đồng xu trị giá từ một xu đến hai bảng Anh, lấy cảm hứng từ cam kết của Vua Charles III với môi trường.",
+      "start": 819.12,
+      "end": 826.84,
+      "n_words": 33,
+      "start_frame": 24574,
+      "end_frame": 24805,
+      "keyframes": [
+        "024589.webp",
+        "024634.webp",
+        "024635.webp",
+        "024669.webp",
+        "024704.webp",
+        "024705.webp",
+        "024786.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Các mẫu còn lại gồm đồng một xu có hình chú chuột màu hạt phỉ, đồng hai xu có hình chú sóc đỏ, đồng năm xu có hình lá cây sồi, đồng 10 xu có hình gago caper keli, đồng 20 xu có hình chim cánh cụt và đồng hai bảng có hình các loài cây biểu tượng của Anh gồm hoa hồng, hoa thủy tiên, hoa kế và cỏ ba lá.",
+      "start": 826.84,
+      "end": 845.56,
+      "n_words": 72,
+      "start_frame": 24805,
+      "end_frame": 25367,
+      "keyframes": [
+        "024868.webp",
+        "024869.webp",
+        "024956.webp",
+        "025043.webp",
+        "025044.webp",
+        "025114.webp",
+        "025184.webp",
+        "025185.webp",
+        "025244.webp",
+        "025304.webp",
+        "025305.webp",
+        "025317.webp",
+        "025330.webp",
+        "025331.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Một con tàu đã bị chìm ngoài khơi Sicily, Italia do gặp bão, một người chết và sáu người khác mất tích, trong đó có tỷ phú công nghệ nước Anh Mike.",
+      "start": 854.88,
+      "end": 863.76,
+      "n_words": 32,
+      "start_frame": 25646,
+      "end_frame": 25913,
+      "keyframes": [
+        "025883.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ông là người đồng sáng lập công ty phần mềm Autonomy, sau này được gã khổng lồ công nghệ Hewlett-Packard mua lại với giá là 11 tỷ đô la Mỹ.",
+      "start": 863.76,
+      "end": 873.08,
+      "n_words": 30,
+      "start_frame": 25913,
+      "end_frame": 26192,
+      "keyframes": [
+        "026183.webp",
+        "026184.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Theo truyền thông địa phương, du thuyền Bayesian gặp bão lớn trong đêm khi đang neo đậu ngoài khơi Campo Porto và bị chìm xuống độ sâu 49 mét.",
+      "start": 873.08,
+      "end": 882.28,
+      "n_words": 29,
+      "start_frame": 26192,
+      "end_frame": 26468,
+      "keyframes": [
+        "026263.webp",
+        "026342.webp",
+        "026343.webp",
+        "026453.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Lực lượng bảo vệ bờ biển Italia cho biết du thuyền chở 22 người Anh, Mỹ và Canada, 15 người đã được giải cứu trước khi du thuyền bị chìm, trong đó có chủ du thuyền là bà Angela, vợ ông Mike.",
+      "start": 882.28,
+      "end": 895.72,
+      "n_words": 42,
+      "start_frame": 26468,
+      "end_frame": 26872,
+      "keyframes": [
+        "026564.webp",
+        "026565.webp",
+        "026646.webp",
+        "026728.webp",
+        "026729.webp",
+        "026778.webp",
+        "026827.webp",
+        "026828.webp",
+        "026863.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Tám người trong số này đã được chuyển đến bệnh viện địa phương và sức khỏe ổn định.",
+      "start": 895.72,
+      "end": 900.4,
+      "n_words": 18,
+      "start_frame": 26872,
+      "end_frame": 27012,
+      "keyframes": [
+        "026899.webp",
+        "026900.webp",
+        "026943.webp",
+        "026986.webp",
+        "026987.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Danh tính của nạn nhân thiệt mạng và những người mất tích chưa được công bố, tuy nhiên một người có liên quan đến cuộc cứu hộ đã xác nhận chưa tìm thấy nhà tỷ phú.",
+      "start": 900.4,
+      "end": 910.2,
+      "n_words": 36,
+      "start_frame": 27012,
+      "end_frame": 27306,
+      "keyframes": [
+        "027040.webp",
+        "027094.webp",
+        "027095.webp",
+        "027140.webp",
+        "027185.webp",
+        "027186.webp",
+        "027230.webp",
+        "027274.webp",
+        "027275.webp",
+        "027294.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Thưa quý vị, trong thời gian gần đây, tại một số địa bàn của tỉnh Cà Mau xuất hiện tình trạng trộm cắp tài sản trên các tuyến sông.",
+      "start": 910.2,
+      "end": 917.36,
+      "n_words": 29,
+      "start_frame": 27306,
+      "end_frame": 27521,
+      "keyframes": [
+        "027313.webp",
+        "027314.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Khi bị phát hiện, chúng còn sử dụng hung khí mang theo để chống trả, tẩu thoát.",
+      "start": 917.36,
+      "end": 921.6,
+      "n_words": 17,
+      "start_frame": 27521,
+      "end_frame": 27648,
+      "keyframes": [
+        "027559.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Công an tỉnh nhanh chóng bắt tay vào cuộc, quyết tâm vây bắt nhóm đối tượng trên.",
+      "start": 921.6,
+      "end": 927.48,
+      "n_words": 17,
+      "start_frame": 27648,
+      "end_frame": 27824,
+      "keyframes": [
+        "027805.webp",
+        "027806.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Anh Đỗ Minh Thức, trú xã Phú Thuận, huyện Phú Tân, bị trộm mất chiếc xe máy trị giá khoảng 110 triệu đồng.",
+      "start": 927.48,
+      "end": 934.28,
+      "n_words": 23,
+      "start_frame": 27824,
+      "end_frame": 28028,
+      "keyframes": [
+        "027848.webp",
+        "027891.webp",
+        "027892.webp",
+        "027927.webp",
+        "027962.webp",
+        "027963.webp",
+        "027999.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Các vụ tôm lớn ban đêm cũng bị đột nhập trộm máy bơm nước, thiết bị dụng cụ dùng để nuôi tôm, thậm chí có cả xăng dầu.",
+      "start": 934.28,
+      "end": 941.24,
+      "n_words": 28,
+      "start_frame": 28028,
+      "end_frame": 28237,
+      "keyframes": [
+        "028035.webp",
+        "028036.webp",
+        "028053.webp",
+        "028071.webp",
+        "028072.webp",
+        "028095.webp",
+        "028118.webp",
+        "028119.webp",
+        "028147.webp",
+        "028175.webp",
+        "028176.webp",
+        "028204.webp",
+        "028232.webp",
+        "028233.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Trường hợp mất trộm tại cơ sở nuôi tôm của ông Mạnh Văn Nhỉ, ấp Cá Đôi Nhỏ A, xã Nguyễn Việt Khái, huyện Phú Tân, tỉnh Cà Mau là một điển hình.",
+      "start": 941.24,
+      "end": 949.4,
+      "n_words": 33,
+      "start_frame": 28237,
+      "end_frame": 28482,
+      "keyframes": [
+        "028332.webp",
+        "028431.webp",
+        "028432.webp",
+        "028463.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đến ngày 12/08/2024, lực lượng làm nhiệm vụ đồng loạt phá án, bắt giữ bảy đối tượng trộm cắp tài sản và hai đối tượng tiêu thụ tài sản do người khác phạm tội mà có.",
+      "start": 949.4,
+      "end": 960.28,
+      "n_words": 36,
+      "start_frame": 28482,
+      "end_frame": 28808,
+      "keyframes": [
+        "028495.webp",
+        "028496.webp",
+        "028525.webp",
+        "028555.webp",
+        "028556.webp",
+        "028584.webp",
+        "028612.webp",
+        "028613.webp",
+        "028637.webp",
+        "028661.webp",
+        "028662.webp",
+        "028695.webp",
+        "028729.webp",
+        "028730.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Nhóm này khai nhận đã thực hiện liên tiếp một vụ cướp tài sản và năm vụ trộm cắp tài sản.",
+      "start": 960.28,
+      "end": 965.68,
+      "n_words": 21,
+      "start_frame": 28808,
+      "end_frame": 28970,
+      "keyframes": [
+        "028851.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tiến hành khám xét, lực lượng làm nhiệm vụ thu giữ nhiều xe máy, hàng chục máy mô tơ, máy bơm nước, đồng thời thu giữ nhiều hung khí như dao mã tấu, súng bắn đạn chì cùng các tang vật khác có liên quan.",
+      "start": 965.68,
+      "end": 977.04,
+      "n_words": 45,
+      "start_frame": 28970,
+      "end_frame": 29311,
+      "keyframes": [
+        "028972.webp",
+        "028973.webp",
+        "029002.webp",
+        "029031.webp",
+        "029032.webp",
+        "029059.webp",
+        "029086.webp",
+        "029087.webp",
+        "029116.webp",
+        "029145.webp",
+        "029146.webp",
+        "029184.webp",
+        "029223.webp",
+        "029224.webp",
+        "029261.webp",
+        "029299.webp",
+        "029300.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Cơ quan điều tra tiếp tục khai thác mở rộng các vụ án có liên quan.",
+      "start": 977.04,
+      "end": 982.88,
+      "n_words": 16,
+      "start_frame": 29311,
+      "end_frame": 29486,
+      "keyframes": [
+        "029336.webp",
+        "029372.webp",
+        "029373.webp",
+        "029411.webp",
+        "029450.webp",
+        "029451.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Giả vờ mua vàng rồi cướp tài sản, thủ đoạn này khiến nhiều chủ tiệm vàng mất cảnh giác và để mất tài sản.",
+      "start": 982.88,
+      "end": 989.2,
+      "n_words": 24,
+      "start_frame": 29486,
+      "end_frame": 29676,
+      "keyframes": [
+        "029606.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trường hợp này vừa xảy ra tại Quận 12, Thành phố Hồ Chí Minh.",
+      "start": 989.2,
+      "end": 992.56,
+      "n_words": 14,
+      "start_frame": 29676,
+      "end_frame": 29777,
+      "keyframes": [
+        "029761.webp",
+        "029762.webp",
+        "029766.webp",
+        "029770.webp",
+        "029771.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Theo hình ảnh từ camera an ninh, sáng ngày 18 tháng 8, tại cửa hàng ở đường Nguyễn Ảnh Thủ, phường Hiệp Thành, một người phụ nữ chạy xe đến giả làm khách mua hàng.",
+      "start": 992.56,
+      "end": 1001.52,
+      "n_words": 35,
+      "start_frame": 29777,
+      "end_frame": 30046,
+      "keyframes": [
+        "029812.webp",
+        "029854.webp",
+        "029855.webp",
+        "029890.webp",
+        "029925.webp",
+        "029926.webp",
+        "029959.webp",
+        "029992.webp",
+        "029993.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Người này giả vờ đứng xem rồi nhanh tay giấu bộ vòng xi măng vào tay, sau đó nhanh chóng rời đi.",
+      "start": 1001.52,
+      "end": 1006.64,
+      "n_words": 22,
+      "start_frame": 30046,
+      "end_frame": 30199,
+      "keyframes": [
+        "030141.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đây là sự chủ quan của nhân viên cũng là bài học cho các tiệm cửa hàng khác cảnh giác.",
+      "start": 1006.64,
+      "end": 1014.4,
+      "n_words": 20,
+      "start_frame": 30199,
+      "end_frame": 30432,
+      "keyframes": [
+        "030289.webp",
+        "030290.webp",
+        "030329.webp",
+        "030369.webp",
+        "030370.webp",
+        "030388.webp",
+        "030407.webp",
+        "030408.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Vừa điều khiển xe ô tô trên đường vừa bật lửa châm pháo đốt rồi vứt xuống đường gây nguy hiểm cho người tham gia giao thông.",
+      "start": 1014.4,
+      "end": 1020.96,
+      "n_words": 27,
+      "start_frame": 30432,
+      "end_frame": 30629,
+      "keyframes": [
+        "030581.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Công an Thành phố Hồ Chí Minh đang xác minh danh tính tài xế nói trên.",
+      "start": 1020.96,
+      "end": 1025.64,
+      "n_words": 16,
+      "start_frame": 30629,
+      "end_frame": 30769,
+      "keyframes": [
+        "030755.webp",
+        "030756.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Theo nội dung đoạn clip, khi đang di chuyển trên đường, người điều khiển xe ô tô bỏ tay lái khỏi vô lăng lấy bật lửa châm pháo rồi vứt xuống đường.",
+      "start": 1025.64,
+      "end": 1033.68,
+      "n_words": 32,
+      "start_frame": 30769,
+      "end_frame": 31010,
+      "keyframes": [
+        "030964.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chỉ sau vài giây, một tiếng nổ lớn vang lên phía sau còn thanh niên này thản nhiên lái xe đi tiếp.",
+      "start": 1033.68,
+      "end": 1039.24,
+      "n_words": 22,
+      "start_frame": 31010,
+      "end_frame": 31177,
+      "keyframes": [
+        "031173.webp",
+        "031174.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Theo xác minh, thanh niên này di chuyển trên đường Tôn Đức Thắng, Quận 1, Thành phố Hồ Chí Minh, hướng ra cầu Khánh Hội, Quận 4.",
+      "start": 1039.24,
+      "end": 1045.0,
+      "n_words": 27,
+      "start_frame": 31177,
+      "end_frame": 31350,
+      "keyframes": [
+        "031291.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Sau khi clip đăng tải, rất nhiều người bức xúc với hành vi vô ý thức của thanh niên trong đoạn clip, đồng thời cho rằng đối tượng cần phải bị xử lý nghiêm bởi hành động trên rất nguy hiểm, có thể khiến người đi đường giật mình dẫn đến tai nạn giao thông.",
+      "start": 1045.68,
+      "end": 1058.28,
+      "n_words": 55,
+      "start_frame": 31370,
+      "end_frame": 31748,
+      "keyframes": [
+        "031409.webp",
+        "031410.webp",
+        "031499.webp",
+        "031588.webp",
+        "031589.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Công an Thành phố Hồ Chí Minh cho biết đơn vị đã nắm thông tin vụ việc và đang phối hợp với Công an Quận 1 xác minh xử lý theo quy định của pháp luật.",
+      "start": 1058.28,
+      "end": 1067.6,
+      "n_words": 36,
+      "start_frame": 31748,
+      "end_frame": 32028,
+      "keyframes": [
+        "031805.webp",
+        "032021.webp",
+        "032022.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hôm nay, Công an huyện Châu Thành, tỉnh Tiền Giang đang tiếp tục phối hợp với các đơn vị nghiệp vụ có liên quan để điều tra làm rõ nguyên nhân vụ tai nạn giữa hai xe máy làm hai người thương vong.",
+      "start": 1067.6,
+      "end": 1078.8,
+      "n_words": 43,
+      "start_frame": 32028,
+      "end_frame": 32364,
+      "keyframes": [
+        "032186.webp",
+        "032350.webp",
+        "032351.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Vụ tai nạn xảy ra vào khoảng 17:30 chiều qua trên đường tỉnh lộ 866 thuộc xã Tân Lý Tây, huyện Châu Thành.",
+      "start": 1078.8,
+      "end": 1086.24,
+      "n_words": 23,
+      "start_frame": 32364,
+      "end_frame": 32587,
+      "keyframes": [
+        "032387.webp",
+        "032423.webp",
+        "032424.webp",
+        "032464.webp",
+        "032505.webp",
+        "032506.webp",
+        "032556.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Người dân sống ven đường sau khi nghe tiếng va chạm mạnh và tiếng gầy lê của phương tiện dưới đường, nhiều người ra xem thì phát hiện người đàn ông hơn 50 tuổi đang nằm cạnh xe máy mang biển kiểm soát Thành phố Hồ Chí Minh.",
+      "start": 1086.24,
+      "end": 1097.8,
+      "n_words": 48,
+      "start_frame": 32587,
+      "end_frame": 32934,
+      "keyframes": [
+        "032606.webp",
+        "032607.webp",
+        "032655.webp",
+        "032703.webp",
+        "032704.webp",
+        "032749.webp",
+        "032795.webp",
+        "032796.webp",
+        "032854.webp",
+        "032912.webp",
+        "032913.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Bên phần đường theo hướng ngược lại có hai nam thanh niên đều cùng khoảng 19 tuổi đang nằm cạnh chiếc xe máy mang biển kiểm soát tỉnh Tiền Giang.",
+      "start": 1097.8,
+      "end": 1105.36,
+      "n_words": 30,
+      "start_frame": 32934,
+      "end_frame": 33161,
+      "keyframes": [
+        "032982.webp",
+        "033051.webp",
+        "033052.webp",
+        "033120.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Sau tai nạn, người đàn ông và một nam thanh niên được đưa đến bệnh viện để cấp cứu, người còn lại chỉ bị xây xát nhẹ.",
+      "start": 1105.36,
+      "end": 1111.4,
+      "n_words": 27,
+      "start_frame": 33161,
+      "end_frame": 33342,
+      "keyframes": [
+        "033188.webp",
+        "033189.webp",
+        "033247.webp",
+        "033305.webp",
+        "033306.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Tuy nhiên đến rạng sáng Luật Trật tự an toàn giao thông đường bộ 2024 có hiệu lực từ 01/01/2025, cho phép bốn trường hợp người lái xe mô tô hai bánh, xe gắn máy được chở hai người mà không bị phạt.",
+      "start": 1111.4,
+      "end": 1127.4,
+      "n_words": 43,
+      "start_frame": 33342,
+      "end_frame": 33822,
+      "keyframes": [
+        "033353.webp",
+        "033400.webp",
+        "033401.webp",
+        "033430.webp",
+        "033460.webp",
+        "033461.webp",
+        "033647.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cụ thể, khoản 1 điều 33 điều chỉnh độ tuổi của trẻ em mà tài xế được cho phép chở từ 14 xuống 12.",
+      "start": 1127.4,
+      "end": 1135.8,
+      "n_words": 24,
+      "start_frame": 33822,
+      "end_frame": 34074,
+      "keyframes": [
+        "033833.webp",
+        "033834.webp",
+        "033885.webp",
+        "033937.webp",
+        "033938.webp",
+        "033967.webp",
+        "033997.webp",
+        "033998.webp",
+        "034040.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Luật mới cũng bổ sung một trường hợp xe mô tô hai bánh và xe gắn máy chở ba người mà không bị phạt đó là người già yếu hoặc người khuyết tật.",
+      "start": 1136.2,
+      "end": 1144.64,
+      "n_words": 33,
+      "start_frame": 34086,
+      "end_frame": 34339,
+      "keyframes": [
+        "034124.webp",
+        "034166.webp",
+        "034167.webp",
+        "034200.webp",
+        "034234.webp",
+        "034235.webp",
+        "034270.webp",
+        "034306.webp",
+        "034307.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Như vậy, sắp tới tài xế xe mô tô hai bánh, xe gắn máy được chở ba người trong bốn trường hợp sau: chở người bệnh đi cấp cứu, áp giải người có hành vi vi phạm pháp luật, trẻ em dưới 12 tuổi, người già yếu hoặc người khuyết tật.",
+      "start": 1144.64,
+      "end": 1160.32,
+      "n_words": 51,
+      "start_frame": 34339,
+      "end_frame": 34810,
+      "keyframes": [
+        "034343.webp",
+        "034379.webp",
+        "034380.webp",
+        "034416.webp",
+        "034453.webp",
+        "034454.webp",
+        "034496.webp",
+        "034538.webp",
+        "034539.webp",
+        "034571.webp",
+        "034604.webp",
+        "034605.webp",
+        "034662.webp",
+        "034719.webp",
+        "034720.webp",
+        "034754.webp",
+        "034789.webp",
+        "034790.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Tại giải đua xe đạp La Vuelta, tay đua người Mỹ giành chiến thắng chặng 3 để tiếp tục dẫn đầu bảng tổng sắp.",
+      "start": 1160.32,
+      "end": 1167.24,
+      "n_words": 24,
+      "start_frame": 34810,
+      "end_frame": 35017,
+      "keyframes": [
+        "034823.webp",
+        "034857.webp",
+        "034858.webp",
+        "034930.webp",
+        "035003.webp",
+        "035004.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chặng 3 dài 191.2 km từ Lusa đến Casternco là chặng đua cuối cùng tại Bồ Đào Nha.",
+      "start": 1167.24,
+      "end": 1175.76,
+      "n_words": 18,
+      "start_frame": 35017,
+      "end_frame": 35273,
+      "keyframes": [
+        "035071.webp",
+        "035138.webp",
+        "035139.webp",
+        "035192.webp",
+        "035245.webp",
+        "035255.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bốn tay đua tách top bao gồm Uni, Iraba và Ivos của đội Kenfac ma cùng Safet Isa và Luis Angel Manse của đội Is.",
+      "start": 1175.76,
+      "end": 1186.16,
+      "n_words": 25,
+      "start_frame": 35273,
+      "end_frame": 35585,
+      "keyframes": [
+        "035298.webp",
+        "035342.webp",
+        "035343.webp",
+        "035376.webp",
+        "035409.webp",
+        "035410.webp",
+        "035471.webp",
+        "035533.webp",
+        "035534.webp",
+        "035572.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Họ tạo khoảng cách với nhóm chính có lúc lên tới hơn năm phút.",
+      "start": 1186.16,
+      "end": 1189.52,
+      "n_words": 14,
+      "start_frame": 35585,
+      "end_frame": 35686,
+      "keyframes": [
+        "035611.webp",
+        "035612.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tuy nhiên, họ dần tụt lại.",
+      "start": 1189.52,
+      "end": 1191.28,
+      "n_words": 6,
+      "start_frame": 35686,
+      "end_frame": 35738,
+      "keyframes": [
+        "035697.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Isasa là người cuối cùng bị nhóm chính bắt kịp khi còn cách đích khoảng 20 km.",
+      "start": 1191.28,
+      "end": 1195.04,
+      "n_words": 17,
+      "start_frame": 35738,
+      "end_frame": 35851,
+      "keyframes": [
+        "035783.webp",
+        "035784.webp",
+        "035809.webp",
+        "035834.webp",
+        "035835.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đến 250 mét cuối cùng, Fun đã nước rút qua mặt Caden Kovest để cán đích đầu tiên với thành tích 4:40:42.",
+      "start": 1195.92,
+      "end": 1202.8,
+      "n_words": 22,
+      "start_frame": 35878,
+      "end_frame": 36084,
+      "keyframes": [
+        "035943.webp",
+        "036052.webp",
+        "036053.webp",
+        "036078.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Provest về thứ nhì, còn John Amber Satori về thứ ba.",
+      "start": 1205.04,
+      "end": 1208.64,
+      "n_words": 11,
+      "start_frame": 36151,
+      "end_frame": 36259,
+      "keyframes": [
+        "036207.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trên bảng tổng sắp, Vanf đang dẫn đầu với cách biệt 13 giây so với Brandon Macuji.",
+      "start": 1208.64,
+      "end": 1214.24,
+      "n_words": 17,
+      "start_frame": 36259,
+      "end_frame": 36427,
+      "keyframes": [
+        "036311.webp",
+        "036312.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Hôm nay, giải sẽ đến Tây Ban Nha với chặng 4 là chặng leo núi dài 170.5 km.",
+      "start": 1214.24,
+      "end": 1223.52,
+      "n_words": 18,
+      "start_frame": 36427,
+      "end_frame": 36706,
+      "keyframes": [
+        "036441.webp",
+        "036571.webp",
+        "036572.webp",
+        "036623.webp",
+        "036675.webp",
+        "036676.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Ban tổ chức Paralympic Paris đang hoàn tất những bước chuẩn bị cuối cùng để đón 4.400 vận động viên dự thi Vận hội dành cho người khuyết tật vào cuối tháng tám này.",
+      "start": 1223.52,
+      "end": 1232.08,
+      "n_words": 34,
+      "start_frame": 36706,
+      "end_frame": 36962,
+      "keyframes": [
+        "036763.webp",
+        "036850.webp",
+        "036851.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ngôi làng ở Saint-Denis đã được thiết kế lại để phù hợp với nhu cầu của các vận động viên.",
+      "start": 1232.08,
+      "end": 1238.44,
+      "n_words": 20,
+      "start_frame": 36962,
+      "end_frame": 37153,
+      "keyframes": [
+        "036992.webp",
+        "037133.webp",
+        "037134.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nhiều xe đẩy đã được chuẩn bị để giúp các vận động viên dễ dàng di chuyển.",
+      "start": 1238.44,
+      "end": 1242.48,
+      "n_words": 17,
+      "start_frame": 37153,
+      "end_frame": 37274,
+      "keyframes": [
+        "037199.webp",
+        "037265.webp",
+        "037266.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các căn hộ có giường và phòng tắm phù hợp cho người khuyết tật.",
+      "start": 1242.48,
+      "end": 1246.56,
+      "n_words": 14,
+      "start_frame": 37274,
+      "end_frame": 37397,
+      "keyframes": [
+        "037308.webp",
+        "037351.webp",
+        "037352.webp",
+        "037380.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Mọi thứ đã được lên kế hoạch kỹ lưỡng đến từng chi tiết nhỏ nhất tạo sự thuận lợi và thoải mái, chẳng hạn như các bề mặt trong căn hộ được làm phẳng, vận động viên đi xe lăn hoặc bàn chân giả sẽ có thể dễ dàng di chuyển ra ban công.",
+      "start": 1246.56,
+      "end": 1260.08,
+      "n_words": 54,
+      "start_frame": 37397,
+      "end_frame": 37802,
+      "keyframes": [
+        "037409.webp",
+        "037410.webp",
+        "037480.webp",
+        "037550.webp",
+        "037551.webp",
+        "037584.webp",
+        "037617.webp",
+        "037618.webp",
+        "037645.webp",
+        "037673.webp",
+        "037674.webp",
+        "037702.webp",
+        "037731.webp",
+        "037732.webp",
+        "037765.webp",
+        "037798.webp",
+        "037799.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Ngoài ra, tại làng Paralympic cũng có một trung tâm sửa chân tay giả, chỉnh hình và xe lăn.",
+      "start": 1262.16,
+      "end": 1268.48,
+      "n_words": 19,
+      "start_frame": 37865,
+      "end_frame": 38054,
+      "keyframes": [
+        "037893.webp",
+        "037934.webp",
+        "037935.webp",
+        "037977.webp",
+        "038020.webp",
+        "038021.webp",
+        "038054.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Hiện nay, tất cả các căn hộ đã được kiểm tra và sẵn sàng cho các vận động viên.",
+      "start": 1268.48,
+      "end": 1272.96,
+      "n_words": 19,
+      "start_frame": 38054,
+      "end_frame": 38189,
+      "keyframes": [
+        "038054.webp",
+        "038087.webp",
+        "038088.webp",
+        "038156.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng tôi hy vọng các vận động viên sẽ hài lòng với sự chào đón và chất lượng của các căn hộ.",
+      "start": 1272.96,
+      "end": 1277.16,
+      "n_words": 22,
+      "start_frame": 38189,
+      "end_frame": 38315,
+      "keyframes": [
+        "038225.webp",
+        "038226.webp",
+        "038294.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Paralympic Paris 2024 sẽ diễn ra từ ngày 29 tháng tám đến ngày tám tháng chín. Chương trình 60 giây hôm nay của chúng tôi đến đây là hết.",
+      "start": 1277.16,
+      "end": 1288.72,
+      "n_words": 29,
+      "start_frame": 38315,
+      "end_frame": 38662,
+      "keyframes": [
+        "038362.webp",
+        "038363.webp",
+        "038433.webp",
+        "038504.webp",
+        "038505.webp",
+        "038535.webp",
+        "038565.webp",
+        "038566.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Cảm ơn quý vị đã quan tâm theo dõi, hẹn gặp lại quý vị trong chương trình 60 giây sáng mai. Xin kính chào tạm biệt.",
+      "start": 1288.72,
+      "end": 1293.8,
+      "n_words": 26,
+      "start_frame": 38662,
+      "end_frame": 38814,
+      "keyframes": [
+        "038709.webp"
+      ],
+      "keyframe_count": 1
+    }
+  ]
+}

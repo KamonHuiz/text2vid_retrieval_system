@@ -1,0 +1,2101 @@
+{
+  "video_id": "L21_V021",
+  "fps": 30.0,
+  "n_sentences": 119,
+  "total_words": 3561,
+  "sentences": [
+    {
+      "text": "Thưa xin chào quý vị, đây là chương trình 60 giây sáng của Đài Truyền hình Thành phố Hồ Chí Minh.",
+      "start": 0.04,
+      "end": 9.84,
+      "n_words": 21,
+      "start_frame": 1,
+      "end_frame": 295,
+      "keyframes": [
+        "000004.webp",
+        "000009.webp",
+        "000085.webp",
+        "000243.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chương trình hôm nay sẽ có những nội dung đáng chú ý sau đây: Ngành thuế sẽ rà soát 100% người bán hàng livestream; Cơn mưa lớn giữa trời nắng gắt khiến Thành phố Cà Mau ngập cục bộ; Cánh đồng hoa hướng dương rực rỡ tại Nội Mông, Trung Quốc.",
+      "start": 9.84,
+      "end": 33.48,
+      "n_words": 51,
+      "start_frame": 295,
+      "end_frame": 1004,
+      "keyframes": [
+        "000402.webp",
+        "000403.webp",
+        "000434.webp",
+        "000465.webp",
+        "000466.webp",
+        "000489.webp",
+        "000513.webp",
+        "000514.webp",
+        "000538.webp",
+        "000563.webp",
+        "000564.webp",
+        "000590.webp",
+        "000617.webp",
+        "000618.webp",
+        "000641.webp",
+        "000665.webp",
+        "000666.webp",
+        "000690.webp",
+        "000714.webp",
+        "000715.webp",
+        "000740.webp",
+        "000766.webp",
+        "000767.webp",
+        "000778.webp",
+        "000789.webp",
+        "000790.webp",
+        "000804.webp",
+        "000819.webp",
+        "000820.webp",
+        "000834.webp",
+        "000848.webp",
+        "000849.webp",
+        "000861.webp",
+        "000874.webp",
+        "000875.webp",
+        "000885.webp",
+        "000896.webp",
+        "000897.webp",
+        "000905.webp",
+        "000914.webp",
+        "000915.webp",
+        "000945.webp",
+        "000976.webp",
+        "000977.webp"
+      ],
+      "keyframe_count": 44
+    },
+    {
+      "text": "Thưa quý vị, sầu riêng chỉ 30 ngàn đồng một trái, mức giá này dĩ nhiên thu hút nhiều người ghé lại các điểm bán hàng sầu riêng trên vỉa hè ở một số tuyến đường Thành phố Hồ Chí Minh.",
+      "start": 33.48,
+      "end": 42.52,
+      "n_words": 41,
+      "start_frame": 1004,
+      "end_frame": 1276,
+      "keyframes": [
+        "001223.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Sầu riêng vốn là trái cây khá đắt tiền nhưng lần này giá lại thấp bất ngờ và thu hút khá nhiều người dừng xe.",
+      "start": 42.52,
+      "end": 50.12,
+      "n_words": 25,
+      "start_frame": 1276,
+      "end_frame": 1504,
+      "keyframes": [
+        "001469.webp",
+        "001470.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bảng quảng cáo sầu riêng \"30 ca một trái bao ăn\" tại một điểm bán trên đường Nguyễn Hữu Cầu, quận Bình Thạnh khiến nhiều người dừng lại nếm thử tại chỗ và cho biết sầu riêng ngọt thơm, nhưng hột to, cơm mỏng.",
+      "start": 50.12,
+      "end": 62.08,
+      "n_words": 44,
+      "start_frame": 1504,
+      "end_frame": 1862,
+      "keyframes": [
+        "001676.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Những trái sầu riêng này đa phần nặng khoảng một ký, nhìn không bắt mắt, đôi khi bị nứt vỏ, để lâu ảnh hưởng đến chất lượng cơm sầu riêng.",
+      "start": 62.08,
+      "end": 70.0,
+      "n_words": 30,
+      "start_frame": 1862,
+      "end_frame": 2100,
+      "keyframes": [
+        "001882.webp",
+        "001883.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Trong khi đó, giá sầu riêng hiện nay trung bình khoảng 50 ngàn đồng một ký, giảm nhiều so với những tháng trước.",
+      "start": 70.0,
+      "end": 75.8,
+      "n_words": 23,
+      "start_frame": 2100,
+      "end_frame": 2274,
+      "keyframes": [
+        "002144.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Một chủ vườn sầu riêng ở Quận 6 cho biết giá sầu riêng hiện nay giảm sâu là do các tỉnh Tây Nguyên vào mùa thu hoạch rộ, sầu riêng nhiều nhất là tỉnh Đắk Lắk với khoảng 33.000 ha, nguồn cung quá lớn dẫn đến giá bán sầu riêng sụt giảm.",
+      "start": 75.8,
+      "end": 91.04,
+      "n_words": 52,
+      "start_frame": 2274,
+      "end_frame": 2731,
+      "keyframes": [
+        "002406.webp",
+        "002407.webp",
+        "002557.webp",
+        "002708.webp",
+        "002709.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Tổng cục Thuế vừa có văn bản yêu cầu cơ quan thuế địa phương rà soát thống kê toàn bộ các tổ chức, cá nhân bán hàng livestream trên địa bàn quản lý.",
+      "start": 91.04,
+      "end": 98.96,
+      "n_words": 33,
+      "start_frame": 2731,
+      "end_frame": 2969,
+      "keyframes": [
+        "002872.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Theo đó, Tổng cục Thuế yêu cầu rà soát toàn bộ tổ chức, cá nhân livestream bán hàng ở các nền tảng như YouTube, Facebook, TikTok; Từ đó cơ quan thuế sẽ thanh kiểm tra lại tại trụ sở người nộp thuế.",
+      "start": 98.96,
+      "end": 110.08,
+      "n_words": 42,
+      "start_frame": 2969,
+      "end_frame": 3302,
+      "keyframes": [
+        "003035.webp",
+        "003036.webp",
+        "003091.webp",
+        "003146.webp",
+        "003147.webp",
+        "003201.webp",
+        "003255.webp",
+        "003256.webp",
+        "003292.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Với các trường hợp có dấu hiệu rủi ro, chuyển hồ sơ sang cơ quan công an xử lý nếu có dấu hiệu cố tình vi phạm pháp luật về thuế.",
+      "start": 110.08,
+      "end": 116.96,
+      "n_words": 31,
+      "start_frame": 3302,
+      "end_frame": 3509,
+      "keyframes": [
+        "003329.webp",
+        "003330.webp",
+        "003364.webp",
+        "003398.webp",
+        "003399.webp",
+        "003438.webp",
+        "003478.webp",
+        "003479.webp",
+        "003499.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cục Thuế các địa phương cũng được yêu cầu phối hợp với nhau nếu cơ quan thuế tại địa phương khác đề nghị rà soát tổ chức, cá nhân có thu nhập cao qua bán hàng livestream.",
+      "start": 116.96,
+      "end": 128.32,
+      "n_words": 37,
+      "start_frame": 3509,
+      "end_frame": 3850,
+      "keyframes": [
+        "003520.webp",
+        "003521.webp",
+        "003562.webp",
+        "003604.webp",
+        "003605.webp",
+        "003647.webp",
+        "003690.webp",
+        "003691.webp",
+        "003750.webp",
+        "003810.webp",
+        "003811.webp",
+        "003819.webp",
+        "003828.webp",
+        "003829.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Phòng Quản lý Đô thị Thành phố Mỹ Tho, tỉnh Tiền Giang cho biết cơn mưa lớn kèm gió giật mạnh xảy ra vào chiều 20 tháng 8 khiến một cây dầu rái cao hàng chục mét nằm trên đường Đốc Bình Kiều bật gốc và đè một ô tô đang đậu dưới lòng đường.",
+      "start": 128.32,
+      "end": 143.28,
+      "n_words": 55,
+      "start_frame": 3850,
+      "end_frame": 4298,
+      "keyframes": [
+        "004044.webp",
+        "004260.webp",
+        "004261.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Theo người dân xung quanh, vào khoảng 16:30 cùng ngày, trên địa bàn Thành phố Mỹ Tho, tỉnh Tiền Giang xuất hiện mưa lớn kèm gió giật mạnh.",
+      "start": 143.28,
+      "end": 151.36,
+      "n_words": 28,
+      "start_frame": 4298,
+      "end_frame": 4541,
+      "keyframes": [
+        "004391.webp",
+        "004522.webp",
+        "004523.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mưa gió đã làm một cây dầu rái cao hàng chục mét nhiều năm tuổi nằm trên đường Đốc Bình Kiều thuộc phường 3, Thành phố Mỹ Tho bị bật gốc đè lên một ô tô của người dân.",
+      "start": 151.36,
+      "end": 161.32,
+      "n_words": 39,
+      "start_frame": 4541,
+      "end_frame": 4840,
+      "keyframes": [
+        "004559.webp",
+        "004596.webp",
+        "004597.webp",
+        "004629.webp",
+        "004661.webp",
+        "004662.webp",
+        "004706.webp",
+        "004751.webp",
+        "004752.webp",
+        "004789.webp",
+        "004826.webp",
+        "004827.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Vào thời điểm trên, chiếc ô tô đang đậu và tuyến đường không có người qua lại nên không có ai bị thương.",
+      "start": 161.32,
+      "end": 167.0,
+      "n_words": 23,
+      "start_frame": 4840,
+      "end_frame": 5010,
+      "keyframes": [
+        "004895.webp",
+        "004964.webp",
+        "004965.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Vụ việc khiến ô tô bị móp phần thân, riêng cây xanh nằm chắn gần hết đường Đốc Bình Kiều.",
+      "start": 167.0,
+      "end": 172.72,
+      "n_words": 20,
+      "start_frame": 5010,
+      "end_frame": 5182,
+      "keyframes": [
+        "005029.webp",
+        "005094.webp",
+        "005095.webp",
+        "005136.webp",
+        "005177.webp",
+        "005178.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Ngoài ra, cơn mưa lớn cũng làm một cây xoài hơn chục năm tuổi ngã bật gốc xuống khuôn viên của Công ty Điện lực tỉnh Tiền Giang.",
+      "start": 172.72,
+      "end": 179.68,
+      "n_words": 28,
+      "start_frame": 5182,
+      "end_frame": 5390,
+      "keyframes": [
+        "005228.webp",
+        "005279.webp",
+        "005280.webp",
+        "005389.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Nhận tin báo, lực lượng chức năng đã đến hiện trường dọn dẹp cây xanh bị ngã.",
+      "start": 179.68,
+      "end": 184.0,
+      "n_words": 17,
+      "start_frame": 5390,
+      "end_frame": 5520,
+      "keyframes": [
+        "005499.webp",
+        "005500.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đến 18:00 chiều qua, giao thông qua khu vực này đã trở lại bình thường.",
+      "start": 184.0,
+      "end": 194.0,
+      "n_words": 15,
+      "start_frame": 5520,
+      "end_frame": 5820,
+      "keyframes": [
+        "005527.webp",
+        "005555.webp",
+        "005556.webp",
+        "005579.webp",
+        "005602.webp",
+        "005603.webp",
+        "005649.webp",
+        "005696.webp",
+        "005697.webp",
+        "005745.webp",
+        "005793.webp",
+        "005794.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Đầu giờ chiều qua, cơn mưa như trút nước đổ xuống Thành phố Cà Mau, chỉ trong 1 giờ nhiều tuyến đường ngập sâu, kẹt xe cục bộ.",
+      "start": 194.0,
+      "end": 201.68,
+      "n_words": 28,
+      "start_frame": 5820,
+      "end_frame": 6050,
+      "keyframes": [
+        "005865.webp",
+        "005937.webp",
+        "005938.webp",
+        "006009.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đây là cơn mưa lạ, vào lúc trưa nắng gay gắt, đến gần 14:00 mới xuất hiện mưa không có gió nhưng lượng mưa rất lớn như trút nước.",
+      "start": 201.68,
+      "end": 209.92,
+      "n_words": 29,
+      "start_frame": 6050,
+      "end_frame": 6298,
+      "keyframes": [
+        "006081.webp",
+        "006082.webp",
+        "006135.webp",
+        "006189.webp",
+        "006190.webp",
+        "006298.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đến 15:00, cơn mưa bất chợt ngưng hẳn và nắng xuất hiện nhanh chóng.",
+      "start": 209.92,
+      "end": 214.28,
+      "n_words": 14,
+      "start_frame": 6298,
+      "end_frame": 6428,
+      "keyframes": [
+        "006298.webp",
+        "006406.webp",
+        "006407.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đến khoảng 16:00, cảnh sát giao thông đã phải xuống đường lội nước để điều tiết giao thông tại một số điểm ngập sâu như nút giao thông đèn đỏ ngã tư Phan Ngọc Hiển - Hùng Vương, phường 5, Thành phố Cà Mau; Khu vực tượng đài Cà Mau gần tòa nhà Ủy ban nhân dân tỉnh Cà Mau; Giao lộ Hùng Vương - Lý Thường Kiệt cũng ùn tắc cục bộ, di chuyển rất chậm.",
+      "start": 214.28,
+      "end": 234.04,
+      "n_words": 77,
+      "start_frame": 6428,
+      "end_frame": 7021,
+      "keyframes": [
+        "006516.webp",
+        "006626.webp",
+        "006627.webp",
+        "006664.webp",
+        "006701.webp",
+        "006702.webp",
+        "006737.webp",
+        "006772.webp",
+        "006773.webp",
+        "006893.webp",
+        "007014.webp",
+        "007015.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Tính đến 16:00 ngày 19 tháng 8, toàn tỉnh Lâm Đồng đã có 6.439 con bò bị bệnh tiêu chảy do tiêm vaccine viêm da nổi cục, trong đó đã có 348 con bị chết.",
+      "start": 234.04,
+      "end": 245.6,
+      "n_words": 35,
+      "start_frame": 7021,
+      "end_frame": 7368,
+      "keyframes": [
+        "007278.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ủy ban nhân dân tỉnh Lâm Đồng vừa quyết định thành lập tổ công tác hỗ trợ bồi thường thiệt hại cho người dân.",
+      "start": 245.6,
+      "end": 252.52,
+      "n_words": 24,
+      "start_frame": 7368,
+      "end_frame": 7576,
+      "keyframes": [
+        "007542.webp",
+        "007543.webp",
+        "007566.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tổ công tác có trách nhiệm thống kê, tính toán xây dựng dự thảo phương án bồi thường hỗ trợ thiệt hại cho người dân, đồng thời phối hợp với Công ty Cổ phần Thuốc thú y Trung ương Navet triển khai công tác bồi thường hỗ trợ thiệt hại trên đàn bò phát hiện bệnh sau khi tiêm vaccine da nổi cục.",
+      "start": 252.52,
+      "end": 268.04,
+      "n_words": 63,
+      "start_frame": 7576,
+      "end_frame": 8041,
+      "keyframes": [
+        "007589.webp",
+        "007590.webp",
+        "007624.webp",
+        "007658.webp",
+        "007659.webp",
+        "007672.webp",
+        "007685.webp",
+        "007686.webp",
+        "007712.webp",
+        "007739.webp",
+        "007740.webp",
+        "007782.webp",
+        "007824.webp",
+        "007825.webp",
+        "007862.webp",
+        "007900.webp",
+        "007901.webp",
+        "007947.webp",
+        "007994.webp",
+        "007995.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Lãnh đạo tỉnh cũng yêu cầu làm rõ quy trình đấu thầu, quá trình giao nhận và bảo quản vaccine, khẩn trương nghiên cứu các quy định chính sách để xây dựng kế hoạch phương án bồi thường hỗ trợ cho người dân bị thiệt hại theo đúng quy định của pháp luật. Dịch sâu róm xuất hiện tại huyện Nghi Lộc, Nghệ An từ giữa tháng 7 gây thiệt hại khá lớn cho các rừng thông trên địa bàn.",
+      "start": 269.8,
+      "end": 290.2,
+      "n_words": 80,
+      "start_frame": 8094,
+      "end_frame": 8706,
+      "keyframes": [
+        "008120.webp",
+        "008148.webp",
+        "008149.webp",
+        "008165.webp",
+        "008182.webp",
+        "008183.webp",
+        "008222.webp",
+        "008262.webp",
+        "008263.webp",
+        "008285.webp",
+        "008308.webp",
+        "008309.webp",
+        "008333.webp",
+        "008357.webp",
+        "008358.webp",
+        "008428.webp",
+        "008499.webp",
+        "008500.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Chi cục Trồng trọt và Bảo vệ Thực vật tỉnh Nghệ An cho biết sau khi áp dụng nhiều biện pháp diệt trừ, dự kiến cuối tháng 8 này dịch sâu róm sẽ không còn.",
+      "start": 290.2,
+      "end": 299.76,
+      "n_words": 35,
+      "start_frame": 8706,
+      "end_frame": 8993,
+      "keyframes": [
+        "008722.webp",
+        "008945.webp",
+        "008946.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Vòng đời sâu róm khoảng 50 ngày, hiện đã đến thế hệ thứ 3 đang tập trung làm kén nên khả năng phát triển thêm đã giảm.",
+      "start": 299.76,
+      "end": 307.28,
+      "n_words": 27,
+      "start_frame": 8993,
+      "end_frame": 9218,
+      "keyframes": [
+        "009025.webp",
+        "009105.webp",
+        "009106.webp",
+        "009134.webp",
+        "009162.webp",
+        "009163.webp",
+        "009196.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Ban quản lý Rừng phòng hộ huyện Nghi Lộc, Nghệ An cho biết đơn vị đã đặt 127 đèn chiếu sáng nhằm dẫn dụ tiêu diệt sâu róm trưởng thành, giảm trứng và sâu non.",
+      "start": 307.28,
+      "end": 317.72,
+      "n_words": 35,
+      "start_frame": 9218,
+      "end_frame": 9532,
+      "keyframes": [
+        "009230.webp",
+        "009231.webp",
+        "009268.webp",
+        "009305.webp",
+        "009306.webp",
+        "009337.webp",
+        "009369.webp",
+        "009370.webp",
+        "009393.webp",
+        "009416.webp",
+        "009417.webp",
+        "009480.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Đơn vị cũng phối hợp với các hộ nhận khoán bảo vệ rừng phun thuốc bột sinh học trên những diện tích có sâu.",
+      "start": 317.72,
+      "end": 323.76,
+      "n_words": 24,
+      "start_frame": 9532,
+      "end_frame": 9713,
+      "keyframes": [
+        "009543.webp",
+        "009544.webp",
+        "009582.webp",
+        "009620.webp",
+        "009621.webp",
+        "009645.webp",
+        "009669.webp",
+        "009670.webp",
+        "009696.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đơn vị cũng đề nghị xem xét việc bố trí drone phun thuốc để đạt hiệu quả cao hơn.",
+      "start": 323.76,
+      "end": 329.16,
+      "n_words": 19,
+      "start_frame": 9713,
+      "end_frame": 9875,
+      "keyframes": [
+        "009723.webp",
+        "009724.webp",
+        "009748.webp",
+        "009773.webp",
+        "009774.webp",
+        "009803.webp",
+        "009832.webp",
+        "009833.webp",
+        "009861.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Dùng thiên địch là các loài ong mắt đỏ, bọ ngựa, bọ xít, chim để diệt sâu róm.",
+      "start": 329.16,
+      "end": 334.6,
+      "n_words": 18,
+      "start_frame": 9875,
+      "end_frame": 10038,
+      "keyframes": [
+        "009890.webp",
+        "009891.webp",
+        "009919.webp",
+        "009948.webp",
+        "009949.webp",
+        "009981.webp",
+        "010013.webp",
+        "010014.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Đến nay, 300 ha rừng thông ở nhiều xã ở Nghệ An bị sâu ăn trụi lá.",
+      "start": 334.6,
+      "end": 339.68,
+      "n_words": 17,
+      "start_frame": 10038,
+      "end_frame": 10190,
+      "keyframes": [
+        "010046.webp",
+        "010078.webp",
+        "010079.webp",
+        "010099.webp",
+        "010119.webp",
+        "010120.webp",
+        "010125.webp",
+        "010130.webp",
+        "010131.webp",
+        "010173.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Vừa qua trời nhiều sương mù, nắng mưa bất thường, độ ẩm cao tạo điều kiện cho sâu róm sinh trưởng mạnh.",
+      "start": 339.68,
+      "end": 347.56,
+      "n_words": 22,
+      "start_frame": 10190,
+      "end_frame": 10427,
+      "keyframes": [
+        "010215.webp",
+        "010216.webp",
+        "010239.webp",
+        "010262.webp",
+        "010263.webp",
+        "010285.webp",
+        "010308.webp",
+        "010309.webp",
+        "010319.webp",
+        "010330.webp",
+        "010331.webp",
+        "010344.webp",
+        "010358.webp",
+        "010359.webp",
+        "010379.webp",
+        "010400.webp",
+        "010401.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Thúng chai hay còn gọi là thuyền thúng được ngư dân Phú Yên dùng để đi câu mực hay chở khách du lịch, tạo nên một trong những nét đặc trưng của vùng biển này.",
+      "start": 347.56,
+      "end": 355.04,
+      "n_words": 35,
+      "start_frame": 10427,
+      "end_frame": 10651,
+      "keyframes": [
+        "010510.webp",
+        "010620.webp",
+        "010621.webp",
+        "010648.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Làng nghề thúng chai Phú Mỹ ở xã An Dân, huyện Tuy An cho đến nay vẫn còn giữ cách làm truyền thống từ vật liệu cho đến các công đoạn chế tạo.",
+      "start": 355.04,
+      "end": 364.8,
+      "n_words": 33,
+      "start_frame": 10651,
+      "end_frame": 10944,
+      "keyframes": [
+        "010676.webp",
+        "010677.webp",
+        "010706.webp",
+        "010736.webp",
+        "010737.webp",
+        "010824.webp",
+        "010912.webp",
+        "010913.webp",
+        "010942.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Làng nghề thúng chai Phú Mỹ đã trải qua hàng chục năm phát triển nhưng hiện chỉ còn lại vài hộ bám trụ với nghề.",
+      "start": 364.8,
+      "end": 371.68,
+      "n_words": 25,
+      "start_frame": 10944,
+      "end_frame": 11150,
+      "keyframes": [
+        "010972.webp",
+        "010973.webp",
+        "011014.webp",
+        "011055.webp",
+        "011056.webp",
+        "011101.webp",
+        "011146.webp",
+        "011147.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Ông Trương Văn Trung, chủ một cơ sở sản xuất cho hay để làm ra một chiếc thúng chai đẹp phải chọn loại tre mỡ, sau đó chẻ nhỏ ra đem phơi bốn đến năm nắng mới đan thúng.",
+      "start": 371.68,
+      "end": 382.4,
+      "n_words": 39,
+      "start_frame": 11150,
+      "end_frame": 11472,
+      "keyframes": [
+        "011194.webp",
+        "011241.webp",
+        "011242.webp",
+        "011291.webp",
+        "011340.webp",
+        "011341.webp",
+        "011366.webp",
+        "011392.webp",
+        "011393.webp",
+        "011406.webp",
+        "011420.webp",
+        "011421.webp",
+        "011454.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Khâu then chốt là làm phần đáy thúng, tiếp đến là công đoạn lận vành.",
+      "start": 382.4,
+      "end": 387.24,
+      "n_words": 15,
+      "start_frame": 11472,
+      "end_frame": 11617,
+      "keyframes": [
+        "011488.webp",
+        "011489.webp",
+        "011507.webp",
+        "011526.webp",
+        "011527.webp",
+        "011553.webp",
+        "011580.webp",
+        "011581.webp",
+        "011599.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Người thợ sẽ đào hầm đất làm khuôn rồi đặt nguyên tấm mê thúng đã đan xong xuống hầm, sau đó người ta lăn chiếc thúng ra ngoài phơi nắng rồi đổ phân bò tươi lên mặt thúng nhằm bịt kín các kẽ hở của nan tre.",
+      "start": 387.24,
+      "end": 399.92,
+      "n_words": 47,
+      "start_frame": 11617,
+      "end_frame": 11998,
+      "keyframes": [
+        "011618.webp",
+        "011619.webp",
+        "011640.webp",
+        "011662.webp",
+        "011663.webp",
+        "011680.webp",
+        "011698.webp",
+        "011699.webp",
+        "011715.webp",
+        "011732.webp",
+        "011733.webp",
+        "011752.webp",
+        "011772.webp",
+        "011773.webp",
+        "011796.webp",
+        "011819.webp",
+        "011820.webp",
+        "011843.webp",
+        "011866.webp",
+        "011867.webp",
+        "011900.webp",
+        "011934.webp",
+        "011935.webp",
+        "011981.webp"
+      ],
+      "keyframe_count": 24
+    },
+    {
+      "text": "Đợi phân bò khô, dùng nhựa dầu rái quét thêm hai lớp.",
+      "start": 399.92,
+      "end": 403.84,
+      "n_words": 12,
+      "start_frame": 11998,
+      "end_frame": 12115,
+      "keyframes": [
+        "012027.webp",
+        "012028.webp",
+        "012066.webp",
+        "012105.webp",
+        "012106.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Kỹ thuật chống thấm bằng phân bò và nhựa dầu rái được truyền lại qua nhiều đời giúp thuyền có màu đẹp và chống mối mọt, có thể bền đến 4-5 năm.",
+      "start": 403.84,
+      "end": 412.24,
+      "n_words": 32,
+      "start_frame": 12115,
+      "end_frame": 12367,
+      "keyframes": [
+        "012153.webp",
+        "012201.webp",
+        "012202.webp",
+        "012222.webp",
+        "012243.webp",
+        "012244.webp",
+        "012304.webp",
+        "012364.webp",
+        "012365.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Thúng chai có giá dao động từ 1.5 đến 3 triệu đồng một cái, không chỉ là phương tiện sinh nhai của ngư dân, nó còn được dùng để phục vụ du lịch và xuất khẩu sang nước ngoài.",
+      "start": 412.24,
+      "end": 424.44,
+      "n_words": 39,
+      "start_frame": 12367,
+      "end_frame": 12733,
+      "keyframes": [
+        "012404.webp",
+        "012444.webp",
+        "012445.webp",
+        "012488.webp",
+        "012531.webp",
+        "012532.webp",
+        "012628.webp",
+        "012725.webp",
+        "012726.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Thời gian gần đây, một vài trang mạng xã hội trên địa bàn tỉnh Vĩnh Long liên tục đăng tải hình ảnh các cháu bé với nội dung tìm trẻ lạc, mong muốn cộng đồng bạn chia sẻ thông tin này, làm nhiều người dân lo lắng bất an về tình hình an ninh trật tự trên địa bàn.",
+      "start": 424.44,
+      "end": 437.32,
+      "n_words": 59,
+      "start_frame": 12733,
+      "end_frame": 13120,
+      "keyframes": [
+        "012964.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Vì vậy, cơ quan công an đã vào cuộc xác minh.",
+      "start": 437.32,
+      "end": 440.32,
+      "n_words": 11,
+      "start_frame": 13120,
+      "end_frame": 13210,
+      "keyframes": [
+        "013202.webp",
+        "013203.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ngày 23/04/2024, tài khoản Facebook An Nguyên đăng trên fanpage Chợ Ô Môn với nội dung bé gái 13 tuổi ở Trà Ôn mất tích sau khi đi học thêm.",
+      "start": 440.32,
+      "end": 451.36,
+      "n_words": 30,
+      "start_frame": 13210,
+      "end_frame": 13541,
+      "keyframes": [
+        "013282.webp",
+        "013361.webp",
+        "013362.webp",
+        "013436.webp",
+        "013510.webp",
+        "013511.webp",
+        "013514.webp",
+        "013518.webp",
+        "013519.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đầu tháng 8/2024, nick Facebook này tự xưng là mẹ đang tìm con trai bị đi lạc với cùng một số điện thoại phụ huynh.",
+      "start": 451.36,
+      "end": 459.2,
+      "n_words": 25,
+      "start_frame": 13541,
+      "end_frame": 13776,
+      "keyframes": [
+        "013589.webp",
+        "013660.webp",
+        "013661.webp",
+        "013735.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chưa dừng lại, mới đây nhất cũng tài khoản này đăng hình một bé trai đi lạc kèm nội dung tìm người thân.",
+      "start": 459.2,
+      "end": 464.96,
+      "n_words": 23,
+      "start_frame": 13776,
+      "end_frame": 13949,
+      "keyframes": [
+        "013810.webp",
+        "013811.webp",
+        "013885.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bài đăng này có hàng trăm lượt chia sẻ từ cộng đồng mạng, những thông tin trên đã gây tâm lý lo lắng, hoang mang trong nhân dân.",
+      "start": 464.96,
+      "end": 471.92,
+      "n_words": 29,
+      "start_frame": 13949,
+      "end_frame": 14158,
+      "keyframes": [
+        "013960.webp",
+        "013961.webp",
+        "014035.webp",
+        "014110.webp",
+        "014111.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Qua rà soát kiểm tra, Công an huyện Trà Ôn đã kiểm chứng thông tin, kết quả là trên địa bàn không xảy ra trường hợp nào trẻ em đi lạc, mất tích.",
+      "start": 471.92,
+      "end": 479.64,
+      "n_words": 33,
+      "start_frame": 14158,
+      "end_frame": 14389,
+      "keyframes": [
+        "014185.webp",
+        "014260.webp",
+        "014261.webp",
+        "014335.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đây đều là những thông tin giả không có thật.",
+      "start": 479.64,
+      "end": 482.12,
+      "n_words": 10,
+      "start_frame": 14389,
+      "end_frame": 14464,
+      "keyframes": [
+        "014409.webp",
+        "014410.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cơ quan chức năng kiên quyết xử lý nghiêm các trường hợp đăng tải chia sẻ thông tin bịa đặt, giả mạo.",
+      "start": 482.12,
+      "end": 487.0,
+      "n_words": 22,
+      "start_frame": 14464,
+      "end_frame": 14610,
+      "keyframes": [
+        "014485.webp",
+        "014560.webp",
+        "014561.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Vì một môi trường xanh trên không gian mạng, mỗi người hãy là một chiến sĩ tích cực trên mặt trận này.",
+      "start": 487.0,
+      "end": 493.56,
+      "n_words": 22,
+      "start_frame": 14610,
+      "end_frame": 14807,
+      "keyframes": [
+        "014635.webp",
+        "014709.webp",
+        "014710.webp",
+        "014758.webp",
+        "014806.webp",
+        "014807.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Những ngày qua, nhiều chủ tiệm tạp hóa khu vực chợ Phú Thọ, thành phố Biên Hòa, tỉnh Đồng Nai bị một thanh niên đi xe máy đến mua bia rồi lừa chủ tiệm mất cảnh giác để lấy bia sau đó bỏ chạy.",
+      "start": 493.56,
+      "end": 504.0,
+      "n_words": 44,
+      "start_frame": 14807,
+      "end_frame": 15120,
+      "keyframes": [
+        "014807.webp",
+        "015060.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Camera ghi nhận lại chỉ trong vòng 5 phút đối tượng này đã lừa hai nữ chủ tiệm tạp hóa để lấy đi nhiều thùng bia.",
+      "start": 504.0,
+      "end": 511.64,
+      "n_words": 26,
+      "start_frame": 15120,
+      "end_frame": 15349,
+      "keyframes": [
+        "015314.webp",
+        "015315.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Theo một chủ tiệm tạp hóa ở chợ Phú Thọ, vào lúc 17:40 ngày 19 tháng 8, một thanh niên đi xe máy tay ga màu trắng mang biển số 60-B5 60.10 đến hỏi mua bia.",
+      "start": 511.64,
+      "end": 523.28,
+      "n_words": 36,
+      "start_frame": 15349,
+      "end_frame": 15698,
+      "keyframes": [
+        "015487.webp",
+        "015659.webp",
+        "015663.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Lúc này, thanh niên giả vờ móc tiền trong túi ra đếm đồng thời nói chủ quán bán thêm mấy gói mì tôm rồi sau đó bỏ chạy.",
+      "start": 523.28,
+      "end": 530.44,
+      "n_words": 28,
+      "start_frame": 15698,
+      "end_frame": 15913,
+      "keyframes": [
+        "015716.webp",
+        "015770.webp",
+        "015771.webp",
+        "015782.webp",
+        "015794.webp",
+        "015795.webp",
+        "015862.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "5 phút sau, đối tượng tiếp tục ghé vào một tiệm tạp hóa ở gần đó hỏi mua hai thùng bia Tiger, dùng cùng chiêu trò lừa đảo cũ.",
+      "start": 530.44,
+      "end": 538.24,
+      "n_words": 29,
+      "start_frame": 15913,
+      "end_frame": 16147,
+      "keyframes": [
+        "015930.webp",
+        "015931.webp",
+        "016097.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Theo một số chủ tiệm bán tạp hóa khu vực, thời gian gần đây liên tiếp bị nghi can lừa lấy bia theo hình thức trên.",
+      "start": 538.24,
+      "end": 545.28,
+      "n_words": 26,
+      "start_frame": 16147,
+      "end_frame": 16358,
+      "keyframes": [
+        "016264.webp",
+        "016265.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Vì tài sản mất không lớn nên các nạn nhân không trình báo cơ quan công an.",
+      "start": 545.28,
+      "end": 551.04,
+      "n_words": 17,
+      "start_frame": 16358,
+      "end_frame": 16531,
+      "keyframes": [
+        "016386.webp",
+        "016508.webp",
+        "016509.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trung tâm Dịch vụ Việc làm tỉnh Đồng Tháp lại vừa tiếp nhận trường hợp nghi bị lừa đảo đóng tiền để tham gia làm việc tại Australia.",
+      "start": 551.04,
+      "end": 557.96,
+      "n_words": 28,
+      "start_frame": 16531,
+      "end_frame": 16739,
+      "keyframes": [
+        "016693.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chỉ trong 1 giờ, nữ lao động lần lượt chuyển gần 18 triệu đồng cho các đối tượng.",
+      "start": 557.96,
+      "end": 563.56,
+      "n_words": 18,
+      "start_frame": 16739,
+      "end_frame": 16907,
+      "keyframes": [
+        "016878.webp",
+        "016879.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nữ lao động này ở huyện Thanh Bình muốn tham gia làm việc thời vụ ở Australia nên nhờ bạn bè kết nối thông qua mạng xã hội.",
+      "start": 563.56,
+      "end": 571.12,
+      "n_words": 28,
+      "start_frame": 16907,
+      "end_frame": 17134,
+      "keyframes": [
+        "016958.webp",
+        "017038.webp",
+        "017039.webp",
+        "017098.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chị này được các đối tượng tự xưng là nhân viên của một công ty xuất khẩu lao động hướng dẫn giao link để đăng ký và chuyển tiền.",
+      "start": 571.12,
+      "end": 578.56,
+      "n_words": 29,
+      "start_frame": 17134,
+      "end_frame": 17357,
+      "keyframes": [
+        "017158.webp",
+        "017159.webp",
+        "017200.webp",
+        "017242.webp",
+        "017243.webp",
+        "017290.webp",
+        "017338.webp",
+        "017339.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Ở lần chuyển tiền sau cùng, chị bị nhóm đối tượng đe dọa hủy hồ sơ và nhận ra mình đã bị lừa.",
+      "start": 578.56,
+      "end": 584.64,
+      "n_words": 23,
+      "start_frame": 17357,
+      "end_frame": 17539,
+      "keyframes": [
+        "017434.webp",
+        "017530.webp",
+        "017531.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cơ quan chức năng khuyến cáo người lao động cần tỉnh táo nhận diện các chiêu thức lừa đảo, tránh bị sập bẫy bởi những lời hứa hẹn việc làm lương cao, thủ tục dễ dàng, chi phí thấp.",
+      "start": 584.64,
+      "end": 596.4,
+      "n_words": 39,
+      "start_frame": 17539,
+      "end_frame": 17892,
+      "keyframes": [
+        "017563.webp",
+        "017595.webp",
+        "017596.webp",
+        "017665.webp",
+        "017734.webp",
+        "017735.webp",
+        "017801.webp",
+        "017867.webp",
+        "017868.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Trong phần Thế giới cập nhật: Các tập đoàn lớn hợp tác xây dựng nhà máy vi mạch hiện đại ở Đức; Và Nintendo sắp khánh thành bảo tàng game ở Kyoto.",
+      "start": 596.4,
+      "end": 615.04,
+      "n_words": 32,
+      "start_frame": 17892,
+      "end_frame": 18451,
+      "keyframes": [
+        "017902.webp",
+        "017936.webp",
+        "017937.webp",
+        "017973.webp",
+        "018009.webp",
+        "018010.webp",
+        "018047.webp",
+        "018084.webp",
+        "018085.webp",
+        "018118.webp",
+        "018152.webp",
+        "018153.webp",
+        "018194.webp",
+        "018236.webp",
+        "018237.webp",
+        "018256.webp",
+        "018276.webp",
+        "018277.webp",
+        "018303.webp",
+        "018329.webp",
+        "018330.webp",
+        "018359.webp",
+        "018389.webp",
+        "018390.webp",
+        "018391.webp",
+        "018392.webp",
+        "018393.webp",
+        "018435.webp"
+      ],
+      "keyframe_count": 28
+    },
+    {
+      "text": "Ngày 19 tháng 8, một động cơ tên lửa đã phát nổ và bốc cháy trong cuộc thử nghiệm tại sân bay vũ trụ SaxaVost ở Scotland. Đây là nơi được cấp phép để phóng tên lửa thẳng đứng đầu tiên của Anh.",
+      "start": 615.04,
+      "end": 626.84,
+      "n_words": 43,
+      "start_frame": 18451,
+      "end_frame": 18805,
+      "keyframes": [
+        "018478.webp",
+        "018479.webp",
+        "018685.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hồi tháng 4/2023, vụ nổ xảy ra ngay sau khi tầng đầu tiên của tên lửa được đốt nóng.",
+      "start": 626.84,
+      "end": 634.76,
+      "n_words": 19,
+      "start_frame": 18805,
+      "end_frame": 19043,
+      "keyframes": [
+        "018892.webp",
+        "018893.webp",
+        "019031.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Dù việc không gây thương vong do toàn bộ bãi phóng đã được sơ tán trước đó, công ty chế tạo tên lửa Erfa của Đức cho biết tầng tên lửa đã bị phá hủy do một sự cố kỹ thuật bất thường và sẽ tìm hiểu chính xác nguyên nhân.",
+      "start": 634.76,
+      "end": 648.48,
+      "n_words": 51,
+      "start_frame": 19043,
+      "end_frame": 19454,
+      "keyframes": [
+        "019169.webp",
+        "019170.webp",
+        "019218.webp",
+        "019266.webp",
+        "019267.webp",
+        "019350.webp",
+        "019433.webp",
+        "019434.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Lần thử nghiệm này nằm trong hàng loạt thử nghiệm khác nhau để kiểm tra và đảm bảo tên lửa có đủ điều kiện phóng lên không gian.",
+      "start": 648.48,
+      "end": 655.24,
+      "n_words": 28,
+      "start_frame": 19454,
+      "end_frame": 19657,
+      "keyframes": [
+        "019511.webp",
+        "019588.webp",
+        "019589.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Erfa đã lên lịch trình phóng nhiều lần trong năm nay.",
+      "start": 655.24,
+      "end": 658.4,
+      "n_words": 11,
+      "start_frame": 19657,
+      "end_frame": 19752,
+      "keyframes": [
+        "019663.webp",
+        "019737.webp",
+        "019738.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trước đó, Erfa đã thành công trong lần phóng thử nghiệm tên lửa đầu tiên tháng 4 vừa qua.",
+      "start": 658.4,
+      "end": 664.6,
+      "n_words": 19,
+      "start_frame": 19752,
+      "end_frame": 19938,
+      "keyframes": [
+        "019915.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Các cơ quan quản lý ở Anh đã cấp giấy chứng nhận an toàn cho SaxaVost, mở đường cho việc triển khai phóng tên lửa vào cuối năm nay.",
+      "start": 664.6,
+      "end": 672.0,
+      "n_words": 29,
+      "start_frame": 19938,
+      "end_frame": 20160,
+      "keyframes": [
+        "020093.webp",
+        "020094.webp",
+        "020159.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cảng vũ trụ này được kỳ vọng sẽ trở thành địa điểm đầu tiên ở xứ sở sương mù thực hiện đưa vệ tinh vào không gian.",
+      "start": 672.0,
+      "end": 680.68,
+      "n_words": 27,
+      "start_frame": 20160,
+      "end_frame": 20420,
+      "keyframes": [
+        "020225.webp",
+        "020226.webp",
+        "020261.webp",
+        "020296.webp",
+        "020297.webp",
+        "020347.webp",
+        "020398.webp",
+        "020399.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Tại Italia, lực lượng cứu hộ vẫn đang nỗ lực tìm kiếm 6 người mất tích trong vụ chìm du thuyền sang trọng ngoài khơi Palermo.",
+      "start": 680.68,
+      "end": 687.76,
+      "n_words": 26,
+      "start_frame": 20420,
+      "end_frame": 20633,
+      "keyframes": [
+        "020579.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tuy nhiên, họ đang phải đối mặt với nhiều thách thức do điều kiện thời tiết khó khăn.",
+      "start": 687.76,
+      "end": 693.28,
+      "n_words": 18,
+      "start_frame": 20633,
+      "end_frame": 20798,
+      "keyframes": [
+        "020760.webp",
+        "020761.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Theo các đội cứu hộ, siêu du thuyền Bayesian dài 56 mét chìm dưới đáy biển ở độ sâu lên tới 50 mét, nơi thợ lặn chỉ có thể làm việc tối đa 12 phút cho mỗi lần lặn xuống khiến công tác tiếp cận xác tàu trở nên khó khăn.",
+      "start": 693.28,
+      "end": 707.8,
+      "n_words": 51,
+      "start_frame": 20798,
+      "end_frame": 21234,
+      "keyframes": [
+        "020824.webp",
+        "020888.webp",
+        "020889.webp",
+        "020968.webp",
+        "021048.webp",
+        "021049.webp",
+        "021052.webp",
+        "021056.webp",
+        "021057.webp",
+        "021154.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Trong số những người mất tích có ông Miles Schecter, tỷ phú người Anh, cùng với con gái ông Jonathan Bloor; Chủ tịch Morgan Stanley International; Cùng Christopher Moore, luật sư người Mỹ nổi tiếng cùng với vợ của ông.",
+      "start": 707.8,
+      "end": 721.28,
+      "n_words": 40,
+      "start_frame": 21234,
+      "end_frame": 21638,
+      "keyframes": [
+        "021252.webp",
+        "021253.webp",
+        "021304.webp",
+        "021356.webp",
+        "021357.webp",
+        "021410.webp",
+        "021464.webp",
+        "021465.webp",
+        "021512.webp",
+        "021560.webp",
+        "021561.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Siêu du thuyền Bayesian chở 22 người và neo đậu ngoài khơi cảng Porticcio thì gặp bão vào sáng 19 tháng 8.",
+      "start": 721.28,
+      "end": 729.84,
+      "n_words": 22,
+      "start_frame": 21638,
+      "end_frame": 21895,
+      "keyframes": [
+        "021658.webp",
+        "021755.webp",
+        "021756.webp",
+        "021821.webp",
+        "021887.webp",
+        "021888.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Siêu du thuyền lật nghiêng ngay sau khi cơn bão ập đến và chìm trong vòng 2 phút khiến những người dưới boong không có đủ thời gian để đến nơi an toàn.",
+      "start": 729.84,
+      "end": 738.0,
+      "n_words": 33,
+      "start_frame": 21895,
+      "end_frame": 22140,
+      "keyframes": [
+        "022003.webp",
+        "022119.webp",
+        "022120.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "15 người đã thoát ra trước khi du thuyền bị lật úp.",
+      "start": 738.0,
+      "end": 741.36,
+      "n_words": 12,
+      "start_frame": 22140,
+      "end_frame": 22241,
+      "keyframes": [
+        "022179.webp",
+        "022239.webp",
+        "022240.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nhà chức trách đã phát hiện một thi thể.",
+      "start": 741.36,
+      "end": 744.0,
+      "n_words": 9,
+      "start_frame": 22241,
+      "end_frame": 22320,
+      "keyframes": [
+        "022285.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Vào đầu tháng 10 sắp tới, các fan hâm mộ Nintendo sẽ được thỏa lòng mong ước vì hãng sản xuất trò chơi điện tử nổi tiếng này sẽ khánh thành bảo tàng game tại thành phố Kyoto, Nhật Bản.",
+      "start": 744.0,
+      "end": 754.56,
+      "n_words": 40,
+      "start_frame": 22320,
+      "end_frame": 22637,
+      "keyframes": [
+        "022331.webp",
+        "022332.webp",
+        "022370.webp",
+        "022409.webp",
+        "022410.webp",
+        "022466.webp",
+        "022523.webp",
+        "022524.webp",
+        "022585.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Những hình ảnh mới nhất về công trình này đã khiến nhiều người háo hức.",
+      "start": 754.56,
+      "end": 760.24,
+      "n_words": 15,
+      "start_frame": 22637,
+      "end_frame": 22807,
+      "keyframes": [
+        "022646.webp",
+        "022647.webp",
+        "022698.webp",
+        "022749.webp",
+        "022750.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nintendo vừa công bố một video giới thiệu trước về bảo tàng, gây ấn tượng với bộ điều khiển trò chơi khổng lồ treo trên trần nhà.",
+      "start": 760.24,
+      "end": 768.04,
+      "n_words": 27,
+      "start_frame": 22807,
+      "end_frame": 23041,
+      "keyframes": [
+        "022899.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nơi này sẽ trưng bày một loạt các sản phẩm trước đây của Nintendo, từ máy chơi game cổ điển đến những đồ chơi cũ mà họ từng sản xuất.",
+      "start": 768.04,
+      "end": 776.16,
+      "n_words": 30,
+      "start_frame": 23041,
+      "end_frame": 23285,
+      "keyframes": [
+        "023049.webp",
+        "023050.webp",
+        "023080.webp",
+        "023111.webp",
+        "023131.webp",
+        "023171.webp",
+        "023211.webp",
+        "023212.webp",
+        "023263.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Ngoài ra còn có một khu vực tương tác nơi du khách có thể trải nghiệm các trò chơi thực tế thú vị, chẳng hạn như trò chơi bắn laser.",
+      "start": 776.16,
+      "end": 784.04,
+      "n_words": 30,
+      "start_frame": 23285,
+      "end_frame": 23521,
+      "keyframes": [
+        "023315.webp",
+        "023316.webp",
+        "023390.webp",
+        "023465.webp",
+        "023466.webp",
+        "023495.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đầu năm nay, Chủ tịch Furukawa Shuntaro nói rằng phiên bản kế tiếp của Nintendo Switch dự kiến sẽ được đưa ra trước tháng 4/2025.",
+      "start": 784.04,
+      "end": 792.12,
+      "n_words": 25,
+      "start_frame": 23521,
+      "end_frame": 23764,
+      "keyframes": [
+        "023525.webp",
+        "023526.webp",
+        "023555.webp",
+        "023585.webp",
+        "023586.webp",
+        "023715.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Ước tính có khoảng 128 triệu người chơi Switch trên toàn thế giới.",
+      "start": 794.0,
+      "end": 799.08,
+      "n_words": 13,
+      "start_frame": 23820,
+      "end_frame": 23972,
+      "keyframes": [
+        "023844.webp",
+        "023845.webp",
+        "023917.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bên cạnh đó, một bộ phim Super Mario khác hứa hẹn sẽ được ra mắt vào năm 2026, còn phiên bản mới trong loạt phim Mario, Pokémon và Zelda cũng được kỳ vọng sẽ ra mắt trong vài tháng tới.",
+      "start": 799.08,
+      "end": 812.44,
+      "n_words": 40,
+      "start_frame": 23972,
+      "end_frame": 24373,
+      "keyframes": [
+        "023990.webp",
+        "023991.webp",
+        "024040.webp",
+        "024089.webp",
+        "024090.webp",
+        "024117.webp",
+        "024144.webp",
+        "024145.webp",
+        "024178.webp",
+        "024212.webp",
+        "024213.webp",
+        "024255.webp",
+        "024298.webp",
+        "024299.webp",
+        "024334.webp",
+        "024370.webp",
+        "024371.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Trong nỗ lực thu hút thêm khách hàng của Nintendo, ngày 20 tháng 8, Chủ tịch Ủy ban Châu Âu Ursula von der Leyen đã tham dự sự kiện khởi công xây dựng nhà máy vi mạch bán dẫn mới tại Đức.",
+      "start": 812.44,
+      "end": 824.48,
+      "n_words": 42,
+      "start_frame": 24373,
+      "end_frame": 24734,
+      "keyframes": [
+        "024423.webp",
+        "024476.webp",
+        "024477.webp",
+        "024698.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Nhà máy thuộc tập đoàn sản xuất chất bán dẫn lớn nhất thế giới TSMC có trụ sở tại Đài Loan (Trung Quốc).",
+      "start": 824.48,
+      "end": 831.6,
+      "n_words": 23,
+      "start_frame": 24734,
+      "end_frame": 24948,
+      "keyframes": [
+        "024920.webp",
+        "024921.webp",
+        "024942.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Việc xây dựng nhà máy mới này có sự hợp tác với các hãng Bosch, Infineon, NXP và được đặt tại thành phố Dresden, nước Đức.",
+      "start": 831.6,
+      "end": 839.24,
+      "n_words": 26,
+      "start_frame": 24948,
+      "end_frame": 25177,
+      "keyframes": [
+        "024964.webp",
+        "024965.webp",
+        "025067.webp",
+        "025170.webp",
+        "025171.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Mục tiêu của nhà máy sẽ là cung cấp chất bán dẫn cho ngành công nghiệp ô tô và các ngành công nghiệp khác.",
+      "start": 839.24,
+      "end": 844.64,
+      "n_words": 24,
+      "start_frame": 25177,
+      "end_frame": 25339,
+      "keyframes": [
+        "025246.webp",
+        "025322.webp",
+        "025323.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tại sự kiện, bà Von khẳng định đây được xem như một minh chứng cho sức mạnh của Châu Âu trong đổi mới toàn cầu khi có sự hợp tác của nhà sản xuất chip lớn nhất thế giới và ba tập đoàn lớn của Châu Âu.",
+      "start": 844.64,
+      "end": 857.2,
+      "n_words": 47,
+      "start_frame": 25339,
+      "end_frame": 25716,
+      "keyframes": [
+        "025357.webp",
+        "025392.webp",
+        "025393.webp",
+        "025493.webp",
+        "025593.webp",
+        "025594.webp",
+        "025647.webp",
+        "025700.webp",
+        "025701.webp",
+        "025705.webp",
+        "025709.webp",
+        "025710.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Người lao động Châu Âu sẽ có thêm 11.000 việc làm mới. Các công ty sản xuất chip Châu Âu sẽ được tiếp cận với các công nghệ và năng lực sản xuất mới.",
+      "start": 857.2,
+      "end": 865.24,
+      "n_words": 34,
+      "start_frame": 25716,
+      "end_frame": 25957,
+      "keyframes": [
+        "025746.webp",
+        "025782.webp",
+        "025783.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các ngành công nghiệp Châu Âu sẽ được hưởng lợi từ chuỗi cung ứng đáng tin cậy hơn và chuỗi cung ứng địa phương cũng như các sản phẩm mới phù hợp với nhu cầu.",
+      "start": 865.24,
+      "end": 875.08,
+      "n_words": 35,
+      "start_frame": 25957,
+      "end_frame": 26252,
+      "keyframes": [
+        "026006.webp",
+        "026230.webp",
+        "026231.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bắt đầu từ tháng 7 tới hết mùa thu, hoa hướng dương nở rộ trên khắp các đồng cỏ tại khu tự trị Nội Mông, miền bắc Trung Quốc.",
+      "start": 875.08,
+      "end": 881.8,
+      "n_words": 29,
+      "start_frame": 26252,
+      "end_frame": 26454,
+      "keyframes": [
+        "026306.webp",
+        "026381.webp",
+        "026382.webp",
+        "026407.webp",
+        "026433.webp",
+        "026434.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Du khách có thể đi lên đồi cao để nhìn xuống những thảm hoa rực sắc vàng, vừa thơ mộng vừa rực rỡ.",
+      "start": 881.8,
+      "end": 888.28,
+      "n_words": 23,
+      "start_frame": 26454,
+      "end_frame": 26648,
+      "keyframes": [
+        "026527.webp",
+        "026620.webp",
+        "026621.webp",
+        "026630.webp",
+        "026640.webp",
+        "026641.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hơn 660 ha hoa hướng dương đang nở rộ trên đồng cỏ ở khu tự trị Nội Mông, miền bắc Trung Quốc.",
+      "start": 888.28,
+      "end": 896.8,
+      "n_words": 22,
+      "start_frame": 26648,
+      "end_frame": 26904,
+      "keyframes": [
+        "026676.webp",
+        "026712.webp",
+        "026713.webp",
+        "026750.webp",
+        "026788.webp",
+        "026789.webp",
+        "026824.webp",
+        "026859.webp",
+        "026860.webp",
+        "026893.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Khi làn gió nhẹ thổi qua cánh đồng, những bông hoa hướng dương đung đưa và nhảy múa dưới những tia nắng vàng của mặt trời.",
+      "start": 896.8,
+      "end": 903.76,
+      "n_words": 26,
+      "start_frame": 26904,
+      "end_frame": 27113,
+      "keyframes": [
+        "026927.webp",
+        "026928.webp",
+        "026934.webp",
+        "026940.webp",
+        "026941.webp",
+        "026960.webp",
+        "026979.webp",
+        "026980.webp",
+        "027005.webp",
+        "027030.webp",
+        "027031.webp",
+        "027054.webp",
+        "027077.webp",
+        "027078.webp",
+        "027091.webp",
+        "027105.webp",
+        "027106.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Hơn 266,67 ha hoa hướng dương cũng nở rộ tại thị trấn Sanyuan ở huyện Way Chan Manchu và các huyện tự trị Mông Cổ, tỉnh Hà Bắc.",
+      "start": 903.76,
+      "end": 913.92,
+      "n_words": 28,
+      "start_frame": 27113,
+      "end_frame": 27418,
+      "keyframes": [
+        "027136.webp",
+        "027166.webp",
+        "027167.webp",
+        "027210.webp",
+        "027254.webp",
+        "027255.webp",
+        "027282.webp",
+        "027310.webp",
+        "027311.webp",
+        "027323.webp",
+        "027336.webp",
+        "027337.webp",
+        "027351.webp",
+        "027365.webp",
+        "027366.webp",
+        "027390.webp",
+        "027414.webp",
+        "027415.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Nhưng đồng bằng Hetu tại thành phố Baotou mới là nơi có cánh đồng hướng dương lớn nhất, chiếm khoảng một phần tư tổng diện tích trồng hoa hướng dương tại Trung Quốc.",
+      "start": 913.92,
+      "end": 923.52,
+      "n_words": 33,
+      "start_frame": 27418,
+      "end_frame": 27706,
+      "keyframes": [
+        "027431.webp",
+        "027448.webp",
+        "027449.webp",
+        "027487.webp",
+        "027525.webp",
+        "027526.webp",
+        "027556.webp",
+        "027586.webp",
+        "027587.webp",
+        "027619.webp",
+        "027651.webp",
+        "027652.webp",
+        "027693.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Vào mùa hoa nở rộ, chính quyền địa phương đã thực hiện nhiều hoạt động tham quan độc đáo, mang lại sức sống cho ngành văn hóa và du lịch.",
+      "start": 923.52,
+      "end": 932.72,
+      "n_words": 30,
+      "start_frame": 27706,
+      "end_frame": 27982,
+      "keyframes": [
+        "027734.webp",
+        "027735.webp",
+        "027764.webp",
+        "027794.webp",
+        "027795.webp",
+        "027819.webp",
+        "027844.webp",
+        "027845.webp",
+        "027861.webp",
+        "027878.webp",
+        "027879.webp",
+        "027924.webp",
+        "027970.webp",
+        "027971.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Các vận động viên trong đoàn Thể thao Paralympic người tị nạn vừa gửi đi những thông điệp đầy hy vọng và nỗ lực tập luyện để hướng tới vinh quang tại Thế vận hội Paralympic 2024 sẽ bắt đầu tại Paris vào tuần tới.",
+      "start": 932.72,
+      "end": 946.4,
+      "n_words": 45,
+      "start_frame": 27982,
+      "end_frame": 28392,
+      "keyframes": [
+        "028047.webp",
+        "028124.webp",
+        "028125.webp",
+        "028167.webp",
+        "028209.webp",
+        "028210.webp",
+        "028244.webp",
+        "028278.webp",
+        "028279.webp",
+        "028311.webp",
+        "028343.webp",
+        "028344.webp",
+        "028354.webp",
+        "028364.webp",
+        "028365.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "8 vận động viên Paralympic và một hướng dẫn viên đang hy vọng sẽ giành được huy chương ở 6 môn: điền kinh, cử tạ, bóng bàn, Taekwondo dành cho người khuyết tật, ba môn phối hợp dành cho người khuyết tật và đấu kiếm trên xe lăn.",
+      "start": 946.4,
+      "end": 959.56,
+      "n_words": 48,
+      "start_frame": 28392,
+      "end_frame": 28787,
+      "keyframes": [
+        "028420.webp",
+        "028475.webp",
+        "028476.webp",
+        "028556.webp",
+        "028637.webp",
+        "028638.webp",
+        "028645.webp",
+        "028652.webp",
+        "028653.webp",
+        "028722.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Ibrahim Anho Sein là một vận động viên người Syria sẽ tham gia thi đấu ba môn phối hợp.",
+      "start": 959.56,
+      "end": 964.76,
+      "n_words": 19,
+      "start_frame": 28787,
+      "end_frame": 28943,
+      "keyframes": [
+        "028792.webp",
+        "028793.webp",
+        "028853.webp",
+        "028914.webp",
+        "028915.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Anh bị mất bàn chân phải và một phần bàn chân trái trong chiến tranh và buộc tị nạn ở Hy Lạp.",
+      "start": 964.76,
+      "end": 970.4,
+      "n_words": 22,
+      "start_frame": 28943,
+      "end_frame": 29112,
+      "keyframes": [
+        "029011.webp",
+        "029108.webp",
+        "029109.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "\"Tôi đến đây để chứng minh rằng bất kỳ ai cũng có thể đạt được mục tiêu của mình bất chấp việc tôi phải rời Syria trên xe lăn, bất chấp việc tôi đã xây dựng lại cuộc sống từ con số không\".",
+      "start": 970.4,
+      "end": 980.96,
+      "n_words": 43,
+      "start_frame": 29112,
+      "end_frame": 29429,
+      "keyframes": [
+        "029215.webp",
+        "029322.webp",
+        "029323.webp",
+        "029372.webp",
+        "029422.webp",
+        "029423.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Gilamo Junier Antagana thì tưởng rằng ước mơ trở thành cầu thủ bóng đá tan thành mây khói khi bị mất thị lực, nhưng giờ đây anh hy vọng sẽ giành được huy chương.",
+      "start": 980.96,
+      "end": 990.72,
+      "n_words": 34,
+      "start_frame": 29429,
+      "end_frame": 29722,
+      "keyframes": [
+        "029519.webp",
+        "029615.webp",
+        "029616.webp",
+        "029668.webp",
+        "029721.webp",
+        "029722.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "\"Hãy luôn tin tưởng vào bản thân, hãy dám làm, bạn có thể làm được nhiều điều.",
+      "start": 990.72,
+      "end": 994.88,
+      "n_words": 17,
+      "start_frame": 29722,
+      "end_frame": 29846,
+      "keyframes": [
+        "029722.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tôi bị mù và tôi vẫn chạy, vẫn thi đấu ở cấp độ cao.",
+      "start": 994.88,
+      "end": 998.76,
+      "n_words": 14,
+      "start_frame": 29846,
+      "end_frame": 29963,
+      "keyframes": [
+        "029857.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thật tuyệt vời\".",
+      "start": 998.76,
+      "end": 999.84,
+      "n_words": 3,
+      "start_frame": 29963,
+      "end_frame": 29995,
+      "keyframes": [
+        "029992.webp",
+        "029993.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đội tuyển Paralympic dành cho người tị nạn sẽ là đoàn đầu tiên diễu hành tại lễ khai mạc diễn ra trên đại lộ Champs-Élysées vào ngày 28 tháng 8.",
+      "start": 999.84,
+      "end": 1009.84,
+      "n_words": 30,
+      "start_frame": 29995,
+      "end_frame": 30295,
+      "keyframes": [
+        "030061.webp",
+        "030129.webp",
+        "030130.webp",
+        "030210.webp",
+        "030290.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thông tin vừa rồi cũng đã khép lại chương trình 60 giây sáng nay. Cảm ơn quý vị đã quan tâm theo dõi.",
+      "start": 1009.84,
+      "end": 1015.8,
+      "n_words": 23,
+      "start_frame": 30295,
+      "end_frame": 30474,
+      "keyframes": [
+        "030300.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúc quý vị một ngày làm việc mới thuận lợi và thành công. Hẹn gặp lại quý vị trong chương trình 60 giây chiều tối nay với những thông tin cập nhật. Xin kính chào tạm biệt.",
+      "start": 1015.8,
+      "end": 1023.96,
+      "n_words": 37,
+      "start_frame": 30474,
+      "end_frame": 30719,
+      "keyframes": [
+        "030520.webp"
+      ],
+      "keyframe_count": 1
+    }
+  ]
+}

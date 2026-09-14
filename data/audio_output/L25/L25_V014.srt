@@ -1,0 +1,677 @@
+1
+00:00:08,240 --> 00:00:17,600
+Chào mừng các em đến với buổi ôn tập bộ môn Vật lý thi tốt nghiệp Trung học phổ thông, chương trình do Báo Thanh Niên tổ chức.
+
+2
+00:00:17,600 --> 00:00:27,880
+Đến với buổi ôn ngày hôm nay, chúng ta bước sang chuyên đề số 9: Lượng tử ánh sáng, rơi vào chương 6 của chương trình Vật lý 12.
+
+3
+00:00:28,640 --> 00:00:33,400
+Chúng ta đi sang một số kiến thức trọng tâm của chuyên đề chính này.
+
+4
+00:00:33,400 --> 00:00:45,360
+Trường Đại học Quốc tế Sài Gòn (SIU) không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SIU nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt.
+
+5
+00:00:45,360 --> 00:00:56,120
+SIU mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới, trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.
+
+6
+00:00:56,120 --> 00:01:04,720
+Năm 2024, SIU tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng bốn phương thức tuyển sinh.
+
+7
+00:01:04,720 --> 00:01:31,240
+SIU cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SIU, 100 suất học bổng Tiếp bước hành trình Quỹ tài năng trẻ; Học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa, thể thao, nghệ thuật; Học bổng Đồng hành xây dựng nhân lực chất lượng cao cho thành phố Thủ Đức, thành phố Hồ Chí Minh; Học bổng doanh nghiệp tài trợ; Học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.
+
+8
+00:01:31,240 --> 00:01:34,640
+SIU - tâm hồn Việt Nam, giáo dục thế giới.
+
+9
+00:01:34,640 --> 00:01:39,520
+Thuyết lượng tử ánh sáng, chúng ta có bốn đặc điểm:
+1.
+
+10
+00:01:39,520 --> 00:01:43,360
+Ánh sáng được tạo thành bởi các hạt gọi là photon.
+
+11
+00:01:43,360 --> 00:01:48,320
+Với mỗi ánh sáng đơn sắc có tần số f, các photon đều giống nhau.
+
+12
+00:01:48,320 --> 00:01:51,360
+Mỗi photon mang năng lượng là $E = hf$.
+
+13
+00:01:51,360 --> 00:01:51,760
+2.
+
+14
+00:01:52,880 --> 00:01:56,840
+Mỗi photon chỉ tồn tại ở trạng thái chuyển động.
+
+15
+00:01:56,840 --> 00:02:05,360
+Trong chân không, photon bay với tốc độ $c = 3 \times 10^8$ m/s dọc theo tia sáng.
+
+16
+00:02:05,360 --> 00:02:05,360
+3.
+
+17
+00:02:05,360 --> 00:02:16,080
+Mỗi lần một nguyên tử hay một phân tử phát xạ hoặc hấp thụ ánh sáng thì chúng phát ra hay hấp thụ một photon.
+
+18
+00:02:16,080 --> 00:02:18,840
+Năng lượng của mỗi photon rất nhỏ.
+
+19
+00:02:18,840 --> 00:02:31,480
+Mỗi chùm sáng dù yếu cũng chứa rất nhiều photon do rất nhiều nguyên tử, phân tử phát ra, vì vậy ta nhìn thấy chùm sáng là liên tục.
+
+20
+00:02:31,480 --> 00:02:31,480
+4.
+
+21
+00:02:31,480 --> 00:02:42,880
+Khi ánh sáng truyền đi, các lượng tử không đổi, không phụ thuộc khoảng cách tới nguồn sáng.
+
+22
+00:02:42,880 --> 00:02:50,880
+Từ thuyết lượng tử ánh sáng, chúng ta sẽ giải thích được các hiện tượng như hiện tượng quang điện.
+
+23
+00:02:50,880 --> 00:03:04,480
+Thí nghiệm Hertz về quang điện: khi cho một chùm sáng thích hợp bắn vào miếng kẽm thì lúc này điện tích trên miếng kẽm sẽ bị mất đi.
+
+24
+00:03:04,480 --> 00:03:15,000
+Chúng ta nói rằng ánh sáng, hay nói cách khác, năng lượng của photon đã làm bật các electron của tấm kẽm ra bên ngoài.
+
+25
+00:03:15,000 --> 00:03:17,360
+Đó là hiện tượng quang điện.
+
+26
+00:03:17,360 --> 00:03:30,640
+Hiện tượng ánh sáng làm bật các electron ra khỏi bề mặt kim loại gọi là hiện tượng quang điện ngoài.
+
+27
+00:03:30,640 --> 00:03:38,400
+Giới hạn quang điện $\lambda_0 = \frac{hc}{A_0}$ gọi là công thoát.
+
+28
+00:03:38,400 --> 00:03:50,440
+Như vậy, điều kiện để có hiện tượng quang điện đó chính là bước sóng thích hợp, hay còn gọi là bước sóng đủ nhỏ: $\lambda$ phải nhỏ hơn hoặc bằng $\lambda_0$.
+
+29
+00:03:53,480 --> 00:04:03,360
+Từ đó, ta có thể suy luận $f$ sẽ lớn hơn hoặc bằng $f_0$ và $E$ thì lớn hơn hoặc bằng $A_0$.
+
+30
+00:04:03,360 --> 00:04:19,280
+Hiện tượng quang điện trong, hay còn gọi là hiện tượng quang dẫn, là hiện tượng ánh sáng giải phóng các electron liên kết trong chất bán dẫn để chúng trở thành các electron dẫn tham gia vào quá trình dẫn điện.
+
+31
+00:04:26,160 --> 00:04:45,880
+Năng lượng kích hoạt là năng lượng cần thiết để giải phóng một electron liên kết thành electron dẫn: $E_{ro} = \frac{hc}{\lambda_{0\text{ dẫn}}}$, với $\lambda_{0\text{ dẫn}}$ là giới hạn quang dẫn.
+
+32
+00:04:45,880 --> 00:04:54,280
+Các chất quang dẫn có giới hạn $\lambda_{0\text{ dẫn}}$ trong vùng hồng ngoại.
+
+33
+00:04:54,280 --> 00:05:13,120
+Ứng dụng của hiện tượng quang điện trong đó là pin quang điện, quang điện trở là điện trở làm bằng chất quang dẫn, vì vậy giá trị điện trở sẽ thay đổi theo ánh sáng.
+
+34
+00:05:13,120 --> 00:05:20,480
+Pin quang điện là nguồn điện biến quang năng thành điện năng.
+
+35
+00:05:20,480 --> 00:05:39,320
+Hiện tượng quang phát quang: dung dịch fluorescein phát quang khi được chiếu bởi tia tử ngoại; Lớp huỳnh quang bên trong đèn ống hay là đèn huỳnh quang thì đó là hiện tượng quang phát quang.
+
+36
+00:05:39,320 --> 00:05:50,200
+Hiện tượng quang phát quang là sự hấp thụ ánh sáng có bước sóng này để phát ra ánh sáng có bước sóng khác.
+
+37
+00:05:50,200 --> 00:06:06,680
+Hiện tượng quang phát quang chúng ta chia làm hai: huỳnh quang thì xảy ra với chất lỏng và khí và hầu như tắt ngay; Lân quang thì xảy ra với chất rắn, kéo dài một thời gian rồi mới tắt.
+
+38
+00:06:06,680 --> 00:06:31,200
+Điều kiện phát quang là năng lượng kích thích hay năng lượng chiếu tới sẽ lớn hơn năng lượng phát quang: $E_{\text{chiếu tới}} > E_{\text{phát quang}}$, dẫn đến $\lambda_{\text{chiếu tới}} < \lambda_{\text{phát quang}}$ vì năng lượng và bước sóng tỷ lệ nghịch với nhau.
+
+39
+00:06:31,200 --> 00:06:49,360
+Lưu ý các em phân biệt: ánh sáng của con đom đóm là hóa phát quang, ánh sáng của đèn LED là điện phát quang, không liên quan đến hiện tượng mà chúng ta đang học là quang phát quang.
+
+40
+00:06:49,360 --> 00:06:54,520
+Sang các tiên đề của Bohr về cấu tạo nguyên tử.
+
+41
+00:06:54,520 --> 00:06:59,480
+Nguyên tử Bohr có hai tiên đề:
+Tiên đề thứ nhất: Tiên đề về trạng thái dừng.
+
+42
+00:06:59,480 --> 00:07:07,520
+Nguyên tử chỉ tồn tại trong những trạng thái có năng lượng xác định là $E_n$, gọi là các trạng thái dừng.
+
+43
+00:07:07,520 --> 00:07:12,640
+Khi ở trạng thái dừng, nguyên tử sẽ không bức xạ.
+
+44
+00:07:12,640 --> 00:07:30,400
+Trong các trạng thái dừng của nguyên tử, electron chuyển động trên những quỹ đạo có bán kính hoàn toàn xác định là $r_n$, gọi là quỹ đạo dừng.
+
+45
+00:07:31,040 --> 00:07:35,000
+Tiên đề số hai: Về sự bức xạ và hấp thụ năng lượng.
+
+46
+00:07:35,000 --> 00:07:53,200
+Khi nguyên tử chuyển từ trạng thái dừng có mức năng lượng $E_n$ cao sang trạng thái dừng có mức năng lượng $E_m$ thấp hơn thì nó phát ra một photon có năng lượng bằng hiệu $E_n - E_m = hf$.
+
+47
+00:07:56,160 --> 00:08:15,000
+Ngược lại, nếu nguyên tử đang ở trạng thái dừng có mức năng lượng $E_m$ thấp mà hấp thụ được một photon có năng lượng $hf$ đúng bằng hiệu $E_n - E_m$ thì nó chuyển sang trạng thái dừng có năng lượng $E_n$ cao hơn.
+
+48
+00:08:15,760 --> 00:08:28,000
+Rõ ràng, khi đi từ thấp lên cao thì sẽ hấp thụ photon, khi electron đi từ cao xuống thấp thì sẽ bức xạ photon.
+
+49
+00:08:28,880 --> 00:08:35,960
+Đó là tiên đề số hai về sự bức xạ và hấp thụ năng lượng.
+
+50
+00:08:35,960 --> 00:08:41,280
+Sang phần quang phổ của nguyên tử Hydro.
+
+51
+00:08:41,280 --> 00:08:56,520
+Nguyên tử Hydro, electron sẽ chuyển động ở các quỹ đạo dừng theo tên thứ tự là K với $n = 1$, L với $n = 2$, M với $n = 3$, N với $n = 4$, O với $n = 5$ và P với $n = 6$.
+
+52
+00:08:58,480 --> 00:09:07,920
+Và các bán kính của electron xung quanh hạt nhân là $r$ sẽ bằng $n^2 \cdot r_0$.
+
+53
+00:09:09,120 --> 00:09:18,720
+Vì vậy ta có $r_1 = r_0, r_2 = 4r_0, r_3 = 9r_0, r_4 = 16r_0, r_5 = 25r_0$ và $r_6 = 36r_0$.
+
+54
+00:09:18,720 --> 00:09:35,120
+Tương ứng, mỗi quỹ đạo dừng sẽ có một năng lượng xác định chạy từ $E_1$ cho đến $E_6$.
+
+55
+00:09:35,120 --> 00:09:47,800
+Ở đây thầy nhắc lại công thức $r = n^2 r_0$ và $E = -\frac{13.6}{n^2}$ đơn vị là eV.
+
+56
+00:09:47,800 --> 00:09:58,360
+Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến, hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.
+
+57
+00:09:58,360 --> 00:10:06,000
+Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện, cân bằng giữa học thuật và nghệ thuật, thể thao.
+
+58
+00:10:06,000 --> 00:10:16,640
+Hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, khơi nguồn cảm hứng, độc lập để phát triển và hoàn thiện nhân cách.
+
+59
+00:10:16,640 --> 00:10:36,480
+Ngoài những giờ học trên lớp, học sinh Trường Quốc tế Á Châu còn được trải nghiệm thử thách bản thân và phản biện các vấn đề để tự mình học hỏi, trưởng thành độc lập hơn.
+
+60
+00:10:36,480 --> 00:10:52,320
+Nơi đây còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.
+
+61
+00:10:52,320 --> 00:10:57,400
+Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là cuộc sống.
+
+62
+00:10:57,400 --> 00:11:11,040
+Từ môi trường giáo dục này, chúng tôi đã tự tin bước tiếp và viết nên câu chuyện tương lai của chính mình.
+
+63
+00:11:11,040 --> 00:11:15,840
+Chúng ta bước sang một số bài tập vận dụng của chuyên đề số 9.
+
+64
+00:11:15,840 --> 00:11:21,360
+Câu số 1: Gọi h là hằng số Planck, c là tốc độ của ánh sáng trong chân không.
+
+65
+00:11:21,360 --> 00:11:33,120
+Chiếu bức xạ có bước sóng $\lambda$ vào một tấm kim loại có công thoát $A_0$, thì hiện tượng quang điện sẽ xảy ra khi nào?
+
+66
+00:11:33,440 --> 00:11:41,200
+Ở đây, điều kiện để có hiện tượng quang điện là $\lambda$ nhỏ hơn hoặc bằng $\lambda_0$, mà $\lambda_0 = \frac{hc}{A_0}$.
+
+67
+00:11:42,560 --> 00:11:47,080
+Như vậy, chúng ta chọn đáp án C.
+
+68
+00:11:47,080 --> 00:11:51,320
+Câu số 2: Xét nguyên tử Hydro theo mẫu nguyên tử Bohr.
+
+69
+00:11:51,320 --> 00:12:02,120
+Bán kính các quỹ đạo dừng lần lượt là K, L, M, N của electron tăng tỷ lệ với bình phương của các số nguyên liên tiếp.
+
+70
+00:12:02,120 --> 00:12:05,040
+Quỹ đạo dừng K có bán kính $r_0$.
+
+71
+00:12:05,040 --> 00:12:09,680
+Bán kính quỹ đạo dừng N là bao nhiêu?
+
+72
+00:12:10,400 --> 00:12:18,480
+Ở đây, theo thứ tự K, L, M, N thì N là lớp số 4.
+
+73
+00:12:18,480 --> 00:12:22,640
+Ta thế vào biểu thức $r = n^2 r_0$ thì sẽ bằng $16r_0$.
+
+74
+00:12:24,160 --> 00:12:28,160
+Đáp án là C.
+
+75
+00:12:28,160 --> 00:12:32,800
+Câu số 3: Giới hạn quang dẫn của CdS là $0.9 \mu\text{m}$.
+
+76
+00:12:34,240 --> 00:12:35,040
+Lấy $h = 6.625 \times 10^{-34}$ J.
+
+77
+00:12:35,040 --> 00:12:36,760
+S, $c = 3 \times 10^8$ m/s.
+
+78
+00:12:42,840 --> 00:12:52,360
+Năng lượng cần thiết để giải phóng một electron liên kết thành electron dẫn, tức là năng lượng kích hoạt của CdS là bao nhiêu?
+
+79
+00:12:52,600 --> 00:12:56,680
+Ở đây, ta có biểu thức năng lượng kích hoạt $E = \frac{hc}{\lambda_0}$.
+
+80
+00:13:03,360 --> 00:13:20,160
+Chúng ta có thể sử dụng các hằng số trong máy tính, thì ở đây chúng ta dễ dàng ra được là $2.21 \times 10^{-19}$ J.
+
+81
+00:13:22,520 --> 00:13:30,920
+Đáp án là B.
+
+82
+00:13:30,920 --> 00:13:33,280
+Ta sang các ví dụ tiếp theo.
+
+83
+00:13:33,280 --> 00:13:44,000
+Câu số 1: Chiếu bức xạ có bước sóng $\lambda$ vào một mặt tấm kim loại có giới hạn quang điện $\lambda_0$ thì hiện tượng quang điện xảy ra khi nào?
+
+84
+00:13:44,400 --> 00:13:47,600
+Điều kiện xảy ra quang điện vẫn là $\lambda \le \lambda_0$.
+
+85
+00:13:49,400 --> 00:13:52,480
+Vì vậy, đáp án là B.
+
+86
+00:13:52,480 --> 00:14:05,200
+Câu số 2: Theo mẫu nguyên tử Bohr, khi nguyên tử chuyển từ trạng thái dừng có năng lượng $E_n$ sang trạng thái dừng có năng lượng $E_m$ thấp hơn thì nó phát ra một photon có năng lượng $E$.
+
+87
+00:14:05,200 --> 00:14:08,720
+Công thức nào sau đây là đúng?
+
+88
+00:14:08,720 --> 00:14:15,480
+Năng lượng $E$ này chính bằng hiệu năng lượng của hai trạng thái, như vậy $E = E_n - E_m$.
+
+89
+00:14:16,880 --> 00:14:19,880
+Đáp án là C.
+
+90
+00:14:19,880 --> 00:14:29,000
+Câu số 3: Năng lượng cần thiết để giải phóng một electron liên kết thành electron dẫn gọi là năng lượng kích hoạt.
+
+91
+00:14:29,000 --> 00:14:31,160
+Năng lượng kích hoạt của PbS là $0.3$ eV.
+
+92
+00:14:33,840 --> 00:14:35,800
+Lấy $h = 6.625 \times 10^{-34}$ J.
+
+93
+00:14:35,800 --> 00:14:40,360
+S, $c = 3 \times 10^8$ m/s, $1 \text{ eV} = 1.6 \times 10^{-19}$ J.
+
+94
+00:14:46,560 --> 00:14:50,400
+Giới hạn quang dẫn của PbS là bao nhiêu?
+
+95
+00:14:50,760 --> 00:14:57,840
+Ở đây chúng ta lưu ý cần phải đổi đơn vị $0.3$ eV ra đơn vị là Joule.
+
+96
+00:14:58,160 --> 00:15:06,320
+Năng lượng $E = \frac{hc}{\lambda_0}$, như vậy chúng ta rút ra $\lambda_0 = \frac{hc}{E}$.
+
+97
+00:15:11,520 --> 00:15:23,360
+Áp dụng các phương pháp bấm hằng số, ta lấy $0.3 \times 1.6 \times 10^{-19}$, chúng ta sẽ ra được đáp án là $4.14 \times 10^{-6}$ m.
+
+98
+00:15:25,640 --> 00:15:31,200
+Đáp án là B.
+
+99
+00:15:31,200 --> 00:15:33,760
+Bước sang phần ví dụ số 3.
+
+100
+00:15:33,760 --> 00:15:39,160
+Câu số 1: Tia laser có đặc điểm nào sau đây?
+
+101
+00:15:40,280 --> 00:15:40,680
+A.
+
+102
+00:15:40,680 --> 00:15:42,760
+Luôn có cường độ nhỏ.
+
+103
+00:15:42,760 --> 00:15:43,120
+B.
+
+104
+00:15:43,120 --> 00:15:46,320
+Luôn bị khúc xạ khi đi qua lăng kính.
+
+105
+00:15:46,320 --> 00:15:46,640
+C.
+
+106
+00:15:46,640 --> 00:15:48,760
+Có tính đơn sắc cao.
+
+107
+00:15:48,760 --> 00:15:49,320
+D.
+
+108
+00:15:49,320 --> 00:15:52,200
+Luôn là ánh sáng trắng.
+
+109
+00:15:53,360 --> 00:16:03,200
+Đặc tính của tia laser có bốn đặc điểm: tính đơn sắc cao, tính định hướng cao, tính kết hợp cao và cường độ rất lớn.
+
+110
+00:16:03,200 --> 00:16:27,240
+Ứng dụng của tia laser trong y học là dao mổ chữa bệnh ngoài da; Trong công nghiệp là khoan cắt kim loại; Phần trắc địa là đo đạc ngắm đường thẳng; Trong thông tin là vô tuyến định vị, cáp quang Như vậy, ở đây đặc điểm của tia laser là có tính đơn sắc cao.
+
+111
+00:16:28,680 --> 00:16:46,560
+Câu số 2: Xét nguyên tử Hydro theo mẫu nguyên tử Bohr, khi nguyên tử chuyển từ trạng thái dừng có mức năng lượng $-3.4$ eV sang trạng thái dừng có mức năng lượng $-3.16$ eV thì phát ra photon có năng lượng $E$.
+
+112
+00:16:46,560 --> 00:16:49,320
+Lấy $1 \text{ eV} = 1.6 \times 10^{-19}$ J.
+
+113
+00:16:51,160 --> 00:16:54,960
+Giá trị của $E$ sẽ là bao nhiêu?
+
+114
+00:16:54,960 --> 00:17:03,040
+Ở đây chúng ta lưu ý đơn vị eV, chúng ta sẽ đổi về Joule vì các đáp án đơn vị đều là Joule.
+
+115
+00:17:03,440 --> 00:17:07,800
+Khi chuyển mức năng lượng, $E$ sẽ bằng hiệu của hai mức năng lượng trên.
+
+116
+00:17:07,800 --> 00:17:15,520
+Ta lấy hai mức năng lượng trừ nhau, ta sẽ được $0.24$ eV, đổi ra là $1.632 \times 10^{-18}$ J.
+
+117
+00:17:18,400 --> 00:17:21,760
+Đáp án B.
+
+118
+00:17:21,760 --> 00:17:21,760
+(Lưu ý: Trong transcript nói 10.2 eV là có thể nhầm lẫn khi đọc số).
+
+119
+00:17:21,760 --> 00:17:34,800
+Câu số 3: Năng lượng cần thiết để giải phóng một electron liên kết thành electron dẫn, tức là năng lượng kích hoạt của các chất sau lần lượt là các giá trị trên.
+
+120
+00:17:34,800 --> 00:17:37,720
+Lấy $1 \text{ eV} = 1.6 \times 10^{-19}$ J.
+
+121
+00:17:39,520 --> 00:17:52,880
+Khi chiếu bức xạ đơn sắc mà mỗi photon mang năng lượng $2.72 \times 10^{-19}$ J vào các chất trên thì số chất mà hiện tượng quang điện xảy ra là bao nhiêu?
+
+122
+00:17:52,880 --> 00:18:10,840
+Ở đây chúng ta sẽ đi tính năng lượng kích thích để so sánh với từng năng lượng kích hoạt, nếu lớn hơn thì xảy ra, bé hơn thì không xảy ra.
+
+123
+00:18:10,840 --> 00:18:23,680
+Ở đây ta có $E$ tính ra được là $2.72 \times 10^{-19}$ J, đổi ra eV để dễ so sánh là bằng $1.7$ eV.
+
+124
+00:18:27,240 --> 00:18:38,280
+So sánh $1.7$ eV với các giá trị: lớn hơn $0.3$, lớn hơn $0.66$, lớn hơn $1.12$, lớn hơn $1.51$.
+
+125
+00:18:40,040 --> 00:18:44,480
+Như vậy, cả bốn chất đều xảy ra hiện tượng quang điện.
+
+126
+00:18:49,120 --> 00:19:24,320
+Sang ví dụ số 4: Giới hạn quang điện của các kim loại Cs, Na, Zn, Cu lần lượt là các giá trị trên.
+
+127
+00:19:24,320 --> 00:19:28,040
+Một nguồn sáng phát ra ánh sáng đơn sắc với công suất $0.35$ W.
+
+128
+00:19:29,400 --> 00:19:35,400
+Trong mỗi phút, nguồn này phát ra $4.5 \times 10^{19}$ hạt photon.
+
+129
+00:19:35,400 --> 00:19:37,240
+Lấy $h = 6.625 \times 10^{-34}$ J.
+
+130
+00:19:37,240 --> 00:19:38,840
+S, $c = 3 \times 10^8$ m/s.
+
+131
+00:19:42,880 --> 00:19:52,120
+Khi chiếu ánh sáng từ nguồn này vào bề mặt các kim loại trên thì số kim loại mà hiện tượng quang điện xảy ra là bao nhiêu?
+
+132
+00:19:52,680 --> 00:20:02,400
+Chúng ta dựa vào công suất của nguồn, tính được $\lambda$ của ánh sáng kích thích, từ đó so sánh với các $\lambda_0$.
+
+133
+00:20:03,520 --> 00:20:07,400
+Điều kiện để xảy ra quang điện là $\lambda \le \lambda_0$.
+
+134
+00:20:13,520 --> 00:20:19,000
+Giải bài cụ thể: $P = n \cdot E = n \cdot \frac{hc}{\lambda}$.
+
+135
+00:20:22,080 --> 00:20:46,680
+Ta rút ra được giá trị $\lambda = 4.26 \times 10^{-7}$ m, đổi về micromet chính là $0.426 \mu\text{m}$.
+
+136
+00:20:46,680 --> 00:20:55,680
+So sánh với các giá trị $\lambda_0$: $0.426$ nhỏ hơn $0.58$ và nhỏ hơn $0.5$.
+
+137
+00:20:56,680 --> 00:21:06,320
+Như vậy, hai kim loại Cs và Na thì xảy ra, nhưng Zn và Cu thì không xảy ra.
+
+138
+00:21:06,920 --> 00:21:15,640
+Đáp án của chúng ta là 2.
+
+139
+00:21:15,640 --> 00:21:28,320
+Để có được thành công như hôm nay, tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình bắt đầu từ Trường Đại học Quốc tế Sài Gòn (SIU).
+
+140
+00:21:28,320 --> 00:21:35,120
+Đào tạo đa dạng đa lĩnh vực, SIU mở ra cho chúng tôi nhiều cơ hội lựa chọn nghề nghiệp trong tương lai.
+
+141
+00:21:35,120 --> 00:21:42,400
+Tất cả sinh viên đều có cơ hội để thể hiện và phát triển năng lực, những ý tưởng luôn được khuyến khích và phát huy tối đa.
+
+142
+00:21:42,400 --> 00:21:48,520
+Chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin, được học cách học, cách nghĩ và cách sống.
+
+143
+00:21:48,520 --> 00:21:55,600
+Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.
+
+144
+00:21:55,600 --> 00:22:06,160
+Hiện đại, năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc, đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn (SIU) luôn hướng đến.
+
+145
+00:22:06,160 --> 00:22:15,520
+Đã đến lúc vươn xa hơn những gì đã học.
+
+146
+00:22:15,520 --> 00:22:17,640
+Sang các ví dụ tiếp theo.
+
+147
+00:22:17,640 --> 00:22:29,840
+Câu số 1: Khi chiếu ánh sáng có bước sóng $600$ nm vào một chất huỳnh quang thì bước sóng của ánh sáng phát quang do chất này phát ra không thể là bao nhiêu?
+
+148
+00:22:29,840 --> 00:22:45,440
+Ánh sáng huỳnh quang và ánh sáng kích thích có $\lambda_{\text{chiếu tới}} < \lambda_{\text{phát quang}}$, như vậy không thể phát ra ánh sáng $600$ nm.
+
+149
+00:22:52,040 --> 00:22:56,360
+Đáp án là A.
+
+150
+00:22:56,360 --> 00:23:01,560
+Câu số 2: Công thoát electron của một kim loại là $7.64 \times 10^{-19}$ J.
+
+151
+00:23:04,800 --> 00:23:07,000
+Cho h và c.
+
+152
+00:23:07,000 --> 00:23:10,440
+Giới hạn quang điện của kim loại này là bao nhiêu?
+
+153
+00:23:10,440 --> 00:23:23,360
+$\lambda_0 = \frac{hc}{A_0}$, ta thế số ta sẽ được $2.6 \times 10^{-7}$ m, tức là $0.26 \mu\text{m}$.
+
+154
+00:23:28,080 --> 00:23:49,560
+Câu số 3: Xét nguyên tử Hydro theo mẫu nguyên tử Bohr, khi nguyên tử Hydro chuyển từ trạng thái dừng có năng lượng $-0.85$ eV về trạng thái dừng có năng lượng $-3.4$ eV thì phát ra một photon ứng với bức xạ có bước sóng $\lambda$.
+
+155
+00:23:51,280 --> 00:23:56,240
+Cho h và c, cho $1 \text{ eV}$ đổi về Joule.
+
+156
+00:23:56,240 --> 00:23:59,280
+Giá trị của $\lambda$ lúc này là bao nhiêu?
+
+157
+00:24:01,120 --> 00:24:09,200
+Năng lượng sẽ bằng hiệu năng lượng $\frac{hc}{\lambda} = E_n - E_m = 2.55$ eV.
+
+158
+00:24:13,120 --> 00:24:23,560
+Từ đó ta rút ra $\lambda$ (nhớ đổi eV sang Joule), ta sẽ ra được đáp án là B.
+
+159
+00:24:23,560 --> 00:24:32,480
+Một ống Coolidge (ống tia X) đang hoạt động, bỏ qua động năng đầu của các electron khi bước ra khỏi catốt.
+
+160
+00:24:32,480 --> 00:24:41,680
+Ban đầu hiệu điện thế giữa anot và catốt là $U$ thì tốc độ của electron khi đập vào anot là $4.5 \times 10^7$ m/s.
+
+161
+00:24:44,160 --> 00:24:58,600
+Khi hiệu điện thế giữa anot và catốt là $1.44U$ thì tốc độ của electron đập vào anot là bao nhiêu?
+
+162
+00:25:00,200 --> 00:25:22,680
+Giải cụ thể: vận tốc của electron theo định lý động năng là $\frac{1}{2}mv^2 - \frac{1}{2}mv_0^2 = eU$.
+
+163
+00:25:31,360 --> 00:25:41,640
+Bỏ qua động năng ban đầu, ta có $\frac{1}{2}mv_1^2 = eU_1$ và $\frac{1}{2}mv_2^2 = eU_2$.
+
+164
+00:25:48,840 --> 00:25:50,640
+Trong khi đó $U_2 = 1.44U_1$.
+
+165
+00:25:56,760 --> 00:25:58,560
+Lập tỷ số $\frac{v_2}{v_1} = \sqrt{1.44}$.
+
+166
+00:26:03,480 --> 00:26:07,200
+Như vậy ta dễ dàng rút ra được $v_2 = 5.4 \times 10^7$ m/s.
+
+167
+00:26:11,520 --> 00:26:17,080
+Đáp án của chúng ta là C.
+
+168
+00:26:17,080 --> 00:26:22,720
+Bài ví dụ vừa rồi đã kết thúc ở chuyên đề số 9 ngày hôm nay.
+
+169
+00:26:22,720 --> 00:26:26,800
+Tạm biệt các em và chúc các em học thật tốt.

@@ -1,0 +1,686 @@
+{
+  "video_id": "L26_V164",
+  "fps": 25.0,
+  "n_sentences": 43,
+  "total_words": 963,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày: Lẩu collagen béo bùi không ngấy, chỉ thấy thèm.",
+      "start": 10.52,
+      "end": 16.64,
+      "n_words": 13,
+      "start_frame": 263,
+      "end_frame": 416,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000367.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rất vui khi được gặp lại quý vị khán giả đang xem chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành.",
+      "start": 33.92,
+      "end": 39.2,
+      "n_words": 22,
+      "start_frame": 848,
+      "end_frame": 980,
+      "keyframes": [
+        "000850.webp",
+        "000851.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam. Anh chào Minh Tuấn, và anh cũng rất vui khi được đứng cùng chung với em trong căn bếp hôm nay.",
+      "start": 39.2,
+      "end": 49.8,
+      "n_words": 32,
+      "start_frame": 980,
+      "end_frame": 1245,
+      "keyframes": [
+        "001064.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Lâu rồi anh em chưa nấu ăn chung.",
+      "start": 49.8,
+      "end": 51.24,
+      "n_words": 8,
+      "start_frame": 1245,
+      "end_frame": 1281,
+      "keyframes": [
+        "001278.webp",
+        "001279.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ em thấy trên bàn nguyên liệu anh chuẩn bị sẵn là chân gà.",
+      "start": 51.24,
+      "end": 54.2,
+      "n_words": 15,
+      "start_frame": 1281,
+      "end_frame": 1355,
+      "keyframes": [
+        "001312.webp",
+        "001345.webp",
+        "001346.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Em cứ ăn chân gà là bảo có collagen nhiều, collagen da đẹp.",
+      "start": 54.2,
+      "end": 58.0,
+      "n_words": 13,
+      "start_frame": 1355,
+      "end_frame": 1450,
+      "keyframes": [
+        "001397.webp",
+        "001448.webp",
+        "001449.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta sẽ nấu món lẩu chân gà, lẩu collagen.",
+      "start": 58.0,
+      "end": 60.36,
+      "n_words": 10,
+      "start_frame": 1450,
+      "end_frame": 1509,
+      "keyframes": [
+        "001476.webp",
+        "001504.webp",
+        "001505.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta bật lên đây 3 lít nước nha các bạn.",
+      "start": 60.36,
+      "end": 62.92,
+      "n_words": 11,
+      "start_frame": 1509,
+      "end_frame": 1573,
+      "keyframes": [
+        "001537.webp",
+        "001569.webp",
+        "001570.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và đây chúng ta cần có một cái bọng gà, bột gà này đã lấy hết thịt rồi, cái xương bọng gà và rửa sạch sẽ.",
+      "start": 62.92,
+      "end": 71.76,
+      "n_words": 26,
+      "start_frame": 1573,
+      "end_frame": 1794,
+      "keyframes": [
+        "001610.webp",
+        "001651.webp",
+        "001652.webp",
+        "001678.webp",
+        "001705.webp",
+        "001706.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đúng rồi, cái phần bọng gà này nó sạch sẽ hơn mức bình thường đó là anh ngâm phai tiếp, ngâm phai tiếp để nước dùng trong và thơm hơn.",
+      "start": 72.16,
+      "end": 81.68,
+      "n_words": 30,
+      "start_frame": 1804,
+      "end_frame": 2042,
+      "keyframes": [
+        "001816.webp",
+        "001926.webp",
+        "001927.webp",
+        "001951.webp",
+        "001976.webp",
+        "001977.webp",
+        "002009.webp",
+        "002041.webp",
+        "002042.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Dạ thưa các bạn, ngâm phai tiếp là gì?",
+      "start": 81.68,
+      "end": 83.44,
+      "n_words": 9,
+      "start_frame": 2042,
+      "end_frame": 2086,
+      "keyframes": [
+        "002042.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta chỉ cần mua bọng gà về, chúng ta ngâm trong nước lạnh, ngâm xong rồi chúng ta xả nhanh, chúng ta xả sạch nước ở trong, chúng ta thả một cái bọng gà vào đây nha các bạn.",
+      "start": 83.44,
+      "end": 93.04,
+      "n_words": 40,
+      "start_frame": 2086,
+      "end_frame": 2326,
+      "keyframes": [
+        "002113.webp",
+        "002185.webp",
+        "002186.webp",
+        "002254.webp",
+        "002323.webp",
+        "002324.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và đây chúng ta có trứng gà khoảng nửa ký, chúng ta cho vào chúng ta nấu luôn nha các bạn.",
+      "start": 93.04,
+      "end": 99.04,
+      "n_words": 21,
+      "start_frame": 2326,
+      "end_frame": 2476,
+      "keyframes": [
+        "002353.webp",
+        "002383.webp",
+        "002384.webp",
+        "002435.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng ta thả vào trong cái nồi nước dùng này khoảng hai lát gừng thôi cho nó thơm thưa các bạn.",
+      "start": 99.04,
+      "end": 104.64,
+      "n_words": 21,
+      "start_frame": 2476,
+      "end_frame": 2616,
+      "keyframes": [
+        "002486.webp",
+        "002487.webp",
+        "002512.webp",
+        "002538.webp",
+        "002539.webp",
+        "002566.webp",
+        "002594.webp",
+        "002595.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Để cho chương trình được nhanh thì anh đã chuẩn bị sẵn nước dùng trước rồi, để đâu em đi lấy anh dưới bếp á, em sẽ đi lấy nồi nước dùng này tôi đã nấu khoảng một tiếng đồng hồ và bây giờ chúng ta sẽ cho đậu phộng vào đây.",
+      "start": 104.64,
+      "end": 120.44,
+      "n_words": 52,
+      "start_frame": 2616,
+      "end_frame": 3011,
+      "keyframes": [
+        "002703.webp",
+        "002811.webp",
+        "002812.webp",
+        "002840.webp",
+        "002869.webp",
+        "002870.webp",
+        "002904.webp",
+        "002939.webp",
+        "002940.webp",
+        "002970.webp",
+        "003001.webp",
+        "003002.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Là đậu phộng, các bạn nhớ mua đậu phộng mà loại đậu phộng trắng nha, rồi chúng ta ngâm khoảng 4 giờ cho mềm, sau đó chúng ta lột bỏ cái vỏ đi, chúng ta cho vào trong túi vải nha thưa các bạn.",
+      "start": 120.44,
+      "end": 134.16,
+      "n_words": 44,
+      "start_frame": 3011,
+      "end_frame": 3354,
+      "keyframes": [
+        "003051.webp",
+        "003101.webp",
+        "003102.webp",
+        "003161.webp",
+        "003220.webp",
+        "003221.webp",
+        "003279.webp",
+        "003337.webp",
+        "003338.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Chúng ta cho đậu phộng vào trong túi vải để chúng ta dễ dàng tách riêng đậu phộng cũng như tiết kiệm thời gian khi chúng ta chế biến.",
+      "start": 134.16,
+      "end": 141.24,
+      "n_words": 29,
+      "start_frame": 3354,
+      "end_frame": 3531,
+      "keyframes": [
+        "003394.webp",
+        "003451.webp",
+        "003452.webp",
+        "003491.webp",
+        "003530.webp",
+        "003531.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta cho vào đây một trái lê nha các bạn.",
+      "start": 141.24,
+      "end": 143.36,
+      "n_words": 11,
+      "start_frame": 3531,
+      "end_frame": 3584,
+      "keyframes": [
+        "003531.webp",
+        "003546.webp",
+        "003561.webp",
+        "003562.webp",
+        "003582.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Trong khi chờ đợi thì bây giờ chúng ta sẽ chuẩn bị các loại rau ăn kèm.",
+      "start": 143.36,
+      "end": 147.2,
+      "n_words": 17,
+      "start_frame": 3584,
+      "end_frame": 3680,
+      "keyframes": [
+        "003603.webp",
+        "003604.webp",
+        "003638.webp",
+        "003672.webp",
+        "003673.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Minh Tuấn tỉa biểu diễn thử xem nào.",
+      "start": 147.2,
+      "end": 149.32,
+      "n_words": 8,
+      "start_frame": 3680,
+      "end_frame": 3733,
+      "keyframes": [
+        "003725.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đó, đây là một cái cách để mà thứ nhất là cái phần nấm nó sẽ thấm gia vị, thứ hai nữa thì tạo hình nó sẽ đẹp hơn.",
+      "start": 149.32,
+      "end": 156.88,
+      "n_words": 29,
+      "start_frame": 3733,
+      "end_frame": 3922,
+      "keyframes": [
+        "003778.webp",
+        "003779.webp",
+        "003811.webp",
+        "003843.webp",
+        "003844.webp",
+        "003902.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Khéo, rất là khéo ha.",
+      "start": 156.88,
+      "end": 158.6,
+      "n_words": 5,
+      "start_frame": 3922,
+      "end_frame": 3965,
+      "keyframes": [
+        "003960.webp",
+        "003961.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúng ta cắt phải nghiêng ra một tí xíu nha các bạn.",
+      "start": 158.6,
+      "end": 161.44,
+      "n_words": 12,
+      "start_frame": 3965,
+      "end_frame": 4036,
+      "keyframes": [
+        "003998.webp",
+        "004036.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đậu phộng sau khi chúng ta luộc chín mềm, chúng ta cho vào trong cái máy xay sinh tố như vậy, cho vô đây một miếng nước, cho nước vừa xâm xấp, bỏ vô xay chung.",
+      "start": 161.44,
+      "end": 181.72,
+      "n_words": 36,
+      "start_frame": 4036,
+      "end_frame": 4543,
+      "keyframes": [
+        "004036.webp",
+        "004037.webp",
+        "004109.webp",
+        "004182.webp",
+        "004183.webp",
+        "004209.webp",
+        "004235.webp",
+        "004236.webp",
+        "004290.webp",
+        "004345.webp",
+        "004346.webp",
+        "004387.webp",
+        "004428.webp",
+        "004429.webp",
+        "004493.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Đây chúng ta vớt trái lê ra và chúng ta xay ra như vậy đó.",
+      "start": 181.72,
+      "end": 187.28,
+      "n_words": 15,
+      "start_frame": 4543,
+      "end_frame": 4682,
+      "keyframes": [
+        "004557.webp",
+        "004558.webp",
+        "004587.webp",
+        "004616.webp",
+        "004617.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta thấy nó có màu sữa trắng đục thưa các bạn.",
+      "start": 187.28,
+      "end": 190.92,
+      "n_words": 12,
+      "start_frame": 4682,
+      "end_frame": 4773,
+      "keyframes": [
+        "004685.webp",
+        "004754.webp",
+        "004755.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta nhớ là dùng đậu phộng trắng để cho nước dùng có màu trắng sữa đục như vậy thì trông sẽ giống collagen hơn nha các bạn nhé.",
+      "start": 190.92,
+      "end": 198.88,
+      "n_words": 29,
+      "start_frame": 4773,
+      "end_frame": 4972,
+      "keyframes": [
+        "004863.webp",
+        "004971.webp",
+        "004972.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta lượt lại như vậy đó, rồi chúng ta có thể xay lần hai ha để cho đậu phộng được nhuyễn ha các bạn nha.",
+      "start": 198.88,
+      "end": 204.16,
+      "n_words": 26,
+      "start_frame": 4972,
+      "end_frame": 5104,
+      "keyframes": [
+        "004972.webp",
+        "005003.webp",
+        "005034.webp",
+        "005035.webp",
+        "005080.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nếu chúng ta kỹ rồi, bây giờ thì chúng ta sẽ cho táo tàu vào, cho kỷ tử, sẽ cho vào luôn cho hai muỗng cà phê đường phèn nha các bạn, một phần năm muỗng cà phê muối, hạt nêm Aji-ngon theo một muỗng canh nha các bạn.",
+      "start": 204.16,
+      "end": 219.84,
+      "n_words": 49,
+      "start_frame": 5104,
+      "end_frame": 5496,
+      "keyframes": [
+        "005125.webp",
+        "005126.webp",
+        "005157.webp",
+        "005189.webp",
+        "005190.webp",
+        "005219.webp",
+        "005248.webp",
+        "005249.webp",
+        "005279.webp",
+        "005309.webp",
+        "005310.webp",
+        "005341.webp",
+        "005373.webp",
+        "005374.webp",
+        "005398.webp",
+        "005422.webp",
+        "005423.webp",
+        "005459.webp",
+        "005495.webp",
+        "005496.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Như vậy thì chúng ta đã hoàn tất rồi.",
+      "start": 219.84,
+      "end": 221.92,
+      "n_words": 9,
+      "start_frame": 5496,
+      "end_frame": 5548,
+      "keyframes": [
+        "005496.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ trình bày ra, bày ra một bàn lẩu trông như thế nào nha các bạn. Thấy món ăn này có hấp dẫn không?",
+      "start": 221.92,
+      "end": 228.24,
+      "n_words": 28,
+      "start_frame": 5548,
+      "end_frame": 5706,
+      "keyframes": [
+        "005574.webp",
+        "005653.webp",
+        "005654.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rất là thơm và đặc biệt là đây là một cái nồi lẩu chứa đầy chất collagen và những dinh dưỡng cho làn da bên trong.",
+      "start": 228.24,
+      "end": 235.64,
+      "n_words": 26,
+      "start_frame": 5706,
+      "end_frame": 5891,
+      "keyframes": [
+        "005720.webp",
+        "005787.webp",
+        "005788.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ngay bây giờ trên màn hình đang có một mã QR để tất cả các bạn có thể quét mã này và ngay lập tức công thức nấu món ăn sẽ được hiện ra, chúng ta thực hiện ngay tại nhà nhé.",
+      "start": 235.64,
+      "end": 245.56,
+      "n_words": 42,
+      "start_frame": 5891,
+      "end_frame": 6139,
+      "keyframes": [
+        "005935.webp",
+        "006083.webp",
+        "006084.webp",
+        "006108.webp",
+        "006133.webp",
+        "006134.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi bây giờ chúng ta sang qua một cái nồi lẩu nhỏ nha.",
+      "start": 245.56,
+      "end": 249.6,
+      "n_words": 13,
+      "start_frame": 6139,
+      "end_frame": 6240,
+      "keyframes": [
+        "006159.webp",
+        "006184.webp",
+        "006185.webp",
+        "006211.webp",
+        "006237.webp",
+        "006238.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta có thể thả vô trong đây một ít tôm, thịt bò khi chúng ta dùng.",
+      "start": 249.6,
+      "end": 256.36,
+      "n_words": 17,
+      "start_frame": 6240,
+      "end_frame": 6409,
+      "keyframes": [
+        "006275.webp",
+        "006313.webp",
+        "006314.webp",
+        "006358.webp",
+        "006403.webp",
+        "006404.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi chúng ta cho thịt bò vào, chúng ta bày ít nấm lên, bỏ hành.",
+      "start": 256.36,
+      "end": 264.72,
+      "n_words": 15,
+      "start_frame": 6409,
+      "end_frame": 6618,
+      "keyframes": [
+        "006447.webp",
+        "006491.webp",
+        "006492.webp",
+        "006519.webp",
+        "006546.webp",
+        "006547.webp",
+        "006583.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Và đây là một món ăn mà Tuấn nghĩ rằng là không chỉ làm đẹp cho phụ nữ, bồi bổ cho trẻ em mà còn bồi bổ cho người lớn tuổi và cả nam giới nữa. Mình cùng thực hiện và làm ngay tại nhà nha.",
+      "start": 264.72,
+      "end": 275.04,
+      "n_words": 46,
+      "start_frame": 6618,
+      "end_frame": 6876,
+      "keyframes": [
+        "006619.webp",
+        "006620.webp",
+        "006760.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cảm ơn anh Vũ rất nhiều.",
+      "start": 275.04,
+      "end": 277.2,
+      "n_words": 6,
+      "start_frame": 6876,
+      "end_frame": 6930,
+      "keyframes": [
+        "006901.webp",
+        "006902.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nước dùng có độ sánh từ chân gà, màu trắng đục nhưng trong vị ngọt đậm béo bùi, ăn đến hết nồi vẫn không ngấy, chỉ thấy thèm.",
+      "start": 277.2,
+      "end": 290.2,
+      "n_words": 28,
+      "start_frame": 6930,
+      "end_frame": 7255,
+      "keyframes": [
+        "006949.webp",
+        "006997.webp",
+        "007012.webp",
+        "007051.webp",
+        "007090.webp",
+        "007091.webp",
+        "007173.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Món ăn của ngày hôm nay là một món ăn vừa đẹp mắt, vừa ngon miệng lại rất tốt cho làn da.",
+      "start": 290.2,
+      "end": 295.52,
+      "n_words": 22,
+      "start_frame": 7255,
+      "end_frame": 7388,
+      "keyframes": [
+        "007256.webp",
+        "007257.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Như vậy với Món ngon mỗi ngày, khó khăn đến mấy, thử thách đến mấy cũng tan thành mây.",
+      "start": 295.52,
+      "end": 300.32,
+      "n_words": 19,
+      "start_frame": 7388,
+      "end_frame": 7508,
+      "keyframes": [
+        "007423.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và để thực hiện món ăn này, tất cả các bạn có thể truy cập vào trong những kênh rất quen thuộc của Món ngon mỗi ngày bao gồm YouTube, website và fanpage của chương trình.",
+      "start": 300.32,
+      "end": 308.2,
+      "n_words": 36,
+      "start_frame": 7508,
+      "end_frame": 7705,
+      "keyframes": [
+        "007590.webp",
+        "007591.webp",
+        "007677.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúc các bạn thành công và ngày càng đẹp hơn nhé.",
+      "start": 308.2,
+      "end": 311.4,
+      "n_words": 11,
+      "start_frame": 7705,
+      "end_frame": 7785,
+      "keyframes": [
+        "007764.webp",
+        "007765.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

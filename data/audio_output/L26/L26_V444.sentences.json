@@ -1,0 +1,820 @@
+{
+  "video_id": "L26_V444",
+  "fps": 25.0,
+  "n_sentences": 50,
+  "total_words": 1047,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày. - Alo anh Vũ hả?",
+      "start": 10.52,
+      "end": 13.6,
+      "n_words": 9,
+      "start_frame": 263,
+      "end_frame": 340,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Anh đến đâu rồi? - Anh đây anh đây anh đây.",
+      "start": 13.6,
+      "end": 17.04,
+      "n_words": 11,
+      "start_frame": 340,
+      "end_frame": 426,
+      "keyframes": [
+        "000369.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "- Ủa trời ơi mới vừa tới nè cô nương!",
+      "start": 17.04,
+      "end": 18.88,
+      "n_words": 10,
+      "start_frame": 426,
+      "end_frame": 472,
+      "keyframes": [
+        "000439.webp",
+        "000440.webp",
+        "000455.webp",
+        "000471.webp",
+        "000472.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Anh có nhớ hôm nay anh phải mua cái gì cho em không?",
+      "start": 18.88,
+      "end": 20.92,
+      "n_words": 13,
+      "start_frame": 472,
+      "end_frame": 523,
+      "keyframes": [
+        "000472.webp",
+        "000496.webp",
+        "000520.webp",
+        "000521.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "- Nhớ, mà đi mua cái shop nước hải sản, nhưng mà phải có hải sản mới được chứ.",
+      "start": 20.92,
+      "end": 24.88,
+      "n_words": 19,
+      "start_frame": 523,
+      "end_frame": 622,
+      "keyframes": [
+        "000548.webp",
+        "000576.webp",
+        "000577.webp",
+        "000595.webp",
+        "000614.webp",
+        "000615.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thấy sò lông ngon không?",
+      "start": 24.88,
+      "end": 25.84,
+      "n_words": 5,
+      "start_frame": 622,
+      "end_frame": 646,
+      "keyframes": [
+        "000636.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Sao mà đầu bếp gì mà chu đáo vậy? Lấy gì để đền đáp đây?",
+      "start": 25.84,
+      "end": 29.68,
+      "n_words": 15,
+      "start_frame": 646,
+      "end_frame": 742,
+      "keyframes": [
+        "000658.webp",
+        "000659.webp",
+        "000680.webp",
+        "000701.webp",
+        "000702.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "- Thôi thì anh cứ lấy em nha.",
+      "start": 29.68,
+      "end": 34.2,
+      "n_words": 8,
+      "start_frame": 742,
+      "end_frame": 855,
+      "keyframes": [
+        "000749.webp",
+        "000796.webp",
+        "000797.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Anh cứ nhận lấy đôi bàn tay vàng trong làng phụ bếp này của em, sẵn sàng thôi nè.",
+      "start": 34.2,
+      "end": 39.04,
+      "n_words": 19,
+      "start_frame": 855,
+      "end_frame": 976,
+      "keyframes": [
+        "000865.webp",
+        "000934.webp",
+        "000935.webp",
+        "000954.webp",
+        "000973.webp",
+        "000974.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "- Đi rửa sò lông giùm tôi một cái đi.",
+      "start": 39.04,
+      "end": 40.68,
+      "n_words": 10,
+      "start_frame": 976,
+      "end_frame": 1017,
+      "keyframes": [
+        "000994.webp",
+        "001014.webp",
+        "001015.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "- Bàn tay vàng hả?",
+      "start": 40.68,
+      "end": 42.08,
+      "n_words": 5,
+      "start_frame": 1017,
+      "end_frame": 1052,
+      "keyframes": [
+        "001039.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "- Đúng rồi.",
+      "start": 42.08,
+      "end": 44.6,
+      "n_words": 3,
+      "start_frame": 1052,
+      "end_frame": 1115,
+      "keyframes": [
+        "001064.webp",
+        "001065.webp",
+        "001089.webp",
+        "001114.webp",
+        "001115.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Sò lông nướng bơ tỏi béo ngon hấp dẫn.",
+      "start": 44.6,
+      "end": 62.64,
+      "n_words": 9,
+      "start_frame": 1115,
+      "end_frame": 1566,
+      "keyframes": [
+        "001115.webp",
+        "001157.webp",
+        "001200.webp",
+        "001201.webp",
+        "001271.webp",
+        "001341.webp",
+        "001363.webp",
+        "001393.webp",
+        "001423.webp",
+        "001424.webp",
+        "001511.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Rất vui khi được gặp lại các bạn của chương trình Món ngon mỗi ngày, được tài trợ bởi công ty Azino Việt Nam.",
+      "start": 62.64,
+      "end": 70.4,
+      "n_words": 24,
+      "start_frame": 1566,
+      "end_frame": 1760,
+      "keyframes": [
+        "001599.webp",
+        "001600.webp",
+        "001681.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và một điều các bạn cũng nên nhớ nha, khi chúng ta sử dụng sò lông cũng như cái loại hải sản nhuyễn thể thì chúng ta phải chọn con còn sống nha các bạn.",
+      "start": 70.4,
+      "end": 77.28,
+      "n_words": 35,
+      "start_frame": 1760,
+      "end_frame": 1932,
+      "keyframes": [
+        "001762.webp",
+        "001763.webp",
+        "001848.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ lấy cái nồi nước, anh bật lên nước đã, thật là sôi như vầy rồi chúng ta cho sò lông vào luộc nhanh nha.",
+      "start": 77.28,
+      "end": 83.88,
+      "n_words": 26,
+      "start_frame": 1932,
+      "end_frame": 2097,
+      "keyframes": [
+        "001934.webp",
+        "001935.webp",
+        "001954.webp",
+        "001973.webp",
+        "001974.webp",
+        "001977.webp",
+        "001980.webp",
+        "001981.webp",
+        "001999.webp",
+        "002018.webp",
+        "002019.webp",
+        "002042.webp",
+        "002065.webp",
+        "002066.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Là không cần quá nhiều nước nhưng mà phải thật là sôi, chính xác một tới hai phút thôi là sò lông sẽ chín.",
+      "start": 83.88,
+      "end": 90.32,
+      "n_words": 24,
+      "start_frame": 2097,
+      "end_frame": 2258,
+      "keyframes": [
+        "002128.webp",
+        "002191.webp",
+        "002192.webp",
+        "002224.webp",
+        "002257.webp",
+        "002258.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Như vậy thì sò lông mới tái mới có giữ vị ngọt bên trong mới hấp dẫn.",
+      "start": 90.32,
+      "end": 94.56,
+      "n_words": 17,
+      "start_frame": 2258,
+      "end_frame": 2364,
+      "keyframes": [
+        "002258.webp",
+        "002310.webp",
+        "002362.webp",
+        "002363.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Vừa chín như vậy anh sẽ đem đi anh xả qua nước lạnh, xả nước lạnh.",
+      "start": 94.56,
+      "end": 98.52,
+      "n_words": 16,
+      "start_frame": 2364,
+      "end_frame": 2463,
+      "keyframes": [
+        "002381.webp",
+        "002400.webp",
+        "002401.webp",
+        "002430.webp",
+        "002460.webp",
+        "002461.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và thưa các bạn, đây sò lông sau khi luộc xong chúng ta xả qua nước lạnh, lột bỏ đi một phần vỏ, chúng ta sẽ làm bơ tỏi các bạn ha: 50 gam bơ, chúng ta dùng bơ lạt nha các bạn.",
+      "start": 98.52,
+      "end": 109.84,
+      "n_words": 43,
+      "start_frame": 2463,
+      "end_frame": 2746,
+      "keyframes": [
+        "002519.webp",
+        "002578.webp",
+        "002579.webp",
+        "002602.webp",
+        "002625.webp",
+        "002626.webp",
+        "002647.webp",
+        "002668.webp",
+        "002669.webp",
+        "002707.webp",
+        "002746.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Một muỗng canh tỏi, cho khoảng nửa muỗng cà phê bột canh, thêm vào đây khoảng một muỗng canh ngò tây băm nhuyễn lên đây.",
+      "start": 109.84,
+      "end": 121.84,
+      "n_words": 25,
+      "start_frame": 2746,
+      "end_frame": 3046,
+      "keyframes": [
+        "002746.webp",
+        "002747.webp",
+        "002789.webp",
+        "002831.webp",
+        "002832.webp",
+        "002860.webp",
+        "002888.webp",
+        "002889.webp",
+        "002939.webp",
+        "002989.webp",
+        "002990.webp",
+        "003032.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Rồi phết cái bơ tỏi lên như vậy đó để lên vỉ nướng nha các bạn.",
+      "start": 121.84,
+      "end": 128.64,
+      "n_words": 16,
+      "start_frame": 3046,
+      "end_frame": 3216,
+      "keyframes": [
+        "003074.webp",
+        "003075.webp",
+        "003121.webp",
+        "003167.webp",
+        "003168.webp",
+        "003191.webp",
+        "003215.webp",
+        "003216.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Với cái cách mà mình trộn bơ như thế này để mình nướng sò lông thì em có thể sử dụng để áp dụng cho các loại hải sản nướng khác được không anh Vũ?",
+      "start": 128.64,
+      "end": 137.12,
+      "n_words": 35,
+      "start_frame": 3216,
+      "end_frame": 3428,
+      "keyframes": [
+        "003216.webp",
+        "003290.webp",
+        "003364.webp",
+        "003365.webp",
+        "003405.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "- Được luôn em.",
+      "start": 137.12,
+      "end": 138.24,
+      "n_words": 4,
+      "start_frame": 3428,
+      "end_frame": 3456,
+      "keyframes": [
+        "003445.webp",
+        "003446.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "- Rồi hấp dẫn quá, rắc đây một ít bột xù.",
+      "start": 138.24,
+      "end": 141.4,
+      "n_words": 11,
+      "start_frame": 3456,
+      "end_frame": 3535,
+      "keyframes": [
+        "003470.webp",
+        "003495.webp",
+        "003496.webp",
+        "003515.webp",
+        "003535.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thưa các bạn, chúng ta nên rắc lên sò lông ít bột xù để sau khi nướng thì giữ lại nước ngọt cũng như tạo độ sốt cho món ăn.",
+      "start": 141.4,
+      "end": 148.2,
+      "n_words": 30,
+      "start_frame": 3535,
+      "end_frame": 3705,
+      "keyframes": [
+        "003535.webp",
+        "003536.webp",
+        "003570.webp",
+        "003605.webp",
+        "003606.webp",
+        "003655.webp",
+        "003704.webp",
+        "003705.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Rồi mình nhớ là mình nướng áp mặt nha chứ không phải là mình nướng lửa trên lửa dưới luôn thì sò lông nó sẽ bị teo.",
+      "start": 148.2,
+      "end": 155.2,
+      "n_words": 27,
+      "start_frame": 3705,
+      "end_frame": 3880,
+      "keyframes": [
+        "003705.webp",
+        "003791.webp",
+        "003878.webp",
+        "003879.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Thời gian mình nướng sẽ trong bao lâu hả anh Vũ?",
+      "start": 155.2,
+      "end": 157.12,
+      "n_words": 11,
+      "start_frame": 3880,
+      "end_frame": 3928,
+      "keyframes": [
+        "003921.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "- Chừng hai tới ba phút thôi.",
+      "start": 157.12,
+      "end": 158.52,
+      "n_words": 7,
+      "start_frame": 3928,
+      "end_frame": 3963,
+      "keyframes": [
+        "003963.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rồi bây giờ chúng ta sẽ pha cái nước sốt: một muỗng canh nước cốt chanh, ớt xiêm xanh ha cho khoảng một muỗng canh và ngò tây một muỗng canh luôn, hai muỗng canh đường nha.",
+      "start": 158.52,
+      "end": 168.32,
+      "n_words": 37,
+      "start_frame": 3963,
+      "end_frame": 4208,
+      "keyframes": [
+        "003963.webp",
+        "003964.webp",
+        "003990.webp",
+        "004017.webp",
+        "004018.webp",
+        "004040.webp",
+        "004063.webp",
+        "004064.webp",
+        "004088.webp",
+        "004113.webp",
+        "004114.webp",
+        "004139.webp",
+        "004165.webp",
+        "004166.webp",
+        "004196.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Trong món sò hải sản ngày hôm nay thì đặc biệt có thêm sữa đặc nữa. Anh Vũ?",
+      "start": 168.32,
+      "end": 171.6,
+      "n_words": 18,
+      "start_frame": 4208,
+      "end_frame": 4290,
+      "keyframes": [
+        "004227.webp",
+        "004228.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "- Đúng rồi, sữa đặc thì tạo vị ngọt cũng như tạo vị béo và tạo độ sánh xệt cho cái nước sốt.",
+      "start": 171.6,
+      "end": 175.12,
+      "n_words": 23,
+      "start_frame": 4290,
+      "end_frame": 4378,
+      "keyframes": [
+        "004314.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và cuối cùng chúng ta nêm đây khoảng nửa muỗng canh bột canh, đánh tan rồi chúng ta có ngay sốt nước màu xanh luôn.",
+      "start": 176.24,
+      "end": 189.04,
+      "n_words": 25,
+      "start_frame": 4406,
+      "end_frame": 4726,
+      "keyframes": [
+        "004442.webp",
+        "004482.webp",
+        "004483.webp",
+        "004525.webp",
+        "004567.webp",
+        "004568.webp",
+        "004605.webp",
+        "004642.webp",
+        "004643.webp",
+        "004684.webp",
+        "004726.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Chúng ta nên cho ngò tây vào trong cái nước sốt màu xanh này tạo vị mới lạ trong món ăn.",
+      "start": 189.04,
+      "end": 194.0,
+      "n_words": 21,
+      "start_frame": 4726,
+      "end_frame": 4850,
+      "keyframes": [
+        "004726.webp",
+        "004727.webp",
+        "004751.webp",
+        "004776.webp",
+        "004777.webp",
+        "004809.webp",
+        "004842.webp",
+        "004843.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "- Wow, thơm quá anh Vũ ơi!",
+      "start": 194.0,
+      "end": 199.6,
+      "n_words": 7,
+      "start_frame": 4850,
+      "end_frame": 4990,
+      "keyframes": [
+        "004890.webp",
+        "004938.webp",
+        "004939.webp",
+        "004963.webp",
+        "004988.webp",
+        "004989.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và thưa các bạn, tùy theo công suất của tủ lò mà chúng ta nên để gần sát với lại cái nguồn nhiệt khi mà thấy bơ vừa chảy nha, cái bột mì vừa rám rám như vậy vừa dậy mùi thơm là được rồi các bạn.",
+      "start": 199.6,
+      "end": 210.64,
+      "n_words": 47,
+      "start_frame": 4990,
+      "end_frame": 5266,
+      "keyframes": [
+        "005060.webp",
+        "005131.webp",
+        "005132.webp",
+        "005175.webp",
+        "005219.webp",
+        "005220.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta không nên nướng lâu quá thì nó bị teo, bị tóp, cái con sò nó sẽ không có ngon.",
+      "start": 210.64,
+      "end": 216.28,
+      "n_words": 21,
+      "start_frame": 5266,
+      "end_frame": 5407,
+      "keyframes": [
+        "005290.webp",
+        "005360.webp",
+        "005361.webp",
+        "005395.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng ta sẽ ra dĩa nha.",
+      "start": 216.28,
+      "end": 217.76,
+      "n_words": 6,
+      "start_frame": 5407,
+      "end_frame": 5444,
+      "keyframes": [
+        "005429.webp",
+        "005430.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đó như vậy, wow, để lên và quả thật với cách nướng hải sản và cụ thể là sò lông như món ăn ngày hôm nay thì cái hương thơm của bơ nè, ngò tây nè, tỏi hòa lại với nhau hấp dẫn quá anh Vũ ơi.",
+      "start": 217.76,
+      "end": 234.24,
+      "n_words": 47,
+      "start_frame": 5444,
+      "end_frame": 5856,
+      "keyframes": [
+        "005449.webp",
+        "005468.webp",
+        "005469.webp",
+        "005497.webp",
+        "005525.webp",
+        "005526.webp",
+        "005589.webp",
+        "005652.webp",
+        "005653.webp",
+        "005716.webp",
+        "005780.webp",
+        "005781.webp",
+        "005803.webp",
+        "005825.webp",
+        "005826.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "- Đẹp xíu, dễ thương ha.",
+      "start": 234.24,
+      "end": 236.04,
+      "n_words": 6,
+      "start_frame": 5856,
+      "end_frame": 5901,
+      "keyframes": [
+        "005888.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Dạ rồi đặt đây và thưa bạn thấy là chúng ta đã hoàn thành xong một món ăn từ sò lông cũng khá là mới lạ.",
+      "start": 236.04,
+      "end": 246.56,
+      "n_words": 26,
+      "start_frame": 5901,
+      "end_frame": 6164,
+      "keyframes": [
+        "005951.webp",
+        "005952.webp",
+        "005993.webp",
+        "006034.webp",
+        "006035.webp",
+        "006085.webp",
+        "006136.webp",
+        "006137.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Các bạn hãy thử chế biến nha.",
+      "start": 246.56,
+      "end": 248.28,
+      "n_words": 7,
+      "start_frame": 6164,
+      "end_frame": 6207,
+      "keyframes": [
+        "006171.webp",
+        "006205.webp",
+        "006206.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Sò lông vàng ươm của màu bơ tỏi thơm nức mùi ngò tây, sò thì ngọt béo dai dai, thêm chút giòn giòn của bột xù với sốt cay cay càng ăn càng mê.",
+      "start": 248.28,
+      "end": 260.44,
+      "n_words": 34,
+      "start_frame": 6207,
+      "end_frame": 6511,
+      "keyframes": [
+        "006287.webp",
+        "006369.webp",
+        "006370.webp",
+        "006440.webp",
+        "006511.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Món ăn thì hấp dẫn, công thức nước sốt thì đã có sẵn, ngại gì mà chúng ta không mua ngay sò lông về chế biến và thưởng thức nào.",
+      "start": 260.44,
+      "end": 267.72,
+      "n_words": 30,
+      "start_frame": 6511,
+      "end_frame": 6693,
+      "keyframes": [
+        "006511.webp",
+        "006512.webp",
+        "006601.webp",
+        "006691.webp",
+        "006692.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Quý vị thân mến, với mong muốn chương trình Món ngon mỗi ngày sẽ trở thành người bạn đồng hành thiết thực và phục vụ quý vị ngày một tốt hơn, chúng tôi xin mời quý vị hãy tham gia chương trình đóng góp ý kiến bằng cách trả lời câu hỏi sau: Bạn thấy các món ăn của chương trình Món ngon mỗi ngày có phù hợp với chế độ dinh dưỡng của gia đình mình hay không?",
+      "start": 267.72,
+      "end": 285.44,
+      "n_words": 79,
+      "start_frame": 6693,
+      "end_frame": 7136,
+      "keyframes": [
+        "006818.webp",
+        "006945.webp",
+        "006946.webp",
+        "006968.webp",
+        "006991.webp",
+        "006992.webp",
+        "007063.webp",
+        "007135.webp",
+        "007136.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cách thứ nhất quý vị và các bạn hãy soạn tin nhắn về tổng đài 8069 với cú pháp MN khoảng cách có hoặc không.",
+      "start": 285.44,
+      "end": 293.04,
+      "n_words": 25,
+      "start_frame": 7136,
+      "end_frame": 7326,
+      "keyframes": [
+        "007136.webp",
+        "007313.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Trong đó MN là tên viết tắt của chương trình, khoảng cách có nếu như câu trả lời của quý vị là có, không nếu như câu trả lời của quý vị là không.",
+      "start": 293.04,
+      "end": 302.4,
+      "n_words": 34,
+      "start_frame": 7326,
+      "end_frame": 7560,
+      "keyframes": [
+        "007491.webp",
+        "007492.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và với cách thức này thì mỗi tin nhắn sẽ là 1.000 đồng.",
+      "start": 302.4,
+      "end": 305.24,
+      "n_words": 13,
+      "start_frame": 7560,
+      "end_frame": 7631,
+      "keyframes": [
+        "007561.webp",
+        "007631.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cách thứ hai quý vị và các bạn cũng có thể gửi tin nhắn với nội dung tương tự đến fanpage của chương trình và địa chỉ trang đang được hiện lên trên màn hình.",
+      "start": 305.24,
+      "end": 313.0,
+      "n_words": 35,
+      "start_frame": 7631,
+      "end_frame": 7825,
+      "keyframes": [
+        "007631.webp",
+        "007632.webp",
+        "007695.webp",
+        "007758.webp",
+        "007759.webp",
+        "007794.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Giờ thì Minh Vương xin cảm ơn và hẹn gặp lại quý vị trong những chương trình lần sau.",
+      "start": 313.36,
+      "end": 317.68,
+      "n_words": 19,
+      "start_frame": 7834,
+      "end_frame": 7942,
+      "keyframes": [
+        "007875.webp",
+        "007921.webp",
+        "007922.webp"
+      ],
+      "keyframe_count": 3
+    }
+  ]
+}

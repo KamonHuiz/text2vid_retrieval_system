@@ -1,0 +1,635 @@
+{
+  "video_id": "L26_V006",
+  "fps": 25.0,
+  "n_sentences": 39,
+  "total_words": 856,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày: Cuốn bánh tráng hấp dẫn với nước mắm chua ngọt cùng thịt cá giòn ngọt, thơm mùi mỡ hành, thêm chút rau sống tươi mát, ăn hoài không ngán.",
+      "start": 10.48,
+      "end": 36.64,
+      "n_words": 33,
+      "start_frame": 262,
+      "end_frame": 916,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000334.webp",
+        "000368.webp",
+        "000369.webp",
+        "000407.webp",
+        "000445.webp",
+        "000446.webp",
+        "000475.webp",
+        "000504.webp",
+        "000505.webp",
+        "000548.webp",
+        "000591.webp",
+        "000592.webp",
+        "000615.webp",
+        "000638.webp",
+        "000639.webp",
+        "000662.webp",
+        "000685.webp",
+        "000686.webp",
+        "000770.webp",
+        "000854.webp",
+        "000855.webp",
+        "000886.webp"
+      ],
+      "keyframe_count": 24
+    },
+    {
+      "text": "Chào các bạn đang theo dõi chương trình Món ngon mỗi ngày - Nấu chuẩn an lành. Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 36.92,
+      "end": 45.12,
+      "n_words": 28,
+      "start_frame": 923,
+      "end_frame": 1128,
+      "keyframes": [
+        "001026.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Em chào anh Vũ.",
+      "start": 45.12,
+      "end": 46.28,
+      "n_words": 4,
+      "start_frame": 1128,
+      "end_frame": 1157,
+      "keyframes": [
+        "001134.webp",
+        "001135.webp",
+        "001147.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Em chào Kim Thảo.",
+      "start": 46.28,
+      "end": 47.04,
+      "n_words": 4,
+      "start_frame": 1157,
+      "end_frame": 1176,
+      "keyframes": [
+        "001159.webp",
+        "001160.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Anh Vũ ơi, lễ Quốc khánh thì chắc chắn không thể thiếu được những bữa cơm quây quần bên gia đình.",
+      "start": 47.04,
+      "end": 51.6,
+      "n_words": 21,
+      "start_frame": 1176,
+      "end_frame": 1290,
+      "keyframes": [
+        "001216.webp",
+        "001272.webp",
+        "001273.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Anh Vũ có thể giúp cho Kim Thảo và các bạn khán giả có một món nào đó ngon để trổ tài được không?",
+      "start": 51.6,
+      "end": 56.08,
+      "n_words": 24,
+      "start_frame": 1290,
+      "end_frame": 1402,
+      "keyframes": [
+        "001298.webp",
+        "001324.webp",
+        "001325.webp",
+        "001350.webp",
+        "001376.webp",
+        "001377.webp",
+        "001397.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Dễ thôi em.",
+      "start": 56.08,
+      "end": 56.88,
+      "n_words": 3,
+      "start_frame": 1402,
+      "end_frame": 1422,
+      "keyframes": [
+        "001418.webp",
+        "001419.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và trên bàn đây là một con cá chép.",
+      "start": 56.88,
+      "end": 59.24,
+      "n_words": 9,
+      "start_frame": 1422,
+      "end_frame": 1481,
+      "keyframes": [
+        "001449.webp",
+        "001480.webp",
+        "001481.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ngay bây giờ, mời các bạn cùng theo dõi thực hiện món cá chép chiên giòn cuốn bánh tráng.",
+      "start": 59.24,
+      "end": 63.8,
+      "n_words": 19,
+      "start_frame": 1481,
+      "end_frame": 1595,
+      "keyframes": [
+        "001481.webp",
+        "001514.webp",
+        "001547.webp",
+        "001548.webp",
+        "001570.webp",
+        "001592.webp",
+        "001593.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Món này rất là dễ làm.",
+      "start": 63.8,
+      "end": 65.2,
+      "n_words": 6,
+      "start_frame": 1595,
+      "end_frame": 1630,
+      "keyframes": [
+        "001611.webp",
+        "001629.webp",
+        "001630.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Theo các chuyên gia dinh dưỡng thì món ăn ngày hôm nay hỗ trợ xây dựng khối cơ xương rất là tốt nhé.",
+      "start": 65.2,
+      "end": 69.96,
+      "n_words": 23,
+      "start_frame": 1630,
+      "end_frame": 1749,
+      "keyframes": [
+        "001630.webp",
+        "001688.webp",
+        "001746.webp",
+        "001747.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Dĩ nhiên để cho cá được bớt mùi tanh, nhớ ngâm cá trong nước pha tí xíu muối và nước cốt chanh, như vậy sẽ khử được mùi tanh của cá.",
+      "start": 69.96,
+      "end": 78.12,
+      "n_words": 31,
+      "start_frame": 1749,
+      "end_frame": 1953,
+      "keyframes": [
+        "001785.webp",
+        "001823.webp",
+        "001824.webp",
+        "001850.webp",
+        "001877.webp",
+        "001878.webp",
+        "001913.webp",
+        "001949.webp",
+        "001950.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Có nhiều canxi và phốt pho sẽ giúp cho chúng ta hỗ trợ cơ xương rất là tốt, và hạn chế được nguy cơ loãng xương ở người lớn tuổi và nguy cơ còi xương ở trẻ em.",
+      "start": 78.68,
+      "end": 87.84,
+      "n_words": 38,
+      "start_frame": 1967,
+      "end_frame": 2196,
+      "keyframes": [
+        "002073.webp",
+        "002196.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Sẵn dầu nóng, chúng ta múc ít dầu vô đây, chúng ta làm hành lá, chúng ta cắt ra như vậy.",
+      "start": 87.84,
+      "end": 92.56,
+      "n_words": 21,
+      "start_frame": 2196,
+      "end_frame": 2314,
+      "keyframes": [
+        "002196.webp",
+        "002197.webp",
+        "002231.webp",
+        "002266.webp",
+        "002267.webp",
+        "002290.webp",
+        "002314.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cho vào đây một phần ba muỗng cà phê hạt nêm Aji-ngon theo dầu nóng.",
+      "start": 92.56,
+      "end": 95.92,
+      "n_words": 15,
+      "start_frame": 2314,
+      "end_frame": 2398,
+      "keyframes": [
+        "002314.webp",
+        "002315.webp",
+        "002327.webp",
+        "002340.webp",
+        "002341.webp",
+        "002363.webp",
+        "002385.webp",
+        "002386.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Rồi bây giờ chúng ta cho bớt dầu vào trong cái chén, chúng ta cho một gói Ajicru bột tẩm khô chiên giòn.",
+      "start": 95.92,
+      "end": 103.76,
+      "n_words": 23,
+      "start_frame": 2398,
+      "end_frame": 2594,
+      "keyframes": [
+        "002438.webp",
+        "002491.webp",
+        "002492.webp",
+        "002532.webp",
+        "002573.webp",
+        "002574.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta tẩm áo đều cá và chúng ta nhớ là chọn gói to có trọng lượng là 84 g.",
+      "start": 103.76,
+      "end": 110.08,
+      "n_words": 20,
+      "start_frame": 2594,
+      "end_frame": 2752,
+      "keyframes": [
+        "002627.webp",
+        "002680.webp",
+        "002681.webp",
+        "002724.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng ta dùng Ajicru bột tẩm khô chiên giòn để cá thêm đậm đà và giòn ngon hơn.",
+      "start": 110.72,
+      "end": 115.88,
+      "n_words": 18,
+      "start_frame": 2768,
+      "end_frame": 2897,
+      "keyframes": [
+        "002768.webp",
+        "002832.webp",
+        "002896.webp",
+        "002897.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Như vậy là chúng ta sẽ sử dụng Ajicru bột tẩm khô chiên giòn, rất là tiện lợi bởi vì mình sẽ không cần phải nêm nếm hay là canh bất kỳ một công thức nào cả nhưng mà vẫn chuẩn vị.",
+      "start": 115.88,
+      "end": 125.48,
+      "n_words": 42,
+      "start_frame": 2897,
+      "end_frame": 3137,
+      "keyframes": [
+        "002897.webp",
+        "003018.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúng ta tẩm với bột tẩm khô chiên giòn thì sẽ thấm được hết cái phần nước ở trong cái da cá thưa các bạn.",
+      "start": 125.48,
+      "end": 132.36,
+      "n_words": 25,
+      "start_frame": 3137,
+      "end_frame": 3309,
+      "keyframes": [
+        "003140.webp",
+        "003141.webp",
+        "003217.webp",
+        "003293.webp",
+        "003294.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta nên thả từ từ phần đuôi cá vào trong chảo như vậy thì dầu sẽ không bắn vào người.",
+      "start": 132.36,
+      "end": 141.24,
+      "n_words": 21,
+      "start_frame": 3309,
+      "end_frame": 3531,
+      "keyframes": [
+        "003363.webp",
+        "003433.webp",
+        "003434.webp",
+        "003484.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đúng là hay thiệt các bạn khán giả ơi, bởi vì chúng ta sử dụng Ajicru bột tẩm khô chiên giòn và bí quyết mà đầu bếp Thanh Vũ vừa nói lúc nãy thì cá không hề bị bắn dầu ra ngoài, rất là an toàn cho chị em.",
+      "start": 141.24,
+      "end": 152.76,
+      "n_words": 49,
+      "start_frame": 3531,
+      "end_frame": 3819,
+      "keyframes": [
+        "003534.webp",
+        "003535.webp",
+        "003683.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta dùng cây đũa cả nha, đây để lên giấy thấm dầu.",
+      "start": 152.76,
+      "end": 164.04,
+      "n_words": 13,
+      "start_frame": 3819,
+      "end_frame": 4101,
+      "keyframes": [
+        "003831.webp",
+        "003832.webp",
+        "003879.webp",
+        "003927.webp",
+        "003928.webp",
+        "003982.webp",
+        "004036.webp",
+        "004037.webp",
+        "004068.webp",
+        "004099.webp",
+        "004100.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ pha phần nước chấm.",
+      "start": 164.04,
+      "end": 165.56,
+      "n_words": 9,
+      "start_frame": 4101,
+      "end_frame": 4139,
+      "keyframes": [
+        "004117.webp",
+        "004135.webp",
+        "004136.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta cho vào đây một muỗng canh tỏi băm, một muỗng canh ớt băm, một muỗng canh nước cốt tắc và một muỗng canh đường.",
+      "start": 165.56,
+      "end": 174.16,
+      "n_words": 26,
+      "start_frame": 4139,
+      "end_frame": 4354,
+      "keyframes": [
+        "004172.webp",
+        "004208.webp",
+        "004209.webp",
+        "004229.webp",
+        "004249.webp",
+        "004250.webp",
+        "004276.webp",
+        "004302.webp",
+        "004303.webp",
+        "004326.webp",
+        "004350.webp",
+        "004351.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Chúng ta hòa tan đường và nước cốt tắc trước để cho có cái vị chua và ngọt.",
+      "start": 174.16,
+      "end": 180.24,
+      "n_words": 18,
+      "start_frame": 4354,
+      "end_frame": 4506,
+      "keyframes": [
+        "004430.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ cho một muỗng canh nước mắm và hai muỗng canh nước lọc rồi chúng ta hòa tan.",
+      "start": 180.24,
+      "end": 189.44,
+      "n_words": 22,
+      "start_frame": 4506,
+      "end_frame": 4736,
+      "keyframes": [
+        "004510.webp",
+        "004511.webp",
+        "004542.webp",
+        "004573.webp",
+        "004574.webp",
+        "004623.webp",
+        "004673.webp",
+        "004674.webp",
+        "004725.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Thế là chúng ta đã hoàn thành xong món cá chép chiên giòn cuốn bánh tráng rất là nhanh và ngon nữa.",
+      "start": 189.44,
+      "end": 195.2,
+      "n_words": 22,
+      "start_frame": 4736,
+      "end_frame": 4880,
+      "keyframes": [
+        "004777.webp",
+        "004778.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cảm ơn anh Vũ rất là nhiều.",
+      "start": 195.2,
+      "end": 196.68,
+      "n_words": 7,
+      "start_frame": 4880,
+      "end_frame": 4917,
+      "keyframes": [
+        "004910.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Các bạn có thể quét mã QR trên màn hình của chúng tôi để xem món cho cả nhà của mình nhé.",
+      "start": 196.68,
+      "end": 203.72,
+      "n_words": 22,
+      "start_frame": 4917,
+      "end_frame": 5093,
+      "keyframes": [
+        "005043.webp",
+        "005044.webp",
+        "005068.webp",
+        "005093.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ đặt con cá này trên đĩa rau như vậy.",
+      "start": 203.72,
+      "end": 207.84,
+      "n_words": 14,
+      "start_frame": 5093,
+      "end_frame": 5196,
+      "keyframes": [
+        "005093.webp",
+        "005094.webp",
+        "005143.webp",
+        "005193.webp",
+        "005194.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cuốn bánh tráng thì không thể thiếu phần mỡ hành rưới lên đây để xanh tươi luôn, dạ sẽ làm cho món cá thơm hơn.",
+      "start": 207.84,
+      "end": 217.08,
+      "n_words": 25,
+      "start_frame": 5196,
+      "end_frame": 5427,
+      "keyframes": [
+        "005229.webp",
+        "005265.webp",
+        "005266.webp",
+        "005346.webp",
+        "005427.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thả vô đây ít đậu phộng các bạn.",
+      "start": 217.08,
+      "end": 219.76,
+      "n_words": 8,
+      "start_frame": 5427,
+      "end_frame": 5494,
+      "keyframes": [
+        "005427.webp",
+        "005428.webp",
+        "005461.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi đây anh chấm miếng nước mắm cho em luôn rồi mời em. Cảm ơn anh Vũ.",
+      "start": 219.76,
+      "end": 225.76,
+      "n_words": 17,
+      "start_frame": 5494,
+      "end_frame": 5644,
+      "keyframes": [
+        "005495.webp",
+        "005496.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đây là một món ngon mà không thể bỏ qua.",
+      "start": 231.96,
+      "end": 234.6,
+      "n_words": 10,
+      "start_frame": 5799,
+      "end_frame": 5865,
+      "keyframes": [
+        "005801.webp",
+        "005802.webp",
+        "005857.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Phần da cá bên ngoài có lớp bột giòn vị đậm đà rất là thơm ngon và kết hợp với lại thịt ở bên trong thì mềm nè, và có mỡ hành, đậu phộng.",
+      "start": 234.6,
+      "end": 244.36,
+      "n_words": 34,
+      "start_frame": 5865,
+      "end_frame": 6109,
+      "keyframes": [
+        "005912.webp",
+        "005913.webp",
+        "005956.webp",
+        "005999.webp",
+        "006000.webp",
+        "006060.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Em nghĩ chắc cả nhà mình ngồi cuốn từ sáng đến chiều cũng không có ngán đâu anh.",
+      "start": 244.36,
+      "end": 247.76,
+      "n_words": 18,
+      "start_frame": 6109,
+      "end_frame": 6194,
+      "keyframes": [
+        "006120.webp",
+        "006121.webp",
+        "006157.webp",
+        "006193.webp",
+        "006194.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Để đạt được hiệu quả dinh dưỡng hơn thì chúng ta nên kết hợp món ăn này cùng với thực đơn khuyến nghị sau đây: Cá chép chiên giòn cuốn bánh tráng cho ngày lễ Quốc khánh thêm hân hoan rộn ràng, hãy vào bếp thực hiện ngay nhé. Các bạn khán giả có thể xem lại công thức của món ăn ngày hôm nay và kết hợp với nhiều món ăn ngon khác nữa cho bữa cơm thêm sum vầy hơn.",
+      "start": 247.76,
+      "end": 270.28,
+      "n_words": 82,
+      "start_frame": 6194,
+      "end_frame": 6757,
+      "keyframes": [
+        "006194.webp",
+        "006245.webp",
+        "006296.webp",
+        "006297.webp",
+        "006359.webp",
+        "006421.webp",
+        "006422.webp",
+        "006494.webp",
+        "006566.webp",
+        "006567.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Hãy truy cập vào YouTube, website, fanpage của chương trình Món ngon mỗi ngày và website của chúng tôi đã có giao diện mới, thêm nhiều tính năng và dễ sử dụng.",
+      "start": 270.28,
+      "end": 280.32,
+      "n_words": 32,
+      "start_frame": 6757,
+      "end_frame": 7008,
+      "keyframes": [
+        "006776.webp",
+        "006985.webp",
+        "006986.webp"
+      ],
+      "keyframe_count": 3
+    }
+  ]
+}

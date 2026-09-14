@@ -1,0 +1,763 @@
+{
+  "video_id": "L26_V070",
+  "fps": 25.0,
+  "n_sentences": 42,
+  "total_words": 953,
+  "sentences": [
+    {
+      "text": "Và món ngon mỗi ngày: ba chỉ chiên riềng mẻ giòn rụm, nồng nàn mới lạ.",
+      "start": 0.0,
+      "end": 37.16,
+      "n_words": 16,
+      "start_frame": 0,
+      "end_frame": 929,
+      "keyframes": [
+        "000000.webp",
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000155.webp",
+        "000160.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp",
+        "000357.webp",
+        "000414.webp",
+        "000415.webp",
+        "000467.webp",
+        "000519.webp",
+        "000534.webp",
+        "000623.webp",
+        "000713.webp",
+        "000714.webp",
+        "000759.webp",
+        "000804.webp",
+        "000805.webp",
+        "000895.webp"
+      ],
+      "keyframe_count": 50
+    },
+    {
+      "text": "Rất vui được gặp lại các bạn khán giả đã đến với chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành.",
+      "start": 37.16,
+      "end": 45.0,
+      "n_words": 22,
+      "start_frame": 929,
+      "end_frame": 1125,
+      "keyframes": [
+        "000985.webp",
+        "000986.webp",
+        "001098.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 45.0,
+      "end": 49.44,
+      "n_words": 11,
+      "start_frame": 1125,
+      "end_frame": 1236,
+      "keyframes": [
+        "001210.webp",
+        "001211.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và ngày hôm nay, Phước Hưng cũng như là Kim Thảo sẽ hướng dẫn cho các bạn một cái món chiên ăn chắc chắn sẽ rất là bắt cơm, đó là món ba chỉ chiên riềng mẻ.",
+      "start": 49.44,
+      "end": 58.44,
+      "n_words": 37,
+      "start_frame": 1236,
+      "end_frame": 1461,
+      "keyframes": [
+        "001281.webp",
+        "001393.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Wow, sự kết hợp giữa riềng và mẻ thì nghe là đã thấy hương vị của một món ăn đến từ miền Bắc đúng không ạ?",
+      "start": 58.44,
+      "end": 65.16,
+      "n_words": 26,
+      "start_frame": 1461,
+      "end_frame": 1629,
+      "keyframes": [
+        "001576.webp",
+        "001577.webp",
+        "001605.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi, đối với món ăn ngày hôm nay thì chúng ta sẽ sử dụng riềng Bắc thì sẽ thơm ngon hơn.",
+      "start": 65.16,
+      "end": 69.68,
+      "n_words": 21,
+      "start_frame": 1629,
+      "end_frame": 1742,
+      "keyframes": [
+        "001633.webp",
+        "001634.webp",
+        "001688.webp",
+        "001742.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Phần riềng bây giờ Phước Hưng sẽ cắt sợi vừa ăn.",
+      "start": 69.68,
+      "end": 75.92,
+      "n_words": 11,
+      "start_frame": 1742,
+      "end_frame": 1898,
+      "keyframes": [
+        "001742.webp",
+        "001743.webp",
+        "001780.webp",
+        "001817.webp",
+        "001818.webp",
+        "001870.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Riềng có chất chống oxy hóa rất là mạnh, khi mà chúng ta ăn vào trong cơ thể thì nó sẽ kích thích hệ kháng viêm.",
+      "start": 75.92,
+      "end": 82.92,
+      "n_words": 26,
+      "start_frame": 1898,
+      "end_frame": 2073,
+      "keyframes": [
+        "001923.webp",
+        "001924.webp",
+        "001997.webp",
+        "002071.webp",
+        "002072.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cà chua bi thì Kim Thảo cắt đôi.",
+      "start": 82.92,
+      "end": 87.16,
+      "n_words": 8,
+      "start_frame": 2073,
+      "end_frame": 2179,
+      "keyframes": [
+        "002128.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và bây giờ tiếp tục phần thịt ba chỉ là nguyên liệu chính thì chúng ta sẽ cắt con chì.",
+      "start": 87.16,
+      "end": 92.16,
+      "n_words": 20,
+      "start_frame": 2179,
+      "end_frame": 2304,
+      "keyframes": [
+        "002185.webp",
+        "002186.webp",
+        "002221.webp",
+        "002256.webp",
+        "002257.webp",
+        "002280.webp",
+        "002304.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Thịt ba chỉ là một nguyên liệu rất là tiện lợi đúng không ạ, cung cấp đủ protein cho cơ thể nè.",
+      "start": 92.16,
+      "end": 98.84,
+      "n_words": 22,
+      "start_frame": 2304,
+      "end_frame": 2471,
+      "keyframes": [
+        "002304.webp",
+        "002305.webp",
+        "002332.webp",
+        "002360.webp",
+        "002361.webp",
+        "002408.webp",
+        "002456.webp",
+        "002457.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Và bây giờ tiếp theo, Phước sẽ đặt lên trên bếp một cái chảo nước để chúng ta trần sơ qua phần thịt ba chỉ này.",
+      "start": 98.84,
+      "end": 105.24,
+      "n_words": 26,
+      "start_frame": 2471,
+      "end_frame": 2631,
+      "keyframes": [
+        "002482.webp",
+        "002508.webp",
+        "002509.webp",
+        "002539.webp",
+        "002570.webp",
+        "002571.webp",
+        "002602.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Phước Hưng sẽ cho vào đây một muỗng cà phê đường; Trong khi chúng ta luộc giúp cho thịt ba chỉ sau khi chiên có màu sắc thơm ngon hơn và đẹp hơn.",
+      "start": 105.24,
+      "end": 113.24,
+      "n_words": 33,
+      "start_frame": 2631,
+      "end_frame": 2831,
+      "keyframes": [
+        "002634.webp",
+        "002635.webp",
+        "002664.webp",
+        "002694.webp",
+        "002695.webp",
+        "002713.webp",
+        "002731.webp",
+        "002732.webp",
+        "002780.webp",
+        "002828.webp",
+        "002829.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Chúng ta sẽ trần thịt trước khi chiên giúp cho thịt chín đều và khi chiên sẽ thơm ngon hơn.",
+      "start": 113.24,
+      "end": 118.6,
+      "n_words": 20,
+      "start_frame": 2831,
+      "end_frame": 2965,
+      "keyframes": [
+        "002896.webp",
+        "002963.webp",
+        "002964.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hưng sẽ vớt cái phần thịt này ra một cái tô.",
+      "start": 118.6,
+      "end": 121.64,
+      "n_words": 11,
+      "start_frame": 2965,
+      "end_frame": 3041,
+      "keyframes": [
+        "003005.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ ướp gia vị vào đây.",
+      "start": 121.64,
+      "end": 124.24,
+      "n_words": 10,
+      "start_frame": 3041,
+      "end_frame": 3106,
+      "keyframes": [
+        "003046.webp",
+        "003047.webp",
+        "003075.webp",
+        "003104.webp",
+        "003105.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đầu tiên Phước Hưng sẽ cho vào đây một muỗng canh nước riềng, một muỗng canh cơm mẻ.",
+      "start": 124.24,
+      "end": 129.04,
+      "n_words": 18,
+      "start_frame": 3106,
+      "end_frame": 3226,
+      "keyframes": [
+        "003144.webp",
+        "003184.webp",
+        "003185.webp",
+        "003206.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng ta sẽ chọn mẻ có màu trắng, vị chua nhẹ thì sẽ phù hợp với món ăn hơn.",
+      "start": 129.04,
+      "end": 133.88,
+      "n_words": 19,
+      "start_frame": 3226,
+      "end_frame": 3347,
+      "keyframes": [
+        "003227.webp",
+        "003228.webp",
+        "003248.webp",
+        "003269.webp",
+        "003270.webp",
+        "003309.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ Phước Hưng sẽ đặt lên trên bếp một cái chảo dầu để chúng ta chiên thịt ba chỉ.",
+      "start": 133.88,
+      "end": 137.84,
+      "n_words": 20,
+      "start_frame": 3347,
+      "end_frame": 3446,
+      "keyframes": [
+        "003349.webp",
+        "003350.webp",
+        "003371.webp",
+        "003393.webp",
+        "003394.webp",
+        "003420.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và đối với món ăn ngày hôm nay thì chúng ta sẽ áo một ít gia vị nêm sẵn Ajinomoto bột tẩm khô chiên giòn vào riềng giúp cho riềng khi chiên sẽ thơm ngon và giòn hơn.",
+      "start": 137.84,
+      "end": 147.4,
+      "n_words": 38,
+      "start_frame": 3446,
+      "end_frame": 3685,
+      "keyframes": [
+        "003447.webp",
+        "003448.webp",
+        "003474.webp",
+        "003501.webp",
+        "003502.webp",
+        "003533.webp",
+        "003564.webp",
+        "003565.webp",
+        "003621.webp",
+        "003678.webp",
+        "003679.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Bây giờ thì phần dầu cũng đã nóng già rồi, chúng ta sẽ cho phần riềng vào chiên.",
+      "start": 147.4,
+      "end": 152.32,
+      "n_words": 18,
+      "start_frame": 3685,
+      "end_frame": 3808,
+      "keyframes": [
+        "003704.webp",
+        "003730.webp",
+        "003731.webp",
+        "003764.webp",
+        "003797.webp",
+        "003798.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ thì phần riềng cũng đã có một cái màu vàng rất là đẹp rồi, chúng ta sẽ vớt ra.",
+      "start": 157.32,
+      "end": 162.04,
+      "n_words": 21,
+      "start_frame": 3933,
+      "end_frame": 4051,
+      "keyframes": [
+        "003936.webp",
+        "003937.webp",
+        "003992.webp",
+        "004047.webp",
+        "004048.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hưng sẽ cho qua một cái giấy thấm dầu.",
+      "start": 162.04,
+      "end": 164.16,
+      "n_words": 9,
+      "start_frame": 4051,
+      "end_frame": 4104,
+      "keyframes": [
+        "004076.webp",
+        "004104.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tiếp tục phần ớt sừng cắt sợi chúng ta sẽ chiên sơ qua luôn.",
+      "start": 164.16,
+      "end": 170.28,
+      "n_words": 14,
+      "start_frame": 4104,
+      "end_frame": 4257,
+      "keyframes": [
+        "004104.webp",
+        "004105.webp",
+        "004146.webp",
+        "004188.webp",
+        "004189.webp",
+        "004238.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ Hưng cũng sẽ để qua cái giấy thấm dầu.",
+      "start": 170.28,
+      "end": 174.04,
+      "n_words": 11,
+      "start_frame": 4257,
+      "end_frame": 4351,
+      "keyframes": [
+        "004287.webp",
+        "004288.webp",
+        "004319.webp",
+        "004350.webp",
+        "004351.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hưng sẽ sử dụng hết cái phần gia vị nêm sẵn gói bột tẩm khô chiên giòn, chúng ta cho hết vào phần thịt ba chỉ luôn.",
+      "start": 174.04,
+      "end": 181.4,
+      "n_words": 27,
+      "start_frame": 4351,
+      "end_frame": 4535,
+      "keyframes": [
+        "004351.webp",
+        "004408.webp",
+        "004465.webp",
+        "004466.webp",
+        "004501.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đối với món ăn nào mà có gia vị nêm sẵn gói bột tẩm khô chiên giòn thì chúng ta không cần phải nêm bất cứ một loại gia vị nào.",
+      "start": 181.4,
+      "end": 188.16,
+      "n_words": 31,
+      "start_frame": 4535,
+      "end_frame": 4704,
+      "keyframes": [
+        "004536.webp",
+        "004537.webp",
+        "004566.webp",
+        "004595.webp",
+        "004596.webp",
+        "004616.webp",
+        "004636.webp",
+        "004637.webp",
+        "004670.webp",
+        "004704.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Và bây giờ phần dầu cũng đã nóng, Phước Hưng sẽ lần lượt cho phần thịt vào.",
+      "start": 188.16,
+      "end": 193.84,
+      "n_words": 17,
+      "start_frame": 4704,
+      "end_frame": 4846,
+      "keyframes": [
+        "004704.webp",
+        "004705.webp",
+        "004743.webp",
+        "004782.webp",
+        "004783.webp",
+        "004814.webp",
+        "004846.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Vừa mới cho thịt vào, dầu sôi là chúng ta đã có thể ngửi ngay thấy được mùi riềng mẻ thơm ơi là thơm thưa quý vị.",
+      "start": 193.84,
+      "end": 201.48,
+      "n_words": 27,
+      "start_frame": 4846,
+      "end_frame": 5037,
+      "keyframes": [
+        "004846.webp",
+        "004847.webp",
+        "004875.webp",
+        "004904.webp",
+        "004905.webp",
+        "004947.webp",
+        "004990.webp",
+        "004991.webp",
+        "005015.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Chúng ta sẽ chiên với lửa vừa.",
+      "start": 201.48,
+      "end": 203.32,
+      "n_words": 7,
+      "start_frame": 5037,
+      "end_frame": 5083,
+      "keyframes": [
+        "005039.webp",
+        "005040.webp",
+        "005068.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ thì phần thịt ba chỉ cũng có cái màu vàng rất là đẹp rồi, chúng ta sẽ từ từ vớt ra.",
+      "start": 203.32,
+      "end": 210.2,
+      "n_words": 23,
+      "start_frame": 5083,
+      "end_frame": 5255,
+      "keyframes": [
+        "005097.webp",
+        "005098.webp",
+        "005135.webp",
+        "005173.webp",
+        "005174.webp",
+        "005215.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Phước Hưng sẽ hướng dẫn cho các bạn chúng ta pha nước chấm để ăn kèm với món thịt ba chỉ này: cho vào đây một muỗng canh đường, một muỗng canh nước cốt chanh, một muỗng canh nước mắm, cho tỏi băm và ớt băm vào và bây giờ chúng ta sẽ khuấy lên.",
+      "start": 210.2,
+      "end": 225.76,
+      "n_words": 55,
+      "start_frame": 5255,
+      "end_frame": 5644,
+      "keyframes": [
+        "005257.webp",
+        "005258.webp",
+        "005312.webp",
+        "005366.webp",
+        "005367.webp",
+        "005395.webp",
+        "005423.webp",
+        "005424.webp",
+        "005445.webp",
+        "005466.webp",
+        "005467.webp",
+        "005485.webp",
+        "005503.webp",
+        "005504.webp",
+        "005520.webp",
+        "005537.webp",
+        "005538.webp",
+        "005569.webp",
+        "005600.webp",
+        "005601.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Vậy là đã có một cái món nước chấm rất là ngon và đơn giản nữa đúng không Phước Hưng?",
+      "start": 225.76,
+      "end": 230.32,
+      "n_words": 20,
+      "start_frame": 5644,
+      "end_frame": 5758,
+      "keyframes": [
+        "005646.webp",
+        "005692.webp",
+        "005693.webp",
+        "005728.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Rồi, để có thể xem lại công thức của món ăn ngày hôm nay, chỉ cần là quét mã QR trên màn hình của chúng tôi quý vị nhé.",
+      "start": 230.32,
+      "end": 238.12,
+      "n_words": 29,
+      "start_frame": 5758,
+      "end_frame": 5953,
+      "keyframes": [
+        "005764.webp",
+        "005765.webp",
+        "005835.webp",
+        "005906.webp",
+        "005907.webp",
+        "005931.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ cho cái phần thịt ba chỉ ra.",
+      "start": 238.12,
+      "end": 241.12,
+      "n_words": 12,
+      "start_frame": 5953,
+      "end_frame": 6028,
+      "keyframes": [
+        "005956.webp",
+        "005957.webp",
+        "005976.webp",
+        "005996.webp",
+        "005997.webp",
+        "006020.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Trước khi mình dùng gia vị nêm sẵn Ajinomoto bột tẩm khô chiên giòn, chúng ta cũng có thể cảm nhận được là có một độ giòn nhẹ ở bên ngoài và có một độ mềm ngọt ở bên trong.",
+      "start": 241.12,
+      "end": 251.96,
+      "n_words": 40,
+      "start_frame": 6028,
+      "end_frame": 6299,
+      "keyframes": [
+        "006044.webp",
+        "006045.webp",
+        "006091.webp",
+        "006138.webp",
+        "006139.webp",
+        "006164.webp",
+        "006189.webp",
+        "006190.webp",
+        "006230.webp",
+        "006271.webp",
+        "006272.webp",
+        "006294.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Và bây giờ Phước Hưng sẽ cho một ít xà lách, rau nhí để chúng ta có thể ăn kèm và vừa trang trí cũng đẹp luôn.",
+      "start": 251.96,
+      "end": 261.04,
+      "n_words": 27,
+      "start_frame": 6299,
+      "end_frame": 6526,
+      "keyframes": [
+        "006316.webp",
+        "006317.webp",
+        "006354.webp",
+        "006391.webp",
+        "006392.webp",
+        "006431.webp",
+        "006471.webp",
+        "006472.webp",
+        "006501.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Tiếp tục Phước Hưng sẽ cho riềng lên trên phần thịt, tiếp tục đó chúng ta sẽ cho vài cọng ớt rất là đẹp luôn.",
+      "start": 261.04,
+      "end": 270.92,
+      "n_words": 25,
+      "start_frame": 6526,
+      "end_frame": 6773,
+      "keyframes": [
+        "006531.webp",
+        "006532.webp",
+        "006581.webp",
+        "006630.webp",
+        "006631.webp",
+        "006681.webp",
+        "006731.webp",
+        "006732.webp",
+        "006766.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Và để tạo nên một bữa ăn đầy dinh dưỡng thì chúng ta có thể kết hợp với món canh cá rô bông súng cũng sẽ rất là ngon.",
+      "start": 270.92,
+      "end": 277.4,
+      "n_words": 29,
+      "start_frame": 6773,
+      "end_frame": 6935,
+      "keyframes": [
+        "006801.webp",
+        "006802.webp",
+        "006864.webp",
+        "006926.webp",
+        "006927.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Từng miếng thịt chiên vàng giòn, thơm lừng, mỡ riềng bên trong mềm ngọt, chua thanh của mẻ cùng nước mắm chua ngọt là đậm đà hương vị trong những ngày tiết trời se lạnh.",
+      "start": 277.4,
+      "end": 290.28,
+      "n_words": 35,
+      "start_frame": 6935,
+      "end_frame": 7257,
+      "keyframes": [
+        "007014.webp",
+        "007101.webp",
+        "007102.webp",
+        "007178.webp",
+        "007254.webp",
+        "007255.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Ba chỉ chiên riềng mẻ - một món ăn đậm chất Việt Nam chắc chắn sẽ hạ gục bạn và tốn cơm nhà lắm đây.",
+      "start": 290.28,
+      "end": 296.96,
+      "n_words": 25,
+      "start_frame": 7257,
+      "end_frame": 7424,
+      "keyframes": [
+        "007339.webp",
+        "007423.webp",
+        "007424.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Để xem lại công thức của món ăn ngày hôm nay và rất nhiều những món ăn hấp dẫn khác nữa, chỉ cần truy cập vào YouTube, website, fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 296.96,
+      "end": 307.16,
+      "n_words": 36,
+      "start_frame": 7424,
+      "end_frame": 7679,
+      "keyframes": [
+        "007424.webp",
+        "007543.webp",
+        "007662.webp",
+        "007663.webp"
+      ],
+      "keyframe_count": 4
+    }
+  ]
+}

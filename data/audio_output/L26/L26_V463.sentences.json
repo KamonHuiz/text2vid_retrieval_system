@@ -1,0 +1,821 @@
+{
+  "video_id": "L26_V463",
+  "fps": 25.0,
+  "n_sentences": 50,
+  "total_words": 1014,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày. Chào Thanh Phương.",
+      "start": 10.52,
+      "end": 13.08,
+      "n_words": 7,
+      "start_frame": 263,
+      "end_frame": 327,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cho Phước Hưng đang làm gì đó?",
+      "start": 13.08,
+      "end": 14.64,
+      "n_words": 7,
+      "start_frame": 327,
+      "end_frame": 366,
+      "keyframes": [
+        "000334.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Phương đang làm món bơ dầm.",
+      "start": 14.64,
+      "end": 16.12,
+      "n_words": 6,
+      "start_frame": 366,
+      "end_frame": 403,
+      "keyframes": [
+        "000369.webp",
+        "000370.webp",
+        "000394.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Á Phước Hưng, bơ thì thường tập trung rất là nhiều giá trị dinh dưỡng ở phần bên dưới lớp vỏ của nó là cái phần xanh đó, bởi vậy Thanh Phương khi mà nạo thì chúng ta nạo sát cái phần xanh luôn để chúng ta giữ được cái giá trị dinh dưỡng của nó.",
+      "start": 16.12,
+      "end": 28.16,
+      "n_words": 56,
+      "start_frame": 403,
+      "end_frame": 704,
+      "keyframes": [
+        "000419.webp",
+        "000420.webp",
+        "000529.webp",
+        "000638.webp",
+        "000639.webp",
+        "000689.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đúng rồi đây, và cách thứ hai nữa nếu chúng ta không dùng muỗng nạo thì chúng ta sử dụng dao, chúng ta lột thì cũng sẽ được luôn.",
+      "start": 28.16,
+      "end": 35.4,
+      "n_words": 29,
+      "start_frame": 704,
+      "end_frame": 885,
+      "keyframes": [
+        "000740.webp",
+        "000741.webp",
+        "000811.webp",
+        "000881.webp",
+        "000882.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ôi hay quá, mà vậy mà bây giờ Thanh Phương mới biết. Cảm ơn Phước Hưng nha.",
+      "start": 35.4,
+      "end": 39.16,
+      "n_words": 17,
+      "start_frame": 885,
+      "end_frame": 979,
+      "keyframes": [
+        "000937.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Sẵn đây tặng Phước Hưng trái bơ luôn nè.",
+      "start": 39.16,
+      "end": 41.04,
+      "n_words": 9,
+      "start_frame": 979,
+      "end_frame": 1026,
+      "keyframes": [
+        "000993.webp",
+        "000994.webp",
+        "001009.webp",
+        "001024.webp",
+        "001025.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Tặng trái bơ là mệt rồi đó, vì khi mà tặng thì Phước Hưng cũng sẽ đền đáp lại một cái món ăn từ trái bơ đúng không ạ?",
+      "start": 41.04,
+      "end": 46.76,
+      "n_words": 29,
+      "start_frame": 1026,
+      "end_frame": 1169,
+      "keyframes": [
+        "001061.webp",
+        "001097.webp",
+        "001098.webp",
+        "001113.webp",
+        "001128.webp",
+        "001129.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Vậy thì ngày hôm nay chúng ta sẽ làm món salad trái cây đi.",
+      "start": 46.76,
+      "end": 49.84,
+      "n_words": 14,
+      "start_frame": 1169,
+      "end_frame": 1246,
+      "keyframes": [
+        "001200.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đồng ý liền.",
+      "start": 49.84,
+      "end": 52.88,
+      "n_words": 3,
+      "start_frame": 1246,
+      "end_frame": 1322,
+      "keyframes": [
+        "001271.webp",
+        "001272.webp",
+        "001296.webp",
+        "001321.webp",
+        "001322.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Salad thanh long chanh dây.",
+      "start": 52.88,
+      "end": 54.68,
+      "n_words": 5,
+      "start_frame": 1322,
+      "end_frame": 1367,
+      "keyframes": [
+        "001322.webp",
+        "001363.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ngay bây giờ, chào các bạn đang đến với chương trình Món ngon mỗi ngày được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 55.76,
+      "end": 78.36,
+      "n_words": 24,
+      "start_frame": 1394,
+      "end_frame": 1959,
+      "keyframes": [
+        "001404.webp",
+        "001405.webp",
+        "001460.webp",
+        "001515.webp",
+        "001537.webp",
+        "001582.webp",
+        "001628.webp",
+        "001629.webp",
+        "001716.webp",
+        "001804.webp",
+        "001805.webp",
+        "001881.webp",
+        "001958.webp",
+        "001959.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Với món salad trái cây này, cho Thanh Phương cắt phần trái cây nha.",
+      "start": 78.36,
+      "end": 81.84,
+      "n_words": 14,
+      "start_frame": 1959,
+      "end_frame": 2046,
+      "keyframes": [
+        "001959.webp",
+        "002007.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đúng rồi, táo đỏ thì bây giờ chúng ta sẽ cắt khối.",
+      "start": 81.84,
+      "end": 84.48,
+      "n_words": 12,
+      "start_frame": 2046,
+      "end_frame": 2112,
+      "keyframes": [
+        "002055.webp",
+        "002056.webp",
+        "002073.webp",
+        "002090.webp",
+        "002091.webp",
+        "002102.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sau khi mà các bạn chúng ta cắt cái phần táo rồi thì chúng ta nên lưu ý chúng ta phải ngâm vào trong nước muối loãng để giúp cho táo không bị thâm.",
+      "start": 84.48,
+      "end": 90.8,
+      "n_words": 34,
+      "start_frame": 2112,
+      "end_frame": 2270,
+      "keyframes": [
+        "002114.webp",
+        "002115.webp",
+        "002126.webp",
+        "002137.webp",
+        "002138.webp",
+        "002159.webp",
+        "002180.webp",
+        "002181.webp",
+        "002207.webp",
+        "002233.webp",
+        "002234.webp",
+        "002252.webp",
+        "002270.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Thanh long nè, thì bây giờ các bạn chúng ta cũng cắt khối vuông tương đương với phần táo luôn rồi chúng ta cho ra dĩa luôn.",
+      "start": 90.8,
+      "end": 98.48,
+      "n_words": 27,
+      "start_frame": 2270,
+      "end_frame": 2462,
+      "keyframes": [
+        "002270.webp",
+        "002271.webp",
+        "002281.webp",
+        "002292.webp",
+        "002293.webp",
+        "002297.webp",
+        "002301.webp",
+        "002302.webp",
+        "002316.webp",
+        "002330.webp",
+        "002331.webp",
+        "002348.webp",
+        "002365.webp",
+        "002366.webp",
+        "002379.webp",
+        "002393.webp",
+        "002394.webp",
+        "002432.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Còn phần bơ thì các bạn cũng sẽ cắt khối vuông tương đương với phần thanh long luôn.",
+      "start": 98.48,
+      "end": 112.96,
+      "n_words": 18,
+      "start_frame": 2462,
+      "end_frame": 2824,
+      "keyframes": [
+        "002470.webp",
+        "002471.webp",
+        "002502.webp",
+        "002534.webp",
+        "002535.webp",
+        "002576.webp",
+        "002617.webp",
+        "002618.webp",
+        "002672.webp",
+        "002727.webp",
+        "002728.webp",
+        "002779.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Đối với món salad ngày hôm nay thì các bạn nên chọn bơ sáp nè, dẻo, trái chín.",
+      "start": 112.96,
+      "end": 117.24,
+      "n_words": 18,
+      "start_frame": 2824,
+      "end_frame": 2931,
+      "keyframes": [
+        "002831.webp",
+        "002832.webp",
+        "002869.webp",
+        "002907.webp",
+        "002908.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Trái chín mà cái vỏ xanh thì cái món ăn sẽ phù hợp hơn và sẽ ngon hơn.",
+      "start": 117.24,
+      "end": 121.28,
+      "n_words": 18,
+      "start_frame": 2931,
+      "end_frame": 3032,
+      "keyframes": [
+        "002936.webp",
+        "002965.webp",
+        "002966.webp",
+        "002999.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Tiếp theo Phước Hưng sẽ đặt một cái chảo lên trên bếp để chúng ta áp chảo thịt xông khói.",
+      "start": 121.28,
+      "end": 124.96,
+      "n_words": 20,
+      "start_frame": 3032,
+      "end_frame": 3124,
+      "keyframes": [
+        "003033.webp",
+        "003034.webp",
+        "003080.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chảo nóng, Phước Hưng sẽ cho vào đây khoảng một muỗng canh dầu ăn nè.",
+      "start": 124.96,
+      "end": 128.68,
+      "n_words": 15,
+      "start_frame": 3124,
+      "end_frame": 3217,
+      "keyframes": [
+        "003126.webp",
+        "003127.webp",
+        "003172.webp",
+        "003217.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng ta sẽ áp chảo thịt xông khói với một ít dầu để cho thịt xông khói có độ giòn và sẽ giảm mỡ hơn.",
+      "start": 128.68,
+      "end": 136.08,
+      "n_words": 25,
+      "start_frame": 3217,
+      "end_frame": 3402,
+      "keyframes": [
+        "003217.webp",
+        "003218.webp",
+        "003281.webp",
+        "003344.webp",
+        "003345.webp",
+        "003370.webp",
+        "003395.webp",
+        "003396.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Đúng là cái áp chảo nó là càng dậy lên cái mùi thơm của thịt xông khói nè và hơi xém cạnh nữa, trông rất là hấp dẫn các bạn ạ.",
+      "start": 136.08,
+      "end": 143.36,
+      "n_words": 31,
+      "start_frame": 3402,
+      "end_frame": 3584,
+      "keyframes": [
+        "003427.webp",
+        "003459.webp",
+        "003460.webp",
+        "003500.webp",
+        "003541.webp",
+        "003542.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đúng rồi và giảm rất là nhiều cái lượng mỡ trong thịt xông khói nữa đó.",
+      "start": 143.36,
+      "end": 147.64,
+      "n_words": 16,
+      "start_frame": 3584,
+      "end_frame": 3691,
+      "keyframes": [
+        "003608.webp",
+        "003674.webp",
+        "003675.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ mỡ đã bắt đầu tươm ra nè.",
+      "start": 147.64,
+      "end": 150.52,
+      "n_words": 9,
+      "start_frame": 3691,
+      "end_frame": 3763,
+      "keyframes": [
+        "003717.webp",
+        "003760.webp",
+        "003761.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mà Phước Hưng ơi, mình muốn giảm mỡ tại sao mình áp chảo lại cho thêm một tí dầu?",
+      "start": 150.52,
+      "end": 154.24,
+      "n_words": 19,
+      "start_frame": 3763,
+      "end_frame": 3856,
+      "keyframes": [
+        "003813.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Vậy chúng ta sẽ áp chảo thịt xông khói với một ít dầu để cho cái lượng mỡ trong phần thịt xông khói nó tiết ra nhiều và nó tăng thêm cái độ giòn của thịt xông khói nữa.",
+      "start": 154.24,
+      "end": 163.44,
+      "n_words": 39,
+      "start_frame": 3856,
+      "end_frame": 4086,
+      "keyframes": [
+        "003865.webp",
+        "003866.webp",
+        "003897.webp",
+        "003929.webp",
+        "003930.webp",
+        "004008.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đây bây giờ phần thịt xông khói cũng sắp được rồi nè.",
+      "start": 163.44,
+      "end": 166.36,
+      "n_words": 12,
+      "start_frame": 4086,
+      "end_frame": 4159,
+      "keyframes": [
+        "004087.webp",
+        "004088.webp",
+        "004123.webp",
+        "004158.webp",
+        "004159.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ Phước Hưng sẽ tắt bếp nè, cho qua cái dĩa thấm dầu và bây giờ tiếp theo Phước Hưng sẽ hướng dẫn cho các bạn một cái khâu rất là quan trọng đó.",
+      "start": 166.36,
+      "end": 175.0,
+      "n_words": 35,
+      "start_frame": 4159,
+      "end_frame": 4375,
+      "keyframes": [
+        "004159.webp",
+        "004179.webp",
+        "004200.webp",
+        "004201.webp",
+        "004223.webp",
+        "004246.webp",
+        "004247.webp",
+        "004275.webp",
+        "004303.webp",
+        "004304.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Rất là quan trọng đó, chúng ta pha cái hỗn hợp sốt để ăn kèm với phần salad.",
+      "start": 175.0,
+      "end": 178.48,
+      "n_words": 18,
+      "start_frame": 4375,
+      "end_frame": 4462,
+      "keyframes": [
+        "004403.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đầu tiên Phước Hưng sẽ cho vào đây là nửa hộp sữa chua có đường.",
+      "start": 179.0,
+      "end": 182.48,
+      "n_words": 15,
+      "start_frame": 4475,
+      "end_frame": 4562,
+      "keyframes": [
+        "004503.webp",
+        "004504.webp",
+        "004541.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Wow, salad mà có sữa chua thì rất là hấp dẫn, đây cung cấp thêm những cái vi sinh có lợi cho cơ thể.",
+      "start": 182.48,
+      "end": 187.12,
+      "n_words": 24,
+      "start_frame": 4562,
+      "end_frame": 4678,
+      "keyframes": [
+        "004578.webp",
+        "004579.webp",
+        "004636.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng rồi, cho phần nước cốt chanh dây vào và chúng ta sẽ giữ lại hộp luôn nha, và một muỗng canh mật ong, hai muỗng canh sốt Mayonnaise.",
+      "start": 187.12,
+      "end": 196.16,
+      "n_words": 29,
+      "start_frame": 4678,
+      "end_frame": 4904,
+      "keyframes": [
+        "004693.webp",
+        "004694.webp",
+        "004709.webp",
+        "004725.webp",
+        "004726.webp",
+        "004758.webp",
+        "004791.webp",
+        "004792.webp",
+        "004825.webp",
+        "004859.webp",
+        "004860.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Có thêm sốt Mayonnaise vô đây sẽ trung hòa lại cái vị béo ngọt cho phần sốt.",
+      "start": 197.56,
+      "end": 202.2,
+      "n_words": 17,
+      "start_frame": 4939,
+      "end_frame": 5055,
+      "keyframes": [
+        "004990.webp",
+        "004991.webp",
+        "005021.webp",
+        "005052.webp",
+        "005053.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đúng rồi và khi trộn thì nó sẽ có độ bám vô thành trái cây hơn.",
+      "start": 202.2,
+      "end": 205.96,
+      "n_words": 16,
+      "start_frame": 5055,
+      "end_frame": 5149,
+      "keyframes": [
+        "005101.webp",
+        "005149.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Wow, cái phần sốt này thật hấp dẫn, làm sao có một cái màu vàng rất là ấm luôn đúng không?",
+      "start": 205.96,
+      "end": 211.64,
+      "n_words": 21,
+      "start_frame": 5149,
+      "end_frame": 5291,
+      "keyframes": [
+        "005149.webp",
+        "005150.webp",
+        "005184.webp",
+        "005219.webp",
+        "005220.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ chúng ta phải khuấy đều cho thật là mịn cái hỗn hợp sốt này ra.",
+      "start": 211.64,
+      "end": 217.4,
+      "n_words": 17,
+      "start_frame": 5291,
+      "end_frame": 5435,
+      "keyframes": [
+        "005305.webp",
+        "005390.webp",
+        "005391.webp",
+        "005415.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ thì tất cả nguyên liệu cho món salad cũng đã sẵn sàng rồi.",
+      "start": 217.4,
+      "end": 220.72,
+      "n_words": 15,
+      "start_frame": 5435,
+      "end_frame": 5518,
+      "keyframes": [
+        "005440.webp",
+        "005441.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ chúng ta chỉ trình bày ra món ăn thôi.",
+      "start": 220.72,
+      "end": 222.64,
+      "n_words": 11,
+      "start_frame": 5518,
+      "end_frame": 5566,
+      "keyframes": [
+        "005530.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Phước Hưng đã chuẩn bị sẵn một cái dĩa để chúng ta bày món ăn nè và một cái chén sốt, khi mà chúng ta ăn thì thấy thiếu thì chúng ta có thể trộn thêm vô cũng được luôn.",
+      "start": 222.64,
+      "end": 231.44,
+      "n_words": 40,
+      "start_frame": 5566,
+      "end_frame": 5786,
+      "keyframes": [
+        "005619.webp",
+        "005620.webp",
+        "005680.webp",
+        "005741.webp",
+        "005742.webp",
+        "005763.webp",
+        "005784.webp",
+        "005785.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Bây giờ đầu tiên chúng ta sẽ lần lượt cho phần trái cây lên nè, cho thanh long nè, sẽ cho phần bơ lên.",
+      "start": 231.44,
+      "end": 239.04,
+      "n_words": 24,
+      "start_frame": 5786,
+      "end_frame": 5976,
+      "keyframes": [
+        "005823.webp",
+        "005862.webp",
+        "005863.webp",
+        "005881.webp",
+        "005899.webp",
+        "005900.webp",
+        "005918.webp",
+        "005936.webp",
+        "005937.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Wow, món salad này có nhiều loại trái cây khác nhau và cũng có nhiều màu sắc khác nhau nữa, đồng nghĩa với việc là chúng ta sẽ được cung cấp nhiều vitamin và khoáng chất khác nhau.",
+      "start": 239.04,
+      "end": 247.08,
+      "n_words": 38,
+      "start_frame": 5976,
+      "end_frame": 6177,
+      "keyframes": [
+        "005994.webp",
+        "006051.webp",
+        "006052.webp",
+        "006114.webp",
+        "006177.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cho cái phần thịt xông khói lên bên trên nè, cho sốt lên nè.",
+      "start": 247.08,
+      "end": 252.88,
+      "n_words": 14,
+      "start_frame": 6177,
+      "end_frame": 6322,
+      "keyframes": [
+        "006177.webp",
+        "006178.webp",
+        "006227.webp",
+        "006276.webp",
+        "006277.webp",
+        "006298.webp",
+        "006319.webp",
+        "006320.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Sốt này vừa chua chua ngọt ngọt lại thơm mùi thơm của chanh dây nữa, cực kỳ hấp dẫn luôn các bạn ơi.",
+      "start": 252.88,
+      "end": 258.0,
+      "n_words": 23,
+      "start_frame": 6322,
+      "end_frame": 6450,
+      "keyframes": [
+        "006349.webp",
+        "006379.webp",
+        "006380.webp",
+        "006415.webp",
+        "006450.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và bây giờ chúng ta sẽ cho sốt Mayonnaise vô lên bề mặt của phần salad.",
+      "start": 258.0,
+      "end": 262.08,
+      "n_words": 16,
+      "start_frame": 6450,
+      "end_frame": 6552,
+      "keyframes": [
+        "006450.webp",
+        "006451.webp",
+        "006478.webp",
+        "006506.webp",
+        "006507.webp",
+        "006528.webp",
+        "006549.webp",
+        "006550.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Cuối cùng chúng ta sẽ cho một ít húng lủi lên.",
+      "start": 262.08,
+      "end": 264.4,
+      "n_words": 11,
+      "start_frame": 6552,
+      "end_frame": 6610,
+      "keyframes": [
+        "006580.webp",
+        "006610.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Một món ăn rất là dễ thực hiện chỉ trong vòng tích tắc thôi, các bạn đừng bỏ lỡ món ăn thơm ngon này nhé.",
+      "start": 264.4,
+      "end": 270.0,
+      "n_words": 25,
+      "start_frame": 6610,
+      "end_frame": 6750,
+      "keyframes": [
+        "006610.webp",
+        "006611.webp",
+        "006663.webp",
+        "006715.webp",
+        "006716.webp",
+        "006732.webp",
+        "006748.webp",
+        "006749.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Sốt béo thơm mùi chanh dây xen lẫn vị bùi của bơ, chua chua ngọt ngọt từ thanh long và giòn thanh của táo, thật mát lành và tươi ngon hè.",
+      "start": 270.0,
+      "end": 279.92,
+      "n_words": 31,
+      "start_frame": 6750,
+      "end_frame": 6998,
+      "keyframes": [
+        "006773.webp",
+        "006797.webp",
+        "006817.webp",
+        "006857.webp",
+        "006898.webp",
+        "006899.webp",
+        "006945.webp",
+        "006992.webp",
+        "006993.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đây là món salad thanh long chanh dây, nguyên liệu vừa dễ kiếm dễ thực hiện, các bạn hãy nhớ làm cho cả gia đình mình thưởng thức nhé.",
+      "start": 279.92,
+      "end": 286.4,
+      "n_words": 29,
+      "start_frame": 6998,
+      "end_frame": 7160,
+      "keyframes": [
+        "007075.webp",
+        "007158.webp",
+        "007159.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Còn bây giờ thì xin chào tạm biệt và hẹn gặp lại.",
+      "start": 286.4,
+      "end": 289.92,
+      "n_words": 12,
+      "start_frame": 7160,
+      "end_frame": 7248,
+      "keyframes": [
+        "007206.webp"
+      ],
+      "keyframe_count": 1
+    }
+  ]
+}

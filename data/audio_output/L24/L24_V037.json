@@ -1,0 +1,19 @@
+{
+  "unfiltered": {
+    "text": "nay nam sư con hãy lên đỉnh núi tản viên tìm cho được kim linh châu mang về đây để tiêu trừ dịch bệnh và thiên tai lũ lụt để muôn dân được ấm no hạnh phúc",
+    "word_count": 37
+  },
+  "flagged": {
+    "text": "nay @not_in_dict(nam sư) con hãy lên đỉnh núi tản viên tìm cho được @not_in_dict(kim linh) @not_in_dict(châu mang) về đây để tiêu trừ dịch bệnh và thiên tai lũ lụt để muôn dân được ấm no hạnh phúc",
+    "word_count": 37
+  },
+  "refined": {
+    "text": "Nay Nam Sư con hãy lên đỉnh núi Tản Viên tìm cho được Kim Linh Châu Mang về đây để tiêu trừ dịch bệnh và thiên tai lũ lụt, để muôn dân được ấm no hạnh phúc.",
+    "word_count": 37,
+    "source": "flagged"
+  },
+  "proofread": {
+    "text": "Nay Nam Sư con hãy lên đỉnh núi Tản Viên tìm cho được Kim Linh Châu mang về đây để tiêu trừ dịch bệnh và thiên tai lũ lụt, để muôn dân được ấm no hạnh phúc.",
+    "word_count": 37
+  }
+}

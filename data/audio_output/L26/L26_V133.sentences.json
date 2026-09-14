@@ -1,0 +1,816 @@
+{
+  "video_id": "L26_V133",
+  "fps": 25.0,
+  "n_sentences": 45,
+  "total_words": 972,
+  "sentences": [
+    {
+      "text": "Rất món ngon mỗi ngày, giòn sần sật, béo thơm, khéo vị với chả ốc nướng lá lốt.",
+      "start": 0.04,
+      "end": 35.28,
+      "n_words": 18,
+      "start_frame": 1,
+      "end_frame": 882,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000130.webp",
+        "000147.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp",
+        "000351.webp",
+        "000403.webp",
+        "000404.webp",
+        "000458.webp",
+        "000512.webp",
+        "000513.webp",
+        "000557.webp",
+        "000602.webp",
+        "000603.webp",
+        "000654.webp",
+        "000706.webp",
+        "000707.webp",
+        "000797.webp"
+      ],
+      "keyframe_count": 49
+    },
+    {
+      "text": "Rất vui mừng gặp lại các bạn trong chương trình Món ngon mỗi ngày, nấu chuẩn an lành.",
+      "start": 35.28,
+      "end": 39.96,
+      "n_words": 18,
+      "start_frame": 882,
+      "end_frame": 999,
+      "keyframes": [
+        "000887.webp",
+        "000888.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Azino Việt Nam. Ngày hôm nay, chúng ta sẽ cùng nhau thực hiện món chả ốc nướng lá lốt.",
+      "start": 39.96,
+      "end": 48.16,
+      "n_words": 27,
+      "start_frame": 999,
+      "end_frame": 1204,
+      "keyframes": [
+        "001080.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và như tất cả quý vị và các bạn biết thì ốc bươu là một nguyên liệu có chứa nhiều canxi, bên cạnh đó còn bổ sung protein và mangan nữa, rất là tốt cho xương và đặc biệt là các bạn nhỏ ăn thì sẽ tăng trưởng được chiều cao, đúng không cô Hà?",
+      "start": 48.16,
+      "end": 61.76,
+      "n_words": 55,
+      "start_frame": 1204,
+      "end_frame": 1544,
+      "keyframes": [
+        "001273.webp",
+        "001274.webp",
+        "001303.webp",
+        "001333.webp",
+        "001334.webp",
+        "001416.webp",
+        "001499.webp",
+        "001500.webp",
+        "001526.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Và đặc biệt ốc bươu ăn nó có cái độ giòn sần sật rất là ngon.",
+      "start": 61.76,
+      "end": 65.28,
+      "n_words": 16,
+      "start_frame": 1544,
+      "end_frame": 1632,
+      "keyframes": [
+        "001552.webp",
+        "001553.webp",
+        "001592.webp",
+        "001631.webp",
+        "001632.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ốc chúng ta mua về rửa cho sạch nhớt, sau đó thì mình sẽ cắt vừa thôi để khi ăn còn cảm nhận được vị ốc nhé.",
+      "start": 65.28,
+      "end": 72.52,
+      "n_words": 27,
+      "start_frame": 1632,
+      "end_frame": 1813,
+      "keyframes": [
+        "001632.webp",
+        "001652.webp",
+        "001673.webp",
+        "001674.webp",
+        "001695.webp",
+        "001716.webp",
+        "001717.webp",
+        "001735.webp",
+        "001753.webp",
+        "001754.webp",
+        "001782.webp",
+        "001810.webp",
+        "001811.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Bây giờ thì mình sẽ ướp gia vị vào ốc.",
+      "start": 72.52,
+      "end": 74.76,
+      "n_words": 10,
+      "start_frame": 1813,
+      "end_frame": 1869,
+      "keyframes": [
+        "001840.webp",
+        "001869.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cô sẽ cho vào đây một muỗng cà phê gừng băm.",
+      "start": 74.76,
+      "end": 78.32,
+      "n_words": 11,
+      "start_frame": 1869,
+      "end_frame": 1958,
+      "keyframes": [
+        "001869.webp",
+        "001870.webp",
+        "001918.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Phần mỡ, chúng ta sẽ sử dụng mỡ khổ hoặc là mỡ gáy, mình sẽ luộc qua sau đó mình cắt nhỏ như thế này.",
+      "start": 78.32,
+      "end": 85.12,
+      "n_words": 25,
+      "start_frame": 1958,
+      "end_frame": 2128,
+      "keyframes": [
+        "001967.webp",
+        "001968.webp",
+        "002020.webp",
+        "002073.webp",
+        "002074.webp",
+        "002104.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và để cho phần mỡ được trong ngon thì mình sẽ ướp vào một muỗng cà phê đường.",
+      "start": 85.12,
+      "end": 90.08,
+      "n_words": 18,
+      "start_frame": 2128,
+      "end_frame": 2252,
+      "keyframes": [
+        "002135.webp",
+        "002136.webp",
+        "002165.webp",
+        "002194.webp",
+        "002195.webp",
+        "002226.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Khi mà chúng ta làm các món chả mà cho mỡ gáy vào thì món chả của chúng ta sẽ có một độ beo béo nhưng mà cũng không bị khô nữa.",
+      "start": 90.08,
+      "end": 97.8,
+      "n_words": 32,
+      "start_frame": 2252,
+      "end_frame": 2445,
+      "keyframes": [
+        "002258.webp",
+        "002259.webp",
+        "002333.webp",
+        "002408.webp",
+        "002409.webp",
+        "002441.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta sẽ trộn cái phần nhân để mà chúng ta sẽ gói chả lá lốt ha.",
+      "start": 97.8,
+      "end": 101.64,
+      "n_words": 17,
+      "start_frame": 2445,
+      "end_frame": 2541,
+      "keyframes": [
+        "002474.webp",
+        "002475.webp",
+        "002507.webp",
+        "002540.webp",
+        "002541.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Mình sẽ cho vào đây là phần ốc, giò sống, mỡ phần mỡ gáy, nấm mèo cắt nhỏ và nấm hương cắt nhỏ, khoảng hai muỗng canh tiêu xanh đập dập.",
+      "start": 101.64,
+      "end": 111.4,
+      "n_words": 31,
+      "start_frame": 2541,
+      "end_frame": 2785,
+      "keyframes": [
+        "002541.webp",
+        "002560.webp",
+        "002580.webp",
+        "002581.webp",
+        "002597.webp",
+        "002614.webp",
+        "002615.webp",
+        "002635.webp",
+        "002656.webp",
+        "002657.webp",
+        "002698.webp",
+        "002740.webp",
+        "002741.webp",
+        "002763.webp",
+        "002785.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Tiêu xanh còn có vitamin A và vitamin C mang nhiều lợi ích cho sức khỏe nữa.",
+      "start": 111.4,
+      "end": 116.64,
+      "n_words": 17,
+      "start_frame": 2785,
+      "end_frame": 2916,
+      "keyframes": [
+        "002785.webp",
+        "002786.webp",
+        "002851.webp",
+        "002916.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Trong món ăn này, chúng ta thêm tiêu xanh đập dập để tạo hương vị đặc trưng vì tiêu xanh rất là phù hợp với thịt ốc.",
+      "start": 116.64,
+      "end": 122.8,
+      "n_words": 27,
+      "start_frame": 2916,
+      "end_frame": 3070,
+      "keyframes": [
+        "002916.webp",
+        "002917.webp",
+        "002993.webp",
+        "003069.webp",
+        "003070.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cho vào đây một muỗng cà phê tỏi băm, một muỗng cà phê hành tím băm, một muỗng cà phê ngò rí băm.",
+      "start": 122.8,
+      "end": 129.72,
+      "n_words": 23,
+      "start_frame": 3070,
+      "end_frame": 3243,
+      "keyframes": [
+        "003070.webp",
+        "003092.webp",
+        "003115.webp",
+        "003116.webp",
+        "003149.webp",
+        "003182.webp",
+        "003183.webp",
+        "003212.webp",
+        "003241.webp",
+        "003242.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Là chả lá lốt cho nên chúng ta sẽ sử dụng những cái lá lốt nhỏ nhỏ đó, mình sẽ cắt ra khoảng chừng nửa chén như thế này, mình trộn vô thì phần nhân mình sẽ thơm rất là đặc biệt.",
+      "start": 129.92,
+      "end": 138.16,
+      "n_words": 42,
+      "start_frame": 3248,
+      "end_frame": 3454,
+      "keyframes": [
+        "003300.webp",
+        "003358.webp",
+        "003359.webp",
+        "003406.webp",
+        "003453.webp",
+        "003454.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cho vào đây nửa muỗng cà phê hạt nêm Aji-goma ngon heo, một muỗng cà phê đường, một muỗng cà phê nước tương kusi.",
+      "start": 138.16,
+      "end": 144.8,
+      "n_words": 24,
+      "start_frame": 3454,
+      "end_frame": 3620,
+      "keyframes": [
+        "003454.webp",
+        "003489.webp",
+        "003525.webp",
+        "003526.webp",
+        "003546.webp",
+        "003567.webp",
+        "003568.webp",
+        "003601.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta sẽ trộn đều tất cả các nguyên liệu của phần nhân này lại.",
+      "start": 145.48,
+      "end": 152.12,
+      "n_words": 15,
+      "start_frame": 3637,
+      "end_frame": 3803,
+      "keyframes": [
+        "003678.webp",
+        "003721.webp",
+        "003722.webp",
+        "003767.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ thì chúng ta sẽ tiếp tục đến công đoạn tạo hình, tức là cuốn chả.",
+      "start": 152.12,
+      "end": 156.36,
+      "n_words": 17,
+      "start_frame": 3803,
+      "end_frame": 3909,
+      "keyframes": [
+        "003812.webp",
+        "003813.webp",
+        "003862.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ dùng lại những cái lá lốt to mình sẽ cuốn ha.",
+      "start": 156.36,
+      "end": 159.36,
+      "n_words": 16,
+      "start_frame": 3909,
+      "end_frame": 3984,
+      "keyframes": [
+        "003911.webp",
+        "003912.webp",
+        "003948.webp",
+        "003984.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Khi cuốn thì mình sẽ đặt một cái lá lốt và cái phần lá đậm thì xuống bên dưới ha.",
+      "start": 159.36,
+      "end": 165.52,
+      "n_words": 20,
+      "start_frame": 3984,
+      "end_frame": 4138,
+      "keyframes": [
+        "003984.webp",
+        "003985.webp",
+        "004024.webp",
+        "004063.webp",
+        "004064.webp",
+        "004100.webp",
+        "004137.webp",
+        "004138.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Mỗi một cuốn lá lốt thì mình cho vô khoảng chừng nửa muỗng canh như thế này, sau đó mình gấp hai đầu lại và mình cuốn thôi.",
+      "start": 165.52,
+      "end": 173.44,
+      "n_words": 28,
+      "start_frame": 4138,
+      "end_frame": 4336,
+      "keyframes": [
+        "004138.webp",
+        "004193.webp",
+        "004249.webp",
+        "004250.webp",
+        "004295.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Sau đó thì mình sẽ ghim vào trong cái que này.",
+      "start": 173.44,
+      "end": 176.16,
+      "n_words": 11,
+      "start_frame": 4336,
+      "end_frame": 4404,
+      "keyframes": [
+        "004340.webp",
+        "004341.webp",
+        "004370.webp",
+        "004399.webp",
+        "004400.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Khi mình xiên đó thì mình sẽ để cái phần lá này bên trong chút nữa, mình ụp thêm một cái phần mép lá này vô nữa thì là nó ổn thôi, làm từ từ cho nó đẹp, nó đều ha.",
+      "start": 176.16,
+      "end": 188.72,
+      "n_words": 41,
+      "start_frame": 4404,
+      "end_frame": 4718,
+      "keyframes": [
+        "004496.webp",
+        "004593.webp",
+        "004594.webp",
+        "004619.webp",
+        "004645.webp",
+        "004646.webp",
+        "004700.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "- Dạ thảo xong chưa cô?",
+      "start": 188.72,
+      "end": 197.92,
+      "n_words": 6,
+      "start_frame": 4718,
+      "end_frame": 4948,
+      "keyframes": [
+        "004754.webp",
+        "004755.webp",
+        "004800.webp",
+        "004846.webp",
+        "004847.webp",
+        "004884.webp",
+        "004921.webp",
+        "004922.webp",
+        "004944.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "- Xong rồi đó.",
+      "start": 197.92,
+      "end": 198.88,
+      "n_words": 4,
+      "start_frame": 4948,
+      "end_frame": 4972,
+      "keyframes": [
+        "004967.webp",
+        "004968.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tiếp theo thì chúng ta sẽ làm một công đoạn rất là quan trọng của món ăn này là pha nước chấm.",
+      "start": 198.88,
+      "end": 202.96,
+      "n_words": 22,
+      "start_frame": 4972,
+      "end_frame": 5074,
+      "keyframes": [
+        "004997.webp",
+        "005026.webp",
+        "005027.webp",
+        "005049.webp",
+        "005072.webp",
+        "005073.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Mình sẽ cho hai muỗng canh nước tương Phú Sĩ, hai muỗng canh tương ớt, một muỗng cà phê gừng băm, mình trộn đều lên.",
+      "start": 202.96,
+      "end": 213.32,
+      "n_words": 25,
+      "start_frame": 5074,
+      "end_frame": 5333,
+      "keyframes": [
+        "005110.webp",
+        "005147.webp",
+        "005148.webp",
+        "005174.webp",
+        "005200.webp",
+        "005201.webp",
+        "005224.webp",
+        "005248.webp",
+        "005249.webp",
+        "005269.webp",
+        "005289.webp",
+        "005290.webp",
+        "005315.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Khi ăn thì chúng ta sẽ thêm đồ chua gồm củ cà rốt và củ cải trắng ngâm với giấm đường.",
+      "start": 213.32,
+      "end": 220.88,
+      "n_words": 21,
+      "start_frame": 5333,
+      "end_frame": 5522,
+      "keyframes": [
+        "005340.webp",
+        "005341.webp",
+        "005364.webp",
+        "005388.webp",
+        "005389.webp",
+        "005433.webp",
+        "005477.webp",
+        "005478.webp",
+        "005500.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Và bây giờ thì mình nướng ha, mình sẽ thoa một ít dầu xong rồi sau đó mình đặt tất cả các cái cuốn lên.",
+      "start": 220.88,
+      "end": 228.0,
+      "n_words": 25,
+      "start_frame": 5522,
+      "end_frame": 5700,
+      "keyframes": [
+        "005523.webp",
+        "005524.webp",
+        "005540.webp",
+        "005557.webp",
+        "005558.webp",
+        "005594.webp",
+        "005630.webp",
+        "005631.webp",
+        "005666.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Trong quá trình nướng thì để cho cái cuộn lá lốt nó không có bị khô quá, chúng ta cũng có thể phết thêm dầu.",
+      "start": 228.0,
+      "end": 233.12,
+      "n_words": 25,
+      "start_frame": 5700,
+      "end_frame": 5828,
+      "keyframes": [
+        "005701.webp",
+        "005702.webp",
+        "005731.webp",
+        "005760.webp",
+        "005761.webp",
+        "005783.webp",
+        "005805.webp",
+        "005806.webp",
+        "005824.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Các bạn lưu ý chúng ta nướng lửa vừa để cuộn ốc chín tận vào bên trong nha.",
+      "start": 233.68,
+      "end": 239.28,
+      "n_words": 18,
+      "start_frame": 5842,
+      "end_frame": 5982,
+      "keyframes": [
+        "005843.webp",
+        "005844.webp",
+        "005914.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Em đã bắt đầu ngửi thấy mùi lá lốt rất là thơm luôn rồi.",
+      "start": 239.28,
+      "end": 246.6,
+      "n_words": 14,
+      "start_frame": 5982,
+      "end_frame": 6165,
+      "keyframes": [
+        "005984.webp",
+        "005985.webp",
+        "006028.webp",
+        "006072.webp",
+        "006073.webp",
+        "006113.webp",
+        "006153.webp",
+        "006154.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Phết dầu hành lên như vậy là bây giờ các cuốn chả lá lốt chín hết rồi đó.",
+      "start": 246.6,
+      "end": 253.4,
+      "n_words": 18,
+      "start_frame": 6165,
+      "end_frame": 6335,
+      "keyframes": [
+        "006187.webp",
+        "006220.webp",
+        "006221.webp",
+        "006242.webp",
+        "006264.webp",
+        "006265.webp",
+        "006329.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Bây giờ mình sẽ từ từ lấy ra và mình trình bày nha.",
+      "start": 253.4,
+      "end": 256.24,
+      "n_words": 13,
+      "start_frame": 6335,
+      "end_frame": 6406,
+      "keyframes": [
+        "006393.webp",
+        "006394.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rồi, wow, rất là hấp dẫn mà lại còn đơn giản để thực hiện nữa.",
+      "start": 256.84,
+      "end": 262.32,
+      "n_words": 15,
+      "start_frame": 6421,
+      "end_frame": 6558,
+      "keyframes": [
+        "006429.webp",
+        "006465.webp",
+        "006466.webp",
+        "006510.webp",
+        "006555.webp",
+        "006556.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Quý vị và các bạn chỉ cần quét mã QR trên màn hình của chúng tôi là có sẵn công thức để chúng ta chuẩn bị rồi.",
+      "start": 262.32,
+      "end": 271.12,
+      "n_words": 27,
+      "start_frame": 6558,
+      "end_frame": 6778,
+      "keyframes": [
+        "006644.webp",
+        "006732.webp",
+        "006733.webp",
+        "006757.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và bây giờ thì chúng ta sẽ trình bày ra đĩa.",
+      "start": 271.12,
+      "end": 273.48,
+      "n_words": 11,
+      "start_frame": 6778,
+      "end_frame": 6837,
+      "keyframes": [
+        "006782.webp",
+        "006783.webp",
+        "006814.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Em thấy là cô cho thêm hai quả cà chua trước, chút xíu dầu hành lá lên, rắc đậu phộng rang thì đã bể nữa.",
+      "start": 273.48,
+      "end": 283.76,
+      "n_words": 25,
+      "start_frame": 6837,
+      "end_frame": 7094,
+      "keyframes": [
+        "006846.webp",
+        "006847.webp",
+        "006873.webp",
+        "006900.webp",
+        "006901.webp",
+        "006939.webp",
+        "006978.webp",
+        "006979.webp",
+        "007004.webp",
+        "007030.webp",
+        "007031.webp",
+        "007063.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Đặc biệt nếu như mà chúng ta kết hợp thêm với món canh gà măng chua lá giang thì sẽ có một bữa ăn hoàn chỉnh.",
+      "start": 283.76,
+      "end": 290.04,
+      "n_words": 26,
+      "start_frame": 7094,
+      "end_frame": 7251,
+      "keyframes": [
+        "007096.webp",
+        "007097.webp",
+        "007167.webp",
+        "007237.webp",
+        "007238.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Lá lốt bọc ngoài thịt ốc, thịt ốc hấp dẫn, cắn từng miếng chả giòn cay cay của tiêu xanh, thơm mùi lá lốt, nhai thật kỹ sẽ thấy hương vị hòa quyện lan tỏa rất cuốn.",
+      "start": 290.04,
+      "end": 301.96,
+      "n_words": 37,
+      "start_frame": 7251,
+      "end_frame": 7549,
+      "keyframes": [
+        "007266.webp",
+        "007295.webp",
+        "007296.webp",
+        "007355.webp",
+        "007414.webp",
+        "007415.webp",
+        "007483.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Chả ốc nướng lá lốt thiệt là nịnh miệng.",
+      "start": 301.96,
+      "end": 304.76,
+      "n_words": 9,
+      "start_frame": 7549,
+      "end_frame": 7619,
+      "keyframes": [
+        "007552.webp",
+        "007553.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cuối tuần này các bạn hãy làm ngay món này nhé để thết đãi cho cả nhà và để có thể kết hợp với nhiều món ăn ngon khác nữa.",
+      "start": 304.76,
+      "end": 311.84,
+      "n_words": 30,
+      "start_frame": 7619,
+      "end_frame": 7796,
+      "keyframes": [
+        "007637.webp",
+        "007721.webp",
+        "007722.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chỉ cần truy cập vào YouTube, website, fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 311.84,
+      "end": 317.16,
+      "n_words": 15,
+      "start_frame": 7796,
+      "end_frame": 7929,
+      "keyframes": [
+        "007816.webp",
+        "007911.webp",
+        "007912.webp"
+      ],
+      "keyframe_count": 3
+    }
+  ]
+}

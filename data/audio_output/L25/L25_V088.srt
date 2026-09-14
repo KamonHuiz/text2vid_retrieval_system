@@ -1,0 +1,503 @@
+1
+00:00:00,040 --> 00:00:09,680
+Xin chào tất cả các em.
+
+2
+00:00:09,680 --> 00:00:17,520
+Thầy rất vui khi được đồng hành cùng với các em trong chương trình ôn tập môn Toán chuẩn bị cho kỳ thi Trung học phổ thông quốc gia năm 2024 do báo Thanh Niên tổ chức.
+
+3
+00:00:17,520 --> 00:00:20,120
+Hôm nay chúng ta sẽ bắt đầu với chuyên đề thứ nhất.
+
+4
+00:00:20,120 --> 00:00:29,200
+Đây là một chuyên đề trong chương khảo sát hàm số và chủ đề ngày hôm nay là chúng ta sẽ cùng nhau giải quyết các bài toán liên quan đến tham số m.
+
+5
+00:00:29,200 --> 00:00:31,320
+Chúng ta cùng nhau bắt đầu vào bài học.
+
+6
+00:00:31,320 --> 00:00:42,120
+Trường Đại học Quốc tế Sài Gòn SIU không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SIU nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt.
+
+7
+00:00:42,120 --> 00:00:52,880
+SIU mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới, trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.
+
+8
+00:00:52,880 --> 00:01:01,480
+Năm 2024, SIU tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng bốn phương thức tuyển sinh.
+
+9
+00:01:01,480 --> 00:01:28,040
+SIU cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SIU, 100 suất học bổng "Tiếp bước hành trình", quỹ tài năng trẻ, học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa, thể thao, nghệ thuật; Học bổng đồng hành xây dựng nhân lực chất lượng cao cho thành phố Thủ Đức, thành phố Hồ Chí Minh; Học bổng doanh nghiệp tài trợ; Học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.
+
+10
+00:01:28,040 --> 00:01:31,560
+SIU - tâm hồn Việt Nam, giáo dục thế giới.
+
+11
+00:01:31,560 --> 00:01:38,080
+Đầu tiên, thầy và các em sẽ cùng nhau ôn tập lại một số kiến thức trọng tâm.
+
+12
+00:01:38,080 --> 00:01:41,840
+Thứ nhất là về định lý tính đơn điệu của hàm số.
+
+13
+00:01:41,840 --> 00:01:46,640
+Giả sử thầy có một hàm số $y = f(x)$ có đạo hàm trên khoảng $K$.
+
+14
+00:01:46,640 --> 00:02:04,600
+Khi đó, ta sẽ có $f(x)$ đồng biến trên khoảng $K$ khi và chỉ khi $f'(x) \ge 0$ với mọi $x$ thuộc $K$, và ngược lại $f(x)$ nghịch biến trên khoảng $K$ khi và chỉ khi $f'(x) \le 0$ với mỗi $x$ thuộc $K$.
+
+15
+00:02:04,600 --> 00:02:13,400
+Vậy qua định lý này, chúng ta có thể thấy là để xét được tính đồng biến, nghịch biến của hàm số $f(x)$ là ta sẽ đi xét dấu của biểu thức $f'(x)$.
+
+16
+00:02:14,840 --> 00:02:22,080
+Một kiến thức tiếp theo là chúng ta sẽ nói về điều kiện cần và đủ để hàm số đạt cực trị tại $x_0$.
+
+17
+00:02:23,600 --> 00:02:27,360
+Cho hàm số $f(x)$ xác định và liên tục trên $D$.
+
+18
+00:02:27,360 --> 00:02:45,400
+Hàm số đạt cực trị tại $x_0$ nếu nó thỏa mãn hai tính chất sau đây: thứ nhất là $f'(x_0) = 0$ hoặc là $f(x)$ không có đạo hàm tại $x_0$, và điều kiện thứ hai là $f'(x)$ bắt buộc phải đổi dấu khi đi qua điểm $x_0$.
+
+19
+00:02:47,720 --> 00:03:07,320
+Ngoài ra, chúng ta cần để ý một cái định lý sau đây, đây là một định lý hết sức quan trọng giúp các em giải được các bài toán liên quan đến tham số m: cho hàm số $y = f(x)$, khi đó số cực trị của hàm số $y = f(x)$ sẽ bằng với số nghiệm bội lẻ của phương trình $f'(x) = 0$.
+
+20
+00:03:08,560 --> 00:03:11,000
+Như vậy, thế nào gọi là nghiệm bội lẻ?
+
+21
+00:03:11,400 --> 00:03:19,720
+Thầy sẽ có một cái ví dụ như sau: bây giờ giả sử thầy có một cái hàm số $g$ như thế này: $g(x) = (x-a)^2 \cdot (x-b) \cdot (x-c)^3$.
+
+22
+00:03:23,480 --> 00:03:30,000
+Chúng ta có thể thấy hàm số $g(x)$ có ba nghiệm là $a, b$ và $c$.
+
+23
+00:03:30,000 --> 00:03:40,760
+Tuy nhiên, chỉ có nghiệm $x = a$ được gọi là nghiệm bội chẵn là do ứng với nghiệm $x = a$ thì lũy thừa của nó là bậc hai, là số chẵn.
+
+24
+00:03:40,760 --> 00:03:45,080
+Cho nên $x = a$ gọi là nghiệm bội chẵn.
+
+25
+00:03:45,080 --> 00:03:54,640
+Các nghiệm $x = b$ và $x = c$ tương ứng với lũy thừa bậc lẻ cho nên được gọi là nghiệm bội lẻ.
+
+26
+00:03:54,640 --> 00:04:02,800
+Về mặt hình ảnh, giả sử thầy có đồ thị hàm số $g$ như thế này: hàm số $g$ cắt trục hoành tại ba điểm $a, b$ và $c$.
+
+27
+00:04:02,800 --> 00:04:13,280
+Tuy nhiên, các em để ý hàm số $g$ này nó tiếp xúc với trục $Ox$ tại điểm $x = a$, thì do đó $x = a$ này người ta nói nó là nghiệm bội chẵn.
+
+28
+00:04:13,280 --> 00:04:17,160
+Các nghiệm $x = b, x = c$ gọi là nghiệm bội lẻ.
+
+29
+00:04:17,160 --> 00:04:30,560
+Qua đây các em lưu ý cho thầy đối với những nghiệm nào mà tiếp xúc thì nó là nghiệm bội chẵn và số cực trị của hàm số $f(x)$ nó bằng với số nghiệm bội lẻ của phương trình $f'(x) = 0$.
+
+30
+00:04:31,360 --> 00:04:34,200
+Chúng ta lưu ý là nghiệm bội lẻ.
+
+31
+00:04:34,560 --> 00:04:39,560
+Với những kiến thức này thì thầy và các em sẽ cùng nhau giải quyết một số ví dụ như sau.
+
+32
+00:04:39,560 --> 00:04:45,680
+Chúng ta cùng nhau đến với ví dụ thứ nhất.
+
+33
+00:04:45,680 --> 00:05:04,080
+Ví dụ 1: Có bao nhiêu giá trị nguyên của tham số $m$ thuộc khoảng từ $-20$ đến $20$ để hàm số $y = -\frac{1}{4}x^4 + \frac{4}{3}x^3 + (m-1)x^2 + 3$ nghịch biến trên khoảng $(1, +\infty)$?
+
+34
+00:05:07,720 --> 00:05:13,200
+Để giải quyết các bài toán liên quan đến đồng biến, nghịch biến thì điều đầu tiên chúng ta sẽ phải tính $y'$.
+
+35
+00:05:15,400 --> 00:05:31,240
+Và để hàm số nghịch biến trên khoảng từ 1 đến $+\infty$ thì chúng ta phải có điều kiện là $y' \le 0$ với mọi $x$ thuộc khoảng từ 1 đến $+\infty$, và chúng ta sẽ có cái bất phương trình này ở đây.
+
+36
+00:05:31,240 --> 00:05:36,800
+Chúng ta sẽ đặt $-x$ làm nhân tử chung, bên trong sẽ còn lại là $x^2 - 4x - 2(m-1)$.
+
+37
+00:05:40,520 --> 00:05:48,560
+Chúng ta thấy do $x$ chúng ta đang xét thuộc khoảng từ 1 đến $+\infty$, do đó giá trị $-x$ là âm.
+
+38
+00:05:48,560 --> 00:05:59,000
+Chúng ta đơn giản trừ $x$ và đổi dấu, chúng ta sẽ được $x^2 - 4x - 2(m-1) \ge 0$ với mọi $x$ thuộc khoảng từ 1 đến $+\infty$.
+
+39
+00:06:00,120 --> 00:06:05,480
+Đến đây chúng ta sẽ giải cái bất phương trình này bằng cách là chúng ta cô lập tham số $m$.
+
+40
+00:06:05,480 --> 00:06:18,880
+Chúng ta sẽ chuyển cái $-2(m-1)$ qua bên phía phải và chúng ta thu được bất phương trình sau như sau: $2(m-1) \le x^2 - 4x$ với mọi $x$ thuộc khoảng từ 1 đến $+\infty$.
+
+41
+00:06:20,440 --> 00:06:26,640
+Nhiệm vụ của chúng ta bây giờ là tìm $m$ sao cho bất phương trình sau luôn đúng với mọi $x$ thuộc $(1, +\infty)$.
+
+42
+00:06:28,320 --> 00:06:34,320
+Bây giờ thầy sẽ khảo sát cái hàm số bên phải là hàm số $g(x) = x^2 - 4x$.
+
+43
+00:06:34,680 --> 00:06:57,000
+Thì đây là một cái hàm số bậc hai, do đó chúng ta dễ dàng lập được bảng biến thiên của hàm số $g$ như sau: hàm số sẽ nghịch biến trên khoảng từ 1 đến 2 và đồng biến trên khoảng từ 2 đến $+\infty$.
+
+44
+00:06:59,920 --> 00:07:03,920
+Và đây là bảng biến thiên của hàm số $g$.
+
+45
+00:07:03,920 --> 00:07:14,280
+Quay trở lại bất phương trình, chúng ta cần tìm $m$ sao cho $2(m-1)$ luôn luôn bé hơn hoặc bằng $x^2 - 4x$ với mọi $x$ thuộc khoảng $(1, +\infty)$.
+
+46
+00:07:15,440 --> 00:07:25,960
+Hay nói cách khác, chúng ta phải tìm $m$ sao cho cái đường nằm ngang $y = 2m-2$ nó phải luôn luôn nằm dưới cái đồ thị $g(x)$.
+
+47
+00:07:25,960 --> 00:07:41,280
+Và dựa vào bảng biến thiên, chúng ta sẽ thấy ngay cái đường $2m-2$ muốn nằm dưới $g$ thì chắc chắn là đường $2m-2$ này nó phải bé hơn hoặc bằng giá trị $-4$, và do đó chúng ta sẽ giải ra được $m \le -1$.
+
+48
+00:07:44,400 --> 00:07:59,960
+Mặt khác, đề bài cho $m$ là số nguyên và thuộc khoảng từ $-20$ đến $20$ nên $m$ sẽ có 20 giá trị nguyên thỏa mãn và chúng ta chọn đáp án C.
+
+49
+00:08:00,360 --> 00:08:12,080
+Qua cái ví dụ 1 này, thầy muốn nhắc đến các em một cái phương pháp để giải quyết các bài toán về tham số $m$, đó chính là phương pháp cô lập tham số $m$ để giải quyết bài toán.
+
+50
+00:08:12,080 --> 00:08:18,480
+Bây giờ chúng ta sẽ cùng nhau đi qua ví dụ thứ hai.
+
+51
+00:08:18,480 --> 00:08:29,040
+Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến, hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.
+
+52
+00:08:29,040 --> 00:08:36,720
+Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện, cân bằng giữa học thuật và nghệ thuật, thể thao.
+
+53
+00:08:36,720 --> 00:08:47,360
+Hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, thêm nguồn cảm hứng độc lập để phát triển và hoàn thiện nhân cách.
+
+54
+00:08:47,360 --> 00:09:06,920
+Ngoài những giờ học trên lớp, học sinh Trường Quốc tế Á Châu còn được trải nghiệm thử thách bản thân và phản biện các vấn đề để tự mình học hỏi, trưởng thành độc lập hơn.
+
+55
+00:09:06,920 --> 00:09:22,960
+Nơi đây với tôi còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.
+
+56
+00:09:22,960 --> 00:09:28,000
+Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là cuộc sống.
+
+57
+00:09:28,000 --> 00:09:42,120
+Từ môi trường giáo dục này, chúng tôi đã tự tin bước tiếp và viết nên câu chuyện tương lai của chính mình.
+
+58
+00:09:42,120 --> 00:10:01,760
+Ví dụ thứ hai: Có tất cả bao nhiêu giá trị nguyên của tham số $m$ thuộc đoạn từ $-30$ đến $30$ để hàm số $y = -x^3 + 3m^2x^2 + 3mx + 2$ đồng biến trên khoảng $(1, 2)$?
+
+59
+00:10:01,760 --> 00:10:05,800
+Dĩ nhiên khi nói về đồng biến, nghịch biến chúng ta sẽ phải tính $y'$.
+
+60
+00:10:08,760 --> 00:10:18,320
+Thì trong cái ví dụ 2 này, chúng ta sẽ không thể nào giải quyết bài toán như ví dụ 1 được là bởi vì chúng ta sẽ không thể nào cô lập được tham số $m$.
+
+61
+00:10:18,320 --> 00:10:22,360
+Do đó thầy sẽ giải quyết bài toán này bằng cách thầy sẽ đi xét dấu của $y'$.
+
+62
+00:10:23,680 --> 00:10:32,920
+Bây giờ thầy cho $f'(x) = 0$ và thầy sẽ thu được cái phương trình bậc hai tương ứng là $x^2 - 2m^2x - m = 0$.
+
+63
+00:10:34,840 --> 00:10:57,000
+Bây giờ chúng ta sẽ có một cái nhận xét như sau: chúng ta để ý hệ số của $x^3$ trong cái hàm $f(x)$ là $-1$ là âm, và do đó điều kiện cần để hàm số $f(x)$ này đồng biến trên khoảng $(1, 2)$ đó chính là phương trình $f'(x) = 0$ bắt buộc phải có hai nghiệm phân biệt là $x_1$ và $x_2$.
+
+64
+00:10:57,720 --> 00:10:59,280
+Tại sao lại như vậy?
+
+65
+00:10:59,280 --> 00:11:14,880
+Nếu chúng ta giả sử ngược lại là $f'(x) = 0$ vô nghiệm hoặc là có nghiệm kép thì do hệ số $x^3$ là âm, chắc chắn cái hàm số $f(x)$ này nó sẽ nghịch biến trên $\mathbb{R}$ và mâu thuẫn với giả thiết bài toán.
+
+66
+00:11:14,880 --> 00:11:21,640
+Vậy tóm lại, phương trình $f'(x) = 0$ phải có hai nghiệm phân biệt $x_1$ và $x_2$.
+
+67
+00:11:22,720 --> 00:11:24,960
+Từ đó thầy sẽ có bảng xét dấu của $f'$.
+
+68
+00:11:28,560 --> 00:11:33,560
+Ta xét dấu hàm số bậc hai "trong trái ngoài cùng".
+
+69
+00:11:33,560 --> 00:11:56,720
+Thì bây giờ cái hàm số $f(x)$ này mà muốn đồng biến trên khoảng $(1, 2)$ thì khi đó chúng ta bắt buộc phải có cái điều kiện là cái khoảng $(1, 2)$ này nó phải nằm lọt vào trong cái khoảng từ $x_1$ đến $x_2$ như thế này.
+
+70
+00:11:56,720 --> 00:12:17,200
+Từ đây chúng ta sẽ có cái điều kiện thứ nhất: $\Delta' > 0$ để đảm bảo là phương trình $f'(x) = 0$ có hai nghiệm phân biệt, và khi 1 và 2 mà lọt vào trong cái khoảng $x_1$ và $x_2$, chúng ta sẽ thấy ngay $f'(1)$ và $f'(2)$ phải lớn hơn hoặc bằng không.
+
+71
+00:12:17,200 --> 00:12:30,000
+Khi đó chúng ta giải cái hệ này ra và chúng ta giao các điều kiện lại với nhau, và kết quả cuối cùng chúng ta sẽ thu được là $m \ge \frac{-1 + \sqrt{65}}{8}$ hoặc $m \le \frac{-1 - \sqrt{65}}{8}$.
+
+72
+00:12:39,200 --> 00:12:52,560
+Mặt khác, đề bài yêu cầu $m$ là số nguyên nằm trong đoạn từ $-30$ đến $30$, do đó chúng ta sẽ có 59 giá trị của tham số $m$ thỏa mãn yêu cầu bài toán.
+
+73
+00:12:52,560 --> 00:12:55,520
+Chúng ta kết thúc ví dụ 2.
+
+74
+00:12:55,520 --> 00:13:01,720
+Bây giờ chúng ta sẽ đến với một cái ví dụ 3 là một cái bài toán liên quan đến cực trị.
+
+75
+00:13:01,720 --> 00:13:18,000
+Ví dụ 3 có nội dung như sau: Tìm tất cả các giá trị của tham số $m$ để đồ thị hàm số $y = \frac{x^2 - 2x - m}{x + 2}$ có hai điểm cực trị nằm về hai phía khác nhau của trục hoành.
+
+76
+00:13:18,000 --> 00:13:25,040
+Đầu tiên chúng ta đặt điều kiện xác định: tập xác định $D = \mathbb{R} \setminus \{-2\}$.
+
+77
+00:13:27,440 --> 00:13:45,120
+Với các bài toán về cực trị chúng ta vẫn phải tính $y'$ và chúng ta cho $y' = 0$, khi đó chúng ta sẽ thu được một cái phương trình bậc hai là $x^2 + 4x + m - 4 = 0$.
+
+78
+00:13:45,120 --> 00:13:59,080
+Bây giờ đề bài yêu cầu là hàm số này có hai điểm cực trị, do đó bắt buộc cái phương trình $x^2 + 4x + m - 4 = 0$ phải có hai nghiệm phân biệt và dĩ nhiên hai nghiệm này phải khác $-2$.
+
+79
+00:14:01,680 --> 00:14:14,480
+Điều kiện này tương đương với việc $\Delta'$ phải lớn hơn không, và khi chúng ta thay giá trị $-2$ này vào vế trái của phương trình thì bắt buộc nó phải khác không.
+
+80
+00:14:14,480 --> 00:14:18,920
+Giải điều kiện này chúng ta sẽ thu được $m < 8$.
+
+81
+00:14:22,920 --> 00:14:39,360
+Bây giờ chúng ta gọi $x_1, x_2$ là hai điểm cực trị, khi đó $x_1$ và $x_2$ nó sẽ là nghiệm của cái phương trình $y' = 0$, hay nói cách khác là nghiệm của phương trình bậc hai $x^2 + 4x + m - 4 = 0$.
+
+82
+00:14:39,360 --> 00:14:53,840
+Và do đó nó sẽ thỏa định lý Vi-ét, chúng ta sẽ có $x_1 + x_2 = -4$ và $x_1x_2 = m - 4$.
+
+83
+00:14:53,840 --> 00:15:01,840
+Bây giờ chúng ta sẽ giải quyết cái yêu cầu là hai điểm cực trị này nằm về hai phía khác nhau của trục hoành.
+
+84
+00:15:01,840 --> 00:15:11,200
+Điều này đồng nghĩa với việc là hai cái giá trị cực trị nó phải trái dấu với nhau, tức là $y(x_1) \cdot y(x_2) < 0$.
+
+85
+00:15:15,040 --> 00:15:26,040
+Đến đây chúng ta có thể thay $x_1$ vào hàm $y$, thay $x_2$ vào hàm $y$, chúng ta sẽ giải cái bất phương trình này, tuy nhiên nó sẽ rất khó khăn và phức tạp.
+
+86
+00:15:26,040 --> 00:15:33,160
+Thì ở đây thầy sẽ chỉ cho các em một cái phương pháp để giúp chúng ta thay số nhanh hơn.
+
+87
+00:15:33,160 --> 00:15:41,760
+Bây giờ chúng ta sẽ áp dụng một cái tính chất sau đây: ở lớp 11 chúng ta đã học đạo hàm của $u/v$ là bằng $(u'v - uv')/v^2$.
+
+88
+00:15:46,080 --> 00:15:58,760
+Do đó tại những điểm mà đạo hàm $u/v$ bằng không thì chúng ta sẽ có $u'v - uv' = 0$, hay nói cách khác là $u'/v' = 0$.
+
+89
+00:16:01,880 --> 00:16:12,240
+Áp dụng điều này, chúng ta thấy do $x_1$ và $x_2$ là hai điểm cực trị, do đó đạo hàm tại $x_1$ và $x_2$ nó bằng không.
+
+90
+00:16:12,240 --> 00:16:29,760
+Vậy thì để tính $y(x_1)$, chúng ta có thể tính nhanh bằng cách chúng ta lấy đạo hàm tử chia cho đạo hàm mẫu, rồi sau đó chúng ta thay $x_1$ và $x_2$ vào như thầy đang làm.
+
+91
+00:16:29,760 --> 00:16:36,720
+Chúng ta sẽ có $y(x_1) = 2x_1 - 1$ và $y(x_2) = 2x_2 - 1$.
+
+92
+00:16:41,160 --> 00:16:47,320
+Đến đây thì việc giải quyết cái giả thiết là $y(x_1) \cdot y(x_2) < 0$ là tương đối đơn giản.
+
+93
+00:16:47,320 --> 00:16:54,440
+Chúng ta thay vào, chúng ta nhân phân phối ta được $4x_1x_2 - 2(x_1 + x_2) + 1 < 0$.
+
+94
+00:16:59,080 --> 00:17:21,760
+Áp dụng định lý Vi-ét, ta thay vào $x_1x_2 = m - 4, x_1 + x_2 = -4$, chúng ta có một bất phương trình theo tham số $m$, chúng ta sẽ giải được $m < -1$ và điều này thỏa mãn với cái điều kiện $m < 8$ lúc nãy chúng ta vừa giải ra rồi.
+
+95
+00:17:21,760 --> 00:17:28,120
+Vậy tóm lại chúng ta chọn đáp án B.
+
+96
+00:17:28,120 --> 00:17:30,800
+Thì đây là một cái bài toán liên quan đến cực trị.
+
+97
+00:17:30,800 --> 00:17:39,000
+Ở đây chúng ta đã sử dụng một cái công thức tính nhanh, thì các em lưu ý công thức này tức là tại những điểm cực trị thì $u/v$ sẽ bằng $u'/v'$.
+
+98
+00:17:39,880 --> 00:17:59,640
+Phải có được thành công như hôm nay tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình bắt đầu từ trường Đại học Quốc tế Sài Gòn SIU.
+
+99
+00:17:59,640 --> 00:18:06,280
+Đào tạo đa dạng đa lĩnh vực, SIU mở ra cho chúng tôi nhiều cơ hội lựa chọn nghề nghiệp trong tương lai.
+
+100
+00:18:06,280 --> 00:18:13,560
+Tất cả sinh viên đều có cơ hội để thể hiện và phát triển năng lực, những ý tưởng luôn được khuyến khích và phát huy tối đa.
+
+101
+00:18:13,560 --> 00:18:19,720
+Chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin, chúng tôi được học cách học, cách nghĩ và cách sống.
+
+102
+00:18:19,720 --> 00:18:26,800
+Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.
+
+103
+00:18:26,800 --> 00:18:37,440
+Hiện đại, năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc, đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn SIU luôn hướng đến.
+
+104
+00:18:37,440 --> 00:18:45,640
+Đã đến lúc vươn xa hơn những gì đã học.
+
+105
+00:18:45,640 --> 00:18:50,160
+Cuối cùng chúng ta sẽ đi đến ví dụ thứ tư.
+
+106
+00:18:50,160 --> 00:18:53,960
+Đây là một câu hỏi xuất hiện trong đề thi Trung học phổ thông quốc gia năm 2023.
+
+107
+00:18:55,520 --> 00:19:17,560
+Câu hỏi có nội dung như sau: Có bao nhiêu giá trị nguyên của tham số $m$ sao cho ứng với mỗi $m$, hàm số $y = \frac{1}{3}x^3 - x^2 - mx + \frac{2}{3}$ có đúng một điểm cực trị thuộc khoảng từ 0 đến 6?
+
+108
+00:19:17,560 --> 00:19:23,200
+Đây là một câu hỏi nằm ở mức độ 3.
+
+109
+00:19:23,200 --> 00:19:32,440
+Đầu tiên chúng ta sẽ phải tính đạo hàm $y'$, và chúng ta sẽ thu được một hàm số bậc hai là $x^2 - 2x - m$.
+
+110
+00:19:36,800 --> 00:19:46,400
+Chúng ta cho đạo hàm bằng không, đến đây chúng ta cô lập tham số $m$, chúng ta sẽ được $x^2 - 2x = m$.
+
+111
+00:19:51,480 --> 00:20:06,160
+Đề bài yêu cầu hàm số có đúng một cực trị thuộc khoảng từ 0 đến 6, do đó cái phương trình $y' = 0$, hay nói cách khác là phương trình sau phải có đúng một nghiệm đơn thuộc khoảng $(0, 6)$.
+
+112
+00:20:06,160 --> 00:20:10,440
+Nghiệm đơn ở đây chính là nghiệm bội lẻ.
+
+113
+00:20:10,440 --> 00:20:22,760
+Thì bây giờ chúng ta sẽ đi khảo sát cái hàm số bên phía trái: chúng ta đặt $f(x) = x^2 - 2x$ và thầy sẽ đi lập cái bảng biến thiên của hàm số $f(x)$.
+
+114
+00:20:24,480 --> 00:20:37,520
+Chúng ta tính đạo hàm $f'$ và cho $f' = 0$, chúng ta thu được phương trình là $2x - 2 = 0$, tương đương $x = 1$.
+
+115
+00:20:37,520 --> 00:20:46,160
+Khi đó chúng ta sẽ xét dấu được đạo hàm và có bảng biến thiên như sau.
+
+116
+00:20:46,160 --> 00:21:03,320
+Bây giờ chúng ta chỉ xét $x$ thuộc khoảng $(0, 6)$, do đó tại $x = 0$ thì ta dễ dàng tính ra được $f(x)$ cũng bằng 0, tại $x = 6$ chúng ta tính được $f(x) = 24$.
+
+117
+00:21:05,280 --> 00:21:16,160
+Khi đó cái phần mà thầy tô vàng ở đây chính là cái đồ thị của hàm số $f(x)$ trên khoảng $(0, 6)$.
+
+118
+00:21:16,160 --> 00:21:39,520
+Bây giờ chúng ta cần tìm $m$ sao cho phương trình sau có đúng một nghiệm đơn, hay nói cách khác chúng ta sẽ tìm vị trí của cái đường nằm ngang $y = m$ sao cho cái đường nằm ngang $y = m$ này nó cắt cái đồ thị $f(x)$ tại đúng một điểm, và dĩ nhiên chúng ta sẽ không tính các trường hợp tiếp xúc.
+
+119
+00:21:39,520 --> 00:21:51,920
+Thì bây giờ các em hãy cùng nhau suy nghĩ xem coi là vị trí của đường $m$ này như thế nào thì nó sẽ cắt cái phần màu vàng này tại đúng một điểm.
+
+120
+00:21:51,920 --> 00:22:12,920
+Đầu tiên chúng ta sẽ dễ dàng nhận thấy khi cái đường nằm ngang $y = m$ này nằm giữa hai giá trị từ 0 đến 24 thì đường nằm ngang này sẽ cắt phần màu vàng tại đúng một điểm, do đó $0 < m < 24$ là thỏa mãn.
+
+121
+00:22:12,920 --> 00:22:42,800
+Bây giờ chúng ta để ý khi mà đường nằm ngang $y = m$ này nằm ngay vị trí $-1$ thì đường nằm ngang này cũng cắt cái đồ thị $f(x)$ tại đúng một điểm, tuy nhiên lúc này đường nằm ngang đã tiếp xúc với hàm số $f(x)$, do đó đây chính là nghiệm bội chẵn và chúng ta không tính nó là nghiệm đơn, do đó $m = -1$ không thỏa mãn.
+
+122
+00:22:42,800 --> 00:23:01,760
+Chúng ta xét một cái vị trí đặc biệt đó chính là $y = m$ nằm ngay tại vị trí 0, lúc này cái đường $y = m$ nó đã cắt cái hàm số màu vàng này đúng một điểm và ngay tại chỗ 0.
+
+123
+00:23:01,760 --> 00:23:18,040
+Tuy nhiên chúng ta lưu ý là chúng ta đang xét trên khoảng từ 0 đến 6 cho nên vị trí $y = m$ nằm tại 0 nó vẫn thỏa mãn mặc dù nó cắt tại chỗ 0 như thế này, nhưng mà chúng ta không có lấy 0 nên chung quy lại vẫn cắt tại một điểm.
+
+124
+00:23:18,040 --> 00:23:44,320
+Vậy thì qua phân tích nãy giờ chúng ta thấy vị trí của đường nằm ngang $y = m$ nó sẽ thỏa mãn yêu cầu bài toán khi và chỉ khi $0 \le m < 24$, và do đó chúng ta sẽ có 24 số nguyên $m$ thỏa mãn yêu cầu bài toán.
+
+125
+00:23:44,320 --> 00:23:58,520
+Thì ví dụ vừa rồi cũng đã khép lại cái chuyên đề thứ nhất, hy vọng rằng các nội dung trong chuyên đề này đã phần nào giúp các em ôn tập lại được các kiến thức liên quan đến khảo sát hàm số và các bài toán liên quan đến tham số m.
+
+126
+00:23:58,520 --> 00:24:02,920
+Gặp lại các em ở các chuyên đề tiếp theo, xin chào tạm biệt các em.

@@ -1,0 +1,909 @@
+{
+  "video_id": "L26_V466",
+  "fps": 25.0,
+  "n_sentences": 52,
+  "total_words": 1084,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày, Phước Hưng có cái này đố anh nè: Ở Phú Yên một cái loại động vật nào người ta gọi là bò gù?",
+      "start": 10.52,
+      "end": 16.4,
+      "n_words": 27,
+      "start_frame": 263,
+      "end_frame": 410,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000323.webp",
+        "000347.webp",
+        "000348.webp",
+        "000376.webp",
+        "000405.webp",
+        "000406.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Đơn giản quá trời, thì giống như là chú ngựa lùn nè, thì bò gù cũng giống như là bò Tây Tạng, cái lưng nó bị gù gù đúng không?",
+      "start": 16.4,
+      "end": 22.4,
+      "n_words": 30,
+      "start_frame": 410,
+      "end_frame": 560,
+      "keyframes": [
+        "000440.webp",
+        "000475.webp",
+        "000476.webp",
+        "000501.webp",
+        "000527.webp",
+        "000528.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Làm gì có, đó là cá ngừ đại dương đó!",
+      "start": 22.4,
+      "end": 25.36,
+      "n_words": 10,
+      "start_frame": 560,
+      "end_frame": 634,
+      "keyframes": [
+        "000563.webp",
+        "000599.webp",
+        "000600.webp",
+        "000618.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "À, cá ngừ đại dương.",
+      "start": 25.36,
+      "end": 27.48,
+      "n_words": 5,
+      "start_frame": 634,
+      "end_frame": 687,
+      "keyframes": [
+        "000636.webp",
+        "000637.webp",
+        "000658.webp",
+        "000679.webp",
+        "000680.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ủa thì bò gù cũng là cá ngừ đại dương thì nó cũng có gì đâu mà lạ, nhưng mà anh có từng ăn món gì đặc trưng của cá ngừ đại dương chưa?",
+      "start": 27.48,
+      "end": 34.52,
+      "n_words": 34,
+      "start_frame": 687,
+      "end_frame": 863,
+      "keyframes": [
+        "000728.webp",
+        "000777.webp",
+        "000778.webp",
+        "000821.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cái này lại càng đơn giản hơn, sashimi là nhanh nhất.",
+      "start": 34.52,
+      "end": 37.44,
+      "n_words": 11,
+      "start_frame": 863,
+      "end_frame": 936,
+      "keyframes": [
+        "000864.webp",
+        "000865.webp",
+        "000900.webp",
+        "000935.webp",
+        "000936.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thường là người ta làm bò lúc lắc đúng không, thì hôm nay bữa nay mình làm bò gù lúc lắc đi.",
+      "start": 37.44,
+      "end": 41.88,
+      "n_words": 22,
+      "start_frame": 936,
+      "end_frame": 1047,
+      "keyframes": [
+        "000936.webp",
+        "000987.webp",
+        "001039.webp",
+        "001040.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Nghe có vẻ thú vị nha, giờ làm liền luôn ha.",
+      "start": 41.88,
+      "end": 44.08,
+      "n_words": 11,
+      "start_frame": 1047,
+      "end_frame": 1102,
+      "keyframes": [
+        "001078.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Vào bếp lạ miệng và bổ dưỡng cùng cá ngừ đại dương lúc lắc.",
+      "start": 44.08,
+      "end": 65.68,
+      "n_words": 14,
+      "start_frame": 1102,
+      "end_frame": 1642,
+      "keyframes": [
+        "001117.webp",
+        "001118.webp",
+        "001142.webp",
+        "001167.webp",
+        "001168.webp",
+        "001209.webp",
+        "001251.webp",
+        "001252.webp",
+        "001341.webp",
+        "001431.webp",
+        "001441.webp",
+        "001457.webp",
+        "001474.webp",
+        "001475.webp",
+        "001562.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Mến chào các bạn đang đến với chương trình Món ngon mỗi ngày.",
+      "start": 65.68,
+      "end": 68.56,
+      "n_words": 13,
+      "start_frame": 1642,
+      "end_frame": 1714,
+      "keyframes": [
+        "001650.webp",
+        "001651.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 68.56,
+      "end": 72.48,
+      "n_words": 11,
+      "start_frame": 1714,
+      "end_frame": 1812,
+      "keyframes": [
+        "001755.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Công đoạn đầu tiên cho món ăn này thì cái phần cá ngừ đại dương, Phước Hưng sẽ cắt vuông góc.",
+      "start": 72.48,
+      "end": 76.84,
+      "n_words": 21,
+      "start_frame": 1812,
+      "end_frame": 1921,
+      "keyframes": [
+        "001860.webp",
+        "001861.webp",
+        "001873.webp",
+        "001885.webp",
+        "001886.webp",
+        "001901.webp",
+        "001917.webp",
+        "001918.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta sẽ khứa dao thì cá nó không bị bể, sẽ đẹp hơn.",
+      "start": 76.84,
+      "end": 81.36,
+      "n_words": 14,
+      "start_frame": 1921,
+      "end_frame": 2034,
+      "keyframes": [
+        "001958.webp",
+        "001999.webp",
+        "002000.webp",
+        "002018.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Để ý là Phước Hưng lúc mà cắt cái thịt cá ngừ ra nhìn rất là giống những cái viên bò lúc lắc vậy, thì không biết cách chế biến của nó có giống như vậy không?",
+      "start": 81.36,
+      "end": 89.2,
+      "n_words": 37,
+      "start_frame": 2034,
+      "end_frame": 2230,
+      "keyframes": [
+        "002037.webp",
+        "002038.webp",
+        "002056.webp",
+        "002075.webp",
+        "002076.webp",
+        "002091.webp",
+        "002107.webp",
+        "002108.webp",
+        "002136.webp",
+        "002164.webp",
+        "002165.webp",
+        "002187.webp",
+        "002210.webp",
+        "002211.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Y hệt như là cách chế biến của bò lúc lắc thôi, nhưng mà cá ngừ đại dương thì chúng ta phải chiên sơ qua dầu.",
+      "start": 89.2,
+      "end": 94.48,
+      "n_words": 26,
+      "start_frame": 2230,
+      "end_frame": 2362,
+      "keyframes": [
+        "002242.webp",
+        "002274.webp",
+        "002275.webp",
+        "002314.webp",
+        "002354.webp",
+        "002355.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sau khi mà quý vị chúng ta đã cắt cái phần cá này thành những cái vuông vừa ăn và đều nhau rồi thì bây giờ chúng ta sẽ ướp vào cá.",
+      "start": 94.48,
+      "end": 100.64,
+      "n_words": 32,
+      "start_frame": 2362,
+      "end_frame": 2516,
+      "keyframes": [
+        "002378.webp",
+        "002401.webp",
+        "002402.webp",
+        "002457.webp",
+        "002512.webp",
+        "002513.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đầu tiên Phước Hưng sẽ cho vào đây một muỗng canh nước tương Phú Sĩ, một muỗng cà phê nước cốt chanh.",
+      "start": 100.64,
+      "end": 106.08,
+      "n_words": 22,
+      "start_frame": 2516,
+      "end_frame": 2652,
+      "keyframes": [
+        "002561.webp",
+        "002610.webp",
+        "002611.webp",
+        "002642.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng ta sẽ sử dụng nước cốt chanh ướp vào trong cá giúp cho cá khử được mùi tanh, nửa muỗng cà phê hạt nêm Aji-ngon heo và nửa muỗng cà phê tiêu.",
+      "start": 106.08,
+      "end": 114.96,
+      "n_words": 33,
+      "start_frame": 2652,
+      "end_frame": 2874,
+      "keyframes": [
+        "002674.webp",
+        "002675.webp",
+        "002716.webp",
+        "002757.webp",
+        "002758.webp",
+        "002777.webp",
+        "002797.webp",
+        "002798.webp",
+        "002814.webp",
+        "002831.webp",
+        "002832.webp",
+        "002852.webp",
+        "002873.webp",
+        "002874.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Rồi và bây giờ chúng ta sẽ trộn đều lên.",
+      "start": 114.96,
+      "end": 117.12,
+      "n_words": 10,
+      "start_frame": 2874,
+      "end_frame": 2928,
+      "keyframes": [
+        "002874.webp",
+        "002884.webp",
+        "002895.webp",
+        "002896.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Thì chúng ta sẽ ướp cá khoảng năm tới bảy phút là được.",
+      "start": 117.12,
+      "end": 119.84,
+      "n_words": 13,
+      "start_frame": 2928,
+      "end_frame": 2996,
+      "keyframes": [
+        "002963.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đối với món ăn ngày hôm nay thì chúng ta sẽ ướp cá với nước tương Phú Sĩ để giúp cho cá có vị đậm đà và món ăn có hương vị đặc trưng hơn.",
+      "start": 119.84,
+      "end": 126.6,
+      "n_words": 35,
+      "start_frame": 2996,
+      "end_frame": 3165,
+      "keyframes": [
+        "003030.webp",
+        "003031.webp",
+        "003099.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và tiếp theo Phước Hưng sẽ hướng dẫn cho quý vị chúng ta sơ chế đến những cái phần rau củ.",
+      "start": 126.6,
+      "end": 130.88,
+      "n_words": 21,
+      "start_frame": 3165,
+      "end_frame": 3272,
+      "keyframes": [
+        "003168.webp",
+        "003169.webp",
+        "003217.webp",
+        "003266.webp",
+        "003267.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Phần ớt thì bây giờ Phước Hưng cũng sẽ cắt vuông vức tương đương với phần cá luôn.",
+      "start": 130.88,
+      "end": 137.36,
+      "n_words": 18,
+      "start_frame": 3272,
+      "end_frame": 3434,
+      "keyframes": [
+        "003283.webp",
+        "003299.webp",
+        "003300.webp",
+        "003327.webp",
+        "003354.webp",
+        "003355.webp",
+        "003365.webp",
+        "003376.webp",
+        "003377.webp",
+        "003400.webp",
+        "003423.webp",
+        "003424.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Còn phần hành tây Phước Hưng cũng sẽ cắt khối vuông luôn, rồi Hưng sẽ cho qua dĩa luôn.",
+      "start": 137.36,
+      "end": 142.6,
+      "n_words": 19,
+      "start_frame": 3434,
+      "end_frame": 3565,
+      "keyframes": [
+        "003439.webp",
+        "003454.webp",
+        "003455.webp",
+        "003471.webp",
+        "003488.webp",
+        "003489.webp",
+        "003507.webp",
+        "003525.webp",
+        "003526.webp",
+        "003544.webp",
+        "003563.webp",
+        "003564.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Còn phần tỏi này bây giờ Phước Hưng sẽ đập dập rồi Hưng sẽ cho qua đây.",
+      "start": 142.6,
+      "end": 146.64,
+      "n_words": 17,
+      "start_frame": 3565,
+      "end_frame": 3666,
+      "keyframes": [
+        "003578.webp",
+        "003593.webp",
+        "003594.webp",
+        "003612.webp",
+        "003631.webp",
+        "003632.webp",
+        "003650.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Tiếp theo Phước Hưng sẽ hướng dẫn cho quý vị chúng ta pha cái hỗn hợp sốt để xào cái phần cá ngừ.",
+      "start": 146.64,
+      "end": 151.32,
+      "n_words": 23,
+      "start_frame": 3666,
+      "end_frame": 3783,
+      "keyframes": [
+        "003669.webp",
+        "003670.webp",
+        "003725.webp",
+        "003780.webp",
+        "003781.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đầu tiên Phước Hưng sẽ cho vào đây hai muỗng canh nước mắm, một muỗng canh nước cốt chanh, một muỗng canh mù tạt vàng, một muỗng cà phê đường, nửa muỗng cà phê bột ngọt Ajinomoto, một muỗng canh nước tương Phú Sĩ, nửa muỗng canh tương ớt và một muỗng canh tương cà.",
+      "start": 151.32,
+      "end": 167.92,
+      "n_words": 55,
+      "start_frame": 3783,
+      "end_frame": 4198,
+      "keyframes": [
+        "003814.webp",
+        "003847.webp",
+        "003848.webp",
+        "003867.webp",
+        "003886.webp",
+        "003887.webp",
+        "003917.webp",
+        "003948.webp",
+        "003949.webp",
+        "003964.webp",
+        "003979.webp",
+        "003980.webp",
+        "004008.webp",
+        "004037.webp",
+        "004038.webp",
+        "004054.webp",
+        "004071.webp",
+        "004072.webp",
+        "004096.webp",
+        "004120.webp",
+        "004121.webp",
+        "004138.webp",
+        "004155.webp",
+        "004156.webp",
+        "004176.webp",
+        "004197.webp",
+        "004198.webp"
+      ],
+      "keyframe_count": 27
+    },
+    {
+      "text": "Rồi và bây giờ chúng ta sẽ khuấy đều hỗn hợp gia vị này lên.",
+      "start": 167.92,
+      "end": 171.28,
+      "n_words": 15,
+      "start_frame": 4198,
+      "end_frame": 4282,
+      "keyframes": [
+        "004198.webp",
+        "004220.webp",
+        "004242.webp",
+        "004243.webp",
+        "004263.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ bắt một cái chảo dầu lên trên bếp để chiên khoai tây.",
+      "start": 171.28,
+      "end": 178.84,
+      "n_words": 17,
+      "start_frame": 4282,
+      "end_frame": 4471,
+      "keyframes": [
+        "004284.webp",
+        "004285.webp",
+        "004299.webp",
+        "004314.webp",
+        "004315.webp",
+        "004340.webp",
+        "004365.webp",
+        "004366.webp",
+        "004401.webp",
+        "004437.webp",
+        "004438.webp",
+        "004457.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Bây giờ thì phần khoai tây cũng đã giòn là chúng ta vớt ra.",
+      "start": 178.84,
+      "end": 181.72,
+      "n_words": 14,
+      "start_frame": 4471,
+      "end_frame": 4543,
+      "keyframes": [
+        "004477.webp",
+        "004478.webp",
+        "004500.webp",
+        "004522.webp",
+        "004523.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Sau khi mà quý vị chiên khoai tây ra rồi thì bây giờ chúng ta sẽ rắc vào một ít muối và một ít tiêu để cho khoai tây có vị đậm đà hơn.",
+      "start": 181.72,
+      "end": 188.48,
+      "n_words": 34,
+      "start_frame": 4543,
+      "end_frame": 4712,
+      "keyframes": [
+        "004558.webp",
+        "004594.webp",
+        "004595.webp",
+        "004619.webp",
+        "004643.webp",
+        "004644.webp",
+        "004676.webp",
+        "004708.webp",
+        "004709.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Rồi vậy là xong, phần chảo dầu này cũng đang rất là nóng, tiếp theo cho cá vào chúng ta chiên.",
+      "start": 188.48,
+      "end": 193.68,
+      "n_words": 21,
+      "start_frame": 4712,
+      "end_frame": 4842,
+      "keyframes": [
+        "004728.webp",
+        "004747.webp",
+        "004748.webp",
+        "004774.webp",
+        "004801.webp",
+        "004802.webp",
+        "004822.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Và quý vị nên lưu ý khi mà chúng ta cho cá vào trong chảo rồi thì chúng ta sẽ chiên lửa lớn, nhanh tay để cá không bị khô.",
+      "start": 193.68,
+      "end": 199.48,
+      "n_words": 30,
+      "start_frame": 4842,
+      "end_frame": 4987,
+      "keyframes": [
+        "004843.webp",
+        "004844.webp",
+        "004870.webp",
+        "004897.webp",
+        "004898.webp",
+        "004943.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ thì chúng ta sẽ vớt cái phần cá ra, cho ra một cái giấy thấm dầu.",
+      "start": 199.48,
+      "end": 203.64,
+      "n_words": 18,
+      "start_frame": 4987,
+      "end_frame": 5091,
+      "keyframes": [
+        "004988.webp",
+        "004989.webp",
+        "005013.webp",
+        "005038.webp",
+        "005039.webp",
+        "005079.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Wow, cá ngừ mà nãy giờ cứ tưởng là bò lúc lắc luôn!",
+      "start": 203.64,
+      "end": 206.56,
+      "n_words": 13,
+      "start_frame": 5091,
+      "end_frame": 5164,
+      "keyframes": [
+        "005120.webp",
+        "005121.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "À giờ thì đã hiểu tại sao ở Phú Yên lại gọi là bò gù rồi.",
+      "start": 206.56,
+      "end": 209.88,
+      "n_words": 16,
+      "start_frame": 5164,
+      "end_frame": 5247,
+      "keyframes": [
+        "005184.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đúng rồi, lại rất là thơm đúng không?",
+      "start": 209.88,
+      "end": 211.68,
+      "n_words": 8,
+      "start_frame": 5247,
+      "end_frame": 5292,
+      "keyframes": [
+        "005248.webp",
+        "005249.webp",
+        "005271.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và bây giờ tiếp tục Phước Hưng lại bắc lên trên bếp một cái chảo để chúng ta xào.",
+      "start": 211.68,
+      "end": 215.24,
+      "n_words": 19,
+      "start_frame": 5292,
+      "end_frame": 5381,
+      "keyframes": [
+        "005294.webp",
+        "005295.webp",
+        "005341.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Phước Hưng sẽ cho vào đây khoảng một muỗng canh dầu ăn, cho phần tỏi đập dập vào phi thơm.",
+      "start": 215.24,
+      "end": 224.24,
+      "n_words": 20,
+      "start_frame": 5381,
+      "end_frame": 5606,
+      "keyframes": [
+        "005388.webp",
+        "005389.webp",
+        "005419.webp",
+        "005449.webp",
+        "005450.webp",
+        "005477.webp",
+        "005504.webp",
+        "005505.webp",
+        "005563.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Bây giờ thì phần tỏi cũng đã dậy mùi thơm lên rồi, Phước Hưng sẽ cho ớt nè và hành tây và chúng ta xóc đều.",
+      "start": 224.24,
+      "end": 231.36,
+      "n_words": 26,
+      "start_frame": 5606,
+      "end_frame": 5784,
+      "keyframes": [
+        "005622.webp",
+        "005623.webp",
+        "005663.webp",
+        "005704.webp",
+        "005705.webp",
+        "005747.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sau đó tiếp tục Phước Hưng sẽ cho phần cá vào.",
+      "start": 231.36,
+      "end": 233.0,
+      "n_words": 11,
+      "start_frame": 5784,
+      "end_frame": 5825,
+      "keyframes": [
+        "005789.webp",
+        "005790.webp",
+        "005819.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cho phần cá vào, sau khi mà quý vị chúng ta cho phần cá vào trong chảo rồi thì bây giờ chúng ta cho phần sốt vào.",
+      "start": 233.0,
+      "end": 239.76,
+      "n_words": 27,
+      "start_frame": 5825,
+      "end_frame": 5994,
+      "keyframes": [
+        "005849.webp",
+        "005850.webp",
+        "005881.webp",
+        "005912.webp",
+        "005913.webp",
+        "005944.webp",
+        "005976.webp",
+        "005977.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Thơm quá, màu sắc rất là bắt mắt.",
+      "start": 239.76,
+      "end": 242.08,
+      "n_words": 8,
+      "start_frame": 5994,
+      "end_frame": 6052,
+      "keyframes": [
+        "006043.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Quả thật là bây giờ nhìn vô đây chưa nếm chắc chắn ai cũng nghĩ đây là một món bò lúc lắc cực kỳ thơm ngon.",
+      "start": 242.08,
+      "end": 248.92,
+      "n_words": 26,
+      "start_frame": 6052,
+      "end_frame": 6223,
+      "keyframes": [
+        "006110.webp",
+        "006111.webp",
+        "006153.webp",
+        "006196.webp",
+        "006197.webp",
+        "006219.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đúng rồi, cuối cùng Phước Hưng sẽ cho vào đây 10 g bơ để giúp cho món ăn không bị khô và sẽ bóng mượt hơn.",
+      "start": 248.92,
+      "end": 255.04,
+      "n_words": 26,
+      "start_frame": 6223,
+      "end_frame": 6376,
+      "keyframes": [
+        "006241.webp",
+        "006242.webp",
+        "006275.webp",
+        "006308.webp",
+        "006309.webp",
+        "006329.webp",
+        "006349.webp",
+        "006350.webp",
+        "006363.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Chúng ta tăng lửa lớn lên một lần nữa, chúng ta xóc nhanh tay.",
+      "start": 255.04,
+      "end": 258.44,
+      "n_words": 14,
+      "start_frame": 6376,
+      "end_frame": 6461,
+      "keyframes": [
+        "006377.webp",
+        "006378.webp",
+        "006401.webp",
+        "006424.webp",
+        "006425.webp",
+        "006455.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thơm quá và bây giờ chúng ta sẽ qua trang trí món ăn.",
+      "start": 258.44,
+      "end": 263.64,
+      "n_words": 13,
+      "start_frame": 6461,
+      "end_frame": 6591,
+      "keyframes": [
+        "006485.webp",
+        "006486.webp",
+        "006510.webp",
+        "006535.webp",
+        "006536.webp",
+        "006562.webp",
+        "006588.webp",
+        "006589.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Nhìn hấp dẫn quá, đúng là lúc nãy mình bỏ bơ thêm vào cuối cùng bây giờ cái mùi thơm nó cực kỳ dễ chịu luôn mà món ăn của mình rất là bóng mượt đúng không?",
+      "start": 263.64,
+      "end": 272.56,
+      "n_words": 37,
+      "start_frame": 6591,
+      "end_frame": 6814,
+      "keyframes": [
+        "006607.webp",
+        "006626.webp",
+        "006627.webp",
+        "006682.webp",
+        "006738.webp",
+        "006739.webp",
+        "006773.webp",
+        "006808.webp",
+        "006809.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Và khi ăn kèm thì quý vị nên lưu ý chúng ta sẽ ăn kèm với khoai tây nè và với tương ớt ăn sẽ rất là ngon.",
+      "start": 272.56,
+      "end": 278.36,
+      "n_words": 28,
+      "start_frame": 6814,
+      "end_frame": 6959,
+      "keyframes": [
+        "006828.webp",
+        "006847.webp",
+        "006848.webp",
+        "006901.webp",
+        "006955.webp",
+        "006956.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cá vừa chín tới, thơm mềm, vị ngọt thanh, giòn giòn của ớt chuông và hành tây kết hợp với nước sốt chua nhẹ, đậm đà, ngon đáo để.",
+      "start": 278.36,
+      "end": 287.28,
+      "n_words": 29,
+      "start_frame": 6959,
+      "end_frame": 7182,
+      "keyframes": [
+        "006973.webp",
+        "006991.webp",
+        "007007.webp",
+        "007040.webp",
+        "007073.webp",
+        "007074.webp",
+        "007129.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Món cá ngừ đại dương lúc lắc ngày hôm nay quá lạ quá hấp dẫn đúng không nào?",
+      "start": 287.28,
+      "end": 291.04,
+      "n_words": 18,
+      "start_frame": 7182,
+      "end_frame": 7276,
+      "keyframes": [
+        "007184.webp",
+        "007185.webp",
+        "007268.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hãy cùng bắt tay làm để chiêu đãi cho cả nhà nha.",
+      "start": 291.04,
+      "end": 294.6,
+      "n_words": 12,
+      "start_frame": 7276,
+      "end_frame": 7365,
+      "keyframes": [
+        "007351.webp",
+        "007352.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

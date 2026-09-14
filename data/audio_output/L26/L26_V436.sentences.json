@@ -1,0 +1,812 @@
+{
+  "video_id": "L26_V436",
+  "fps": 25.0,
+  "n_sentences": 46,
+  "total_words": 1031,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.56,
+      "end": 12.6,
+      "n_words": 4,
+      "start_frame": 264,
+      "end_frame": 315,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chào Minh Tú, bữa nay rảnh quá ha, ngồi đây ăn táo hả?",
+      "start": 12.6,
+      "end": 15.68,
+      "n_words": 13,
+      "start_frame": 315,
+      "end_frame": 392,
+      "keyframes": [
+        "000342.webp",
+        "000384.webp",
+        "000385.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chào cô.",
+      "start": 15.68,
+      "end": 16.8,
+      "n_words": 2,
+      "start_frame": 392,
+      "end_frame": 420,
+      "keyframes": [
+        "000399.webp",
+        "000413.webp",
+        "000414.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bởi vì em nghe nói là trong táo có rất là nhiều vitamin tốt cho sức khỏe, còn đẹp da nữa.",
+      "start": 16.8,
+      "end": 21.68,
+      "n_words": 21,
+      "start_frame": 420,
+      "end_frame": 542,
+      "keyframes": [
+        "000510.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Em ăn đến khi nào mà em xanh tươi như trái táo thì em mới chịu, trái nha.",
+      "start": 21.68,
+      "end": 25.08,
+      "n_words": 18,
+      "start_frame": 542,
+      "end_frame": 627,
+      "keyframes": [
+        "000606.webp",
+        "000607.webp",
+        "000620.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ủa sao tự nhiên cái vô cái cô xin táo của em?",
+      "start": 25.08,
+      "end": 27.4,
+      "n_words": 12,
+      "start_frame": 627,
+      "end_frame": 685,
+      "keyframes": [
+        "000634.webp",
+        "000635.webp",
+        "000658.webp",
+        "000682.webp",
+        "000683.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cô muốn là cung cấp cho em thêm một món ăn từ trái táo, đó là cô sẽ kết hợp táo và làm bánh, thay vì em ăn táo không, nó buồn chán quá đúng không?",
+      "start": 27.4,
+      "end": 36.08,
+      "n_words": 36,
+      "start_frame": 685,
+      "end_frame": 902,
+      "keyframes": [
+        "000765.webp",
+        "000847.webp",
+        "000848.webp",
+        "000878.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cô rồi bây giờ hai cô trò mình mỗi người một miếng táo hả?",
+      "start": 36.08,
+      "end": 42.92,
+      "n_words": 14,
+      "start_frame": 902,
+      "end_frame": 1073,
+      "keyframes": [
+        "000909.webp",
+        "000910.webp",
+        "000982.webp",
+        "001054.webp",
+        "001055.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cảm ơn em, ăn lấy sức.",
+      "start": 42.92,
+      "end": 44.16,
+      "n_words": 6,
+      "start_frame": 1073,
+      "end_frame": 1104,
+      "keyframes": [
+        "001094.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Còn em cầm trái này cho cô, mình làm cái táo đúng rồi, mê mẩn với bánh dân táo mừng.",
+      "start": 44.16,
+      "end": 68.48,
+      "n_words": 20,
+      "start_frame": 1104,
+      "end_frame": 1712,
+      "keyframes": [
+        "001134.webp",
+        "001135.webp",
+        "001161.webp",
+        "001188.webp",
+        "001189.webp",
+        "001213.webp",
+        "001238.webp",
+        "001239.webp",
+        "001270.webp",
+        "001301.webp",
+        "001302.webp",
+        "001352.webp",
+        "001403.webp",
+        "001421.webp",
+        "001472.webp",
+        "001524.webp",
+        "001525.webp",
+        "001612.webp",
+        "001700.webp",
+        "001701.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Các bạn đang đến với chương trình Món ngon mỗi ngày, chương trình được tài trợ bởi công ty Atino Việt Nam.",
+      "start": 68.48,
+      "end": 75.28,
+      "n_words": 22,
+      "start_frame": 1712,
+      "end_frame": 1882,
+      "keyframes": [
+        "001791.webp",
+        "001882.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đây là quả táo thì cô sẽ nhờ Tuấn là em cắt một góc, xong rồi em cắt lát giùm cô vài lát để trang trí.",
+      "start": 75.28,
+      "end": 81.76,
+      "n_words": 26,
+      "start_frame": 1882,
+      "end_frame": 2044,
+      "keyframes": [
+        "001882.webp",
+        "001883.webp",
+        "001923.webp",
+        "001964.webp",
+        "001965.webp",
+        "001985.webp",
+        "002006.webp",
+        "002007.webp",
+        "002033.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Còn nhiều thì mình sẽ gọt vỏ và mình cắt hạt.",
+      "start": 81.76,
+      "end": 84.12,
+      "n_words": 11,
+      "start_frame": 2044,
+      "end_frame": 2103,
+      "keyframes": [
+        "002060.webp",
+        "002061.webp",
+        "002079.webp",
+        "002098.webp",
+        "002099.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cái phần táo cắt lát thì mình sẽ bỏ vô tô nước, trong nước mình sẽ cho chút muối nữa, táo mình sẽ không đen đúng không?",
+      "start": 84.12,
+      "end": 90.72,
+      "n_words": 27,
+      "start_frame": 2103,
+      "end_frame": 2268,
+      "keyframes": [
+        "002158.webp",
+        "002218.webp",
+        "002219.webp",
+        "002243.webp",
+        "002268.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Rồi hạt lựu đẹp xuất sắc, em tự ngưỡng mộ em luôn.",
+      "start": 90.72,
+      "end": 96.64,
+      "n_words": 12,
+      "start_frame": 2268,
+      "end_frame": 2416,
+      "keyframes": [
+        "002268.webp",
+        "002269.webp",
+        "002293.webp",
+        "002317.webp",
+        "002318.webp",
+        "002335.webp",
+        "002353.webp",
+        "002354.webp",
+        "002367.webp",
+        "002380.webp",
+        "002411.webp",
+        "002414.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Cho vào một canh đường, mình sẽ ướp táo này với lại đường khoảng chừng năm phút.",
+      "start": 96.64,
+      "end": 101.48,
+      "n_words": 17,
+      "start_frame": 2416,
+      "end_frame": 2537,
+      "keyframes": [
+        "002417.webp",
+        "002418.webp",
+        "002437.webp",
+        "002456.webp",
+        "002457.webp",
+        "002471.webp",
+        "002486.webp",
+        "002487.webp",
+        "002517.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Tiếp theo thì mình sẽ chuẩn bị cái phần whipping.",
+      "start": 101.48,
+      "end": 103.6,
+      "n_words": 10,
+      "start_frame": 2537,
+      "end_frame": 2590,
+      "keyframes": [
+        "002547.webp",
+        "002548.webp",
+        "002567.webp",
+        "002587.webp",
+        "002588.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Các bạn nhớ là whipping mà muốn đánh nổi thì chúng ta sẽ giữ lạnh đó nha.",
+      "start": 103.6,
+      "end": 107.2,
+      "n_words": 17,
+      "start_frame": 2590,
+      "end_frame": 2680,
+      "keyframes": [
+        "002633.webp",
+        "002678.webp",
+        "002679.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trong quá trình đánh thì chúng ta sẽ tăng cái số máy lên từ từ, và khi mà chúng ta thấy là whipping đã có cái độ đứng rồi thì mình sẽ giảm số và đánh một chút nữa thôi để cho vừa đứng thôi, không có đánh quá kỹ lên nó như thế này nè, như vầy đây.",
+      "start": 107.2,
+      "end": 122.96,
+      "n_words": 59,
+      "start_frame": 2680,
+      "end_frame": 3074,
+      "keyframes": [
+        "002732.webp",
+        "002785.webp",
+        "002786.webp",
+        "002854.webp",
+        "002922.webp",
+        "002923.webp",
+        "002959.webp",
+        "002995.webp",
+        "002996.webp",
+        "003035.webp",
+        "003074.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Chúng ta sẽ cho nó vào trong một cái túi bắt kem và mình để giữ ở trong tủ lạnh chút nữa.",
+      "start": 122.96,
+      "end": 127.16,
+      "n_words": 22,
+      "start_frame": 3074,
+      "end_frame": 3179,
+      "keyframes": [
+        "003074.webp",
+        "003075.webp",
+        "003155.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đổ bánh xong thì mình sẽ dùng để trang trí lên bánh táo.",
+      "start": 127.16,
+      "end": 129.68,
+      "n_words": 13,
+      "start_frame": 3179,
+      "end_frame": 3242,
+      "keyframes": [
+        "003235.webp",
+        "003236.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cắt hạt lựu nè, ướp với đường nó sẽ tươm nước lên như thế này.",
+      "start": 129.68,
+      "end": 132.64,
+      "n_words": 15,
+      "start_frame": 3242,
+      "end_frame": 3316,
+      "keyframes": [
+        "003273.webp",
+        "003311.webp",
+        "003312.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Em sẽ giúp cô mình bắt cái chảo lên trên bếp để mình sên.",
+      "start": 132.64,
+      "end": 135.4,
+      "n_words": 14,
+      "start_frame": 3316,
+      "end_frame": 3385,
+      "keyframes": [
+        "003347.webp",
+        "003382.webp",
+        "003383.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Khi mà chúng ta sên táo thì mình sẽ sên với lửa nhỏ để táo chín mềm mà không bị khét.",
+      "start": 135.4,
+      "end": 140.64,
+      "n_words": 21,
+      "start_frame": 3385,
+      "end_frame": 3516,
+      "keyframes": [
+        "003421.webp",
+        "003459.webp",
+        "003460.webp",
+        "003488.webp",
+        "003516.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cho vào đây nữa một muỗng canh bơ lạt để cho nó thơm ha, một chút xíu muối.",
+      "start": 140.64,
+      "end": 145.52,
+      "n_words": 18,
+      "start_frame": 3516,
+      "end_frame": 3638,
+      "keyframes": [
+        "003516.webp",
+        "003517.webp",
+        "003538.webp",
+        "003559.webp",
+        "003560.webp",
+        "003588.webp",
+        "003616.webp",
+        "003617.webp",
+        "003622.webp",
+        "003628.webp",
+        "003629.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Và bây giờ thì chúng ta sẽ pha bột bánh rán, pha sẵn vị truyền thống, cho vào đây 140 ml nước.",
+      "start": 145.52,
+      "end": 151.44,
+      "n_words": 22,
+      "start_frame": 3638,
+      "end_frame": 3786,
+      "keyframes": [
+        "003653.webp",
+        "003677.webp",
+        "003678.webp",
+        "003692.webp",
+        "003707.webp",
+        "003708.webp",
+        "003721.webp",
+        "003734.webp",
+        "003735.webp",
+        "003760.webp",
+        "003786.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Mình vừa cho mình sẽ vừa khuấy để cho cái bột này nó tan đều đó, màu vàng đẹp rồi đó Tuấn ha.",
+      "start": 151.44,
+      "end": 157.48,
+      "n_words": 23,
+      "start_frame": 3786,
+      "end_frame": 3937,
+      "keyframes": [
+        "003786.webp",
+        "003787.webp",
+        "003829.webp",
+        "003871.webp",
+        "003872.webp",
+        "003907.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi cuối cùng cho vào đây là một muỗng cà phê vỏ chanh mài để giữ được mùi thơm cho món bánh nhé.",
+      "start": 157.48,
+      "end": 164.8,
+      "n_words": 23,
+      "start_frame": 3937,
+      "end_frame": 4120,
+      "keyframes": [
+        "003943.webp",
+        "003944.webp",
+        "003999.webp",
+        "004055.webp",
+        "004056.webp",
+        "004084.webp",
+        "004113.webp",
+        "004114.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Một chút ra giúp cô đặt chảo lên trên bếp để mình bắt đầu đổ bánh nha.",
+      "start": 164.8,
+      "end": 168.96,
+      "n_words": 17,
+      "start_frame": 4120,
+      "end_frame": 4224,
+      "keyframes": [
+        "004134.webp",
+        "004155.webp",
+        "004156.webp",
+        "004190.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chảo nóng rồi đó thì bây giờ chúng ta sẽ hạ lửa nè, đặt chảo lên trên một cái khăn ẩm để giảm nhiệt.",
+      "start": 168.96,
+      "end": 173.96,
+      "n_words": 24,
+      "start_frame": 4224,
+      "end_frame": 4349,
+      "keyframes": [
+        "004225.webp",
+        "004226.webp",
+        "004242.webp",
+        "004259.webp",
+        "004260.webp",
+        "004285.webp",
+        "004311.webp",
+        "004312.webp",
+        "004330.webp",
+        "004348.webp",
+        "004349.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Sau khi giảm nhiệt khoảng 10 giây thì mình sẽ đặt lại cái chảo lên trên bếp.",
+      "start": 173.96,
+      "end": 178.08,
+      "n_words": 17,
+      "start_frame": 4349,
+      "end_frame": 4452,
+      "keyframes": [
+        "004349.webp",
+        "004390.webp",
+        "004432.webp",
+        "004433.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng ta sẽ đổ ở một điểm ở trên chảo thôi, bột sẽ tự loang ra và sẽ tròn đều, rồi mình sẽ lật bánh lại quá đẹp.",
+      "start": 178.08,
+      "end": 189.08,
+      "n_words": 28,
+      "start_frame": 4452,
+      "end_frame": 4727,
+      "keyframes": [
+        "004508.webp",
+        "004583.webp",
+        "004584.webp",
+        "004602.webp",
+        "004620.webp",
+        "004621.webp",
+        "004643.webp",
+        "004665.webp",
+        "004666.webp",
+        "004695.webp",
+        "004724.webp",
+        "004725.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Rồi cô sẽ vớt cái bánh này ra, chúng ta sẽ hạ nhiệt cái chảo và cứ như vậy thì mình sẽ đổ cho đến khi hết bột, và chúng ta sẽ đổ thành những cái bánh bằng nhau.",
+      "start": 189.08,
+      "end": 200.4,
+      "n_words": 39,
+      "start_frame": 4727,
+      "end_frame": 5010,
+      "keyframes": [
+        "004755.webp",
+        "004786.webp",
+        "004787.webp",
+        "004814.webp",
+        "004842.webp",
+        "004843.webp",
+        "004855.webp",
+        "004867.webp",
+        "004868.webp",
+        "004939.webp",
+        "005010.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Rồi giờ cô lật nha.",
+      "start": 200.4,
+      "end": 205.76,
+      "n_words": 5,
+      "start_frame": 5010,
+      "end_frame": 5144,
+      "keyframes": [
+        "005010.webp",
+        "005011.webp",
+        "005042.webp",
+        "005073.webp",
+        "005074.webp",
+        "005111.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Như vậy là chúng ta đã đổ bánh xong rồi và bây giờ chúng ta sẽ trình bày ra.",
+      "start": 205.76,
+      "end": 212.24,
+      "n_words": 19,
+      "start_frame": 5144,
+      "end_frame": 5306,
+      "keyframes": [
+        "005149.webp",
+        "005150.webp",
+        "005178.webp",
+        "005206.webp",
+        "005207.webp",
+        "005231.webp",
+        "005256.webp",
+        "005257.webp",
+        "005281.webp",
+        "005306.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Rồi mình sẽ đặt một cái bánh lên trên đây và cô sẽ sử dụng cái phần kem ha, rồi chúng ta sẽ cho lên đây một ít táo mà mình đã sên, đẹp quá cô ơi.",
+      "start": 212.24,
+      "end": 228.08,
+      "n_words": 37,
+      "start_frame": 5306,
+      "end_frame": 5702,
+      "keyframes": [
+        "005306.webp",
+        "005307.webp",
+        "005336.webp",
+        "005366.webp",
+        "005367.webp",
+        "005410.webp",
+        "005454.webp",
+        "005455.webp",
+        "005475.webp",
+        "005495.webp",
+        "005496.webp",
+        "005509.webp",
+        "005523.webp",
+        "005524.webp",
+        "005544.webp",
+        "005565.webp",
+        "005566.webp",
+        "005596.webp",
+        "005626.webp",
+        "005627.webp",
+        "005663.webp",
+        "005699.webp",
+        "005700.webp"
+      ],
+      "keyframe_count": 23
+    },
+    {
+      "text": "Tiếp theo thì mình sẽ để lên đây một cái bánh nữa, mình sẽ lại bắt lên một cái phần kem nữa, kem nữa, rồi ở giữa mình lại đặt phần xốp táo lên, một cái lá húng lủi, rắc lên đây một ít đường bột nữa và như vậy là chúng ta đã hoàn thành xong món bánh kết hợp với táo xanh nha.",
+      "start": 228.08,
+      "end": 253.48,
+      "n_words": 65,
+      "start_frame": 5702,
+      "end_frame": 6337,
+      "keyframes": [
+        "005733.webp",
+        "005766.webp",
+        "005767.webp",
+        "005807.webp",
+        "005848.webp",
+        "005849.webp",
+        "005863.webp",
+        "005878.webp",
+        "005879.webp",
+        "005947.webp",
+        "006015.webp",
+        "006016.webp",
+        "006049.webp",
+        "006083.webp",
+        "006084.webp",
+        "006112.webp",
+        "006141.webp",
+        "006142.webp",
+        "006173.webp",
+        "006204.webp",
+        "006205.webp",
+        "006269.webp",
+        "006333.webp",
+        "006334.webp"
+      ],
+      "keyframe_count": 24
+    },
+    {
+      "text": "Mềm mịn lại vô cùng thơm béo ngọt ngào bởi lớp kem tươi, nhân táo thì lại chua chua ngọt ngọt, thơm lừng mùi bơ và vỏ chanh, chắc chắn sẽ làm cho bất kỳ một tín đồ hảo ngọt nào cũng phải hài lòng.",
+      "start": 255.0,
+      "end": 268.56,
+      "n_words": 45,
+      "start_frame": 6375,
+      "end_frame": 6714,
+      "keyframes": [
+        "006399.webp",
+        "006464.webp",
+        "006494.webp",
+        "006544.webp",
+        "006595.webp",
+        "006596.webp",
+        "006655.webp",
+        "006714.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Táo xanh vừa ngon lại vừa tốt cho sức khỏe và ngày hôm nay chúng ta lại có một món ăn cực kỳ đơn giản để làm tại nhà, hãy thử nghiệm ngay các bạn nhé.",
+      "start": 268.56,
+      "end": 275.84,
+      "n_words": 36,
+      "start_frame": 6714,
+      "end_frame": 6896,
+      "keyframes": [
+        "006714.webp",
+        "006715.webp",
+        "006805.webp",
+        "006896.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Các bạn thân mến, Món ngon mỗi ngày luôn mong muốn trở thành một người bạn đồng hành thân thiết cùng với lại tất cả mọi gia đình.",
+      "start": 275.84,
+      "end": 282.2,
+      "n_words": 28,
+      "start_frame": 6896,
+      "end_frame": 7055,
+      "keyframes": [
+        "006896.webp",
+        "006897.webp",
+        "006972.webp",
+        "007048.webp",
+        "007049.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng tôi rất mong nhận được ý kiến của tất cả mọi người.",
+      "start": 282.2,
+      "end": 284.88,
+      "n_words": 13,
+      "start_frame": 7055,
+      "end_frame": 7122,
+      "keyframes": [
+        "007085.webp",
+        "007122.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Câu hỏi mà chúng tôi đặt ra đó chính là bạn có sẵn sàng để chia sẻ những công thức món ăn của Món ngon mỗi ngày đến với bạn bè hay là người thân của mình hay không?",
+      "start": 284.88,
+      "end": 294.28,
+      "n_words": 39,
+      "start_frame": 7122,
+      "end_frame": 7357,
+      "keyframes": [
+        "007122.webp",
+        "007123.webp",
+        "007238.webp",
+        "007354.webp",
+        "007355.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Để tham gia khảo sát thì tất cả các bạn hãy soạn tin nhắn theo cú pháp MN khoảng cách Có hoặc Không rồi gửi về tổng đài 8069.",
+      "start": 294.28,
+      "end": 302.56,
+      "n_words": 29,
+      "start_frame": 7357,
+      "end_frame": 7564,
+      "keyframes": [
+        "007467.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cước phí cho mỗi tin nhắn sẽ là 1.000 đồng cho một tin nhắn.",
+      "start": 303.32,
+      "end": 306.56,
+      "n_words": 14,
+      "start_frame": 7583,
+      "end_frame": 7664,
+      "keyframes": [
+        "007622.webp",
+        "007663.webp",
+        "007664.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cách thứ hai là các bạn có thể gửi tin nhắn tương tự đến trang fanpage của chương trình Món ngon mỗi ngày theo địa chỉ trang đang hiện trên màn hình.",
+      "start": 306.56,
+      "end": 314.44,
+      "n_words": 32,
+      "start_frame": 7664,
+      "end_frame": 7861,
+      "keyframes": [
+        "007664.webp",
+        "007763.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Còn bây giờ thì chúng tôi xin được nói lời chào tạm biệt và hẹn gặp lại tất cả các bạn vào chương trình ngày mai.",
+      "start": 314.44,
+      "end": 319.72,
+      "n_words": 26,
+      "start_frame": 7861,
+      "end_frame": 7993,
+      "keyframes": [
+        "007863.webp",
+        "007864.webp",
+        "007929.webp"
+      ],
+      "keyframe_count": 3
+    }
+  ]
+}

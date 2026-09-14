@@ -1,0 +1,745 @@
+{
+  "video_id": "L26_V014",
+  "fps": 25.0,
+  "n_sentences": 41,
+  "total_words": 1013,
+  "sentences": [
+    {
+      "text": "Xin món ngon mỗi ngày.",
+      "start": 0.04,
+      "end": 12.12,
+      "n_words": 5,
+      "start_frame": 1,
+      "end_frame": 303,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000087.webp",
+        "000089.webp",
+        "000092.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000155.webp",
+        "000160.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 39
+    },
+    {
+      "text": "Nước canh ngọt thanh vừa miệng, thơm mùi riêu cua, mồng tơi chín mềm, thịt ốc giòn sần sật, bao quanh là mướp xanh ngọt.",
+      "start": 12.12,
+      "end": 20.32,
+      "n_words": 25,
+      "start_frame": 303,
+      "end_frame": 508,
+      "keyframes": [
+        "000360.webp",
+        "000420.webp",
+        "000421.webp",
+        "000464.webp",
+        "000507.webp",
+        "000508.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Món canh vừa thanh mát vừa bổ dưỡng. Các bạn khán giả đang theo dõi chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành.",
+      "start": 20.32,
+      "end": 41.96,
+      "n_words": 25,
+      "start_frame": 508,
+      "end_frame": 1049,
+      "keyframes": [
+        "000508.webp",
+        "000551.webp",
+        "000594.webp",
+        "000595.webp",
+        "000616.webp",
+        "000637.webp",
+        "000638.webp",
+        "000655.webp",
+        "000673.webp",
+        "000674.webp",
+        "000764.webp",
+        "000854.webp",
+        "000855.webp",
+        "000893.webp",
+        "000931.webp",
+        "000932.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 41.96,
+      "end": 45.92,
+      "n_words": 11,
+      "start_frame": 1049,
+      "end_frame": 1148,
+      "keyframes": [
+        "001056.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Anh Quốc Nghị ơi, tháng này nhà mình vừa mua được một ít ốc bươu, sơ chế xong xuôi lấy thịt ra sẵn sàng luôn rồi.",
+      "start": 45.92,
+      "end": 53.12,
+      "n_words": 26,
+      "start_frame": 1148,
+      "end_frame": 1328,
+      "keyframes": [
+        "001181.webp",
+        "001182.webp",
+        "001233.webp",
+        "001284.webp",
+        "001285.webp",
+        "001305.webp",
+        "001325.webp",
+        "001326.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Bây giờ chỉ đợi anh gợi ý một cái món nào ngon ngon nữa thôi.",
+      "start": 53.12,
+      "end": 56.0,
+      "n_words": 15,
+      "start_frame": 1328,
+      "end_frame": 1400,
+      "keyframes": [
+        "001362.webp",
+        "001398.webp",
+        "001399.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nhắc đến thịt ốc bươu thì chế biến rất là nhiều món ngon, nhưng mà thịt ốc này hợp với lại mướp và mồng tơi, vậy nên hôm nay Quốc Nghị sẽ hướng dẫn các bạn khán giả của Món ngon mỗi ngày cùng với Minh Phương thực hiện món canh ốc mồng tơi.",
+      "start": 56.0,
+      "end": 67.56,
+      "n_words": 54,
+      "start_frame": 1400,
+      "end_frame": 1689,
+      "keyframes": [
+        "001466.webp",
+        "001533.webp",
+        "001534.webp",
+        "001610.webp",
+        "001686.webp",
+        "001687.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Theo chuyên gia dinh dưỡng á, thì món này giúp hỗ trợ sức khỏe tim và mạch máu các bạn nha.",
+      "start": 67.56,
+      "end": 72.48,
+      "n_words": 21,
+      "start_frame": 1689,
+      "end_frame": 1812,
+      "keyframes": [
+        "001717.webp",
+        "001747.webp",
+        "001748.webp",
+        "001777.webp",
+        "001807.webp",
+        "001808.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và Quốc Nghị đố Minh Phương một câu nè: cái ốc bươu chúng ta sẽ sơ chế như thế nào để bớt tanh nè, bớt nhớt nè?",
+      "start": 72.48,
+      "end": 78.76,
+      "n_words": 27,
+      "start_frame": 1812,
+      "end_frame": 1969,
+      "keyframes": [
+        "001831.webp",
+        "001854.webp",
+        "001855.webp",
+        "001868.webp",
+        "001882.webp",
+        "001883.webp",
+        "001903.webp",
+        "001923.webp",
+        "001924.webp",
+        "001945.webp",
+        "001967.webp",
+        "001968.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Thông thường khi mà chúng ta mua ốc bươu về thì rửa sạch, sau đó sẽ ngâm vào nước vo gạo.",
+      "start": 78.76,
+      "end": 84.56,
+      "n_words": 21,
+      "start_frame": 1969,
+      "end_frame": 2114,
+      "keyframes": [
+        "002028.webp",
+        "002088.webp",
+        "002089.webp",
+        "002106.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chính xác, để cho cái phần ốc sẽ nhả bớt cái cát bụi bẩn ra, có đúng không anh?",
+      "start": 84.56,
+      "end": 89.76,
+      "n_words": 19,
+      "start_frame": 2114,
+      "end_frame": 2244,
+      "keyframes": [
+        "002123.webp",
+        "002124.webp",
+        "002156.webp",
+        "002189.webp",
+        "002190.webp",
+        "002203.webp",
+        "002216.webp",
+        "002217.webp",
+        "002230.webp",
+        "002244.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Thịt ốc bươu chúng ta nên ngâm với nước pha một ít giấm khoảng 15 phút, sau đó rửa sạch để khử mùi tanh cũng như là cái độ nhờn của thịt.",
+      "start": 89.76,
+      "end": 96.88,
+      "n_words": 32,
+      "start_frame": 2244,
+      "end_frame": 2422,
+      "keyframes": [
+        "002244.webp",
+        "002245.webp",
+        "002336.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mướp thì chúng ta nên chọn những cái mướp thân nó đều nha các bạn, nên chọn trái mướp suông đều, đường kính khoảng 3 centimet để khi làm viên mướp nó sẽ chín đều và đẹp mắt hơn.",
+      "start": 97.16,
+      "end": 107.04,
+      "n_words": 39,
+      "start_frame": 2429,
+      "end_frame": 2676,
+      "keyframes": [
+        "002467.webp",
+        "002507.webp",
+        "002508.webp",
+        "002590.webp",
+        "002672.webp",
+        "002673.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Tiếp theo, chúng ta sẽ dùng muỗng nạo cái phần ruột mướp ra.",
+      "start": 107.04,
+      "end": 110.08,
+      "n_words": 13,
+      "start_frame": 2676,
+      "end_frame": 2752,
+      "keyframes": [
+        "002711.webp",
+        "002750.webp",
+        "002751.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Lát nữa là anh Nghị sẽ nhồi cái thịt ốc vào đúng không?",
+      "start": 110.08,
+      "end": 112.56,
+      "n_words": 13,
+      "start_frame": 2752,
+      "end_frame": 2814,
+      "keyframes": [
+        "002781.webp",
+        "002811.webp",
+        "002812.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đó là một cái sự biến tấu trong món ăn ngày hôm nay.",
+      "start": 112.56,
+      "end": 114.72,
+      "n_words": 13,
+      "start_frame": 2814,
+      "end_frame": 2868,
+      "keyframes": [
+        "002839.webp",
+        "002866.webp",
+        "002867.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Với cái phần mướp ngày hôm nay thì Minh Phương thấy là anh Quốc Nghị lựa cái trái nó không có quá già đúng không?",
+      "start": 114.72,
+      "end": 120.28,
+      "n_words": 25,
+      "start_frame": 2868,
+      "end_frame": 3007,
+      "keyframes": [
+        "002942.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đúng rồi, trong mướp thì có rất là nhiều vitamin B5 giúp giảm cholesterol trong máu, từ đó hỗ trợ ngăn ngừa các bệnh về tim mạch rất tốt.",
+      "start": 120.28,
+      "end": 129.0,
+      "n_words": 29,
+      "start_frame": 3007,
+      "end_frame": 3225,
+      "keyframes": [
+        "003017.webp",
+        "003018.webp",
+        "003037.webp",
+        "003057.webp",
+        "003058.webp",
+        "003101.webp",
+        "003145.webp",
+        "003146.webp",
+        "003154.webp",
+        "003162.webp",
+        "003163.webp",
+        "003193.webp",
+        "003223.webp",
+        "003224.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Phần rau mồng tơi thì các bạn chỉ cần cắt đôi thôi.",
+      "start": 129.0,
+      "end": 133.68,
+      "n_words": 12,
+      "start_frame": 3225,
+      "end_frame": 3342,
+      "keyframes": [
+        "003260.webp",
+        "003296.webp",
+        "003297.webp",
+        "003323.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ đi ướp thịt ốc: cho vào đây 75 g giò sống, một muỗng cà phê gừng băm.",
+      "start": 133.68,
+      "end": 140.28,
+      "n_words": 22,
+      "start_frame": 3342,
+      "end_frame": 3507,
+      "keyframes": [
+        "003349.webp",
+        "003350.webp",
+        "003374.webp",
+        "003399.webp",
+        "003400.webp",
+        "003425.webp",
+        "003450.webp",
+        "003451.webp",
+        "003479.webp",
+        "003507.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Và có một điểm các bạn cần lưu ý trong món ăn ngày hôm nay đó là chọn ốc bươu cỡ vừa để thịt ốc nó không bị dai.",
+      "start": 140.28,
+      "end": 146.8,
+      "n_words": 29,
+      "start_frame": 3507,
+      "end_frame": 3670,
+      "keyframes": [
+        "003507.webp",
+        "003508.webp",
+        "003589.webp",
+        "003670.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Trong thịt ốc thì có rất là nhiều omega-3 giúp điều hòa huyết áp, tăng tuần hoàn máu, từ đó giúp cho tim và mạch máu khỏe hơn.",
+      "start": 146.8,
+      "end": 153.64,
+      "n_words": 28,
+      "start_frame": 3670,
+      "end_frame": 3841,
+      "keyframes": [
+        "003670.webp",
+        "003671.webp",
+        "003716.webp",
+        "003761.webp",
+        "003762.webp",
+        "003776.webp",
+        "003791.webp",
+        "003792.webp",
+        "003816.webp",
+        "003840.webp",
+        "003841.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Bây giờ ta sẽ nhồi vào trong cái mướp, cắt bằng hai cái đầu này tại vì cái phần thịt ốc và phần giò sống nó sẽ nở ra.",
+      "start": 153.64,
+      "end": 163.68,
+      "n_words": 29,
+      "start_frame": 3841,
+      "end_frame": 4092,
+      "keyframes": [
+        "003841.webp",
+        "003870.webp",
+        "003900.webp",
+        "003901.webp",
+        "003933.webp",
+        "003965.webp",
+        "003966.webp",
+        "004006.webp",
+        "004047.webp",
+        "004048.webp",
+        "004071.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Bây giờ chúng ta nấu canh.",
+      "start": 163.68,
+      "end": 165.28,
+      "n_words": 6,
+      "start_frame": 4092,
+      "end_frame": 4132,
+      "keyframes": [
+        "004094.webp",
+        "004095.webp",
+        "004124.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn sẽ cho vào đây một muỗng cà phê hành tím băm, đảo đều cho hành tím nó dậy mùi thơm nè.",
+      "start": 165.92,
+      "end": 171.08,
+      "n_words": 23,
+      "start_frame": 4148,
+      "end_frame": 4277,
+      "keyframes": [
+        "004153.webp",
+        "004154.webp",
+        "004186.webp",
+        "004219.webp",
+        "004220.webp",
+        "004248.webp",
+        "004277.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Các bạn sẽ cho vào đây một lít rưỡi nước lọc.",
+      "start": 171.08,
+      "end": 173.6,
+      "n_words": 11,
+      "start_frame": 4277,
+      "end_frame": 4340,
+      "keyframes": [
+        "004277.webp",
+        "004278.webp",
+        "004309.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nước bắt đầu sôi thì chúng ta sẽ nêm vào đây, ta sẽ nêm vào đây một gói gia vị nêm sẵn Aji-Quick bún riêu cua.",
+      "start": 173.6,
+      "end": 179.76,
+      "n_words": 26,
+      "start_frame": 4340,
+      "end_frame": 4494,
+      "keyframes": [
+        "004341.webp",
+        "004342.webp",
+        "004383.webp",
+        "004424.webp",
+        "004425.webp",
+        "004455.webp",
+        "004485.webp",
+        "004486.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Minh Phương quan sát nè, nó sẽ lên màu và cái mùi riêu cua rất đặc biệt, rất đặc trưng.",
+      "start": 179.76,
+      "end": 185.68,
+      "n_words": 20,
+      "start_frame": 4494,
+      "end_frame": 4642,
+      "keyframes": [
+        "004516.webp",
+        "004546.webp",
+        "004547.webp",
+        "004595.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Sẽ là một chút biến tấu với món canh ngày hôm nay, chúng ta sẽ dùng gia vị nêm sẵn Aji-Quick bún riêu cua và loại gia vị này thì Minh Phương rất là thích bởi vì có cái mùi cua đồng rất là đặc trưng, đầy đủ gia vị rồi, siêu tiện lợi, chỉ cần là thích lúc nào mình nấu lúc đó mà thôi.",
+      "start": 185.68,
+      "end": 202.88,
+      "n_words": 66,
+      "start_frame": 4642,
+      "end_frame": 5072,
+      "keyframes": [
+        "004644.webp",
+        "004645.webp",
+        "004703.webp",
+        "004761.webp",
+        "004762.webp",
+        "004887.webp",
+        "005012.webp",
+        "005013.webp",
+        "005041.webp",
+        "005069.webp",
+        "005070.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Nước sôi lại nè, chúng ta sẽ cho lần lượt những cái mướp mà nhồi chả ốc vào nè.",
+      "start": 202.88,
+      "end": 207.56,
+      "n_words": 19,
+      "start_frame": 5072,
+      "end_frame": 5189,
+      "keyframes": [
+        "005085.webp",
+        "005101.webp",
+        "005102.webp",
+        "005145.webp",
+        "005189.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Sau khi quan sát thấy mướp vừa chín tới thì các bạn sẽ cho rau mồng tơi vào, nên chỉ cần nước canh nó sôi lại là được.",
+      "start": 207.56,
+      "end": 215.4,
+      "n_words": 28,
+      "start_frame": 5189,
+      "end_frame": 5385,
+      "keyframes": [
+        "005189.webp",
+        "005190.webp",
+        "005259.webp",
+        "005329.webp",
+        "005330.webp",
+        "005356.webp",
+        "005383.webp",
+        "005384.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Với cách làm này thì chắc chắn là chúng ta không cần phải thêm bất kỳ một gia vị nào nữa.",
+      "start": 215.4,
+      "end": 219.6,
+      "n_words": 21,
+      "start_frame": 5385,
+      "end_frame": 5490,
+      "keyframes": [
+        "005444.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đừng quên để lưu lại công thức của một món canh vừa nhanh gọn vừa hấp dẫn như thế này thì các bạn hãy dùng điện thoại quét mã QR đang hiển thị trên màn hình nhé.",
+      "start": 220.24,
+      "end": 230.52,
+      "n_words": 37,
+      "start_frame": 5506,
+      "end_frame": 5763,
+      "keyframes": [
+        "005610.webp",
+        "005715.webp",
+        "005716.webp",
+        "005740.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Thật sự cái mùi thơm của riêu cua mà nó ngào ngạt, nó ngào ngạt cả căn bếp luôn đó Minh Phương.",
+      "start": 230.52,
+      "end": 235.48,
+      "n_words": 22,
+      "start_frame": 5763,
+      "end_frame": 5887,
+      "keyframes": [
+        "005765.webp",
+        "005766.webp",
+        "005796.webp",
+        "005827.webp",
+        "005828.webp",
+        "005863.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đúng rồi, không để Minh Phương chờ lâu nữa, sẽ trình bày ra tô và Minh Phương thưởng thức nhận xét nha.",
+      "start": 235.48,
+      "end": 241.56,
+      "n_words": 22,
+      "start_frame": 5887,
+      "end_frame": 6039,
+      "keyframes": [
+        "005898.webp",
+        "005899.webp",
+        "005972.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Dạ, và các bạn nhớ nha, thêm một vài sợi gừng nữa để cho nó cân bằng cái tính hàn nhiệt trong món ăn này.",
+      "start": 241.56,
+      "end": 256.56,
+      "n_words": 25,
+      "start_frame": 6039,
+      "end_frame": 6414,
+      "keyframes": [
+        "006045.webp",
+        "006046.webp",
+        "006086.webp",
+        "006126.webp",
+        "006127.webp",
+        "006182.webp",
+        "006238.webp",
+        "006239.webp",
+        "006259.webp",
+        "006280.webp",
+        "006281.webp",
+        "006345.webp",
+        "006409.webp",
+        "006410.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Anh Nghị ơi, cái món canh này phải nói điểm đầu tiên là rất là thanh mát, và đi kèm theo đó chính là hương vị riêu cua rất là đặc trưng nữa.",
+      "start": 256.56,
+      "end": 266.44,
+      "n_words": 33,
+      "start_frame": 6414,
+      "end_frame": 6661,
+      "keyframes": [
+        "006452.webp",
+        "006495.webp",
+        "006496.webp",
+        "006554.webp",
+        "006612.webp",
+        "006613.webp",
+        "006660.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Phần thịt ốc kèm với lại cái phần mọc tạo nên một cái chả ốc giòn giòn sần sật ăn rất là vui miệng.",
+      "start": 266.44,
+      "end": 273.72,
+      "n_words": 24,
+      "start_frame": 6661,
+      "end_frame": 6843,
+      "keyframes": [
+        "006707.webp",
+        "006708.webp",
+        "006775.webp",
+        "006842.webp",
+        "006843.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và để đạt được cái hiệu quả dinh dưỡng, các bạn có thể áp dụng món ăn này cùng với bản thực đơn tham khảo sau đây.",
+      "start": 273.72,
+      "end": 283.4,
+      "n_words": 27,
+      "start_frame": 6843,
+      "end_frame": 7085,
+      "keyframes": [
+        "006843.webp",
+        "006903.webp",
+        "006963.webp",
+        "006964.webp",
+        "007026.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Một món canh thanh mát với những biến tấu thú vị, đừng bỏ lỡ món ăn này quý vị nhé.",
+      "start": 283.4,
+      "end": 288.28,
+      "n_words": 20,
+      "start_frame": 7085,
+      "end_frame": 7207,
+      "keyframes": [
+        "007088.webp",
+        "007089.webp",
+        "007147.webp",
+        "007205.webp",
+        "007206.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Các bạn cũng có thể xem thêm các món canh khác đa dạng và hấp dẫn trên website của chương trình Món ngon mỗi ngày, và cũng đừng quên những kênh quen thuộc của chương trình để có thể thu thập thêm cho mình những thông tin thật hữu ích.",
+      "start": 288.28,
+      "end": 299.4,
+      "n_words": 50,
+      "start_frame": 7207,
+      "end_frame": 7485,
+      "keyframes": [
+        "007333.webp",
+        "007460.webp",
+        "007461.webp"
+      ],
+      "keyframe_count": 3
+    }
+  ]
+}

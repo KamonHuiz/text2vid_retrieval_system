@@ -1,0 +1,823 @@
+{
+  "video_id": "L26_V482",
+  "fps": 25.0,
+  "n_sentences": 43,
+  "total_words": 956,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày, mua hay tới gặp anh Vũ là nhớ ngay những món đậu hủ thật là ngon trời ơi!",
+      "start": 10.56,
+      "end": 16.44,
+      "n_words": 22,
+      "start_frame": 264,
+      "end_frame": 411,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000348.webp",
+        "000396.webp",
+        "000397.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "May quá, nhớ đậu hủ, em nhớ đậu hủ rồi.",
+      "start": 16.44,
+      "end": 19.12,
+      "n_words": 10,
+      "start_frame": 411,
+      "end_frame": 478,
+      "keyframes": [
+        "000426.webp",
+        "000455.webp",
+        "000456.webp",
+        "000475.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Buồn lắm á nhớ, cái món nào sẵn sàng xíu đi.",
+      "start": 19.12,
+      "end": 21.72,
+      "n_words": 11,
+      "start_frame": 478,
+      "end_frame": 543,
+      "keyframes": [
+        "000494.webp",
+        "000495.webp",
+        "000517.webp",
+        "000539.webp",
+        "000540.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đó, bởi vì vậy cho nên là em mới đem đậu hủ đến cho anh nè, tại vì đậu hủ mình có rất là nhiều cách chế biến: kho nè, rồi xào nè, rồi nấu canh nè, rất là nhiều thứ.",
+      "start": 21.72,
+      "end": 30.88,
+      "n_words": 41,
+      "start_frame": 543,
+      "end_frame": 772,
+      "keyframes": [
+        "000603.webp",
+        "000666.webp",
+        "000667.webp",
+        "000703.webp",
+        "000740.webp",
+        "000741.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Nhưng mà chắc chắn đến với anh Vũ là anh Vũ sẽ có một cái công thức đặc biệt ngày hôm nay với món đậu hủ cho em đúng không?",
+      "start": 30.88,
+      "end": 37.76,
+      "n_words": 30,
+      "start_frame": 772,
+      "end_frame": 944,
+      "keyframes": [
+        "000825.webp",
+        "000910.webp",
+        "000911.webp",
+        "000927.webp",
+        "000944.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Sao em đặt lòng tin vô anh bây giờ?",
+      "start": 37.76,
+      "end": 40.44,
+      "n_words": 9,
+      "start_frame": 944,
+      "end_frame": 1011,
+      "keyframes": [
+        "000944.webp",
+        "000945.webp",
+        "000967.webp",
+        "000989.webp",
+        "000990.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thật sự ra em biết không, mình ăn gỏi cuốn rồi nhưng mà em ăn đậu hủ cuốn chưa?",
+      "start": 40.44,
+      "end": 45.28,
+      "n_words": 19,
+      "start_frame": 1011,
+      "end_frame": 1132,
+      "keyframes": [
+        "001014.webp",
+        "001038.webp",
+        "001039.webp",
+        "001055.webp",
+        "001072.webp",
+        "001073.webp",
+        "001092.webp",
+        "001111.webp",
+        "001112.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cái này là đậu hủ cuốn nha.",
+      "start": 45.28,
+      "end": 47.32,
+      "n_words": 7,
+      "start_frame": 1132,
+      "end_frame": 1183,
+      "keyframes": [
+        "001147.webp",
+        "001183.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ mời các bạn cùng theo dõi đậu hủ cuộn chiên giòn cho ngày hè oi nóng.",
+      "start": 47.32,
+      "end": 70.16,
+      "n_words": 18,
+      "start_frame": 1183,
+      "end_frame": 1754,
+      "keyframes": [
+        "001183.webp",
+        "001184.webp",
+        "001208.webp",
+        "001233.webp",
+        "001234.webp",
+        "001258.webp",
+        "001283.webp",
+        "001284.webp",
+        "001322.webp",
+        "001360.webp",
+        "001361.webp",
+        "001408.webp",
+        "001455.webp",
+        "001471.webp",
+        "001500.webp",
+        "001530.webp",
+        "001531.webp",
+        "001645.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Chào các bạn của chương trình Món ngon mỗi ngày được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 70.6,
+      "end": 75.92,
+      "n_words": 19,
+      "start_frame": 1765,
+      "end_frame": 1898,
+      "keyframes": [
+        "001832.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta sẽ làm phần nhân trước nha các bạn.",
+      "start": 75.92,
+      "end": 78.24,
+      "n_words": 10,
+      "start_frame": 1898,
+      "end_frame": 1956,
+      "keyframes": [
+        "001905.webp",
+        "001906.webp",
+        "001929.webp",
+        "001952.webp",
+        "001953.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Rồi chúng ta cắt như vậy ha, đặc biệt không cắt đứt nha các bạn, chúng ta để nha.",
+      "start": 78.24,
+      "end": 82.72,
+      "n_words": 19,
+      "start_frame": 1956,
+      "end_frame": 2068,
+      "keyframes": [
+        "001979.webp",
+        "002006.webp",
+        "002007.webp",
+        "002044.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Như vậy chúng ta dùng muỗng chúng ta nạo ra ruột thôi nha.",
+      "start": 82.72,
+      "end": 87.32,
+      "n_words": 13,
+      "start_frame": 2068,
+      "end_frame": 2183,
+      "keyframes": [
+        "002081.webp",
+        "002082.webp",
+        "002142.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Như vậy chia lại phần vỏ, cái vỏ chúng ta cuộn ha, chúng ta có ngay một cái miếng đậu hũ như vậy nha các bạn.",
+      "start": 87.32,
+      "end": 95.48,
+      "n_words": 26,
+      "start_frame": 2183,
+      "end_frame": 2387,
+      "keyframes": [
+        "002203.webp",
+        "002204.webp",
+        "002237.webp",
+        "002270.webp",
+        "002271.webp",
+        "002286.webp",
+        "002301.webp",
+        "002302.webp",
+        "002342.webp",
+        "002382.webp",
+        "002383.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Chúng ta chuẩn bị phần vỏ đậu hũ xong, bây giờ chúng ta sẽ sử dụng phần ruột đậu hũ này.",
+      "start": 95.48,
+      "end": 100.48,
+      "n_words": 21,
+      "start_frame": 2387,
+      "end_frame": 2512,
+      "keyframes": [
+        "002417.webp",
+        "002452.webp",
+        "002453.webp",
+        "002463.webp",
+        "002474.webp",
+        "002475.webp",
+        "002493.webp",
+        "002511.webp",
+        "002512.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Tức là đây, khoảng 50 g thịt băm, 50 g giò sống thì khoảng chừng 100 g cái ruột.",
+      "start": 100.48,
+      "end": 105.28,
+      "n_words": 19,
+      "start_frame": 2512,
+      "end_frame": 2632,
+      "keyframes": [
+        "002512.webp",
+        "002545.webp",
+        "002579.webp",
+        "002580.webp",
+        "002606.webp",
+        "002632.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cho tiếp là nấm mèo khoảng chừng hai tai thôi các bạn, ngâm cho mềm cắt nhỏ như vậy.",
+      "start": 105.28,
+      "end": 109.8,
+      "n_words": 19,
+      "start_frame": 2632,
+      "end_frame": 2745,
+      "keyframes": [
+        "002632.webp",
+        "002633.webp",
+        "002688.webp",
+        "002744.webp",
+        "002745.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hành củ chúng ta cắt nhỏ khoảng chừng một muỗng canh thôi, một muỗng cà phê các bạn ớt băm nha.",
+      "start": 110.0,
+      "end": 115.12,
+      "n_words": 21,
+      "start_frame": 2750,
+      "end_frame": 2878,
+      "keyframes": [
+        "002787.webp",
+        "002829.webp",
+        "002830.webp",
+        "002853.webp",
+        "002877.webp",
+        "002878.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hành tỏi phi khoảng một muỗng canh, mình chừa lại một ít thôi, chút xíu mình làm sốt nữa.",
+      "start": 115.12,
+      "end": 120.0,
+      "n_words": 19,
+      "start_frame": 2878,
+      "end_frame": 3000,
+      "keyframes": [
+        "002878.webp",
+        "002904.webp",
+        "002931.webp",
+        "002932.webp",
+        "002963.webp",
+        "002995.webp",
+        "002996.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Chúng ta cho vào đây nửa muỗng cà phê hạt nêm Ajinomoto ngon heo, nửa muỗng cà phê tiêu trắng xay rồi một muỗng cà phê vừng mè.",
+      "start": 120.0,
+      "end": 128.28,
+      "n_words": 28,
+      "start_frame": 3000,
+      "end_frame": 3207,
+      "keyframes": [
+        "003040.webp",
+        "003085.webp",
+        "003086.webp",
+        "003125.webp",
+        "003165.webp",
+        "003166.webp",
+        "003184.webp",
+        "003202.webp",
+        "003203.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Lấy nĩa nha các bạn tán cái này, tất cả các nguyên liệu chúng ta đều trộn đều và vẽ như vậy.",
+      "start": 128.28,
+      "end": 134.0,
+      "n_words": 22,
+      "start_frame": 3207,
+      "end_frame": 3350,
+      "keyframes": [
+        "003216.webp",
+        "003230.webp",
+        "003231.webp",
+        "003243.webp",
+        "003256.webp",
+        "003257.webp",
+        "003276.webp",
+        "003295.webp",
+        "003296.webp",
+        "003323.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Bây giờ chúng ta phần cuộn, các bạn chúng ta lấy phần cái phần vỏ của đậu hủ, rắc vào đây một ít Ajinomoto bột tẩm khô chiên giòn một lớp mỏng như vậy để cho vỏ không bị nát và kết dính phần nhân cho cái phần nhân vừa lắp đầy cái phần mà cái ruột và đậu hủ chúng ta lấy ra khi nãy là được.",
+      "start": 134.0,
+      "end": 152.64,
+      "n_words": 68,
+      "start_frame": 3350,
+      "end_frame": 3816,
+      "keyframes": [
+        "003351.webp",
+        "003352.webp",
+        "003371.webp",
+        "003390.webp",
+        "003391.webp",
+        "003414.webp",
+        "003438.webp",
+        "003439.webp",
+        "003455.webp",
+        "003472.webp",
+        "003473.webp",
+        "003496.webp",
+        "003519.webp",
+        "003520.webp",
+        "003566.webp",
+        "003613.webp",
+        "003614.webp",
+        "003642.webp",
+        "003670.webp",
+        "003671.webp",
+        "003684.webp",
+        "003698.webp",
+        "003699.webp",
+        "003717.webp",
+        "003736.webp",
+        "003737.webp",
+        "003772.webp",
+        "003807.webp",
+        "003808.webp"
+      ],
+      "keyframe_count": 29
+    },
+    {
+      "text": "Chúng ta nhớ cuộn cái phần ngược lại với màng nhẹ nhẹ thôi ta cuộn lại rồi, quá đẹp rồi.",
+      "start": 152.64,
+      "end": 159.92,
+      "n_words": 20,
+      "start_frame": 3816,
+      "end_frame": 3998,
+      "keyframes": [
+        "003840.webp",
+        "003872.webp",
+        "003873.webp",
+        "003901.webp",
+        "003929.webp",
+        "003930.webp",
+        "003957.webp",
+        "003984.webp",
+        "003985.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Chúng ta đặt lên đây, rồi đây cuối cùng ta cũng làm vậy cho phần nhân lên trên rồi chúng ta cuộn lại sẽ bắt đây một cái chảo chúng ta chiên đậu hủ, rắc tiếp Ajinomoto bột tẩm khô chiên giòn còn lại lên trên, lên trên bề mặt của cuộn đậu hủ này nữa, đang quay lăn lại sẽ tẩm khô hết luôn và nhớ đừng quên hai cái đầu của cuộn đậu hủ nha các bạn.",
+      "start": 159.92,
+      "end": 184.2,
+      "n_words": 79,
+      "start_frame": 3998,
+      "end_frame": 4605,
+      "keyframes": [
+        "004006.webp",
+        "004027.webp",
+        "004028.webp",
+        "004057.webp",
+        "004086.webp",
+        "004087.webp",
+        "004106.webp",
+        "004126.webp",
+        "004127.webp",
+        "004174.webp",
+        "004221.webp",
+        "004222.webp",
+        "004237.webp",
+        "004253.webp",
+        "004254.webp",
+        "004282.webp",
+        "004311.webp",
+        "004312.webp",
+        "004378.webp",
+        "004445.webp",
+        "004446.webp",
+        "004478.webp",
+        "004510.webp",
+        "004511.webp",
+        "004558.webp"
+      ],
+      "keyframe_count": 25
+    },
+    {
+      "text": "Cho từng cuộn đậu hủ vào chiên và chúng ta nhớ để cái mí ở phía dưới nha các bạn.",
+      "start": 184.2,
+      "end": 189.04,
+      "n_words": 20,
+      "start_frame": 4605,
+      "end_frame": 4726,
+      "keyframes": [
+        "004606.webp",
+        "004607.webp",
+        "004658.webp",
+        "004710.webp",
+        "004711.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đó, thưa các bạn chúng ta lưu ý nhé, chúng ta chiên những cuộn đậu hũ này chúng ta nên để lửa vừa thôi để cho vỏ đậu hũ được vàng giòn mà không bị cháy khét nha các bạn.",
+      "start": 189.04,
+      "end": 198.0,
+      "n_words": 40,
+      "start_frame": 4726,
+      "end_frame": 4950,
+      "keyframes": [
+        "004733.webp",
+        "004755.webp",
+        "004756.webp",
+        "004806.webp",
+        "004857.webp",
+        "004858.webp",
+        "004903.webp",
+        "004948.webp",
+        "004949.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Chúng ta chiên từ từ như vậy nha thưa các bạn.",
+      "start": 198.0,
+      "end": 200.32,
+      "n_words": 11,
+      "start_frame": 4950,
+      "end_frame": 5008,
+      "keyframes": [
+        "004972.webp",
+        "004996.webp",
+        "004997.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ làm sốt nha, các bạn cho vào đây bốn muỗng canh nước tương Phú Sĩ, một muỗng canh giấm gạo lên men, hai muỗng cà phê đường, hai muỗng canh tương ớt, hai muỗng canh dầu hào và hai muỗng canh rượu trắng nha các bạn, rượu nếp mới thôi.",
+      "start": 200.32,
+      "end": 217.68,
+      "n_words": 55,
+      "start_frame": 5008,
+      "end_frame": 5442,
+      "keyframes": [
+        "005025.webp",
+        "005053.webp",
+        "005054.webp",
+        "005069.webp",
+        "005084.webp",
+        "005085.webp",
+        "005116.webp",
+        "005147.webp",
+        "005148.webp",
+        "005173.webp",
+        "005199.webp",
+        "005200.webp",
+        "005223.webp",
+        "005247.webp",
+        "005248.webp",
+        "005258.webp",
+        "005269.webp",
+        "005270.webp",
+        "005284.webp",
+        "005299.webp",
+        "005300.webp",
+        "005319.webp",
+        "005338.webp",
+        "005339.webp",
+        "005375.webp",
+        "005411.webp",
+        "005412.webp",
+        "005425.webp",
+        "005439.webp",
+        "005440.webp"
+      ],
+      "keyframe_count": 30
+    },
+    {
+      "text": "Rồi chúng ta khuấy đều như vậy rồi anh coi rồi tắt lửa đi.",
+      "start": 217.68,
+      "end": 221.92,
+      "n_words": 14,
+      "start_frame": 5442,
+      "end_frame": 5548,
+      "keyframes": [
+        "005459.webp",
+        "005478.webp",
+        "005479.webp",
+        "005512.webp",
+        "005546.webp",
+        "005547.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rất là vàng giòn điểm 10 cho em rồi.",
+      "start": 221.92,
+      "end": 224.8,
+      "n_words": 9,
+      "start_frame": 5548,
+      "end_frame": 5620,
+      "keyframes": [
+        "005579.webp",
+        "005611.webp",
+        "005612.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ lấy ra rồi nấu sốt nha, các bạn cho vào đây một ít dầu xào thơm khoảng một nhánh gừng ha, vừa vàng thôi, cho vàng thôi, cho cái hỗn hợp nước vô và đây cho phần ruột đậu hũ vào.",
+      "start": 224.8,
+      "end": 238.92,
+      "n_words": 46,
+      "start_frame": 5620,
+      "end_frame": 5973,
+      "keyframes": [
+        "005631.webp",
+        "005650.webp",
+        "005651.webp",
+        "005675.webp",
+        "005700.webp",
+        "005701.webp",
+        "005713.webp",
+        "005725.webp",
+        "005726.webp",
+        "005741.webp",
+        "005757.webp",
+        "005758.webp",
+        "005784.webp",
+        "005811.webp",
+        "005812.webp",
+        "005825.webp",
+        "005838.webp",
+        "005839.webp",
+        "005856.webp",
+        "005874.webp",
+        "005875.webp",
+        "005899.webp",
+        "005924.webp",
+        "005925.webp",
+        "005949.webp",
+        "005973.webp"
+      ],
+      "keyframe_count": 26
+    },
+    {
+      "text": "Thưa các bạn chúng ta có thể bỏ vô đây phần ruột đậu hũ dư để cho sốt chúng ta được hấp dẫn hơn.",
+      "start": 238.92,
+      "end": 245.16,
+      "n_words": 24,
+      "start_frame": 5973,
+      "end_frame": 6129,
+      "keyframes": [
+        "005973.webp",
+        "005974.webp",
+        "006001.webp",
+        "006029.webp",
+        "006030.webp",
+        "006076.webp",
+        "006122.webp",
+        "006123.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Nấu vừa sôi lên đó, thấy không?",
+      "start": 245.16,
+      "end": 247.64,
+      "n_words": 7,
+      "start_frame": 6129,
+      "end_frame": 6191,
+      "keyframes": [
+        "006157.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cho nốt phần hành lá ngò băm vào, ớt băm tỏi hành phi vô sau cùng.",
+      "start": 247.64,
+      "end": 255.84,
+      "n_words": 16,
+      "start_frame": 6191,
+      "end_frame": 6396,
+      "keyframes": [
+        "006192.webp",
+        "006193.webp",
+        "006221.webp",
+        "006249.webp",
+        "006250.webp",
+        "006260.webp",
+        "006270.webp",
+        "006271.webp",
+        "006289.webp",
+        "006308.webp",
+        "006309.webp",
+        "006326.webp",
+        "006343.webp",
+        "006344.webp",
+        "006368.webp",
+        "006393.webp",
+        "006394.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Đây được chưa?",
+      "start": 255.84,
+      "end": 257.48,
+      "n_words": 3,
+      "start_frame": 6396,
+      "end_frame": 6437,
+      "keyframes": [
+        "006417.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rồi bây giờ chúng ta sẽ sắp ra thôi.",
+      "start": 257.48,
+      "end": 259.16,
+      "n_words": 9,
+      "start_frame": 6437,
+      "end_frame": 6479,
+      "keyframes": [
+        "006440.webp",
+        "006441.webp",
+        "006458.webp",
+        "006476.webp",
+        "006477.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Các bạn có thể cho một ít rau thơm ha dưới sốt lên đây.",
+      "start": 259.16,
+      "end": 263.24,
+      "n_words": 14,
+      "start_frame": 6479,
+      "end_frame": 6581,
+      "keyframes": [
+        "006498.webp",
+        "006520.webp",
+        "006521.webp",
+        "006539.webp",
+        "006557.webp",
+        "006558.webp",
+        "006578.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Các bạn, chúng ta đã biến thành ra một dĩa đậu hũ cuộn chiên giòn.",
+      "start": 263.24,
+      "end": 268.08,
+      "n_words": 15,
+      "start_frame": 6581,
+      "end_frame": 6702,
+      "keyframes": [
+        "006598.webp",
+        "006599.webp",
+        "006650.webp",
+        "006702.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Không biết là với món này thì mình có thể ăn kết hợp với những thức ăn như thế nào?",
+      "start": 268.08,
+      "end": 271.72,
+      "n_words": 20,
+      "start_frame": 6702,
+      "end_frame": 6793,
+      "keyframes": [
+        "006702.webp",
+        "006703.webp",
+        "006749.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Anh nghĩ ăn không hay là cũng ngon rồi, nhưng mà thôi, mình có thể ăn kèm với cơm cũng rất là hấp dẫn nha các bạn.",
+      "start": 271.72,
+      "end": 277.6,
+      "n_words": 27,
+      "start_frame": 6793,
+      "end_frame": 6940,
+      "keyframes": [
+        "006796.webp",
+        "006797.webp",
+        "006867.webp",
+        "006937.webp",
+        "006938.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cuốn đậu hũ vàng đều, lớp ngoài giòn nhẹ, thơm lừng mùi sốt tương gừng, phần nhân vừa dai ngọt vừa sần sột chút nấm mèo, món ăn đẹp mắt vừa ngon tới suýt xoa.",
+      "start": 277.6,
+      "end": 289.32,
+      "n_words": 35,
+      "start_frame": 6940,
+      "end_frame": 7233,
+      "keyframes": [
+        "006974.webp",
+        "007011.webp",
+        "007025.webp",
+        "007069.webp",
+        "007114.webp",
+        "007115.webp",
+        "007174.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Chúng ta có thêm một công thức món ăn siêu ngon nữa rồi.",
+      "start": 289.32,
+      "end": 291.12,
+      "n_words": 13,
+      "start_frame": 7233,
+      "end_frame": 7278,
+      "keyframes": [
+        "007234.webp",
+        "007235.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Còn chần chờ chi nữa, vào bếp ngay!",
+      "start": 292.08,
+      "end": 294.92,
+      "n_words": 8,
+      "start_frame": 7302,
+      "end_frame": 7373,
+      "keyframes": [
+        "007360.webp",
+        "007361.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

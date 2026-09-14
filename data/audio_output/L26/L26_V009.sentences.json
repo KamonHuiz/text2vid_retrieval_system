@@ -1,0 +1,677 @@
+{
+  "video_id": "L26_V009",
+  "fps": 25.0,
+  "n_sentences": 38,
+  "total_words": 1017,
+  "sentences": [
+    {
+      "text": "Rất món ngon mỗi ngày!",
+      "start": 0.04,
+      "end": 12.04,
+      "n_words": 5,
+      "start_frame": 1,
+      "end_frame": 301,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000065.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000130.webp",
+        "000147.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 36
+    },
+    {
+      "text": "Thịt bò chiên vàng giòn hấp dẫn, cuộn lấy xúc xích xông khói thơm lừng, ăn cùng với rau mầm tươi mát và sốt dầu giấm chua ngọt dậy mùi chanh vàng, ngon cực đỉnh, ăn là dính.",
+      "start": 12.04,
+      "end": 41.2,
+      "n_words": 38,
+      "start_frame": 301,
+      "end_frame": 1030,
+      "keyframes": [
+        "000342.webp",
+        "000384.webp",
+        "000385.webp",
+        "000417.webp",
+        "000450.webp",
+        "000451.webp",
+        "000501.webp",
+        "000551.webp",
+        "000552.webp",
+        "000595.webp",
+        "000638.webp",
+        "000639.webp",
+        "000667.webp",
+        "000695.webp",
+        "000696.webp",
+        "000722.webp",
+        "000749.webp",
+        "000750.webp",
+        "000854.webp",
+        "000959.webp",
+        "000960.webp",
+        "000997.webp"
+      ],
+      "keyframe_count": 22
+    },
+    {
+      "text": "Rất vui mừng gặp lại các bạn trong chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành. Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 41.2,
+      "end": 49.12,
+      "n_words": 29,
+      "start_frame": 1030,
+      "end_frame": 1228,
+      "keyframes": [
+        "001034.webp",
+        "001035.webp",
+        "001134.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Em chào cô Hà Tuấn!",
+      "start": 49.12,
+      "end": 50.88,
+      "n_words": 5,
+      "start_frame": 1228,
+      "end_frame": 1272,
+      "keyframes": [
+        "001233.webp",
+        "001234.webp",
+        "001251.webp",
+        "001268.webp",
+        "001269.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hôm nay mình đổi cái không khí mình làm một cái món gì đó mà nó thật là trẻ, thật là tươi mới đi cô. Một món hơi mang hơi hướng của món châu Âu xíu ha?",
+      "start": 50.88,
+      "end": 60.0,
+      "n_words": 37,
+      "start_frame": 1272,
+      "end_frame": 1500,
+      "keyframes": [
+        "001303.webp",
+        "001338.webp",
+        "001339.webp",
+        "001378.webp",
+        "001417.webp",
+        "001418.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Ủa sao em chưa yêu cầu mà nhà hàng Thu Hà đã trả lời luôn rồi ý?",
+      "start": 60.0,
+      "end": 63.24,
+      "n_words": 17,
+      "start_frame": 1500,
+      "end_frame": 1581,
+      "keyframes": [
+        "001562.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Em là vậy đó, em muốn mua cái món mà nó tây, nó dễ làm, các bạn trẻ có thể làm tại nhà bất cứ lúc nào.",
+      "start": 63.24,
+      "end": 69.68,
+      "n_words": 27,
+      "start_frame": 1581,
+      "end_frame": 1742,
+      "keyframes": [
+        "001706.webp",
+        "001707.webp",
+        "001737.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hôm nay chúng ta hãy cùng nhau thực hiện món bò cuộn xúc xích chiên.",
+      "start": 69.68,
+      "end": 73.12,
+      "n_words": 15,
+      "start_frame": 1742,
+      "end_frame": 1828,
+      "keyframes": [
+        "001767.webp",
+        "001768.webp",
+        "001798.webp",
+        "001828.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và theo chuyên gia dinh dưỡng thì món ăn này có công dụng hỗ trợ bổ máu.",
+      "start": 73.12,
+      "end": 77.24,
+      "n_words": 17,
+      "start_frame": 1828,
+      "end_frame": 1931,
+      "keyframes": [
+        "001828.webp",
+        "001829.webp",
+        "001879.webp",
+        "001929.webp",
+        "001930.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đầu tiên thì chúng ta sẽ có ba chỉ bò, thì chúng ta sẽ mua ba chỉ bò cắt lát sẵn á.",
+      "start": 77.24,
+      "end": 82.68,
+      "n_words": 22,
+      "start_frame": 1931,
+      "end_frame": 2067,
+      "keyframes": [
+        "001953.webp",
+        "001977.webp",
+        "001978.webp",
+        "001996.webp",
+        "002014.webp",
+        "002015.webp",
+        "002036.webp",
+        "002058.webp",
+        "002059.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Rồi bây giờ trải miếng ba chỉ bò ra, sau khi mình trải xong các miếng thịt bò đó, nó bằng với lại chiều dài của cây xúc xích thì chúng ta sẽ cuốn nó lại.",
+      "start": 82.68,
+      "end": 90.88,
+      "n_words": 36,
+      "start_frame": 2067,
+      "end_frame": 2272,
+      "keyframes": [
+        "002085.webp",
+        "002112.webp",
+        "002113.webp",
+        "002133.webp",
+        "002154.webp",
+        "002155.webp",
+        "002216.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Trong món ăn này thì có nguyên liệu chính là thịt bò, mà trong thịt bò thì có rất là nhiều chất dinh dưỡng hỗ trợ bổ máu nên các bạn có thể bổ sung thịt bò vào trong khẩu phần ăn ha.",
+      "start": 90.88,
+      "end": 98.88,
+      "n_words": 43,
+      "start_frame": 2272,
+      "end_frame": 2472,
+      "keyframes": [
+        "002277.webp",
+        "002278.webp",
+        "002320.webp",
+        "002363.webp",
+        "002364.webp",
+        "002390.webp",
+        "002416.webp",
+        "002417.webp",
+        "002441.webp",
+        "002465.webp",
+        "002466.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Tẩm cái cuộn bò này qua một lớp Ajinomoto bột tẩm khô chiên giòn.",
+      "start": 98.88,
+      "end": 103.12,
+      "n_words": 14,
+      "start_frame": 2472,
+      "end_frame": 2578,
+      "keyframes": [
+        "002521.webp",
+        "002576.webp",
+        "002577.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta dùng Ajinomoto bột tẩm khô chiên giòn để tạo độ giòn và đậm đà cho món ăn mà không cần phải nêm thêm gia vị.",
+      "start": 103.12,
+      "end": 109.2,
+      "n_words": 27,
+      "start_frame": 2578,
+      "end_frame": 2730,
+      "keyframes": [
+        "002653.webp",
+        "002730.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Các bạn thấy là món ăn này rất là nhanh gọn, nguyên liệu thì đơn giản và đặc biệt là chúng ta sử dụng Ajinomoto bột tẩm khô chiên giòn, chỉ một lần dùng thôi, chúng ta sẽ đảm bảo được là mùi vị cân bằng và không có quá nhiều gia vị nêm nếm.",
+      "start": 109.2,
+      "end": 121.52,
+      "n_words": 55,
+      "start_frame": 2730,
+      "end_frame": 3038,
+      "keyframes": [
+        "002730.webp",
+        "002731.webp",
+        "002896.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mà chúng ta phải nhớ chúng ta sẽ cho vào đây khoảng chừng hai muỗng canh dầu ăn thôi, vừa vừa thôi.",
+      "start": 121.52,
+      "end": 128.08,
+      "n_words": 22,
+      "start_frame": 3038,
+      "end_frame": 3202,
+      "keyframes": [
+        "003062.webp",
+        "003063.webp",
+        "003119.webp",
+        "003175.webp",
+        "003176.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ cho từng cái cuộn xúc xích cuộn thịt bò này vô.",
+      "start": 128.08,
+      "end": 135.16,
+      "n_words": 16,
+      "start_frame": 3202,
+      "end_frame": 3379,
+      "keyframes": [
+        "003213.webp",
+        "003250.webp",
+        "003251.webp",
+        "003291.webp",
+        "003332.webp",
+        "003333.webp",
+        "003359.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Các bạn lưu ý là trong khi cuốn cũng như khi mà chúng ta áp chảo, nhớ đặt miếng bò ở bên dưới để định hình cuộn bò được đẹp mắt nha.",
+      "start": 135.16,
+      "end": 143.24,
+      "n_words": 32,
+      "start_frame": 3379,
+      "end_frame": 3581,
+      "keyframes": [
+        "003386.webp",
+        "003387.webp",
+        "003482.webp",
+        "003577.webp",
+        "003578.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ thì chúng ta sẽ pha công thức dầu giấm.",
+      "start": 143.24,
+      "end": 145.44,
+      "n_words": 11,
+      "start_frame": 3581,
+      "end_frame": 3636,
+      "keyframes": [
+        "003606.webp",
+        "003634.webp",
+        "003635.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta cho một chút xíu muối, một phần năm muỗng cà phê bột ngọt Ajinomoto, một phần tư muỗng cà phê tiêu, một muỗng cà phê đường, một muỗng canh giấm gạo lên men Ajinomoto, một muỗng canh nước lọc, một muỗng canh dầu phi hành tím, một muỗng hành tím xắt lát.",
+      "start": 145.44,
+      "end": 164.72,
+      "n_words": 54,
+      "start_frame": 3636,
+      "end_frame": 4118,
+      "keyframes": [
+        "003656.webp",
+        "003678.webp",
+        "003679.webp",
+        "003698.webp",
+        "003717.webp",
+        "003718.webp",
+        "003732.webp",
+        "003746.webp",
+        "003747.webp",
+        "003788.webp",
+        "003829.webp",
+        "003830.webp",
+        "003849.webp",
+        "003868.webp",
+        "003869.webp",
+        "003892.webp",
+        "003915.webp",
+        "003916.webp",
+        "003940.webp",
+        "003964.webp",
+        "003965.webp",
+        "004010.webp",
+        "004055.webp",
+        "004056.webp",
+        "004085.webp",
+        "004115.webp",
+        "004116.webp"
+      ],
+      "keyframe_count": 27
+    },
+    {
+      "text": "Cô sẽ cho vào đây một muỗng cà phê vỏ chanh mài.",
+      "start": 164.72,
+      "end": 167.52,
+      "n_words": 12,
+      "start_frame": 4118,
+      "end_frame": 4188,
+      "keyframes": [
+        "004152.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trong món ăn này thì chúng ta dùng vỏ chanh vàng mài nhuyễn để tạo hương vị đặc trưng cho phần nước sốt.",
+      "start": 167.52,
+      "end": 172.64,
+      "n_words": 23,
+      "start_frame": 4188,
+      "end_frame": 4316,
+      "keyframes": [
+        "004189.webp",
+        "004190.webp",
+        "004251.webp",
+        "004313.webp",
+        "004314.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Vỏ chanh vàng thì nó rất là thơm mà nó lại không có nhiều vị đắng giống như là chanh xanh nên là chúng ta có thể sử dụng chanh vàng trong nhiều món ăn để tận dụng mùi hương rất là quyến rũ này nha.",
+      "start": 172.64,
+      "end": 182.48,
+      "n_words": 46,
+      "start_frame": 4316,
+      "end_frame": 4562,
+      "keyframes": [
+        "004374.webp",
+        "004434.webp",
+        "004435.webp",
+        "004497.webp",
+        "004559.webp",
+        "004560.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ thì chúng ta sẽ pha sốt chấm nhé.",
+      "start": 182.48,
+      "end": 184.44,
+      "n_words": 10,
+      "start_frame": 4562,
+      "end_frame": 4611,
+      "keyframes": [
+        "004584.webp",
+        "004608.webp",
+        "004609.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta sẽ sử dụng hai muỗng canh sốt Mayonnaise Ajinomoto vị nguyên bản cùng với một muỗng canh tương ớt, một muỗng cà phê vỏ chanh vàng rồi trộn đều lên.",
+      "start": 184.44,
+      "end": 195.04,
+      "n_words": 32,
+      "start_frame": 4611,
+      "end_frame": 4876,
+      "keyframes": [
+        "004659.webp",
+        "004710.webp",
+        "004711.webp",
+        "004741.webp",
+        "004771.webp",
+        "004772.webp",
+        "004796.webp",
+        "004821.webp",
+        "004822.webp",
+        "004866.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Như vậy là chúng ta đã hoàn thành xong món ăn của ngày hôm nay rồi đúng không cô? Đúng rồi đó Minh Tuấn, là bây giờ chúng ta chỉ cần trình bày nữa là thưởng thức.",
+      "start": 195.04,
+      "end": 202.52,
+      "n_words": 37,
+      "start_frame": 4876,
+      "end_frame": 5063,
+      "keyframes": [
+        "004910.webp",
+        "004911.webp",
+        "004947.webp",
+        "004983.webp",
+        "004984.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Á dạ, còn các bạn nào mà chúng ta không kịp theo dõi công thức của ngày hôm nay thì ngay bây giờ có thể dùng điện thoại của mình quét mã QR đang xuất hiện trên màn hình để chúng ta sẽ có ngay công thức của món ăn ngày hôm nay và thực hiện tại nhà.",
+      "start": 202.52,
+      "end": 214.56,
+      "n_words": 58,
+      "start_frame": 5063,
+      "end_frame": 5364,
+      "keyframes": [
+        "005151.webp",
+        "005318.webp",
+        "005319.webp",
+        "005343.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Sau khi mà xúc xích tới hơi nguội rồi thì chúng ta sẽ cắt khúc ra như thế này, sẽ rưới cái phần dầu giấm lên trên rau.",
+      "start": 214.56,
+      "end": 227.88,
+      "n_words": 28,
+      "start_frame": 5364,
+      "end_frame": 5697,
+      "keyframes": [
+        "005368.webp",
+        "005369.webp",
+        "005393.webp",
+        "005417.webp",
+        "005418.webp",
+        "005457.webp",
+        "005496.webp",
+        "005497.webp",
+        "005516.webp",
+        "005536.webp",
+        "005537.webp",
+        "005565.webp",
+        "005593.webp",
+        "005594.webp",
+        "005637.webp",
+        "005681.webp",
+        "005682.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Em sẽ thử ngay, thật là nhiều sốt, thật là nhiều sốt vô.",
+      "start": 227.88,
+      "end": 234.36,
+      "n_words": 13,
+      "start_frame": 5697,
+      "end_frame": 5859,
+      "keyframes": [
+        "005719.webp",
+        "005756.webp",
+        "005757.webp",
+        "005823.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Mọi người ơi, ngon mười điểm!",
+      "start": 234.36,
+      "end": 237.6,
+      "n_words": 6,
+      "start_frame": 5859,
+      "end_frame": 5940,
+      "keyframes": [
+        "005890.webp",
+        "005891.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thơm, cái phần mà bò bên ngoài vẫn giữ được cái độ giòn rụm luôn, rất là vừa miệng.",
+      "start": 237.6,
+      "end": 247.68,
+      "n_words": 19,
+      "start_frame": 5940,
+      "end_frame": 6192,
+      "keyframes": [
+        "005971.webp",
+        "006052.webp",
+        "006053.webp",
+        "006102.webp",
+        "006151.webp",
+        "006152.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Mình cắn vào trong, bắt đầu xúc xích nha, thơm mùi xông khói này, sần sật và hòa với lại cái vị béo của sốt Mayonnaise Ajinomoto, nó rất là cân bằng, rất là đã miệng luôn cái món này nha.",
+      "start": 247.68,
+      "end": 258.8,
+      "n_words": 41,
+      "start_frame": 6192,
+      "end_frame": 6470,
+      "keyframes": [
+        "006214.webp",
+        "006277.webp",
+        "006278.webp",
+        "006364.webp",
+        "006451.webp",
+        "006452.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Mà mình xem phim nè, hay là mình ngồi mà gọi là nhâm nhi với bạn bè này, không còn gì bằng luôn.",
+      "start": 258.8,
+      "end": 263.24,
+      "n_words": 23,
+      "start_frame": 6470,
+      "end_frame": 6581,
+      "keyframes": [
+        "006515.webp",
+        "006579.webp",
+        "006580.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Để đạt được hiệu quả dinh dưỡng thì các bạn có thể áp dụng món ăn này theo bản thực đơn gợi ý sau đây.",
+      "start": 263.24,
+      "end": 272.08,
+      "n_words": 25,
+      "start_frame": 6581,
+      "end_frame": 6802,
+      "keyframes": [
+        "006631.webp",
+        "006683.webp",
+        "006684.webp",
+        "006746.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Nếu bạn cần một món ăn chuẩn bị trong tích tắc thì đó chính xác là món ăn của ngày hôm nay.",
+      "start": 272.08,
+      "end": 277.04,
+      "n_words": 22,
+      "start_frame": 6802,
+      "end_frame": 6926,
+      "keyframes": [
+        "006808.webp",
+        "006809.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chuẩn bị sẵn tất cả những nguyên liệu trong tủ lạnh, chúng ta chỉ cần lấy ra và chỉ trong vòng năm phút là có ngay một món ngon để thưởng thức. Công thức nấu ăn sẽ luôn có trên những kênh rất quen thuộc của Món ngon mỗi ngày và đặc biệt trên website monngonmoingay.",
+      "start": 277.04,
+      "end": 287.68,
+      "n_words": 56,
+      "start_frame": 6926,
+      "end_frame": 7192,
+      "keyframes": [
+        "006939.webp",
+        "007069.webp",
+        "007070.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Com sẽ có rất nhiều những món ăn này vừa trẻ trung, vừa bắt kịp xu hướng và đặc biệt là nấu rất nhanh dành cho các bạn trẻ có thể lưu về và thực hiện ngay tại nhà.",
+      "start": 288.04,
+      "end": 295.88,
+      "n_words": 39,
+      "start_frame": 7201,
+      "end_frame": 7397,
+      "keyframes": [
+        "007245.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúc các bạn thành công!",
+      "start": 295.88,
+      "end": 297.76,
+      "n_words": 5,
+      "start_frame": 7397,
+      "end_frame": 7444,
+      "keyframes": [
+        "007420.webp",
+        "007421.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

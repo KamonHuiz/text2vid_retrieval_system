@@ -1,0 +1,19 @@
+{
+  "unfiltered": {
+    "text": "đây là không bao giờ trả lời bắt đầu vô thì có khả năng đỡ đầu tiên bảy giờ chín mươi sáu",
+    "word_count": 22
+  },
+  "flagged": {
+    "text": "đây là không bao giờ trả lời bắt đầu vô thì có khả năng đỡ đầu tiên @timestamp(bảy giờ) @number(chín mươi sáu)",
+    "word_count": 22
+  },
+  "refined": {
+    "text": "Đây là không bao giờ trả lời, bắt đầu vô thì có khả năng đỡ đầu tiên 7:00 96.",
+    "word_count": 19,
+    "source": "flagged"
+  },
+  "proofread": {
+    "text": "Đây là không bao giờ trả lời, bắt đầu vô thì có khả năng đỡ đầu tiên 7:00 96.",
+    "word_count": 19
+  }
+}

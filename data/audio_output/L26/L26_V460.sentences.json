@@ -1,0 +1,757 @@
+{
+  "video_id": "L26_V460",
+  "fps": 25.0,
+  "n_sentences": 41,
+  "total_words": 938,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 0.04,
+      "end": 11.84,
+      "n_words": 4,
+      "start_frame": 1,
+      "end_frame": 296,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000087.webp",
+        "000097.webp",
+        "000107.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000152.webp",
+        "000158.webp",
+        "000164.webp",
+        "000165.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000240.webp"
+      ],
+      "keyframe_count": 31
+    },
+    {
+      "text": "Cô đang coi cái gì mà chăm chú dữ vậy?",
+      "start": 11.84,
+      "end": 13.64,
+      "n_words": 10,
+      "start_frame": 296,
+      "end_frame": 341,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000320.webp",
+        "000340.webp",
+        "000341.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hai cô ta biết không, cô cũng có fan nhí nữa.",
+      "start": 13.64,
+      "end": 16.12,
+      "n_words": 11,
+      "start_frame": 341,
+      "end_frame": 403,
+      "keyframes": [
+        "000341.webp",
+        "000351.webp",
+        "000362.webp",
+        "000363.webp",
+        "000394.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Wow!",
+      "start": 16.12,
+      "end": 17.04,
+      "n_words": 1,
+      "start_frame": 403,
+      "end_frame": 426,
+      "keyframes": [
+        "000426.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đây là hình mà fan nhí đã vẽ tặng khi cô đang làm bếp nè cô.",
+      "start": 17.04,
+      "end": 20.88,
+      "n_words": 16,
+      "start_frame": 426,
+      "end_frame": 522,
+      "keyframes": [
+        "000426.webp",
+        "000427.webp",
+        "000486.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cha cái bạn fan nhí thì công nhận luôn nha, cái khả năng pha màu của bạn thật là chuẩn xác à.",
+      "start": 20.88,
+      "end": 26.56,
+      "n_words": 22,
+      "start_frame": 522,
+      "end_frame": 664,
+      "keyframes": [
+        "000546.webp",
+        "000547.webp",
+        "000600.webp",
+        "000654.webp",
+        "000655.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và nói pha màu thì cô nghĩ là hôm nay chúng ta sẽ làm một loại bánh pancake khác và chúng ta sẽ phối hợp màu sắc.",
+      "start": 26.56,
+      "end": 33.0,
+      "n_words": 27,
+      "start_frame": 664,
+      "end_frame": 825,
+      "keyframes": [
+        "000675.webp",
+        "000696.webp",
+        "000697.webp",
+        "000760.webp",
+        "000823.webp",
+        "000824.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cô đảm bảo là món ăn này các bạn nhỏ sẽ rất thích đó.",
+      "start": 33.0,
+      "end": 35.52,
+      "n_words": 14,
+      "start_frame": 825,
+      "end_frame": 888,
+      "keyframes": [
+        "000854.webp",
+        "000885.webp",
+        "000886.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và em cũng đảm bảo là tất cả quý vị khán giả đang nóng lòng theo dõi xem món ăn này như thế nào.",
+      "start": 35.52,
+      "end": 41.84,
+      "n_words": 24,
+      "start_frame": 888,
+      "end_frame": 1046,
+      "keyframes": [
+        "000940.webp",
+        "000994.webp",
+        "000995.webp",
+        "001019.webp",
+        "001044.webp",
+        "001045.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Pancake hai màu chuối sô cô la cực phẩm cho cả nhà.",
+      "start": 41.84,
+      "end": 61.52,
+      "n_words": 12,
+      "start_frame": 1046,
+      "end_frame": 1538,
+      "keyframes": [
+        "001093.webp",
+        "001141.webp",
+        "001142.webp",
+        "001180.webp",
+        "001218.webp",
+        "001236.webp",
+        "001301.webp",
+        "001366.webp",
+        "001367.webp",
+        "001454.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Mừng các bạn đang đến với chương trình Món ngon mỗi ngày, được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 61.52,
+      "end": 67.72,
+      "n_words": 21,
+      "start_frame": 1538,
+      "end_frame": 1693,
+      "keyframes": [
+        "001541.webp",
+        "001542.webp",
+        "001619.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi đầu tiên là mình sẽ chuẩn bị cái phần whipping cream, thì chúng ta sẽ giữ lạnh.",
+      "start": 67.72,
+      "end": 72.52,
+      "n_words": 18,
+      "start_frame": 1693,
+      "end_frame": 1813,
+      "keyframes": [
+        "001697.webp",
+        "001698.webp",
+        "001734.webp",
+        "001770.webp",
+        "001771.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Sau đó mình cho vào đây khoảng chừng 100 ml.",
+      "start": 72.52,
+      "end": 74.32,
+      "n_words": 10,
+      "start_frame": 1813,
+      "end_frame": 1858,
+      "keyframes": [
+        "001827.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Khi đánh whipping này là chỉ vừa nổi thôi, không có đánh quá kỹ; Và đánh quá kỹ thì nó sẽ tách nước.",
+      "start": 75.32,
+      "end": 81.08,
+      "n_words": 23,
+      "start_frame": 1883,
+      "end_frame": 2027,
+      "keyframes": [
+        "001883.webp",
+        "001884.webp",
+        "001926.webp",
+        "001968.webp",
+        "001969.webp",
+        "001992.webp",
+        "002015.webp",
+        "002016.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Em thấy là phần kem mình đánh nè, thấy không, nó đã đứng được như thế này rồi.",
+      "start": 81.08,
+      "end": 85.24,
+      "n_words": 18,
+      "start_frame": 2027,
+      "end_frame": 2131,
+      "keyframes": [
+        "002050.webp",
+        "002085.webp",
+        "002086.webp",
+        "002131.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Thì bây giờ chúng ta sẽ cho nó vào trong một cái túi bắt kem và mình sẽ giữ lạnh.",
+      "start": 85.24,
+      "end": 88.8,
+      "n_words": 20,
+      "start_frame": 2131,
+      "end_frame": 2220,
+      "keyframes": [
+        "002131.webp",
+        "002176.webp",
+        "002177.webp",
+        "002198.webp",
+        "002219.webp",
+        "002220.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chuối xong rồi chúng ta sẽ lột vỏ và mình cắt lát như thế này để cho chuối sau khi mình cắt lát không bị đen á, chúng ta có thể là dùng cọ chúng ta phớt một ít cái nước cốt chanh lên đây.",
+      "start": 88.8,
+      "end": 97.84,
+      "n_words": 45,
+      "start_frame": 2220,
+      "end_frame": 2446,
+      "keyframes": [
+        "002220.webp",
+        "002255.webp",
+        "002291.webp",
+        "002292.webp",
+        "002320.webp",
+        "002349.webp",
+        "002350.webp",
+        "002393.webp",
+        "002436.webp",
+        "002437.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Và đồng thời nước cốt chanh nó cũng làm cho cái chuối mình có vị chua chút nữa, mình ăn với lại bánh sẽ rất là ngon.",
+      "start": 97.84,
+      "end": 105.08,
+      "n_words": 27,
+      "start_frame": 2446,
+      "end_frame": 2627,
+      "keyframes": [
+        "002509.webp",
+        "002581.webp",
+        "002582.webp",
+        "002601.webp",
+        "002620.webp",
+        "002621.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Em muốn pha bột gì, bột truyền thống hay là bột sô cô la kem sô cô la?",
+      "start": 105.08,
+      "end": 110.16,
+      "n_words": 18,
+      "start_frame": 2627,
+      "end_frame": 2754,
+      "keyframes": [
+        "002671.webp",
+        "002722.webp",
+        "002723.webp",
+        "002738.webp",
+        "002753.webp",
+        "002754.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi cô sẽ pha bột truyền thống.",
+      "start": 110.16,
+      "end": 112.08,
+      "n_words": 7,
+      "start_frame": 2754,
+      "end_frame": 2802,
+      "keyframes": [
+        "002754.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta sẽ cho bột bánh rán pha sẵn vị truyền thống ra tô, cho nước vào đây theo theo cái công thức đã hướng dẫn trên bao bì.",
+      "start": 112.08,
+      "end": 119.92,
+      "n_words": 29,
+      "start_frame": 2802,
+      "end_frame": 2998,
+      "keyframes": [
+        "002819.webp",
+        "002884.webp",
+        "002885.webp",
+        "002904.webp",
+        "002924.webp",
+        "002925.webp",
+        "002960.webp",
+        "002995.webp",
+        "002996.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Xong cái phần bột vị truyền thống của cô rồi.",
+      "start": 120.76,
+      "end": 125.68,
+      "n_words": 10,
+      "start_frame": 3019,
+      "end_frame": 3142,
+      "keyframes": [
+        "003085.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tiếp theo thì Hà sẽ pha cái phần mà bột vị sô cô la, cho khoảng chừng nửa lượng nước vô trước, chúng ta chỉ cần khuấy bình thường thôi là bột đã rất mịn rồi.",
+      "start": 125.68,
+      "end": 136.68,
+      "n_words": 36,
+      "start_frame": 3142,
+      "end_frame": 3417,
+      "keyframes": [
+        "003174.webp",
+        "003175.webp",
+        "003204.webp",
+        "003234.webp",
+        "003235.webp",
+        "003254.webp",
+        "003274.webp",
+        "003275.webp",
+        "003300.webp",
+        "003325.webp",
+        "003326.webp",
+        "003365.webp",
+        "003405.webp",
+        "003406.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Bây giờ chúng ta đã có hai phần bột.",
+      "start": 136.68,
+      "end": 138.72,
+      "n_words": 9,
+      "start_frame": 3417,
+      "end_frame": 3468,
+      "keyframes": [
+        "003421.webp",
+        "003437.webp",
+        "003438.webp",
+        "003455.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đầu tiên thì chúng ta sẽ làm nóng chảo trong cái thời gian khoảng chừng hai phút, thì bây giờ chúng ta sẽ hạ nhiệt bằng cách là đặt lên một cái khăn ẩm ha.",
+      "start": 138.72,
+      "end": 147.2,
+      "n_words": 35,
+      "start_frame": 3468,
+      "end_frame": 3680,
+      "keyframes": [
+        "003472.webp",
+        "003473.webp",
+        "003496.webp",
+        "003519.webp",
+        "003520.webp",
+        "003597.webp",
+        "003674.webp",
+        "003675.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Trong lúc đó thì mình sẽ chuẩn bị cái phần bột để mình đổ lên được hai màu nè, đó là mình sẽ cho vào một cái vá đổ lên này một phần bột màu trắng rồi và một phần bột màu vị sô cô la.",
+      "start": 147.2,
+      "end": 160.92,
+      "n_words": 46,
+      "start_frame": 3680,
+      "end_frame": 4023,
+      "keyframes": [
+        "003737.webp",
+        "003800.webp",
+        "003801.webp",
+        "003865.webp",
+        "003930.webp",
+        "003931.webp",
+        "003976.webp",
+        "004022.webp",
+        "004023.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Rồi bây giờ mình sẽ đặt cái chảo lên và mình sẽ đổ bột lên giống như bình thường.",
+      "start": 160.92,
+      "end": 166.2,
+      "n_words": 19,
+      "start_frame": 4023,
+      "end_frame": 4155,
+      "keyframes": [
+        "004023.webp",
+        "004050.webp",
+        "004077.webp",
+        "004078.webp",
+        "004115.webp",
+        "004152.webp",
+        "004153.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Lát nữa khi bánh chín, phần bột sô cô la sẽ dành cho cô ta, còn phần bột vị truyền thống sẽ dành cho các bạn.",
+      "start": 166.2,
+      "end": 172.52,
+      "n_words": 26,
+      "start_frame": 4155,
+      "end_frame": 4313,
+      "keyframes": [
+        "004179.webp",
+        "004206.webp",
+        "004207.webp",
+        "004255.webp",
+        "004304.webp",
+        "004305.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Lưu ý là chúng ta sẽ pha hai loại bột với nhau để một cái bánh mà chúng ta có thể có nhiều hương vị và màu sắc.",
+      "start": 172.52,
+      "end": 178.6,
+      "n_words": 28,
+      "start_frame": 4313,
+      "end_frame": 4465,
+      "keyframes": [
+        "004344.webp",
+        "004383.webp",
+        "004384.webp",
+        "004424.webp",
+        "004464.webp",
+        "004465.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi bây giờ cô sẽ làm cho hai màu sắc bột hòa quyện lại với nhau, công nhận đẹp thiệt luôn á cô ha.",
+      "start": 178.6,
+      "end": 185.04,
+      "n_words": 24,
+      "start_frame": 4465,
+      "end_frame": 4626,
+      "keyframes": [
+        "004465.webp",
+        "004481.webp",
+        "004498.webp",
+        "004499.webp",
+        "004534.webp",
+        "004570.webp",
+        "004571.webp",
+        "004589.webp",
+        "004608.webp",
+        "004609.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Cô biết không, khi đổ bánh thì chúng ta cũng có thể tạo ra nhiều vân khác nhau tùy vào cái cách đổ và sự khéo tay của mỗi người đó.",
+      "start": 185.04,
+      "end": 192.0,
+      "n_words": 31,
+      "start_frame": 4626,
+      "end_frame": 4800,
+      "keyframes": [
+        "004704.webp",
+        "004799.webp",
+        "004800.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi bây giờ cô vớt ra nha.",
+      "start": 192.0,
+      "end": 193.64,
+      "n_words": 7,
+      "start_frame": 4800,
+      "end_frame": 4841,
+      "keyframes": [
+        "004800.webp",
+        "004820.webp",
+        "004841.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi cứ như vậy thì chúng ta sẽ đổ tiếp cái bánh khác, và khi mà mình múc bột á thì mình cũng lưu ý là mình đừng có làm hai cái màu này nó tan vào nhau thì khi mình đổ bánh cái vân nó sẽ không có được đẹp.",
+      "start": 193.64,
+      "end": 212.0,
+      "n_words": 51,
+      "start_frame": 4841,
+      "end_frame": 5300,
+      "keyframes": [
+        "004841.webp",
+        "004842.webp",
+        "004866.webp",
+        "004891.webp",
+        "004892.webp",
+        "004932.webp",
+        "004973.webp",
+        "004974.webp",
+        "005005.webp",
+        "005036.webp",
+        "005037.webp",
+        "005109.webp",
+        "005182.webp",
+        "005183.webp",
+        "005215.webp",
+        "005248.webp",
+        "005249.webp",
+        "005274.webp",
+        "005299.webp"
+      ],
+      "keyframe_count": 19
+    },
+    {
+      "text": "Xong một cái nữa rồi đó, giờ cô lấy ra.",
+      "start": 212.0,
+      "end": 214.36,
+      "n_words": 10,
+      "start_frame": 5300,
+      "end_frame": 5359,
+      "keyframes": [
+        "005309.webp",
+        "005346.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cứ như vậy thì chúng ta sẽ đổ cho đến khi hết bột.",
+      "start": 214.36,
+      "end": 219.28,
+      "n_words": 13,
+      "start_frame": 5359,
+      "end_frame": 5482,
+      "keyframes": [
+        "005383.webp",
+        "005384.webp",
+        "005407.webp",
+        "005431.webp",
+        "005432.webp",
+        "005456.webp",
+        "005481.webp",
+        "005482.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Phết một ít sốt sô cô la ra, mình sẽ đặt một cái bánh lên, cô sẽ xếp lên đây một ít chuối, cho lên đây một lớp kem whipping mà mình đã đánh kỹ, đến lại là một lớp bánh, một lớp chuối nữa, lớp chuối nữa, một lớp kem, rắc lên đây một ít cốp, một cái bánh nữa.",
+      "start": 219.28,
+      "end": 239.28,
+      "n_words": 61,
+      "start_frame": 5482,
+      "end_frame": 5982,
+      "keyframes": [
+        "005482.webp",
+        "005502.webp",
+        "005522.webp",
+        "005523.webp",
+        "005553.webp",
+        "005584.webp",
+        "005585.webp",
+        "005610.webp",
+        "005635.webp",
+        "005636.webp",
+        "005661.webp",
+        "005686.webp",
+        "005687.webp",
+        "005701.webp",
+        "005716.webp",
+        "005717.webp",
+        "005746.webp",
+        "005776.webp",
+        "005777.webp",
+        "005798.webp",
+        "005820.webp",
+        "005821.webp",
+        "005836.webp",
+        "005852.webp",
+        "005853.webp",
+        "005878.webp",
+        "005903.webp",
+        "005904.webp",
+        "005926.webp",
+        "005949.webp",
+        "005950.webp",
+        "005967.webp"
+      ],
+      "keyframe_count": 32
+    },
+    {
+      "text": "Và cuối cùng ở trên thì mình sẽ chạy những cái đường sô cô la ziczac một cái đọt cuối cùng ở đây.",
+      "start": 239.28,
+      "end": 245.84,
+      "n_words": 23,
+      "start_frame": 5982,
+      "end_frame": 6146,
+      "keyframes": [
+        "005984.webp",
+        "005985.webp",
+        "006018.webp",
+        "006051.webp",
+        "006052.webp",
+        "006084.webp",
+        "006116.webp",
+        "006117.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Ta đã hoàn thành món ăn rồi đó, có sắc màu cộng thêm nữa là có chuối và kem tươi nữa, đảm bảo là các bạn nhỏ nhà mình sẽ rất là thích luôn.",
+      "start": 246.0,
+      "end": 253.84,
+      "n_words": 34,
+      "start_frame": 6150,
+      "end_frame": 6346,
+      "keyframes": [
+        "006164.webp",
+        "006212.webp",
+        "006213.webp",
+        "006280.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Mặt bánh có từng vân màu nâu vàng đan xen cực bắt mắt, miếng bánh mềm, sốt ngọt, dịu vị sô cô la và chuối kết hợp chút beo béo của kem tươi khiến chúng ta cảm thấy vô cùng hài lòng và lưu luyến.",
+      "start": 253.84,
+      "end": 266.0,
+      "n_words": 45,
+      "start_frame": 6346,
+      "end_frame": 6650,
+      "keyframes": [
+        "006347.webp",
+        "006348.webp",
+        "006371.webp",
+        "006395.webp",
+        "006409.webp",
+        "006467.webp",
+        "006525.webp",
+        "006526.webp",
+        "006594.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Thêm một công thức cho những tín đồ mê pancake, vừa đẹp mắt vừa lạ miệng. Hãy cập nhật những công thức mới lạ trên trang của Món ngon mỗi ngày.",
+      "start": 266.0,
+      "end": 273.88,
+      "n_words": 31,
+      "start_frame": 6650,
+      "end_frame": 6847,
+      "keyframes": [
+        "006662.webp",
+        "006663.webp",
+        "006756.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Còn ngay bây giờ thì Hạ Vy và cô Thu Hà xin chào và hẹn gặp lại trong chương trình kỳ sau.",
+      "start": 273.88,
+      "end": 279.08,
+      "n_words": 22,
+      "start_frame": 6847,
+      "end_frame": 6977,
+      "keyframes": [
+        "006849.webp",
+        "006850.webp",
+        "006875.webp",
+        "006901.webp",
+        "006902.webp",
+        "006934.webp",
+        "006967.webp",
+        "006968.webp"
+      ],
+      "keyframe_count": 8
+    }
+  ]
+}

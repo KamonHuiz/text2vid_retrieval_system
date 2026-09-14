@@ -1,0 +1,431 @@
+1
+00:00:00,000 --> 00:00:12,040
+Thầy rất vui khi được gặp lại các em trong chương trình ôn tập chuẩn bị cho kỳ thi trung học phổ thông năm 2024 do báo Thanh Niên tổ chức.
+
+2
+00:00:12,040 --> 00:00:22,920
+Hôm nay, thầy sẽ hướng dẫn em ôn tập chuyên đề thứ ba, đó là cách xác định số loại thể ba và thể tam bội khác nhau về kiểu gen.
+
+3
+00:00:22,920 --> 00:00:26,760
+Thầy nhắc lại về thể ba và thể tam bội.
+
+4
+00:00:26,760 --> 00:00:30,360
+Hãy lấy ví dụ như một loài có bộ nhiễm sắc thể 2n = 8.
+
+5
+00:00:31,200 --> 00:00:44,880
+Ký hiệu như vầy tức là tế bào này có 8 nhiễm sắc thể, và 2n tức là nhiễm sắc thể nằm thành cặp tương đồng, cho nên chúng ta sẽ có 4 cặp nhiễm sắc thể tương đồng và tổng nhiễm sắc thể là 8 chiếc.
+
+6
+00:00:44,880 --> 00:00:51,440
+Thể ba là một cặp nhiễm sắc thể nào đó có 3 chiếc, còn các cặp còn lại vẫn có 2 chiếc bình thường.
+
+7
+00:00:51,440 --> 00:00:59,640
+Hãy lấy ví dụ như cặp nhiễm sắc thể số 1 này có 3 chiếc, các cặp còn lại có 2 chiếc bình thường thì sẽ là thể ba, sẽ ký hiệu là 2n + 1 = 9.
+
+8
+00:01:00,560 --> 00:01:09,680
+Còn thể tam bội tức là tất cả các cặp nhiễm sắc thể đều có 3 chiếc, sẽ ký hiệu là 3n.
+
+9
+00:01:10,120 --> 00:01:12,560
+Trong trường hợp này 3n sẽ = 12.
+
+10
+00:01:13,520 --> 00:01:32,200
+Ở đây em lưu ý là nếu như đề hỏi số loại thể ba khác nhau về nhiễm sắc thể thì thể ba là một cặp nhiễm sắc thể nào đó có 3 chiếc, các cặp còn lại có 2 chiếc bình thường, thì số loại thể ba khác nhau về nhiễm sắc thể sẽ = n, tức là sẽ = với số cặp.
+
+11
+00:01:32,200 --> 00:01:39,120
+Thì thể ba có thể ở cặp số 1, cặp số 2, vân vân cho tới cặp n, đó là khác nhau về nhiễm sắc thể.
+
+12
+00:01:39,120 --> 00:01:45,400
+Còn bây giờ thầy sẽ phân tích cách xác định số loại kiểu gen của các loại thể ba khác nhau.
+
+13
+00:01:45,400 --> 00:01:56,240
+Trường Đại học Quốc tế Sài Gòn (SIU) không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SIU nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt.
+
+14
+00:01:57,120 --> 00:02:07,000
+Mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.
+
+15
+00:02:07,000 --> 00:02:15,600
+Năm 2024, SIU tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng 4 phương thức tuyển sinh.
+
+16
+00:02:15,600 --> 00:02:42,120
+SIU cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SIU, 100 suất học bổng Tiếp bước hành trình Quỹ tài năng trẻ, học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa, thể thao, nghệ thuật; Học bổng Đồng hành xây dựng nhân lực chất lượng cao cho thành phố Thủ Đức, thành phố Hồ Chí Minh; Học bổng doanh nghiệp tài trợ; Học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.
+
+17
+00:02:42,120 --> 00:02:46,040
+SIU - Tâm hồn Việt Nam, giáo dục thế giới.
+
+18
+00:02:46,040 --> 00:02:54,000
+Bây giờ trên một cặp nhiễm sắc thể thường, thầy xét một gen có 2 alen là A lớn, A nhỏ.
+
+19
+00:02:54,000 --> 00:03:00,560
+Và nếu như cặp nhiễm sắc thể này có 3 chiếc thì sẽ tạo ra bao nhiêu loại kiểu gen?
+
+20
+00:03:00,560 --> 00:03:03,360
+Các em dễ dàng viết được đó là 3.
+
+21
+00:03:03,360 --> 00:03:14,720
+Cụ thể 3 chiếc đó có thể là 3 chiếc A lớn, hoặc là 3 chiếc A nhỏ, hoặc là 2 chiếc A lớn 1 chiếc A nhỏ, và ngược lại.
+
+22
+00:03:14,720 --> 00:03:23,600
+Và nếu như đều là 3 chiếc A lớn hoặc 3 chiếc A nhỏ thì đó là kiểu gen đồng hợp, còn trường hợp còn lại gọi là dị hợp.
+
+23
+00:03:23,600 --> 00:03:31,480
+Và mở rộng ra nếu như mà một gen có n alen thì sẽ tạo ra số loại kiểu gen là bao nhiêu?
+
+24
+00:03:31,480 --> 00:03:51,760
+Các em thấy là nếu như một gen có n alen trên nhiễm sắc thể thường thì lúc đó cặp nhiễm sắc thể này có 3 chiếc, thì số loại kiểu gen đồng hợp sẽ là n, thì cứ một alen đồng hợp thì alen đó sẽ có 3 chiếc trên nhiễm sắc thể đều mang alen này, cho nên sẽ có n trường hợp.
+
+25
+00:03:51,760 --> 00:04:06,840
+Còn kiểu gen dị hợp thì chúng ta chỉ cần chọn một alen, alen đó sẽ nằm trên 2 nhiễm sắc thể thì trên nhiễm sắc thể còn lại sẽ mang một alen khác, cho nên trên nhiễm sắc thể còn lại alen đó sẽ còn n - 1 trường hợp.
+
+26
+00:04:06,840 --> 00:04:16,640
+Các em nhân lại thì sẽ được số loại, thì các em nhân lại và cộng với kiểu gen đồng hợp thì sẽ được số loại kiểu gen là n bình phương.
+
+27
+00:04:16,640 --> 00:04:45,160
+Và nếu như n ≥ 3 thì lúc này kiểu gen dị hợp sẽ có một trường hợp nữa đó là cả 3 alen trên 3 nhiễm sắc thể đều khác nhau, thì lúc đó chúng ta sẽ cộng thêm trường hợp là tổ hợp chập 3 của n, tức là chúng ta chỉ cần chọn ngẫu nhiên không theo trật tự 3 alen trong n alen thì chúng ta sẽ được một loại kiểu gen dị hợp cả 3 alen này.
+
+28
+00:04:45,160 --> 00:04:55,320
+Cho nên nếu như mà n ≥ 3 thì số loại kiểu gen sẽ = n bình phương cộng thêm cho tổ hợp chập 3 của n.
+
+29
+00:04:55,320 --> 00:05:00,920
+Và mấy em nhớ là mình chỉ cộng cho tổ hợp chập 3 của n chỉ khi nào mà n ≥ 3.
+
+30
+00:05:01,880 --> 00:05:25,160
+Còn n = 2 hoặc là = 1, thầy mấy em nhớ luôn nếu như mà n = 2 thì số loại kiểu gen sẽ = 4, tức là chúng ta không cộng cho tổ hợp chập 3 của n bởi vì điều kiện đó là n phải ≥ 3, cho nên khi mà n = 2 thì tổ hợp chập 3 của 2 sẽ bằng 0, đúng tức là sẽ không có loại kiểu gen này.
+
+31
+00:05:26,880 --> 00:05:37,800
+Còn nếu như mà n = 1 thì số loại kiểu gen thể ba ở cặp này sẽ là chỉ có 1 mà thôi.
+
+32
+00:05:37,800 --> 00:05:44,840
+Và nếu như thầy xét thêm một gen thứ hai cũng trên cặp nhiễm sắc thể này có 2 alen là B lớn, B nhỏ.
+
+33
+00:05:44,840 --> 00:05:49,200
+Thì nếu như cặp này có 3 chiếc thì sẽ tạo ra bao nhiêu loại kiểu gen theo công thức ở trên?
+
+34
+00:05:49,200 --> 00:05:58,960
+Công thức ở trên các em nhận xét n ở đây chính là số loại giao tử được tạo ra khi cặp nhiễm sắc thể này có 2 chiếc bình thường.
+
+35
+00:05:58,960 --> 00:06:21,680
+Như vậy trên cặp nhiễm sắc thể này nếu như mà mình xét nhiều gen thì chúng ta cũng áp dụng công thức ở trên nhưng n ở đây là số loại giao tử, và số loại giao tử được tính bằng cách mấy em nhân số lượng alen của các gen nằm trên cùng một cặp nhiễm sắc thể thường lại thì sẽ ra được số loại giao tử.
+
+36
+00:06:21,680 --> 00:06:33,920
+Cụ thể trong trường hợp này khi mà xét hai gen A và B như trên màn hình mấy em thấy thì số loại giao tử tạo ra sẽ là 4 như trên màn hình mấy em thấy.
+
+37
+00:06:33,920 --> 00:06:58,480
+Cho nên mấy em lưu ý n trong công thức này đó chính là số loại giao tử được tạo ra khi mà cặp này có 2 chiếc bình thường, và số loại giao tử được tính bằng cách nhân số lượng alen của các gen lại, và em nhớ là các gen đó là nó nằm trên cùng một cặp nhiễm sắc thể thường.
+
+38
+00:06:58,480 --> 00:07:09,920
+Và khi mà chúng ta đã tính ra được số loại giao tử n thì chúng ta chỉ cần áp dụng công thức ở trên để mà ra được số loại kiểu gen.
+
+39
+00:07:09,920 --> 00:07:14,640
+Đó là công thức khi mà tính một nhiễm sắc thể nó có 3 chiếc.
+
+40
+00:07:14,640 --> 00:07:29,520
+Thể ba là một cặp có 3 chiếc còn các cặp còn lại có 2 chiếc, cho nên nếu như mà đề yêu cầu tính số loại thể ba khác nhau về kiểu gen thì lúc đó em phải tính lần lượt n cặp.
+
+41
+00:07:29,520 --> 00:07:41,720
+Nếu như mà cặp số 1 có 3 chiếc, các cặp còn lại có 2 chiếc tạo ra bao nhiêu loại kiểu gen; Cũng tương tự như vậy ở cặp số 2, ở cặp số 3 và các cặp khác tính lần lượt và mang cộng các kết quả lại.
+
+42
+00:07:41,720 --> 00:07:46,840
+Và nếu như các cặp khác có 2 chiếc thì số loại kiểu gen sẽ là bao nhiêu?
+
+43
+00:07:46,840 --> 00:07:52,000
+Bây giờ thầy sẽ hướng dẫn mấy em hình thành công thức.
+
+44
+00:07:52,000 --> 00:07:58,160
+Bây giờ thầy xét một cặp nhiễm sắc thể khác có một gen có 2 alen là D lớn và d nhỏ.
+
+45
+00:07:58,160 --> 00:08:03,400
+Và nếu như cặp này nó có 2 chiếc bình thường thì sẽ tạo ra bao nhiêu loại kiểu gen?
+
+46
+00:08:03,400 --> 00:08:05,680
+Em sẽ thấy tạo ra được 3 loại.
+
+47
+00:08:05,680 --> 00:08:14,520
+Mấy em liệt kê ra thì sẽ thấy cặp này có thể là D lớn D lớn, D nhỏ D nhỏ đó là đồng hợp, hoặc là D lớn D nhỏ đó là dị hợp.
+
+48
+00:08:14,520 --> 00:08:38,880
+Vì vậy nếu như mà một gen có n alen trên nhiễm sắc thể thường thì số loại kiểu gen tạo ra sẽ là n đó là đồng hợp, còn kiểu gen dị hợp các em thấy là mình chỉ cần chọn ngẫu nhiên 2 alen trong n alen không theo trật tự thì chúng ta sẽ được một loại kiểu dị hợp, tức là tổ hợp chập 2 của n.
+
+49
+00:08:38,880 --> 00:08:53,840
+Và em lưu ý là điều kiện ở đây là n phải ≥ 2, còn n = 1 thầy sẽ không có kiểu gen dị hợp tức là chỉ có một loại kiểu gen mà thôi khi n = 1.
+
+50
+00:08:53,840 --> 00:09:04,400
+Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến, hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.
+
+51
+00:09:04,400 --> 00:09:12,040
+Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện, cân bằng giữa học thuật và nghệ thuật thể thao.
+
+52
+00:09:12,040 --> 00:09:22,720
+Hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, thêm nguồn cảm hứng, độc lập để phát triển và hoàn thiện nhân cách.
+
+53
+00:09:22,720 --> 00:09:44,280
+Ngoài những giờ học trên lớp, học sinh Trường Quốc tế Á Châu còn được trải nghiệm, thử thách bản thân và phản biện các vấn đề để tự mình học hỏi, trưởng thành độc lập hơn.
+
+54
+00:09:44,280 --> 00:09:58,360
+Nơi đây với tôi còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.
+
+55
+00:09:58,360 --> 00:10:03,440
+Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là cuộc sống.
+
+56
+00:10:03,440 --> 00:10:18,520
+Từ môi trường giáo dục này chúng tôi đã từng tin bước tiếp và viết nên câu chuyện tương lai của chính mình.
+
+57
+00:10:25,680 --> 00:10:29,600
+Câu số 1: Một loài thực vật có bộ nhiễm sắc thể 2n = 6.
+
+58
+00:10:30,280 --> 00:10:33,840
+Trên mỗi cặp nhiễm sắc thể xét một gen có 2 alen.
+
+59
+00:10:33,840 --> 00:10:38,920
+Do đột biến trong loài đã xuất hiện 3 dạng thể ba tương ứng với các cặp nhiễm sắc thể.
+
+60
+00:10:38,920 --> 00:10:46,280
+2n = 6, n = 3 thì chúng ta sẽ có 3 cặp, cho nên sẽ có 3 dạng thể ba tương ứng với các cặp nhiễm sắc thể.
+
+61
+00:10:46,280 --> 00:10:53,200
+Theo lý thuyết, các thể ba này có tối đa bao nhiêu loại kiểu gen về các gen đang xét?
+
+62
+00:10:53,200 --> 00:11:01,280
+Bây giờ thầy ký hiệu 3 cặp nhiễm sắc thể này là 1, 2, 3 có các gen tương ứng là A, B như trên màn hình.
+
+63
+00:11:01,280 --> 00:11:10,120
+Đề bài là xuất hiện các dạng thể ba cho nên sẽ có 3 trường hợp đó là thể ba ở cặp số 1, thể ba ở cặp số 2 và thể ba ở cặp số 3.
+
+64
+00:11:10,120 --> 00:11:17,520
+Bình thường có 2 chiếc hoặc là thể ba cặp số 2 hoặc là thể ba cặp số 3 sẽ có 3 trường hợp như vậy.
+
+65
+00:11:17,520 --> 00:11:24,760
+Nếu như thể ba sẽ ra ở cặp số 1, tức là cặp số 1 này có 3 chiếc thì số loại kiểu gen sẽ là 4.
+
+66
+00:11:24,760 --> 00:11:37,040
+Giống như công thức lúc nãy thầy lưu ý giúp em cặp số 2 này có 2 chiếc thì số loại kiểu gen sẽ là 3, cặp số 3 này có 2 chiếc thì số loại kiểu gen sẽ là 3.
+
+67
+00:11:37,000 --> 00:11:48,080
+Và khi mà chúng ta xét riêng từng cặp nhiễm sắc thể thì chúng ta sẽ nhân lại để ra được kết quả của khi xét chung cả 3 cặp này, cho nên mấy em nhân lại sẽ là 36.
+
+68
+00:11:49,240 --> 00:12:03,400
+Các anh thấy rằng là 3 cặp này mỗi cặp đều mang một gen có 2 alen cho nên thể ba ở cặp số 2 và thể ba ở cặp số 3 cũng tương tự như ở cặp số 1, tức là 3 trường hợp này sẽ có kết quả như nhau.
+
+69
+00:12:03,400 --> 00:12:13,560
+Cho nên để tính các dạng thể ba tối đa về các gen đang xét thì các em chỉ cần nhân lên cho 3 thì sẽ ra được kết quả là 108.
+
+70
+00:12:14,520 --> 00:12:21,440
+Cho nên đáp số sẽ là câu D.
+
+71
+00:12:21,440 --> 00:12:28,560
+Bây giờ chúng ta xét ví dụ thứ hai: Một loài thực vật giao phấn ngẫu nhiên, xét 4 cặp gen A, B, D, E.
+
+72
+00:12:28,560 --> 00:12:35,120
+Bốn cặp gen này nằm trên 4 cặp nhiễm sắc thể, tức là phân ly độc lập với nhau.
+
+73
+00:12:35,800 --> 00:12:37,840
+Mỗi cặp gen quy định một tính trạng.
+
+74
+00:12:37,840 --> 00:12:40,240
+Alen trội là hoàn toàn.
+
+75
+00:12:40,240 --> 00:12:46,480
+Giả sử do đột biến trong loài đã xuất hiện các dạng thể ba tương ứng với các cặp nhiễm sắc thể đang xét.
+
+76
+00:12:46,480 --> 00:12:50,160
+Các thể ba đều có khả năng sống và không phát sinh các dạng đột biến khác.
+
+77
+00:12:50,160 --> 00:13:03,680
+Theo lý thuyết trong loài, các thể ba mang kiểu hình của cả 3 alen trội A lớn, B lớn, D lớn, E lớn và kiểu hình của alen lặn b nhỏ thì có tối đa bao nhiêu loại kiểu gen?
+
+78
+00:13:03,680 --> 00:13:11,560
+Bây giờ thầy viết ký hiệu của 4 cặp nhiễm sắc thể mang 4 cặp gen này như trên màn hình.
+
+79
+00:13:11,560 --> 00:13:17,200
+Và cũng tương tự thể ba thì có thể ở cặp số 1, số 2, số 3 hoặc là số 4.
+
+80
+00:13:17,200 --> 00:13:52,160
+Bây giờ nếu như thể ba ở cặp số 1 và đề yêu cầu là có kiểu hình A trội, b lặn, D trội, E trội, thầy sẽ tạo ra số loại kiểu gen là: Thể ba ở cặp số 1, tức là cặp số 1 này có 3 chiếc lúc đó sẽ tạo ra được 4 loại kiểu gen, nhưng số loại kiểu gen mang kiểu hình A trội thì mình sẽ lấy 4 trừ đi 1, đó là một loại kiểu gen mang kiểu hình A lặn tức là A nhỏ A nhỏ A nhỏ.
+
+81
+00:13:52,160 --> 00:13:55,200
+Thì lúc đó sẽ có 3 loại kiểu gen.
+
+82
+00:13:55,200 --> 00:14:04,080
+Tương tự như vậy cặp B có 2 chiếc mang kiểu hình b lặn thì chỉ có 1 loại kiểu gen là b nhỏ b nhỏ.
+
+83
+00:14:04,080 --> 00:14:46,120
+Cặp số 3 có 2 chiếc mang kiểu hình của D trội, cặp số 3 này có 2 chiếc thì sẽ tạo ra 3 loại kiểu gen, tức là 2 cộng cho tổ hợp chập 2 của 2 là 3, và chúng ta chỉ cần trừ đi trường hợp mang kiểu hình của D lặn bởi vì đề yêu cầu mình tính số loại kiểu gen của kiểu hình D trội thì trừ đi số loại kiểu gen do D lặn quy định mà thôi, lúc đó chỉ có 1 loại kiểu gen là d nhỏ d nhỏ quy định kiểu hình lặn ở gen D này, cho nên số loại kiểu gen là 2.
+
+84
+00:14:46,120 --> 00:14:48,520
+Tương tự ở E cũng là 2.
+
+85
+00:14:48,880 --> 00:14:50,320
+Nhân lại thì sẽ được 12.
+
+86
+00:14:51,680 --> 00:15:29,000
+Và mai em thấy đề yêu cầu mình tính số loại kiểu gen mang kiểu hình A trội, D trội, E trội; 3 cặp này mỗi cặp đều mang một gen có 2 alen cho nên kết quả sẽ tương tự nhau, vì vậy mà em chỉ cần nhân lên cho 3 trường hợp kế tiếp là nếu như thể ba ở cặp số 2, thể ba ở cặp số 2 tức là mang gen B lớn B nhỏ này mà đề yêu cầu mình là phải có kiểu hình b lặn, thì lúc này chỉ có 1 loại kiểu gen ở cặp số 2 này đó là b nhỏ b nhỏ b nhỏ.
+
+87
+00:15:30,560 --> 00:15:33,840
+Ở chỗ này là chỉ có 1 loại kiểu gen.
+
+88
+00:15:33,840 --> 00:15:41,360
+Ở A có 2 chiếc mang kiểu hình của A trội thì có 2 loại kiểu gen đó là A lớn A lớn và A lớn A nhỏ.
+
+89
+00:15:42,840 --> 00:15:48,880
+Thì lúc nãy thì đã phân tích cho nên nhân lại thì sẽ có 8 loại kiểu gen.
+
+90
+00:15:48,880 --> 00:15:54,120
+Cộng kết quả này lại thì sẽ được 44 và chọn đáp án đó là B.
+
+91
+00:15:54,120 --> 00:16:13,760
+Như vậy em thấy ở dạng bài tập này em chỉ cần nhớ công thức đó là nếu như một cặp nhiễm sắc thể thường có 3 chiếc thì số loại kiểu gen sẽ là n bình phương cộng cho tổ hợp chập 3 của n, và mình chỉ cộng cho tổ hợp chập 3 của n khi nào n ≥ 3.
+
+92
+00:16:15,280 --> 00:16:22,560
+Còn nếu như n = 2 thì số loại kiểu gen nếu như cặp đó có 3 chiếc sẽ là 4.
+
+93
+00:16:22,560 --> 00:16:32,880
+Nếu như mà đề yêu cầu mình tính số loại kiểu gen quy định kiểu hình trội thì mình sẽ trừ đi một của trường hợp đó là kiểu gen lặn.
+
+94
+00:16:32,880 --> 00:16:45,040
+Còn nếu như một cặp nhiễm sắc thể có 2 chiếc bình thường thì số loại kiểu gen sẽ là n cộng cho tổ hợp chập 2 của n, và điều kiện lúc đó là n ≥ 2.
+
+95
+00:16:46,240 --> 00:16:55,800
+Còn n = 1 thì chỉ tạo ra một loại kiểu gen khi mà cặp đó có 2 chiếc bình thường.
+
+96
+00:16:55,800 --> 00:17:23,560
+Đây là một số công thức trường hợp trong đề thi và mai em lưu ý là nếu như mà mình xét thể ba thì lúc đó mình sẽ xét n trường hợp khi mà tế bào, khi mà loài đó có bộ nhiễm sắc thể là 2n, và trong n trường hợp này mỗi trường hợp mình sẽ xét đó là một cặp n đó có 3 chiếc còn các cặp còn lại là có 2 chiếc bình thường.
+
+97
+00:17:23,560 --> 00:17:43,960
+Còn nếu như đề yêu cầu mình tính số loại thể tam bội khác nhau về kiểu gen thì lúc đó chúng ta sẽ áp dụng công thức tất cả các cặp đều có 3 chiếc, và chúng ta áp dụng công thức trên từng cặp đều có 3 chiếc và chúng ta nhân kết quả lại với nhau.
+
+98
+00:17:43,960 --> 00:17:50,240
+Đây là một số vấn đề thầy muốn trao đổi với mấy em trong phần bài tập dạng này.
+
+99
+00:17:50,240 --> 00:17:58,480
+Cảm ơn các em đã dành thời gian theo dõi, chúc các em luôn nhiều sức khỏe, ôn tập thật tốt và đạt kết quả cao trong kỳ thi sắp tới.
+
+100
+00:17:58,480 --> 00:18:01,880
+Chào các em.
+
+101
+00:18:01,880 --> 00:18:14,800
+Để có được thành công như hôm nay, tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình bắt đầu từ trường Đại học Quốc tế Sài Gòn (SIU).
+
+102
+00:18:14,800 --> 00:18:21,440
+Đào tạo đa dạng đa lĩnh vực, SIU mở ra cho chúng tôi nhiều cơ hội lựa chọn nghề nghiệp trong tương lai.
+
+103
+00:18:21,440 --> 00:18:25,400
+Tất cả sinh viên đều có cơ hội để thể hiện và phát triển năng lực.
+
+104
+00:18:25,400 --> 00:18:28,680
+Những ý tưởng luôn được khuyến khích và phát huy tối đa.
+
+105
+00:18:28,680 --> 00:18:34,800
+Chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin, chúng tôi được học cách học, cách nghĩ và cách sống.
+
+106
+00:18:34,800 --> 00:18:41,880
+Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.
+
+107
+00:18:41,880 --> 00:18:52,440
+Hiện đại, năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc, đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn (SIU) luôn hướng đến.
+
+108
+00:18:52,440 --> 00:18:56,800
+Đã đến lúc vươn xa hơn những gì đã học.

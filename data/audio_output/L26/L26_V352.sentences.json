@@ -1,0 +1,835 @@
+{
+  "video_id": "L26_V352",
+  "fps": 25.0,
+  "n_sentences": 48,
+  "total_words": 962,
+  "sentences": [
+    {
+      "text": "Ba món ngon mỗi ngày.",
+      "start": 0.04,
+      "end": 13.84,
+      "n_words": 5,
+      "start_frame": 1,
+      "end_frame": 346,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000130.webp",
+        "000147.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp",
+        "000309.webp",
+        "000318.webp",
+        "000319.webp"
+      ],
+      "keyframe_count": 39
+    },
+    {
+      "text": "Trời anh Vũ ơi, em đang chuẩn bị ăn một cái món rất là ngon luôn, vừa mỏng mỏng giòn giòn lại béo béo bùi nữa.",
+      "start": 13.84,
+      "end": 22.04,
+      "n_words": 26,
+      "start_frame": 346,
+      "end_frame": 551,
+      "keyframes": [
+        "000348.webp",
+        "000378.webp",
+        "000379.webp",
+        "000419.webp",
+        "000459.webp",
+        "000460.webp",
+        "000505.webp",
+        "000551.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Bắt đền anh đó, anh trả lại món ăn cho em đi.",
+      "start": 22.04,
+      "end": 24.56,
+      "n_words": 12,
+      "start_frame": 551,
+      "end_frame": 614,
+      "keyframes": [
+        "000551.webp",
+        "000552.webp",
+        "000581.webp",
+        "000610.webp",
+        "000611.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Món ăn gì?",
+      "start": 24.88,
+      "end": 25.68,
+      "n_words": 3,
+      "start_frame": 622,
+      "end_frame": 642,
+      "keyframes": [
+        "000634.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nói nghe cái.",
+      "start": 25.68,
+      "end": 26.56,
+      "n_words": 3,
+      "start_frame": 642,
+      "end_frame": 664,
+      "keyframes": [
+        "000657.webp",
+        "000658.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Món đó em chưa kịp nhìn thấy cái món đó luôn, á em chỉ thấy hình dáng nó mờ mờ là nó giống như snack nhưng nó không phải là snack thường.",
+      "start": 26.56,
+      "end": 33.64,
+      "n_words": 32,
+      "start_frame": 664,
+      "end_frame": 841,
+      "keyframes": [
+        "000738.webp",
+        "000819.webp",
+        "000820.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng, trong giấc mơ nó có sâu chuỗi câu chuyện, nhiều lúc nó vô lý lắm đúng không?",
+      "start": 33.64,
+      "end": 38.16,
+      "n_words": 18,
+      "start_frame": 841,
+      "end_frame": 954,
+      "keyframes": [
+        "000853.webp",
+        "000887.webp",
+        "000888.webp",
+        "000918.webp",
+        "000949.webp",
+        "000950.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Mà cái món này công nhận lạ thiệt, nhưng mà em biết là sẽ không làm khó được anh Vũ đâu đúng không?",
+      "start": 38.16,
+      "end": 42.8,
+      "n_words": 23,
+      "start_frame": 954,
+      "end_frame": 1070,
+      "keyframes": [
+        "000977.webp",
+        "001005.webp",
+        "001006.webp",
+        "001035.webp",
+        "001065.webp",
+        "001066.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Với một nguyên liệu quen thuộc thôi nhưng mà anh sẽ cố gắng chế biến ra một món ăn như món trong mơ của em luôn.",
+      "start": 42.8,
+      "end": 48.72,
+      "n_words": 26,
+      "start_frame": 1070,
+      "end_frame": 1218,
+      "keyframes": [
+        "001131.webp",
+        "001197.webp",
+        "001198.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Háo hức quá, mình vào bếp luôn nha anh.",
+      "start": 48.72,
+      "end": 50.32,
+      "n_words": 9,
+      "start_frame": 1218,
+      "end_frame": 1258,
+      "keyframes": [
+        "001235.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rồi, mời em: Ba rọi tẩm trứng chiên giòn.",
+      "start": 50.32,
+      "end": 54.96,
+      "n_words": 9,
+      "start_frame": 1258,
+      "end_frame": 1374,
+      "keyframes": [
+        "001273.webp",
+        "001274.webp",
+        "001298.webp",
+        "001323.webp",
+        "001324.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Làm cực dễ, vị cực ngon. Chào các bạn khán giả đang xem chương trình Món ngon mỗi ngày.",
+      "start": 54.96,
+      "end": 75.92,
+      "n_words": 19,
+      "start_frame": 1374,
+      "end_frame": 1898,
+      "keyframes": [
+        "001378.webp",
+        "001432.webp",
+        "001433.webp",
+        "001473.webp",
+        "001513.webp",
+        "001528.webp",
+        "001592.webp",
+        "001656.webp",
+        "001657.webp",
+        "001743.webp",
+        "001830.webp",
+        "001831.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 75.92,
+      "end": 79.68,
+      "n_words": 11,
+      "start_frame": 1898,
+      "end_frame": 1992,
+      "keyframes": [
+        "001914.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và thưa bạn, nguyên liệu quen thuộc của chúng ta đó là một miếng thịt ba rọi.",
+      "start": 79.68,
+      "end": 83.8,
+      "n_words": 17,
+      "start_frame": 1992,
+      "end_frame": 2095,
+      "keyframes": [
+        "001997.webp",
+        "001998.webp",
+        "002015.webp",
+        "002032.webp",
+        "002033.webp",
+        "002055.webp",
+        "002078.webp",
+        "002079.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Thưa các bạn, đối với món này thì chúng ta nên chọn miếng thịt ba chỉ có bản dày để khi chúng ta cắt lát định hình sẽ đẹp hơn nha các bạn.",
+      "start": 83.8,
+      "end": 92.24,
+      "n_words": 33,
+      "start_frame": 2095,
+      "end_frame": 2306,
+      "keyframes": [
+        "002101.webp",
+        "002124.webp",
+        "002125.webp",
+        "002210.webp",
+        "002296.webp",
+        "002297.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta cắt đôi, sau đó chúng ta cắt bỏ da, tiếp chúng ta sẽ cắt ra thành những lát mỏng.",
+      "start": 92.24,
+      "end": 98.24,
+      "n_words": 21,
+      "start_frame": 2306,
+      "end_frame": 2456,
+      "keyframes": [
+        "002313.webp",
+        "002330.webp",
+        "002331.webp",
+        "002358.webp",
+        "002386.webp",
+        "002387.webp",
+        "002429.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Như vậy chúng ta nên cắt đông miếng thịt ba chỉ này để chúng ta dễ dàng cắt ra thành từng lát, từng lát mỏng hơn.",
+      "start": 98.24,
+      "end": 104.16,
+      "n_words": 26,
+      "start_frame": 2456,
+      "end_frame": 2604,
+      "keyframes": [
+        "002472.webp",
+        "002473.webp",
+        "002537.webp",
+        "002602.webp",
+        "002603.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Mỏng như vậy quá đẹp luôn.",
+      "start": 104.16,
+      "end": 107.6,
+      "n_words": 6,
+      "start_frame": 2604,
+      "end_frame": 2690,
+      "keyframes": [
+        "002622.webp",
+        "002642.webp",
+        "002643.webp",
+        "002666.webp",
+        "002689.webp",
+        "002690.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta làm tương tự như vậy luôn, cắt bỏ da.",
+      "start": 107.6,
+      "end": 110.32,
+      "n_words": 11,
+      "start_frame": 2690,
+      "end_frame": 2758,
+      "keyframes": [
+        "002690.webp",
+        "002726.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thưa các bạn, đối với món này thì chúng ta nên làm bỏ da như vậy miếng thịt sau khi chiên sẽ giòn hơn và ngon hơn rất là nhiều.",
+      "start": 110.32,
+      "end": 116.76,
+      "n_words": 30,
+      "start_frame": 2758,
+      "end_frame": 2919,
+      "keyframes": [
+        "002762.webp",
+        "002763.webp",
+        "002792.webp",
+        "002821.webp",
+        "002822.webp",
+        "002844.webp",
+        "002866.webp",
+        "002867.webp",
+        "002892.webp",
+        "002918.webp",
+        "002919.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Rồi bây giờ để tiết kiệm thời gian, chúng ta sẽ bật lên một cái chảo dầu, sẽ đập khoảng hai quả trứng các bạn nha, đánh trứng cho nó tan ra rồi xong như vậy.",
+      "start": 116.76,
+      "end": 127.12,
+      "n_words": 36,
+      "start_frame": 2919,
+      "end_frame": 3178,
+      "keyframes": [
+        "002919.webp",
+        "002938.webp",
+        "002958.webp",
+        "002959.webp",
+        "002982.webp",
+        "003005.webp",
+        "003006.webp",
+        "003041.webp",
+        "003076.webp",
+        "003077.webp",
+        "003106.webp",
+        "003136.webp",
+        "003137.webp",
+        "003156.webp",
+        "003176.webp",
+        "003177.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Một cái gia vị để giúp cho món ăn chúng ta có độ giòn đó là gia vị Ajinomoto bột tẩm khô chiên giòn.",
+      "start": 127.12,
+      "end": 132.96,
+      "n_words": 24,
+      "start_frame": 3178,
+      "end_frame": 3324,
+      "keyframes": [
+        "003241.webp",
+        "003306.webp",
+        "003307.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta cho vào đây một cái tô riêng nha, tẩm qua trứng nè, tẩm qua đây, dầu dừa nóng ha, thả lên đó như vậy mình tẩm qua vậy cho nó nhanh đó.",
+      "start": 132.96,
+      "end": 150.44,
+      "n_words": 34,
+      "start_frame": 3324,
+      "end_frame": 3761,
+      "keyframes": [
+        "003330.webp",
+        "003354.webp",
+        "003355.webp",
+        "003372.webp",
+        "003389.webp",
+        "003390.webp",
+        "003412.webp",
+        "003435.webp",
+        "003436.webp",
+        "003454.webp",
+        "003472.webp",
+        "003473.webp",
+        "003511.webp",
+        "003550.webp",
+        "003551.webp",
+        "003587.webp",
+        "003623.webp",
+        "003624.webp",
+        "003649.webp",
+        "003674.webp",
+        "003675.webp",
+        "003701.webp",
+        "003727.webp",
+        "003728.webp",
+        "003754.webp"
+      ],
+      "keyframe_count": 25
+    },
+    {
+      "text": "Lật qua lật lại thấy vàng lấy ra nha.",
+      "start": 150.44,
+      "end": 155.68,
+      "n_words": 9,
+      "start_frame": 3761,
+      "end_frame": 3892,
+      "keyframes": [
+        "003780.webp",
+        "003781.webp",
+        "003798.webp",
+        "003816.webp",
+        "003817.webp",
+        "003854.webp",
+        "003891.webp",
+        "003892.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Cái miếng thịt của chúng ta là mỏng nè đó, còn cái lớp vỏ rất là giòn nữa.",
+      "start": 155.68,
+      "end": 160.0,
+      "n_words": 18,
+      "start_frame": 3892,
+      "end_frame": 4000,
+      "keyframes": [
+        "003892.webp",
+        "003917.webp",
+        "003943.webp",
+        "003944.webp",
+        "003971.webp",
+        "003998.webp",
+        "003999.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Và thưa bạn, đối với công thức này thì chúng ta có thể ứng dụng với thịt gà và lưu ý đừng áp dụng với thịt bò nha các bạn.",
+      "start": 160.0,
+      "end": 165.68,
+      "n_words": 30,
+      "start_frame": 4000,
+      "end_frame": 4142,
+      "keyframes": [
+        "004044.webp",
+        "004089.webp",
+        "004090.webp",
+        "004128.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Trời ơi anh ơi cái mùi này, cái mùi này ở trong giấc mơ của em đây rồi, cái mùi đúng rồi anh ơi.",
+      "start": 165.68,
+      "end": 173.12,
+      "n_words": 24,
+      "start_frame": 4142,
+      "end_frame": 4328,
+      "keyframes": [
+        "004167.webp",
+        "004168.webp",
+        "004236.webp",
+        "004305.webp",
+        "004306.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nó chín rồi, em phải thử một miếng mới được. Đó, được đó!",
+      "start": 173.12,
+      "end": 175.92,
+      "n_words": 13,
+      "start_frame": 4328,
+      "end_frame": 4398,
+      "keyframes": [
+        "004342.webp",
+        "004379.webp",
+        "004380.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi bây giờ chúng ta sẽ đẹp rồi đó là đây rồi.",
+      "start": 175.92,
+      "end": 182.08,
+      "n_words": 12,
+      "start_frame": 4398,
+      "end_frame": 4552,
+      "keyframes": [
+        "004432.webp",
+        "004484.webp",
+        "004485.webp",
+        "004522.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ thì chúng ta đã có ngay một dĩa thịt ba rọi chiên giòn rất là thơm.",
+      "start": 182.08,
+      "end": 186.8,
+      "n_words": 18,
+      "start_frame": 4552,
+      "end_frame": 4670,
+      "keyframes": [
+        "004559.webp",
+        "004560.webp",
+        "004615.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Có thơm hay không thì em phải ăn một miếng thì mới biết được đó nha.",
+      "start": 186.8,
+      "end": 191.12,
+      "n_words": 16,
+      "start_frame": 4670,
+      "end_frame": 4778,
+      "keyframes": [
+        "004671.webp",
+        "004672.webp",
+        "004711.webp",
+        "004751.webp",
+        "004752.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Trời ơi công nhận luôn anh, cái miếng thịt nó rất là giòn mà nó có vị béo béo của mỡ nữa.",
+      "start": 191.12,
+      "end": 199.8,
+      "n_words": 22,
+      "start_frame": 4778,
+      "end_frame": 4995,
+      "keyframes": [
+        "004804.webp",
+        "004857.webp",
+        "004858.webp",
+        "004876.webp",
+        "004895.webp",
+        "004896.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Nhưng trong cảm nhận của em vẫn còn thiếu một cái vị béo béo thanh thanh chua chua.",
+      "start": 199.8,
+      "end": 204.6,
+      "n_words": 18,
+      "start_frame": 4995,
+      "end_frame": 5115,
+      "keyframes": [
+        "005005.webp",
+        "005114.webp",
+        "005115.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đối với món chiên giòn giòn như vậy thì chúng ta phải cần cái gì đó nó béo béo nó ướt át ở bên ngoài nữa.",
+      "start": 204.6,
+      "end": 210.2,
+      "n_words": 26,
+      "start_frame": 5115,
+      "end_frame": 5255,
+      "keyframes": [
+        "005115.webp",
+        "005169.webp",
+        "005223.webp",
+        "005224.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Dạ vâng, chúng ta mới nhân đôi lên sự hấp dẫn đúng không nào?",
+      "start": 210.2,
+      "end": 213.44,
+      "n_words": 14,
+      "start_frame": 5255,
+      "end_frame": 5336,
+      "keyframes": [
+        "005280.webp",
+        "005336.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúng ta cho vào đây ba muỗng canh sốt mayonnaise, vô một muỗng cà phê muối tạt vàng cho đây, một muỗng cà phê tỏi lý băm, chút xíu cay, một phần ba muỗng cà phê tiêu trắng xay nha các bạn.",
+      "start": 213.44,
+      "end": 224.56,
+      "n_words": 42,
+      "start_frame": 5336,
+      "end_frame": 5614,
+      "keyframes": [
+        "005336.webp",
+        "005337.webp",
+        "005375.webp",
+        "005414.webp",
+        "005415.webp",
+        "005443.webp",
+        "005471.webp",
+        "005472.webp",
+        "005496.webp",
+        "005521.webp",
+        "005522.webp",
+        "005578.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "À đơn giản thôi, phải đảo lên, chúng ta mới hoàn thành nha các bạn.",
+      "start": 224.56,
+      "end": 228.44,
+      "n_words": 15,
+      "start_frame": 5614,
+      "end_frame": 5711,
+      "keyframes": [
+        "005634.webp",
+        "005635.webp",
+        "005673.webp",
+        "005711.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ chúng ta hãy cùng ra món, xem món ăn chúng ta trình bày nó đẹp như thế nào nha.",
+      "start": 228.44,
+      "end": 234.92,
+      "n_words": 21,
+      "start_frame": 5711,
+      "end_frame": 5873,
+      "keyframes": [
+        "005711.webp",
+        "005712.webp",
+        "005765.webp",
+        "005818.webp",
+        "005819.webp",
+        "005843.webp",
+        "005868.webp",
+        "005869.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Có món có cái màu vàng vàng nâu nâu thì chúng ta dùng cái dụng cụ bằng gỗ cũng nâu nâu vàng vàng, thấy món ăn nó ấm áp hơn, thấy nó nóng nó giòn hơn.",
+      "start": 234.92,
+      "end": 244.76,
+      "n_words": 36,
+      "start_frame": 5873,
+      "end_frame": 6119,
+      "keyframes": [
+        "005990.webp",
+        "006112.webp",
+        "006113.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi đơn giản vậy thôi, thêm một lá xanh tạo sự tươi mát cho món ăn của mình, thế là chúng ta đã hoàn thành xong món thịt ba rọi tẩm trứng chiên giòn.",
+      "start": 244.76,
+      "end": 254.76,
+      "n_words": 34,
+      "start_frame": 6119,
+      "end_frame": 6369,
+      "keyframes": [
+        "006135.webp",
+        "006157.webp",
+        "006158.webp",
+        "006201.webp",
+        "006244.webp",
+        "006245.webp",
+        "006298.webp",
+        "006351.webp",
+        "006352.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Món này vừa ăn mà vừa coi phim thì là đúng bài luôn tất cả mọi người ơi.",
+      "start": 254.76,
+      "end": 259.52,
+      "n_words": 18,
+      "start_frame": 6369,
+      "end_frame": 6488,
+      "keyframes": [
+        "006463.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nhưng vẫn còn thiếu một cái gì đó kết hợp với nó đúng không?",
+      "start": 259.52,
+      "end": 263.12,
+      "n_words": 14,
+      "start_frame": 6488,
+      "end_frame": 6578,
+      "keyframes": [
+        "006575.webp",
+        "006576.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thưa các bạn, đối với món ba rọi tẩm trứng chiên giòn này chúng ta nên kết hợp cùng với lại xà lách, rau mần là tuyệt vời luôn các bạn à.",
+      "start": 263.12,
+      "end": 270.72,
+      "n_words": 32,
+      "start_frame": 6578,
+      "end_frame": 6768,
+      "keyframes": [
+        "006669.webp",
+        "006762.webp",
+        "006763.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Giòn tan trong miệng lại thơm ngon đậm đà, miếng thịt cuốn trứng béo béo thơm, quyện với một chút cay nhẹ chua chua của sốt khiến bạn mê mẩn chẳng muốn ngưng.",
+      "start": 270.72,
+      "end": 281.0,
+      "n_words": 33,
+      "start_frame": 6768,
+      "end_frame": 7025,
+      "keyframes": [
+        "006788.webp",
+        "006814.webp",
+        "006829.webp",
+        "006866.webp",
+        "006903.webp",
+        "006904.webp",
+        "006964.webp",
+        "007024.webp",
+        "007025.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Tuyệt đỉnh công phu các bạn ơi!",
+      "start": 281.0,
+      "end": 282.56,
+      "n_words": 7,
+      "start_frame": 7025,
+      "end_frame": 7064,
+      "keyframes": [
+        "007025.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bất cứ ai là fan của món ăn vặt giòn tan thì không thể bỏ qua món ăn rất dễ làm như thế này nha các bạn.",
+      "start": 282.56,
+      "end": 288.48,
+      "n_words": 27,
+      "start_frame": 7064,
+      "end_frame": 7212,
+      "keyframes": [
+        "007112.webp",
+        "007200.webp",
+        "007201.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chưa nhớ công thức hãy truy cập vào YouTube, website và fanpage của chương trình.",
+      "start": 288.48,
+      "end": 292.64,
+      "n_words": 15,
+      "start_frame": 7212,
+      "end_frame": 7316,
+      "keyframes": [
+        "007220.webp",
+        "007239.webp",
+        "007240.webp",
+        "007269.webp",
+        "007298.webp",
+        "007299.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Còn ngay bây giờ, Hakota và anh Vũ xin chào và hẹn gặp lại.",
+      "start": 292.64,
+      "end": 296.88,
+      "n_words": 14,
+      "start_frame": 7316,
+      "end_frame": 7422,
+      "keyframes": [
+        "007355.webp",
+        "007411.webp",
+        "007412.webp"
+      ],
+      "keyframe_count": 3
+    }
+  ]
+}

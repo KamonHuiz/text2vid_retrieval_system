@@ -1,0 +1,630 @@
+{
+  "video_id": "L26_V079",
+  "fps": 25.0,
+  "n_sentences": 35,
+  "total_words": 889,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.48,
+      "end": 12.08,
+      "n_words": 4,
+      "start_frame": 262,
+      "end_frame": 302,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bánh sô cô la mứt cam mềm, sốt ngọt, thơm beo béo lạ miệng.",
+      "start": 12.08,
+      "end": 38.12,
+      "n_words": 14,
+      "start_frame": 302,
+      "end_frame": 953,
+      "keyframes": [
+        "000371.webp",
+        "000442.webp",
+        "000443.webp",
+        "000558.webp",
+        "000673.webp",
+        "000688.webp",
+        "000732.webp",
+        "000776.webp",
+        "000777.webp",
+        "000867.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Rất vui được gặp lại các bạn khán giả đang đến với chương trình Món ngon mỗi ngày.",
+      "start": 38.12,
+      "end": 42.88,
+      "n_words": 18,
+      "start_frame": 953,
+      "end_frame": 1072,
+      "keyframes": [
+        "000957.webp",
+        "000958.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nấu chuẩn ăn lành. Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 42.88,
+      "end": 49.08,
+      "n_words": 15,
+      "start_frame": 1072,
+      "end_frame": 1227,
+      "keyframes": [
+        "001094.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Kim Thảo đang định hỏi Phước Hưng là hôm nay hướng dẫn cho Kim Thảo và khán giả món nước cam hay sao mà không nhìn thấy một nguyên liệu nào ở trên bàn luôn?",
+      "start": 49.08,
+      "end": 57.92,
+      "n_words": 35,
+      "start_frame": 1227,
+      "end_frame": 1448,
+      "keyframes": [
+        "001231.webp",
+        "001232.webp",
+        "001255.webp",
+        "001278.webp",
+        "001279.webp",
+        "001321.webp",
+        "001363.webp",
+        "001364.webp",
+        "001413.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Món ăn ngày hôm nay rất là đơn giản, rất là đơn giản thôi, đó là món bánh cake sô cô la mứt cam.",
+      "start": 57.92,
+      "end": 63.68,
+      "n_words": 24,
+      "start_frame": 1448,
+      "end_frame": 1592,
+      "keyframes": [
+        "001463.webp",
+        "001464.webp",
+        "001528.webp",
+        "001592.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Phước Hưng sẽ sử dụng hai quả cam, phần vỏ mài thì chúng ta sử dụng nửa vỏ thôi, nhờ Kim Thảo mài nhuyễn ra để chúng ta trộn vào bột.",
+      "start": 63.68,
+      "end": 74.36,
+      "n_words": 31,
+      "start_frame": 1592,
+      "end_frame": 1859,
+      "keyframes": [
+        "001592.webp",
+        "001593.webp",
+        "001617.webp",
+        "001641.webp",
+        "001642.webp",
+        "001681.webp",
+        "001720.webp",
+        "001721.webp",
+        "001740.webp",
+        "001759.webp",
+        "001760.webp",
+        "001785.webp",
+        "001811.webp",
+        "001812.webp",
+        "001837.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Phước Hưng sẽ đặt lên trên bếp một cái chảo nước để chúng ta chần sơ qua phần vỏ cam.",
+      "start": 74.36,
+      "end": 79.36,
+      "n_words": 20,
+      "start_frame": 1859,
+      "end_frame": 1984,
+      "keyframes": [
+        "001862.webp",
+        "001863.webp",
+        "001897.webp",
+        "001931.webp",
+        "001932.webp",
+        "001959.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sẽ lấy hết cái phần vỏ cam, chúng ta cắt sợi để chúng ta đi sên làm mứt cam.",
+      "start": 79.36,
+      "end": 85.04,
+      "n_words": 19,
+      "start_frame": 1984,
+      "end_frame": 2126,
+      "keyframes": [
+        "001986.webp",
+        "001987.webp",
+        "002107.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Là một loại trái cây rất là bổ dưỡng, có nhiều vitamin C nè, nhiều canxi đồng thời là một số những khoáng chất rất là tốt cho sức khỏe.",
+      "start": 85.04,
+      "end": 93.44,
+      "n_words": 30,
+      "start_frame": 2126,
+      "end_frame": 2336,
+      "keyframes": [
+        "002227.webp",
+        "002228.webp",
+        "002303.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Sau khi mà quý vị chúng ta đã lấy hết cái phần vỏ cam rồi thì bây giờ chúng ta sẽ sử dụng bột trái.",
+      "start": 93.44,
+      "end": 99.32,
+      "n_words": 25,
+      "start_frame": 2336,
+      "end_frame": 2483,
+      "keyframes": [
+        "002378.webp",
+        "002379.webp",
+        "002423.webp",
+        "002467.webp",
+        "002468.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Phước Hưng sẽ hướng dẫn cho quý vị chúng ta sẽ cắt cái phần vỏ cam ra thành từng sợi nhuyễn và lần lượt như vậy, Phước Hưng sẽ cắt hết cái phần cam luôn.",
+      "start": 99.32,
+      "end": 111.12,
+      "n_words": 35,
+      "start_frame": 2483,
+      "end_frame": 2778,
+      "keyframes": [
+        "002525.webp",
+        "002582.webp",
+        "002583.webp",
+        "002634.webp",
+        "002686.webp",
+        "002687.webp",
+        "002734.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Chúng ta sẽ lạng bỏ bớt phần trắng của vỏ cam giúp cho mứt cam khi làm sẽ thơm ngon hơn.",
+      "start": 111.12,
+      "end": 116.56,
+      "n_words": 21,
+      "start_frame": 2778,
+      "end_frame": 2914,
+      "keyframes": [
+        "002782.webp",
+        "002783.webp",
+        "002807.webp",
+        "002832.webp",
+        "002833.webp",
+        "002873.webp",
+        "002913.webp",
+        "002914.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Bây giờ thì phần nước cũng đã sôi rồi, Phước Hưng sẽ cho cái phần vỏ cam mà chúng ta đã tách sợi vào, chúng ta sẽ trần vỏ cam trước khi sên đường giúp cho vỏ cam bớt đắng.",
+      "start": 116.56,
+      "end": 126.04,
+      "n_words": 40,
+      "start_frame": 2914,
+      "end_frame": 3151,
+      "keyframes": [
+        "002914.webp",
+        "002962.webp",
+        "003010.webp",
+        "003011.webp",
+        "003049.webp",
+        "003087.webp",
+        "003088.webp",
+        "003118.webp",
+        "003149.webp",
+        "003150.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Rồi bây giờ Phước Hưng sẽ vớt ra, chúng ta sẽ để cho thật ráo.",
+      "start": 126.04,
+      "end": 129.76,
+      "n_words": 15,
+      "start_frame": 3151,
+      "end_frame": 3244,
+      "keyframes": [
+        "003200.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Phước Hưng sẽ đặt lên trên bếp một cái chảo nhỏ để chúng ta sên phần vỏ cam, sẽ cho vào đây bốn muỗng canh đường, nửa muỗng canh nước cốt chanh, trộn đều nước cốt chanh và đường cho nó thấm với cái phần vỏ cam.",
+      "start": 129.76,
+      "end": 142.68,
+      "n_words": 47,
+      "start_frame": 3244,
+      "end_frame": 3567,
+      "keyframes": [
+        "003250.webp",
+        "003251.webp",
+        "003273.webp",
+        "003295.webp",
+        "003296.webp",
+        "003320.webp",
+        "003344.webp",
+        "003345.webp",
+        "003365.webp",
+        "003386.webp",
+        "003387.webp",
+        "003401.webp",
+        "003415.webp",
+        "003416.webp",
+        "003438.webp",
+        "003461.webp",
+        "003462.webp",
+        "003515.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Trong khi chúng ta đang đợi sên phần vỏ cam thì Phước Hưng sẽ hướng dẫn cho quý vị chúng ta sẽ pha bột ở đây.",
+      "start": 142.68,
+      "end": 148.72,
+      "n_words": 26,
+      "start_frame": 3567,
+      "end_frame": 3718,
+      "keyframes": [
+        "003568.webp",
+        "003569.webp",
+        "003597.webp",
+        "003626.webp",
+        "003627.webp",
+        "003666.webp",
+        "003706.webp",
+        "003707.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Phước Hưng sẽ sử dụng một gói bột bánh rán pha sẵn vị sô cô la, cho vào đây nước của một quả cam và chúng ta cho thêm nước lọc cho đúng với tỷ lệ trên bao bì.",
+      "start": 148.72,
+      "end": 165.2,
+      "n_words": 39,
+      "start_frame": 3718,
+      "end_frame": 4130,
+      "keyframes": [
+        "003761.webp",
+        "003815.webp",
+        "003816.webp",
+        "003864.webp",
+        "003912.webp",
+        "003913.webp",
+        "003952.webp",
+        "003991.webp",
+        "003992.webp",
+        "004016.webp",
+        "004041.webp",
+        "004042.webp",
+        "004087.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Phước Hưng ơi làm sao mà Kim Thảo biết là mứt cam đã vừa?",
+      "start": 165.2,
+      "end": 168.32,
+      "n_words": 14,
+      "start_frame": 4130,
+      "end_frame": 4208,
+      "keyframes": [
+        "004133.webp",
+        "004134.webp",
+        "004178.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Được rồi, đến khi nào mà khô lại, đường bám trên cái miếng cam có một cái lớp đường trắng đó là được rồi.",
+      "start": 168.32,
+      "end": 175.48,
+      "n_words": 24,
+      "start_frame": 4208,
+      "end_frame": 4387,
+      "keyframes": [
+        "004222.webp",
+        "004223.webp",
+        "004306.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cho vào, cho vào đây một muỗng canh vỏ cam mài lúc ban đầu, chúng ta sẽ trộn đều lên.",
+      "start": 175.48,
+      "end": 183.8,
+      "n_words": 20,
+      "start_frame": 4387,
+      "end_frame": 4595,
+      "keyframes": [
+        "004389.webp",
+        "004390.webp",
+        "004443.webp",
+        "004496.webp",
+        "004497.webp",
+        "004548.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Phần sên mứt cam cũng đã được rồi, bây giờ chúng ta sẽ để phần mứt cam này cho thật là nguội.",
+      "start": 183.8,
+      "end": 188.92,
+      "n_words": 22,
+      "start_frame": 4595,
+      "end_frame": 4723,
+      "keyframes": [
+        "004599.webp",
+        "004600.webp",
+        "004634.webp",
+        "004668.webp",
+        "004669.webp",
+        "004691.webp",
+        "004714.webp",
+        "004715.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Tiếp theo sẽ đặt lên trên bếp để chúng ta rán bánh.",
+      "start": 188.92,
+      "end": 191.4,
+      "n_words": 12,
+      "start_frame": 4723,
+      "end_frame": 4785,
+      "keyframes": [
+        "004749.webp",
+        "004784.webp",
+        "004785.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Phần chảo cũng đã nóng rồi, chúng ta sẽ hạ nhiệt bằng cái khăn ẩm ướt để khi đổ bánh thì bánh có màu sắc đẹp hơn và bây giờ chúng ta sẽ đổ bánh.",
+      "start": 191.4,
+      "end": 208.52,
+      "n_words": 35,
+      "start_frame": 4785,
+      "end_frame": 5213,
+      "keyframes": [
+        "004785.webp",
+        "004833.webp",
+        "004882.webp",
+        "004883.webp",
+        "004920.webp",
+        "004957.webp",
+        "004958.webp",
+        "005052.webp",
+        "005146.webp",
+        "005147.webp",
+        "005183.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Bây giờ Phước Hưng sẽ trở mặt bánh nè, rồi bây giờ chúng ta sẽ lấy bánh ra.",
+      "start": 208.52,
+      "end": 229.92,
+      "n_words": 18,
+      "start_frame": 5213,
+      "end_frame": 5748,
+      "keyframes": [
+        "005220.webp",
+        "005221.webp",
+        "005263.webp",
+        "005306.webp",
+        "005307.webp",
+        "005354.webp",
+        "005402.webp",
+        "005403.webp",
+        "005419.webp",
+        "005436.webp",
+        "005437.webp",
+        "005540.webp",
+        "005643.webp",
+        "005644.webp",
+        "005694.webp",
+        "005744.webp",
+        "005745.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Rồi bây giờ Phước Hưng sẽ trở bánh rồi bây giờ Hưng sẽ lấy bánh ra.",
+      "start": 229.92,
+      "end": 239.48,
+      "n_words": 16,
+      "start_frame": 5748,
+      "end_frame": 5987,
+      "keyframes": [
+        "005836.webp",
+        "005927.webp",
+        "005928.webp",
+        "005958.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Với món bánh cake thì chương trình Món ngon mỗi ngày đã chia sẻ cho tất cả quý vị rất là nhiều những công thức khác nhau rồi đúng không ạ?",
+      "start": 239.48,
+      "end": 245.52,
+      "n_words": 31,
+      "start_frame": 5987,
+      "end_frame": 6138,
+      "keyframes": [
+        "005989.webp",
+        "005990.webp",
+        "006063.webp",
+        "006136.webp",
+        "006137.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cho nên là ngày hôm nay hãy lưu lại mã QR của chúng tôi để biết thêm một sự sáng tạo với món bánh cake ngon nữa ạ.",
+      "start": 245.52,
+      "end": 254.28,
+      "n_words": 28,
+      "start_frame": 6138,
+      "end_frame": 6357,
+      "keyframes": [
+        "006223.webp",
+        "006309.webp",
+        "006310.webp",
+        "006334.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Sẽ đặt một miếng lên bên trên trước, chúng ta sẽ sử dụng kem tươi riêng và chúng ta đã để tủ lạnh rồi, chúng ta cho lên.",
+      "start": 254.28,
+      "end": 261.76,
+      "n_words": 28,
+      "start_frame": 6357,
+      "end_frame": 6544,
+      "keyframes": [
+        "006359.webp",
+        "006360.webp",
+        "006401.webp",
+        "006443.webp",
+        "006444.webp",
+        "006493.webp",
+        "006542.webp",
+        "006543.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Sẽ dùng cái phần thịt cam chúng ta sẽ cho vào xung quanh.",
+      "start": 261.76,
+      "end": 267.6,
+      "n_words": 13,
+      "start_frame": 6544,
+      "end_frame": 6690,
+      "keyframes": [
+        "006581.webp",
+        "006620.webp",
+        "006621.webp",
+        "006658.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Tiếp theo Phước Hưng sẽ lấy thêm một cái bánh rán nữa, chúng ta để lên bên trên, cho lên bên trên một ít kem và chúng ta sẽ điểm thêm vài miếng cam bên trên, cho lên mứt cam vậy là bây giờ món bánh cake sô cô la mứt cam của chúng ta đã hoàn tất rồi.",
+      "start": 267.6,
+      "end": 285.44,
+      "n_words": 59,
+      "start_frame": 6690,
+      "end_frame": 7136,
+      "keyframes": [
+        "006695.webp",
+        "006696.webp",
+        "006747.webp",
+        "006798.webp",
+        "006799.webp",
+        "006827.webp",
+        "006855.webp",
+        "006856.webp",
+        "006886.webp",
+        "006917.webp",
+        "006918.webp",
+        "006949.webp",
+        "006981.webp",
+        "006982.webp",
+        "007008.webp",
+        "007034.webp",
+        "007035.webp",
+        "007071.webp",
+        "007107.webp",
+        "007108.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Để tạo nên một bữa ăn đầy dinh dưỡng thì chúng ta có thể kết hợp với món trà sữa hạt é sương sâm cũng sẽ rất là tuyệt vời.",
+      "start": 285.44,
+      "end": 293.52,
+      "n_words": 30,
+      "start_frame": 7136,
+      "end_frame": 7338,
+      "keyframes": [
+        "007209.webp",
+        "007311.webp",
+        "007312.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bánh rán xốp mềm đi cùng với hương thơm hài hòa của sô cô la và cam vị beo béo, ngon ngọt, chua nhẹ tan trên đầu lưỡi rất cuốn hút.",
+      "start": 293.52,
+      "end": 303.6,
+      "n_words": 31,
+      "start_frame": 7338,
+      "end_frame": 7590,
+      "keyframes": [
+        "007386.webp",
+        "007460.webp",
+        "007461.webp",
+        "007528.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Hãy đổi vị với món bánh cake sô cô la mứt cam, chắc chắn là cả nhà của chúng ta sẽ rất thích.",
+      "start": 303.6,
+      "end": 309.68,
+      "n_words": 23,
+      "start_frame": 7590,
+      "end_frame": 7742,
+      "keyframes": [
+        "007596.webp",
+        "007597.webp",
+        "007669.webp",
+        "007742.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và để xem lại những sự sáng tạo về món bánh cake, xin hãy truy cập vào YouTube, website, fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 309.68,
+      "end": 318.36,
+      "n_words": 27,
+      "start_frame": 7742,
+      "end_frame": 7959,
+      "keyframes": [
+        "007742.webp",
+        "007743.webp",
+        "007845.webp",
+        "007948.webp",
+        "007949.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

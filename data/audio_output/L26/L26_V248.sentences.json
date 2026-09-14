@@ -1,0 +1,795 @@
+{
+  "video_id": "L26_V248",
+  "fps": 25.0,
+  "n_sentences": 44,
+  "total_words": 1021,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.56,
+      "end": 12.2,
+      "n_words": 4,
+      "start_frame": 264,
+      "end_frame": 305,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Hơi tây bưng dĩa bánh gà là bánh gà dâu cha cái mà dâu mẹ ăn cho đã thèm là thèm y bánh gà thì ngon lắm mà bánh gà đâu em ăn hết rồi tại nó ngon cô nên là em mới đem một cái phần gọi là thịt gà em nhờ siêu đầu bếp chế biến cho em lại một món bánh gà khác.",
+      "start": 12.2,
+      "end": 32.56,
+      "n_words": 66,
+      "start_frame": 305,
+      "end_frame": 814,
+      "keyframes": [
+        "000330.webp",
+        "000360.webp",
+        "000361.webp",
+        "000444.webp",
+        "000528.webp",
+        "000529.webp",
+        "000549.webp",
+        "000570.webp",
+        "000571.webp",
+        "000584.webp",
+        "000597.webp",
+        "000598.webp",
+        "000607.webp",
+        "000617.webp",
+        "000618.webp",
+        "000641.webp",
+        "000665.webp",
+        "000666.webp",
+        "000725.webp",
+        "000785.webp",
+        "000786.webp",
+        "000807.webp"
+      ],
+      "keyframe_count": 22
+    },
+    {
+      "text": "Ức gà xay rồi đúng không dạ?",
+      "start": 32.56,
+      "end": 34.52,
+      "n_words": 7,
+      "start_frame": 814,
+      "end_frame": 863,
+      "keyframes": [
+        "000828.webp",
+        "000829.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Dễ lắm, cô sẽ cho thêm một số nguyên liệu nữa, hướng dẫn em làm một món bánh gà hôm nay đảm bảo tuyệt vời luôn.",
+      "start": 34.52,
+      "end": 40.96,
+      "n_words": 26,
+      "start_frame": 863,
+      "end_frame": 1024,
+      "keyframes": [
+        "000880.webp",
+        "000931.webp",
+        "000932.webp",
+        "000958.webp",
+        "000984.webp",
+        "000985.webp",
+        "001011.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Á nguyên liệu đã có, siêu đầu bếp cũng có, siêu phụ bếp cũng có mình vô bếp làm cô ơi em đói bụng quá rồi, ngon nghiến ngấu với bánh gà chiên sốt mè.",
+      "start": 40.96,
+      "end": 66.12,
+      "n_words": 35,
+      "start_frame": 1024,
+      "end_frame": 1653,
+      "keyframes": [
+        "001038.webp",
+        "001039.webp",
+        "001054.webp",
+        "001070.webp",
+        "001071.webp",
+        "001082.webp",
+        "001094.webp",
+        "001095.webp",
+        "001110.webp",
+        "001125.webp",
+        "001126.webp",
+        "001154.webp",
+        "001183.webp",
+        "001184.webp",
+        "001208.webp",
+        "001233.webp",
+        "001234.webp",
+        "001271.webp",
+        "001309.webp",
+        "001310.webp",
+        "001349.webp",
+        "001389.webp",
+        "001404.webp",
+        "001453.webp",
+        "001502.webp",
+        "001503.webp",
+        "001593.webp"
+      ],
+      "keyframe_count": 27
+    },
+    {
+      "text": "Chào mừng các bạn quay trở lại với chương trình Món ngon mỗi ngày, chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 66.12,
+      "end": 73.28,
+      "n_words": 25,
+      "start_frame": 1653,
+      "end_frame": 1832,
+      "keyframes": [
+        "001683.webp",
+        "001684.webp",
+        "001758.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta sẽ cho phần thịt gà xay vào tô, sử dụng là thịt ức gà mình không lấy phần da, cắt nhỏ và mình xay trộn chung với giò sống nè.",
+      "start": 73.28,
+      "end": 81.12,
+      "n_words": 32,
+      "start_frame": 1832,
+      "end_frame": 2028,
+      "keyframes": [
+        "001833.webp",
+        "001834.webp",
+        "001860.webp",
+        "001887.webp",
+        "001888.webp",
+        "001933.webp",
+        "001979.webp",
+        "001980.webp",
+        "002003.webp",
+        "002026.webp",
+        "002027.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Các bạn lưu ý là chúng ta sẽ cho mỡ heo vào bánh để tạo độ béo và không bị khô, nếu như mà mình làm một cái bánh mà mình không cho phần mỡ này vào thì mình chiên xong nó sẽ bị khô.",
+      "start": 81.12,
+      "end": 90.96,
+      "n_words": 45,
+      "start_frame": 2028,
+      "end_frame": 2274,
+      "keyframes": [
+        "002086.webp",
+        "002146.webp",
+        "002147.webp",
+        "002169.webp",
+        "002192.webp",
+        "002193.webp",
+        "002232.webp",
+        "002271.webp",
+        "002272.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Hạt sen mình sẽ luộc chín sau đó mình tán bể sơ vậy thôi nha, đừng có xay nhuyễn quá.",
+      "start": 90.96,
+      "end": 96.12,
+      "n_words": 20,
+      "start_frame": 2274,
+      "end_frame": 2403,
+      "keyframes": [
+        "002316.webp",
+        "002360.webp",
+        "002361.webp",
+        "002381.webp",
+        "002401.webp",
+        "002402.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi ở đây là bắp hạt bắp Mỹ, chúng ta cắt nhỏ hai muỗng, hành tím phi, mè rang xay 50 g, chúng ta sẽ chừa lại một chút xíu nha, cộng ngò rí hai muỗng, chanh, một trái ớt sừng cắt sợi.",
+      "start": 96.12,
+      "end": 109.32,
+      "n_words": 43,
+      "start_frame": 2403,
+      "end_frame": 2733,
+      "keyframes": [
+        "002442.webp",
+        "002482.webp",
+        "002483.webp",
+        "002509.webp",
+        "002535.webp",
+        "002536.webp",
+        "002585.webp",
+        "002634.webp",
+        "002635.webp",
+        "002658.webp",
+        "002681.webp",
+        "002682.webp",
+        "002708.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Ở đây chúng ta sẽ có một cái lòng đỏ trứng muối, chúng ta sẽ tán nhuyễn hoặc là mình sẽ băm nhỏ như thế này.",
+      "start": 109.32,
+      "end": 114.44,
+      "n_words": 26,
+      "start_frame": 2733,
+      "end_frame": 2861,
+      "keyframes": [
+        "002735.webp",
+        "002736.webp",
+        "002768.webp",
+        "002801.webp",
+        "002802.webp",
+        "002833.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Các bạn lưu ý là trong món ăn này chúng ta sẽ kết hợp thịt gà cùng với trứng muối, mè trắng, hạt sen để tạo hương vị mới lạ cho món ăn nhé.",
+      "start": 114.44,
+      "end": 122.48,
+      "n_words": 34,
+      "start_frame": 2861,
+      "end_frame": 3062,
+      "keyframes": [
+        "002864.webp",
+        "002865.webp",
+        "002963.webp",
+        "003061.webp",
+        "003062.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cuối cùng chúng ta sẽ thêm một muỗng cà phê bột ngọt Ajinomoto.",
+      "start": 122.48,
+      "end": 126.12,
+      "n_words": 13,
+      "start_frame": 3062,
+      "end_frame": 3153,
+      "keyframes": [
+        "003062.webp",
+        "003083.webp",
+        "003105.webp",
+        "003106.webp",
+        "003127.webp",
+        "003148.webp",
+        "003149.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Đây, mấy cái phần này cần sức lực, cô để em cho tôi, cảm ơn Tuấn.",
+      "start": 126.12,
+      "end": 129.68,
+      "n_words": 16,
+      "start_frame": 3153,
+      "end_frame": 3242,
+      "keyframes": [
+        "003195.webp",
+        "003242.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Trong lúc mà Tuấn trộn đó thì chúng ta sẽ làm cái phần nước sốt.",
+      "start": 129.68,
+      "end": 132.72,
+      "n_words": 15,
+      "start_frame": 3242,
+      "end_frame": 3318,
+      "keyframes": [
+        "003242.webp",
+        "003243.webp",
+        "003280.webp",
+        "003317.webp",
+        "003318.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Sẽ sử dụng ba muỗng canh sốt Mayonnaise, hai muỗng canh mè trắng rang xay nhuyễn, nửa muỗng canh nước cốt chanh và một ít ớt băm.",
+      "start": 132.72,
+      "end": 145.4,
+      "n_words": 27,
+      "start_frame": 3318,
+      "end_frame": 3635,
+      "keyframes": [
+        "003318.webp",
+        "003336.webp",
+        "003355.webp",
+        "003356.webp",
+        "003367.webp",
+        "003378.webp",
+        "003379.webp",
+        "003407.webp",
+        "003436.webp",
+        "003437.webp",
+        "003460.webp",
+        "003484.webp",
+        "003485.webp",
+        "003518.webp",
+        "003551.webp",
+        "003552.webp",
+        "003574.webp",
+        "003597.webp",
+        "003598.webp",
+        "003616.webp",
+        "003634.webp",
+        "003635.webp"
+      ],
+      "keyframe_count": 22
+    },
+    {
+      "text": "Một cái chén sốt vừa béo béo, thơm thơm và đậm thơm mùi mè.",
+      "start": 145.4,
+      "end": 150.96,
+      "n_words": 14,
+      "start_frame": 3635,
+      "end_frame": 3774,
+      "keyframes": [
+        "003635.webp",
+        "003673.webp",
+        "003711.webp",
+        "003712.webp",
+        "003741.webp",
+        "003771.webp",
+        "003772.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Chảo dầu của cô để lửa lên ha và cái phần nhân bánh gà đó thì bây giờ chúng ta sẽ chia làm hai phần.",
+      "start": 150.96,
+      "end": 157.24,
+      "n_words": 25,
+      "start_frame": 3774,
+      "end_frame": 3931,
+      "keyframes": [
+        "003807.webp",
+        "003843.webp",
+        "003844.webp",
+        "003887.webp",
+        "003930.webp",
+        "003931.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thoa tay mình vô một chút xíu dầu ăn để cho nó đỡ bị dính, cô sẽ lấy một nửa này nè trước.",
+      "start": 157.24,
+      "end": 163.36,
+      "n_words": 23,
+      "start_frame": 3931,
+      "end_frame": 4084,
+      "keyframes": [
+        "003931.webp",
+        "003954.webp",
+        "003977.webp",
+        "003978.webp",
+        "003999.webp",
+        "004020.webp",
+        "004021.webp",
+        "004048.webp",
+        "004075.webp",
+        "004076.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Đầu tiên là mình sẽ vo viên lại, nắn lại cho nó chặt cái đi đã.",
+      "start": 163.36,
+      "end": 167.12,
+      "n_words": 16,
+      "start_frame": 4084,
+      "end_frame": 4178,
+      "keyframes": [
+        "004102.webp",
+        "004129.webp",
+        "004130.webp",
+        "004152.webp",
+        "004175.webp",
+        "004176.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Tiếp theo chúng ta sẽ dùng bột tẩm khô chiên giòn này nè, mình sẽ đổ ra dĩa một ít như thế này.",
+      "start": 167.12,
+      "end": 173.92,
+      "n_words": 23,
+      "start_frame": 4178,
+      "end_frame": 4348,
+      "keyframes": [
+        "004218.webp",
+        "004260.webp",
+        "004261.webp",
+        "004295.webp",
+        "004329.webp",
+        "004330.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sau đó mình sẽ tẩm qua cái bột, đẹp quá cô ơi!",
+      "start": 173.92,
+      "end": 177.4,
+      "n_words": 12,
+      "start_frame": 4348,
+      "end_frame": 4435,
+      "keyframes": [
+        "004354.webp",
+        "004379.webp",
+        "004380.webp",
+        "004410.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đổ thêm một cái lớp bột ở trên nữa, mình sẽ bỏ nó vào trong cái dĩa rồi.",
+      "start": 177.4,
+      "end": 186.64,
+      "n_words": 18,
+      "start_frame": 4435,
+      "end_frame": 4666,
+      "keyframes": [
+        "004441.webp",
+        "004442.webp",
+        "004473.webp",
+        "004505.webp",
+        "004506.webp",
+        "004540.webp",
+        "004574.webp",
+        "004575.webp",
+        "004597.webp",
+        "004619.webp",
+        "004620.webp",
+        "004638.webp",
+        "004657.webp",
+        "004658.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Nóng chưa?",
+      "start": 186.64,
+      "end": 187.16,
+      "n_words": 2,
+      "start_frame": 4666,
+      "end_frame": 4679,
+      "keyframes": [
+        "004679.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Dạ nóng rồi. Nóng rồi thì chúng ta cũng sẽ thả nó vào chiên.",
+      "start": 187.16,
+      "end": 190.2,
+      "n_words": 14,
+      "start_frame": 4679,
+      "end_frame": 4755,
+      "keyframes": [
+        "004679.webp",
+        "004700.webp",
+        "004701.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tuấn canh cái chảo này chiên giùm cô luôn, cô sẽ làm cho ba phần còn lại.",
+      "start": 190.2,
+      "end": 194.64,
+      "n_words": 17,
+      "start_frame": 4755,
+      "end_frame": 4866,
+      "keyframes": [
+        "004772.webp",
+        "004844.webp",
+        "004845.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thơm quá cô ơi!",
+      "start": 194.64,
+      "end": 195.88,
+      "n_words": 4,
+      "start_frame": 4866,
+      "end_frame": 4897,
+      "keyframes": [
+        "004882.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đó bây giờ bắt đầu những cái nguyên liệu nó chín đó, xong rồi nó thơm lừng lên, đã vàng rồi đó.",
+      "start": 195.88,
+      "end": 202.64,
+      "n_words": 22,
+      "start_frame": 4897,
+      "end_frame": 5066,
+      "keyframes": [
+        "004920.webp",
+        "004921.webp",
+        "004994.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi phần còn lại thì chúng ta cũng sẽ tạo hình bánh như thế này rồi tẩm lớp bột tẩm khô chiên giòn.",
+      "start": 202.64,
+      "end": 208.6,
+      "n_words": 23,
+      "start_frame": 5066,
+      "end_frame": 5215,
+      "keyframes": [
+        "005068.webp",
+        "005069.webp",
+        "005111.webp",
+        "005154.webp",
+        "005155.webp",
+        "005181.webp",
+        "005207.webp",
+        "005208.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Được rồi đó Tuấn ra đi, em chiên cái thứ hai rồi.",
+      "start": 208.6,
+      "end": 216.24,
+      "n_words": 12,
+      "start_frame": 5215,
+      "end_frame": 5406,
+      "keyframes": [
+        "005222.webp",
+        "005236.webp",
+        "005237.webp",
+        "005249.webp",
+        "005262.webp",
+        "005263.webp",
+        "005297.webp",
+        "005332.webp",
+        "005333.webp",
+        "005369.webp",
+        "005405.webp",
+        "005406.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Tuấn biết không, thịt gà thì rất là quen thuộc trong bữa ăn của người Việt Nam mình và nếu như mà mình biết cách chế biến, mình thay đổi sáng tạo thì mình sẽ được rất là nhiều món ăn ngon từ thịt gà.",
+      "start": 216.24,
+      "end": 228.08,
+      "n_words": 45,
+      "start_frame": 5406,
+      "end_frame": 5702,
+      "keyframes": [
+        "005406.webp",
+        "005505.webp",
+        "005604.webp",
+        "005605.webp",
+        "005652.webp",
+        "005699.webp",
+        "005700.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Được rồi đó Tuấn, bây giờ cô sẽ vớt ra, em tắt lửa đi Tuấn.",
+      "start": 228.08,
+      "end": 231.36,
+      "n_words": 15,
+      "start_frame": 5702,
+      "end_frame": 5784,
+      "keyframes": [
+        "005747.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Dạ. Và như vậy là chúng ta đã hoàn thành.",
+      "start": 231.36,
+      "end": 233.68,
+      "n_words": 10,
+      "start_frame": 5784,
+      "end_frame": 5842,
+      "keyframes": [
+        "005795.webp",
+        "005796.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ chúng ta chỉ cần trình bày món ăn là xong.",
+      "start": 233.68,
+      "end": 235.64,
+      "n_words": 12,
+      "start_frame": 5842,
+      "end_frame": 5891,
+      "keyframes": [
+        "005848.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đó các bạn, còn các bạn đang theo dõi chương trình mà muốn có công thức của món ăn này thì ngay bây giờ có một mã QR đang xuất hiện trên màn hình, chúng ta sẽ dùng điện thoại quét mã này, công thức của món ăn ngày hôm nay sẽ được hiện ra và các bạn sẽ có ngay để mà thực hiện món ăn.",
+      "start": 235.64,
+      "end": 249.24,
+      "n_words": 67,
+      "start_frame": 5891,
+      "end_frame": 6231,
+      "keyframes": [
+        "005900.webp",
+        "005901.webp",
+        "005969.webp",
+        "006038.webp",
+        "006039.webp",
+        "006117.webp",
+        "006195.webp",
+        "006196.webp",
+        "006220.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đầu tiên mình sẽ cắt cái miếng bánh gà này ra làm tám phần, cô chỉ cần bày nó ra thôi.",
+      "start": 249.24,
+      "end": 255.64,
+      "n_words": 21,
+      "start_frame": 6231,
+      "end_frame": 6391,
+      "keyframes": [
+        "006245.webp",
+        "006246.webp",
+        "006271.webp",
+        "006296.webp",
+        "006297.webp",
+        "006325.webp",
+        "006354.webp",
+        "006355.webp",
+        "006372.webp",
+        "006390.webp",
+        "006391.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Món ăn này chúng ta sẽ chấm kèm với lại sốt đã pha nha.",
+      "start": 255.64,
+      "end": 258.52,
+      "n_words": 14,
+      "start_frame": 6391,
+      "end_frame": 6463,
+      "keyframes": [
+        "006391.webp",
+        "006413.webp",
+        "006436.webp",
+        "006437.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Như vậy là chúng ta đã hoàn thành xong món ăn rồi đó.",
+      "start": 258.52,
+      "end": 261.0,
+      "n_words": 13,
+      "start_frame": 6463,
+      "end_frame": 6525,
+      "keyframes": [
+        "006470.webp",
+        "006503.webp",
+        "006504.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Với món ăn này thì chúng ta sẽ kết hợp thêm với món canh tôm lá é nha.",
+      "start": 261.0,
+      "end": 265.24,
+      "n_words": 18,
+      "start_frame": 6525,
+      "end_frame": 6631,
+      "keyframes": [
+        "006529.webp",
+        "006555.webp",
+        "006556.webp",
+        "006596.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cảm ơn cô rất nhiều vì đã mang đến một cái món bánh gà như là em đã yêu cầu và chắc chắn đây sẽ là một cái món ăn rất là hấp dẫn cho tất cả các thành viên trong gia đình đặc biệt là các bạn nhỏ ở nhà luôn.",
+      "start": 265.76,
+      "end": 275.84,
+      "n_words": 52,
+      "start_frame": 6644,
+      "end_frame": 6896,
+      "keyframes": [
+        "006664.webp",
+        "006691.webp",
+        "006692.webp",
+        "006741.webp",
+        "006791.webp",
+        "006792.webp",
+        "006838.webp",
+        "006885.webp",
+        "006886.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Miếng bánh gà vàng ươm nóng hổi trên tay, vỏ bên ngoài giòn nhẹ, bên trong ngọt lừ từ gà, bùi từ hạt sen, thêm sốt mè béo béo thơm thơm, chỉ có ăn thôi mà lòng không nguôi xao xuyến.",
+      "start": 275.84,
+      "end": 292.24,
+      "n_words": 41,
+      "start_frame": 6896,
+      "end_frame": 7306,
+      "keyframes": [
+        "006924.webp",
+        "006962.webp",
+        "006977.webp",
+        "007025.webp",
+        "007073.webp",
+        "007074.webp",
+        "007185.webp",
+        "007296.webp",
+        "007297.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Gà chiên sốt mè, đó chính là món ăn của ngày hôm nay, vừa rất dễ làm nhưng hương vị thì không cưỡng lại được.",
+      "start": 292.24,
+      "end": 298.12,
+      "n_words": 25,
+      "start_frame": 7306,
+      "end_frame": 7453,
+      "keyframes": [
+        "007373.webp",
+        "007449.webp",
+        "007450.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Công thức luôn sẵn sàng trên YouTube, website và fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 298.12,
+      "end": 303.52,
+      "n_words": 17,
+      "start_frame": 7453,
+      "end_frame": 7588,
+      "keyframes": [
+        "007518.webp",
+        "007587.webp",
+        "007588.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúc các bạn thành công với món bánh gà chiên sốt mè.",
+      "start": 303.52,
+      "end": 307.12,
+      "n_words": 12,
+      "start_frame": 7588,
+      "end_frame": 7678,
+      "keyframes": [
+        "007588.webp",
+        "007625.webp",
+        "007663.webp",
+        "007664.webp"
+      ],
+      "keyframe_count": 4
+    }
+  ]
+}

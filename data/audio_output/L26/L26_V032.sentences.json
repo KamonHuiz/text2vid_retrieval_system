@@ -1,0 +1,806 @@
+{
+  "video_id": "L26_V032",
+  "fps": 25.0,
+  "n_sentences": 42,
+  "total_words": 1025,
+  "sentences": [
+    {
+      "text": "Rất món ngon mỗi ngày, nhưng thịt bò thơm ngon cùng với vỏ bánh rán, sốt mềm và vị béo béo của mayonnaise kết hợp với xà lách tươi và cà chua mọng nước, cả nhà đều mê.",
+      "start": 0.04,
+      "end": 35.8,
+      "n_words": 38,
+      "start_frame": 1,
+      "end_frame": 895,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000065.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000130.webp",
+        "000147.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp",
+        "000325.webp",
+        "000351.webp",
+        "000352.webp",
+        "000393.webp",
+        "000435.webp",
+        "000436.webp",
+        "000473.webp",
+        "000510.webp",
+        "000511.webp",
+        "000538.webp",
+        "000565.webp",
+        "000566.webp",
+        "000591.webp",
+        "000617.webp",
+        "000618.webp",
+        "000637.webp",
+        "000656.webp",
+        "000657.webp",
+        "000751.webp",
+        "000845.webp",
+        "000846.webp",
+        "000873.webp"
+      ],
+      "keyframe_count": 58
+    },
+    {
+      "text": "Rất vui được gặp lại các bạn khán giả đang đến với chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành.",
+      "start": 35.8,
+      "end": 41.28,
+      "n_words": 22,
+      "start_frame": 895,
+      "end_frame": 1032,
+      "keyframes": [
+        "000901.webp",
+        "000902.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 41.28,
+      "end": 45.36,
+      "n_words": 11,
+      "start_frame": 1032,
+      "end_frame": 1134,
+      "keyframes": [
+        "001068.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ngày hôm nay thì Phước Hưng sẽ hướng dẫn cho các bạn cũng như là Minh Phương một cái món bánh rán có một cái sự kết hợp rất là độc đáo luôn, có tên gọi là bánh rán burger bò.",
+      "start": 45.36,
+      "end": 54.88,
+      "n_words": 41,
+      "start_frame": 1134,
+      "end_frame": 1372,
+      "keyframes": [
+        "001234.webp",
+        "001235.webp",
+        "001265.webp",
+        "001296.webp",
+        "001297.webp",
+        "001326.webp",
+        "001355.webp",
+        "001356.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Bánh rán thì rất là quen thuộc với chúng ta rồi, nhưng mà làm burger bò từ bánh rán, bò từ bánh rán lạ nha.",
+      "start": 54.88,
+      "end": 61.08,
+      "n_words": 25,
+      "start_frame": 1372,
+      "end_frame": 1527,
+      "keyframes": [
+        "001442.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và cũng như theo lời của chuyên gia dinh dưỡng Tiến sĩ Đào Thị Yến Phi thì món ăn ngày hôm nay sẽ hỗ trợ trí não của chúng ta làm việc tốt hơn.",
+      "start": 61.08,
+      "end": 67.88,
+      "n_words": 34,
+      "start_frame": 1527,
+      "end_frame": 1697,
+      "keyframes": [
+        "001529.webp",
+        "001530.webp",
+        "001567.webp",
+        "001604.webp",
+        "001605.webp",
+        "001649.webp",
+        "001693.webp",
+        "001694.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta sơ chế cái phần rau củ trước.",
+      "start": 67.88,
+      "end": 70.08,
+      "n_words": 9,
+      "start_frame": 1697,
+      "end_frame": 1752,
+      "keyframes": [
+        "001723.webp",
+        "001752.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Xà lách thủy tinh chúng ta sẽ xé ra thành từng miếng vừa ăn, còn phần cà chua thì Phước Hưng sẽ cắt khoanh tròn.",
+      "start": 70.08,
+      "end": 79.08,
+      "n_words": 25,
+      "start_frame": 1752,
+      "end_frame": 1977,
+      "keyframes": [
+        "001752.webp",
+        "001753.webp",
+        "001791.webp",
+        "001830.webp",
+        "001831.webp",
+        "001863.webp",
+        "001895.webp",
+        "001896.webp",
+        "001975.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Trong cà chua còn có rất là nhiều chất chống oxy hóa, giảm căng thẳng, bảo vệ hoạt động của tế bào não và rất tốt cho trí não.",
+      "start": 79.08,
+      "end": 87.12,
+      "n_words": 29,
+      "start_frame": 1977,
+      "end_frame": 2178,
+      "keyframes": [
+        "002055.webp",
+        "002056.webp",
+        "002117.webp",
+        "002178.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Còn phần hành tây thì bây giờ Phước Hưng sẽ cắt nhỏ để chúng ta trộn nhân.",
+      "start": 87.12,
+      "end": 99.28,
+      "n_words": 17,
+      "start_frame": 2178,
+      "end_frame": 2482,
+      "keyframes": [
+        "002178.webp",
+        "002179.webp",
+        "002229.webp",
+        "002279.webp",
+        "002280.webp",
+        "002338.webp",
+        "002397.webp",
+        "002398.webp",
+        "002438.webp",
+        "002479.webp",
+        "002480.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Phần hành tây chúng ta đã cắt nhỏ rồi, Hưng sẽ cho phần thịt bò bằm vào, cho vào đây một muỗng cà phê tỏi băm, một muỗng cà phê hạt nêm Aji-no-moto ngon heo, một ít tiêu, một muỗng cà phê bột năng.",
+      "start": 99.28,
+      "end": 111.2,
+      "n_words": 44,
+      "start_frame": 2482,
+      "end_frame": 2780,
+      "keyframes": [
+        "002508.webp",
+        "002537.webp",
+        "002538.webp",
+        "002561.webp",
+        "002584.webp",
+        "002585.webp",
+        "002609.webp",
+        "002633.webp",
+        "002634.webp",
+        "002663.webp",
+        "002693.webp",
+        "002694.webp",
+        "002716.webp",
+        "002738.webp",
+        "002739.webp",
+        "002762.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Chúng ta sẽ cho một ít bột năng vào nhân thịt bò để giúp cho thịt bò không bị khô và tăng thêm độ kết dính khi chúng ta tạo hình.",
+      "start": 111.2,
+      "end": 117.08,
+      "n_words": 31,
+      "start_frame": 2780,
+      "end_frame": 2927,
+      "keyframes": [
+        "002785.webp",
+        "002786.webp",
+        "002863.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ta cho một muỗng cà phê nước tương phu xị, nửa muỗng cà phê dầu mè.",
+      "start": 117.08,
+      "end": 121.28,
+      "n_words": 16,
+      "start_frame": 2927,
+      "end_frame": 3032,
+      "keyframes": [
+        "002941.webp",
+        "002942.webp",
+        "002965.webp",
+        "002989.webp",
+        "002990.webp",
+        "003010.webp",
+        "003030.webp",
+        "003031.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Nhưng ở nhà của các bạn khán giả, nếu như chúng ta có thể thay thế thịt bò bằng thịt gà nè, hoặc là bằng tôm băm cũng là một lựa chọn để chúng ta có thể thay đổi khẩu vị của mình. Chúng ta sẽ pha bột.",
+      "start": 121.28,
+      "end": 131.6,
+      "n_words": 48,
+      "start_frame": 3032,
+      "end_frame": 3290,
+      "keyframes": [
+        "003071.webp",
+        "003112.webp",
+        "003113.webp",
+        "003187.webp",
+        "003261.webp",
+        "003262.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Phước Hưng sẽ sử dụng một gói bột bánh rán pha sẵn vị truyền thống.",
+      "start": 131.6,
+      "end": 134.96,
+      "n_words": 15,
+      "start_frame": 3290,
+      "end_frame": 3374,
+      "keyframes": [
+        "003302.webp",
+        "003342.webp",
+        "003343.webp",
+        "003359.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng ta sẽ sử dụng bột bánh rán pha sẵn vị truyền thống để tiết kiệm thời gian hơn, quá là tiện lợi luôn đúng không ạ?",
+      "start": 134.96,
+      "end": 140.6,
+      "n_words": 27,
+      "start_frame": 3374,
+      "end_frame": 3515,
+      "keyframes": [
+        "003375.webp",
+        "003376.webp",
+        "003401.webp",
+        "003427.webp",
+        "003428.webp",
+        "003451.webp",
+        "003475.webp",
+        "003476.webp",
+        "003511.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Chúng ta không phải cầu kỳ chuẩn bị gì hết, chỉ cần thêm nước theo định lượng hướng dẫn ở trên bao bì thế là xong.",
+      "start": 140.6,
+      "end": 147.08,
+      "n_words": 26,
+      "start_frame": 3515,
+      "end_frame": 3677,
+      "keyframes": [
+        "003546.webp",
+        "003547.webp",
+        "003577.webp",
+        "003608.webp",
+        "003609.webp",
+        "003644.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cho vào đây 1/3 muỗng cà phê muối.",
+      "start": 147.08,
+      "end": 149.52,
+      "n_words": 8,
+      "start_frame": 3677,
+      "end_frame": 3738,
+      "keyframes": [
+        "003679.webp",
+        "003680.webp",
+        "003709.webp",
+        "003738.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng ta sẽ cho một ít muối vào trong bột bánh rán để vị bánh có vị đậm đà và phù hợp với món mặn hơn.",
+      "start": 149.52,
+      "end": 155.24,
+      "n_words": 26,
+      "start_frame": 3738,
+      "end_frame": 3881,
+      "keyframes": [
+        "003738.webp",
+        "003739.webp",
+        "003809.webp",
+        "003879.webp",
+        "003880.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Khuấy cái phần bột này cho thật là mịn màng.",
+      "start": 155.24,
+      "end": 158.64,
+      "n_words": 10,
+      "start_frame": 3881,
+      "end_frame": 3966,
+      "keyframes": [
+        "003929.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta sẽ tạo hình cho phần burger.",
+      "start": 158.64,
+      "end": 160.88,
+      "n_words": 8,
+      "start_frame": 3966,
+      "end_frame": 4022,
+      "keyframes": [
+        "003979.webp",
+        "003980.webp",
+        "004000.webp",
+        "004020.webp",
+        "004021.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Phước Hưng sẽ chia đều ra thành bốn phần nhỏ khác nhau, Hưng sẽ ấn dẹp suất lần lượt như vậy thì các bạn sẽ làm hết cái phần nhân luôn.",
+      "start": 160.88,
+      "end": 174.76,
+      "n_words": 31,
+      "start_frame": 4022,
+      "end_frame": 4369,
+      "keyframes": [
+        "004070.webp",
+        "004119.webp",
+        "004120.webp",
+        "004164.webp",
+        "004208.webp",
+        "004209.webp",
+        "004238.webp",
+        "004268.webp",
+        "004269.webp",
+        "004301.webp",
+        "004333.webp",
+        "004334.webp",
+        "004354.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Phần chảo cũng đã nóng hơn, sẽ cho vào đây một muỗng canh bơ lạt và bây giờ chúng ta sẽ cho bơ vào.",
+      "start": 174.76,
+      "end": 184.08,
+      "n_words": 24,
+      "start_frame": 4369,
+      "end_frame": 4602,
+      "keyframes": [
+        "004375.webp",
+        "004376.webp",
+        "004400.webp",
+        "004424.webp",
+        "004425.webp",
+        "004447.webp",
+        "004469.webp",
+        "004470.webp",
+        "004521.webp",
+        "004572.webp",
+        "004573.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Chúng ta sẽ áp chảo với lửa vừa đến khi nào mà burger vàng hai mặt là được.",
+      "start": 184.08,
+      "end": 188.88,
+      "n_words": 18,
+      "start_frame": 4602,
+      "end_frame": 4722,
+      "keyframes": [
+        "004611.webp",
+        "004650.webp",
+        "004651.webp",
+        "004686.webp",
+        "004722.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và khi áp chảo cái phần burger bò này thì chúng ta đợi cho cái mặt nó xém hẳn rồi mình sẽ trở thì sẽ không ảnh hưởng đến cái tạo hình của những cái miếng burger bò.",
+      "start": 188.88,
+      "end": 197.64,
+      "n_words": 38,
+      "start_frame": 4722,
+      "end_frame": 4941,
+      "keyframes": [
+        "004722.webp",
+        "004723.webp",
+        "004770.webp",
+        "004817.webp",
+        "004818.webp",
+        "004878.webp",
+        "004939.webp",
+        "004940.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Ngoài ra thì trong thịt bò có rất là nhiều vitamin B12 nè, giúp cải thiện trí nhớ cũng như là giúp não bộ của chúng ta hoạt động tốt hơn.",
+      "start": 197.64,
+      "end": 205.16,
+      "n_words": 31,
+      "start_frame": 4941,
+      "end_frame": 5129,
+      "keyframes": [
+        "004981.webp",
+        "005022.webp",
+        "005023.webp",
+        "005064.webp",
+        "005106.webp",
+        "005107.webp",
+        "005119.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Wow và bây giờ phần burger của chúng ta cũng đã chín rồi, bây giờ Phước Hưng sẽ tắt bếp nè.",
+      "start": 205.16,
+      "end": 212.96,
+      "n_words": 21,
+      "start_frame": 5129,
+      "end_frame": 5324,
+      "keyframes": [
+        "005132.webp",
+        "005133.webp",
+        "005174.webp",
+        "005215.webp",
+        "005216.webp",
+        "005266.webp",
+        "005317.webp",
+        "005318.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ lấy cái phần burger ra.",
+      "start": 212.96,
+      "end": 215.2,
+      "n_words": 10,
+      "start_frame": 5324,
+      "end_frame": 5380,
+      "keyframes": [
+        "005357.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tiếp theo Phước Hưng sẽ đặt lên trên bếp một cái chảo để chúng ta rán bánh.",
+      "start": 215.2,
+      "end": 218.28,
+      "n_words": 17,
+      "start_frame": 5380,
+      "end_frame": 5457,
+      "keyframes": [
+        "005396.webp",
+        "005397.webp",
+        "005413.webp",
+        "005429.webp",
+        "005430.webp",
+        "005443.webp",
+        "005457.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Phước Hưng sẽ giảm nhiệt độ của chảo bằng cách chúng ta sẽ cho vào khăn ẩm và bây giờ chúng ta sẽ đổ bánh.",
+      "start": 218.28,
+      "end": 233.04,
+      "n_words": 25,
+      "start_frame": 5457,
+      "end_frame": 5826,
+      "keyframes": [
+        "005457.webp",
+        "005458.webp",
+        "005481.webp",
+        "005504.webp",
+        "005505.webp",
+        "005530.webp",
+        "005556.webp",
+        "005557.webp",
+        "005582.webp",
+        "005607.webp",
+        "005608.webp",
+        "005673.webp",
+        "005738.webp",
+        "005739.webp",
+        "005781.webp",
+        "005824.webp",
+        "005825.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ trở bánh và lần lượt như vậy chúng ta sẽ đổ hết cái phần bột luôn.",
+      "start": 233.04,
+      "end": 241.92,
+      "n_words": 21,
+      "start_frame": 5826,
+      "end_frame": 6048,
+      "keyframes": [
+        "005875.webp",
+        "005925.webp",
+        "005926.webp",
+        "005944.webp",
+        "005963.webp",
+        "005964.webp",
+        "006003.webp",
+        "006042.webp",
+        "006043.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Với công thức nấu chuẩn ăn lành của mình ngày hôm nay thì các bạn khán giả ơi có thể dùng điện thoại di động của mình quét mã QR đang hiển thị trên màn hình để lưu lại ngay công thức nhé.",
+      "start": 241.92,
+      "end": 253.04,
+      "n_words": 43,
+      "start_frame": 6048,
+      "end_frame": 6326,
+      "keyframes": [
+        "006073.webp",
+        "006104.webp",
+        "006105.webp",
+        "006191.webp",
+        "006278.webp",
+        "006279.webp",
+        "006303.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ tạo hình cho phần burger.",
+      "start": 253.04,
+      "end": 255.84,
+      "n_words": 10,
+      "start_frame": 6326,
+      "end_frame": 6396,
+      "keyframes": [
+        "006328.webp",
+        "006329.webp",
+        "006372.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cho lên trên đây một ít sốt mayonnaise Ajinomoto vị nguyên bản, sẽ cho lên trên đây một ít tương ớt nữa, cho phần xà lách vào, cho lên đây một lát cà chua, burger bò nè, sốt vị nguyên bản.",
+      "start": 255.84,
+      "end": 276.76,
+      "n_words": 41,
+      "start_frame": 6396,
+      "end_frame": 6919,
+      "keyframes": [
+        "006416.webp",
+        "006417.webp",
+        "006453.webp",
+        "006489.webp",
+        "006490.webp",
+        "006542.webp",
+        "006594.webp",
+        "006595.webp",
+        "006625.webp",
+        "006656.webp",
+        "006657.webp",
+        "006683.webp",
+        "006710.webp",
+        "006711.webp",
+        "006739.webp",
+        "006767.webp",
+        "006768.webp",
+        "006805.webp",
+        "006843.webp",
+        "006844.webp",
+        "006885.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Chúng ta sẽ lấy một lớp bánh trên cùng, cuối cùng chúng ta sẽ sử dụng một cái que xiên để chúng ta định hình cho phần burger rồi.",
+      "start": 276.76,
+      "end": 288.4,
+      "n_words": 29,
+      "start_frame": 6919,
+      "end_frame": 7210,
+      "keyframes": [
+        "006926.webp",
+        "006927.webp",
+        "006967.webp",
+        "007007.webp",
+        "007008.webp",
+        "007059.webp",
+        "007110.webp",
+        "007111.webp",
+        "007149.webp",
+        "007187.webp",
+        "007188.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Vậy là bây giờ đã hoàn tất rồi.",
+      "start": 288.4,
+      "end": 290.28,
+      "n_words": 8,
+      "start_frame": 7210,
+      "end_frame": 7257,
+      "keyframes": [
+        "007221.webp",
+        "007254.webp",
+        "007255.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mời Minh Phương ăn thử cái vị bánh, ăn thử cái vị bánh như thế nào?",
+      "start": 290.28,
+      "end": 292.8,
+      "n_words": 16,
+      "start_frame": 7257,
+      "end_frame": 7320,
+      "keyframes": [
+        "007309.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đúng rồi, bởi vì một cái sự biến tấu rất là thú vị.",
+      "start": 292.8,
+      "end": 302.36,
+      "n_words": 13,
+      "start_frame": 7320,
+      "end_frame": 7559,
+      "keyframes": [
+        "007363.webp",
+        "007408.webp",
+        "007412.webp",
+        "007417.webp",
+        "007418.webp",
+        "007481.webp",
+        "007545.webp",
+        "007546.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Phước Hưng ơi, bột bánh rán nha, rất là xốp nè, mềm và thơm.",
+      "start": 302.36,
+      "end": 306.72,
+      "n_words": 14,
+      "start_frame": 7559,
+      "end_frame": 7668,
+      "keyframes": [
+        "007591.webp",
+        "007636.webp",
+        "007651.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thịt bò thì mềm nè, áp chảo vừa chín tới, một chút giòn giòn đến từ xà lách cà chua và béo béo từ sốt mayonnaise Ajinomoto.",
+      "start": 306.72,
+      "end": 316.72,
+      "n_words": 27,
+      "start_frame": 7668,
+      "end_frame": 7918,
+      "keyframes": [
+        "007705.webp",
+        "007759.webp",
+        "007760.webp",
+        "007797.webp",
+        "007835.webp",
+        "007836.webp",
+        "007877.webp",
+        "007918.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Và để đạt được hiệu quả dinh dưỡng thì các bạn chúng ta có thể tham khảo món ăn ngày hôm nay cùng với một bản thực đơn sau đây: bánh rán burger bò, sự biến tấu mới lạ, cả nhà thích mê.",
+      "start": 316.72,
+      "end": 330.56,
+      "n_words": 43,
+      "start_frame": 7918,
+      "end_frame": 8264,
+      "keyframes": [
+        "007918.webp",
+        "007919.webp",
+        "007977.webp",
+        "008035.webp",
+        "008036.webp",
+        "008098.webp",
+        "008160.webp",
+        "008161.webp",
+        "008213.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Và các bạn ơi, chúng ta có thể xem thêm nhiều công thức của các món ăn ngon bằng cách truy cập vào kênh YouTube, website và fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 330.56,
+      "end": 340.0,
+      "n_words": 35,
+      "start_frame": 8264,
+      "end_frame": 8500,
+      "keyframes": [
+        "008266.webp",
+        "008267.webp",
+        "008371.webp",
+        "008476.webp",
+        "008477.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

@@ -1,0 +1,781 @@
+{
+  "video_id": "L26_V035",
+  "fps": 25.0,
+  "n_sentences": 42,
+  "total_words": 912,
+  "sentences": [
+    {
+      "text": "Rất món ngon mỗi ngày.",
+      "start": 0.04,
+      "end": 12.24,
+      "n_words": 5,
+      "start_frame": 1,
+      "end_frame": 306,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000130.webp",
+        "000147.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 36
+    },
+    {
+      "text": "Mực sữa thơm ngọt, thấm vị vừa ăn, đậu Hà Lan giòn giòn thêm chút màu sắc bắt mắt của các loại rau củ xen lẫn mùi thơm đặc trưng của nước tương.",
+      "start": 12.24,
+      "end": 22.4,
+      "n_words": 33,
+      "start_frame": 306,
+      "end_frame": 560,
+      "keyframes": [
+        "000335.webp",
+        "000371.webp",
+        "000372.webp",
+        "000397.webp",
+        "000423.webp",
+        "000424.webp",
+        "000454.webp",
+        "000485.webp",
+        "000486.webp",
+        "000521.webp",
+        "000557.webp",
+        "000558.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "10 điểm không có nhưng!",
+      "start": 22.4,
+      "end": 41.44,
+      "n_words": 5,
+      "start_frame": 560,
+      "end_frame": 1036,
+      "keyframes": [
+        "000591.webp",
+        "000625.webp",
+        "000626.webp",
+        "000667.webp",
+        "000708.webp",
+        "000709.webp",
+        "000745.webp",
+        "000781.webp",
+        "000782.webp",
+        "000873.webp",
+        "000965.webp",
+        "000966.webp",
+        "001004.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Rất vui được gặp lại các bạn khán giả đang đến với chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành.",
+      "start": 41.44,
+      "end": 47.28,
+      "n_words": 22,
+      "start_frame": 1036,
+      "end_frame": 1182,
+      "keyframes": [
+        "001042.webp",
+        "001043.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 47.28,
+      "end": 52.24,
+      "n_words": 11,
+      "start_frame": 1182,
+      "end_frame": 1306,
+      "keyframes": [
+        "001236.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Với món mực thì chúng ta sẽ thường có hấp hoặc là nướng, không biết là ngày hôm nay có phần đậu Hà Lan nữa thì bếp Phước sẽ làm món gì cho chúng ta đây?",
+      "start": 52.24,
+      "end": 60.96,
+      "n_words": 36,
+      "start_frame": 1306,
+      "end_frame": 1524,
+      "keyframes": [
+        "001429.webp",
+        "001430.webp",
+        "001453.webp",
+        "001477.webp",
+        "001478.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và ngày hôm nay thì Phước Hưng sẽ hướng dẫn cho các bạn một cái sự kết hợp rất là độc đáo luôn, đó chính là mực và đậu Hà Lan sẽ cho ra món ăn có tên gọi là mực xào đậu Hà Lan.",
+      "start": 60.96,
+      "end": 70.96,
+      "n_words": 45,
+      "start_frame": 1524,
+      "end_frame": 1774,
+      "keyframes": [
+        "001556.webp",
+        "001635.webp",
+        "001636.webp",
+        "001662.webp",
+        "001688.webp",
+        "001689.webp",
+        "001731.webp",
+        "001773.webp",
+        "001774.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Và cũng như lời của chuyên gia dinh dưỡng Tiến sĩ Đào Thị Yến Phi, món ăn ngày hôm nay hỗ trợ giảm khối mỡ thừa của cơ thể của chúng ta rất tốt luôn.",
+      "start": 70.96,
+      "end": 79.12,
+      "n_words": 35,
+      "start_frame": 1774,
+      "end_frame": 1978,
+      "keyframes": [
+        "001774.webp",
+        "001812.webp",
+        "001850.webp",
+        "001851.webp",
+        "001914.webp",
+        "001978.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và đối với món ăn ngày hôm nay thì chúng ta sẽ ngâm và rửa sạch mực dưới vòi nước để cho mực loại bỏ được cát.",
+      "start": 79.12,
+      "end": 85.28,
+      "n_words": 27,
+      "start_frame": 1978,
+      "end_frame": 2132,
+      "keyframes": [
+        "001978.webp",
+        "001979.webp",
+        "002055.webp",
+        "002132.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và bây giờ công đoạn đầu tiên thì Phước Hưng sẽ hướng dẫn cho các bạn chúng ta sơ chế cái phần rau củ trước.",
+      "start": 85.28,
+      "end": 90.12,
+      "n_words": 25,
+      "start_frame": 2132,
+      "end_frame": 2253,
+      "keyframes": [
+        "002132.webp",
+        "002133.webp",
+        "002192.webp",
+        "002252.webp",
+        "002253.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Phần đậu Hà Lan, Phước Hưng sẽ cắt xéo đậu Hà Lan.",
+      "start": 90.12,
+      "end": 93.92,
+      "n_words": 12,
+      "start_frame": 2253,
+      "end_frame": 2348,
+      "keyframes": [
+        "002253.webp",
+        "002307.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thì chắc có lẽ là các mẹ, các bà khi mà đi chợ chúng ta cũng hiểu rằng là mình mua đậu Hà Lan về để giúp bổ sung được chất xơ và cả bổ sung được đạm cho cơ thể đúng không ạ?",
+      "start": 93.92,
+      "end": 104.44,
+      "n_words": 44,
+      "start_frame": 2348,
+      "end_frame": 2611,
+      "keyframes": [
+        "002362.webp",
+        "002363.webp",
+        "002406.webp",
+        "002450.webp",
+        "002451.webp",
+        "002549.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thành ra là với món ăn này sẽ hỗ trợ giảm mỡ rất là tốt cho cơ thể của chúng ta.",
+      "start": 104.44,
+      "end": 109.2,
+      "n_words": 21,
+      "start_frame": 2611,
+      "end_frame": 2730,
+      "keyframes": [
+        "002648.webp",
+        "002649.webp",
+        "002675.webp",
+        "002702.webp",
+        "002703.webp",
+        "002718.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hành tây thì chúng ta sẽ cắt miếng nhỏ.",
+      "start": 109.2,
+      "end": 117.88,
+      "n_words": 9,
+      "start_frame": 2730,
+      "end_frame": 2947,
+      "keyframes": [
+        "002733.webp",
+        "002734.webp",
+        "002763.webp",
+        "002792.webp",
+        "002793.webp",
+        "002826.webp",
+        "002860.webp",
+        "002861.webp",
+        "002883.webp",
+        "002906.webp",
+        "002907.webp",
+        "002925.webp",
+        "002944.webp",
+        "002945.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Ớt sừng thì Phước Hưng sẽ cắt quả trám và cuối cùng phần rau răm Phước Hưng sẽ cắt nhỏ.",
+      "start": 117.88,
+      "end": 133.96,
+      "n_words": 20,
+      "start_frame": 2947,
+      "end_frame": 3349,
+      "keyframes": [
+        "002969.webp",
+        "002994.webp",
+        "002995.webp",
+        "003054.webp",
+        "003114.webp",
+        "003115.webp",
+        "003149.webp",
+        "003183.webp",
+        "003184.webp",
+        "003202.webp",
+        "003221.webp",
+        "003222.webp",
+        "003256.webp",
+        "003291.webp",
+        "003292.webp",
+        "003323.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Hưng sẽ cho vào đây 1/3 muỗng cà phê tiêu, 1/3 muỗng cà phê bột ngọt Ajinomoto, nửa muỗng cà phê hạt nêm Aji-ngon heo, một muỗng cà phê đường, một muỗng canh nước tương Phú Sĩ, một muỗng canh giấm gạo lên men Ajinomoto.",
+      "start": 133.96,
+      "end": 149.64,
+      "n_words": 45,
+      "start_frame": 3349,
+      "end_frame": 3741,
+      "keyframes": [
+        "003354.webp",
+        "003355.webp",
+        "003389.webp",
+        "003423.webp",
+        "003424.webp",
+        "003487.webp",
+        "003551.webp",
+        "003552.webp",
+        "003574.webp",
+        "003597.webp",
+        "003598.webp",
+        "003614.webp",
+        "003631.webp",
+        "003632.webp",
+        "003649.webp",
+        "003667.webp",
+        "003668.webp",
+        "003693.webp",
+        "003718.webp",
+        "003719.webp",
+        "003731.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Cuối cùng Hưng sẽ cho vào đây một muỗng canh tương ớt.",
+      "start": 149.64,
+      "end": 152.56,
+      "n_words": 12,
+      "start_frame": 3741,
+      "end_frame": 3814,
+      "keyframes": [
+        "003744.webp",
+        "003745.webp",
+        "003779.webp",
+        "003814.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng ta sẽ pha hỗn hợp gia vị với nước tương Phú Sĩ để cho món ăn có màu sắc đẹp hơn.",
+      "start": 152.56,
+      "end": 157.6,
+      "n_words": 22,
+      "start_frame": 3814,
+      "end_frame": 3940,
+      "keyframes": [
+        "003814.webp",
+        "003815.webp",
+        "003878.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Phần nước cũng đã sôi trở lại, chúng ta sẽ chần đậu Hà Lan trong nước có ít muối để giúp cho đậu giữ được màu xanh và chín đều.",
+      "start": 157.6,
+      "end": 164.4,
+      "n_words": 30,
+      "start_frame": 3940,
+      "end_frame": 4110,
+      "keyframes": [
+        "003942.webp",
+        "003943.webp",
+        "003958.webp",
+        "003974.webp",
+        "003975.webp",
+        "003997.webp",
+        "004020.webp",
+        "004021.webp",
+        "004065.webp",
+        "004109.webp",
+        "004110.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Chúng ta chỉ chần sơ qua thôi, Phước Hưng sẽ tắt lửa và chúng ta sẽ ngâm ngay vào cái tô nước đá.",
+      "start": 164.4,
+      "end": 169.8,
+      "n_words": 23,
+      "start_frame": 4110,
+      "end_frame": 4245,
+      "keyframes": [
+        "004110.webp",
+        "004146.webp",
+        "004183.webp",
+        "004184.webp",
+        "004219.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Tiếp theo Phước Hưng sẽ đặt lên trên bếp một cái chảo để chúng ta phi tỏi.",
+      "start": 169.8,
+      "end": 173.24,
+      "n_words": 17,
+      "start_frame": 4245,
+      "end_frame": 4331,
+      "keyframes": [
+        "004255.webp",
+        "004256.webp",
+        "004279.webp",
+        "004302.webp",
+        "004303.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hưng sẽ cho dầu ăn vào, cho phần tỏi băm vào, chúng ta phi thơm.",
+      "start": 173.24,
+      "end": 181.2,
+      "n_words": 15,
+      "start_frame": 4331,
+      "end_frame": 4530,
+      "keyframes": [
+        "004355.webp",
+        "004407.webp",
+        "004408.webp",
+        "004439.webp",
+        "004471.webp",
+        "004472.webp",
+        "004502.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Tắt bếp nè, Phước Hưng sẽ cho cái phần tỏi ra sử dụng cái phần dầu tỏi rất là thơm luôn.",
+      "start": 181.2,
+      "end": 187.16,
+      "n_words": 21,
+      "start_frame": 4530,
+      "end_frame": 4679,
+      "keyframes": [
+        "004533.webp",
+        "004534.webp",
+        "004575.webp",
+        "004617.webp",
+        "004618.webp",
+        "004660.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Phước Hưng sẽ cho mực vào; Đối với món mực thì chúng ta sẽ xào lửa lớn và nhanh tay để mực không bị khô mà còn giữ được độ ngọt.",
+      "start": 187.16,
+      "end": 200.88,
+      "n_words": 31,
+      "start_frame": 4679,
+      "end_frame": 5022,
+      "keyframes": [
+        "004703.webp",
+        "004704.webp",
+        "004754.webp",
+        "004804.webp",
+        "004805.webp",
+        "004837.webp",
+        "004869.webp",
+        "004870.webp",
+        "004915.webp",
+        "004960.webp",
+        "004961.webp",
+        "004991.webp",
+        "005022.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Tiếp theo Phước Hưng sẽ cho phần đậu Hà Lan vào và hành tây.",
+      "start": 200.88,
+      "end": 206.88,
+      "n_words": 14,
+      "start_frame": 5022,
+      "end_frame": 5172,
+      "keyframes": [
+        "005022.webp",
+        "005023.webp",
+        "005072.webp",
+        "005121.webp",
+        "005122.webp",
+        "005147.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hưng sẽ cho phần nước sốt vào để cho mực thấm vị.",
+      "start": 206.88,
+      "end": 215.84,
+      "n_words": 12,
+      "start_frame": 5172,
+      "end_frame": 5396,
+      "keyframes": [
+        "005173.webp",
+        "005174.webp",
+        "005226.webp",
+        "005278.webp",
+        "005279.webp",
+        "005340.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cuối cùng Phước Hưng sẽ cho vào ớt sừng cắt quả trám, một ít rau răm để tăng thêm hương vị đặc trưng cho món mực.",
+      "start": 215.84,
+      "end": 223.84,
+      "n_words": 26,
+      "start_frame": 5396,
+      "end_frame": 5596,
+      "keyframes": [
+        "005402.webp",
+        "005403.webp",
+        "005444.webp",
+        "005485.webp",
+        "005486.webp",
+        "005527.webp",
+        "005568.webp",
+        "005569.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Món ăn chưa hoàn thành mà Kim Thảo đứng kế bên đã cảm nhận được mùi hương rất là hấp dẫn rồi và bây giờ Phước Hưng sẽ tắt bếp nè.",
+      "start": 223.84,
+      "end": 231.96,
+      "n_words": 31,
+      "start_frame": 5596,
+      "end_frame": 5799,
+      "keyframes": [
+        "005597.webp",
+        "005625.webp",
+        "005626.webp",
+        "005673.webp",
+        "005720.webp",
+        "005721.webp",
+        "005752.webp",
+        "005784.webp",
+        "005785.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Vậy là món xào đã xong.",
+      "start": 231.96,
+      "end": 233.28,
+      "n_words": 6,
+      "start_frame": 5799,
+      "end_frame": 5832,
+      "keyframes": [
+        "005808.webp",
+        "005832.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Để có thể nhớ được trọn vẹn công thức của ngày hôm nay, chúng ta chỉ cần lấy điện thoại ra và quét mã QR trên màn hình.",
+      "start": 233.28,
+      "end": 240.72,
+      "n_words": 28,
+      "start_frame": 5832,
+      "end_frame": 6018,
+      "keyframes": [
+        "005832.webp",
+        "005833.webp",
+        "005903.webp",
+        "005974.webp",
+        "005975.webp",
+        "005999.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và bây giờ ở đây Phước Hưng cũng đã chuẩn bị sẵn một cái dĩa để trình bày ra món ăn rất là đẹp luôn.",
+      "start": 240.72,
+      "end": 245.72,
+      "n_words": 25,
+      "start_frame": 6018,
+      "end_frame": 6143,
+      "keyframes": [
+        "006024.webp",
+        "006025.webp",
+        "006065.webp",
+        "006106.webp",
+        "006107.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Phước Hưng sẽ cho mực vào, khói bốc lên nghi ngút luôn ạ.",
+      "start": 245.72,
+      "end": 251.56,
+      "n_words": 13,
+      "start_frame": 6143,
+      "end_frame": 6289,
+      "keyframes": [
+        "006148.webp",
+        "006190.webp",
+        "006191.webp",
+        "006211.webp",
+        "006231.webp",
+        "006232.webp",
+        "006262.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Mùi thơm của hải sản và rau củ hòa trộn với nhau rất là hấp dẫn.",
+      "start": 251.56,
+      "end": 258.96,
+      "n_words": 16,
+      "start_frame": 6289,
+      "end_frame": 6474,
+      "keyframes": [
+        "006292.webp",
+        "006293.webp",
+        "006356.webp",
+        "006420.webp",
+        "006421.webp",
+        "006450.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta sẽ rắc lên một ít tỏi phi lúc ban đầu chúng ta đã phi nha.",
+      "start": 258.96,
+      "end": 265.04,
+      "n_words": 17,
+      "start_frame": 6474,
+      "end_frame": 6626,
+      "keyframes": [
+        "006480.webp",
+        "006481.webp",
+        "006508.webp",
+        "006536.webp",
+        "006537.webp",
+        "006574.webp",
+        "006612.webp",
+        "006613.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Và bây giờ mời Kim Thảo thưởng thức món xào của ngày hôm nay như thế nào?",
+      "start": 265.04,
+      "end": 268.52,
+      "n_words": 17,
+      "start_frame": 6626,
+      "end_frame": 6713,
+      "keyframes": [
+        "006641.webp",
+        "006670.webp",
+        "006671.webp",
+        "006691.webp",
+        "006712.webp",
+        "006713.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cảm ơn Phước Hưng.",
+      "start": 268.52,
+      "end": 274.6,
+      "n_words": 4,
+      "start_frame": 6713,
+      "end_frame": 6865,
+      "keyframes": [
+        "006713.webp",
+        "006739.webp",
+        "006765.webp",
+        "006766.webp",
+        "006815.webp",
+        "006865.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Kim Thảo cảm nhận được độ giòn rất là giòn của đậu Hà Lan, giữ được độ giòn tươi ngon nha rồi.",
+      "start": 274.6,
+      "end": 281.12,
+      "n_words": 22,
+      "start_frame": 6865,
+      "end_frame": 7028,
+      "keyframes": [
+        "006865.webp",
+        "006866.webp",
+        "006901.webp",
+        "006936.webp",
+        "006937.webp",
+        "006991.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Mực sữa thì ngọt thịt và thấm vị, ăn rất là thơm.",
+      "start": 281.12,
+      "end": 285.36,
+      "n_words": 12,
+      "start_frame": 7028,
+      "end_frame": 7134,
+      "keyframes": [
+        "007045.webp",
+        "007046.webp",
+        "007095.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nói chung là món ăn này 10 điểm không có nhưng nữa nha. Cảm ơn Kim Thảo.",
+      "start": 285.36,
+      "end": 288.72,
+      "n_words": 17,
+      "start_frame": 7134,
+      "end_frame": 7218,
+      "keyframes": [
+        "007145.webp",
+        "007146.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và để đạt được hiệu quả dinh dưỡng thì các bạn có thể tham khảo món ăn ngày hôm nay cùng với bản thực đơn sau đây.",
+      "start": 288.72,
+      "end": 296.8,
+      "n_words": 27,
+      "start_frame": 7218,
+      "end_frame": 7420,
+      "keyframes": [
+        "007225.webp",
+        "007304.webp",
+        "007309.webp",
+        "007368.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Một món hải sản thơm ngon lại còn tốt cho sức khỏe, hãy chiêu đãi cả nhà mình ngay nhé.",
+      "start": 296.8,
+      "end": 301.88,
+      "n_words": 20,
+      "start_frame": 7420,
+      "end_frame": 7547,
+      "keyframes": [
+        "007428.webp",
+        "007429.webp",
+        "007487.webp",
+        "007546.webp",
+        "007547.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và để xem lại trọn vẹn công thức của món ăn ngày hôm nay cùng với rất nhiều những món ăn độc đáo khác, chỉ cần truy cập vào YouTube, website, fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 301.88,
+      "end": 312.96,
+      "n_words": 39,
+      "start_frame": 7547,
+      "end_frame": 7824,
+      "keyframes": [
+        "007547.webp",
+        "007674.webp",
+        "007802.webp",
+        "007803.webp"
+      ],
+      "keyframe_count": 4
+    }
+  ]
+}

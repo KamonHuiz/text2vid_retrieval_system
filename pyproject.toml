@@ -1,0 +1,22 @@
+[project]
+name = "utots-system"
+version = "1.0.0"
+description = "AIC HCMC 2026 -- search API + UI trên 4 model fine-tune (BGE-VL, DFN5B, SigLIP2, PE-Core-ft2)"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi[standard]>=0.139.0",
+    "uvicorn>=0.51.0",
+    "numpy>=1.26",
+    "pillow>=10.0",
+    "requests>=2.31",
+    "qdrant-client>=1.19.0",
+    "pyyaml>=6.0",
+    # -- third_party/mm_finetune_bench --
+    "torch>=2.4",
+    "torchvision>=0.19",
+    "transformers>=4.57",
+    "accelerate>=0.34",
+    "peft>=0.13",
+    "open_clip_torch>=2.26",
+]

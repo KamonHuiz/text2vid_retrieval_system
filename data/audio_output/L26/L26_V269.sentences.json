@@ -1,0 +1,921 @@
+{
+  "video_id": "L26_V269",
+  "fps": 25.0,
+  "n_sentences": 53,
+  "total_words": 979,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày hôm nay.",
+      "start": 10.52,
+      "end": 12.64,
+      "n_words": 6,
+      "start_frame": 263,
+      "end_frame": 316,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Lòng anh thấy tự nhiên rất là thanh nhẹ, anh muốn làm một cái món gì đó nó thanh đạm.",
+      "start": 12.64,
+      "end": 17.76,
+      "n_words": 20,
+      "start_frame": 316,
+      "end_frame": 444,
+      "keyframes": [
+        "000364.webp",
+        "000429.webp",
+        "000430.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hay quá anh Vũ!",
+      "start": 17.76,
+      "end": 19.6,
+      "n_words": 4,
+      "start_frame": 444,
+      "end_frame": 490,
+      "keyframes": [
+        "000459.webp",
+        "000488.webp",
+        "000489.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hôm nay sẽ sử dụng một nguyên liệu nữa, một loại hoa của một cái cây.",
+      "start": 19.6,
+      "end": 23.48,
+      "n_words": 16,
+      "start_frame": 490,
+      "end_frame": 587,
+      "keyframes": [
+        "000513.webp",
+        "000537.webp",
+        "000538.webp",
+        "000562.webp",
+        "000586.webp",
+        "000587.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cái cây này là từ cái thân, cái lá cho tới cái hạt luôn, hay là cái hột á, mình đều dùng được luôn.",
+      "start": 23.48,
+      "end": 29.56,
+      "n_words": 24,
+      "start_frame": 587,
+      "end_frame": 739,
+      "keyframes": [
+        "000587.webp",
+        "000632.webp",
+        "000678.webp",
+        "000679.webp",
+        "000706.webp",
+        "000734.webp",
+        "000735.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Wow, cây gì mà giá trị dữ vậy ta?",
+      "start": 29.56,
+      "end": 31.76,
+      "n_words": 9,
+      "start_frame": 739,
+      "end_frame": 794,
+      "keyframes": [
+        "000766.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Anh đừng nói là cây chuối nha?",
+      "start": 31.76,
+      "end": 33.84,
+      "n_words": 7,
+      "start_frame": 794,
+      "end_frame": 846,
+      "keyframes": [
+        "000797.webp",
+        "000798.webp",
+        "000831.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nó đó em, chúng ta dùng cái hoa chuối hột.",
+      "start": 33.84,
+      "end": 36.48,
+      "n_words": 10,
+      "start_frame": 846,
+      "end_frame": 912,
+      "keyframes": [
+        "000864.webp",
+        "000865.webp",
+        "000887.webp",
+        "000909.webp",
+        "000910.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta sẽ làm món này thì rất là ngon.",
+      "start": 36.48,
+      "end": 38.48,
+      "n_words": 10,
+      "start_frame": 912,
+      "end_frame": 962,
+      "keyframes": [
+        "000934.webp",
+        "000959.webp",
+        "000960.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Xin mời các bạn cùng theo dõi thực hiện món chay nhẹ nhàng, thanh đạm ngày hôm nay nha các bạn.",
+      "start": 38.48,
+      "end": 44.96,
+      "n_words": 21,
+      "start_frame": 962,
+      "end_frame": 1124,
+      "keyframes": [
+        "001015.webp",
+        "001071.webp",
+        "001072.webp",
+        "001096.webp",
+        "001121.webp",
+        "001122.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Nhã nhặn, thanh tao, gỏi hoa chuối thịt gà chay.",
+      "start": 44.96,
+      "end": 64.48,
+      "n_words": 10,
+      "start_frame": 1124,
+      "end_frame": 1612,
+      "keyframes": [
+        "001169.webp",
+        "001217.webp",
+        "001218.webp",
+        "001280.webp",
+        "001343.webp",
+        "001358.webp",
+        "001395.webp",
+        "001433.webp",
+        "001434.webp",
+        "001524.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Rất vui khi được gặp lại các bạn đang xem chương trình Món ngon mỗi ngày.",
+      "start": 64.48,
+      "end": 68.16,
+      "n_words": 16,
+      "start_frame": 1612,
+      "end_frame": 1704,
+      "keyframes": [
+        "001614.webp",
+        "001615.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 68.16,
+      "end": 72.24,
+      "n_words": 11,
+      "start_frame": 1704,
+      "end_frame": 1806,
+      "keyframes": [
+        "001710.webp",
+        "001806.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đầu tiên, để tiết kiệm thời gian thì cái bắp chuối này tôi đã luộc trước.",
+      "start": 72.24,
+      "end": 77.0,
+      "n_words": 16,
+      "start_frame": 1806,
+      "end_frame": 1925,
+      "keyframes": [
+        "001806.webp",
+        "001807.webp",
+        "001879.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta nên luộc hoa chuối với lại tí xíu muối và giấm như vậy thì hoa chuối sẽ trắng hơn.",
+      "start": 77.0,
+      "end": 82.0,
+      "n_words": 21,
+      "start_frame": 1925,
+      "end_frame": 2050,
+      "keyframes": [
+        "001952.webp",
+        "001953.webp",
+        "001997.webp",
+        "002042.webp",
+        "002043.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta sẽ cắt bỏ cái cùi chuối ở bên trong, chúng ta lấy những phần lá thôi.",
+      "start": 82.0,
+      "end": 86.68,
+      "n_words": 18,
+      "start_frame": 2050,
+      "end_frame": 2167,
+      "keyframes": [
+        "002057.webp",
+        "002072.webp",
+        "002073.webp",
+        "002136.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Như vậy mà anh Vũ ơi, hoa chuối thường có làm được món này không?",
+      "start": 86.68,
+      "end": 89.84,
+      "n_words": 15,
+      "start_frame": 2167,
+      "end_frame": 2246,
+      "keyframes": [
+        "002199.webp",
+        "002200.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Được chứ em, hoa chuối nào cũng được nhưng mà hoa chuối hột á nó mùi và nó ngon hơn.",
+      "start": 89.84,
+      "end": 95.52,
+      "n_words": 20,
+      "start_frame": 2246,
+      "end_frame": 2388,
+      "keyframes": [
+        "002267.webp",
+        "002335.webp",
+        "002336.webp",
+        "002351.webp",
+        "002366.webp",
+        "002367.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cắt khúc về chúng ta xé cho nó dễ xé, rồi rất là mềm và rất là ngon luôn ấy.",
+      "start": 95.52,
+      "end": 108.0,
+      "n_words": 20,
+      "start_frame": 2388,
+      "end_frame": 2700,
+      "keyframes": [
+        "002409.webp",
+        "002452.webp",
+        "002453.webp",
+        "002485.webp",
+        "002517.webp",
+        "002518.webp",
+        "002571.webp",
+        "002625.webp",
+        "002626.webp",
+        "002664.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Và thưa các bạn, để mì căn thì chúng ta nên chọn mì căn trắng thì chúng ta dễ xé, sợ món ăn chúng ta sẽ đẹp mắt hơn nha các bạn.",
+      "start": 108.0,
+      "end": 115.04,
+      "n_words": 32,
+      "start_frame": 2700,
+      "end_frame": 2876,
+      "keyframes": [
+        "002703.webp",
+        "002704.webp",
+        "002785.webp",
+        "002866.webp",
+        "002867.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Mì căn thì trong món chay thường thường là chúng ta làm giả thịt gà, giả thịt gà đó các bạn.",
+      "start": 115.04,
+      "end": 118.52,
+      "n_words": 21,
+      "start_frame": 2876,
+      "end_frame": 2963,
+      "keyframes": [
+        "002912.webp",
+        "002958.webp",
+        "002959.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và đây ha, chúng ta sẽ xé ra những sợi như vậy, tách ra sẽ làm miếng sợi.",
+      "start": 118.52,
+      "end": 125.36,
+      "n_words": 18,
+      "start_frame": 2963,
+      "end_frame": 3134,
+      "keyframes": [
+        "003004.webp",
+        "003049.webp",
+        "003050.webp",
+        "003090.webp",
+        "003131.webp",
+        "003132.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi xong tiếp tục cà rốt, chúng ta cầm một khúc nhỏ thôi, đây chúng ta sẽ cắt sợi ra.",
+      "start": 125.36,
+      "end": 137.08,
+      "n_words": 20,
+      "start_frame": 3134,
+      "end_frame": 3427,
+      "keyframes": [
+        "003147.webp",
+        "003163.webp",
+        "003164.webp",
+        "003199.webp",
+        "003234.webp",
+        "003235.webp",
+        "003273.webp",
+        "003311.webp",
+        "003312.webp",
+        "003346.webp",
+        "003380.webp",
+        "003381.webp",
+        "003403.webp",
+        "003426.webp",
+        "003427.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Húng lủi chúng ta cũng cắt nhỏ.",
+      "start": 137.08,
+      "end": 139.04,
+      "n_words": 7,
+      "start_frame": 3427,
+      "end_frame": 3476,
+      "keyframes": [
+        "003427.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Em rất là thích ăn những món gỏi mà cho húng lủi nhiều, thịt nhiều vô cho thơm thiệt là thơm anh Vũ.",
+      "start": 139.04,
+      "end": 144.44,
+      "n_words": 23,
+      "start_frame": 3476,
+      "end_frame": 3611,
+      "keyframes": [
+        "003485.webp",
+        "003543.webp",
+        "003544.webp",
+        "003545.webp",
+        "003546.webp",
+        "003584.webp",
+        "003597.webp",
+        "003611.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Và thưa các bạn, để cho món gỏi chúng ta được ngon thì hoa chuối này sau khi luộc xong chúng ta nhớ vắt cho thật ráo nước để hoa chuối giảm vị chát và thấm gia vị hơn nha các bạn.",
+      "start": 144.44,
+      "end": 153.92,
+      "n_words": 42,
+      "start_frame": 3611,
+      "end_frame": 3848,
+      "keyframes": [
+        "003611.webp",
+        "003612.webp",
+        "003654.webp",
+        "003697.webp",
+        "003698.webp",
+        "003728.webp",
+        "003758.webp",
+        "003759.webp",
+        "003798.webp",
+        "003837.webp",
+        "003838.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Rồi xong, bắc lên đây một cái chảo, cho vào đây tí xíu dầu ăn, cho vào bơ, rồi đảo nhanh cho nó vàng đều nha các bạn.",
+      "start": 153.92,
+      "end": 164.48,
+      "n_words": 28,
+      "start_frame": 3848,
+      "end_frame": 4112,
+      "keyframes": [
+        "003857.webp",
+        "003877.webp",
+        "003878.webp",
+        "003896.webp",
+        "003914.webp",
+        "003915.webp",
+        "003939.webp",
+        "003963.webp",
+        "003964.webp",
+        "003992.webp",
+        "004021.webp",
+        "004022.webp",
+        "004038.webp",
+        "004055.webp",
+        "004056.webp",
+        "004076.webp",
+        "004096.webp",
+        "004097.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Cho mì căn đúng rồi, rồi mình xào cho nó săn.",
+      "start": 164.48,
+      "end": 167.24,
+      "n_words": 11,
+      "start_frame": 4112,
+      "end_frame": 4181,
+      "keyframes": [
+        "004139.webp",
+        "004181.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tới đây các bạn đó, hạ lửa nhỏ nha các bạn.",
+      "start": 167.24,
+      "end": 171.56,
+      "n_words": 11,
+      "start_frame": 4181,
+      "end_frame": 4289,
+      "keyframes": [
+        "004181.webp",
+        "004182.webp",
+        "004216.webp",
+        "004250.webp",
+        "004251.webp",
+        "004268.webp",
+        "004285.webp",
+        "004286.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta mới nêm vào đây nửa muỗng cà phê bột ngọt Ajinomoto, nửa muỗng canh nước tương Phú Sĩ.",
+      "start": 171.56,
+      "end": 177.04,
+      "n_words": 20,
+      "start_frame": 4289,
+      "end_frame": 4426,
+      "keyframes": [
+        "004305.webp",
+        "004324.webp",
+        "004325.webp",
+        "004339.webp",
+        "004353.webp",
+        "004354.webp",
+        "004370.webp",
+        "004386.webp",
+        "004387.webp",
+        "004405.webp",
+        "004423.webp",
+        "004424.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Vậy là xong hả anh?",
+      "start": 177.04,
+      "end": 178.08,
+      "n_words": 5,
+      "start_frame": 4426,
+      "end_frame": 4452,
+      "keyframes": [
+        "004443.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đúng rồi, bây giờ phúc mình tăng lửa lên cho mì căn đó, sôi ha.",
+      "start": 178.08,
+      "end": 183.64,
+      "n_words": 15,
+      "start_frame": 4452,
+      "end_frame": 4591,
+      "keyframes": [
+        "004462.webp",
+        "004463.webp",
+        "004481.webp",
+        "004500.webp",
+        "004501.webp",
+        "004527.webp",
+        "004553.webp",
+        "004554.webp",
+        "004591.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Rồi xong chúng ta tắt lửa.",
+      "start": 183.64,
+      "end": 185.28,
+      "n_words": 6,
+      "start_frame": 4591,
+      "end_frame": 4632,
+      "keyframes": [
+        "004591.webp",
+        "004629.webp",
+        "004630.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Như chúng ta cũng đã biết thì mì căn làm từ bột mì, giúp thay thế cái chất đạm từ động vật để món ăn chúng ta cân bằng được dinh dưỡng hơn.",
+      "start": 185.28,
+      "end": 192.88,
+      "n_words": 33,
+      "start_frame": 4632,
+      "end_frame": 4822,
+      "keyframes": [
+        "004652.webp",
+        "004674.webp",
+        "004675.webp",
+        "004697.webp",
+        "004719.webp",
+        "004720.webp",
+        "004734.webp",
+        "004749.webp",
+        "004750.webp",
+        "004783.webp",
+        "004817.webp",
+        "004818.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Hoa chuối thì có tác dụng là chống viêm nè, ngăn các bệnh như là thiếu máu nè hoặc là chống lão hóa rất là tốt.",
+      "start": 192.88,
+      "end": 198.56,
+      "n_words": 26,
+      "start_frame": 4822,
+      "end_frame": 4964,
+      "keyframes": [
+        "004890.webp",
+        "004963.webp",
+        "004964.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hoa chuối cũng là món ăn rất là tốt cho những chị em mà đang nuôi con nhỏ.",
+      "start": 198.56,
+      "end": 202.96,
+      "n_words": 18,
+      "start_frame": 4964,
+      "end_frame": 5074,
+      "keyframes": [
+        "004964.webp",
+        "004978.webp",
+        "004992.webp",
+        "004993.webp",
+        "005022.webp",
+        "005052.webp",
+        "005053.webp",
+        "005065.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta sẽ pha nước trộn cho các bạn: sẽ cho nửa muỗng cà phê bột ngọt Ajinomoto, khoảng nửa muỗng cà phê muối nha các bạn, hai muỗng canh giấm gạo lên men Ajinomoto, cho vào đây khoảng một muỗng canh cái tương Phú Sĩ các bạn tạo cái mùi thơm cũng như cái màu đẹp cho cái nước trộn gỏi của mình.",
+      "start": 202.96,
+      "end": 223.2,
+      "n_words": 64,
+      "start_frame": 5074,
+      "end_frame": 5580,
+      "keyframes": [
+        "005078.webp",
+        "005079.webp",
+        "005100.webp",
+        "005122.webp",
+        "005123.webp",
+        "005138.webp",
+        "005153.webp",
+        "005154.webp",
+        "005183.webp",
+        "005212.webp",
+        "005213.webp",
+        "005225.webp",
+        "005238.webp",
+        "005239.webp",
+        "005250.webp",
+        "005261.webp",
+        "005262.webp",
+        "005284.webp",
+        "005306.webp",
+        "005307.webp",
+        "005326.webp",
+        "005345.webp",
+        "005346.webp",
+        "005373.webp",
+        "005401.webp",
+        "005402.webp",
+        "005422.webp",
+        "005443.webp",
+        "005444.webp",
+        "005509.webp",
+        "005575.webp",
+        "005576.webp"
+      ],
+      "keyframe_count": 32
+    },
+    {
+      "text": "Rồi chúng ta cho thêm vào đây ớt sừng các bạn, nửa muỗng cà phê thôi.",
+      "start": 223.2,
+      "end": 227.16,
+      "n_words": 16,
+      "start_frame": 5580,
+      "end_frame": 5679,
+      "keyframes": [
+        "005597.webp",
+        "005618.webp",
+        "005619.webp",
+        "005646.webp",
+        "005673.webp",
+        "005674.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Qua đây là cái nhân vật chính đó, các bạn thấy chúng ta cho các nguyên liệu còn lại vào: ớt sừng cắt sợi, cà rốt cắt sợi và rau thơm là húng lủi chúng ta cho vào luôn.",
+      "start": 227.16,
+      "end": 237.0,
+      "n_words": 39,
+      "start_frame": 5679,
+      "end_frame": 5925,
+      "keyframes": [
+        "005705.webp",
+        "005736.webp",
+        "005737.webp",
+        "005768.webp",
+        "005799.webp",
+        "005800.webp",
+        "005828.webp",
+        "005856.webp",
+        "005857.webp",
+        "005888.webp",
+        "005919.webp",
+        "005920.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Mì căn các bạn nguội rồi nha, chúng ta cho vào luôn.",
+      "start": 237.0,
+      "end": 239.96,
+      "n_words": 12,
+      "start_frame": 5925,
+      "end_frame": 5999,
+      "keyframes": [
+        "005959.webp",
+        "005998.webp",
+        "005999.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nước trộn gỏi rất là thơm luôn á anh Vũ, cho vừa hết nước trộn gỏi này vô là vừa ăn nha các bạn.",
+      "start": 239.96,
+      "end": 245.6,
+      "n_words": 24,
+      "start_frame": 5999,
+      "end_frame": 6140,
+      "keyframes": [
+        "005999.webp",
+        "006032.webp",
+        "006065.webp",
+        "006066.webp",
+        "006102.webp",
+        "006139.webp",
+        "006140.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cho một ít đậu phộng vô đi ha, mè trắng rắc ít.",
+      "start": 245.6,
+      "end": 248.32,
+      "n_words": 12,
+      "start_frame": 6140,
+      "end_frame": 6208,
+      "keyframes": [
+        "006140.webp",
+        "006157.webp",
+        "006175.webp",
+        "006176.webp",
+        "006189.webp",
+        "006202.webp",
+        "006203.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Rất là đơn giản phải không ạ?",
+      "start": 248.32,
+      "end": 249.88,
+      "n_words": 7,
+      "start_frame": 6208,
+      "end_frame": 6247,
+      "keyframes": [
+        "006244.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nhưng mà để có thể chi tiết cẩn thận ghi lại công thức của món ăn ngày hôm nay thì các bạn khán giả có thể quét mã QR của chúng tôi đang hiện trên màn hình.",
+      "start": 249.88,
+      "end": 260.44,
+      "n_words": 37,
+      "start_frame": 6247,
+      "end_frame": 6511,
+      "keyframes": [
+        "006285.webp",
+        "006286.webp",
+        "006373.webp",
+        "006460.webp",
+        "006461.webp",
+        "006485.webp",
+        "006510.webp",
+        "006511.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Rồi bây giờ chúng ta sẽ bày gỏi ra dĩa.",
+      "start": 260.44,
+      "end": 264.04,
+      "n_words": 10,
+      "start_frame": 6511,
+      "end_frame": 6601,
+      "keyframes": [
+        "006511.webp",
+        "006534.webp",
+        "006557.webp",
+        "006558.webp",
+        "006563.webp",
+        "006568.webp",
+        "006569.webp",
+        "006596.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Món này chúng ta ăn kèm với bánh đa ha, cũng rất là ngon.",
+      "start": 264.04,
+      "end": 269.36,
+      "n_words": 14,
+      "start_frame": 6601,
+      "end_frame": 6734,
+      "keyframes": [
+        "006624.webp",
+        "006625.webp",
+        "006672.webp",
+        "006720.webp",
+        "006721.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cao lên như vậy, wow dĩa gỏi rất là ngon và hấp dẫn đó.",
+      "start": 269.36,
+      "end": 275.4,
+      "n_words": 14,
+      "start_frame": 6734,
+      "end_frame": 6885,
+      "keyframes": [
+        "006748.webp",
+        "006776.webp",
+        "006777.webp",
+        "006824.webp",
+        "006872.webp",
+        "006873.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Điểm những lá xanh xung quanh, rải thêm ít đậu phộng rang lên ha cho hấp dẫn đó.",
+      "start": 275.4,
+      "end": 281.08,
+      "n_words": 18,
+      "start_frame": 6885,
+      "end_frame": 7027,
+      "keyframes": [
+        "006901.webp",
+        "006929.webp",
+        "006930.webp",
+        "006978.webp",
+        "007027.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Món gỏi chúng ta có, chúng ta ăn với món bắp cải cuộn khoai chay và canh củ sen với lại rong biển.",
+      "start": 281.08,
+      "end": 287.96,
+      "n_words": 23,
+      "start_frame": 7027,
+      "end_frame": 7199,
+      "keyframes": [
+        "007027.webp",
+        "007028.webp",
+        "007074.webp",
+        "007120.webp",
+        "007121.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hay quá là kết hợp thành một bữa ăn chay hoàn chỉnh luôn các bạn.",
+      "start": 287.96,
+      "end": 291.04,
+      "n_words": 15,
+      "start_frame": 7199,
+      "end_frame": 7276,
+      "keyframes": [
+        "007206.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thịt gà chay bùi bùi thơm, hoa chuối chát nhẹ giòn cuộn với nước gỏi chua ngọt đặc trưng, ngon chưa từng.",
+      "start": 291.76,
+      "end": 300.44,
+      "n_words": 22,
+      "start_frame": 7294,
+      "end_frame": 7511,
+      "keyframes": [
+        "007349.webp",
+        "007406.webp",
+        "007407.webp",
+        "007462.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Một món gỏi thanh đạm nhưng mà rất là ngon và bổ dưỡng, hãy thử ngay nha các bạn.",
+      "start": 300.44,
+      "end": 305.8,
+      "n_words": 19,
+      "start_frame": 7511,
+      "end_frame": 7645,
+      "keyframes": [
+        "007517.webp",
+        "007518.webp",
+        "007581.webp",
+        "007644.webp",
+        "007645.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và để xem lại công thức của món ăn ngày hôm nay thì hãy truy cập vào YouTube, website, fanpage của chúng tôi.",
+      "start": 305.8,
+      "end": 313.4,
+      "n_words": 23,
+      "start_frame": 7645,
+      "end_frame": 7835,
+      "keyframes": [
+        "007645.webp",
+        "007677.webp",
+        "007709.webp",
+        "007710.webp",
+        "007760.webp",
+        "007811.webp",
+        "007812.webp"
+      ],
+      "keyframe_count": 7
+    }
+  ]
+}

@@ -1,0 +1,686 @@
+{
+  "video_id": "L26_V047",
+  "fps": 25.0,
+  "n_sentences": 41,
+  "total_words": 983,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày: Sườn bò hầm đậu phộng béo mềm, bùi thơm cực đưa cơm.",
+      "start": 10.48,
+      "end": 30.4,
+      "n_words": 16,
+      "start_frame": 262,
+      "end_frame": 760,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000361.webp",
+        "000422.webp",
+        "000423.webp",
+        "000489.webp",
+        "000555.webp",
+        "000556.webp",
+        "000605.webp",
+        "000655.webp",
+        "000656.webp",
+        "000746.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Rất vui được gặp lại các bạn khán giả đang đến với chương trình Món ngon mỗi ngày - Nấu chuẩn ăn lành.",
+      "start": 30.4,
+      "end": 39.12,
+      "n_words": 23,
+      "start_frame": 760,
+      "end_frame": 978,
+      "keyframes": [
+        "000836.webp",
+        "000837.webp",
+        "000964.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chương trình được tài trợ bởi Công ty Ajinomoto Việt Nam.",
+      "start": 39.12,
+      "end": 43.68,
+      "n_words": 11,
+      "start_frame": 978,
+      "end_frame": 1092,
+      "keyframes": [
+        "001091.webp",
+        "001092.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Với món ăn ngày hôm nay thì Phương thấy Phước Hưng đã chuẩn bị sườn bò rồi nè. Món ăn gì vậy Phước Hưng?",
+      "start": 43.68,
+      "end": 48.84,
+      "n_words": 24,
+      "start_frame": 1092,
+      "end_frame": 1221,
+      "keyframes": [
+        "001092.webp",
+        "001115.webp",
+        "001139.webp",
+        "001140.webp",
+        "001187.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và ngày hôm nay, Phước Hưng sẽ hướng dẫn cho các bạn món sườn bò hầm đậu phộng, sẽ rất là hấp dẫn cho cả gia đình của chúng ta ăn luôn.",
+      "start": 48.84,
+      "end": 56.12,
+      "n_words": 32,
+      "start_frame": 1221,
+      "end_frame": 1403,
+      "keyframes": [
+        "001235.webp",
+        "001236.webp",
+        "001280.webp",
+        "001324.webp",
+        "001325.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và theo lời tư vấn của chuyên gia dinh dưỡng Tiến sĩ Đào Thị Yến Phi, đối với món ăn ngày hôm nay thì sẽ rất là phù hợp với ai mới ốm dậy nè, cần bồi bổ chắc khỏe cơ xương thì chúng ta nên lưu ý với món ăn bên này sẽ rất là phù hợp luôn. Hấp dẫn quá, bây giờ mình làm nhé!",
+      "start": 56.12,
+      "end": 72.72,
+      "n_words": 67,
+      "start_frame": 1403,
+      "end_frame": 1818,
+      "keyframes": [
+        "001422.webp",
+        "001519.webp",
+        "001520.webp",
+        "001562.webp",
+        "001605.webp",
+        "001606.webp",
+        "001717.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Rồi, công đoạn đầu tiên cho món ăn này thì chúng ta sẽ ướp sườn bò.",
+      "start": 72.72,
+      "end": 76.68,
+      "n_words": 16,
+      "start_frame": 1818,
+      "end_frame": 1917,
+      "keyframes": [
+        "001828.webp",
+        "001829.webp",
+        "001873.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Phước Hưng sẽ cho vào đây một muỗng canh hành tím và tỏi băm, một muỗng rưỡi cà phê hạt nêm Aji-msg heo, trộn đều để cho sườn bò được thấm khoảng 30 phút.",
+      "start": 76.68,
+      "end": 92.72,
+      "n_words": 34,
+      "start_frame": 1917,
+      "end_frame": 2318,
+      "keyframes": [
+        "001918.webp",
+        "001919.webp",
+        "001942.webp",
+        "001966.webp",
+        "001967.webp",
+        "002002.webp",
+        "002038.webp",
+        "002039.webp",
+        "002080.webp",
+        "002122.webp",
+        "002123.webp",
+        "002162.webp",
+        "002202.webp",
+        "002203.webp",
+        "002262.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Phần rau ôm và ngò gai thì chúng ta sẽ cắt thành từng khúc ngắn vừa ăn, còn phần ớt sừng thì chúng ta sẽ cắt lát mỏng xéo.",
+      "start": 92.72,
+      "end": 105.2,
+      "n_words": 29,
+      "start_frame": 2318,
+      "end_frame": 2630,
+      "keyframes": [
+        "002321.webp",
+        "002322.webp",
+        "002377.webp",
+        "002432.webp",
+        "002433.webp",
+        "002513.webp",
+        "002594.webp",
+        "002595.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Và bây giờ tiếp theo, Phước Hưng sẽ đặt một cái nồi lên trên bếp để chúng ta hầm sườn.",
+      "start": 105.2,
+      "end": 110.16,
+      "n_words": 20,
+      "start_frame": 2630,
+      "end_frame": 2754,
+      "keyframes": [
+        "002635.webp",
+        "002675.webp",
+        "002676.webp",
+        "002715.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Nồi cũng đã nóng rồi, Hưng sẽ cho vào đây hai muỗng canh dầu ăn, cho hết phần sườn bò mà chúng ta đã ướp vào.",
+      "start": 110.16,
+      "end": 116.24,
+      "n_words": 26,
+      "start_frame": 2754,
+      "end_frame": 2906,
+      "keyframes": [
+        "002755.webp",
+        "002756.webp",
+        "002799.webp",
+        "002843.webp",
+        "002844.webp",
+        "002875.webp",
+        "002906.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Và đây cũng là một cái lưu ý cho quý vị, cái lưu ý cho quý vị khán giả nhé: Chúng ta nên xào săn thịt sườn bò trước khi nấu giúp cho thịt thấm vị sẽ thơm ngon hơn.",
+      "start": 116.24,
+      "end": 123.84,
+      "n_words": 40,
+      "start_frame": 2906,
+      "end_frame": 3096,
+      "keyframes": [
+        "002906.webp",
+        "002907.webp",
+        "002944.webp",
+        "002982.webp",
+        "002983.webp",
+        "003039.webp",
+        "003095.webp",
+        "003096.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Đối với sườn bò thì Minh Phương được biết rất là giàu chất đạm, vì thế là thực phẩm rất là thích hợp để bồi bổ cơ thể, ngoài ra cũng giúp cho tăng cái khối cơ xương khớp.",
+      "start": 123.84,
+      "end": 134.52,
+      "n_words": 39,
+      "start_frame": 3096,
+      "end_frame": 3363,
+      "keyframes": [
+        "003096.webp",
+        "003129.webp",
+        "003162.webp",
+        "003163.webp",
+        "003209.webp",
+        "003256.webp",
+        "003257.webp",
+        "003309.webp",
+        "003361.webp",
+        "003362.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Bây giờ thì phần sườn bò cũng đã săn rồi, tiếp tục Phước Hưng sẽ cho vào đây ba muỗng canh cà vắp.",
+      "start": 134.52,
+      "end": 143.48,
+      "n_words": 23,
+      "start_frame": 3363,
+      "end_frame": 3587,
+      "keyframes": [
+        "003393.webp",
+        "003425.webp",
+        "003426.webp",
+        "003505.webp",
+        "003585.webp",
+        "003586.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cà vắp thì tạo cho cái món ăn nó có cái màu đẹp hơn và cũng có một cái vị chua nhẹ nhẹ đúng không?",
+      "start": 143.48,
+      "end": 148.84,
+      "n_words": 25,
+      "start_frame": 3587,
+      "end_frame": 3721,
+      "keyframes": [
+        "003627.webp",
+        "003668.webp",
+        "003669.webp",
+        "003702.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đúng rồi, Phước Hưng sẽ cho vào đây một trái dừa tươi, tiếp tục Phước Hưng sẽ thêm nước lạnh cho ngập mặt thịt.",
+      "start": 148.84,
+      "end": 159.76,
+      "n_words": 24,
+      "start_frame": 3721,
+      "end_frame": 3994,
+      "keyframes": [
+        "003736.webp",
+        "003737.webp",
+        "003811.webp",
+        "003885.webp",
+        "003886.webp",
+        "003941.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Phương thấy không, cái màu rất là đẹp luôn và thơm nữa chứ!",
+      "start": 159.76,
+      "end": 164.96,
+      "n_words": 13,
+      "start_frame": 3994,
+      "end_frame": 4124,
+      "keyframes": [
+        "003997.webp",
+        "003998.webp",
+        "004029.webp",
+        "004060.webp",
+        "004061.webp",
+        "004093.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Tiếp theo Phước Hưng sẽ cho vào đây phân nửa lượng củ hành tây bi.",
+      "start": 164.96,
+      "end": 169.28,
+      "n_words": 15,
+      "start_frame": 4124,
+      "end_frame": 4232,
+      "keyframes": [
+        "004126.webp",
+        "004127.webp",
+        "004157.webp",
+        "004187.webp",
+        "004188.webp",
+        "004228.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Tiếp theo Phước Hưng sẽ cho hết cái phần đậu phộng vào nấu cùng lúc với phần sườn luôn, như vậy thì sườn mềm thì đậu phộng mới bùi được.",
+      "start": 169.28,
+      "end": 178.32,
+      "n_words": 30,
+      "start_frame": 4232,
+      "end_frame": 4458,
+      "keyframes": [
+        "004268.webp",
+        "004269.webp",
+        "004311.webp",
+        "004353.webp",
+        "004354.webp",
+        "004390.webp",
+        "004426.webp",
+        "004427.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta nên nấu với lửa nhỏ vừa giúp cho bò không bị mất nhiều nước.",
+      "start": 178.32,
+      "end": 183.28,
+      "n_words": 16,
+      "start_frame": 4458,
+      "end_frame": 4582,
+      "keyframes": [
+        "004469.webp",
+        "004511.webp",
+        "004512.webp",
+        "004546.webp",
+        "004581.webp",
+        "004582.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ thì phần sườn bò của mình cũng đã gần mềm rồi, cho vào đây đậu Hà Lan hạt nè, cho hết cái phần cà rốt và chúng ta đã tỉa hoa vào, tiếp tục hầm.",
+      "start": 183.28,
+      "end": 194.08,
+      "n_words": 37,
+      "start_frame": 4582,
+      "end_frame": 4852,
+      "keyframes": [
+        "004582.webp",
+        "004623.webp",
+        "004664.webp",
+        "004665.webp",
+        "004705.webp",
+        "004746.webp",
+        "004747.webp",
+        "004801.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Phần hành tây bi còn lại luôn cho vào đây, ba muỗng cà phê hạt nêm Aji-msg heo và một muỗng cà phê đường.",
+      "start": 194.08,
+      "end": 203.08,
+      "n_words": 24,
+      "start_frame": 4852,
+      "end_frame": 5077,
+      "keyframes": [
+        "004855.webp",
+        "004856.webp",
+        "004884.webp",
+        "004913.webp",
+        "004914.webp",
+        "004959.webp",
+        "005005.webp",
+        "005006.webp",
+        "005044.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Tiếp tục Phước Hưng đậy nắp vung lại và chúng ta hầm đến khi nào sườn bò chín mềm là được.",
+      "start": 203.08,
+      "end": 207.92,
+      "n_words": 21,
+      "start_frame": 5077,
+      "end_frame": 5198,
+      "keyframes": [
+        "005083.webp",
+        "005084.webp",
+        "005104.webp",
+        "005125.webp",
+        "005126.webp",
+        "005162.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và đối với món ăn ngày hôm nay thì chúng ta có thể nấu với nồi áp suất để tiết kiệm thời gian hơn.",
+      "start": 207.92,
+      "end": 213.08,
+      "n_words": 24,
+      "start_frame": 5198,
+      "end_frame": 5327,
+      "keyframes": [
+        "005199.webp",
+        "005200.webp",
+        "005259.webp",
+        "005319.webp",
+        "005320.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bò cũng đã chín mềm rồi, rau củ nè giữ được trọn vẹn màu sắc không có bị nát nữa.",
+      "start": 213.08,
+      "end": 218.84,
+      "n_words": 20,
+      "start_frame": 5327,
+      "end_frame": 5471,
+      "keyframes": [
+        "005340.webp",
+        "005361.webp",
+        "005362.webp",
+        "005389.webp",
+        "005416.webp",
+        "005417.webp",
+        "005439.webp",
+        "005461.webp",
+        "005462.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Bây giờ Phước Hưng sẽ sử dụng một ít bột năng, chúng ta sẽ làm độ sánh cho sườn bò.",
+      "start": 218.84,
+      "end": 223.92,
+      "n_words": 20,
+      "start_frame": 5471,
+      "end_frame": 5598,
+      "keyframes": [
+        "005541.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Hưng sẽ cho vào đó, Minh Phương thấy chưa, bây giờ có được một cái độ sánh rất là nhè nhẹ.",
+      "start": 223.92,
+      "end": 229.04,
+      "n_words": 21,
+      "start_frame": 5598,
+      "end_frame": 5726,
+      "keyframes": [
+        "005621.webp",
+        "005622.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Như vậy là bây giờ chúng ta tắt bếp. Vậy là đã xong rồi, chúng ta chỉ việc trình bày ra món ăn thôi. Ra món ăn thôi!",
+      "start": 229.04,
+      "end": 234.08,
+      "n_words": 28,
+      "start_frame": 5726,
+      "end_frame": 5852,
+      "keyframes": [
+        "005738.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và quý vị có thấy không, món sườn bò hầm đậu phộng cũng rất là đơn giản đúng không nào?",
+      "start": 234.08,
+      "end": 238.6,
+      "n_words": 20,
+      "start_frame": 5852,
+      "end_frame": 5965,
+      "keyframes": [
+        "005854.webp",
+        "005855.webp",
+        "005909.webp",
+        "005963.webp",
+        "005964.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Vậy thì nhanh tay quét mã QR đang hiển thị trên màn hình để lưu lại ngay công thức nấu chuẩn, đủ dinh dưỡng các bạn nhé.",
+      "start": 238.6,
+      "end": 247.24,
+      "n_words": 27,
+      "start_frame": 5965,
+      "end_frame": 6181,
+      "keyframes": [
+        "006048.webp",
+        "006133.webp",
+        "006134.webp",
+        "006158.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ Phước Hưng sẽ múc sườn bò ra.",
+      "start": 247.24,
+      "end": 257.4,
+      "n_words": 9,
+      "start_frame": 6181,
+      "end_frame": 6435,
+      "keyframes": [
+        "006183.webp",
+        "006184.webp",
+        "006228.webp",
+        "006273.webp",
+        "006274.webp",
+        "006324.webp",
+        "006374.webp",
+        "006375.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Phần nước hầm thì có một cái màu rất là hấp dẫn và độ sánh vừa phải, sườn bò thì nhìn thôi là đã cảm nhận được rất là mềm rồi đúng không Phước Hưng?",
+      "start": 257.4,
+      "end": 266.08,
+      "n_words": 35,
+      "start_frame": 6435,
+      "end_frame": 6652,
+      "keyframes": [
+        "006462.webp",
+        "006549.webp",
+        "006550.webp",
+        "006607.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Rồi cho vào đây một ít ớt sừng nè.",
+      "start": 266.08,
+      "end": 269.36,
+      "n_words": 9,
+      "start_frame": 6652,
+      "end_frame": 6734,
+      "keyframes": [
+        "006664.webp",
+        "006665.webp",
+        "006701.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cuối cùng Phước Hưng sẽ đặt lên đây một đọt rau ôm để tăng thêm màu xanh cho món ăn.",
+      "start": 269.36,
+      "end": 273.96,
+      "n_words": 20,
+      "start_frame": 6734,
+      "end_frame": 6849,
+      "keyframes": [
+        "006738.webp",
+        "006739.webp",
+        "006811.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Để đạt được hiệu quả giúp xây dựng khối cơ xương thì các bạn nên tham khảo món ăn này cùng với bản thực đơn cho một ngày sau đây.",
+      "start": 273.96,
+      "end": 286.2,
+      "n_words": 30,
+      "start_frame": 6849,
+      "end_frame": 7155,
+      "keyframes": [
+        "006883.webp",
+        "006884.webp",
+        "006960.webp",
+        "007037.webp",
+        "007038.webp",
+        "007100.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và các bạn khán giả cũng đừng quên địa chỉ quen thuộc đó chính là website Món ngon mỗi ngày để tham khảo thông tin của thực đơn các bạn nhé.",
+      "start": 286.2,
+      "end": 293.52,
+      "n_words": 31,
+      "start_frame": 7155,
+      "end_frame": 7338,
+      "keyframes": [
+        "007162.webp",
+        "007163.webp",
+        "007219.webp",
+        "007275.webp",
+        "007276.webp",
+        "007305.webp",
+        "007335.webp",
+        "007336.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Thịt sườn bò chín mềm đậm đà hòa chung vị bùi thơm của các loại đậu, chua nhẹ của nước hầm.",
+      "start": 293.52,
+      "end": 299.64,
+      "n_words": 21,
+      "start_frame": 7338,
+      "end_frame": 7491,
+      "keyframes": [
+        "007411.webp",
+        "007486.webp",
+        "007487.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Miếng bánh mì là nếm trọn được vị ngon ngọt hấp dẫn.",
+      "start": 299.92,
+      "end": 304.76,
+      "n_words": 12,
+      "start_frame": 7498,
+      "end_frame": 7619,
+      "keyframes": [
+        "007553.webp",
+        "007619.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Sườn bò hầm đậu phộng sẽ khiến cả gia đình bạn ấm lòng trong tích tắc.",
+      "start": 304.76,
+      "end": 309.04,
+      "n_words": 16,
+      "start_frame": 7619,
+      "end_frame": 7726,
+      "keyframes": [
+        "007619.webp",
+        "007620.webp",
+        "007693.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chần chờ gì mà không làm ngay!",
+      "start": 309.04,
+      "end": 310.64,
+      "n_words": 7,
+      "start_frame": 7726,
+      "end_frame": 7766,
+      "keyframes": [
+        "007766.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ngoài ra các bạn có thể tham khảo công thức của các món ăn ngon bằng cách truy cập vào kênh YouTube, website và fanpage của chương trình.",
+      "start": 310.64,
+      "end": 318.24,
+      "n_words": 28,
+      "start_frame": 7766,
+      "end_frame": 7956,
+      "keyframes": [
+        "007766.webp",
+        "007767.webp",
+        "007851.webp",
+        "007936.webp",
+        "007937.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

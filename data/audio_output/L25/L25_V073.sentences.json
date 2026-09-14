@@ -1,0 +1,1755 @@
+{
+  "video_id": "L25_V073",
+  "fps": 25.0,
+  "n_sentences": 110,
+  "total_words": 3935,
+  "sentences": [
+    {
+      "text": "Và rất vui gặp lại các em trong chương trình ôn tập chuẩn bị cho kỳ thi trung học phổ thông năm 2024 do Báo Thanh Niên tổ chức.",
+      "start": 0.0,
+      "end": 9.6,
+      "n_words": 29,
+      "start_frame": 0,
+      "end_frame": 240,
+      "keyframes": [
+        "000000.webp",
+        "000033.webp",
+        "000066.webp",
+        "000067.webp",
+        "000225.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hôm nay thầy sẽ hướng dẫn chuyên đề thứ hai đó là về quá trình nguyên phân và giảm phân.",
+      "start": 9.6,
+      "end": 16.64,
+      "n_words": 20,
+      "start_frame": 240,
+      "end_frame": 416,
+      "keyframes": [
+        "000383.webp",
+        "000384.webp",
+        "000386.webp",
+        "000388.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Trước tiên thì ôn tập lại diễn biến của quá trình nguyên phân và giảm phân.",
+      "start": 16.64,
+      "end": 21.0,
+      "n_words": 16,
+      "start_frame": 416,
+      "end_frame": 525,
+      "keyframes": [
+        "000451.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Một tế bào thầy xét một cặp nhiễm sắc thể tương đồng mang cặp gen là A lớn, a nhỏ, gọi là cặp nhiễm sắc thể tương đồng bởi vì hai nhiễm sắc thể này giống nhau về hình thái, về cấu trúc và về trật tự sắp xếp của các gen.",
+      "start": 21.0,
+      "end": 35.2,
+      "n_words": 52,
+      "start_frame": 525,
+      "end_frame": 880,
+      "keyframes": [
+        "000576.webp",
+        "000701.webp",
+        "000826.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Một nhiễm sắc thể có nguồn gốc từ bố và một nhiễm sắc thể có nguồn gốc từ mẹ.",
+      "start": 35.2,
+      "end": 41.6,
+      "n_words": 19,
+      "start_frame": 880,
+      "end_frame": 1040,
+      "keyframes": [
+        "000951.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và ở kỳ trung gian, nhiễm sắc thể sẽ nhân đôi lên thành nhiễm sắc thể kép gồm hai chromatid dính với nhau ở tâm động.",
+      "start": 41.6,
+      "end": 50.76,
+      "n_words": 26,
+      "start_frame": 1040,
+      "end_frame": 1269,
+      "keyframes": [
+        "001076.webp",
+        "001201.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nếu như tế bào này bước vào quá trình nguyên phân thì ở kỳ đầu, nhiễm sắc thể sẽ đóng xoắn lại.",
+      "start": 50.76,
+      "end": 58.0,
+      "n_words": 22,
+      "start_frame": 1269,
+      "end_frame": 1450,
+      "keyframes": [
+        "001326.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ở kỳ giữa, nhiễm sắc thể sẽ đóng xoắn cực đại và xếp thành một hàng ở mặt phẳng xích đạo.",
+      "start": 58.0,
+      "end": 63.12,
+      "n_words": 21,
+      "start_frame": 1450,
+      "end_frame": 1578,
+      "keyframes": [
+        "001451.webp",
+        "001576.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Mặt phẳng xích đạo là mặt phẳng tưởng tượng phân tế bào thành hai nửa đôi và lúc này thoi phân bào sẽ đến hai phía của mỗi nhiễm sắc thể kép.",
+      "start": 63.12,
+      "end": 76.08,
+      "n_words": 32,
+      "start_frame": 1578,
+      "end_frame": 1902,
+      "keyframes": [
+        "001701.webp",
+        "001826.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ở kỳ sau, hai chromatid trong nhiễm sắc thể kép này sẽ tách ra, phân ly về hai cực của tế bào.",
+      "start": 76.08,
+      "end": 84.4,
+      "n_words": 22,
+      "start_frame": 1902,
+      "end_frame": 2110,
+      "keyframes": [
+        "001951.webp",
+        "002076.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và ở kỳ cuối, sẽ tạo nên được hai tế bào con có bộ nhiễm sắc thể giống như là tế bào ban đầu, cho nên đây gọi là quá trình nguyên phân, tức là phân bào mà bộ nhiễm sắc thể vẫn giữ nguyên.",
+      "start": 84.4,
+      "end": 100.8,
+      "n_words": 45,
+      "start_frame": 2110,
+      "end_frame": 2520,
+      "keyframes": [
+        "002201.webp",
+        "002326.webp",
+        "002451.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Còn nếu như tế bào bước vào quá trình giảm phân thì ở kỳ đầu một giảm phân thì có hai lần phân bào đó là lần phân bào một và lần phân bào thứ hai.",
+      "start": 100.8,
+      "end": 112.76,
+      "n_words": 36,
+      "start_frame": 2520,
+      "end_frame": 2819,
+      "keyframes": [
+        "002576.webp",
+        "002701.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cả hai lần phân bào này đều có bốn kỳ đó là kỳ đầu, kỳ giữa, kỳ sau và kỳ cuối.",
+      "start": 112.76,
+      "end": 117.12,
+      "n_words": 21,
+      "start_frame": 2819,
+      "end_frame": 2928,
+      "keyframes": [
+        "002826.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ở lần phân bào một thì ở kỳ đầu một, nhiễm sắc thể sẽ có hiện tượng tiếp hợp và có thể xảy ra trao đổi chéo (ở đây thì không vẽ trường hợp xảy ra trao đổi chéo). Đây là ở kỳ đầu một.",
+      "start": 117.6,
+      "end": 132.12,
+      "n_words": 45,
+      "start_frame": 2940,
+      "end_frame": 3303,
+      "keyframes": [
+        "002951.webp",
+        "003076.webp",
+        "003201.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và ở kỳ giữa một, nhiễm sắc thể sẽ xếp thành hai hàng ở mặt phẳng xích đạo, tức là trong một cặp tương đồng sẽ nằm đối diện qua một mặt phẳng xích đạo như trên màn hình mấy anh thấy.",
+      "start": 132.12,
+      "end": 143.56,
+      "n_words": 42,
+      "start_frame": 3303,
+      "end_frame": 3589,
+      "keyframes": [
+        "003326.webp",
+        "003451.webp",
+        "003576.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ở kỳ sau một thì cặp nhiễm sắc thể kép này sẽ phân ly về hai cực của tế bào.",
+      "start": 143.56,
+      "end": 151.4,
+      "n_words": 20,
+      "start_frame": 3589,
+      "end_frame": 3785,
+      "keyframes": [
+        "003701.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và ở kỳ cuối một, màng tế bào sẽ thắt lại để tạo nên hai tế bào mới và hai tế bào này các em thấy là chỉ mang một nhiễm sắc thể kép trong cặp tương đồng.",
+      "start": 151.4,
+      "end": 166.56,
+      "n_words": 38,
+      "start_frame": 3785,
+      "end_frame": 4164,
+      "keyframes": [
+        "003826.webp",
+        "003951.webp",
+        "004076.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Như vậy tế bào ban đầu là 2n thì khi kết thúc lần phân bào thứ nhất, mỗi tế bào lúc này chỉ còn n nhiễm sắc thể và nhiễm sắc thể lúc này ở trạng thái kép.",
+      "start": 166.56,
+      "end": 179.4,
+      "n_words": 38,
+      "start_frame": 4164,
+      "end_frame": 4485,
+      "keyframes": [
+        "004201.webp",
+        "004326.webp",
+        "004451.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Qua lần phân bào thứ hai thì diễn biến cũng tương tự như là quá trình nguyên phân.",
+      "start": 179.4,
+      "end": 186.0,
+      "n_words": 18,
+      "start_frame": 4485,
+      "end_frame": 4650,
+      "keyframes": [
+        "004576.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ở kỳ đầu hai, nhiễm sắc thể sẽ đóng xoắn.",
+      "start": 186.0,
+      "end": 189.2,
+      "n_words": 10,
+      "start_frame": 4650,
+      "end_frame": 4730,
+      "keyframes": [
+        "004701.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ở kỳ giữa hai, nhiễm sắc thể sẽ đóng xoắn cực đại và xếp thành một hàng trên một mặt phẳng xích đạo.",
+      "start": 189.2,
+      "end": 195.0,
+      "n_words": 23,
+      "start_frame": 4730,
+      "end_frame": 4875,
+      "keyframes": [
+        "004826.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ở kỳ sau hai thì hai chromatid trong nhiễm sắc thể kép sẽ tách ra, phân ly về hai cực của tế bào.",
+      "start": 195.0,
+      "end": 201.32,
+      "n_words": 23,
+      "start_frame": 4875,
+      "end_frame": 5033,
+      "keyframes": [
+        "004951.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và ở kỳ cuối hai, màng tế bào sẽ thắt lại để tạo nên bốn giao tử.",
+      "start": 201.32,
+      "end": 209.36,
+      "n_words": 17,
+      "start_frame": 5033,
+      "end_frame": 5234,
+      "keyframes": [
+        "005076.webp",
+        "005201.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đối với tế bào sinh tinh thì bốn giao tử này sẽ phát triển thành giao tử đực.",
+      "start": 209.36,
+      "end": 214.72,
+      "n_words": 18,
+      "start_frame": 5234,
+      "end_frame": 5368,
+      "keyframes": [
+        "005326.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Còn đối với tế bào sinh trứng, do sự phân chia của tế bào chất không đồng đều mà chỉ có một tế bào phát triển thành tế bào trứng để tham gia vào quá trình thụ tinh mà thôi.",
+      "start": 214.72,
+      "end": 226.56,
+      "n_words": 40,
+      "start_frame": 5368,
+      "end_frame": 5664,
+      "keyframes": [
+        "005451.webp",
+        "005576.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đây là quá trình nguyên phân và giảm phân bình thường.",
+      "start": 226.56,
+      "end": 229.76,
+      "n_words": 11,
+      "start_frame": 5664,
+      "end_frame": 5744,
+      "keyframes": [
+        "005701.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Phần này có một dạng bài tập mà đề có thể hỏi đó là đề cho mình một cái hình và yêu cầu em phải phân biệt được tế bào trong hình này đang thể hiện tế bào đang ở quá trình phân bào nào.",
+      "start": 229.76,
+      "end": 244.56,
+      "n_words": 45,
+      "start_frame": 5744,
+      "end_frame": 6114,
+      "keyframes": [
+        "005826.webp",
+        "005951.webp",
+        "006076.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Phần này thầy đã thực hiện trong chuyên đề của các năm trước, các em quan tâm thì có thể xem lại.",
+      "start": 244.8,
+      "end": 251.84,
+      "n_words": 22,
+      "start_frame": 6120,
+      "end_frame": 6296,
+      "keyframes": [
+        "006198.webp",
+        "006289.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Để có được thành công như hôm nay, tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình bắt đầu từ Trường Đại học Quốc tế Sài Gòn (SIU).",
+      "start": 251.84,
+      "end": 264.64,
+      "n_words": 35,
+      "start_frame": 6296,
+      "end_frame": 6616,
+      "keyframes": [
+        "006317.webp",
+        "006345.webp",
+        "006346.webp",
+        "006376.webp",
+        "006407.webp",
+        "006438.webp",
+        "006485.webp",
+        "006533.webp",
+        "006545.webp",
+        "006558.webp",
+        "006572.webp",
+        "006585.webp",
+        "006604.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Đào tạo đa dạng đa lĩnh vực, SIU mở ra cho chúng tôi nhiều cơ hội lựa chọn nghề nghiệp trong tương lai.",
+      "start": 264.64,
+      "end": 271.4,
+      "n_words": 23,
+      "start_frame": 6616,
+      "end_frame": 6785,
+      "keyframes": [
+        "006624.webp",
+        "006625.webp",
+        "006644.webp",
+        "006663.webp",
+        "006664.webp",
+        "006682.webp",
+        "006701.webp",
+        "006702.webp",
+        "006719.webp",
+        "006737.webp",
+        "006738.webp",
+        "006755.webp",
+        "006772.webp",
+        "006773.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Tất cả sinh viên đều có cơ hội để thể hiện và phát triển năng lực, những ý tưởng luôn được khuyến khích và phát huy tối đa.",
+      "start": 271.4,
+      "end": 278.68,
+      "n_words": 28,
+      "start_frame": 6785,
+      "end_frame": 6967,
+      "keyframes": [
+        "006790.webp",
+        "006807.webp",
+        "006808.webp",
+        "006818.webp",
+        "006828.webp",
+        "006854.webp",
+        "006864.webp",
+        "006875.webp",
+        "006876.webp",
+        "006892.webp",
+        "006909.webp",
+        "006910.webp",
+        "006937.webp",
+        "006965.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin, chúng tôi được học cách học, cách nghĩ và cách sống.",
+      "start": 278.68,
+      "end": 284.8,
+      "n_words": 23,
+      "start_frame": 6967,
+      "end_frame": 7120,
+      "keyframes": [
+        "006981.webp",
+        "006999.webp",
+        "007017.webp",
+        "007018.webp",
+        "007035.webp",
+        "007053.webp",
+        "007054.webp",
+        "007079.webp",
+        "007104.webp",
+        "007105.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.",
+      "start": 284.8,
+      "end": 291.04,
+      "n_words": 28,
+      "start_frame": 7120,
+      "end_frame": 7276,
+      "keyframes": [
+        "007124.webp",
+        "007144.webp",
+        "007145.webp",
+        "007163.webp",
+        "007181.webp",
+        "007182.webp",
+        "007225.webp",
+        "007269.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Hiện đại, năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn SIU luôn hướng đến.",
+      "start": 291.92,
+      "end": 302.56,
+      "n_words": 34,
+      "start_frame": 7298,
+      "end_frame": 7564,
+      "keyframes": [
+        "007306.webp",
+        "007354.webp",
+        "007365.webp",
+        "007376.webp",
+        "007401.webp",
+        "007411.webp",
+        "007421.webp",
+        "007422.webp",
+        "007433.webp",
+        "007444.webp",
+        "007462.webp",
+        "007469.webp",
+        "007476.webp",
+        "007506.webp",
+        "007523.webp",
+        "007541.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Đã đến lúc vươn xa hơn những gì đã học.",
+      "start": 302.56,
+      "end": 311.12,
+      "n_words": 10,
+      "start_frame": 7564,
+      "end_frame": 7778,
+      "keyframes": [
+        "007589.webp",
+        "007603.webp",
+        "007618.webp",
+        "007641.webp",
+        "007699.webp",
+        "007758.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Trong năm nay, thầy sẽ hướng dẫn một dạng bài tập thường gặp trong đề thi của hai năm qua đó là về rối loạn phân ly.",
+      "start": 311.12,
+      "end": 321.32,
+      "n_words": 27,
+      "start_frame": 7778,
+      "end_frame": 8033,
+      "keyframes": [
+        "007821.webp",
+        "007946.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nếu như nhiễm sắc thể không phân ly tức là rối loạn phân ly thì nhiễm sắc thể sẽ nằm chung trong một tế bào, sẽ di chuyển cùng nhau và nằm chung trong một tế bào ở kỳ cuối.",
+      "start": 321.32,
+      "end": 335.28,
+      "n_words": 40,
+      "start_frame": 8033,
+      "end_frame": 8382,
+      "keyframes": [
+        "008071.webp",
+        "008196.webp",
+        "008321.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hãy lấy ví dụ nếu như ở lần phân bào một, cặp A lớn, a nhỏ này không phân ly.",
+      "start": 335.28,
+      "end": 342.96,
+      "n_words": 20,
+      "start_frame": 8382,
+      "end_frame": 8574,
+      "keyframes": [
+        "008446.webp",
+        "008571.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nếu như mà phân ly bình thường thì ở kỳ cuối một, anh thấy là mỗi tế bào sẽ nhận một nhiễm sắc thể A lớn hoặc là a nhỏ ở trạng thái kép, đó là phân ly bình thường.",
+      "start": 342.96,
+      "end": 354.56,
+      "n_words": 40,
+      "start_frame": 8574,
+      "end_frame": 8864,
+      "keyframes": [
+        "008696.webp",
+        "008821.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và nếu như A lớn, a nhỏ không phân ly trong giảm phân một thì lúc đó ở kỳ cuối một sẽ có một tế bào nhận cả hai chiếc A lớn và a nhỏ, và tế bào còn lại sẽ thiếu chiếc này.",
+      "start": 354.56,
+      "end": 368.92,
+      "n_words": 44,
+      "start_frame": 8864,
+      "end_frame": 9223,
+      "keyframes": [
+        "008946.webp",
+        "009071.webp",
+        "009196.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đó là rối loạn phân ly hay là nhiễm sắc thể không phân ly.",
+      "start": 368.92,
+      "end": 373.2,
+      "n_words": 14,
+      "start_frame": 9223,
+      "end_frame": 9330,
+      "keyframes": [
+        "009321.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và ở lần phân bào thứ hai, nếu như mà nhiễm sắc thể phân ly bình thường thì ở kỳ cuối hai cũng giống như trong quá trình giảm phân bình thường, đó là hai chromatid trong nhiễm sắc thể kép sẽ phân ly về hai tế bào con.",
+      "start": 373.2,
+      "end": 389.72,
+      "n_words": 49,
+      "start_frame": 9330,
+      "end_frame": 9743,
+      "keyframes": [
+        "009446.webp",
+        "009571.webp",
+        "009696.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cụ thể ở đây là hai nhiễm sắc thể mang A lớn này sẽ tách ra phân ly về hai tế bào con, hai nhiễm sắc thể mang a nhỏ này sẽ phân ly về hai tế bào con.",
+      "start": 389.72,
+      "end": 401.44,
+      "n_words": 39,
+      "start_frame": 9743,
+      "end_frame": 10036,
+      "keyframes": [
+        "009821.webp",
+        "009946.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ở đây mọi người lưu ý thuật ngữ nhiễm sắc thể ở trạng thái kép như thế này người ta gọi đó là nhiễm sắc thể kép, mỗi chiếc trong nhiễm sắc thể kép gọi là chromatid, và khi chromatid tách ra ở kỳ sau của quá trình giảm phân hai thì gọi là nhiễm sắc thể đơn.",
+      "start": 401.44,
+      "end": 421.12,
+      "n_words": 58,
+      "start_frame": 10036,
+      "end_frame": 10528,
+      "keyframes": [
+        "010071.webp",
+        "010196.webp",
+        "010321.webp",
+        "010446.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và ở tế bào còn lại, do thiếu một nhiễm sắc thể kép của cặp A lớn và a nhỏ cho nên phân ly ra sẽ thiếu một chiếc này.",
+      "start": 421.12,
+      "end": 431.76,
+      "n_words": 30,
+      "start_frame": 10528,
+      "end_frame": 10794,
+      "keyframes": [
+        "010571.webp",
+        "010696.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Giao tử bình thường các em thấy là sẽ mang một chiếc A lớn hoặc là một chiếc a nhỏ, đó là giao tử do quá trình giảm phân diễn ra bình thường.",
+      "start": 431.76,
+      "end": 440.8,
+      "n_words": 33,
+      "start_frame": 10794,
+      "end_frame": 11020,
+      "keyframes": [
+        "010821.webp",
+        "010946.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Còn ở đây do cặp A lớn và a nhỏ rối loạn phân ly trong giảm phân một, tức là cặp này không phân ly trong giảm phân một, vì vậy giao tử tạo ra mấy anh thấy là mang một chiếc A lớn và a nhỏ. Giao tử này dư một chiếc cho nên ký hiệu là n+1.",
+      "start": 440.8,
+      "end": 456.08,
+      "n_words": 59,
+      "start_frame": 11020,
+      "end_frame": 11402,
+      "keyframes": [
+        "011071.webp",
+        "011196.webp",
+        "011321.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Còn giao tử ở phía bên đây thiếu một chiếc A lớn hoặc là a nhỏ cho nên ký hiệu là n-1. Đây là rối loạn phân ly.",
+      "start": 456.96,
+      "end": 465.52,
+      "n_words": 28,
+      "start_frame": 11424,
+      "end_frame": 11638,
+      "keyframes": [
+        "011446.webp",
+        "011571.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rối loạn phân ly có thể diễn ra trong giảm phân một, giảm phân hai diễn ra bình thường, hoặc là diễn ra trong giảm phân hai, giảm phân một diễn ra bình thường, hoặc là rối loạn ở cả hai lần phân bào.",
+      "start": 465.52,
+      "end": 477.96,
+      "n_words": 44,
+      "start_frame": 11638,
+      "end_frame": 11949,
+      "keyframes": [
+        "011696.webp",
+        "011821.webp",
+        "011946.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ở đây thầy chỉ hướng dẫn em về rối loạn trong giảm phân một và em cứ nhớ là nhiễm sắc thể không phân ly thì tức là nhiễm sắc thể sẽ phân ly, sẽ di chuyển cùng nhau về một tế bào ở kỳ cuối.",
+      "start": 477.96,
+      "end": 491.76,
+      "n_words": 46,
+      "start_frame": 11949,
+      "end_frame": 12294,
+      "keyframes": [
+        "012071.webp",
+        "012196.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ thầy sẽ hướng dẫn em một số câu hỏi trong đề thi của hai năm qua.",
+      "start": 491.76,
+      "end": 498.12,
+      "n_words": 18,
+      "start_frame": 12294,
+      "end_frame": 12453,
+      "keyframes": [
+        "012311.webp",
+        "012426.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đây là câu 112 trong mã đề 201 của đề 2022: \"Một tế bào sinh tinh có kiểu gen A lớn B lớn, a nhỏ b nhỏ, D lớn d nhỏ\".",
+      "start": 498.12,
+      "end": 510.28,
+      "n_words": 31,
+      "start_frame": 12453,
+      "end_frame": 12757,
+      "keyframes": [
+        "012551.webp",
+        "012676.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ký hiệu kiểu gen như thế này tức là gen A và B nằm trên cùng một cặp nhiễm sắc thể, và gen D lớn d nhỏ nằm trong cặp nhiễm sắc thể thứ hai.",
+      "start": 510.28,
+      "end": 526.0,
+      "n_words": 35,
+      "start_frame": 12757,
+      "end_frame": 13150,
+      "keyframes": [
+        "012801.webp",
+        "012926.webp",
+        "013051.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trong đó cặp nhiễm sắc thể chứa hai cặp gen A lớn a nhỏ và B lớn b nhỏ không phân ly trong giảm phân một, giảm phân hai diễn ra bình thường; Cặp D lớn d nhỏ và các cặp nhiễm sắc thể khác phân ly bình thường.",
+      "start": 526.0,
+      "end": 538.6,
+      "n_words": 49,
+      "start_frame": 13150,
+      "end_frame": 13465,
+      "keyframes": [
+        "013176.webp",
+        "013301.webp",
+        "013426.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Biết các gen không xảy ra hoán vị tức là không có hiện tượng trao đổi chéo.",
+      "start": 538.6,
+      "end": 544.2,
+      "n_words": 17,
+      "start_frame": 13465,
+      "end_frame": 13605,
+      "keyframes": [
+        "013551.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Theo lý thuyết, có bao nhiêu phát biểu là đúng? Bây giờ chúng ta cùng phân tích kiểu gen này.",
+      "start": 544.2,
+      "end": 550.16,
+      "n_words": 20,
+      "start_frame": 13605,
+      "end_frame": 13754,
+      "keyframes": [
+        "013676.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Như thầy đã nói, A và B nằm trên cùng một cặp nhiễm sắc thể cho nên hình ảnh sẽ như trên màn hình mấy em thấy, và D nằm trên cặp thứ hai thầy không có biểu diễn ra để tránh rối trên màn hình của em.",
+      "start": 550.16,
+      "end": 564.44,
+      "n_words": 48,
+      "start_frame": 13754,
+      "end_frame": 14111,
+      "keyframes": [
+        "013801.webp",
+        "013926.webp",
+        "014051.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và đề cho em là cặp A lớn a nhỏ này không xảy ra hoán vị tức là không có trao đổi chéo và rối loạn phân ly trong giảm phân một, cho nên cặp A lớn a nhỏ này ở kỳ cuối một sẽ nằm về chung trong một tế bào, và ở đây là nhiễm sắc thể đang ở trạng thái kép.",
+      "start": 564.44,
+      "end": 586.32,
+      "n_words": 64,
+      "start_frame": 14111,
+      "end_frame": 14658,
+      "keyframes": [
+        "014176.webp",
+        "014301.webp",
+        "014426.webp",
+        "014551.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "D lớn d nhỏ cũng như vậy ở trạng thái kép thì có thể sẽ có hai trường hợp đó là D lớn D lớn nằm chung với cặp AB, còn d nhỏ d nhỏ nằm riêng, hoặc là ngược lại.",
+      "start": 586.32,
+      "end": 602.48,
+      "n_words": 41,
+      "start_frame": 14658,
+      "end_frame": 15062,
+      "keyframes": [
+        "014676.webp",
+        "014801.webp",
+        "014926.webp",
+        "015051.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và quá trình giảm phân hai diễn ra bình thường thì lúc đó hai chromatid trong nhiễm sắc thể kép sẽ phân ly về hai tế bào, cho nên lúc này hai chromatid sẽ phân ly về hai tế bào.",
+      "start": 602.48,
+      "end": 615.4,
+      "n_words": 40,
+      "start_frame": 15062,
+      "end_frame": 15385,
+      "keyframes": [
+        "015176.webp",
+        "015301.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúng ta viết giao tử bình thường ra như vậy.",
+      "start": 615.4,
+      "end": 623.28,
+      "n_words": 10,
+      "start_frame": 15385,
+      "end_frame": 15582,
+      "keyframes": [
+        "015426.webp",
+        "015551.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Giao tử này các em thấy là dư một chiếc A lớn B lớn hoặc là a nhỏ b nhỏ cho nên ký hiệu là n+1.",
+      "start": 623.28,
+      "end": 631.12,
+      "n_words": 26,
+      "start_frame": 15582,
+      "end_frame": 15778,
+      "keyframes": [
+        "015676.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Giao tử ở dưới thì thiếu đi một chiếc A lớn B lớn hoặc là a nhỏ b nhỏ cho nên ký hiệu là n-1.",
+      "start": 632.16,
+      "end": 639.0,
+      "n_words": 25,
+      "start_frame": 15804,
+      "end_frame": 15975,
+      "keyframes": [
+        "015926.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tương tự cho trường hợp thứ hai cũng như vậy.",
+      "start": 640.76,
+      "end": 644.04,
+      "n_words": 10,
+      "start_frame": 16019,
+      "end_frame": 16101,
+      "keyframes": [
+        "016051.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ chúng ta cùng phân tích bốn phát biểu: Phát biểu thứ nhất: \"Kết thúc quá trình giảm phân tạo ra bốn giao tử đột biến\".",
+      "start": 644.04,
+      "end": 653.64,
+      "n_words": 27,
+      "start_frame": 16101,
+      "end_frame": 16341,
+      "keyframes": [
+        "016176.webp",
+        "016301.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Các anh thấy cho dù xảy ra trường hợp nào đi nữa thì cũng tạo ra được bốn loại giao tử và bốn loại giao tử này đều là giao tử đột biến.",
+      "start": 653.64,
+      "end": 663.56,
+      "n_words": 33,
+      "start_frame": 16341,
+      "end_frame": 16589,
+      "keyframes": [
+        "016426.webp",
+        "016551.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nếu như mà giao tử bình thường chỉ nhận một nhiễm sắc thể trong cặp tương đồng, tức là giao tử bình thường thì chỉ nhận một chiếc A lớn B lớn hoặc là a nhỏ b nhỏ và một chiếc D lớn hoặc d nhỏ mà thôi.",
+      "start": 663.56,
+      "end": 677.16,
+      "n_words": 48,
+      "start_frame": 16589,
+      "end_frame": 16929,
+      "keyframes": [
+        "016676.webp",
+        "016801.webp",
+        "016926.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cho nên mấy anh thấy là dù xảy ra trường hợp ở trên hay là ở dưới thì bốn loại giao tử tạo ra đều là giao tử đột biến cả, cho nên phát biểu số một ở đây là đúng.",
+      "start": 677.16,
+      "end": 688.24,
+      "n_words": 41,
+      "start_frame": 16929,
+      "end_frame": 17206,
+      "keyframes": [
+        "017051.webp",
+        "017176.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Phát biểu số hai: \"Giao tử được tạo ra có thể có kiểu gen A lớn B lớn hoặc a nhỏ b nhỏ D lớn nhỏ\".",
+      "start": 688.24,
+      "end": 696.76,
+      "n_words": 26,
+      "start_frame": 17206,
+      "end_frame": 17419,
+      "keyframes": [
+        "017301.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Phát biểu này chúng ta thấy là sai, đề đã cho mình là cặp D lớn d nhỏ phân ly bình thường cho nên giao tử tạo ra chỉ mang một chiếc D lớn hoặc d nhỏ mà thôi, không thể nào tạo ra được D lớn d nhỏ cho nên phát biểu này là sai.",
+      "start": 696.76,
+      "end": 713.72,
+      "n_words": 56,
+      "start_frame": 17419,
+      "end_frame": 17843,
+      "keyframes": [
+        "017426.webp",
+        "017551.webp",
+        "017676.webp",
+        "017801.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Hoặc mọi người có thể nhận xét giao tử tạo ra do A lớn B lớn, a nhỏ b nhỏ bị rối loạn phân ly cho nên giao tử tạo ra sẽ mang đồng thời cả hai chiếc hoặc là không có chiếc nào, chứ không thể nào chỉ có một chiếc A lớn B lớn.",
+      "start": 713.72,
+      "end": 734.96,
+      "n_words": 56,
+      "start_frame": 17843,
+      "end_frame": 18374,
+      "keyframes": [
+        "017926.webp",
+        "018051.webp",
+        "018176.webp",
+        "018301.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cho nên phát biểu số hai này mọi người hiểu rõ về quá trình nhiễm sắc thể không phân ly thì có thể chọn ngay là phát biểu này chưa chính xác.",
+      "start": 734.96,
+      "end": 746.16,
+      "n_words": 32,
+      "start_frame": 18374,
+      "end_frame": 18654,
+      "keyframes": [
+        "018426.webp",
+        "018551.webp",
+        "018614.webp",
+        "018643.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.",
+      "start": 746.16,
+      "end": 756.68,
+      "n_words": 33,
+      "start_frame": 18654,
+      "end_frame": 18917,
+      "keyframes": [
+        "018672.webp",
+        "018783.webp",
+        "018803.webp",
+        "018824.webp",
+        "018825.webp",
+        "018846.webp",
+        "018867.webp",
+        "018868.webp",
+        "018876.webp",
+        "018885.webp",
+        "018898.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện, cân bằng giữa học thuật và nghệ thuật, thể thao.",
+      "start": 756.68,
+      "end": 764.28,
+      "n_words": 23,
+      "start_frame": 18917,
+      "end_frame": 19107,
+      "keyframes": [
+        "018951.webp",
+        "019005.webp",
+        "019006.webp",
+        "019026.webp",
+        "019047.webp",
+        "019048.webp",
+        "019063.webp",
+        "019078.webp",
+        "019079.webp",
+        "019089.webp",
+        "019100.webp",
+        "019101.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, khơi nguồn cảm hứng độc lập để phát triển và hoàn thiện nhân cách.",
+      "start": 764.28,
+      "end": 774.96,
+      "n_words": 34,
+      "start_frame": 19107,
+      "end_frame": 19374,
+      "keyframes": [
+        "019113.webp",
+        "019126.webp",
+        "019127.webp",
+        "019199.webp",
+        "019271.webp",
+        "019272.webp",
+        "019297.webp",
+        "019323.webp",
+        "019324.webp",
+        "019347.webp",
+        "019371.webp",
+        "019372.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Ngoài những giờ học trên lớp, học sinh Trường Quốc tế Á Châu còn được trải nghiệm thử thách bản thân và phản biện các vấn đề để tự mình học hỏi trưởng thành độc lập hơn.",
+      "start": 774.96,
+      "end": 794.36,
+      "n_words": 37,
+      "start_frame": 19374,
+      "end_frame": 19859,
+      "keyframes": [
+        "019381.webp",
+        "019390.webp",
+        "019391.webp",
+        "019407.webp",
+        "019424.webp",
+        "019425.webp",
+        "019452.webp",
+        "019479.webp",
+        "019480.webp",
+        "019489.webp",
+        "019499.webp",
+        "019500.webp",
+        "019526.webp",
+        "019553.webp",
+        "019554.webp",
+        "019590.webp",
+        "019626.webp",
+        "019627.webp",
+        "019642.webp",
+        "019657.webp",
+        "019696.webp",
+        "019705.webp",
+        "019715.webp",
+        "019740.webp",
+        "019756.webp",
+        "019772.webp",
+        "019773.webp",
+        "019787.webp",
+        "019802.webp",
+        "019803.webp",
+        "019815.webp",
+        "019827.webp",
+        "019828.webp",
+        "019846.webp"
+      ],
+      "keyframe_count": 34
+    },
+    {
+      "text": "Nơi đây với tôi còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.",
+      "start": 794.36,
+      "end": 810.56,
+      "n_words": 33,
+      "start_frame": 19859,
+      "end_frame": 20264,
+      "keyframes": [
+        "019865.webp",
+        "019877.webp",
+        "019939.webp",
+        "020001.webp",
+        "020002.webp",
+        "020028.webp",
+        "020055.webp",
+        "020069.webp",
+        "020086.webp",
+        "020104.webp",
+        "020105.webp",
+        "020125.webp",
+        "020145.webp",
+        "020146.webp",
+        "020153.webp",
+        "020160.webp",
+        "020192.webp",
+        "020200.webp",
+        "020209.webp",
+        "020210.webp",
+        "020220.webp",
+        "020231.webp",
+        "020232.webp",
+        "020244.webp",
+        "020256.webp",
+        "020257.webp"
+      ],
+      "keyframe_count": 26
+    },
+    {
+      "text": "Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là sống, nó chính là cuộc sống.",
+      "start": 810.56,
+      "end": 815.8,
+      "n_words": 19,
+      "start_frame": 20264,
+      "end_frame": 20395,
+      "keyframes": [
+        "020290.webp",
+        "020323.webp",
+        "020324.webp",
+        "020332.webp",
+        "020340.webp",
+        "020341.webp",
+        "020354.webp",
+        "020367.webp",
+        "020368.webp",
+        "020374.webp",
+        "020380.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Từ môi trường giáo dục này, chúng tôi đã tự tin bước tiếp và viết nên câu chuyện tương lai của chính mình.",
+      "start": 815.8,
+      "end": 827.6,
+      "n_words": 23,
+      "start_frame": 20395,
+      "end_frame": 20690,
+      "keyframes": [
+        "020397.webp",
+        "020411.webp",
+        "020425.webp",
+        "020442.webp",
+        "020443.webp",
+        "020444.webp",
+        "020469.webp",
+        "020475.webp",
+        "020481.webp",
+        "020507.webp",
+        "020525.webp",
+        "020543.webp",
+        "020566.webp",
+        "020587.webp",
+        "020608.webp",
+        "020609.webp",
+        "020613.webp",
+        "020618.webp",
+        "020638.webp",
+        "020680.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Phát biểu thứ ba: \"Giao tử được tạo ra có một bộ nhiễm sắc thể là n+1 và n-1\". Chúng ta thấy cả hai trường hợp giao tử tạo ra đều có bộ nhiễm sắc thể là n+1 và n-1 cho nên phát biểu thứ ba này là đúng. Phát biểu thứ tư: \"Số loại giao tử tối đa được tạo ra là hai\".",
+      "start": 827.6,
+      "end": 851.88,
+      "n_words": 64,
+      "start_frame": 20690,
+      "end_frame": 21297,
+      "keyframes": [
+        "020722.webp",
+        "020723.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Em thấy dù xảy ra trường hợp nào đều tạo ra bốn giao tử nhưng mà số loại giao tử chỉ có hai như trên màn hình mấy anh thấy, cho nên phát biểu này là đúng. Ở đây em lưu ý là do đề cho mình là cặp A lớn B lớn, a nhỏ b nhỏ không xảy ra hoán vị gen tức là không có trao đổi chéo, vì vậy giảm phân hai diễn ra bình thường thì chỉ cho mình có hai loại giao tử. Nhưng nếu đề cho mình là cặp nhiễm sắc thể mang hai cặp gen A lớn a nhỏ, B lớn b nhỏ xảy ra trao đổi chéo thì lúc này số loại giao tử sẽ tạo ra là bốn.",
+      "start": 851.88,
+      "end": 896.24,
+      "n_words": 127,
+      "start_frame": 21297,
+      "end_frame": 22406,
+      "keyframes": [
+        "021595.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Vì vậy trong câu này có ba phát biểu đúng. Bây giờ chúng ta xem một câu trong đề thi năm 2023: \"Ở ruồi giấm xét kiểu gen A lớn B lớn, a nhỏ b nhỏ trong đó alen A lớn quy định thân xám là trội hoàn toàn so với alen a nhỏ quy định thân đen; Alen B lớn quy định cánh dài là trội hoàn toàn so với alen b nhỏ quy định cánh cụt. Có bao nhiêu phát biểu sau đây về hai gen này là đúng?\". Trong câu này mọi người lưu ý có một điểm lý thuyết trong sách giáo khoa mà các em cần phải nhớ đó là khi ở ruồi giấm, khi xét alen quy định màu sắc thân là thân xám và thân đen, và alen quy định chiều dài cánh tức là cánh dài và cánh cụt thì hai gen này nằm trên cùng một cặp nhiễm sắc thể giống như trong câu này đề đã cho.",
+      "start": 896.24,
+      "end": 953.76,
+      "n_words": 167,
+      "start_frame": 22406,
+      "end_frame": 23844,
+      "keyframes": [
+        "022467.webp",
+        "022468.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và đối với con ruồi giấm đực thì kiểu gen này sẽ theo quy luật liên kết gen tức là không xảy ra trao đổi chéo trong giảm phân, còn đối với ruồi giấm cái thì sẽ xảy ra trao đổi chéo dẫn đến hoán vị gen. Đó là lý thuyết trong sách giáo khoa của chúng ta và chúng ta sử dụng để mà làm bài. Bây giờ chúng ta cùng phân tích kiểu gen này. Vì vậy như thầy đã phân tích cho nên phát biểu số một: \"Một tế bào sinh tinh giảm phân bình thường tạo ra tối đa hai loại tinh trùng\".",
+      "start": 953.76,
+      "end": 987.4,
+      "n_words": 107,
+      "start_frame": 23844,
+      "end_frame": 24685,
+      "keyframes": [
+        "023887.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Phát biểu này là đúng bởi vì ở ruồi giấm đực thì theo quy luật liên kết gen, tức là không xảy ra trao đổi chéo trong quá trình giảm phân, vì vậy mà một tế bào sinh tinh giảm phân bình thường chỉ cho chúng ta hai loại tinh trùng nhưng mà sẽ tạo ra được bốn giao tử, cho nên phát biểu số một là đúng.",
+      "start": 987.4,
+      "end": 1013.04,
+      "n_words": 68,
+      "start_frame": 24685,
+      "end_frame": 25326,
+      "keyframes": [
+        "025307.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ chúng ta phân tích kiểu gen để nhận xét ba phát biểu còn lại.",
+      "start": 1013.04,
+      "end": 1028.0,
+      "n_words": 16,
+      "start_frame": 25326,
+      "end_frame": 25700,
+      "keyframes": [
+        "025370.webp",
+        "025495.webp",
+        "025620.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ở phát biểu thứ hai: \"Đề cho mình là nếu một tế bào sinh trứng xảy ra sự không phân ly của cặp nhiễm sắc thể mang hai gen này trong giảm phân một, vì vậy mà ở kỳ cuối một hai chiếc này ở trạng thái kép và phân ly cùng nhau trong một tế bào\".",
+      "start": 1028.0,
+      "end": 1044.88,
+      "n_words": 57,
+      "start_frame": 25700,
+      "end_frame": 26122,
+      "keyframes": [
+        "025745.webp",
+        "025870.webp",
+        "025995.webp",
+        "026120.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Ở tế bào sinh trứng, tức là xảy ra ở ruồi giấm cái, mọi người nhớ là có quá trình trao đổi chéo có thể xảy ra.",
+      "start": 1044.88,
+      "end": 1053.84,
+      "n_words": 27,
+      "start_frame": 26122,
+      "end_frame": 26346,
+      "keyframes": [
+        "026245.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Quá trình trao đổi chéo nếu như mà mình xét một tế bào thì tế bào đó có thể xảy ra quá trình trao đổi chéo, ở đây thầy không có thể hiện sự trao đổi chéo để tránh rối trên màn hình, nhưng mà em lưu ý là ở ruồi giấm cái thì có hiện tượng trao đổi chéo, nhưng mà khi mình xét một tế bào thôi thì tế bào đó nó có thể xảy ra trao đổi chéo hoặc không.",
+      "start": 1053.84,
+      "end": 1079.4,
+      "n_words": 83,
+      "start_frame": 26346,
+      "end_frame": 26985,
+      "keyframes": [
+        "026370.webp",
+        "026495.webp",
+        "026620.webp",
+        "026745.webp",
+        "026870.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Khi nào mà tần số hoán vị là 50% thì lúc đó tất cả tế bào sinh trứng giảm phân mới xảy ra trao đổi chéo ở cặp nhiễm sắc thể đang xét.",
+      "start": 1079.4,
+      "end": 1092.92,
+      "n_words": 33,
+      "start_frame": 26985,
+      "end_frame": 27323,
+      "keyframes": [
+        "026995.webp",
+        "027120.webp",
+        "027245.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và nếu như cặp này rối loạn phân ly trong giảm phân một, giảm phân hai diễn ra bình thường thì lúc đó ở kỳ cuối hai, hai chiếc A lớn B lớn này (màu đỏ) sẽ phân ly bình thường về hai giao tử, hai chiếc màu xanh cũng như vậy.",
+      "start": 1092.92,
+      "end": 1111.32,
+      "n_words": 52,
+      "start_frame": 27323,
+      "end_frame": 27783,
+      "keyframes": [
+        "027370.webp",
+        "027495.webp",
+        "027620.webp",
+        "027745.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Còn tế bào còn lại sẽ thiếu một chiếc A lớn B lớn hoặc là a nhỏ b nhỏ.",
+      "start": 1111.32,
+      "end": 1116.44,
+      "n_words": 19,
+      "start_frame": 27783,
+      "end_frame": 27911,
+      "keyframes": [
+        "027870.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Lưu ý đây là tế bào sinh trứng thì chỉ có một tế bào phát triển thành trứng mà thôi, còn ba tế bào còn lại sẽ tiêu biến.",
+      "start": 1117.88,
+      "end": 1125.84,
+      "n_words": 29,
+      "start_frame": 27947,
+      "end_frame": 28146,
+      "keyframes": [
+        "027995.webp",
+        "028120.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và trong trường hợp này đề nói là có thể tạo ra được loại trứng có kiểu gen a nhỏ b nhỏ là không đúng, là chưa chính xác.",
+      "start": 1125.84,
+      "end": 1158.88,
+      "n_words": 29,
+      "start_frame": 28146,
+      "end_frame": 28972,
+      "keyframes": [
+        "028245.webp",
+        "028370.webp",
+        "028495.webp",
+        "028620.webp",
+        "028745.webp",
+        "028870.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cho nên phát biểu thứ hai là chưa chính xác.",
+      "start": 1158.88,
+      "end": 1162.68,
+      "n_words": 10,
+      "start_frame": 28972,
+      "end_frame": 29067,
+      "keyframes": [
+        "028995.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Phát biểu thứ ba: \"Một tế bào sinh trứng giảm phân bình thường tạo ra bốn loại trứng\".",
+      "start": 1162.68,
+      "end": 1167.6,
+      "n_words": 18,
+      "start_frame": 29067,
+      "end_frame": 29190,
+      "keyframes": [
+        "029120.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Phát biểu này là chưa chính xác bởi vì chỉ tạo ra được một tế bào trứng mà thôi và ba tế bào còn lại bị tiêu biến.",
+      "start": 1167.6,
+      "end": 1176.0,
+      "n_words": 28,
+      "start_frame": 29190,
+      "end_frame": 29400,
+      "keyframes": [
+        "029245.webp",
+        "029370.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đó là đặc điểm giảm phân của tế bào sinh trứng mà lúc đầu thầy đã phân tích.",
+      "start": 1176.0,
+      "end": 1181.0,
+      "n_words": 18,
+      "start_frame": 29400,
+      "end_frame": 29525,
+      "keyframes": [
+        "029495.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Phát biểu thứ tư: \"Cơ thể đực giảm phân bình thường tạo ra tối đa bốn loại tinh trùng\".",
+      "start": 1181.0,
+      "end": 1188.24,
+      "n_words": 19,
+      "start_frame": 29525,
+      "end_frame": 29706,
+      "keyframes": [
+        "029620.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cơ thể đực ở con ruồi giấm đực thì chỉ xảy ra quy luật liên kết gen tức là không có trao đổi chéo trong giảm phân, vì vậy ở cơ thể đực chỉ tạo ra tối đa hai loại tinh trùng khi mà xét cặp nhiễm sắc thể này, cho nên phát biểu thứ tư cũng chưa chính xác.",
+      "start": 1188.24,
+      "end": 1205.2,
+      "n_words": 60,
+      "start_frame": 29706,
+      "end_frame": 30130,
+      "keyframes": [
+        "029745.webp",
+        "029870.webp",
+        "029995.webp",
+        "030120.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Vì vậy câu này chỉ có một phát biểu đúng là phát biểu số một.",
+      "start": 1205.2,
+      "end": 1212.8,
+      "n_words": 15,
+      "start_frame": 30130,
+      "end_frame": 30320,
+      "keyframes": [
+        "030245.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Anh thấy câu này mình có thể làm rất là nhanh nếu như mà mọi người hình dung được sự rối loạn phân ly của nhiễm sắc thể trong giảm phân một và giảm phân hai diễn ra bình thường: sẽ tạo ra được một giao tử mang cả hai nhiễm sắc thể của cặp ban đầu và một giao tử sẽ thiếu một nhiễm sắc thể trong cặp đó.",
+      "start": 1212.8,
+      "end": 1235.24,
+      "n_words": 70,
+      "start_frame": 30320,
+      "end_frame": 30881,
+      "keyframes": [
+        "030370.webp",
+        "030495.webp",
+        "030620.webp",
+        "030745.webp",
+        "030870.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và đối với tế bào sinh tinh thì sẽ tạo ra bốn giao tử, còn tế bào sinh trứng thì chỉ tạo ra được một tế bào trứng, ba tế bào còn lại bị tiêu biến.",
+      "start": 1235.24,
+      "end": 1246.56,
+      "n_words": 36,
+      "start_frame": 30881,
+      "end_frame": 31164,
+      "keyframes": [
+        "030995.webp",
+        "031120.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Các em chỉ cần nhớ được những kiến thức cơ bản như vậy thì câu này chúng ta có thể giải chính xác và làm rất là nhanh.",
+      "start": 1246.56,
+      "end": 1252.52,
+      "n_words": 28,
+      "start_frame": 31164,
+      "end_frame": 31313,
+      "keyframes": [
+        "031245.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Câu này đây là một số vấn đề thầy muốn trao đổi với các em trong phần bài tập về quá trình nguyên phân và giảm phân.",
+      "start": 1252.52,
+      "end": 1261.04,
+      "n_words": 27,
+      "start_frame": 31313,
+      "end_frame": 31526,
+      "keyframes": [
+        "031370.webp",
+        "031472.webp",
+        "031513.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cảm ơn các em đã dành thời gian theo dõi, chúc các em luôn nhiều sức khỏe, ôn tập thật tốt và đạt kết quả cao trong kỳ thi sắp tới. Chào các em.",
+      "start": 1261.04,
+      "end": 1271.28,
+      "n_words": 34,
+      "start_frame": 31526,
+      "end_frame": 31782,
+      "keyframes": [
+        "031649.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trường Đại học Quốc tế Sài Gòn SIU không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SIU nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt.",
+      "start": 1271.28,
+      "end": 1282.2,
+      "n_words": 39,
+      "start_frame": 31782,
+      "end_frame": 32055,
+      "keyframes": [
+        "031785.webp",
+        "031786.webp",
+        "031799.webp",
+        "031813.webp",
+        "031814.webp",
+        "031829.webp",
+        "031845.webp",
+        "031846.webp",
+        "031868.webp",
+        "031890.webp",
+        "031891.webp",
+        "031899.webp",
+        "031908.webp",
+        "031909.webp",
+        "031917.webp",
+        "031925.webp",
+        "031926.webp",
+        "031934.webp",
+        "031942.webp",
+        "031943.webp",
+        "031955.webp",
+        "031967.webp",
+        "031968.webp",
+        "031976.webp",
+        "031985.webp",
+        "032007.webp",
+        "032010.webp",
+        "032014.webp",
+        "032015.webp",
+        "032031.webp",
+        "032048.webp",
+        "032049.webp"
+      ],
+      "keyframe_count": 32
+    },
+    {
+      "text": "SIU mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới, trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.",
+      "start": 1282.2,
+      "end": 1292.96,
+      "n_words": 39,
+      "start_frame": 32055,
+      "end_frame": 32324,
+      "keyframes": [
+        "032063.webp",
+        "032077.webp",
+        "032078.webp",
+        "032091.webp",
+        "032105.webp",
+        "032106.webp",
+        "032124.webp",
+        "032142.webp",
+        "032143.webp",
+        "032159.webp",
+        "032175.webp",
+        "032176.webp",
+        "032191.webp",
+        "032206.webp",
+        "032282.webp",
+        "032290.webp",
+        "032299.webp",
+        "032324.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Năm 2024, SIU tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng bốn phương thức tuyển sinh.",
+      "start": 1292.96,
+      "end": 1301.6,
+      "n_words": 23,
+      "start_frame": 32324,
+      "end_frame": 32540,
+      "keyframes": [
+        "032324.webp",
+        "032337.webp",
+        "032350.webp",
+        "032351.webp",
+        "032366.webp",
+        "032381.webp",
+        "032382.webp",
+        "032397.webp",
+        "032413.webp",
+        "032414.webp",
+        "032432.webp",
+        "032450.webp",
+        "032451.webp",
+        "032465.webp",
+        "032480.webp",
+        "032506.webp",
+        "032521.webp",
+        "032536.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "SIU cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SIU, 100 suất học bổng Tiếp bước hành trình Quỹ tài năng trẻ, học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa, thể thao, nghệ thuật; Học bổng Đồng hành xây dựng nhân lực chất lượng cao cho Thành phố Thủ Đức, Thành phố Hồ Chí Minh; Học bổng doanh nghiệp tài trợ; Học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.",
+      "start": 1301.6,
+      "end": 1328.12,
+      "n_words": 106,
+      "start_frame": 32540,
+      "end_frame": 33203,
+      "keyframes": [
+        "032542.webp",
+        "032562.webp",
+        "032582.webp",
+        "032583.webp",
+        "032588.webp",
+        "032593.webp",
+        "032594.webp",
+        "032637.webp",
+        "032681.webp",
+        "032682.webp",
+        "032711.webp",
+        "032740.webp",
+        "032741.webp",
+        "032754.webp",
+        "032767.webp",
+        "032768.webp",
+        "032780.webp",
+        "032792.webp",
+        "032819.webp",
+        "032827.webp",
+        "032835.webp",
+        "032836.webp",
+        "032850.webp",
+        "032864.webp",
+        "032865.webp",
+        "032880.webp",
+        "032895.webp",
+        "032927.webp",
+        "032942.webp",
+        "032957.webp",
+        "032958.webp",
+        "032976.webp",
+        "032994.webp",
+        "032995.webp",
+        "033012.webp",
+        "033029.webp",
+        "033030.webp",
+        "033049.webp",
+        "033068.webp",
+        "033069.webp",
+        "033084.webp",
+        "033099.webp",
+        "033100.webp",
+        "033113.webp",
+        "033126.webp",
+        "033127.webp",
+        "033145.webp",
+        "033163.webp",
+        "033164.webp",
+        "033179.webp",
+        "033194.webp",
+        "033195.webp"
+      ],
+      "keyframe_count": 52
+    },
+    {
+      "text": "SIU tâm hồn Việt Nam, giáo dục thế giới.",
+      "start": 1328.12,
+      "end": 1332.16,
+      "n_words": 9,
+      "start_frame": 33203,
+      "end_frame": 33304,
+      "keyframes": [
+        "033205.webp",
+        "033215.webp",
+        "033229.webp",
+        "033256.webp",
+        "033284.webp",
+        "033285.webp"
+      ],
+      "keyframe_count": 6
+    }
+  ]
+}

@@ -1,0 +1,623 @@
+1
+00:00:08,560 --> 00:00:15,760
+Chào mừng các em đến với buổi ôn thi tốt nghiệp Trung học phổ thông năm 2024 bộ môn Vật lý.
+
+2
+00:00:15,760 --> 00:00:18,960
+Chương trình do Báo Thanh Niên tổ chức.
+
+3
+00:00:18,960 --> 00:00:31,240
+Đến với buổi chuyên đề ngày hôm nay, thầy tiếp tục giới thiệu với các bạn chuyên đề 3: Phần sóng và giao thoa sóng, rơi vào chương 2 của chương trình Vật lý 12.
+
+4
+00:00:35,920 --> 00:00:44,960
+Như mọi chuyên đề trước, thì chúng ta cùng nhau lướt qua một số kiến thức trọng tâm về sóng.
+
+5
+00:00:44,960 --> 00:01:02,280
+Thì điều chúng ta cần quan tâm đến là biên độ và chu kỳ, tức là tần số của sóng và tốc độ truyền sóng, bước sóng, năng lượng của sóng là năm đặc trưng vật lý của sóng.
+
+6
+00:01:02,280 --> 00:01:13,240
+Trường Đại học Quốc tế Sài Gòn SIU không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SIU nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt.
+
+7
+00:01:13,240 --> 00:01:24,000
+SIU mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới, trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.
+
+8
+00:01:24,000 --> 00:01:32,600
+Năm 2024, SIU tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng bốn phương thức tuyển sinh.
+
+9
+00:01:32,600 --> 00:01:59,160
+SIU cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SIU, 100 suất học bổng Tiếp bước hành trình Quỹ tài năng trẻ, học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa, thể thao, nghệ thuật; Học bổng Đồng hành xây dựng nhân lực chất lượng cao cho Thành phố Thủ Đức, Thành phố Hồ Chí Minh; Học bổng doanh nghiệp tài trợ; Học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.
+
+10
+00:01:59,160 --> 00:02:02,720
+"Phi tâm hồn Việt Nam, giáo dục thế giới".
+
+11
+00:02:02,720 --> 00:02:04,960
+Ta cùng đi qua các đặc trưng này.
+
+12
+00:02:04,960 --> 00:02:09,760
+Thứ nhất, tốc độ truyền sóng thì không đổi và phụ thuộc vào môi trường.
+
+13
+00:02:09,760 --> 00:02:21,360
+Thì các bạn lưu ý, tốc độ truyền sóng này phụ thuộc vào thứ nhất là bản chất môi trường, thứ hai là nhiệt độ của môi trường.
+
+14
+00:02:21,360 --> 00:02:36,000
+Bước sóng là một đại lượng được xác định bằng quãng đường đi trong một chu kỳ, cho nên $\lambda = v \cdot T$, ở đây $T$ chính là chu kỳ.
+
+15
+00:02:36,000 --> 00:02:51,800
+Ngoài ra, ta cũng thể định nghĩa bước sóng là khoảng cách giữa hai đỉnh sóng liên tiếp hoặc là hai điểm liên tiếp cùng pha dao động với nhau.
+
+16
+00:02:51,800 --> 00:03:02,720
+Từ đó ta xây dựng ra biểu thức độ lệch pha giữa hai điểm M và N liên quan đến bước sóng: $\Delta\varphi = 2\pi d / \lambda$.
+
+17
+00:03:05,720 --> 00:03:12,880
+Trong đó phương trình sóng tại một điểm M là $u_M = A \cos(\omega t - 2\pi x/\lambda)$.
+
+18
+00:03:12,880 --> 00:03:36,720
+Việc trừ $2\pi x/\lambda$ này thể hiện điểm M là điểm con sẽ dao động chậm pha hơn so với nguồn một đại lượng bằng $2\pi x/\lambda$, với $x$ ở đây là khoảng cách từ điểm M đến nguồn.
+
+19
+00:03:36,720 --> 00:03:39,400
+Ta sang phần 2: Giao thoa sóng.
+
+20
+00:03:39,400 --> 00:03:47,960
+Giao thoa sóng là sự gặp nhau của hai sóng tạo ra những vân cực đại và vân cực tiểu xen kẽ, cách đều nhau.
+
+21
+00:03:47,960 --> 00:04:12,680
+Như trên hình của chúng ta, thì lúc này tại điểm M bất kỳ trên vùng giao thoa, điểm M cách nguồn 1 là $d_1$, điểm M cách nguồn 2 là $d_2$ thì ta sẽ viết được phương trình sóng tại điểm M và từ đó là ta xây dựng được biên độ tại M là $2A \cos(\pi(d_2 - d_1)/\lambda)$.
+
+22
+00:04:18,480 --> 00:04:37,000
+Nếu như $d_2 - d_1$ hoặc $d_1 - d_2$ đều bằng một số nguyên lần bước sóng thì lúc này điểm M nằm trên vân cực đại của giao thoa.
+
+23
+00:04:37,000 --> 00:04:50,400
+Và biểu thức xác định số vân cực đại giữa hai nguồn A và B như sau: $-S_1S_2/\lambda < k < S_1S_2/\lambda$.
+
+24
+00:04:53,120 --> 00:05:12,280
+Tương tự như vậy, ta xây dựng biểu thức vị trí vân cực tiểu là $d_1 - d_2 = (k + 1/2)\lambda$, tức là hiệu đường đi bằng bán nguyên lần bước sóng $(k + 1/2)$, gọi là số bán nguyên.
+
+25
+00:05:12,280 --> 00:05:23,360
+Như vậy số cực tiểu giữa hai nguồn S1 và S2 là $-S_1S_2/\lambda - 1/2 < k < S_1S_2/\lambda - 1/2$.
+
+26
+00:05:26,120 --> 00:05:32,480
+Thì đó là một số kiến thức chúng ta cần nắm ở phần sóng và giao thoa sóng này.
+
+27
+00:05:32,480 --> 00:05:40,120
+Chúng ta sang một số bài tập vận dụng ở chương 2.
+
+28
+00:05:40,120 --> 00:05:52,440
+Trong thí nghiệm giao thoa sóng ở mặt chất lỏng, tại hai điểm $S_1, S_2$ có hai nguồn dao động cùng pha theo phương thẳng đứng phát ra hai sóng kết hợp có bước sóng là 2 cm.
+
+29
+00:05:52,440 --> 00:06:00,280
+Trên đoạn thẳng $S_1S_2$, khoảng cách giữa hai cực đại giao thoa liên tiếp bằng bao nhiêu?
+
+30
+00:06:00,280 --> 00:06:09,400
+Thì rõ ràng là khoảng cách giữa hai cực đại liên tiếp trên đoạn nối hai nguồn chính là $\lambda/2$, tức là nửa bước sóng.
+
+31
+00:06:09,400 --> 00:06:13,040
+Thì ta xác định ra được đáp án là 1 cm.
+
+32
+00:06:14,320 --> 00:06:24,240
+Chúng ta sang câu vận dụng số 2: Ở mặt nước, một nguồn sóng đặt tại O dao động điều hòa theo phương thẳng đứng, sóng truyền trên mặt nước với bước sóng $\lambda$.
+
+33
+00:06:24,760 --> 00:06:33,240
+M và N là hai điểm ở mặt nước sao cho $OM = 6\lambda, ON = 8\lambda$ và $OM$ vuông góc với $ON$.
+
+34
+00:06:33,720 --> 00:06:43,360
+Trên đoạn MN, số điểm mà tại đó các phần tử nước dao động ngược pha với dao động của nguồn O là bao nhiêu?
+
+35
+00:06:43,360 --> 00:06:45,600
+Thì ở đây chúng ta có bốn đáp án.
+
+36
+00:06:45,600 --> 00:06:53,760
+Ta phân tích nhanh bài toán: Bài toán ở đây sóng theo phương dao động $OM$ và $ON$ là vuông góc nhau.
+
+37
+00:06:53,760 --> 00:07:03,080
+Vì vậy ta sẽ có hình vẽ như sau: $OM$ thẳng đứng bằng $6\lambda$ và $ON$ nằm ngang bằng $8\lambda$.
+
+38
+00:07:03,920 --> 00:07:13,360
+Một sai lầm mà các thí sinh dễ mắc phải khi tìm số điểm dao động ngược pha trên đoạn là chúng ta sẽ kẹp giữa.
+
+39
+00:07:13,360 --> 00:07:28,800
+Nhưng ở đây, nếu suy nghĩ thông thường ta kẹp giữa là $6\lambda <$ vị trí ngược pha $< 8\lambda$ là sai lầm.
+
+40
+00:07:28,800 --> 00:07:33,480
+Thì ở đây, một cách làm đúng đắn là chúng ta dựng đường cao $OH$.
+
+41
+00:07:35,840 --> 00:07:43,200
+Thì dễ dàng bằng hệ thức lượng trong tam giác vuông, thầy có thể tính được giá trị $OH$ này.
+
+42
+00:07:43,200 --> 00:07:52,640
+$1/OH^2 = 1/OM^2 + 1/ON^2$, thì chúng ta dễ dàng tính ra $OH = 4.8$.
+
+43
+00:07:54,880 --> 00:07:58,040
+Như vậy $OH$ để làm gì?
+
+44
+00:07:58,040 --> 00:08:17,800
+Như vậy chúng ta thấy rằng là một điểm Y chẳng hạn nằm trên đoạn $HN$, thì $OY$ này sẽ luôn luôn lớn hơn $OH$ nhưng $OY$ này sẽ luôn luôn nhỏ hơn $ON$.
+
+45
+00:08:17,800 --> 00:08:30,000
+Ngược lại, nếu điểm Y nằm trên đoạn $HM$, thì $OY$ sẽ luôn lớn hơn $OH$ nhưng lại luôn luôn nhỏ hơn $OM$.
+
+46
+00:08:30,000 --> 00:08:44,640
+Như vậy điểm H này sẽ chia ra làm hai vùng để chúng ta xác định số lượng điểm Y dao động ngược pha với nguồn O một cách chính xác.
+
+47
+00:08:44,640 --> 00:08:48,960
+Và đây là biểu thức $OY = (k + 1/2)\lambda$.
+
+48
+00:08:51,040 --> 00:08:59,840
+Y là điểm ngược pha với nguồn O sẽ cách O một đoạn là bán nguyên lần bước sóng.
+
+49
+00:08:59,840 --> 00:09:06,280
+Khi Y nằm trên $HN$, thì ta có $4.8\lambda \le (k + 1/2)\lambda \le 8\lambda$, tức là $ON$.
+
+50
+00:09:15,480 --> 00:09:26,640
+Ở đây thầy tính được $4.3 \le k \le 7.5$, như vậy ra được $k = 5, 6$ và $7$.
+
+51
+00:09:26,640 --> 00:09:46,080
+Tương tự như vậy, nếu như điểm Y nằm trên đoạn $HM$, thì chúng ta sẽ thấy $4.8\lambda \le (k + 1/2)\lambda \le 6\lambda$, tức là đoạn $OM$.
+
+52
+00:09:46,080 --> 00:09:53,920
+Ta cũng xác định ra được giá trị $k$ chỉ bằng 5 vì $k$ lúc này lớn hơn $4.3$ nhưng bé hơn $5.5$.
+
+53
+00:09:53,920 --> 00:09:57,160
+$k$ luôn luôn là số nguyên.
+
+54
+00:09:57,160 --> 00:10:07,280
+Như vậy tổng hợp cả hai vùng lại, ta xác định được rằng $k$ gồm có bốn giá trị, tức là bốn điểm ngược pha với O.
+
+55
+00:10:07,280 --> 00:10:10,160
+Thì đây là cách giải chính xác.
+
+56
+00:10:10,160 --> 00:10:22,120
+Nếu như các bạn sai lầm cho $6\lambda \le OY \le 8\lambda$ thì chúng ta sẽ bị sót nghiệm và sai phương hướng bài toán.
+
+57
+00:10:22,120 --> 00:10:26,760
+Các bạn lưu ý ở bài này.
+
+58
+00:10:26,760 --> 00:10:35,440
+Chúng ta sang câu vận dụng số 3: Hai điểm M và N nằm trên trục $Ox$ và ở cùng một phía so với O.
+
+59
+00:10:35,440 --> 00:10:42,320
+Một sóng cơ hình sin truyền trên trục $Ox$ theo chiều từ M đến N với bước sóng $\lambda$.
+
+60
+00:10:42,880 --> 00:11:01,800
+Với $MN = \lambda/12$ và phương trình dao động của phần tử tại M là $u_M = 5 \cos(10\pi t)$, thì hãy xác định tốc độ của phần tử tại N ở thời điểm $t = 1/3$ giây.
+
+61
+00:11:01,800 --> 00:11:21,880
+Như vậy nhiệm vụ của chúng ta là có phương trình $u_M$ và có khoảng cách $MN$, thì chúng ta dễ dàng suy ra được phương trình $u_N$, từ đó xác định giá trị tốc độ của điểm N lúc $t = 1/3$ giây.
+
+62
+00:11:21,880 --> 00:11:30,560
+Thì đây là bài toán giải cụ thể: Sóng truyền từ M đến N cho nên N trễ pha hơn M.
+
+63
+00:11:30,560 --> 00:11:34,400
+Vì vậy phương trình sóng tại N sẽ là trừ $2\pi MN/\lambda$.
+
+64
+00:11:36,760 --> 00:11:43,120
+Điểm nào trễ pha hơn thì mang dấu trừ, điểm nào sớm pha hơn thì mang dấu cộng.
+
+65
+00:11:43,120 --> 00:11:46,440
+Trừ và cộng ở đây là đại lượng $2\pi d/\lambda$.
+
+66
+00:11:48,680 --> 00:11:53,040
+Như vậy ta được phương trình $5 \cos(10\pi t - \pi/6)$.
+
+67
+00:11:55,320 --> 00:12:10,160
+Phương trình vận tốc tại N sẽ là đạo hàm của phương trình ly độ, ta được $v_N = -50\pi \sin(10\pi t - \pi/6)$.
+
+68
+00:12:11,120 --> 00:12:17,800
+Như vậy ta thế $t = 1/3$ vào biểu thức, ta sẽ được giá trị vận tốc tại N là $25\pi$ cm/s.
+
+69
+00:12:22,480 --> 00:12:31,120
+Đây cũng là một bài toán nằm ở phần dễ của đề thi tốt nghiệp Trung học phổ thông.
+
+70
+00:12:31,120 --> 00:12:41,680
+Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến, hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.
+
+71
+00:12:41,680 --> 00:12:49,280
+Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện, cân bằng giữa học thuật và nghệ thuật, thể thao.
+
+72
+00:12:49,280 --> 00:12:59,920
+Hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, khơi nguồn cảm hứng, độc lập để phát triển và hoàn thiện nhân cách.
+
+73
+00:12:59,920 --> 00:13:19,760
+Ngoài những giờ học trên lớp, học sinh Trường Quốc tế Á Châu còn được trải nghiệm, thử thách bản thân và phản biện các vấn đề để tự mình học hỏi, trưởng thành độc lập hơn.
+
+74
+00:13:19,760 --> 00:13:35,560
+Nơi đây với tôi còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.
+
+75
+00:13:35,560 --> 00:13:40,760
+Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là cuộc sống.
+
+76
+00:13:40,760 --> 00:13:54,280
+Từ môi trường giáo dục này, chúng tôi đã tự tin bước tiếp và viết nên câu chuyện tương lai của chính mình.
+
+77
+00:13:54,280 --> 00:14:09,760
+Ta bước sang câu số 4 ở phần vận dụng: Ở mặt chất lỏng, tại hai điểm $S_1$ và $S_2$ có hai nguồn dao động cùng pha theo phương thẳng đứng phát ra hai sóng kết hợp có bước sóng 1 cm.
+
+78
+00:14:10,720 --> 00:14:18,200
+Trong vùng giao thoa, M là điểm cách $S_1$ và $S_2$ lần lượt là 8 cm và 12 cm.
+
+79
+00:14:20,160 --> 00:14:28,880
+Giữa M và đường trung trực của đoạn $S_1S_2$ có số vân giao thoa cực tiểu là bao nhiêu?
+
+80
+00:14:28,880 --> 00:14:43,400
+Thì ở đây các bạn lưu ý đọc kỹ đề bởi vì có đề sẽ là tìm số vân giao thoa cực tiểu và cũng có đề là hỏi tìm số vân giao thoa cực đại.
+
+81
+00:14:43,400 --> 00:14:52,240
+Tuy là hướng làm đều giống nhau nhưng câu hỏi khác nhau thì chúng ta sẽ ra những giá trị khác nhau.
+
+82
+00:14:52,240 --> 00:15:01,920
+Ta vào giải quyết bài toán: Chúng ta xem xét rằng ở đây $MS_1 = 8$, $MS_2 = 12$.
+
+83
+00:15:03,160 --> 00:15:16,760
+Như vậy hiệu đường đi chia cho $\lambda$ là 4, là một con số nguyên, như vậy M sẽ nằm ở vân cực đại bậc 4.
+
+84
+00:15:16,760 --> 00:15:21,760
+Như vậy chúng ta cùng điểm ở hình 1, 2, 3, 4.
+
+85
+00:15:21,760 --> 00:15:24,480
+Như vậy M nằm ở vân cực đại bậc 4.
+
+86
+00:15:24,480 --> 00:15:35,440
+Sau hoặc là M nằm ở vân cực đại bậc 4 phía bên tay phải.
+
+87
+00:15:35,440 --> 00:15:49,800
+Như vậy ta có thể đếm được dễ dàng giữa M và đường trung trực sẽ có bốn cực tiểu là bốn đường nét đứt 1, 2, 3 và 4.
+
+88
+00:15:49,800 --> 00:16:00,920
+Nhưng ngược lại nếu như đề hỏi giữa M và trung trực có bao nhiêu vân cực đại thì chúng ta chỉ thấy rằng là chỉ có 1, 2, 3 vân cực đại.
+
+89
+00:16:00,920 --> 00:16:04,320
+Thì ở đây thầy khuyên rằng các bạn không cần thuộc công thức.
+
+90
+00:16:04,320 --> 00:16:10,080
+Mặc dù có công thức nhưng cách tốt nhất là chúng ta vẽ hình ra và đếm.
+
+91
+00:16:10,080 --> 00:16:21,480
+Với những số lượng vân ít thì việc nhớ công thức nó sẽ gây hạn chế cái tư duy của chúng ta.
+
+92
+00:16:21,480 --> 00:16:40,360
+Sang ví dụ số 5: Trong thí nghiệm giao thoa sóng ở mặt nước, hai nguồn kết hợp đặt tại hai điểm A và B dao động cùng pha theo phương thẳng đứng phát ra hai sóng lan truyền trên mặt nước với bước sóng $\lambda$.
+
+93
+00:16:41,120 --> 00:16:48,960
+Ở mặt nước, C và D là hai điểm sao cho $ABCD$ là hình vuông.
+
+94
+00:16:48,960 --> 00:16:56,000
+Trên cạnh $BC$ có sáu điểm cực đại giao thoa và bảy điểm cực tiểu giao thoa.
+
+95
+00:16:56,000 --> 00:17:06,240
+Trong đó P là điểm cực đại giao thoa gần điểm B nhất và Q là điểm cực đại giao thoa gần điểm C nhất.
+
+96
+00:17:06,240 --> 00:17:10,680
+Khoảng cách xa nhất có thể giữa hai điểm B và Q là bao nhiêu?
+
+97
+00:17:10,680 --> 00:17:21,040
+Thì đây là một câu bài tập khó ở phần trên 9 điểm của kỳ thi Trung học phổ thông.
+
+98
+00:17:21,040 --> 00:17:25,160
+Thì ở đây chúng ta thấy rằng trên BC có sáu cực đại.
+
+99
+00:17:26,160 --> 00:17:40,760
+Đề cho có sáu cực đại thì ở đây tương ứng thầy vẽ 1, 2, 3, 4, 5, 6 và bảy cực tiểu xen kẽ ở giữa hai cực đại là cực tiểu.
+
+100
+00:17:40,760 --> 00:17:51,800
+Nhưng mà vì số cực tiểu nhiều hơn số cực đại, thì bởi vậy nên hai đầu gần BC sẽ là hai cái cực tiểu.
+
+101
+00:17:51,800 --> 00:18:07,600
+B và C trước, bởi vì đề yêu cầu và cho chúng ta là bảy điểm cực tiểu giao thoa và chỉ có sáu cực đại giao thoa thôi, cho nên hai đầu phải là cực tiểu.
+
+102
+00:18:07,600 --> 00:18:16,520
+Thì ở đây chúng ta đếm 1, 2, 3, 4, 5, 6, 7 đủ bảy cực tiểu.
+
+103
+00:18:16,520 --> 00:18:22,360
+Thì ta thấy rằng bậc giao thoa tại C là $k_C = (AS_1 - AS_2)/\lambda$.
+
+104
+00:18:22,360 --> 00:18:33,360
+$AS_1 - AS_2$ là hiệu đường đi chia cho bước sóng thì ra bậc giao thoa.
+
+105
+00:18:33,360 --> 00:18:39,120
+Còn $k_B = (BS_1 - BS_2)/\lambda$ thì sẽ bằng $x/\lambda$.
+
+106
+00:18:40,560 --> 00:18:48,320
+Ta gọi cái hình vuông này có cạnh là x.
+
+107
+00:18:48,320 --> 00:19:03,720
+Thế chúng ta không phải ghi lặp đi lặp lại, mặc dù x này không phải là ẩn chúng ta cần tìm, chúng ta cần tìm là tìm cái khoảng cách xa nhất giữa B và Q.
+
+108
+00:19:03,720 --> 00:19:08,600
+Thì lúc này chúng ta thấy rằng là $k_B - k_C \ge 6$.
+
+109
+00:19:11,120 --> 00:19:21,160
+Bậc của B và bậc của C sẽ lớn hơn hoặc bằng 6 bởi vì giữa B và C là có ít nhất sáu cực đại rồi.
+
+110
+00:19:21,160 --> 00:19:41,400
+Rồi ta thế vào: $x/\lambda - (x\sqrt{2} - x)/\lambda \ge 6$ thì $x$ nó sẽ lớn hơn hoặc bằng $6 + 3\sqrt{2}\lambda$, là gần bằng $10.24\lambda$.
+
+111
+00:19:44,680 --> 00:19:48,960
+Như vậy cạnh $BC$ thì sẽ lớn hơn hoặc bằng $10.24\lambda$.
+
+112
+00:19:52,920 --> 00:20:03,480
+Thế vào lúc này $k_C$ bậc của C sẽ là lớn hơn hoặc bằng 4.
+
+113
+00:20:03,480 --> 00:20:13,960
+Thì xem như điểm C là một cái cực tiểu gần nhất, thì lúc này $k_C$ sẽ bằng $4.5$, tức là lớn hơn hoặc bằng $4.24$.
+
+114
+00:20:14,960 --> 00:20:29,320
+Như vậy là cái cực tiểu gần nhất sẽ là $4.5$ và ta thế bậc $k_C$ vào là $x\sqrt{2} - x/\lambda$ thì ta sẽ được mối quan hệ giữa x và $\lambda$ là bằng $10.86\lambda$.
+
+115
+00:20:34,080 --> 00:20:37,040
+Từ đó ta đi tìm bậc của điểm Q.
+
+116
+00:20:37,040 --> 00:20:39,280
+Bậc của điểm Q là $(AQ - BQ)/\lambda$.
+
+117
+00:20:39,280 --> 00:20:47,480
+$AQ$ của chúng ta theo Pitago là sẽ bằng $\sqrt{AB^2 + BQ^2}$.
+
+118
+00:20:47,480 --> 00:20:59,520
+$AB^2$ thì là $x$ đã tìm được là $10.86\lambda$, còn $BQ^2$ thì chúng ta là ẩn.
+
+119
+00:20:59,880 --> 00:21:26,480
+Cho $BQ/\lambda = 5$, như vậy ở đây $BQ^2 + 10.86\lambda^2 = 5\lambda + BQ^2$, chúng ta sẽ xác định được giá trị $BQ$ bằng biểu thức sau.
+
+120
+00:21:26,480 --> 00:21:29,320
+Như vậy $BQ$ của mình sẽ bằng $9.25$.
+
+121
+00:21:33,720 --> 00:21:38,720
+Thì ở đây tại sao bậc của điểm Q bằng 5?
+
+122
+00:21:38,720 --> 00:21:46,240
+Vì bậc của điểm Q là điểm cực đại gần điểm Q nhất mà Q lúc này đã trùng C rồi.
+
+123
+00:21:46,240 --> 00:21:57,440
+Bởi vì đề yêu cầu là khoảng cách xa nhất giữa B và Q thì ta càng kéo giãn cực đại này lên trên đầu C và cực đại này đi xuống đầu B.
+
+124
+00:21:57,440 --> 00:22:00,800
+Thì như vậy $BQ$ sẽ là xa nhất.
+
+125
+00:22:00,800 --> 00:22:10,160
+Vì vậy là bậc của C đã là $4.5$ rồi thì ta có bậc của Q sẽ là 5 vì Q là cực đại.
+
+126
+00:22:10,160 --> 00:22:15,080
+Như vậy ta tìm được $BQ$ của chúng ta là bằng $9.25$.
+
+127
+00:22:16,080 --> 00:22:29,840
+Ta thì từ trên chúng ta đếm xuống bậc của Q bằng 5 thì điểm này là 6, 7, 8, 9 và 10.
+
+128
+00:22:29,840 --> 00:22:32,800
+Như vậy bậc của B sẽ là 10.
+
+129
+00:22:32,800 --> 00:22:46,480
+Đây chúng ta thế vào bậc của B bằng 10 và bậc của B tương tự như bậc của Q vào biểu thức thì lúc này thầy sẽ tính được điểm $BP = 0.895\lambda$.
+
+130
+00:22:48,480 --> 00:23:04,440
+Thì chủ đây ta có $BQ$ và ta có $PB$, thì từ đó thầy sẽ tính được giá trị $BQ = 8.45\lambda$ là ta lấy $BQ$ trừ cho $PB = 8.4$.
+
+131
+00:23:07,360 --> 00:23:13,040
+Để có được thành công như hôm nay, tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình.
+
+132
+00:23:13,040 --> 00:23:20,080
+Ước mơ của mình bắt đầu từ Trường Đại học Quốc tế Sài Gòn SIU.
+
+133
+00:23:20,080 --> 00:23:26,880
+Đào tạo đa dạng đa lĩnh vực, SIU mở ra cho chúng tôi nhiều cơ hội lựa chọn nghề nghiệp trong tương lai.
+
+134
+00:23:26,880 --> 00:23:30,880
+Tất cả sinh viên đều có cơ hội để thể hiện và phát triển năng lực.
+
+135
+00:23:30,880 --> 00:23:34,160
+Những ý tưởng luôn được khuyến khích và phát huy tối đa.
+
+136
+00:23:34,160 --> 00:23:40,240
+Chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin, chúng tôi được học cách học, cách nghĩ và cách sống.
+
+137
+00:23:40,240 --> 00:23:47,360
+Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.
+
+138
+00:23:47,360 --> 00:23:57,920
+Hiện đại, năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc, đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn SIU luôn hướng đến.
+
+139
+00:23:57,920 --> 00:24:06,080
+Đã đến lúc vươn xa hơn những gì đã học.
+
+140
+00:24:06,080 --> 00:24:15,120
+Đây là bài toán thật sự rất khó và rất ưa ra ở dạng câu hỏi từ 9 điểm trở lên.
+
+141
+00:24:15,120 --> 00:24:32,880
+Thì như các bạn biết rằng là phân phối barem đề, thì từ 9 điểm trở lên hàng năm thường sẽ rơi vào một câu sóng, hai câu điện và một câu ở các chương 5, 6, 7.
+
+142
+00:24:32,880 --> 00:24:44,840
+Vì vậy những bạn đặt mục tiêu lấy điểm cao thì cần cố gắng ở chương sóng và giao thoa sóng nhiều hơn.
+
+143
+00:24:44,840 --> 00:24:56,480
+Chúng ta đã kết thúc chuyên đề 3 và phần tiếp theo thì thầy ôn lại một số kiến thức cơ bản của lớp 11 đó là dòng điện một chiều, phần ghép nguồn.
+
+144
+00:24:56,480 --> 00:25:01,840
+Phần ghép nguồn thì có ba: ghép nối tiếp, ghép song song và ghép hỗn hợp đối xứng.
+
+145
+00:25:01,840 --> 00:25:16,960
+Đối với ghép nối tiếp thì cực âm của nguồn này mắc nối tiếp với cực dương của nguồn kia thì $E_{bộ} = E_1 + E_2 + \dots + E_n$, thì tương tự $r_{bộ} = r_1 + r_2 + \dots + r_n$.
+
+146
+00:25:16,960 --> 00:25:27,680
+Như vậy nếu như có n nguồn nối tiếp giống nhau thì ta sẽ có $E_{bộ} = n \cdot E$ và $r_{bộ} = n \cdot r$.
+
+147
+00:25:27,680 --> 00:25:45,560
+Còn khi ghép song song thì cực âm chúng ta mắc chung vào một điểm, cực dương chúng ta mắc chung vào một điểm thì ta có $E_{bộ} = E$ và $r_{bộ} = r/n$, trong đó E và r là giá trị của một nguồn.
+
+148
+00:25:45,560 --> 00:26:01,640
+Khi ghép hỗn hợp đối xứng thì chúng ta ghép thành n dãy hay là n hàng, trên mỗi hàng đó chúng ta có m nguồn thì ta sẽ có $E_{bộ} = m \cdot E$ và $r_{bộ} = m/n \cdot r$.
+
+149
+00:26:03,200 --> 00:26:13,480
+Thì tổng số nguồn lúc này là bằng số hàng nhân cho số pin trên một hàng, tức là $N = m \cdot n$.
+
+150
+00:26:13,480 --> 00:26:29,080
+Sau đây là một bài tập ví dụ là bài ví dụ minh họa trong năm 2024: Bộ nguồn gồm hai nguồn điện một chiều giống nhau ghép nối tiếp, mỗi nguồn có suất điện động E.
+
+151
+00:26:29,080 --> 00:26:31,240
+Suất điện động của bộ nguồn là bao nhiêu?
+
+152
+00:26:31,240 --> 00:26:40,720
+Thì như chúng ta đã học, khi mắc nối tiếp thì chúng ta sẽ cộng các suất điện động lại, và nếu như giống nhau thì chúng ta sẽ trở thành phép nhân.
+
+153
+00:26:40,720 --> 00:26:43,560
+Như vậy $E_{bộ}$ của chúng ta sẽ bằng $2E$.
+
+154
+00:26:44,720 --> 00:26:47,720
+Thì đây là phần kiến thức cơ bản của lớp 11.
+
+155
+00:26:48,920 --> 00:26:54,240
+Kết thúc phần kiến thức cơ bản của lớp 11 thì cũng đã kết thúc buổi học ngày hôm nay.
+
+156
+00:26:54,240 --> 00:26:59,120
+Chúc các em học thật tốt và hẹn gặp lại các em ở những chuyên đề sau.

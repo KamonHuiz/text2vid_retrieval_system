@@ -1,0 +1,423 @@
+1
+00:00:00,000 --> 00:00:13,840
+Để chào mừng các em đến với buổi ôn thi tốt nghiệp Trung học phổ thông môn Vật lý năm 2024.
+
+2
+00:00:14,760 --> 00:00:21,440
+Chương trình do báo Thanh Niên tổ chức.
+
+3
+00:00:21,440 --> 00:00:30,640
+Đến với chuyên đề ngày hôm nay là chuyên đề số 6, chúng ta nghiên cứu về các loại máy điện và sự truyền tải điện.
+
+4
+00:00:30,640 --> 00:00:45,960
+Để có được thành công như hôm nay, tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình bắt đầu từ trường Đại học Quốc tế Sài Gòn (SIU) đào tạo đa dạng đa lĩnh vực.
+
+5
+00:00:45,960 --> 00:00:50,240
+SIU mở ra cho chúng tôi nhiều cơ hội lựa chọn nghề nghiệp trong tương lai.
+
+6
+00:00:50,240 --> 00:00:54,240
+Tất cả sinh viên đều có cơ hội để thể hiện và phát triển năng lực.
+
+7
+00:00:54,240 --> 00:00:57,520
+Những ý tưởng luôn được khuyến khích và phát huy tối đa.
+
+8
+00:00:57,520 --> 00:01:00,480
+Chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin.
+
+9
+00:01:00,480 --> 00:01:03,640
+Chúng tôi được học cách học, cách nghĩ và cách sống.
+
+10
+00:01:03,640 --> 00:01:10,720
+Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.
+
+11
+00:01:10,720 --> 00:01:21,320
+Hiện đại, năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn SIU luôn hướng đến.
+
+12
+00:01:21,320 --> 00:01:35,200
+Đã đến lúc vươn xa hơn những gì đã học, chúng ta cùng qua một số kiến thức trọng tâm về các loại máy điện.
+
+13
+00:01:35,200 --> 00:01:46,240
+Thì ta xét về thứ nhất là máy phát điện xoay chiều thì nó là một thiết bị tạo ra dòng điện xoay chiều dựa trên hiện tượng cảm ứng điện từ.
+
+14
+00:01:46,240 --> 00:01:52,920
+Từ thông qua khung dây là $\Phi = N B S$, tức là $\Phi_0 \cos(\omega t + \varphi)$.
+
+15
+00:01:52,920 --> 00:01:58,400
+$\varphi$ nhỏ là pha ban đầu, $\Phi$ lớn này là từ thông.
+
+16
+00:01:58,400 --> 00:02:11,760
+Các bạn lưu ý suất điện động do từ thông qua khung dây sinh ra là $e = \omega N B S \cos(\omega t + \varphi - \pi/2)$.
+
+17
+00:02:12,840 --> 00:02:25,400
+Tức là suất điện động này theo định luật Lenz ở lớp 11 nó là trừ đạo hàm của từ thông.
+
+18
+00:02:25,400 --> 00:02:40,400
+Máy phát điện một pha thì chúng ta có là $f = B \cdot n$ đối với đơn vị là vòng trên giây, và $B \cdot n$ là vòng trên phút thì chúng ta chia 60.
+
+19
+00:02:41,240 --> 00:02:54,200
+Máy phát điện xoay chiều ba pha thì ở đây chúng ta sẽ có ba suất điện động lệch pha nhau từng đôi một là góc $2\pi/3$.
+
+20
+00:03:01,720 --> 00:03:10,200
+Máy biến áp và sự truyền tải điện thì đây là cấu tạo của máy biến áp gồm có cuộn sơ cấp và cuộn thứ cấp.
+
+21
+00:03:10,200 --> 00:03:16,120
+Cuộn sơ cấp là đầu vào, cuộn thứ cấp là đầu ra.
+
+22
+00:03:16,120 --> 00:03:19,840
+Công thức của máy biến áp là $U_1/U_2 = n_1/n_2 = e_1/e_2 = I_2/I_1$.
+
+23
+00:03:28,080 --> 00:03:36,400
+Công suất hao phí khi truyền tải điện năng là $P_{hao \ phi}$ sẽ bằng $P^2 / (U^2 \cos^2 \varphi) \cdot R$.
+
+24
+00:03:38,400 --> 00:04:03,920
+Trong đó $P$ là công suất cung cấp, cái này được quyết định ở nhà máy điện, $U$ là điện áp ở nơi cung cấp đơn vị là Volt, $\cos \varphi$ là hệ số công suất và $R$ là điện trở của dây tải điện bằng $\rho \cdot L/S$, thì chủ yếu của chúng ta là dây đồng.
+
+25
+00:04:03,920 --> 00:04:09,640
+Về hiệu suất tải điện thì sẽ bằng $(P - P_{hao \ phi}) / P \cdot 100\%$.
+
+26
+00:04:12,840 --> 00:04:24,600
+Độ giảm thế là trong quá trình truyền tải điện năng sẽ gây ra độ giảm thế cho nên $\Delta U$ sẽ bằng $I \cdot R$ là điện trở của dây tải.
+
+27
+00:04:24,600 --> 00:04:29,760
+Chúng ta cùng qua một số bài tập ví dụ để khắc sâu kiến thức.
+
+28
+00:04:29,760 --> 00:04:39,600
+Câu số 11: Máy biến áp lý tưởng có số vòng dây của cuộn sơ cấp và số vòng dây của cuộn thứ cấp là $n_1$ và $n_2$.
+
+29
+00:04:39,600 --> 00:04:44,400
+$n_1$ là ẩn, $n_2$ là 120 vòng.
+
+30
+00:04:44,400 --> 00:04:57,880
+Đặt điện áp xoay chiều có giá trị hiệu dụng 220 V vào hai đầu cuộn sơ cấp thì điện áp hiệu dụng giữa hai đầu cuộn thứ cấp để hở là 6 V.
+
+31
+00:04:57,880 --> 00:05:06,120
+Giá trị của $n_1$ là bao nhiêu?
+
+32
+00:05:06,120 --> 00:05:12,200
+Ở đây đơn giản chúng ta có biểu thức của máy biến áp là $U_1/U_2 = n_1/n_2$.
+
+33
+00:05:14,560 --> 00:05:29,600
+Chúng ta thế số 220 là $U_1$, 6 là $U_2$, $n_1$ là ẩn và 120 là $n_2$ thì chúng ta sẽ xây dựng được $n_1 = 4.400$ vòng.
+
+34
+00:05:29,600 --> 00:05:40,160
+Thì ở đây nhận xét rằng là $U_1$ lớn hơn $U_2$ nên đây là máy hạ áp.
+
+35
+00:05:40,160 --> 00:05:48,440
+Ta sang ví dụ số 21: Máy phát điện xoay chiều một pha khi hoạt động tạo ra suất điện động $e = 120\sqrt{2} \cos(100\pi t)$.
+
+36
+00:05:51,200 --> 00:05:56,760
+Giá trị hiệu dụng của suất điện động này là bao nhiêu?
+
+37
+00:05:56,760 --> 00:06:06,200
+Đây là một bài khá đơn giản nếu như chúng ta nắm vững kiến thức về phương trình dao động thì sẽ không có gì khó khăn.
+
+38
+00:06:06,200 --> 00:06:10,960
+Thì suất điện động hiệu dụng sẽ là $e = e_0 / \sqrt{2}$.
+
+39
+00:06:10,960 --> 00:06:23,640
+$e_0$ ở đây là $120\sqrt{2}$, như vậy chúng ta sẽ được giá trị hiệu dụng là 120 Volt.
+
+40
+00:06:23,640 --> 00:06:34,240
+Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.
+
+41
+00:06:34,240 --> 00:06:41,920
+Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện, cân bằng giữa học thuật và nghệ thuật thể thao.
+
+42
+00:06:41,920 --> 00:06:52,520
+Hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, khơi nguồn cảm hứng độc lập để phát triển và hoàn thiện nhân cách.
+
+43
+00:06:52,520 --> 00:07:12,280
+Ngoài những giờ học trên lớp, học sinh Trường Quốc tế Á Châu còn được trải nghiệm thử thách bản thân và phản biện các vấn đề để tự mình học hỏi trưởng thành độc lập hơn.
+
+44
+00:07:12,280 --> 00:07:28,120
+Nơi đây với tôi còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.
+
+45
+00:07:28,120 --> 00:07:33,200
+Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là cuộc sống.
+
+46
+00:07:33,200 --> 00:07:46,200
+Từ môi trường giáo dục này chúng tôi đã tự tin bước tiếp và viết nên câu chuyện tương lai của chính mình.
+
+47
+00:07:46,200 --> 00:08:04,080
+Ta sang ví dụ số 31: Máy phát điện xoay chiều một pha đang hoạt động khi rôto của máy quay đều với tốc độ $n$ vòng trên giây thì suất điện động do máy tạo ra có tần số 60 Hz.
+
+48
+00:08:04,080 --> 00:08:14,600
+Khi rôto quay đều với tốc độ $1.5n$ vòng trên giây thì suất điện động do máy tạo ra có tần số là bao nhiêu?
+
+49
+00:08:14,600 --> 00:08:26,040
+Thì đối với máy phát điện xoay chiều ta có biểu thức là $f = B \cdot n$ với $n$ đơn vị là vòng trên giây.
+
+50
+00:08:26,040 --> 00:08:38,000
+Như vậy ta thấy rằng là $f$ và $n$ sẽ tỷ lệ thuận với nhau, tức là rôto quay càng nhanh thì tần số sẽ càng lớn.
+
+51
+00:08:38,000 --> 00:08:53,720
+Ta thế số $f_1 = 60$ Hz, $f_2$ là đại lượng cần tìm, $n_1$ là $n$ vòng, $n_2$ là $1.5n$ vòng.
+
+52
+00:08:53,720 --> 00:09:01,600
+Như vậy triệt tiêu $n$ thì chúng ta sẽ ra $f_2 = 90$ Hz.
+
+53
+00:09:01,600 --> 00:09:10,640
+Sang câu ví dụ số 41: Khung dây dẫn phẳng dẹp có 200 vòng, mỗi vòng có diện tích $600\text{ cm}^2$.
+
+54
+00:09:12,280 --> 00:09:24,680
+Khung dây quay đều quanh trục nằm trong mặt phẳng khung trong một từ trường đều có vector cảm ứng từ vuông góc với trục quay và có độ lớn $4.5 \cdot 10^{-2}$ Tesla.
+
+55
+00:09:24,680 --> 00:09:29,120
+Suất điện động $e$ trong khung có tần số 50 Hz.
+
+56
+00:09:29,120 --> 00:09:38,240
+Chọn gốc thời gian lúc pháp tuyến của mặt phẳng khung cùng hướng với vector cảm ứng từ, biểu thức của $e$ là bao nhiêu?
+
+57
+00:09:38,240 --> 00:09:48,560
+Thì để viết được biểu thức của một đại lượng dao động điều hòa bất kỳ, chúng ta phải xác định được giá trị cực đại, tần số góc và pha ban đầu.
+
+58
+00:09:48,560 --> 00:09:54,560
+Thì đối với phương trình $e$ cũng không ngoại lệ, chúng ta phải đi tìm đúng ba đại lượng đó.
+
+59
+00:09:54,560 --> 00:09:59,800
+Thì $e_0$ thì bằng $\omega \cdot N B S$.
+
+60
+00:09:59,800 --> 00:10:11,360
+Chúng ta thế số $\omega = 2\pi \cdot 50$ Hz, $N = 200$ vòng, $B = 4.5 \cdot 10^{-2}$, $S = 600\text{ cm}^2$.
+
+61
+00:10:17,080 --> 00:10:20,040
+Ta đổi về $\text{m}^2$ là $600 \cdot 10^{-4}$.
+
+62
+00:10:22,000 --> 00:10:26,240
+Như vậy $e_0 = 169.9$ Volt.
+
+63
+00:10:26,240 --> 00:10:42,040
+Thì liếc nhìn ở đây là hai đáp án B và C, thì lưu ý đối với bài viết biểu thức thường khi các bạn ra được giá trị cực đại là các bạn đã loại được từ một đến hai đáp án.
+
+64
+00:10:42,040 --> 00:10:48,320
+Nếu như trong trường hợp không kịp thời gian thì còn hai đáp án còn lại.
+
+65
+00:10:48,320 --> 00:10:58,120
+Bây giờ đại lượng tiếp theo chúng ta cần tìm đó là tần số góc là $100\pi$ vì $\omega = 2\pi \cdot 50$ đã là $100\pi$.
+
+66
+00:10:58,760 --> 00:11:04,320
+Vậy đại lượng cuối cùng chúng ta cần đó là pha ban đầu của $e$.
+
+67
+00:11:04,320 --> 00:11:19,240
+Thì đề đã cho thời điểm lúc pháp tuyến của mặt phẳng khung cùng hướng với vector cảm ứng từ, như vậy lúc đó góc giữa $B$ và $n$ sẽ bằng 0 độ.
+
+68
+00:11:19,240 --> 00:11:32,480
+Như vậy pha ban đầu của từ thông sẽ bằng 0 độ, nhưng pha ban đầu của $e$ thì chậm hơn pha ban đầu của từ thông một góc là $\pi/2$.
+
+69
+00:11:33,560 --> 00:11:36,040
+Vì vậy pha ban đầu của $e$ là $-\pi/2$.
+
+70
+00:11:37,480 --> 00:11:51,720
+Ta được phương trình đầy đủ của $e = 169.6 \cos(100\pi t - \pi/2)$ và đáp án chúng ta dễ dàng là B.
+
+71
+00:11:51,720 --> 00:12:02,960
+Ta sang ví dụ số 5: Khảo sát thực nghiệm một máy biến áp có cuộn sơ cấp $A_1$ lớn và cuộn thứ cấp $B_1$ lớn.
+
+72
+00:12:02,960 --> 00:12:09,320
+Cuộn $A_1$ được nối với mạng điện xoay chiều có điện áp hiệu dụng không đổi.
+
+73
+00:12:09,320 --> 00:12:20,600
+Cuộn $B_1$ gồm các vòng dây quấn cùng chiều, một số điểm trên $B_1$ được nối ra các chốt $M, P, Q$ như hình vẽ.
+
+74
+00:12:20,600 --> 00:12:29,200
+Số chỉ của vôn kế có giá trị nhỏ nhất khi khóa $K$ ở chốt nào sau đây?
+
+75
+00:12:29,640 --> 00:12:50,560
+Khi khóa $K$ đóng ở các chốt $M, P, Q$ thì chúng ta thấy rằng là sẽ làm thay đổi số cuộn dây ở phần $B$ tức là phần thứ cấp, phần $A$ thì không có gì thay đổi.
+
+76
+00:12:50,560 --> 00:13:05,640
+Như vậy chúng ta nhận xét rằng là khi $K$ đóng ở chốt $M$ thì số cuộn là lớn nhất, tương tự khi $K$ đóng ở chốt $Q$ thì số cuộn ở cuộn thứ cấp là bé nhất.
+
+77
+00:13:05,640 --> 00:13:22,560
+Nhưng đề hỏi là để số chỉ vôn kế có giá trị nhỏ nhất, vì vậy chúng ta khả năng sẽ cần cái chốt $K$ này ở chốt $Q$ để cho $n$ bé nhất.
+
+78
+00:13:22,560 --> 00:13:34,880
+Và rõ ràng công thức máy biến áp là $U_1/U_2 = n_1/n_2$, $U$ tỷ lệ thuận với $n$.
+
+79
+00:13:34,880 --> 00:13:45,280
+Vậy để $U_2$ min thì $n_2$ min, là ta thấy rằng $K$ phải nằm ở chốt $Q$.
+
+80
+00:13:45,280 --> 00:13:53,920
+Chốt $Q$ thì ta thấy rằng là cái lượng vòng dây quấn của cuộn thứ cấp là sẽ ít nhất.
+
+81
+00:13:53,920 --> 00:13:56,720
+Như vậy đáp án của chúng ta sẽ là D.
+
+82
+00:13:56,720 --> 00:14:07,640
+Trường Đại học Quốc tế Sài Gòn SIU không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SIU nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt.
+
+83
+00:14:07,640 --> 00:14:18,400
+SIU mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới, trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.
+
+84
+00:14:18,400 --> 00:14:27,000
+Năm 2024, SIU tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng bốn phương thức tuyển sinh.
+
+85
+00:14:27,000 --> 00:14:53,520
+SIU cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SIU, 100 suất học bổng Tiếp bước hành trình quỹ tài năng trẻ, học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa thể thao nghệ thuật, học bổng đồng hành xây dựng nhân lực chất lượng cao cho thành phố Thủ Đức, thành phố Hồ Chí Minh, học bổng doanh nghiệp tài trợ, học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.
+
+86
+00:14:53,520 --> 00:14:57,600
+SI - Tâm hồn Việt Nam, giáo dục thế giới.
+
+87
+00:14:57,600 --> 00:15:13,520
+Ta sang ví dụ số 6: Điện năng được truyền từ một nhà máy phát điện gồm tám tổ máy đến nơi tiêu thụ bằng đường dây tải điện một pha.
+
+88
+00:15:13,520 --> 00:15:20,120
+Giờ cao điểm có cả tám tổ máy hoạt động, hiệu suất truyền tải là 70%.
+
+89
+00:15:21,360 --> 00:15:32,200
+Coi điện áp hiệu dụng ở nhà máy không đổi, hệ số công suất của mạch bằng 1, công suất phát điện của các tổ máy khi hoạt động là không đổi và bằng nhau.
+
+90
+00:15:32,560 --> 00:15:45,320
+Công suất tiêu thụ điện ở nơi tiêu thụ giảm còn 83% so với giờ cao điểm thì còn bao nhiêu tổ máy hoạt động?
+
+91
+00:15:45,320 --> 00:15:45,320
+Ở đây chúng ta có hiệu suất $H_1$ bằng 70% nên $P_{hao \ phi 1}$ sẽ bằng $0.3 P_1$ và bằng $R \cdot I^2$ chia cho $U^2$.
+
+92
+00:15:45,320 --> 00:15:45,320
+Như vậy $R$ chia cho $U^2$ sẽ bằng $0.3$ chia cho $P_1$.
+
+93
+00:15:49,920 --> 00:16:20,040
+$P_{hao \ phi 2}$ thì bằng $R$ chia $U^2$ nhân cho $P_2^2$ bằng $0.3 P_2^2$ chia $P_1$.
+
+94
+00:16:22,120 --> 00:16:46,720
+Ở đây ta thế $R/U^2 = 0.3/P_1$ vào biểu thức thì ở đây đề cho rằng là công suất tiêu thụ ở nơi tiêu thụ chỉ còn 83% thôi, cho nên là $P_{tiêu \ thụ 2}$ chỉ còn $0.83 P_{tiêu \ thụ 1} = 0.83 \cdot 0.7 P_1 = 581/1000 P_1$.
+
+95
+00:16:53,920 --> 00:17:05,200
+Bởi vì tiêu thụ điện chỉ là 70% thì $P_2$ sẽ bằng $P_{hao \ phi 2} + P_{tiêu \ thụ 2}$.
+
+96
+00:17:05,200 --> 00:17:15,920
+Ta thế vào $P_{hao \ phi 2}$ thì bằng $0.3 P_2^2$ chia $P_1 + P_{tiêu \ thụ 2}$ là bằng $581/1000 P_1$.
+
+97
+00:17:18,880 --> 00:17:40,040
+Như vậy bằng $0.3 P_2^2$ chia cho $8 P_0$ vì $P_1$ ban đầu là tám nhà máy cộng cho $581/1000 P_1$ thì bằng $8 P_0$.
+
+98
+00:17:40,040 --> 00:17:56,960
+Như vậy ta đặt tỷ số $x = P_2 / P_0$ ta sẽ được phương trình $1000 P_0 \cdot P_2 = 37.5 P_2^2 + 4648 P_0^2$.
+
+99
+00:18:06,440 --> 00:18:12,040
+Ta được phương trình bậc hai là $37.5 x^2 - 1000 x + 4648$.
+
+100
+00:18:17,360 --> 00:18:23,280
+Như vậy ta sẽ ra được $x = 6$, tức là tỷ số $P_2 / P_0 = 6$.
+
+101
+00:18:24,880 --> 00:18:37,320
+Như vậy khi mà công suất tiêu thụ điện giảm còn 83% thì ta chỉ cần sáu tổ máy là sẽ chạy được so với giờ cao điểm là tám tổ máy.
+
+102
+00:18:37,320 --> 00:18:44,520
+Thì bài toán này là một bài toán khó về cái sự tiêu thụ điện và sự hao phí.
+
+103
+00:18:44,520 --> 00:18:54,760
+Lưu ý các bạn cần phải nắm được biểu thức là $P$ thì bằng $P_{hao \ phi} + P_{nơi \ tiêu \ thụ}$.
+
+104
+00:18:54,760 --> 00:19:09,640
+Làm gì làm thì $P_{tổng}$ phải bằng cái hao phí cộng với cái tiêu thụ, từ đó một số kỹ năng tính toán thì chúng ta sẽ giải quyết được bài toán.
+
+105
+00:19:09,640 --> 00:19:13,920
+Ví dụ số 6 đã kết thúc chuyên đề ngày hôm nay.
+
+106
+00:19:13,920 --> 00:19:18,480
+Chúc các em học tốt và hẹn gặp lại các em ở chuyên đề sau.

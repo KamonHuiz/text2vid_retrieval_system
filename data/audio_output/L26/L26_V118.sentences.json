@@ -1,0 +1,778 @@
+{
+  "video_id": "L26_V118",
+  "fps": 25.0,
+  "n_sentences": 48,
+  "total_words": 1068,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.48,
+      "end": 11.96,
+      "n_words": 4,
+      "start_frame": 262,
+      "end_frame": 299,
+      "keyframes": [
+        "000299.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ba rọi sả ớt tẩm bột chiên giòn, thơm nồng nàn lại giòn giòn thích thú.",
+      "start": 11.96,
+      "end": 34.92,
+      "n_words": 16,
+      "start_frame": 299,
+      "end_frame": 873,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000363.webp",
+        "000427.webp",
+        "000428.webp",
+        "000502.webp",
+        "000576.webp",
+        "000591.webp",
+        "000644.webp",
+        "000697.webp",
+        "000698.webp",
+        "000788.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Rất vui khi được gặp lại các bạn khán giả đang theo dõi chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành.",
+      "start": 34.92,
+      "end": 40.44,
+      "n_words": 23,
+      "start_frame": 873,
+      "end_frame": 1011,
+      "keyframes": [
+        "000878.webp",
+        "000879.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 40.44,
+      "end": 44.32,
+      "n_words": 11,
+      "start_frame": 1011,
+      "end_frame": 1108,
+      "keyframes": [
+        "001087.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Hôm nay, Quốc Nghị sẽ hướng dẫn các bạn khán giả và Minh Phương thực hiện một món rất ngon nhưng mà cực kỳ dễ, đó là món ba rọi sả ớt tẩm bột chiên giòn.",
+      "start": 44.32,
+      "end": 53.6,
+      "n_words": 36,
+      "start_frame": 1108,
+      "end_frame": 1340,
+      "keyframes": [
+        "001295.webp",
+        "001296.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Wow, nghe thôi là thấy hấp dẫn rồi!",
+      "start": 53.6,
+      "end": 56.16,
+      "n_words": 8,
+      "start_frame": 1340,
+      "end_frame": 1404,
+      "keyframes": [
+        "001348.webp",
+        "001401.webp",
+        "001402.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Công đoạn đầu tiên là anh Nghị phải hướng dẫn Minh Phương cũng như là quý vị khán giả lựa chọn ba rọi làm sao cho ngon.",
+      "start": 56.16,
+      "end": 62.88,
+      "n_words": 27,
+      "start_frame": 1404,
+      "end_frame": 1572,
+      "keyframes": [
+        "001533.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cái việc lựa chọn ba rọi thì chúng ta sẽ chọn nè: thớ thịt hồng nè, chạm vào cái độ đàn hồi nè, quan trọng đó là mỡ nạc nó đan xen lẫn nhau.",
+      "start": 62.88,
+      "end": 71.44,
+      "n_words": 34,
+      "start_frame": 1572,
+      "end_frame": 1786,
+      "keyframes": [
+        "001665.webp",
+        "001666.webp",
+        "001726.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cái miếng ba rọi nè các bạn sẽ cắt có độ dày khoảng một centimet như thế này nè.",
+      "start": 71.44,
+      "end": 78.4,
+      "n_words": 19,
+      "start_frame": 1786,
+      "end_frame": 1960,
+      "keyframes": [
+        "001787.webp",
+        "001788.webp",
+        "001840.webp",
+        "001893.webp",
+        "001894.webp",
+        "001959.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sau khi cắt là như thế này thì Minh Phương và các bạn cắt thành quân chì nè, đó mình cứ canh khoảng ngón tay út là được như thế này, cho vào một cái tô nè.",
+      "start": 78.4,
+      "end": 95.2,
+      "n_words": 37,
+      "start_frame": 1960,
+      "end_frame": 2380,
+      "keyframes": [
+        "002024.webp",
+        "002025.webp",
+        "002063.webp",
+        "002101.webp",
+        "002102.webp",
+        "002176.webp",
+        "002251.webp",
+        "002252.webp",
+        "002297.webp",
+        "002342.webp",
+        "002343.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Và Minh Phương được biết thì thịt heo là cái nguồn cung cấp protein rất là quen thuộc rồi đúng không ạ, tốt cho cơ bắp nè, nhưng mà bên cạnh đó thì trong thịt heo còn có một cái hoạt chất rất là tốt đó là taurine và cái chất này sẽ giúp cho chúng ta cảm giác hưng phấn hơn.",
+      "start": 95.2,
+      "end": 109.44,
+      "n_words": 62,
+      "start_frame": 2380,
+      "end_frame": 2736,
+      "keyframes": [
+        "002381.webp",
+        "002419.webp",
+        "002420.webp",
+        "002480.webp",
+        "002540.webp",
+        "002541.webp",
+        "002577.webp",
+        "002614.webp",
+        "002615.webp",
+        "002637.webp",
+        "002659.webp",
+        "002660.webp",
+        "002709.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Chính vì thế mà ai là những người mà hay tập thể thao thì sẽ bổ sung cái nguồn thịt heo để giúp cho năng suất hơn trong luyện tập.",
+      "start": 109.44,
+      "end": 115.68,
+      "n_words": 30,
+      "start_frame": 2736,
+      "end_frame": 2892,
+      "keyframes": [
+        "002758.webp",
+        "002759.webp",
+        "002802.webp",
+        "002845.webp",
+        "002846.webp",
+        "002868.webp",
+        "002891.webp",
+        "002892.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Rồi chúng ta sẽ ướp vào đây một muỗng cà phê tỏi băm nè, một muỗng cà phê hành tím băm, một muỗng cà phê ớt sừng băm.",
+      "start": 115.68,
+      "end": 121.88,
+      "n_words": 28,
+      "start_frame": 2892,
+      "end_frame": 3047,
+      "keyframes": [
+        "002892.webp",
+        "002923.webp",
+        "002955.webp",
+        "002956.webp",
+        "002986.webp",
+        "003016.webp",
+        "003017.webp",
+        "003038.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Băm.",
+      "start": 121.88,
+      "end": 122.44,
+      "n_words": 1,
+      "start_frame": 3047,
+      "end_frame": 3061,
+      "keyframes": [
+        "003060.webp",
+        "003061.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tẩm tỏi, hành tím, ớt vào ba rọi để giúp cho ba rọi thấm gia vị và thơm ngon hơn đó các bạn.",
+      "start": 122.44,
+      "end": 128.08,
+      "n_words": 23,
+      "start_frame": 3061,
+      "end_frame": 3202,
+      "keyframes": [
+        "003061.webp",
+        "003131.webp",
+        "003201.webp",
+        "003202.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và cuối cùng chúng ta sẽ nêm vào đây nửa gói gia vị nêm sẵn Ajinomoto bột tẩm khô chiên giòn nha.",
+      "start": 128.08,
+      "end": 133.6,
+      "n_words": 22,
+      "start_frame": 3202,
+      "end_frame": 3340,
+      "keyframes": [
+        "003202.webp",
+        "003229.webp",
+        "003256.webp",
+        "003257.webp",
+        "003298.webp",
+        "003339.webp",
+        "003340.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Quốc Nghị ướp gia vị nêm sẵn Ajinomoto bột tẩm khô chiên giòn để giữ cái màu đẹp cho thịt, mình sẽ áo cái phần ba rọi đã được cắt quân chì này một cái lớp bột mỏng như thế này đúng không ạ?",
+      "start": 133.6,
+      "end": 144.56,
+      "n_words": 44,
+      "start_frame": 3340,
+      "end_frame": 3614,
+      "keyframes": [
+        "003340.webp",
+        "003366.webp",
+        "003392.webp",
+        "003393.webp",
+        "003423.webp",
+        "003453.webp",
+        "003454.webp",
+        "003478.webp",
+        "003502.webp",
+        "003503.webp",
+        "003553.webp",
+        "003603.webp",
+        "003604.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Và đặc biệt trong món ăn ngày hôm nay, Quốc Nghị sử dụng cái phần sả non nha, đập thành từng sợi như thế này.",
+      "start": 144.56,
+      "end": 149.84,
+      "n_words": 25,
+      "start_frame": 3614,
+      "end_frame": 3746,
+      "keyframes": [
+        "003622.webp",
+        "003640.webp",
+        "003641.webp",
+        "003676.webp",
+        "003711.webp",
+        "003712.webp",
+        "003744.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Sau đó Quốc Nghị sẽ ướp cái gia vị nêm sẵn Ajinomoto bột tẩm khô chiên giòn.",
+      "start": 149.84,
+      "end": 154.12,
+      "n_words": 17,
+      "start_frame": 3746,
+      "end_frame": 3853,
+      "keyframes": [
+        "003777.webp",
+        "003778.webp",
+        "003796.webp",
+        "003814.webp",
+        "003815.webp",
+        "003834.webp",
+        "003853.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Minh Phương giúp Quốc Nghị chuẩn bị một cái chảo dầu nè.",
+      "start": 154.12,
+      "end": 156.36,
+      "n_words": 12,
+      "start_frame": 3853,
+      "end_frame": 3909,
+      "keyframes": [
+        "003853.webp",
+        "003854.webp",
+        "003892.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Dạ có ngay!",
+      "start": 156.36,
+      "end": 157.4,
+      "n_words": 3,
+      "start_frame": 3909,
+      "end_frame": 3935,
+      "keyframes": [
+        "003930.webp",
+        "003931.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúng ta sẽ làm nóng dầu ăn, sau khi dầu ăn đã nóng thì Quốc Nghị sẽ cho sả non vào chiên trước.",
+      "start": 157.4,
+      "end": 163.44,
+      "n_words": 23,
+      "start_frame": 3935,
+      "end_frame": 4086,
+      "keyframes": [
+        "003962.webp",
+        "003993.webp",
+        "003994.webp",
+        "004042.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chiên sả non trước giúp cho dầu chúng ta thơm hơn khi mà chiên thịt ba rọi đó.",
+      "start": 163.44,
+      "end": 168.6,
+      "n_words": 18,
+      "start_frame": 4086,
+      "end_frame": 4215,
+      "keyframes": [
+        "004090.webp",
+        "004091.webp",
+        "004152.webp",
+        "004214.webp",
+        "004215.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cái phần sả này mình chiên nhanh không anh Quốc Nghị?",
+      "start": 168.6,
+      "end": 170.72,
+      "n_words": 11,
+      "start_frame": 4215,
+      "end_frame": 4268,
+      "keyframes": [
+        "004215.webp",
+        "004241.webp",
+        "004268.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thì mình chiên nó vừa vàng lên là được em.",
+      "start": 170.72,
+      "end": 172.8,
+      "n_words": 10,
+      "start_frame": 4268,
+      "end_frame": 4320,
+      "keyframes": [
+        "004268.webp",
+        "004269.webp",
+        "004300.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "À dạ, nếu như mà ở nhà để làm những cái sợi, những cái sợi sả được tơi như thế này thì mình lựa sả non nè, dùng một cái chày để mình sau đó phải có, phải là mình dùng cái nĩa để mình xới từng sợi ra đúng không anh?",
+      "start": 172.8,
+      "end": 185.08,
+      "n_words": 52,
+      "start_frame": 4320,
+      "end_frame": 4627,
+      "keyframes": [
+        "004332.webp",
+        "004333.webp",
+        "004419.webp",
+        "004506.webp",
+        "004507.webp",
+        "004566.webp",
+        "004625.webp",
+        "004626.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Em lên làm đầu bếp luôn đi, cái gì cũng biết hết!",
+      "start": 185.08,
+      "end": 187.76,
+      "n_words": 12,
+      "start_frame": 4627,
+      "end_frame": 4694,
+      "keyframes": [
+        "004656.webp",
+        "004686.webp",
+        "004687.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Sả chuyển màu vàng nè các bạn vớt ra cho rồi, giá thơm dầu nè.",
+      "start": 187.76,
+      "end": 191.24,
+      "n_words": 15,
+      "start_frame": 4694,
+      "end_frame": 4781,
+      "keyframes": [
+        "004716.webp",
+        "004745.webp",
+        "004746.webp",
+        "004771.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ chúng ta cho ba rọi vào chiên này, thơm quá thơm quá đi!",
+      "start": 191.24,
+      "end": 198.36,
+      "n_words": 15,
+      "start_frame": 4781,
+      "end_frame": 4959,
+      "keyframes": [
+        "004797.webp",
+        "004798.webp",
+        "004844.webp",
+        "004891.webp",
+        "004892.webp",
+        "004921.webp",
+        "004951.webp",
+        "004952.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Mình phi vàng sả nè, cái tỏi ớt nó băm vào nhìn hấp dẫn không?",
+      "start": 198.36,
+      "end": 201.36,
+      "n_words": 15,
+      "start_frame": 4959,
+      "end_frame": 5034,
+      "keyframes": [
+        "004992.webp",
+        "005032.webp",
+        "005033.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Khi quan sát thấy ba rọi nó vàng ươm mà giòn á thì chúng ta sẽ tắt lửa vớt ra.",
+      "start": 201.6,
+      "end": 206.84,
+      "n_words": 20,
+      "start_frame": 5040,
+      "end_frame": 5171,
+      "keyframes": [
+        "005102.webp",
+        "005171.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cái mỡ ba rọi này nó tương lên nó xèo xèo xèo.",
+      "start": 206.84,
+      "end": 210.28,
+      "n_words": 12,
+      "start_frame": 5171,
+      "end_frame": 5257,
+      "keyframes": [
+        "005171.webp",
+        "005172.webp",
+        "005213.webp",
+        "005255.webp",
+        "005256.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Rồi bây giờ chúng ta sẽ cho ra dĩa nè.",
+      "start": 210.28,
+      "end": 213.6,
+      "n_words": 10,
+      "start_frame": 5257,
+      "end_frame": 5340,
+      "keyframes": [
+        "005302.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thêm một công đoạn cuối cùng nữa đó là chúng ta sẽ phi sả ớt tỏi xóc với lại ba rọi chiên nha.",
+      "start": 213.6,
+      "end": 220.0,
+      "n_words": 23,
+      "start_frame": 5340,
+      "end_frame": 5500,
+      "keyframes": [
+        "005348.webp",
+        "005349.webp",
+        "005397.webp",
+        "005446.webp",
+        "005447.webp",
+        "005473.webp",
+        "005500.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cho vào đây một muỗng canh dầu ăn, các bạn sẽ cho vào đây một muỗng canh sả băm, một muỗng canh tỏi băm, một muỗng canh ớt sừng băm.",
+      "start": 220.0,
+      "end": 227.76,
+      "n_words": 30,
+      "start_frame": 5500,
+      "end_frame": 5694,
+      "keyframes": [
+        "005500.webp",
+        "005501.webp",
+        "005534.webp",
+        "005568.webp",
+        "005569.webp",
+        "005597.webp",
+        "005625.webp",
+        "005626.webp",
+        "005641.webp",
+        "005657.webp",
+        "005658.webp",
+        "005686.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Mình sẽ phi thơm sả tỏi ớt riêng để giữ cái độ giòn cho thịt và tăng hương vị cho món ăn.",
+      "start": 227.76,
+      "end": 232.72,
+      "n_words": 22,
+      "start_frame": 5694,
+      "end_frame": 5818,
+      "keyframes": [
+        "005714.webp",
+        "005715.webp",
+        "005767.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cho thịt ba rọi chiên vào, ba rọi chiên vào đó nó bám vào nè thấy không Minh Phương, hấp dẫn! Tắt lửa.",
+      "start": 232.72,
+      "end": 239.36,
+      "n_words": 23,
+      "start_frame": 5818,
+      "end_frame": 5984,
+      "keyframes": [
+        "005820.webp",
+        "005821.webp",
+        "005844.webp",
+        "005868.webp",
+        "005869.webp",
+        "005898.webp",
+        "005927.webp",
+        "005928.webp",
+        "005957.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Để hiểu thêm và có thể xem lại công thức nhanh gọn ngon trong món ăn này thì chúng ta có thể sử dụng điện thoại di động và quét mã QR đang hiển thị trên màn hình đây các bạn nhé.",
+      "start": 239.36,
+      "end": 250.36,
+      "n_words": 42,
+      "start_frame": 5984,
+      "end_frame": 6259,
+      "keyframes": [
+        "005987.webp",
+        "005988.webp",
+        "006100.webp",
+        "006212.webp",
+        "006213.webp",
+        "006237.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và bây giờ Quốc Nghị sẽ hướng dẫn các bạn cùng Minh Phương trình bày cái món này ra và ăn với cơm trắng.",
+      "start": 250.36,
+      "end": 256.48,
+      "n_words": 24,
+      "start_frame": 6259,
+      "end_frame": 6412,
+      "keyframes": [
+        "006262.webp",
+        "006263.webp",
+        "006337.webp",
+        "006411.webp",
+        "006412.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cho sả chiên nè, hấp dẫn chưa?",
+      "start": 256.48,
+      "end": 259.84,
+      "n_words": 7,
+      "start_frame": 6412,
+      "end_frame": 6496,
+      "keyframes": [
+        "006412.webp",
+        "006452.webp",
+        "006492.webp",
+        "006493.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cho cái thịt lên, cái phần gia vị áo ở bên ngoài đó, đúng rồi.",
+      "start": 259.84,
+      "end": 266.16,
+      "n_words": 15,
+      "start_frame": 6496,
+      "end_frame": 6654,
+      "keyframes": [
+        "006578.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và cuối cùng Quốc Nghị sẽ trang trí lên đây một ít sả chiên và ớt sừng cắt sợi.",
+      "start": 266.16,
+      "end": 272.04,
+      "n_words": 19,
+      "start_frame": 6654,
+      "end_frame": 6801,
+      "keyframes": [
+        "006663.webp",
+        "006664.webp",
+        "006733.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Món này các bạn có thể ăn kèm với lại salad mực ống nữa nha.",
+      "start": 272.04,
+      "end": 276.16,
+      "n_words": 15,
+      "start_frame": 6801,
+      "end_frame": 6904,
+      "keyframes": [
+        "006803.webp",
+        "006804.webp",
+        "006849.webp",
+        "006895.webp",
+        "006896.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và với món ăn này thì Minh Phương đã chuẩn bị một cái bát cơm nóng sẵn ở kế bên rồi, tuy nhiên là mình cũng có thể biến tấu thành một cái món ăn chơi ăn lai rai cũng được đúng không ạ?",
+      "start": 276.16,
+      "end": 286.76,
+      "n_words": 44,
+      "start_frame": 6904,
+      "end_frame": 7169,
+      "keyframes": [
+        "006922.webp",
+        "006949.webp",
+        "006950.webp",
+        "007017.webp",
+        "007085.webp",
+        "007086.webp",
+        "007119.webp",
+        "007152.webp",
+        "007153.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Thịt ba rọi chiên giòn có màu vàng hấp dẫn lại béo ngọt đậm đà, thơm mùi sả, thơm mùi sả ớt bao quanh càng làm kích thích thêm vị giác trong bữa cơm.",
+      "start": 286.76,
+      "end": 295.88,
+      "n_words": 34,
+      "start_frame": 7169,
+      "end_frame": 7397,
+      "keyframes": [
+        "007192.webp",
+        "007231.webp",
+        "007246.webp",
+        "007275.webp",
+        "007305.webp",
+        "007306.webp",
+        "007354.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Đến một món ăn vừa nhanh chóng, tiện lợi và vẫn phải ngon miệng thì hãy nhớ ngay đến ba rọi sả ớt tẩm bột chiên giòn.",
+      "start": 296.96,
+      "end": 303.84,
+      "n_words": 27,
+      "start_frame": 7424,
+      "end_frame": 7596,
+      "keyframes": [
+        "007500.webp",
+        "007596.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và cũng đừng quên những địa chỉ quen thuộc của chương trình Món ngon mỗi ngày đó là kênh YouTube, website và fanpage của chương trình để tìm hiểu thêm nhiều công thức của những món ăn ngon.",
+      "start": 303.84,
+      "end": 312.68,
+      "n_words": 38,
+      "start_frame": 7596,
+      "end_frame": 7817,
+      "keyframes": [
+        "007596.webp",
+        "007597.webp",
+        "007745.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Còn bây giờ thì xin chào và hẹn gặp lại.",
+      "start": 312.68,
+      "end": 315.72,
+      "n_words": 10,
+      "start_frame": 7817,
+      "end_frame": 7893,
+      "keyframes": [
+        "007893.webp"
+      ],
+      "keyframe_count": 1
+    }
+  ]
+}

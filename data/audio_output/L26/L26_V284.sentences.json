@@ -1,0 +1,690 @@
+{
+  "video_id": "L26_V284",
+  "fps": 25.0,
+  "n_sentences": 36,
+  "total_words": 1058,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.52,
+      "end": 13.48,
+      "n_words": 4,
+      "start_frame": 263,
+      "end_frame": 337,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chào Thanh Phương, Phước Thơm rất là đẹp luôn, đẹp ha.",
+      "start": 13.48,
+      "end": 17.8,
+      "n_words": 11,
+      "start_frame": 337,
+      "end_frame": 445,
+      "keyframes": [
+        "000339.webp",
+        "000379.webp",
+        "000380.webp",
+        "000412.webp",
+        "000444.webp",
+        "000445.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Phương là tín đồ của thơm và rất là mê nước ép thơm nè hoặc là thơm xắt miếng mình chấm với lại muối ớt cũng rất là ngon.",
+      "start": 17.8,
+      "end": 24.36,
+      "n_words": 29,
+      "start_frame": 445,
+      "end_frame": 609,
+      "keyframes": [
+        "000445.webp",
+        "000481.webp",
+        "000518.webp",
+        "000519.webp",
+        "000543.webp",
+        "000567.webp",
+        "000568.webp",
+        "000588.webp",
+        "000608.webp",
+        "000609.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Đúng rồi, trong nấu ăn thì người ta thường sử dụng thơm để kho với cá để cho xương mềm khi ăn nó có cái độ mùi rất là ngon, nhưng mà thơm không phải là chỉ kho với cá không đâu, người ta cũng sẽ sử dụng làm rất là nhiều loại sốt trong món ăn rất là độc đáo nữa.",
+      "start": 24.36,
+      "end": 38.0,
+      "n_words": 62,
+      "start_frame": 609,
+      "end_frame": 950,
+      "keyframes": [
+        "000609.webp",
+        "000672.webp",
+        "000736.webp",
+        "000737.webp",
+        "000762.webp",
+        "000787.webp",
+        "000788.webp",
+        "000868.webp",
+        "000948.webp",
+        "000949.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Chọn Phước Hưng nè, chọn liền luôn á.",
+      "start": 38.0,
+      "end": 39.88,
+      "n_words": 8,
+      "start_frame": 950,
+      "end_frame": 997,
+      "keyframes": [
+        "000973.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta đã có thơm rồi nè, bây giờ chúng ta hãy vào bếp.",
+      "start": 39.88,
+      "end": 42.32,
+      "n_words": 14,
+      "start_frame": 997,
+      "end_frame": 1058,
+      "keyframes": [
+        "000998.webp",
+        "000999.webp",
+        "001027.webp",
+        "001055.webp",
+        "001056.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cảm ơn Phước Hưng.",
+      "start": 42.32,
+      "end": 45.52,
+      "n_words": 4,
+      "start_frame": 1058,
+      "end_frame": 1138,
+      "keyframes": [
+        "001070.webp",
+        "001085.webp",
+        "001086.webp",
+        "001110.webp",
+        "001135.webp",
+        "001136.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thèm cơm ra mê ngay cá nục sốt thơm mến.",
+      "start": 45.52,
+      "end": 64.96,
+      "n_words": 10,
+      "start_frame": 1138,
+      "end_frame": 1624,
+      "keyframes": [
+        "001177.webp",
+        "001218.webp",
+        "001219.webp",
+        "001299.webp",
+        "001379.webp",
+        "001380.webp",
+        "001497.webp",
+        "001615.webp",
+        "001616.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Chào các bạn đang đến với chương trình Món ngon mỗi ngày, chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 64.96,
+      "end": 71.4,
+      "n_words": 23,
+      "start_frame": 1624,
+      "end_frame": 1785,
+      "keyframes": [
+        "001705.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đối với món ăn ngày hôm nay thì Phước Hưng sẽ sử dụng cá nục chuối vì nó săn chắc và nó có cái hình dáng nó tròn giống hình quả chuối.",
+      "start": 71.4,
+      "end": 78.68,
+      "n_words": 32,
+      "start_frame": 1785,
+      "end_frame": 1967,
+      "keyframes": [
+        "001794.webp",
+        "001795.webp",
+        "001830.webp",
+        "001865.webp",
+        "001866.webp",
+        "001914.webp",
+        "001963.webp",
+        "001964.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Làm sao mình có thể lựa được cá tươi, Phước Hưng thấy rất là đơn giản thôi các bạn, chúng ta chọn được những con cá tươi ngon là phần mắt cá còn trong nè và có cái ánh bạc còn mới nè và dùng tay ấn có cái độ đàn hồi là cá săn chắc và bụng còn nguyên.",
+      "start": 78.68,
+      "end": 92.0,
+      "n_words": 60,
+      "start_frame": 1967,
+      "end_frame": 2300,
+      "keyframes": [
+        "001992.webp",
+        "002020.webp",
+        "002021.webp",
+        "002073.webp",
+        "002126.webp",
+        "002127.webp",
+        "002213.webp",
+        "002300.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Ngoài ra thì cá nục còn rất là nhiều giá trị dinh dưỡng nha, vừa tốt cho tim mạch nè, cung cấp omega-3 nè mà còn tốt cho xương khớp nữa ạ.",
+      "start": 92.0,
+      "end": 100.24,
+      "n_words": 32,
+      "start_frame": 2300,
+      "end_frame": 2506,
+      "keyframes": [
+        "002300.webp",
+        "002301.webp",
+        "002403.webp",
+        "002506.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Phần đầu hành lá thì bây giờ chúng ta sẽ đập dập rồi bây giờ Hưng sẽ để đây, phần hành ngò này bây giờ Phước Hưng sẽ cắt nhỏ rồi bây giờ chúng ta sẽ cho qua cái chảo.",
+      "start": 100.24,
+      "end": 114.24,
+      "n_words": 40,
+      "start_frame": 2506,
+      "end_frame": 2856,
+      "keyframes": [
+        "002506.webp",
+        "002507.webp",
+        "002550.webp",
+        "002594.webp",
+        "002595.webp",
+        "002639.webp",
+        "002683.webp",
+        "002684.webp",
+        "002711.webp",
+        "002739.webp",
+        "002740.webp",
+        "002756.webp",
+        "002772.webp",
+        "002773.webp",
+        "002793.webp",
+        "002813.webp",
+        "002814.webp",
+        "002835.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Còn phần thơm thì Phước Hưng sẽ sử dụng một phần hai chúng ta sẽ cắt hạt lựu, còn một phần hai thì chúng ta sẽ lấy nước ép thơm.",
+      "start": 114.24,
+      "end": 120.88,
+      "n_words": 30,
+      "start_frame": 2856,
+      "end_frame": 3022,
+      "keyframes": [
+        "002857.webp",
+        "002858.webp",
+        "002883.webp",
+        "002909.webp",
+        "002910.webp",
+        "002966.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và bây giờ tiếp tục cái phần cá nục này Phước Hưng sẽ khứa hai đường trên phần mình cá nè để cho cá thấm vị và nó có hình đẹp hơn khi mà chúng ta trình bày ra món ăn.",
+      "start": 120.88,
+      "end": 133.6,
+      "n_words": 41,
+      "start_frame": 3022,
+      "end_frame": 3340,
+      "keyframes": [
+        "003023.webp",
+        "003024.webp",
+        "003035.webp",
+        "003046.webp",
+        "003047.webp",
+        "003075.webp",
+        "003104.webp",
+        "003105.webp",
+        "003174.webp",
+        "003244.webp",
+        "003245.webp",
+        "003272.webp",
+        "003299.webp",
+        "003300.webp",
+        "003333.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Và bây giờ tiếp theo Phước Hưng sẽ cho đầu hành lá đập dập và một ít tiêu vào bên trong bụng cá.",
+      "start": 133.6,
+      "end": 139.52,
+      "n_words": 23,
+      "start_frame": 3340,
+      "end_frame": 3488,
+      "keyframes": [
+        "003366.webp",
+        "003367.webp",
+        "003405.webp",
+        "003444.webp",
+        "003445.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và đây cũng là một cái lưu ý cho quý vị khán giả nha, chúng ta sẽ cho đầu hành lá đập dập với một ít tiêu vào trong bụng cá giúp cho cá thơm ngon và khử được mùi tanh, và đồng thời là cái phần nước ngọt từ cá nè, từ đầu hành tiết ra sẽ làm ngon hơn nữa. Chính xác luôn.",
+      "start": 139.52,
+      "end": 153.48,
+      "n_words": 65,
+      "start_frame": 3488,
+      "end_frame": 3837,
+      "keyframes": [
+        "003503.webp",
+        "003562.webp",
+        "003563.webp",
+        "003631.webp",
+        "003700.webp",
+        "003701.webp",
+        "003743.webp",
+        "003785.webp",
+        "003786.webp",
+        "003812.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Và bây giờ Phước Hưng sẽ đặt lên trên bếp hai cái chảo, một bên chúng ta sẽ chiên cá và một bên chúng ta sẽ làm sốt.",
+      "start": 153.48,
+      "end": 160.16,
+      "n_words": 28,
+      "start_frame": 3837,
+      "end_frame": 4004,
+      "keyframes": [
+        "003838.webp",
+        "003839.webp",
+        "003874.webp",
+        "003910.webp",
+        "003911.webp",
+        "003961.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chảo đã nóng, Hưng sẽ cho vào đây khoảng hai muỗng canh dầu ăn để chúng ta phi thơm hành tím.",
+      "start": 160.16,
+      "end": 167.92,
+      "n_words": 21,
+      "start_frame": 4004,
+      "end_frame": 4198,
+      "keyframes": [
+        "004012.webp",
+        "004013.webp",
+        "004031.webp",
+        "004050.webp",
+        "004051.webp",
+        "004082.webp",
+        "004113.webp",
+        "004114.webp",
+        "004148.webp",
+        "004182.webp",
+        "004183.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Phước Hưng đang làm cái phần sốt thơm ha, phải học hỏi mới được.",
+      "start": 167.92,
+      "end": 171.32,
+      "n_words": 14,
+      "start_frame": 4198,
+      "end_frame": 4283,
+      "keyframes": [
+        "004233.webp",
+        "004283.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ thì phần hành tím cũng đã dậy mùi thơm rồi, Phước Hưng sẽ cho hết cái phần thơm, cái phần thơm cắt hạt lựu vào.",
+      "start": 171.32,
+      "end": 177.04,
+      "n_words": 27,
+      "start_frame": 4283,
+      "end_frame": 4426,
+      "keyframes": [
+        "004283.webp",
+        "004284.webp",
+        "004317.webp",
+        "004350.webp",
+        "004351.webp",
+        "004378.webp",
+        "004405.webp",
+        "004406.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta sẽ xào trước, với những cái món chiên người ta thường hay làm cái phần xốt kèm theo món ăn nó sẽ ngon hơn, ví dụ như trước đây Thanh Phương thấy là có sốt cà nè rồi xốt chanh dây, hôm nay lại học thêm một cái sốt thơm nữa, có thể là chúng ta sẽ kết hợp được nhiều món ngon lắm đây.",
+      "start": 177.04,
+      "end": 192.16,
+      "n_words": 67,
+      "start_frame": 4426,
+      "end_frame": 4804,
+      "keyframes": [
+        "004442.webp",
+        "004479.webp",
+        "004480.webp",
+        "004520.webp",
+        "004561.webp",
+        "004562.webp",
+        "004629.webp",
+        "004697.webp",
+        "004698.webp",
+        "004750.webp",
+        "004803.webp",
+        "004804.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Phước Hưng sẽ cho cái phần nước thơm vào, cho vào đây nửa muỗng cà phê muối, nửa muỗng cà phê đường, một muỗng cà phê bột ngọt Ajinomoto và bây giờ chúng ta sẽ khuấy đều lên nè cho tan gia vị.",
+      "start": 192.16,
+      "end": 203.76,
+      "n_words": 43,
+      "start_frame": 4804,
+      "end_frame": 5094,
+      "keyframes": [
+        "004804.webp",
+        "004805.webp",
+        "004806.webp",
+        "004807.webp",
+        "004838.webp",
+        "004869.webp",
+        "004870.webp",
+        "004895.webp",
+        "004921.webp",
+        "004922.webp",
+        "004940.webp",
+        "004959.webp",
+        "004960.webp",
+        "004990.webp",
+        "005020.webp",
+        "005021.webp",
+        "005057.webp",
+        "005093.webp",
+        "005094.webp"
+      ],
+      "keyframe_count": 19
+    },
+    {
+      "text": "Phần bột năng thì chúng ta sẽ pha loãng với một ít nước tạo độ sánh cho sốt, chúng ta sẽ cho từ từ vào khuấy đều, để lửa vừa để cho bột năng có cái độ sánh và có độ trong là bột năng chín.",
+      "start": 203.76,
+      "end": 214.12,
+      "n_words": 46,
+      "start_frame": 5094,
+      "end_frame": 5353,
+      "keyframes": [
+        "005094.webp",
+        "005171.webp",
+        "005248.webp",
+        "005249.webp",
+        "005301.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cuối cùng Phước Hưng sẽ cho vào đây một ít ớt sừng nè và một ít hành ngò, khuấy đều vậy là phần sốt cũng đã xong.",
+      "start": 214.12,
+      "end": 220.88,
+      "n_words": 27,
+      "start_frame": 5353,
+      "end_frame": 5522,
+      "keyframes": [
+        "005354.webp",
+        "005355.webp",
+        "005390.webp",
+        "005425.webp",
+        "005426.webp",
+        "005444.webp",
+        "005462.webp",
+        "005463.webp",
+        "005478.webp",
+        "005493.webp",
+        "005494.webp",
+        "005509.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Và bây giờ Phước Hưng sẽ cho một gói gia vị nêm sẵn Ajinomoto bột tẩm khô chiên giòn, chúng ta sẽ tẩm bột xung quanh cá và trên khe của cá để cho cá thấm vị.",
+      "start": 220.88,
+      "end": 230.4,
+      "n_words": 37,
+      "start_frame": 5522,
+      "end_frame": 5760,
+      "keyframes": [
+        "005524.webp",
+        "005525.webp",
+        "005563.webp",
+        "005601.webp",
+        "005602.webp",
+        "005643.webp",
+        "005685.webp",
+        "005686.webp",
+        "005723.webp",
+        "005760.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Bây giờ thì phần dầu cũng đã vừa nóng tới rồi, Phước Hưng sẽ thả cá vào, chúng ta chiên.",
+      "start": 230.4,
+      "end": 243.44,
+      "n_words": 20,
+      "start_frame": 5760,
+      "end_frame": 6086,
+      "keyframes": [
+        "005760.webp",
+        "005761.webp",
+        "005782.webp",
+        "005803.webp",
+        "005804.webp",
+        "005837.webp",
+        "005871.webp",
+        "005872.webp",
+        "005903.webp",
+        "005934.webp",
+        "005935.webp",
+        "005971.webp",
+        "006008.webp",
+        "006009.webp",
+        "006050.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Phần cá cũng đã vừa vàng tới rồi, rất là ngon, Phước Hưng sẽ cho ra dĩa nè.",
+      "start": 243.44,
+      "end": 248.52,
+      "n_words": 18,
+      "start_frame": 6086,
+      "end_frame": 6213,
+      "keyframes": [
+        "006091.webp",
+        "006092.webp",
+        "006146.webp",
+        "006201.webp",
+        "006202.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Wow, cá vàng giòn cực kỳ hấp dẫn luôn.",
+      "start": 248.52,
+      "end": 251.76,
+      "n_words": 9,
+      "start_frame": 6213,
+      "end_frame": 6294,
+      "keyframes": [
+        "006238.webp",
+        "006275.webp",
+        "006276.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và nếu như các bạn muốn tìm hiểu thêm về công thức của món ăn ngày hôm nay thì chúng ta vui lòng quét mã QR code đang hiển thị trên màn hình nhé.",
+      "start": 251.76,
+      "end": 260.56,
+      "n_words": 34,
+      "start_frame": 6294,
+      "end_frame": 6514,
+      "keyframes": [
+        "006327.webp",
+        "006379.webp",
+        "006380.webp",
+        "006423.webp",
+        "006467.webp",
+        "006468.webp",
+        "006492.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cho phần xốt thơm ra trước nè, cho phần cá lên, cuối cùng Phước Hưng sẽ cho lên đây một ít ngò rí nè, rồi món này sẽ bắt cơm lắm đây nha.",
+      "start": 260.56,
+      "end": 279.2,
+      "n_words": 33,
+      "start_frame": 6514,
+      "end_frame": 6980,
+      "keyframes": [
+        "006517.webp",
+        "006518.webp",
+        "006524.webp",
+        "006530.webp",
+        "006531.webp",
+        "006554.webp",
+        "006577.webp",
+        "006578.webp",
+        "006621.webp",
+        "006664.webp",
+        "006665.webp",
+        "006685.webp",
+        "006706.webp",
+        "006707.webp",
+        "006735.webp",
+        "006764.webp",
+        "006765.webp",
+        "006793.webp",
+        "006821.webp",
+        "006822.webp",
+        "006853.webp",
+        "006884.webp",
+        "006885.webp",
+        "006909.webp",
+        "006934.webp",
+        "006935.webp",
+        "006958.webp"
+      ],
+      "keyframe_count": 27
+    },
+    {
+      "text": "Nhưng mà mình sẽ kết hợp với những cái món nào khác ở trong bữa ăn vậy Phước Hưng? Và khi mà chúng ta ăn thì chúng ta sẽ chấm với một ít nước tương pha xì dầu ăn cũng sẽ rất là ngon.",
+      "start": 279.2,
+      "end": 286.48,
+      "n_words": 44,
+      "start_frame": 6980,
+      "end_frame": 7162,
+      "keyframes": [
+        "006981.webp",
+        "006982.webp",
+        "007020.webp",
+        "007058.webp",
+        "007059.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và để tạo nên một bữa ăn dinh dưỡng thì chúng ta sẽ kết hợp với món gà xào nấm sẽ rất là phù hợp.",
+      "start": 286.48,
+      "end": 291.0,
+      "n_words": 25,
+      "start_frame": 7162,
+      "end_frame": 7275,
+      "keyframes": [
+        "007172.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Phù hợp cá chiên chín vàng giòn nhẹ bên ngoài, nóng mềm bên trong, kết hợp với vị sốt chua ngọt đậm đà là siêu cuốn hút.",
+      "start": 291.0,
+      "end": 299.72,
+      "n_words": 27,
+      "start_frame": 7275,
+      "end_frame": 7493,
+      "keyframes": [
+        "007286.webp",
+        "007287.webp",
+        "007335.webp",
+        "007384.webp",
+        "007385.webp",
+        "007439.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đã đến giờ cơm trưa rồi, các bạn có món cá nục sốt thơm chưa?",
+      "start": 299.72,
+      "end": 303.64,
+      "n_words": 15,
+      "start_frame": 7493,
+      "end_frame": 7591,
+      "keyframes": [
+        "007494.webp",
+        "007495.webp",
+        "007564.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nếu chưa hãy thực hiện ngay nhé và đừng quên truy cập vào YouTube, website, fanpage của chương trình Món ngon mỗi ngày để cập nhật thêm những công thức của các món ăn ngon.",
+      "start": 303.64,
+      "end": 313.04,
+      "n_words": 35,
+      "start_frame": 7591,
+      "end_frame": 7826,
+      "keyframes": [
+        "007634.webp",
+        "007635.webp",
+        "007720.webp",
+        "007805.webp",
+        "007806.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

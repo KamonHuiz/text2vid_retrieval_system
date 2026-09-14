@@ -1,0 +1,772 @@
+{
+  "video_id": "L26_V111",
+  "fps": 25.0,
+  "n_sentences": 44,
+  "total_words": 954,
+  "sentences": [
+    {
+      "text": "Rồi, món ngon mỗi ngày: bánh mì hạnh nhân béo, giòn, ngọt, thơm lừng góc bếp.",
+      "start": 0.0,
+      "end": 33.84,
+      "n_words": 16,
+      "start_frame": 0,
+      "end_frame": 846,
+      "keyframes": [
+        "000000.webp",
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp",
+        "000357.webp",
+        "000415.webp",
+        "000416.webp",
+        "000485.webp",
+        "000554.webp",
+        "000569.webp",
+        "000619.webp",
+        "000670.webp",
+        "000671.webp",
+        "000761.webp"
+      ],
+      "keyframe_count": 44
+    },
+    {
+      "text": "Rất vui khi được gặp lại quý vị khán giả đang xem chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành. Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 33.84,
+      "end": 42.88,
+      "n_words": 33,
+      "start_frame": 846,
+      "end_frame": 1072,
+      "keyframes": [
+        "000851.webp",
+        "000852.webp",
+        "000963.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi hôm nay có bánh mì.",
+      "start": 42.88,
+      "end": 45.04,
+      "n_words": 6,
+      "start_frame": 1072,
+      "end_frame": 1126,
+      "keyframes": [
+        "001074.webp",
+        "001075.webp",
+        "001097.webp",
+        "001120.webp",
+        "001121.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Dạ em còn thấy những nguyên liệu khác chắc là cũng phải gọi là nhúng nhúng rồi làm nhân, rồi cũng phải áp chảo này nọ.",
+      "start": 45.04,
+      "end": 53.4,
+      "n_words": 26,
+      "start_frame": 1126,
+      "end_frame": 1335,
+      "keyframes": [
+        "001140.webp",
+        "001160.webp",
+        "001161.webp",
+        "001204.webp",
+        "001247.webp",
+        "001248.webp",
+        "001277.webp",
+        "001306.webp",
+        "001307.webp",
+        "001333.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Xa sao, bên em có hai quả trứng gà nữa rồi.",
+      "start": 53.4,
+      "end": 56.8,
+      "n_words": 11,
+      "start_frame": 1335,
+      "end_frame": 1420,
+      "keyframes": [
+        "001359.webp",
+        "001360.webp",
+        "001418.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và thưa các bạn, món ngày hôm nay không phải là món mặn, các bạn, nó cũng không phải món ngọt, mà nó vừa mặn vừa ngọt.",
+      "start": 56.8,
+      "end": 62.24,
+      "n_words": 27,
+      "start_frame": 1420,
+      "end_frame": 1556,
+      "keyframes": [
+        "001476.webp",
+        "001477.webp",
+        "001503.webp",
+        "001530.webp",
+        "001531.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Các bạn, món này là món ăn sáng hoặc ăn xế, đặc biệt là cho các bé, bảo đảm các cháu rất là thích.",
+      "start": 62.24,
+      "end": 67.52,
+      "n_words": 24,
+      "start_frame": 1556,
+      "end_frame": 1688,
+      "keyframes": [
+        "001591.webp",
+        "001651.webp",
+        "001652.webp",
+        "001669.webp",
+        "001686.webp",
+        "001687.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Ngay bây giờ mời các bạn cùng theo dõi thực hiện món bánh mì hạnh nhân.",
+      "start": 67.52,
+      "end": 71.28,
+      "n_words": 16,
+      "start_frame": 1688,
+      "end_frame": 1782,
+      "keyframes": [
+        "001734.webp",
+        "001781.webp",
+        "001782.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta cần khoảng bốn lát bánh mì.",
+      "start": 71.28,
+      "end": 74.36,
+      "n_words": 8,
+      "start_frame": 1782,
+      "end_frame": 1859,
+      "keyframes": [
+        "001782.webp",
+        "001797.webp",
+        "001813.webp",
+        "001814.webp",
+        "001833.webp",
+        "001853.webp",
+        "001854.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Là cream cheese, cắt ở đây một miếng, ta phết lên trên bánh mì.",
+      "start": 74.36,
+      "end": 77.6,
+      "n_words": 14,
+      "start_frame": 1859,
+      "end_frame": 1940,
+      "keyframes": [
+        "001881.webp",
+        "001909.webp",
+        "001910.webp",
+        "001935.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Như vậy chúng ta phết cho nó đều.",
+      "start": 77.6,
+      "end": 79.64,
+      "n_words": 8,
+      "start_frame": 1940,
+      "end_frame": 1991,
+      "keyframes": [
+        "001960.webp",
+        "001961.webp",
+        "001989.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Như vậy chúng ta phết cream cheese để hai miếng bánh mì được kết dính vào nhau hơn.",
+      "start": 79.64,
+      "end": 84.0,
+      "n_words": 18,
+      "start_frame": 1991,
+      "end_frame": 2100,
+      "keyframes": [
+        "002017.webp",
+        "002018.webp",
+        "002058.webp",
+        "002099.webp",
+        "002100.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hai miếng còn lại chúng ta sẽ phết mứt cam lên.",
+      "start": 84.0,
+      "end": 89.12,
+      "n_words": 11,
+      "start_frame": 2100,
+      "end_frame": 2228,
+      "keyframes": [
+        "002100.webp",
+        "002148.webp",
+        "002197.webp",
+        "002198.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Món này sẽ ngon khi chúng ta phết phủ đều nha.",
+      "start": 89.12,
+      "end": 91.8,
+      "n_words": 11,
+      "start_frame": 2228,
+      "end_frame": 2295,
+      "keyframes": [
+        "002245.webp",
+        "002292.webp",
+        "002293.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi bây giờ chúng ta sẽ ụp hai miếng này lại, cắt bỏ rìa, rồi sau đó chúng ta sẽ cắt xéo.",
+      "start": 91.8,
+      "end": 101.48,
+      "n_words": 22,
+      "start_frame": 2295,
+      "end_frame": 2537,
+      "keyframes": [
+        "002327.webp",
+        "002361.webp",
+        "002362.webp",
+        "002395.webp",
+        "002429.webp",
+        "002430.webp",
+        "002456.webp",
+        "002483.webp",
+        "002484.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Chúng ta cắt đôi theo xéo để tạo cảm giác miếng bánh được to hơn, bốn miếng như vậy, để đây.",
+      "start": 101.48,
+      "end": 107.92,
+      "n_words": 21,
+      "start_frame": 2537,
+      "end_frame": 2698,
+      "keyframes": [
+        "002541.webp",
+        "002599.webp",
+        "002600.webp",
+        "002622.webp",
+        "002645.webp",
+        "002646.webp",
+        "002681.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Rồi xong, đập trứng gà giùm anh luôn.",
+      "start": 107.92,
+      "end": 110.0,
+      "n_words": 8,
+      "start_frame": 2698,
+      "end_frame": 2750,
+      "keyframes": [
+        "002717.webp",
+        "002718.webp",
+        "002746.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi chúng ta sẽ bật lên đây một cái chảo.",
+      "start": 110.0,
+      "end": 122.56,
+      "n_words": 10,
+      "start_frame": 2750,
+      "end_frame": 3064,
+      "keyframes": [
+        "002774.webp",
+        "002775.webp",
+        "002793.webp",
+        "002811.webp",
+        "002812.webp",
+        "002851.webp",
+        "002890.webp",
+        "002891.webp",
+        "002919.webp",
+        "002948.webp",
+        "002949.webp",
+        "002978.webp",
+        "003007.webp",
+        "003008.webp",
+        "003034.webp",
+        "003060.webp",
+        "003061.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Nhân đây là một cái thành phần có rất là nhiều ma nhê đó, nó giúp cho chúng ta là vừa no nè, mà vừa làm giảm lượng calories cũng như là làm cho những người ăn kiêng rất là phù hợp.",
+      "start": 122.56,
+      "end": 133.68,
+      "n_words": 42,
+      "start_frame": 3064,
+      "end_frame": 3342,
+      "keyframes": [
+        "003080.webp",
+        "003099.webp",
+        "003100.webp",
+        "003124.webp",
+        "003149.webp",
+        "003150.webp",
+        "003212.webp",
+        "003275.webp",
+        "003276.webp",
+        "003309.webp",
+        "003342.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Món này chúng ta dùng chất béo là bơ nha, bơ này chúng ta dùng bơ lạt chứ đừng dùng bơ mặn các bạn.",
+      "start": 133.68,
+      "end": 138.24,
+      "n_words": 24,
+      "start_frame": 3342,
+      "end_frame": 3456,
+      "keyframes": [
+        "003342.webp",
+        "003343.webp",
+        "003368.webp",
+        "003393.webp",
+        "003394.webp",
+        "003424.webp",
+        "003454.webp",
+        "003455.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ tẩm qua từng miếng bánh mì này.",
+      "start": 138.24,
+      "end": 141.12,
+      "n_words": 12,
+      "start_frame": 3456,
+      "end_frame": 3528,
+      "keyframes": [
+        "003474.webp",
+        "003494.webp",
+        "003495.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta nên nhúng nhanh từng miếng mì qua trứng đánh để khi chiên thì trứng được chín vàng và bánh mì không bị nhũng nha các bạn.",
+      "start": 141.12,
+      "end": 147.44,
+      "n_words": 28,
+      "start_frame": 3528,
+      "end_frame": 3686,
+      "keyframes": [
+        "003531.webp",
+        "003567.webp",
+        "003568.webp",
+        "003624.webp",
+        "003681.webp",
+        "003682.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và chúng ta tẩm qua chiên thành nhân luôn các bạn à, những miếng như vậy luôn.",
+      "start": 147.44,
+      "end": 153.28,
+      "n_words": 17,
+      "start_frame": 3686,
+      "end_frame": 3832,
+      "keyframes": [
+        "003720.webp",
+        "003759.webp",
+        "003760.webp",
+        "003794.webp",
+        "003829.webp",
+        "003830.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Tiếp tục đến đây, miếng này thì em nghĩ là nó đã hơi vàng rồi nè.",
+      "start": 153.28,
+      "end": 158.48,
+      "n_words": 16,
+      "start_frame": 3832,
+      "end_frame": 3962,
+      "keyframes": [
+        "003861.webp",
+        "003892.webp",
+        "003893.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đó, mình chính xác như vậy là được rồi.",
+      "start": 158.48,
+      "end": 161.08,
+      "n_words": 9,
+      "start_frame": 3962,
+      "end_frame": 4027,
+      "keyframes": [
+        "003976.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đó, chúng ta cần có cái độ áp chảo như vậy nha.",
+      "start": 161.08,
+      "end": 164.4,
+      "n_words": 12,
+      "start_frame": 4027,
+      "end_frame": 4110,
+      "keyframes": [
+        "004059.webp",
+        "004060.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rồi như vậy là với cái món này, mặc dù là món bánh mì mình nướng nhưng mà mình không cần dùng lò nướng luôn.",
+      "start": 164.4,
+      "end": 170.08,
+      "n_words": 25,
+      "start_frame": 4110,
+      "end_frame": 4252,
+      "keyframes": [
+        "004112.webp",
+        "004164.webp",
+        "004165.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cho nên là tất cả các bạn nào mà nhà không có lò nướng thì mình có thể dùng chảo để áp chảo rất là nhanh gọn để làm bữa sáng hoặc là ăn xế luôn.",
+      "start": 170.08,
+      "end": 176.6,
+      "n_words": 36,
+      "start_frame": 4252,
+      "end_frame": 4415,
+      "keyframes": [
+        "004259.webp",
+        "004354.webp",
+        "004355.webp",
+        "004383.webp",
+        "004411.webp",
+        "004412.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi xong, chúng ta sẽ để ở đây.",
+      "start": 176.6,
+      "end": 181.16,
+      "n_words": 8,
+      "start_frame": 4415,
+      "end_frame": 4529,
+      "keyframes": [
+        "004434.webp",
+        "004457.webp",
+        "004458.webp",
+        "004524.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Thưa các bạn, để món ăn chúng ta vừa ngọt và béo bên trong cũng như béo và ngọt bên ngoài, chúng ta rắc lên đây Ajinomoto vị ngọt dịu.",
+      "start": 181.16,
+      "end": 189.68,
+      "n_words": 30,
+      "start_frame": 4529,
+      "end_frame": 4742,
+      "keyframes": [
+        "004590.webp",
+        "004591.webp",
+        "004635.webp",
+        "004680.webp",
+        "004681.webp",
+        "004713.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Giờ chúng ta sẽ rắc với chà lên như vậy và đây, đây là thành phẩm.",
+      "start": 189.68,
+      "end": 200.4,
+      "n_words": 16,
+      "start_frame": 4742,
+      "end_frame": 5010,
+      "keyframes": [
+        "004746.webp",
+        "004747.webp",
+        "004788.webp",
+        "004829.webp",
+        "004830.webp",
+        "004897.webp",
+        "004965.webp",
+        "004966.webp",
+        "004991.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Rồi chúng ta chỉ cần trang trí thôi.",
+      "start": 200.4,
+      "end": 201.92,
+      "n_words": 8,
+      "start_frame": 5010,
+      "end_frame": 5048,
+      "keyframes": [
+        "005017.webp",
+        "005018.webp",
+        "005047.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chính xác đó, rất là ngon.",
+      "start": 201.92,
+      "end": 203.84,
+      "n_words": 6,
+      "start_frame": 5048,
+      "end_frame": 5096,
+      "keyframes": [
+        "005076.webp",
+        "005077.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Các bạn có thể làm món này rất dễ dàng mà không cần lò nướng tại nhà luôn, cũng như là các bạn không cần nhớ công thức.",
+      "start": 203.84,
+      "end": 209.2,
+      "n_words": 28,
+      "start_frame": 5096,
+      "end_frame": 5230,
+      "keyframes": [
+        "005101.webp",
+        "005126.webp",
+        "005127.webp",
+        "005158.webp",
+        "005189.webp",
+        "005190.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Có một mã QR đang hiển thị trên màn hình, chúng ta quét mã này sẽ có ngay công thức nấu ăn của ngày hôm nay.",
+      "start": 209.2,
+      "end": 216.0,
+      "n_words": 26,
+      "start_frame": 5230,
+      "end_frame": 5400,
+      "keyframes": [
+        "005272.webp",
+        "005354.webp",
+        "005355.webp",
+        "005379.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Rồi bây giờ chúng ta sẽ ra món, để tự nhiên những miếng bánh lên, rắc đường bột bên đây, rắc tuyết lên ha.",
+      "start": 216.0,
+      "end": 227.72,
+      "n_words": 24,
+      "start_frame": 5400,
+      "end_frame": 5693,
+      "keyframes": [
+        "005404.webp",
+        "005405.webp",
+        "005432.webp",
+        "005459.webp",
+        "005460.webp",
+        "005519.webp",
+        "005579.webp",
+        "005580.webp",
+        "005611.webp",
+        "005642.webp",
+        "005643.webp",
+        "005671.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ trang trí với lại dâu và một khuôn đuổi cuối cùng.",
+      "start": 227.72,
+      "end": 232.84,
+      "n_words": 16,
+      "start_frame": 5693,
+      "end_frame": 5821,
+      "keyframes": [
+        "005699.webp",
+        "005700.webp",
+        "005734.webp",
+        "005769.webp",
+        "005770.webp",
+        "005797.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thưa các bạn, đây là một món ăn sáng cũng như ăn xế rất là phù hợp cho các bé cũng như cho người lớn.",
+      "start": 232.84,
+      "end": 238.36,
+      "n_words": 25,
+      "start_frame": 5821,
+      "end_frame": 5959,
+      "keyframes": [
+        "005824.webp",
+        "005825.webp",
+        "005860.webp",
+        "005895.webp",
+        "005896.webp",
+        "005933.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thì đối với các bé, chúng ta có thể kết hợp cùng với lại một ly trà sữa hoa đậu biếc; Và đối với người lớn thì sau khi thưởng thức món này, chúng ta thêm một ly cà phê nữa là chúng ta có ngay một bữa ăn sáng hoàn chỉnh, đầy đủ năng lượng luôn các bạn. Và đặc biệt món này cũng cực kỳ dễ làm nữa.",
+      "start": 238.36,
+      "end": 252.92,
+      "n_words": 70,
+      "start_frame": 5959,
+      "end_frame": 6323,
+      "keyframes": [
+        "005971.webp",
+        "005972.webp",
+        "006021.webp",
+        "006071.webp",
+        "006072.webp",
+        "006093.webp",
+        "006115.webp",
+        "006116.webp",
+        "006223.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cảm ơn Hải Thụ đã mang đến một món ăn rất hấp dẫn, vô cùng đẹp mắt mà lại dễ làm dành cho các bạn của Món ngon mỗi ngày.",
+      "start": 252.92,
+      "end": 260.12,
+      "n_words": 30,
+      "start_frame": 6323,
+      "end_frame": 6503,
+      "keyframes": [
+        "006331.webp",
+        "006332.webp",
+        "006358.webp",
+        "006384.webp",
+        "006385.webp",
+        "006431.webp",
+        "006478.webp",
+        "006479.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Hạnh nhân màu vàng nâu áo đều bên ngoài bánh mì giòn giòn, tỏa ra mùi thơm quyến rũ cùng với lại mứt cam ngon ngọt chua nhẹ, mặn mặn, béo béo, tất cả kết hợp lại với nhau thật khó cưỡng.",
+      "start": 260.12,
+      "end": 275.72,
+      "n_words": 42,
+      "start_frame": 6503,
+      "end_frame": 6893,
+      "keyframes": [
+        "006526.webp",
+        "006574.webp",
+        "006589.webp",
+        "006671.webp",
+        "006753.webp",
+        "006754.webp",
+        "006825.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Đây sẽ là một món ăn vô cùng tuyệt vời để chúng ta bắt đầu một bữa sáng thật giàu năng lượng cho tất cả các thành viên trong gia đình của mình, và đặc biệt chắc chắn một điều các bé cũng rất là thích món ăn của ngày hôm nay.",
+      "start": 275.72,
+      "end": 286.8,
+      "n_words": 52,
+      "start_frame": 6893,
+      "end_frame": 7170,
+      "keyframes": [
+        "006897.webp",
+        "006898.webp",
+        "006992.webp",
+        "007086.webp",
+        "007087.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Tất cả các bạn có thể theo dõi công thức nấu ăn trên YouTube, website và fanpage của chương trình Món ngon mỗi ngày. Truy cập vào đây, bên cạnh món bánh mì hạnh nhân còn có rất nhiều những món khác nữa cho chúng ta khám phá.",
+      "start": 286.8,
+      "end": 297.4,
+      "n_words": 48,
+      "start_frame": 7170,
+      "end_frame": 7435,
+      "keyframes": [
+        "007295.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Hãy trải nghiệm ẩm thực cùng với Món ngon mỗi ngày các bạn nhé.",
+      "start": 297.4,
+      "end": 301.04,
+      "n_words": 14,
+      "start_frame": 7435,
+      "end_frame": 7526,
+      "keyframes": [
+        "007503.webp",
+        "007504.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

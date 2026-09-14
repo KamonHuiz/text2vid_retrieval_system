@@ -1,0 +1,34 @@
+{
+  "video_id": "L24_V041",
+  "fps": 30.0,
+  "n_sentences": 2,
+  "total_words": 19,
+  "sentences": [
+    {
+      "text": "Mày làm sao? Mày ăn đi. Mày thích gì?",
+      "start": 0.0,
+      "end": 1.88,
+      "n_words": 9,
+      "start_frame": 0,
+      "end_frame": 56,
+      "keyframes": [
+        "000000.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thích gì mày vào đi, nhìn tôi thể hiện nhá.",
+      "start": 1.88,
+      "end": 7.2,
+      "n_words": 10,
+      "start_frame": 56,
+      "end_frame": 216,
+      "keyframes": [
+        "000064.webp",
+        "000128.webp",
+        "000129.webp"
+      ],
+      "keyframe_count": 3
+    }
+  ]
+}

@@ -1,0 +1,2293 @@
+{
+  "video_id": "L21_V027",
+  "fps": 30.0,
+  "n_sentences": 123,
+  "total_words": 4101,
+  "sentences": [
+    {
+      "text": "Xin chào quý vị, chương trình 60 giây sáng nay của Đài Truyền hình Thành phố Hồ Chí Minh sẽ mang đến cho quý vị nhiều câu chuyện đáng nghe và đáng xem.",
+      "start": 0.04,
+      "end": 10.16,
+      "n_words": 33,
+      "start_frame": 1,
+      "end_frame": 305,
+      "keyframes": [
+        "000009.webp",
+        "000019.webp",
+        "000055.webp",
+        "000275.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và không để quý vị chờ đợi, ngay sau đây là những nội dung đáng chú ý: các tour nội đô Thành phố Hồ Chí Minh hút khách dịp 2 tháng 9; Xóm làm lồng đèn Trung thu ở Thành phố Hồ Chí Minh vào mùa cao điểm; Hành trình trở về tuổi thơ show diễn đêm thứ 15 đầy huyền ảo ở Singapore.",
+      "start": 10.16,
+      "end": 34.92,
+      "n_words": 64,
+      "start_frame": 305,
+      "end_frame": 1048,
+      "keyframes": [
+        "000496.webp",
+        "000497.webp",
+        "000516.webp",
+        "000535.webp",
+        "000536.webp",
+        "000552.webp",
+        "000569.webp",
+        "000570.webp",
+        "000590.webp",
+        "000610.webp",
+        "000611.webp",
+        "000629.webp",
+        "000648.webp",
+        "000649.webp",
+        "000669.webp",
+        "000690.webp",
+        "000691.webp",
+        "000710.webp",
+        "000729.webp",
+        "000730.webp",
+        "000746.webp",
+        "000763.webp",
+        "000764.webp",
+        "000780.webp",
+        "000797.webp",
+        "000798.webp",
+        "000815.webp",
+        "000833.webp",
+        "000834.webp",
+        "000852.webp",
+        "000871.webp",
+        "000872.webp",
+        "000891.webp",
+        "000910.webp",
+        "000911.webp",
+        "000931.webp",
+        "000951.webp",
+        "000952.webp",
+        "000984.webp",
+        "001017.webp",
+        "001022.webp"
+      ],
+      "keyframe_count": 41
+    },
+    {
+      "text": "Quý vị, sau khi hoàn thiện giai đoạn 2 của dự án nhà máy xử lý nước thải Bình Hưng, lưu vực khoảng 2.500 ha thuộc 8 quận ở Thành phố Hồ Chí Minh sẽ được xử lý, qua đó trả lại màu xanh cho các tuyến kênh Tàu Hủ, kênh Bến Nghé, kênh Đôi và kênh Tẻ. Nhà máy Bình Hưng có khu xử lý nước thải hiện đại với công suất xử lý nước thải gần 470.000 m³/ngày đêm.",
+      "start": 34.92,
+      "end": 54.84,
+      "n_words": 81,
+      "start_frame": 1048,
+      "end_frame": 1645,
+      "keyframes": [
+        "001397.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đây là công suất lớn nhất trong cả nước tính đến thời điểm hiện nay.",
+      "start": 54.84,
+      "end": 60.4,
+      "n_words": 15,
+      "start_frame": 1645,
+      "end_frame": 1812,
+      "keyframes": [
+        "001773.webp",
+        "001774.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nhà máy xử lý nước thải Bình Hưng thuộc gói thầu G của dự án Cải thiện môi trường nước Thành phố Hồ Chí Minh lưu vực kênh Tàu Hủ, Bến Nghé, Đôi, Tẻ giai đoạn 2.",
+      "start": 60.8,
+      "end": 69.6,
+      "n_words": 37,
+      "start_frame": 1824,
+      "end_frame": 2088,
+      "keyframes": [
+        "001837.webp",
+        "001900.webp",
+        "001901.webp",
+        "001997.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Giai đoạn này có 6 gói thầu xây lắp lớn.",
+      "start": 69.6,
+      "end": 72.12,
+      "n_words": 10,
+      "start_frame": 2088,
+      "end_frame": 2164,
+      "keyframes": [
+        "002094.webp",
+        "002095.webp",
+        "002147.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Giai đoạn 1, nhà máy xử lý nước thải này hoàn thành năm 2008 với công suất 141.000 m³/ngày đêm.",
+      "start": 72.12,
+      "end": 78.24,
+      "n_words": 20,
+      "start_frame": 2164,
+      "end_frame": 2347,
+      "keyframes": [
+        "002200.webp",
+        "002201.webp",
+        "002275.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Giai đoạn 2 nâng tổng công suất xử lý nước thải lên 469.000 m³/ngày đêm.",
+      "start": 78.24,
+      "end": 83.04,
+      "n_words": 15,
+      "start_frame": 2347,
+      "end_frame": 2491,
+      "keyframes": [
+        "002350.webp",
+        "002351.webp",
+        "002401.webp",
+        "002452.webp",
+        "002453.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nước thải từ các quận huyện sẽ được thu về trạm bơm Đồng Diều ở Quận 8, tại đây nước thải được loại bỏ rác, đất cát và dẫn về nhà máy Bình Hưng để xử lý, sau đó nước được bơm trở lại ra rạch Tắc, Bến Rô rồi chảy vào các kênh rạch nhánh khác.",
+      "start": 83.04,
+      "end": 97.24,
+      "n_words": 57,
+      "start_frame": 2491,
+      "end_frame": 2917,
+      "keyframes": [
+        "002498.webp",
+        "002544.webp",
+        "002545.webp",
+        "002595.webp",
+        "002646.webp",
+        "002647.webp",
+        "002789.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Trong giai đoạn 3, Thành phố Hồ Chí Minh sẽ nâng công suất xử lý nước thải lên 512.000 m³/ngày đêm, từ đó xử lý thêm một khối lượng lớn nước thể của khu vực kênh Tẻ dọc Quận 7.",
+      "start": 97.24,
+      "end": 107.12,
+      "n_words": 40,
+      "start_frame": 2917,
+      "end_frame": 3214,
+      "keyframes": [
+        "002931.webp",
+        "002932.webp",
+        "002994.webp",
+        "003057.webp",
+        "003058.webp",
+        "003111.webp",
+        "003165.webp",
+        "003166.webp",
+        "003212.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cuối tháng 8 này, chủ đầu tư sẽ khánh thành công trình mở rộng mạng lưới thu gom và nhà máy nước thải Bình Hưng, từ đó tiến tới mục tiêu thu gom xử lý nước thải sinh hoạt, chỉnh trang đô thị, trả lại màu xanh cho các dòng sông, kênh rạch tại Thành phố Hồ Chí Minh.",
+      "start": 107.12,
+      "end": 122.04,
+      "n_words": 59,
+      "start_frame": 3214,
+      "end_frame": 3661,
+      "keyframes": [
+        "003258.webp",
+        "003259.webp",
+        "003293.webp",
+        "003328.webp",
+        "003329.webp",
+        "003433.webp",
+        "003538.webp",
+        "003539.webp",
+        "003590.webp",
+        "003642.webp",
+        "003643.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Theo Trung tâm Kiểm soát Bệnh tật Thành phố Hồ Chí Minh, hiện nay các loại bệnh truyền nhiễm như sởi, sốt xuất huyết và tay chân miệng được dự báo gia tăng trên địa bàn thành phố, nhất là khi bước vào năm học mới.",
+      "start": 122.04,
+      "end": 133.64,
+      "n_words": 46,
+      "start_frame": 3661,
+      "end_frame": 4009,
+      "keyframes": [
+        "003816.webp",
+        "003990.webp",
+        "003991.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trung tâm Kiểm soát Bệnh tật Thành phố Hồ Chí Minh cho biết, trước tình hình dịch bệnh diễn biến phức tạp, Sở Y tế thành phố đã chỉ đạo nhiều biện pháp quyết liệt nhằm kiểm soát sự lây lan dịch bệnh trước thềm năm học mới trên địa bàn thành phố, khống chế số ca biến chứng nặng và tử vong.",
+      "start": 133.64,
+      "end": 147.0,
+      "n_words": 63,
+      "start_frame": 4009,
+      "end_frame": 4410,
+      "keyframes": [
+        "004022.webp",
+        "004054.webp",
+        "004055.webp",
+        "004101.webp",
+        "004147.webp",
+        "004148.webp",
+        "004192.webp",
+        "004236.webp",
+        "004237.webp",
+        "004280.webp",
+        "004324.webp",
+        "004325.webp",
+        "004376.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Trong đó, đối với bệnh sởi, thực hiện các biện pháp kiểm soát dịch sởi trong cộng đồng gồm các hoạt động như: giám sát, phát hiện và khoanh vùng sớm ổ dịch sởi; Đẩy mạnh hoạt động truyền thông vận động tiêm chủng, rà soát lập danh sách trẻ để mời tiêm chủng vaccine sởi, đảm bảo tổ chức chiến dịch tiêm vaccine an toàn, hiệu quả, nâng tỷ lệ bao phủ vaccine sởi cho trẻ từ 1 tuổi đến 5 tuổi đạt trên 95%.",
+      "start": 147.0,
+      "end": 169.56,
+      "n_words": 86,
+      "start_frame": 4410,
+      "end_frame": 5087,
+      "keyframes": [
+        "004428.webp",
+        "004429.webp",
+        "004476.webp",
+        "004524.webp",
+        "004525.webp",
+        "004580.webp",
+        "004635.webp",
+        "004636.webp",
+        "004661.webp",
+        "004687.webp",
+        "004688.webp",
+        "004732.webp",
+        "004776.webp",
+        "004777.webp",
+        "004811.webp",
+        "004845.webp",
+        "004846.webp",
+        "004886.webp",
+        "004926.webp",
+        "004927.webp",
+        "004973.webp",
+        "005020.webp",
+        "005021.webp",
+        "005071.webp"
+      ],
+      "keyframe_count": 24
+    },
+    {
+      "text": "Cùng với đó là bảo vệ các trẻ em thuộc nhóm nguy cơ mắc sởi nặng, tăng cường công tác phân luồng kiểm soát lây nhiễm trong bệnh viện.",
+      "start": 170.4,
+      "end": 178.64,
+      "n_words": 29,
+      "start_frame": 5112,
+      "end_frame": 5359,
+      "keyframes": [
+        "005122.webp",
+        "005123.webp",
+        "005137.webp",
+        "005152.webp",
+        "005153.webp",
+        "005183.webp",
+        "005213.webp",
+        "005214.webp",
+        "005253.webp",
+        "005293.webp",
+        "005294.webp",
+        "005315.webp",
+        "005337.webp",
+        "005338.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Dịp lễ Quốc khánh 2 tháng 9 năm nay, dù kỳ nghỉ kéo dài 4 ngày nhưng trước tình hình kinh tế còn nhiều khó khăn lại cận kề năm học mới, nên nhiều gia đình có xu hướng thắt chặt chi tiêu, không ưu tiên đi du lịch xa, bù lại các tour ngắn ngày với các điểm đến gần Thành phố Hồ Chí Minh hay các sản phẩm du lịch city tour đang hút khách. Nhiều tuyến tàu xe đã kín chỗ.",
+      "start": 178.64,
+      "end": 196.92,
+      "n_words": 84,
+      "start_frame": 5359,
+      "end_frame": 5908,
+      "keyframes": [
+        "005431.webp",
+        "005525.webp",
+        "005526.webp",
+        "005741.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Gia đình chị Tánh ở Quận 8 quyết định chọn tour về miền Tây với nhiều điểm đến và giá cả hợp lý.",
+      "start": 199.04,
+      "end": 206.12,
+      "n_words": 23,
+      "start_frame": 5971,
+      "end_frame": 6184,
+      "keyframes": [
+        "005982.webp",
+        "006006.webp",
+        "006007.webp",
+        "006037.webp",
+        "006067.webp",
+        "006068.webp",
+        "006096.webp",
+        "006124.webp",
+        "006125.webp",
+        "006148.webp",
+        "006171.webp",
+        "006172.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Cùng gia đình về miền Tây để cho các bé trải nghiệm chợ nổi Cần Thơ.",
+      "start": 206.12,
+      "end": 213.04,
+      "n_words": 16,
+      "start_frame": 6184,
+      "end_frame": 6391,
+      "keyframes": [
+        "006269.webp",
+        "006367.webp",
+        "006368.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ghi nhận từ các công ty lữ hành, dịp lễ 2 tháng 9 năm nay du khách chủ yếu lựa chọn các điểm đến gần, ngắn ngày hoặc tự túc do một số dịch vụ như vé tham quan, tiền ăn của các điểm đến ở miền Trung và miền Bắc tăng giá khiến nhiều người cân nhắc.",
+      "start": 213.04,
+      "end": 227.88,
+      "n_words": 58,
+      "start_frame": 6391,
+      "end_frame": 6836,
+      "keyframes": [
+        "006399.webp",
+        "006431.webp",
+        "006432.webp",
+        "006463.webp",
+        "006495.webp",
+        "006496.webp",
+        "006526.webp",
+        "006557.webp",
+        "006558.webp",
+        "006575.webp",
+        "006593.webp",
+        "006594.webp",
+        "006623.webp",
+        "006652.webp",
+        "006653.webp",
+        "006685.webp",
+        "006717.webp",
+        "006718.webp",
+        "006747.webp",
+        "006777.webp",
+        "006778.webp",
+        "006826.webp"
+      ],
+      "keyframe_count": 22
+    },
+    {
+      "text": "Bởi vì gần tới ngày nhập học của con em họ rồi, cho nên họ sẽ chọn những cái tour để cho con em mình vừa có đầy đủ thời gian đáp ứng được vừa đi du lịch học hỏi, vừa được vui chơi lại có thể quay kịp trở về Thành phố Hồ Chí Minh để tham gia vào khai giảng.",
+      "start": 227.88,
+      "end": 244.48,
+      "n_words": 62,
+      "start_frame": 6836,
+      "end_frame": 7334,
+      "keyframes": [
+        "006874.webp",
+        "006875.webp",
+        "006944.webp",
+        "007014.webp",
+        "007015.webp",
+        "007025.webp",
+        "007036.webp",
+        "007037.webp",
+        "007061.webp",
+        "007086.webp",
+        "007087.webp",
+        "007096.webp",
+        "007105.webp",
+        "007106.webp",
+        "007137.webp",
+        "007169.webp",
+        "007170.webp",
+        "007204.webp",
+        "007239.webp",
+        "007240.webp",
+        "007283.webp",
+        "007326.webp",
+        "007327.webp"
+      ],
+      "keyframe_count": 23
+    },
+    {
+      "text": "Dịp Quốc khánh năm nay người lao động cả nước sẽ được nghỉ 4 ngày, là thời gian phù hợp để các gia đình lựa chọn đi du lịch khép lại một mùa hè và tạo hứng khởi cho trẻ em chuẩn bị vào năm học mới.",
+      "start": 244.48,
+      "end": 257.68,
+      "n_words": 47,
+      "start_frame": 7334,
+      "end_frame": 7730,
+      "keyframes": [
+        "007349.webp",
+        "007371.webp",
+        "007372.webp",
+        "007394.webp",
+        "007416.webp",
+        "007417.webp",
+        "007431.webp",
+        "007445.webp",
+        "007446.webp",
+        "007466.webp",
+        "007487.webp",
+        "007488.webp",
+        "007508.webp",
+        "007529.webp",
+        "007530.webp",
+        "007554.webp",
+        "007579.webp",
+        "007580.webp",
+        "007609.webp",
+        "007638.webp",
+        "007639.webp",
+        "007676.webp",
+        "007713.webp",
+        "007714.webp"
+      ],
+      "keyframe_count": 24
+    },
+    {
+      "text": "Chỉ còn chưa đầy một tháng nữa là đến Tết Trung thu, thời điểm này tại khu xóm Đạo Phú Bình, nơi cung cấp lồng đèn truyền thống lớn nhất Thành phố Hồ Chí Minh, không khí đã tất bật và nhộn nhịp.",
+      "start": 257.68,
+      "end": 267.04,
+      "n_words": 43,
+      "start_frame": 7730,
+      "end_frame": 8011,
+      "keyframes": [
+        "007758.webp",
+        "007803.webp",
+        "007804.webp",
+        "007836.webp",
+        "007869.webp",
+        "007870.webp",
+        "007912.webp",
+        "007955.webp",
+        "007956.webp",
+        "007995.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Những người thợ nghệ nhân đang gấp rút hoàn tất những công đoạn cuối cùng để cho ra những chiếc lồng đèn đầy màu sắc, đa dạng mẫu mã phục vụ cho nhu cầu ngày càng tăng của thị trường.",
+      "start": 267.04,
+      "end": 277.76,
+      "n_words": 40,
+      "start_frame": 8011,
+      "end_frame": 8333,
+      "keyframes": [
+        "008035.webp",
+        "008036.webp",
+        "008121.webp",
+        "008207.webp",
+        "008208.webp",
+        "008247.webp",
+        "008287.webp",
+        "008288.webp",
+        "008294.webp",
+        "008301.webp",
+        "008310.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Cha truyền con nối, gia đình ông Nguyễn Trọng Bình, Nguyễn Trọng Thành tại xóm Đạo Phú Bình, Quận 11 đã có hơn 50 năm làm lồng đèn truyền thống.",
+      "start": 277.76,
+      "end": 286.64,
+      "n_words": 30,
+      "start_frame": 8333,
+      "end_frame": 8599,
+      "keyframes": [
+        "008343.webp",
+        "008376.webp",
+        "008377.webp",
+        "008408.webp",
+        "008440.webp",
+        "008441.webp",
+        "008473.webp",
+        "008505.webp",
+        "008506.webp",
+        "008546.webp",
+        "008587.webp",
+        "008588.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Theo ông Bình, năm nay lượng đơn hàng tăng vọt so với mọi năm, gia đình ông cung cấp ra thị trường hơn 10.000 chiếc.",
+      "start": 286.64,
+      "end": 292.88,
+      "n_words": 25,
+      "start_frame": 8599,
+      "end_frame": 8786,
+      "keyframes": [
+        "008635.webp",
+        "008682.webp",
+        "008683.webp",
+        "008705.webp",
+        "008727.webp",
+        "008728.webp",
+        "008755.webp",
+        "008782.webp",
+        "008783.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Tăng số lượng nên thời gian mình chuẩn bị sớm hơn mọi năm, thì bắt đầu giữa tháng 4, đầu tháng 5 bắt đầu dán vẽ, bây giờ là đầu tháng 3 là mình đã vẽ rồi.",
+      "start": 292.88,
+      "end": 302.44,
+      "n_words": 37,
+      "start_frame": 8786,
+      "end_frame": 9073,
+      "keyframes": [
+        "008818.webp",
+        "008854.webp",
+        "008855.webp",
+        "008879.webp",
+        "008904.webp",
+        "008905.webp",
+        "008945.webp",
+        "008985.webp",
+        "008986.webp",
+        "009022.webp",
+        "009058.webp",
+        "009059.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Xóm lồng đèn Phú Bình hiện chỉ còn khoảng gần 30 hộ làm nghề.",
+      "start": 302.44,
+      "end": 306.2,
+      "n_words": 14,
+      "start_frame": 9073,
+      "end_frame": 9186,
+      "keyframes": [
+        "009086.webp",
+        "009113.webp",
+        "009114.webp",
+        "009149.webp",
+        "009184.webp",
+        "009185.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Những người thợ vẫn miệt mài giữ nghề truyền thống để cứ đến dịp Trung thu, xóm lồng đèn lại trở nên tất bật nhộn nhịp.",
+      "start": 306.2,
+      "end": 313.88,
+      "n_words": 26,
+      "start_frame": 9186,
+      "end_frame": 9416,
+      "keyframes": [
+        "009220.webp",
+        "009255.webp",
+        "009256.webp",
+        "009298.webp",
+        "009340.webp",
+        "009341.webp",
+        "009368.webp",
+        "009395.webp",
+        "009396.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Mấy tháng về làm liên tục đến giờ, ngày nào cũng vậy, mình cũng giao đi từ Nam ra Bắc, nước ngoài ta cũng một số nơi người ta cũng thích ưa chuộng những con đèn này.",
+      "start": 313.88,
+      "end": 323.8,
+      "n_words": 37,
+      "start_frame": 9416,
+      "end_frame": 9714,
+      "keyframes": [
+        "009431.webp",
+        "009467.webp",
+        "009468.webp",
+        "009498.webp",
+        "009529.webp",
+        "009530.webp",
+        "009568.webp",
+        "009607.webp",
+        "009608.webp",
+        "009648.webp",
+        "009688.webp",
+        "009689.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Giá từ 16, 20, 25 tùy theo mẫu.",
+      "start": 324.24,
+      "end": 328.24,
+      "n_words": 8,
+      "start_frame": 9727,
+      "end_frame": 9847,
+      "keyframes": [
+        "009728.webp",
+        "009768.webp",
+        "009769.webp",
+        "009793.webp",
+        "009817.webp",
+        "009818.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Trung thu, những chiếc đèn giấy kiếng đỏ truyền thống lại nhộn nhịp xuống phố cùng những em nhỏ phá cỗ đêm trăng rằm, cùng gợi nhớ những ký ức tuổi thơ của bao thế hệ.",
+      "start": 328.24,
+      "end": 340.4,
+      "n_words": 36,
+      "start_frame": 9847,
+      "end_frame": 10212,
+      "keyframes": [
+        "009873.webp",
+        "009928.webp",
+        "009929.webp",
+        "009954.webp",
+        "009979.webp",
+        "009980.webp",
+        "010026.webp",
+        "010072.webp",
+        "010073.webp",
+        "010089.webp",
+        "010105.webp",
+        "010106.webp",
+        "010148.webp",
+        "010191.webp",
+        "010192.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Thưa quý vị, nhiều người ở các thành phố lớn đã quá quen với các mẫu bánh và kiểu bánh thương hiệu lớn mỗi dịp Trung thu.",
+      "start": 340.4,
+      "end": 346.28,
+      "n_words": 27,
+      "start_frame": 10212,
+      "end_frame": 10388,
+      "keyframes": [
+        "010317.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trong khi đó, thì ở các thành phố như ở miền Đông và Tây Nam Bộ, nhiều lò bánh truyền thống vẫn có sức sống bền bỉ nhờ có hương vị và bí quyết gia truyền.",
+      "start": 346.28,
+      "end": 354.8,
+      "n_words": 36,
+      "start_frame": 10388,
+      "end_frame": 10644,
+      "keyframes": [
+        "010443.webp",
+        "010444.webp",
+        "010478.webp",
+        "010512.webp",
+        "010513.webp",
+        "010572.webp",
+        "010632.webp",
+        "010633.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Từ cuối tháng 6 âm lịch, lò bánh trung thu truyền thống tại đây đã đỏ lửa khởi động dây chuyền sản xuất sẵn sàng phục vụ thị trường.",
+      "start": 354.8,
+      "end": 361.68,
+      "n_words": 29,
+      "start_frame": 10644,
+      "end_frame": 10850,
+      "keyframes": [
+        "010677.webp",
+        "010722.webp",
+        "010723.webp",
+        "010830.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Ghi nhận tại một lò bánh ở huyện Long Điền, tỉnh Bà Rịa - Vũng Tàu, dù nguyên liệu nhân công năm nay tăng từ 5% đến 10% so với cùng kỳ năm ngoái nhưng các cơ sở vẫn cố gắng giữ nguyên giá bán hoặc tăng nhẹ so với năm ngoái.",
+      "start": 361.68,
+      "end": 377.2,
+      "n_words": 52,
+      "start_frame": 10850,
+      "end_frame": 11316,
+      "keyframes": [
+        "010937.webp",
+        "010938.webp",
+        "010962.webp",
+        "010986.webp",
+        "010987.webp",
+        "011024.webp",
+        "011061.webp",
+        "011062.webp",
+        "011083.webp",
+        "011104.webp",
+        "011105.webp",
+        "011134.webp",
+        "011164.webp",
+        "011165.webp",
+        "011197.webp",
+        "011230.webp",
+        "011231.webp",
+        "011272.webp",
+        "011313.webp",
+        "011314.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Mua nguyên liệu tất cả đều có nguồn gốc rõ ràng, giữ vệ sinh an toàn thực phẩm trước tiên hết, còn cái loại máy móc thì bây giờ nó hiện đại hơn lúc trước nhiều, hồi xưa nướng lò than cũ.",
+      "start": 377.2,
+      "end": 392.84,
+      "n_words": 42,
+      "start_frame": 11316,
+      "end_frame": 11785,
+      "keyframes": [
+        "011372.webp",
+        "011431.webp",
+        "011432.webp",
+        "011462.webp",
+        "011493.webp",
+        "011494.webp",
+        "011527.webp",
+        "011561.webp",
+        "011562.webp",
+        "011589.webp",
+        "011617.webp",
+        "011618.webp",
+        "011665.webp",
+        "011713.webp",
+        "011714.webp",
+        "011770.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Thời điểm này sức tiêu thụ bánh chưa cao, khách hàng chủ yếu là các công ty, đơn vị đặt số lượng lớn để làm quà tặng.",
+      "start": 392.84,
+      "end": 400.0,
+      "n_words": 27,
+      "start_frame": 11785,
+      "end_frame": 12000,
+      "keyframes": [
+        "011827.webp",
+        "011828.webp",
+        "011850.webp",
+        "011873.webp",
+        "011874.webp",
+        "011900.webp",
+        "011926.webp",
+        "011927.webp",
+        "011953.webp",
+        "011979.webp",
+        "011980.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Thường đặt hàng mình thì có trong tỉnh là thường xuyên từ xưa giờ rồi, khách hàng ngoài tỉnh cũng có, đặc biệt là có lượng khách hàng ở nước ngoài cũng đặt mỗi chuyến dày khoảng mấy trăm hộp, mình cũng đã làm được vài chuyến rồi.",
+      "start": 400.0,
+      "end": 414.08,
+      "n_words": 48,
+      "start_frame": 12000,
+      "end_frame": 12422,
+      "keyframes": [
+        "012017.webp",
+        "012054.webp",
+        "012055.webp",
+        "012085.webp",
+        "012115.webp",
+        "012116.webp",
+        "012184.webp",
+        "012253.webp",
+        "012254.webp",
+        "012291.webp",
+        "012329.webp",
+        "012330.webp",
+        "012366.webp",
+        "012402.webp",
+        "012403.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Dự báo đến đầu tháng 8 âm lịch, sức tiêu thụ bánh trung thu sẽ tăng cao, các lò bánh sẽ tăng cường sản xuất để kịp thời cung ứng cho thị trường.",
+      "start": 414.08,
+      "end": 424.0,
+      "n_words": 33,
+      "start_frame": 12422,
+      "end_frame": 12720,
+      "keyframes": [
+        "012482.webp",
+        "012561.webp",
+        "012562.webp",
+        "012590.webp",
+        "012619.webp",
+        "012620.webp",
+        "012654.webp",
+        "012689.webp",
+        "012698.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Ở phần an ninh trật tự: Tối qua mưa to, nhiều tuyến đường ở Bến Cát, Bình Dương bị ngập nặng.",
+      "start": 424.0,
+      "end": 434.2,
+      "n_words": 21,
+      "start_frame": 12720,
+      "end_frame": 13026,
+      "keyframes": [
+        "012730.webp",
+        "012762.webp",
+        "012763.webp",
+        "012793.webp",
+        "012823.webp",
+        "012824.webp",
+        "012876.webp",
+        "012929.webp",
+        "012930.webp",
+        "012954.webp",
+        "012978.webp",
+        "012979.webp",
+        "013013.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Quốc lộ 1A đoạn ở huyện Châu Thành, Tiền Giang kẹt xe kéo dài vì tai nạn.",
+      "start": 434.2,
+      "end": 442.6,
+      "n_words": 17,
+      "start_frame": 13026,
+      "end_frame": 13278,
+      "keyframes": [
+        "013047.webp",
+        "013048.webp",
+        "013079.webp",
+        "013110.webp",
+        "013111.webp",
+        "013144.webp",
+        "013177.webp",
+        "013178.webp",
+        "013197.webp",
+        "013216.webp",
+        "013217.webp",
+        "013252.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Thưa quý vị, cơn mưa lớn xảy ra vào chiều muộn ngày 26 tháng 8 đã khiến một số tuyến đường ở tỉnh Bình Dương ngập nặng, nước cuốn trôi ô tô, xe máy và làm hư hỏng tài sản của nhà dân bên đường.",
+      "start": 442.6,
+      "end": 455.44,
+      "n_words": 45,
+      "start_frame": 13278,
+      "end_frame": 13663,
+      "keyframes": [
+        "013288.webp",
+        "013289.webp",
+        "013464.webp",
+        "013639.webp",
+        "013640.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Theo ghi nhận, do ảnh hưởng của mưa lớn, tuyến Quốc lộ 13 qua phường Thới Hòa, thành phố Bến Cát bị ngập cục bộ cản trở các phương tiện trong giờ tăng ca khoảng 17:30.",
+      "start": 455.44,
+      "end": 464.84,
+      "n_words": 36,
+      "start_frame": 13663,
+      "end_frame": 13945,
+      "keyframes": [
+        "013672.webp",
+        "013704.webp",
+        "013705.webp",
+        "013739.webp",
+        "013774.webp",
+        "013775.webp",
+        "013825.webp",
+        "013875.webp",
+        "013876.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Mưa lớn kéo dài khoảng 40 phút làm hệ thống thoát nước ở nhiều tuyến đường bị quá tải.",
+      "start": 465.88,
+      "end": 470.88,
+      "n_words": 19,
+      "start_frame": 13976,
+      "end_frame": 14126,
+      "keyframes": [
+        "013981.webp",
+        "014086.webp",
+        "014087.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Một số tuyến đường trong khu công nghiệp Mỹ Phước 2 và Mỹ Phước 3 thuộc địa bàn thành phố Bến Cát bị ngập nặng, dòng chảy rất mạnh cuốn trôi cả xe máy lưu thông trên đường.",
+      "start": 470.88,
+      "end": 479.84,
+      "n_words": 38,
+      "start_frame": 14126,
+      "end_frame": 14395,
+      "keyframes": [
+        "014132.webp",
+        "014178.webp",
+        "014179.webp",
+        "014241.webp",
+        "014303.webp",
+        "014304.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đáng nói trong cơn mưa lớn, người tham gia giao thông hốt hoảng khi thấy hàng chục bình ga trôi trên đường gây nguy hiểm và cản trở giao thông.",
+      "start": 479.84,
+      "end": 487.48,
+      "n_words": 30,
+      "start_frame": 14395,
+      "end_frame": 14624,
+      "keyframes": [
+        "014453.webp",
+        "014603.webp",
+        "014604.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Người dân và lực lượng chức năng sau đó đã cố gắng thu gom các bình ga này.",
+      "start": 487.48,
+      "end": 493.52,
+      "n_words": 18,
+      "start_frame": 14624,
+      "end_frame": 14806,
+      "keyframes": [
+        "014657.webp",
+        "014710.webp",
+        "014711.webp",
+        "014750.webp",
+        "014789.webp",
+        "014790.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Tối 26 tháng 8, trên Quốc lộ 1A đoạn qua địa bàn xã Long An, huyện Châu Thành, Tiền Giang đã xảy ra vụ tai nạn giao thông giữa xe đầu kéo và xe taxi điện.",
+      "start": 493.52,
+      "end": 502.36,
+      "n_words": 36,
+      "start_frame": 14806,
+      "end_frame": 15071,
+      "keyframes": [
+        "014998.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Không có thiệt hại về người nhưng làm giao thông qua khu vực ùn ứ kéo dài.",
+      "start": 502.36,
+      "end": 507.36,
+      "n_words": 17,
+      "start_frame": 15071,
+      "end_frame": 15221,
+      "keyframes": [
+        "015207.webp",
+        "015208.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Theo người dân chứng kiến, vụ tai nạn vào khoảng 19:00 ngày 26 tháng 8, xe đầu kéo mang biển kiểm soát tỉnh Bến Tre kéo theo rơ-moóc đang lưu thông trên Quốc lộ 1A hướng đi từ miền Tây về Thành phố Hồ Chí Minh, trong lúc xe vừa qua cầu Bến Chùa và đi qua đoạn điểm mở dải phân cách thuộc địa bàn xã Long An, huyện Châu Thành thì bất ngờ va chạm với xe taxi điện mang biển kiểm soát tỉnh Trà Vinh đang lưu thông cùng chiều.",
+      "start": 507.36,
+      "end": 531.64,
+      "n_words": 93,
+      "start_frame": 15221,
+      "end_frame": 15949,
+      "keyframes": [
+        "015261.webp",
+        "015315.webp",
+        "015316.webp",
+        "015377.webp",
+        "015439.webp",
+        "015440.webp",
+        "015490.webp",
+        "015541.webp",
+        "015542.webp",
+        "015589.webp",
+        "015636.webp",
+        "015637.webp",
+        "015802.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Cú va chạm làm hai phương tiện đều bị hư hỏng nằm trên đường làm hàng loạt phương tiện lưu thông ngang qua bị kẹt xe, di chuyển chậm.",
+      "start": 531.64,
+      "end": 539.96,
+      "n_words": 29,
+      "start_frame": 15949,
+      "end_frame": 16199,
+      "keyframes": [
+        "015967.webp",
+        "015968.webp",
+        "016008.webp",
+        "016049.webp",
+        "016050.webp",
+        "016094.webp",
+        "016138.webp",
+        "016139.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Nhận tin báo, Phòng Cảnh sát Giao thông Công an tỉnh Tiền Giang kịp thời có mặt tại hiện trường để ghi nhận vụ việc và xác minh xử lý theo thẩm quyền.",
+      "start": 539.96,
+      "end": 549.4,
+      "n_words": 33,
+      "start_frame": 16199,
+      "end_frame": 16482,
+      "keyframes": [
+        "016201.webp",
+        "016264.webp",
+        "016265.webp",
+        "016302.webp",
+        "016339.webp",
+        "016340.webp",
+        "016404.webp",
+        "016469.webp",
+        "016470.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Chiều ngày 26 tháng 8, Công an thành phố Pleiku và Công an phường Yên Thế, thành phố Pleiku, Gia Lai cho biết họ đã bắt quả tang 41 đối tượng tham gia đánh bạc dưới hình thức xóc đĩa, thu giữ hơn 30 triệu đồng.",
+      "start": 549.4,
+      "end": 561.84,
+      "n_words": 46,
+      "start_frame": 16482,
+      "end_frame": 16855,
+      "keyframes": [
+        "016659.webp",
+        "016849.webp",
+        "016850.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thông tin ban đầu, vào khoảng 15:30 ngày 25 tháng 8, tại nhà ông S Sinh (1976) thuộc hẻm Ký Con, phường Yên Thế, thành phố Pleiku, lực lượng chức năng bắt quả tang một chiếu bạc do Đinh Lê Lai Sinh (1984) trú tại tổ 1, phường Thống Nhất, thành phố Pleiku tổ chức, 41 người tham gia đang đánh bạc dưới hình thức xóc đĩa.",
+      "start": 561.84,
+      "end": 581.52,
+      "n_words": 67,
+      "start_frame": 16855,
+      "end_frame": 17446,
+      "keyframes": [
+        "016858.webp",
+        "016867.webp",
+        "016868.webp",
+        "016911.webp",
+        "016955.webp",
+        "016956.webp",
+        "016986.webp",
+        "017016.webp",
+        "017017.webp",
+        "017055.webp",
+        "017093.webp",
+        "017094.webp",
+        "017152.webp",
+        "017211.webp",
+        "017212.webp",
+        "017267.webp",
+        "017323.webp",
+        "017324.webp",
+        "017347.webp",
+        "017370.webp",
+        "017371.webp",
+        "017405.webp",
+        "017440.webp",
+        "017441.webp"
+      ],
+      "keyframe_count": 24
+    },
+    {
+      "text": "Tại đây, cơ quan chức năng đã thu giữ 31,3 triệu đồng.",
+      "start": 582.72,
+      "end": 585.96,
+      "n_words": 12,
+      "start_frame": 17482,
+      "end_frame": 17579,
+      "keyframes": [
+        "017513.webp",
+        "017514.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Các con bạc đến từ nhiều địa phương, trong đó có nhiều người từ Kon Tum.",
+      "start": 585.96,
+      "end": 590.12,
+      "n_words": 16,
+      "start_frame": 17579,
+      "end_frame": 17704,
+      "keyframes": [
+        "017588.webp",
+        "017663.webp",
+        "017664.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Vụ việc đang được cơ quan chức năng tiếp tục điều tra làm rõ.",
+      "start": 590.12,
+      "end": 594.68,
+      "n_words": 14,
+      "start_frame": 17704,
+      "end_frame": 17840,
+      "keyframes": [
+        "017743.webp",
+        "017823.webp",
+        "017824.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ngày 26 tháng 8, Tòa án Nhân dân tỉnh Kiên Giang đã mở phiên tòa sơ thẩm vụ án hình sự, tuyên phạt một nhóm đối tượng với mức án từ 9 tháng đến 3 năm 6 tháng tù giam về tội cướp tài sản và bắt giữ người trái pháp luật.",
+      "start": 594.68,
+      "end": 606.88,
+      "n_words": 52,
+      "start_frame": 17840,
+      "end_frame": 18206,
+      "keyframes": [
+        "018068.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bốn bị cáo cùng ngụ thành phố Rạch Giá, tỉnh Kiên Giang.",
+      "start": 606.88,
+      "end": 611.04,
+      "n_words": 12,
+      "start_frame": 18206,
+      "end_frame": 18331,
+      "keyframes": [
+        "018313.webp",
+        "018314.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bị cáo Nguyễn Hoàng Việt Linh (1995) bị phạt 3 năm 6 tháng tù về hai tội cướp tài sản và bắt giữ người trái pháp luật.",
+      "start": 611.04,
+      "end": 619.12,
+      "n_words": 27,
+      "start_frame": 18331,
+      "end_frame": 18574,
+      "keyframes": [
+        "018358.webp",
+        "018403.webp",
+        "018404.webp",
+        "018424.webp",
+        "018445.webp",
+        "018446.webp",
+        "018484.webp",
+        "018523.webp",
+        "018524.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Các bị cáo Ngô Thái Bảo (1984), Danh Vũ (1995) và Mạc Ngọc Tài (1991).",
+      "start": 619.12,
+      "end": 625.96,
+      "n_words": 15,
+      "start_frame": 18574,
+      "end_frame": 18779,
+      "keyframes": [
+        "018587.webp",
+        "018651.webp",
+        "018652.webp",
+        "018689.webp",
+        "018726.webp",
+        "018727.webp",
+        "018773.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Theo cáo trạng, trước đây Linh cho ông Nguyễn Hữu Thanh (1982) ngụ huyện Tân Hiệp vay mượn 5 triệu đồng nhưng ông Thanh né tránh không trả, do đó Linh kêu đàn em là Bảo, Vũ và Tài đi tìm ông Thanh đòi nợ.",
+      "start": 627.84,
+      "end": 642.48,
+      "n_words": 45,
+      "start_frame": 18835,
+      "end_frame": 19274,
+      "keyframes": [
+        "018972.webp",
+        "019123.webp",
+        "019124.webp",
+        "019159.webp",
+        "019195.webp",
+        "019196.webp",
+        "019231.webp",
+        "019266.webp",
+        "019267.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Sáng 20/10/2022, cả ba bắt gặp và khống chế ông Thanh đưa về gặp Linh.",
+      "start": 642.8,
+      "end": 648.4,
+      "n_words": 15,
+      "start_frame": 19284,
+      "end_frame": 19452,
+      "keyframes": [
+        "019309.webp",
+        "019351.webp",
+        "019352.webp",
+        "019398.webp",
+        "019445.webp",
+        "019446.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Khi gặp ông Thanh, Linh đánh đấm, đá liên tục vào người ông Thanh gây thương tích, đồng thời lấy của ông Thanh số tiền khoảng 15 triệu đồng rồi mới cho ông về nhà.",
+      "start": 648.4,
+      "end": 657.32,
+      "n_words": 35,
+      "start_frame": 19452,
+      "end_frame": 19720,
+      "keyframes": [
+        "019465.webp",
+        "019485.webp",
+        "019486.webp",
+        "019511.webp",
+        "019536.webp",
+        "019537.webp",
+        "019577.webp",
+        "019617.webp",
+        "019618.webp",
+        "019657.webp",
+        "019697.webp",
+        "019698.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Sau đó, nạn nhân đến trình báo công an và đến bệnh viện để điều trị thương tích.",
+      "start": 657.32,
+      "end": 663.24,
+      "n_words": 18,
+      "start_frame": 19720,
+      "end_frame": 19897,
+      "keyframes": [
+        "019734.webp",
+        "019771.webp",
+        "019772.webp",
+        "019821.webp",
+        "019871.webp",
+        "019880.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Ở phần thế giới cập nhật: Hàn Quốc bình ổn giá trước Trung thu.",
+      "start": 663.24,
+      "end": 667.76,
+      "n_words": 14,
+      "start_frame": 19897,
+      "end_frame": 20033,
+      "keyframes": [
+        "019909.webp",
+        "019939.webp",
+        "019940.webp",
+        "019970.webp",
+        "020001.webp",
+        "020002.webp",
+        "020018.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Thưa quý vị, Chính phủ Hàn Quốc vừa thông báo kế hoạch đảm bảo nguồn cung thực phẩm thiết yếu nhằm bình ổn giá tiêu dùng trong dịp Tết Trung thu năm nay.",
+      "start": 681.92,
+      "end": 690.12,
+      "n_words": 33,
+      "start_frame": 20458,
+      "end_frame": 20704,
+      "keyframes": [
+        "020467.webp",
+        "020468.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Kế hoạch được đưa ra trong bối cảnh nhu cầu thực phẩm ở Hàn Quốc thường tăng trước kỳ nghỉ lễ Tết Trung thu, một trong những lễ lớn nhất trong năm ở quốc gia Đông Bắc Á.",
+      "start": 690.12,
+      "end": 700.36,
+      "n_words": 38,
+      "start_frame": 20704,
+      "end_frame": 21011,
+      "keyframes": [
+        "020728.webp",
+        "020988.webp",
+        "020989.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cụ thể, thông báo cho biết Chính phủ Hàn Quốc có kế hoạch cung cấp 170.000 tấn thực phẩm thiết yếu như bắp cải, táo và lê để giúp ổn định lạm phát tiêu dùng.",
+      "start": 700.36,
+      "end": 709.72,
+      "n_words": 35,
+      "start_frame": 21011,
+      "end_frame": 21292,
+      "keyframes": [
+        "021021.webp",
+        "021054.webp",
+        "021055.webp",
+        "021134.webp",
+        "021213.webp",
+        "021214.webp",
+        "021253.webp",
+        "021292.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Bên cạnh đó, Chính phủ cũng sẽ cung cấp khoảng 40.000 tỷ won, tương đương hơn 30 tỷ đô la Mỹ để hỗ trợ tài chính cho doanh nghiệp vừa và nhỏ cũng như các chủ doanh nghiệp siêu nhỏ như một phần trong các biện pháp hỗ trợ trước kỳ nghỉ lễ Trung thu.",
+      "start": 709.72,
+      "end": 722.0,
+      "n_words": 55,
+      "start_frame": 21292,
+      "end_frame": 21660,
+      "keyframes": [
+        "021292.webp",
+        "021293.webp",
+        "021327.webp",
+        "021361.webp",
+        "021362.webp",
+        "021379.webp",
+        "021396.webp",
+        "021397.webp",
+        "021420.webp",
+        "021444.webp",
+        "021445.webp",
+        "021495.webp",
+        "021546.webp",
+        "021547.webp",
+        "021597.webp",
+        "021648.webp",
+        "021649.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Ngoài ra, Chính phủ Hàn Quốc cũng nhất trí miễn phí cầu đường và cung cấp vé tàu cao tốc KTX với giá ưu đãi cho hành khách đi từ các tỉnh đến thủ đô Seoul trong kỳ nghỉ lễ Trung thu từ ngày 14 đến ngày 18 tháng 9 năm nay.",
+      "start": 722.0,
+      "end": 736.0,
+      "n_words": 52,
+      "start_frame": 21660,
+      "end_frame": 22080,
+      "keyframes": [
+        "021683.webp",
+        "021718.webp",
+        "021719.webp",
+        "021800.webp",
+        "021882.webp",
+        "021883.webp",
+        "021961.webp",
+        "022039.webp",
+        "022040.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Ở Hàn Quốc, Tết Trung thu là một trong những ngày lễ lớn nhất và quan trọng nhất trong năm, hàng triệu người từ thủ đô Seoul đổ về quê trong ngày nghỉ lễ chính thức này.",
+      "start": 736.0,
+      "end": 745.44,
+      "n_words": 37,
+      "start_frame": 22080,
+      "end_frame": 22363,
+      "keyframes": [
+        "022089.webp",
+        "022139.webp",
+        "022140.webp",
+        "022176.webp",
+        "022213.webp",
+        "022214.webp",
+        "022291.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Từ tháng 11 tới, các quốc gia trong khối Schengen sẽ áp dụng hệ thống xuất nhập cảnh EES tự động mới thay thế phương pháp đóng dấu mộc lên hộ chiếu như hiện tại.",
+      "start": 745.44,
+      "end": 755.12,
+      "n_words": 35,
+      "start_frame": 22363,
+      "end_frame": 22654,
+      "keyframes": [
+        "022369.webp",
+        "022370.webp",
+        "022613.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Như vậy, du khách đến từ bên ngoài Liên minh châu Âu EU khi nhập cảnh sẽ được ghi nhận bằng phương pháp kỹ thuật số.",
+      "start": 755.12,
+      "end": 762.24,
+      "n_words": 26,
+      "start_frame": 22654,
+      "end_frame": 22867,
+      "keyframes": [
+        "022857.webp",
+        "022858.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Dự kiến từ ngày 10 tháng 11, các quốc gia thuộc khối Schengen không còn đóng dấu mộc lên hộ chiếu của du khách khi nhập cảnh.",
+      "start": 762.24,
+      "end": 768.92,
+      "n_words": 27,
+      "start_frame": 22867,
+      "end_frame": 23068,
+      "keyframes": [
+        "022982.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Giới chức châu Âu cho rằng hệ thống đóng dấu mộc thủ công như hiện tại tốn thời gian, không cung cấp được nhiều thông tin về khách hàng như phát hiện hành khách có lưu trú quá hạn hay không.",
+      "start": 768.92,
+      "end": 778.12,
+      "n_words": 41,
+      "start_frame": 23068,
+      "end_frame": 23344,
+      "keyframes": [
+        "023106.webp",
+        "023107.webp",
+        "023210.webp",
+        "023314.webp",
+        "023315.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "EES sẽ là hệ thống tự động ghi nhận hoạt động xuất nhập cảnh của du khách đến từ các quốc gia được miễn thị thực hoặc có thị thực lưu trú ngắn hạn.",
+      "start": 778.12,
+      "end": 787.04,
+      "n_words": 34,
+      "start_frame": 23344,
+      "end_frame": 23611,
+      "keyframes": [
+        "023372.webp",
+        "023429.webp",
+        "023447.webp",
+        "023537.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Mỗi lần du khách đến hoặc rời biên giới EU, hệ thống sẽ ghi lại tên, loại giấy tờ du lịch, dữ liệu sinh trắc học cũng như ngày, địa điểm xuất nhập cảnh.",
+      "start": 787.04,
+      "end": 796.68,
+      "n_words": 34,
+      "start_frame": 23611,
+      "end_frame": 23900,
+      "keyframes": [
+        "023628.webp",
+        "023629.webp",
+        "023709.webp",
+        "023789.webp",
+        "023790.webp",
+        "023874.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hệ thống cũng lưu lại các trường hợp bị từ chối nhập cảnh.",
+      "start": 796.68,
+      "end": 800.04,
+      "n_words": 13,
+      "start_frame": 23900,
+      "end_frame": 24001,
+      "keyframes": [
+        "023958.webp",
+        "023959.webp",
+        "023991.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Theo hệ thống mới, du khách được miễn thị thực và khối Schengen phải xin giấy phép du lịch trực tuyến thông qua hệ thống thông tin và cấp phép du lịch châu Âu ETIAS.",
+      "start": 800.04,
+      "end": 808.96,
+      "n_words": 35,
+      "start_frame": 24001,
+      "end_frame": 24269,
+      "keyframes": [
+        "024023.webp",
+        "024024.webp",
+        "024129.webp",
+        "024234.webp",
+        "024235.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hệ thống này sẽ được triển khai theo từng giai đoạn sau khi EES đi vào hoạt động.",
+      "start": 808.96,
+      "end": 815.84,
+      "n_words": 18,
+      "start_frame": 24269,
+      "end_frame": 24475,
+      "keyframes": [
+        "024345.webp",
+        "024456.webp",
+        "024457.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Không khí Singapore đang trở nên sôi động khi lễ hội đêm đã trở lại với phiên bản thứ 15.",
+      "start": 815.84,
+      "end": 820.68,
+      "n_words": 20,
+      "start_frame": 24475,
+      "end_frame": 24620,
+      "keyframes": [
+        "024551.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đến với sự kiện, du khách có thể tham gia vào nhiều hoạt động giúp ôn lại ký ức tuổi thơ.",
+      "start": 820.96,
+      "end": 827.2,
+      "n_words": 21,
+      "start_frame": 24629,
+      "end_frame": 24816,
+      "keyframes": [
+        "024646.webp",
+        "024647.webp",
+        "024712.webp",
+        "024778.webp",
+        "024787.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Lễ hội năm nay diễn ra tại khu phố Bras Basah Bugis với chủ đề nghệ thuật trong các trò chơi.",
+      "start": 827.2,
+      "end": 833.6,
+      "n_words": 21,
+      "start_frame": 24816,
+      "end_frame": 25008,
+      "keyframes": [
+        "024843.webp",
+        "024900.webp",
+        "024901.webp",
+        "024946.webp",
+        "024991.webp",
+        "024992.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Tại đây, các nghệ nhân trong nước và khu vực tạo nên các tác phẩm sắp đặt và trình diễn ánh sáng liên quan đến các trò chơi truyền thống tại lễ hội hoặc công viên giải trí.",
+      "start": 833.6,
+      "end": 843.6,
+      "n_words": 38,
+      "start_frame": 25008,
+      "end_frame": 25308,
+      "keyframes": [
+        "025045.webp",
+        "025098.webp",
+        "025099.webp",
+        "025140.webp",
+        "025182.webp",
+        "025183.webp",
+        "025215.webp",
+        "025247.webp",
+        "025248.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Bên cạnh đó, du khách cũng có thể ghé thăm nhiều quầy ẩm thực với các món ăn hoài niệm, thưởng thức nhiều màn trình diễn âm nhạc sôi động và tham gia các trò chơi vận động.",
+      "start": 843.6,
+      "end": 852.88,
+      "n_words": 38,
+      "start_frame": 25308,
+      "end_frame": 25586,
+      "keyframes": [
+        "025316.webp",
+        "025385.webp",
+        "025386.webp",
+        "025436.webp",
+        "025487.webp",
+        "025488.webp",
+        "025571.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Mục đích của ban tổ chức là giúp du khách tìm lại những niềm vui tuổi thơ ngày còn đi học.",
+      "start": 852.88,
+      "end": 858.64,
+      "n_words": 21,
+      "start_frame": 25586,
+      "end_frame": 25759,
+      "keyframes": [
+        "025655.webp",
+        "025656.webp",
+        "025703.webp",
+        "025751.webp",
+        "025752.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Với chủ đề năm nay, chúng tôi muốn thu hút sự chú ý đến từ lịch sử giáo dục phong phú tại khu vực này, đây là nơi khai sinh những ngôi trường đầu tiên của Singapore, đặc biệt là trường nghệ thuật.",
+      "start": 858.64,
+      "end": 869.08,
+      "n_words": 43,
+      "start_frame": 25759,
+      "end_frame": 26072,
+      "keyframes": [
+        "025818.webp",
+        "025884.webp",
+        "025885.webp",
+        "025938.webp",
+        "025991.webp",
+        "025992.webp",
+        "026025.webp",
+        "026059.webp",
+        "026060.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Lễ hội đang thu hút nhiều du khách mỗi đêm và sẽ kéo dài đến hết ngày 7 tháng 9.",
+      "start": 869.08,
+      "end": 875.92,
+      "n_words": 20,
+      "start_frame": 26072,
+      "end_frame": 26278,
+      "keyframes": [
+        "026105.webp",
+        "026151.webp",
+        "026152.webp",
+        "026203.webp",
+        "026254.webp",
+        "026255.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Nằm trong chuỗi sự kiện quảng bá lịch sử và văn hóa, thành phố Saint Petersburg của Nga đã khai mạc lễ hội thành phố điêu khắc cát vào ngày 24 tháng 8.",
+      "start": 875.92,
+      "end": 884.24,
+      "n_words": 33,
+      "start_frame": 26278,
+      "end_frame": 26527,
+      "keyframes": [
+        "026480.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Sự kiện khiến nhiều du khách thích thú nhờ các công trình khổng lồ được tạo hình khéo léo và cầu kỳ.",
+      "start": 884.24,
+      "end": 891.04,
+      "n_words": 22,
+      "start_frame": 26527,
+      "end_frame": 26731,
+      "keyframes": [
+        "026705.webp",
+        "026706.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Lễ hội có sự góp công của nhiều nghệ sĩ lớn trên khắp nước Nga, họ tập trung khai thác khắc họa những sinh hoạt thường ngày của xã hội Nga, tôn vinh các nhân vật nổi tiếng trong lịch sử và văn hóa.",
+      "start": 891.04,
+      "end": 902.56,
+      "n_words": 44,
+      "start_frame": 26731,
+      "end_frame": 27077,
+      "keyframes": [
+        "026768.webp",
+        "026830.webp",
+        "026831.webp",
+        "026866.webp",
+        "026901.webp",
+        "026902.webp",
+        "026936.webp",
+        "026970.webp",
+        "026971.webp",
+        "027041.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Thách thức lớn nhất là làm sao để cát không bị khô và dễ bị thổi bay.",
+      "start": 902.56,
+      "end": 906.76,
+      "n_words": 17,
+      "start_frame": 27077,
+      "end_frame": 27203,
+      "keyframes": [
+        "027112.webp",
+        "027113.webp",
+        "027139.webp",
+        "027166.webp",
+        "027167.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Để các tác phẩm giữ được hình dáng, chúng tôi dùng loại cát có chứa đất sét pha và sơn nhũ tương có thành phần chính là nước.",
+      "start": 906.76,
+      "end": 913.96,
+      "n_words": 28,
+      "start_frame": 27203,
+      "end_frame": 27419,
+      "keyframes": [
+        "027229.webp",
+        "027292.webp",
+        "027293.webp",
+        "027359.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Thời tiết đẹp đã giúp cho các tác phẩm trở nên mê hoặc hơn, bên cạnh đó không khí của lễ hội rất nhộn nhịp khiến mọi người trở nên hào hứng.",
+      "start": 913.96,
+      "end": 921.96,
+      "n_words": 32,
+      "start_frame": 27419,
+      "end_frame": 27659,
+      "keyframes": [
+        "027426.webp",
+        "027427.webp",
+        "027452.webp",
+        "027477.webp",
+        "027478.webp",
+        "027505.webp",
+        "027532.webp",
+        "027533.webp",
+        "027590.webp",
+        "027648.webp",
+        "027649.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Thành phố điêu khắc cát sẽ diễn ra tại công viên kỷ niệm 300 năm của thành phố Saint Petersburg cho đến hết ngày 8 tháng 9.",
+      "start": 921.96,
+      "end": 932.0,
+      "n_words": 27,
+      "start_frame": 27659,
+      "end_frame": 27960,
+      "keyframes": [
+        "027701.webp",
+        "027754.webp",
+        "027755.webp",
+        "027782.webp",
+        "027810.webp",
+        "027811.webp",
+        "027865.webp",
+        "027919.webp",
+        "027920.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Tại Wales, nước Anh, hàng trăm thí sinh gan dạ đã ngâm mình trong đầm lầy để giành danh hiệu vô địch thế giới về lặn ống thở trong bùn.",
+      "start": 932.0,
+      "end": 939.76,
+      "n_words": 30,
+      "start_frame": 27960,
+      "end_frame": 28193,
+      "keyframes": [
+        "028014.webp",
+        "028109.webp",
+        "028110.webp",
+        "028153.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cuộc thi đã có 39 năm lịch sử được tổ chức tại Llandudno, Wales, nơi được xem là thị trấn nhỏ nhất Vương quốc Anh.",
+      "start": 939.76,
+      "end": 949.24,
+      "n_words": 25,
+      "start_frame": 28193,
+      "end_frame": 28477,
+      "keyframes": [
+        "028197.webp",
+        "028208.webp",
+        "028236.webp",
+        "028265.webp",
+        "028266.webp",
+        "028347.webp",
+        "028428.webp",
+        "028429.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Quy tắc thi đấu rất đơn giản, người tham gia ngụp lặn trong một dòng kênh chứa đầy bùn dài 55 m trong thời gian nhanh nhất.",
+      "start": 949.24,
+      "end": 956.92,
+      "n_words": 27,
+      "start_frame": 28477,
+      "end_frame": 28708,
+      "keyframes": [
+        "028479.webp",
+        "028529.webp",
+        "028530.webp",
+        "028565.webp",
+        "028601.webp",
+        "028602.webp",
+        "028643.webp",
+        "028685.webp",
+        "028686.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Họ được yêu cầu sử dụng ống thở, mặt nạ và chân vịt để thực hiện các động tác lặn đẩy mình bằng chân dọc theo dòng kênh mà không được phép thực hiện bất kỳ kiểu bơi thông thường nào.",
+      "start": 956.92,
+      "end": 967.88,
+      "n_words": 41,
+      "start_frame": 28708,
+      "end_frame": 29036,
+      "keyframes": [
+        "028745.webp",
+        "028805.webp",
+        "028806.webp",
+        "028853.webp",
+        "028901.webp",
+        "028902.webp",
+        "029015.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Thậm chí đang có một kỷ lục thế giới cho cuộc thi này được thiết lập bởi một thầy giáo nghệ thuật giấu tên, thành tích của thầy là lặn hết chặng lặn bùn với thời gian là 1 phút 18 giây.",
+      "start": 967.88,
+      "end": 978.72,
+      "n_words": 42,
+      "start_frame": 29036,
+      "end_frame": 29362,
+      "keyframes": [
+        "029129.webp",
+        "029130.webp",
+        "029165.webp",
+        "029201.webp",
+        "029202.webp",
+        "029249.webp",
+        "029296.webp",
+        "029297.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Sự kiện cũng mang ý nghĩa nâng cao nhận thức về tầm quan trọng của môi trường đối với các vùng đầm lầy, ngôi nhà của nhiều loài động vật hoang dã.",
+      "start": 978.72,
+      "end": 987.92,
+      "n_words": 32,
+      "start_frame": 29362,
+      "end_frame": 29638,
+      "keyframes": [
+        "029382.webp",
+        "029467.webp",
+        "029468.webp",
+        "029553.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cuối tuần qua, hàng trăm người yêu thích thú cưng đã đổ về công viên Olympic, Sydney, Australia để tham gia lễ hội dành cho những người yêu thích chó mèo.",
+      "start": 987.92,
+      "end": 996.56,
+      "n_words": 31,
+      "start_frame": 29638,
+      "end_frame": 29897,
+      "keyframes": [
+        "029639.webp",
+        "029640.webp",
+        "029875.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Những người bạn bốn chân đáng yêu này theo chân các chủ nhân đến với lễ hội và cùng tham gia vào các cuộc thi vui nhộn.",
+      "start": 996.56,
+      "end": 1004.64,
+      "n_words": 27,
+      "start_frame": 29897,
+      "end_frame": 30139,
+      "keyframes": [
+        "030111.webp",
+        "030112.webp",
+        "030136.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đám đông thích thú theo dõi những người bạn có lông của họ cưỡi trên ván trượt, nhảy cao và bơi lội.",
+      "start": 1004.64,
+      "end": 1011.16,
+      "n_words": 22,
+      "start_frame": 30139,
+      "end_frame": 30335,
+      "keyframes": [
+        "030161.webp",
+        "030162.webp",
+        "030206.webp",
+        "030251.webp",
+        "030252.webp",
+        "030291.webp",
+        "030330.webp",
+        "030331.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng tôi rất yêu chó, gia đình tôi nuôi đến ba giống chó, trong đó có dòng Beagle, dòng chó cứu hộ và những chú chó xúc xích.",
+      "start": 1011.16,
+      "end": 1019.16,
+      "n_words": 28,
+      "start_frame": 30335,
+      "end_frame": 30575,
+      "keyframes": [
+        "030433.webp",
+        "030535.webp",
+        "030536.webp",
+        "030553.webp",
+        "030570.webp",
+        "030571.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Nhiều người khác thì đang chơi đùa với mèo con và chó con tại khu vực nhận nuôi chó mèo.",
+      "start": 1019.16,
+      "end": 1024.48,
+      "n_words": 20,
+      "start_frame": 30575,
+      "end_frame": 30734,
+      "keyframes": [
+        "030650.webp",
+        "030729.webp",
+        "030730.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đây là những bé được giải cứu và nhận nuôi từ ban tổ chức.",
+      "start": 1024.48,
+      "end": 1028.44,
+      "n_words": 14,
+      "start_frame": 30734,
+      "end_frame": 30853,
+      "keyframes": [
+        "030781.webp",
+        "030833.webp",
+        "030834.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Những con mèo sống trên đường phố hoặc bị bỏ rơi rất đáng thương và chúng xứng đáng được yêu thương, chúng cũng cần được nuôi dưỡng.",
+      "start": 1028.44,
+      "end": 1035.64,
+      "n_words": 27,
+      "start_frame": 30853,
+      "end_frame": 31069,
+      "keyframes": [
+        "030945.webp",
+        "031057.webp",
+        "031058.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Xuyên suốt chương trình sẽ diễn ra nhiều hoạt động thú vị khác, trong đó có cuộc thi sắc đẹp dành cho chó mèo.",
+      "start": 1035.64,
+      "end": 1041.64,
+      "n_words": 24,
+      "start_frame": 31069,
+      "end_frame": 31249,
+      "keyframes": [
+        "031109.webp",
+        "031161.webp",
+        "031162.webp",
+        "031205.webp",
+        "031249.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Các bé sẽ được chủ nhân chải chuốt gọn gàng, diện những trang phục bắt mắt để cùng đổ dáng và sải bước trên sàn catwalk.",
+      "start": 1041.64,
+      "end": 1049.36,
+      "n_words": 26,
+      "start_frame": 31249,
+      "end_frame": 31481,
+      "keyframes": [
+        "031249.webp",
+        "031250.webp",
+        "031273.webp",
+        "031297.webp",
+        "031298.webp",
+        "031333.webp",
+        "031368.webp",
+        "031369.webp",
+        "031392.webp",
+        "031416.webp",
+        "031417.webp",
+        "031442.webp",
+        "031468.webp",
+        "031469.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Lễ hội dành cho những người yêu thích thú cưng này ra mắt lần đầu tiên tại Sydney vào năm 2023.",
+      "start": 1049.36,
+      "end": 1054.4,
+      "n_words": 21,
+      "start_frame": 31481,
+      "end_frame": 31632,
+      "keyframes": [
+        "031503.webp",
+        "031537.webp",
+        "031538.webp",
+        "031558.webp",
+        "031579.webp",
+        "031580.webp",
+        "031612.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Lễ hội này còn là dịp để tất cả cùng nhau lan tỏa thông điệp ý nghĩa về tình yêu thương dành cho động vật.",
+      "start": 1055.68,
+      "end": 1063.64,
+      "n_words": 25,
+      "start_frame": 31670,
+      "end_frame": 31909,
+      "keyframes": [
+        "031671.webp",
+        "031696.webp",
+        "031697.webp",
+        "031733.webp",
+        "031770.webp",
+        "031771.webp",
+        "031832.webp",
+        "031894.webp",
+        "031895.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Giải vô địch lướt sóng kết hợp với dù lượn 2024 vừa kết thúc trận đấu tại đảo Zin với nhiều màn thể hiện gây ấn tượng.",
+      "start": 1063.64,
+      "end": 1070.96,
+      "n_words": 27,
+      "start_frame": 31909,
+      "end_frame": 32129,
+      "keyframes": [
+        "031939.webp",
+        "031983.webp",
+        "031984.webp",
+        "032024.webp",
+        "032065.webp",
+        "032066.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sự kiện cũng là nơi tìm ra nhà vô địch khu vực châu Âu cho bộ môn lướt sóng với ván trượt có cánh ngầm.",
+      "start": 1070.96,
+      "end": 1075.92,
+      "n_words": 25,
+      "start_frame": 32129,
+      "end_frame": 32278,
+      "keyframes": [
+        "032199.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trong mùa giải năm nay, với sức gió lên đến 40 hải lý, đảo Zin là địa điểm thi đấu nhiều thách thức cho 50 vận động viên ở bộ môn lướt sóng dưới dù lượn.",
+      "start": 1075.92,
+      "end": 1086.32,
+      "n_words": 36,
+      "start_frame": 32278,
+      "end_frame": 32590,
+      "keyframes": [
+        "032332.webp",
+        "032346.webp",
+        "032395.webp",
+        "032445.webp",
+        "032446.webp",
+        "032487.webp",
+        "032529.webp",
+        "032530.webp",
+        "032566.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Nội dung nam, vận động viên Australia thực hiện nhiều pha nhào lộn phức tạp ở phần thi mở màn và đạt thành tích tốt.",
+      "start": 1086.32,
+      "end": 1093.4,
+      "n_words": 25,
+      "start_frame": 32590,
+      "end_frame": 32802,
+      "keyframes": [
+        "032603.webp",
+        "032604.webp",
+        "032695.webp",
+        "032787.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đối thủ trực tiếp của anh là vận động viên lướt sóng đến từ Brazil, Gabrin Benetin, người thực hiện cú lộn ba vòng để gây ấn tượng.",
+      "start": 1093.4,
+      "end": 1100.64,
+      "n_words": 28,
+      "start_frame": 32802,
+      "end_frame": 33019,
+      "keyframes": [
+        "032840.webp",
+        "032906.webp",
+        "032973.webp",
+        "032974.webp",
+        "033008.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chung cuộc, Caru giành chiến thắng với cách biệt điểm số sít sao và trở thành nhà vô địch của chặng.",
+      "start": 1100.64,
+      "end": 1105.8,
+      "n_words": 21,
+      "start_frame": 33019,
+      "end_frame": 33174,
+      "keyframes": [
+        "033042.webp",
+        "033043.webp",
+        "033104.webp",
+        "033165.webp",
+        "033166.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ở nội dung nữ, vận động viên người Pháp Kabusin Dalano thể hiện nhiều kỹ thuật khó và đạt thành tích cao, qua đó lên ngôi vô địch của chặng, đối thủ Thụy Sĩ Camin Loger xếp thứ nhì.",
+      "start": 1105.8,
+      "end": 1117.6,
+      "n_words": 39,
+      "start_frame": 33174,
+      "end_frame": 33528,
+      "keyframes": [
+        "033177.webp",
+        "033189.webp",
+        "033190.webp",
+        "033228.webp",
+        "033267.webp",
+        "033268.webp",
+        "033333.webp",
+        "033399.webp",
+        "033400.webp",
+        "033417.webp",
+        "033435.webp",
+        "033436.webp",
+        "033480.webp",
+        "033525.webp",
+        "033526.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Còn nội dung vô địch lướt sóng với ván trượt có cánh ngầm khu vực châu Âu, vận động viên người Pháp Sar Proden gây ấn tượng mạnh từ những phần thể hiện đầu, dù gặp thời tiết bất lợi và phần thể hiện ổn định đưa anh trở thành nhà vô địch châu Âu 2024.",
+      "start": 1117.6,
+      "end": 1130.52,
+      "n_words": 56,
+      "start_frame": 33528,
+      "end_frame": 33916,
+      "keyframes": [
+        "033623.webp",
+        "033721.webp",
+        "033722.webp",
+        "033842.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Vị trí thứ hai thuộc về đối thủ Tây Ban Nha Loenzo Kasati, người đã có màn lội ngược dòng sau hai phần thể hiện không tốt đầu. Thao tác vừa rồi cũng đã khép lại chương trình 60 giây sáng nay. Cảm ơn quý vị đã quan tâm theo dõi.",
+      "start": 1131.88,
+      "end": 1146.0,
+      "n_words": 51,
+      "start_frame": 33956,
+      "end_frame": 34380,
+      "keyframes": [
+        "033963.webp",
+        "033964.webp",
+        "034048.webp",
+        "034133.webp",
+        "034134.webp",
+        "034172.webp",
+        "034211.webp",
+        "034212.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúc quý vị ngày mới làm việc thuận lợi và thành công. Hẹn gặp lại quý vị trong chương trình 60 giây chiều tối nay với những thông tin cập nhật trong ngày. Xin kính chào tạm biệt.",
+      "start": 1146.0,
+      "end": 1153.84,
+      "n_words": 38,
+      "start_frame": 34380,
+      "end_frame": 34615,
+      "keyframes": [
+        "034433.webp"
+      ],
+      "keyframe_count": 1
+    }
+  ]
+}

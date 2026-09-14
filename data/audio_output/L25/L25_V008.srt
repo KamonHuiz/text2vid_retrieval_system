@@ -1,0 +1,547 @@
+1
+00:00:00,040 --> 00:00:10,520
+Để thầy xin chào tất cả các em.
+
+2
+00:00:10,520 --> 00:00:16,920
+Hôm nay chúng ta sẽ đến với chuyên đề cuối cùng trong chương trình ôn tập môn toán chuẩn bị cho kỳ thi trung học phổ thông quốc gia năm 2024.
+
+3
+00:00:18,200 --> 00:00:25,920
+Trong chuyên đề này thầy sẽ ôn tập lại cho các em một cái kiến thức mà chúng ta đã học ở lớp 11, đó chính là chuyên đề về xác suất.
+
+4
+00:00:25,920 --> 00:00:29,200
+Thầy trò chúng ta cùng nhau đi vào bài học.
+
+5
+00:00:29,200 --> 00:00:43,360
+Để có được thành công như hôm nay, tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình bắt đầu từ trường Đại học Quốc tế Sài Gòn (SIU).
+
+6
+00:00:43,360 --> 00:00:50,120
+Đào tạo đa dạng đa lĩnh vực, SIU mở ra cho chúng tôi nhiều cơ hội lựa chọn nghề nghiệp trong tương lai.
+
+7
+00:00:50,120 --> 00:00:54,120
+Tất cả sinh viên đều có cơ hội để thể hiện và phát triển năng lực.
+
+8
+00:00:54,120 --> 00:00:57,400
+Những ý tưởng luôn được khuyến khích và phát huy tối đa.
+
+9
+00:00:57,400 --> 00:00:59,120
+Chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin.
+
+10
+00:01:00,360 --> 00:01:03,520
+Chúng tôi được học cách học, cách nghĩ và cách sống.
+
+11
+00:01:03,520 --> 00:01:10,600
+Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.
+
+12
+00:01:10,600 --> 00:01:21,200
+Hiện đại, năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc, đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn (SIU) luôn hướng đến.
+
+13
+00:01:21,200 --> 00:01:29,400
+Đã đến lúc vươn xa hơn những gì đã học.
+
+14
+00:01:29,400 --> 00:01:32,680
+Đầu tiên chúng ta sẽ nói về định nghĩa của xác suất.
+
+15
+00:01:32,680 --> 00:01:55,440
+Bây giờ xác suất của một biến cố A được tính bởi công thức như sau: P(A) sẽ bằng với $n(A)$ chia cho $n(\Omega)$, trong đó $n(A)$ là số kết quả thuận lợi của biến cố A, $n(\Omega)$ là số kết quả có thể xảy ra của phép thử, hay nói cách khác là số phần tử của không gian mẫu.
+
+16
+00:01:55,440 --> 00:02:02,880
+Bây giờ với định nghĩa xác suất này thì chúng ta sẽ cùng nhau giải quyết một số bài toán sau đây.
+
+17
+00:02:02,880 --> 00:02:07,560
+Đầu tiên chúng ta đến với ví dụ số 1 là một câu hỏi trích trong đề minh họa năm 2023.
+
+18
+00:02:09,960 --> 00:02:21,280
+Một hộp chứa 15 quả cầu, trong đó có 6 quả cầu màu đỏ được đánh số từ 1 đến 6 và 9 quả cầu màu xanh được đánh số từ 1 đến 9.
+
+19
+00:02:21,280 --> 00:02:33,800
+Lấy ngẫu nhiên 2 quả cầu từ hộp đó, tính xác suất để lấy được 2 quả cầu khác màu đồng thời tổng hai số ghi trên chúng là một số chẵn.
+
+20
+00:02:33,800 --> 00:02:38,480
+Đầu tiên, khi làm một bài toán về xác suất, chúng ta đều phải tính không gian mẫu trước.
+
+21
+00:02:38,480 --> 00:02:55,120
+Thì không gian mẫu của bài toán này chúng ta sẽ dựa vào cái phép thử ở đây là chúng ta lấy ra 2 quả từ một cái hộp 15 quả, thì rõ ràng lấy 2 quả từ một hộp có 15 quả chúng ta sẽ có $C_{15}^2$ cách và $n(\Omega)$ là bằng 105.
+
+22
+00:02:56,320 --> 00:03:02,240
+Bây giờ chúng ta xét cái biến cố A là cái biến cố mà đề bài yêu cầu chúng ta tính.
+
+23
+00:03:02,240 --> 00:03:09,760
+Biến cố A là biến cố lấy được 2 quả khác màu và tổng hai số ghi trên chúng là một số chẵn.
+
+24
+00:03:09,760 --> 00:03:27,120
+Vậy thì bây giờ tổng của hai số là một số chẵn thì chúng ta sẽ nảy sinh ra các trường hợp sau đây: Do tổng là số chẵn cho nên sẽ có trường hợp thứ nhất là cả hai quả này đều là số lẻ.
+
+25
+00:03:27,120 --> 00:03:35,440
+Tức là chúng ta sẽ lấy 1 quả đỏ số lẻ và 1 quả xanh số lẻ.
+
+26
+00:03:35,440 --> 00:03:48,320
+Bây giờ lấy một quả đỏ số lẻ thì quả đỏ đánh số từ 1 đến 6 mà từ 1 đến 6 chúng ta sẽ có 3 số lẻ, do đó lấy một quả đỏ số lẻ ta sẽ có $C_3^1$ cách.
+
+27
+00:03:48,320 --> 00:03:56,080
+Tương tự lấy một quả xanh số lẻ chúng ta sẽ có $C_5^1$ cách, là do từ 1 đến 9 chúng ta có 5 số lẻ.
+
+28
+00:03:56,080 --> 00:04:03,120
+Ta nhân lại ta có $C_3^1 \times C_5^1$ là bằng 15 cách cho trường hợp thứ nhất.
+
+29
+00:04:03,120 --> 00:04:11,120
+Trường hợp thứ hai, tổng hai số là số chẵn thì ta sẽ có trường hợp là cả hai quả này đều là số chẵn.
+
+30
+00:04:11,120 --> 00:04:16,320
+Vậy thì chúng ta bắt buộc phải lấy 1 quả đỏ số chẵn và 1 quả xanh số chẵn.
+
+31
+00:04:16,320 --> 00:04:22,840
+Từ 1 đến 6 ta sẽ có 3 số chẵn, do đó lấy một quả đỏ chẵn ta sẽ có $C_3^1$ cách.
+
+32
+00:04:22,840 --> 00:04:30,840
+Tương tự từ 1 đến 9 có 4 số chẵn, do đó lấy một quả xanh chẵn ta sẽ có $C_4^1$ cách.
+
+33
+00:04:30,840 --> 00:04:33,600
+Nhân lại ta được 12 cách.
+
+34
+00:04:33,600 --> 00:04:41,520
+Vậy thì số phần tử của biến cố A ta sẽ lấy hai trường hợp này chúng ta cộng lại, ta lấy 15 cộng 12 là bằng 27.
+
+35
+00:04:42,320 --> 00:04:49,040
+Từ đây tính được xác suất của biến cố A là 27 phần 105, và bằng 9 phần 35.
+
+36
+00:04:49,680 --> 00:04:53,640
+Ta chọn đáp án A và kết thúc ví dụ số 1.
+
+37
+00:04:53,640 --> 00:04:58,720
+Bây giờ chúng ta đến với ví dụ số 2 thì đây là ví dụ khó hơn một chút.
+
+38
+00:04:58,720 --> 00:05:02,200
+Bây giờ thầy có 30 tấm thẻ được đánh số từ 1 đến 30.
+
+39
+00:05:03,000 --> 00:05:19,440
+Chọn ngẫu nhiên ra 10 tấm thẻ, yêu cầu tìm xác suất sao cho trong 10 tấm thẻ được chọn thì có 5 tấm thẻ mang số lẻ, 5 tấm thẻ mang số chẵn và chỉ có đúng 1 tấm thẻ mang số chia hết cho 10.
+
+40
+00:05:19,440 --> 00:05:25,240
+Bây giờ chúng ta cùng nhau phân tích cái hướng làm của bài toán này.
+
+41
+00:05:25,240 --> 00:05:28,160
+Thì dĩ nhiên đầu tiên là chúng ta phải tìm không gian mẫu.
+
+42
+00:05:28,160 --> 00:05:37,320
+Không gian mẫu ở đây chúng ta chú ý cái phép thử là chọn ra 10 tấm thẻ thì sẽ có $C_{30}^{10}$ cách và đây chính là không gian mẫu.
+
+43
+00:05:37,320 --> 00:05:51,400
+Xét cái biến cố cần tìm thì cái biến cố cần tìm này chúng ta lưu ý là 10 tấm thẻ này có 5 thẻ mang số lẻ, 5 thẻ chẵn và trong 5 thẻ chẵn này thì sẽ có đúng 1 tấm thẻ chia hết cho 10.
+
+44
+00:05:51,400 --> 00:06:04,640
+Vậy thì bây giờ chúng ta sẽ thực hiện theo từng bước như sau: Đầu tiên cho chúng ta chỉ cần một tấm thẻ chia hết cho 10 thôi, do đó bước 1 thầy sẽ chọn ra một tấm thẻ chia hết cho 10.
+
+45
+00:06:04,640 --> 00:06:18,840
+Vậy thì trong 30 thẻ chúng ta phân loại ra thì nó sẽ có 15 tấm thẻ mang số lẻ, 15 tấm thẻ mang số chẵn và trong 15 tấm thẻ chẵn này sẽ có 3 thẻ chia hết cho 10, thì 3 thẻ chia hết cho 10 chính là 10, 20 với lại 30.
+
+46
+00:06:20,600 --> 00:06:31,200
+Bước 1 như thầy đã nói là chúng ta chọn ra một thẻ chia hết cho 10 trước thì dĩ nhiên chúng ta sẽ có $C_3^1$ cách.
+
+47
+00:06:31,200 --> 00:06:41,440
+Bây giờ 5 thẻ chẵn các em lưu ý, 5 thẻ chẵn chúng ta có một tấm thẻ chia hết cho 10 rồi, vậy thì chúng ta cần phải chọn thêm 4 thẻ chẵn nữa.
+
+48
+00:06:41,440 --> 00:06:54,960
+Thì trong 4 thẻ chẵn này chúng ta không được lấy thẻ chia hết cho 10, do đó chúng ta bỏ 3 tấm thẻ chia hết cho 10 đi, vậy thì chúng ta chỉ còn có thể lấy 4 thẻ trong 12 thẻ thôi.
+
+49
+00:06:54,960 --> 00:07:06,440
+Các em lưu ý ha, đây chúng ta có 15 chẵn nè, chúng ta bỏ đi 3 thẻ chia hết cho 10 là còn lại 12, chúng ta lấy 4 thẻ từ 12 tấm thẻ chẵn đó và thầy sẽ có $C_{12}^4$ cách.
+
+50
+00:07:06,440 --> 00:07:18,240
+Bước cuối cùng là thầy cần chọn ra 5 thẻ mang số lẻ thì đơn giản thôi, ta sẽ có $C_{15}^5$ cách do ở đây chúng ta có 15 thẻ lẻ.
+
+51
+00:07:18,240 --> 00:07:25,360
+Vậy thì số phần tử của biến cố A ta sẽ lấy các bước này chúng ta nhân lại với nhau, tức là $C_3^1 \times C_{12}^4 \times C_{15}^5$.
+
+52
+00:07:28,400 --> 00:07:45,040
+Từ đây thầy tính được xác suất của biến cố A ta lấy $C_3^1 \times C_{12}^4 \times C_{15}^5$ chia cho $C_{30}^{10}$, ta được kết quả là 99 phần 667 và kết thúc bài toán.
+
+53
+00:07:45,040 --> 00:07:55,520
+Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến, hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.
+
+54
+00:07:55,520 --> 00:08:03,120
+Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện, cân bằng giữa học thuật và nghệ thuật, thể thao.
+
+55
+00:08:03,120 --> 00:08:13,760
+Hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, khơi nguồn cảm hứng độc lập để phát triển và hoàn thiện nhân cách.
+
+56
+00:08:13,760 --> 00:08:32,840
+Ngoài những giờ học trên lớp, học sinh Trường Quốc tế Á Châu còn được trải nghiệm thử thách bản thân và phản biện các vấn đề để tự mình học hỏi, trưởng thành độc lập hơn.
+
+57
+00:08:32,840 --> 00:08:49,440
+Nơi đây với tôi còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.
+
+58
+00:08:49,440 --> 00:08:54,600
+Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là cuộc sống.
+
+59
+00:08:54,600 --> 00:09:07,800
+Từ môi trường giáo dục này chúng tôi đã tự tin bước tiếp và viết nên câu chuyện tương lai của chính mình.
+
+60
+00:09:07,800 --> 00:09:12,160
+Tiếp theo ta đến với ví dụ số 3.
+
+61
+00:09:12,160 --> 00:09:16,520
+Ví dụ số 3: Trong một hộp có 40 tấm thẻ được đánh số từ 1 đến 40.
+
+62
+00:09:17,240 --> 00:09:27,480
+Bây giờ chọn ra 3 thẻ, tính xác suất để tổng ba số trên ba thẻ lấy ra là một số chia hết cho 3.
+
+63
+00:09:27,480 --> 00:09:30,720
+Đầu tiên chắc chắn chúng ta sẽ phải tính không gian mẫu.
+
+64
+00:09:30,720 --> 00:09:37,280
+Không gian mẫu ở đây chúng ta thấy phép thử là chọn ra 3 thẻ từ 40 thẻ và do đó không gian mẫu sẽ là $C_{40}^3$.
+
+65
+00:09:39,920 --> 00:09:48,120
+Bây giờ biến cố A là biến cố mà tổng ba số ghi trên thẻ là một số chia hết cho 3.
+
+66
+00:09:48,120 --> 00:09:56,920
+Vậy thì lúc này để tính được số phần tử của biến cố A thì thầy bắt buộc phải chia cái 40 tấm thẻ này ra làm ba loại.
+
+67
+00:09:56,920 --> 00:10:02,920
+Thì 40 tấm thẻ này, loại thứ nhất là sẽ là các số chia hết cho 3.
+
+68
+00:10:02,920 --> 00:10:09,440
+Thì từ 1 đến 40, các số chia hết cho 3 sẽ là 3, 6, 9 vân vân đến 39.
+
+69
+00:10:11,240 --> 00:10:25,040
+Vậy thì bây giờ số các số chia hết cho 3 thì chúng ta sẽ sử dụng cái công thức tính nhanh sau đây thì các em có thể tham khảo ha, chúng ta sẽ lấy số cuối trừ số đầu chia khoảng cách giữa các số rồi cộng 1.
+
+70
+00:10:25,040 --> 00:10:32,360
+Thì ở đây khoảng cách giữa các số là 3, vậy chúng ta sẽ có 13 số chia hết cho 3.
+
+71
+00:10:32,720 --> 00:10:53,680
+Loại thứ hai là chúng ta sẽ đếm các số chia 3 dư 1 thì các số chia 3 dư 1 sẽ là các số có dạng 1, 4, 7 vân vân đến số 40, thì áp dụng công thức chúng ta sẽ có số cuối trừ số đầu chia khoảng cách cộng 1 và ta sẽ được 14 số chia 3 dư 1.
+
+72
+00:10:53,680 --> 00:11:06,800
+Cuối cùng chúng ta phân loại các số chia 3 dư 2 là các số có dạng 2, 5, 8 vân vân đến 38, từ đây ta sẽ có 13 số chia 3 dư 2.
+
+73
+00:11:06,800 --> 00:11:11,040
+Thì sau khi phân loại xong chúng ta sẽ đếm số phần tử của biến cố A.
+
+74
+00:11:11,040 --> 00:11:38,160
+Vậy thì để tổng của ba số mà ta được một số chia hết cho 3 vậy thì nó sẽ nảy sinh ra các trường hợp sau đây: Trường hợp thứ nhất là cả ba số này đều chia hết cho 3 thì rõ ràng lúc này tổng chia hết cho 3, vậy thì bây giờ chọn ra 3 số chia hết cho 3 chúng ta sẽ có $C_{13}^3$ cách do chúng ta có 13 số chia hết cho 3.
+
+75
+00:11:38,680 --> 00:11:54,360
+Trường hợp hai, tổng của ba số chia hết cho 3 vậy thì sẽ có trường hợp là cả ba số này đều chia 3 dư 1, lúc này chọn ra 3 số chia ba dư 1 ta sẽ có $C_{14}^3$ cách.
+
+76
+00:11:54,360 --> 00:12:04,480
+Trường hợp thứ ba là cả ba số này đều chia 3 dư 2 và chọn ra 3 số chia ba dư 2 ta sẽ có $C_{13}^3$ cách.
+
+77
+00:12:04,480 --> 00:12:20,520
+Và chúng ta sẽ còn thêm một cái trường hợp thứ tư nữa, đó chính là tổng ba số chia hết cho 3 thì trong ba số này sẽ có một số chia 3 dư 1, một số chia 3 dư 2 và một số chia hết cho 3.
+
+78
+00:12:20,520 --> 00:12:34,720
+Lúc này để chọn ra như vậy thì chúng ta sẽ có: chọn một số chia ba dư 1 là $C_{14}^1$, chọn một số chia ba dư 2 ta sẽ có $C_{13}^1$ cách và chọn một số chia hết cho 3 ta cũng có $C_{13}^1$ cách.
+
+79
+00:12:34,720 --> 00:12:36,160
+Ta nhân lại.
+
+80
+00:12:36,160 --> 00:12:51,440
+Vậy thì số phần tử của biến cố A ta sẽ lấy bốn trường hợp này chúng ta cộng lại với nhau, tức là $C_{13}^3 + C_{13}^3 + C_{14}^3 + C_{13}^1 \times C_{13}^1 \times C_{14}^1$ và bằng 3.302.
+
+81
+00:12:54,040 --> 00:13:05,200
+Từ đây thầy tính được xác suất của cái biến cố A ta lấy 3.302 mà chia cho không gian mẫu là $C_{40}^3$ và thầy được kết quả là 127 phần 380.
+
+82
+00:13:06,920 --> 00:13:09,280
+Thúc ví dụ số 3.
+
+83
+00:13:09,280 --> 00:13:17,040
+Tiếp theo chúng ta sẽ cùng nhau đến với ví dụ số 4 thì đây là một cái bài liên quan đến sắp xếp người hay đồ vật.
+
+84
+00:13:17,040 --> 00:13:24,480
+Bây giờ một trường trung học phổ thông có 6 học sinh giỏi lớp 11, 3 học sinh giỏi lớp 12.
+
+85
+00:13:25,040 --> 00:13:34,280
+Bây giờ yêu cầu là xếp 9 học sinh này thành một hàng ngang và tính xác suất để không có hai em học sinh lớp 12 nào đứng cạnh nhau.
+
+86
+00:13:34,280 --> 00:13:38,760
+Đầu tiên chúng ta sẽ mô tả không gian mẫu trước.
+
+87
+00:13:38,760 --> 00:13:44,040
+Bây giờ rõ ràng xếp chín học sinh này thành một hàng ngang vậy thì chúng ta sẽ có 9!
+
+88
+00:13:44,520 --> 00:13:47,680
+Cách, ở đây chúng ta dùng hoán vị.
+
+89
+00:13:47,680 --> 00:13:58,600
+Bây giờ ta xét cái biến cố E là cái biến cố mà sau khi xếp chín học sinh này thành một hàng ngang thì không có hai em học sinh lớp 12 nào đứng cạnh nhau.
+
+90
+00:13:58,600 --> 00:14:03,200
+Bây giờ ta sẽ tìm cách để đếm số phần tử của biến cố E.
+
+91
+00:14:03,200 --> 00:14:08,800
+Vậy thì bây giờ chúng ta sẽ sắp xếp như thế nào để không có hai em học sinh lớp 12 nào đứng cạnh nhau?
+
+92
+00:14:08,800 --> 00:14:22,480
+Vậy thì bây giờ thầy sẽ gợi ý một cách sắp xếp như sau: Đầu tiên để xếp được như vậy thì bước 1 là thầy sẽ xếp 6 học sinh lớp 11 thành một hàng ngang trước và rõ ràng chúng ta sẽ có 6!
+
+93
+00:14:23,000 --> 00:14:23,600
+Cách.
+
+94
+00:14:23,600 --> 00:14:42,800
+Đây là 6 em học sinh lớp 11, chúng ta sẽ thấy 6 em học sinh lớp 11 chúng ta sẽ tạo ra được 7 cái khoảng trống như sau đây là 7 khoảng trống.
+
+95
+00:14:42,800 --> 00:14:59,360
+Bây giờ để không có hai em học sinh lớp 12 nào đứng cạnh nhau vậy thì bắt buộc thầy phải xếp 3 em học sinh lớp 12 này vào 3 trong 7 cái chỗ trống mà thầy đã tạo ra.
+
+96
+00:14:59,360 --> 00:15:10,800
+Do đó chọn ra 3 khoảng trống từ 7 khoảng trống và sắp xếp 3 học sinh lớp 12 này vào thì thầy sẽ có $A_7^3$ cách.
+
+97
+00:15:10,800 --> 00:15:15,920
+Vậy thì công việc chúng ta đã hoàn thành, vậy thì số phần tử của biến cố E ta sẽ lấy 6!
+
+98
+00:15:16,640 --> 00:15:17,480
+Nhân cho $A_7^3$.
+
+99
+00:15:18,800 --> 00:15:21,400
+Vậy thì xác suất của biến cố E sẽ là $6!
+
+100
+00:15:21,400 --> 00:15:23,720
+\times A_7^3$ chia cho 9!
+
+101
+00:15:24,400 --> 00:15:25,880
+Và bằng 5 phần 12.
+
+102
+00:15:27,160 --> 00:15:29,960
+Ta kết thúc ví dụ số 4.
+
+103
+00:15:29,960 --> 00:15:40,960
+Trường Đại học Quốc tế Sài Gòn (SIU) không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SIU nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt.
+
+104
+00:15:40,960 --> 00:15:51,720
+SIU mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới, trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.
+
+105
+00:15:51,720 --> 00:16:00,320
+Năm 2024, SIU tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng 4 phương thức tuyển sinh.
+
+106
+00:16:00,320 --> 00:16:26,840
+SIU cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SIU, 100 suất học bổng Tiếp bước hành trình, Quỹ tài năng trẻ, học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa thể thao nghệ thuật; Học bổng Đồng hành xây dựng nhân lực chất lượng cao cho thành phố Thủ Đức, thành phố Hồ Chí Minh; Học bổng doanh nghiệp tài trợ; Học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.
+
+107
+00:16:26,840 --> 00:16:30,480
+SIU: Tâm hồn Việt Nam, giáo dục thế giới.
+
+108
+00:16:30,480 --> 00:16:34,320
+Chúng ta đến với ví dụ cuối cùng, ví dụ số 5.
+
+109
+00:16:34,320 --> 00:16:45,160
+Để chuẩn bị chào mừng cho ngày Nhà giáo Việt Nam 20 tháng 11, đội văn nghệ của trường trung học phổ thông X gồm 9 học sinh, trong đó có 3 nữ.
+
+110
+00:16:45,440 --> 00:16:57,360
+Giờ chúng ta sẽ chia 9 học sinh này thành 3 tổ, mỗi tổ có 3 học sinh để biểu diễn văn nghệ và yêu cầu là tính xác suất để mỗi tổ có đúng một nữ.
+
+111
+00:16:57,360 --> 00:17:01,040
+Đầu tiên chúng ta sẽ mô tả không gian mẫu.
+
+112
+00:17:01,040 --> 00:17:04,240
+Bây giờ không gian mẫu, chúng ta cần coi phép thử ở đây là gì?
+
+113
+00:17:04,240 --> 00:17:09,200
+Phép thử ở đây chính là chia 9 học sinh này thành 3 tổ.
+
+114
+00:17:09,200 --> 00:17:13,520
+Vậy thì chúng ta sẽ đếm coi là chúng ta có bao nhiêu cách chia như vậy.
+
+115
+00:17:13,520 --> 00:17:18,400
+Bây giờ thầy có 3 tổ là tổ 1, tổ 2 và tổ 3.
+
+116
+00:17:18,400 --> 00:17:33,120
+Chia 9 học sinh này vào 3 tổ thì chúng ta sẽ thực hiện công việc này theo các bước như sau: Đầu tiên là hãy lấy ra 3 bạn để đưa vô tổ 1, thầy lấy ra 3 bạn trong chín bạn sẽ có $C_9^3$ cách.
+
+117
+00:17:33,120 --> 00:17:42,600
+Thì rõ ràng lúc này thầy sẽ còn 6 bạn và tiếp theo sẽ lấy ra 3 bạn trong 6 bạn đó để đưa vào tổ 2 và sẽ có $C_6^3$ cách.
+
+118
+00:17:42,600 --> 00:17:51,120
+Và cuối cùng 3 bạn còn lại thầy sẽ đưa vào tổ 3 thì thầy sẽ có 1 cách duy nhất là $C_3^3$ thôi.
+
+119
+00:17:51,120 --> 00:17:58,680
+Vậy thì số phần tử không gian mẫu là thầy sẽ lấy $C_9^3 \times C_6^3 \times C_3^3$ là 1.680.
+
+120
+00:18:00,320 --> 00:18:06,320
+Các em lưu ý ha, giải quyết công việc này chúng ta sẽ làm theo ba bước như thế.
+
+121
+00:18:06,320 --> 00:18:17,760
+Bây giờ công việc chúng ta cần làm tiếp theo là đếm số phần tử của biến cố E là cái biến cố mà mỗi tổ có đúng một nữ.
+
+122
+00:18:17,760 --> 00:18:23,080
+Thì bây giờ các em hãy thử suy nghĩ và liệt kê các bước làm để chúng ta có thể chia tổ được như vậy.
+
+123
+00:18:27,440 --> 00:18:42,320
+Để chúng ta có thể chia tổ sao cho mỗi tổ có đúng một nữ thì thầy sẽ làm theo các bước như sau: Bây giờ ở đây thầy có 3 bạn nữ thì để mỗi tổ có một bạn nữ thì thầy sẽ xếp 3 bạn nữ này vào 3 tổ trước.
+
+124
+00:18:42,320 --> 00:18:46,480
+Thì xếp 3 bạn nữ vào 3 tổ thì thầy sẽ có 3!
+
+125
+00:18:46,960 --> 00:18:49,920
+Cách, rõ ràng là chúng ta dùng hoán vị.
+
+126
+00:18:49,920 --> 00:18:55,120
+Vậy thì lúc này là mỗi tổ chúng ta đã có một nữ rồi, thì công việc tiếp theo chúng ta sẽ là gì?
+
+127
+00:18:55,120 --> 00:19:00,320
+Chúng ta sẽ xếp 6 bạn nam còn lại vào 3 tổ.
+
+128
+00:19:00,320 --> 00:19:14,280
+Vậy thì bây giờ tương tự như chúng ta làm ở không gian mẫu, vậy thì bây giờ đưa 6 bạn nam vào 3 tổ thì thầy sẽ lấy ra 2 bạn để đưa vào tổ 1 trước, thầy sẽ có $C_6^2$ cách.
+
+129
+00:19:14,280 --> 00:19:23,240
+Thầy lấy 2 bạn từ 4 bạn còn lại đưa vào tổ 2 sẽ có $C_4^2$ cách và 2 bạn cuối cùng đưa vào tổ 3 sẽ có $C_2^2$ cách.
+
+130
+00:19:23,240 --> 00:19:25,080
+Chúng ta nhân lại.
+
+131
+00:19:25,080 --> 00:19:31,960
+Vậy thì tóm lại theo quy tắc nhân thì số phần tử của biến cố E ta sẽ lấy $3!
+
+132
+00:19:31,960 --> 00:19:36,720
+\times C_6^2 \times C_4^2 \times C_2^2$ và bằng 540.
+
+133
+00:19:37,760 --> 00:19:47,120
+Từ đây thầy dễ dàng tính được xác suất của biến cố E là ta lấy 540 chia cho 1.680 và bằng 9 phần 28.
+
+134
+00:19:48,040 --> 00:19:50,440
+Kết thúc ví dụ số 5.
+
+135
+00:19:50,440 --> 00:20:02,120
+Thì trên đây là toàn bộ các bài tập liên quan đến xác suất, hy vọng trong chuyên đề này đã giúp các em phần nào ôn tập lại được cách làm cũng như là cách giải quyết một số cái bài toán về xác suất ở lớp 11.
+
+136
+00:20:03,040 --> 00:20:05,600
+Chúc các em có một kỳ thi thật tốt.
+
+137
+00:20:05,600 --> 00:20:07,840
+Xin chào tạm biệt các em.

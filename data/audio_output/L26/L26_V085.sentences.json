@@ -1,0 +1,737 @@
+{
+  "video_id": "L26_V085",
+  "fps": 25.0,
+  "n_sentences": 45,
+  "total_words": 942,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày: canh cá minh thái xì soup, hài vị ngọt, thơm thanh. Chào quý vị khán giả đang xem chương trình Món ngon mỗi ngày nấu chuẩn.",
+      "start": 10.52,
+      "end": 41.16,
+      "n_words": 30,
+      "start_frame": 263,
+      "end_frame": 1029,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000346.webp",
+        "000392.webp",
+        "000393.webp",
+        "000436.webp",
+        "000480.webp",
+        "000500.webp",
+        "000553.webp",
+        "000606.webp",
+        "000621.webp",
+        "000671.webp",
+        "000721.webp",
+        "000722.webp",
+        "000812.webp",
+        "000902.webp",
+        "000903.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Aziro Moto Việt Nam.",
+      "start": 41.16,
+      "end": 45.72,
+      "n_words": 12,
+      "start_frame": 1029,
+      "end_frame": 1143,
+      "keyframes": [
+        "001098.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và thưa các bạn, món ăn hôm nay tôi sẽ giới thiệu đến các bạn là rất là lạ luôn và vô cùng lạ luôn.",
+      "start": 45.72,
+      "end": 51.84,
+      "n_words": 25,
+      "start_frame": 1143,
+      "end_frame": 1296,
+      "keyframes": [
+        "001293.webp",
+        "001294.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ đố em ha, cá này cá gì?",
+      "start": 51.84,
+      "end": 56.04,
+      "n_words": 9,
+      "start_frame": 1296,
+      "end_frame": 1401,
+      "keyframes": [
+        "001314.webp",
+        "001335.webp",
+        "001336.webp",
+        "001358.webp",
+        "001381.webp",
+        "001382.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Là cá luôn nha.",
+      "start": 56.04,
+      "end": 57.36,
+      "n_words": 4,
+      "start_frame": 1401,
+      "end_frame": 1434,
+      "keyframes": [
+        "001407.webp",
+        "001432.webp",
+        "001433.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thanh Phương hay xem phim Hàn Quốc lắm các bạn và biết đây là cá bạn mà biết đây là cá minh thái.",
+      "start": 57.36,
+      "end": 61.76,
+      "n_words": 23,
+      "start_frame": 1434,
+      "end_frame": 1544,
+      "keyframes": [
+        "001450.webp",
+        "001468.webp",
+        "001469.webp",
+        "001537.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Món cá mà người Hàn Quốc cực kỳ thích luôn, nhất là cá minh thái khô. Họ nấu canh.",
+      "start": 61.76,
+      "end": 65.92,
+      "n_words": 19,
+      "start_frame": 1544,
+      "end_frame": 1648,
+      "keyframes": [
+        "001605.webp",
+        "001606.webp",
+        "001629.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thưa các bạn, đây là cá minh thái khô ha, có bán nhiều ở những cửa hàng bán đồ thực phẩm của Hàn Quốc.",
+      "start": 66.16,
+      "end": 72.84,
+      "n_words": 24,
+      "start_frame": 1654,
+      "end_frame": 1821,
+      "keyframes": [
+        "001713.webp",
+        "001773.webp",
+        "001774.webp",
+        "001796.webp",
+        "001819.webp",
+        "001820.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cá này thì chúng ta mua về ngâm trong nước cho mềm, sau đó chúng ta xé ra có bề ngang khoảng 2 centimet như vậy là vừa.",
+      "start": 72.84,
+      "end": 81.04,
+      "n_words": 28,
+      "start_frame": 1821,
+      "end_frame": 2026,
+      "keyframes": [
+        "001889.webp",
+        "001959.webp",
+        "001960.webp",
+        "001992.webp",
+        "002025.webp",
+        "002026.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Kế tiếp thì rau củ thì cũng tùy theo sở thích của mình, nhưng mà thường thì người Hàn Quốc người ta sẽ hay dùng củ cải trắng nè.",
+      "start": 81.04,
+      "end": 89.04,
+      "n_words": 29,
+      "start_frame": 2026,
+      "end_frame": 2226,
+      "keyframes": [
+        "002026.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta cắt ra thành những khối vuông nha, và kế tiếp chúng ta có khoai tây và hành boaro.",
+      "start": 89.04,
+      "end": 95.2,
+      "n_words": 20,
+      "start_frame": 2226,
+      "end_frame": 2380,
+      "keyframes": [
+        "002252.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thì thôi thì bây giờ nhờ Thanh Phương là cắt hành boro đi và em cắt lát xéo như vậy nha, mỏng mỏng hơn ba ly thôi.",
+      "start": 95.2,
+      "end": 105.52,
+      "n_words": 27,
+      "start_frame": 2380,
+      "end_frame": 2638,
+      "keyframes": [
+        "002478.webp",
+        "002479.webp",
+        "002506.webp",
+        "002534.webp",
+        "002535.webp",
+        "002559.webp",
+        "002584.webp",
+        "002585.webp",
+        "002632.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Chúng ta sử dụng phần lá xanh của hành boro luôn nha các bạn.",
+      "start": 105.52,
+      "end": 111.64,
+      "n_words": 14,
+      "start_frame": 2638,
+      "end_frame": 2791,
+      "keyframes": [
+        "002679.webp",
+        "002680.webp",
+        "002737.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Củ cải trắng chúng ta sẽ cắt khối vuông có cạnh cũng khoảng cỡ 2 cm.",
+      "start": 111.64,
+      "end": 115.16,
+      "n_words": 16,
+      "start_frame": 2791,
+      "end_frame": 2879,
+      "keyframes": [
+        "002794.webp",
+        "002795.webp",
+        "002841.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hầu hết những cái món canh hoặc những cái món ăn Hàn Quốc thì sẽ món ăn Hàn Quốc thì sử dụng củ cải trắng rất là nhiều, thậm chí là họ còn làm củ cải trắng để muối kim chi nữa đấy ạ.",
+      "start": 115.56,
+      "end": 122.8,
+      "n_words": 44,
+      "start_frame": 2889,
+      "end_frame": 3070,
+      "keyframes": [
+        "002933.webp",
+        "002979.webp",
+        "002980.webp",
+        "003024.webp",
+        "003068.webp",
+        "003069.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và củ cải trắng thì khi nấu canh nó sẽ làm cho nước dùng ngọt hơn.",
+      "start": 122.8,
+      "end": 126.48,
+      "n_words": 16,
+      "start_frame": 3070,
+      "end_frame": 3162,
+      "keyframes": [
+        "003112.webp",
+        "003155.webp",
+        "003156.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Khoai tây chúng ta cũng cắt như vậy luôn.",
+      "start": 126.48,
+      "end": 131.08,
+      "n_words": 9,
+      "start_frame": 3162,
+      "end_frame": 3277,
+      "keyframes": [
+        "003218.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trong khoai tây có chứa vitamin C sẽ giúp cho chúng ta giải độc tố nè và tăng cường hệ miễn dịch cho cơ thể.",
+      "start": 131.08,
+      "end": 136.76,
+      "n_words": 25,
+      "start_frame": 3277,
+      "end_frame": 3419,
+      "keyframes": [
+        "003280.webp",
+        "003281.webp",
+        "003311.webp",
+        "003341.webp",
+        "003342.webp",
+        "003379.webp",
+        "003417.webp",
+        "003418.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Kế tiếp đây là quả trứng gà, rồi chúng ta cho vào đây rượu trắng các bạn khoảng một muỗng cà phê thôi.",
+      "start": 136.76,
+      "end": 144.0,
+      "n_words": 23,
+      "start_frame": 3419,
+      "end_frame": 3600,
+      "keyframes": [
+        "003445.webp",
+        "003473.webp",
+        "003474.webp",
+        "003501.webp",
+        "003528.webp",
+        "003529.webp",
+        "003569.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Chúng ta chỉ cần cho ít rượu trắng vào trong trứng để trứng không bị tanh.",
+      "start": 144.0,
+      "end": 148.96,
+      "n_words": 16,
+      "start_frame": 3600,
+      "end_frame": 3724,
+      "keyframes": [
+        "003610.webp",
+        "003611.webp",
+        "003650.webp",
+        "003689.webp",
+        "003690.webp",
+        "003723.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi bây giờ chúng ta sẽ tiến hành nấu canh thôi các bạn.",
+      "start": 148.96,
+      "end": 152.32,
+      "n_words": 13,
+      "start_frame": 3724,
+      "end_frame": 3808,
+      "keyframes": [
+        "003756.webp",
+        "003757.webp",
+        "003771.webp",
+        "003785.webp",
+        "003786.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Rồi chúng ta bắt lên một cái nồi thì đầu tiên chúng ta cho dầu mè, thêm tí xíu dầu ăn đi, rồi chúng ta cho tỏi vào thơm tắt lửa nha các bạn.",
+      "start": 152.32,
+      "end": 164.96,
+      "n_words": 34,
+      "start_frame": 3808,
+      "end_frame": 4124,
+      "keyframes": [
+        "003821.webp",
+        "003857.webp",
+        "003858.webp",
+        "003886.webp",
+        "003914.webp",
+        "003915.webp",
+        "003945.webp",
+        "003976.webp",
+        "003977.webp",
+        "004007.webp",
+        "004037.webp",
+        "004038.webp",
+        "004063.webp",
+        "004089.webp",
+        "004090.webp",
+        "004106.webp",
+        "004123.webp",
+        "004124.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Cho cá vào chúng ta sóc đều, chúng ta nêm vào đây một muỗng canh nước tương phú sĩ.",
+      "start": 164.96,
+      "end": 169.68,
+      "n_words": 19,
+      "start_frame": 4124,
+      "end_frame": 4242,
+      "keyframes": [
+        "004124.webp",
+        "004158.webp",
+        "004193.webp",
+        "004194.webp",
+        "004218.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta trộn đều lên để cho món canh chúng ta được thơm hơn, ngon hơn.",
+      "start": 169.68,
+      "end": 174.4,
+      "n_words": 16,
+      "start_frame": 4242,
+      "end_frame": 4360,
+      "keyframes": [
+        "004243.webp",
+        "004244.webp",
+        "004267.webp",
+        "004291.webp",
+        "004292.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Lưu ý chúng ta nhớ sơ cá minh thái trước nha các bạn.",
+      "start": 174.4,
+      "end": 177.4,
+      "n_words": 13,
+      "start_frame": 4360,
+      "end_frame": 4435,
+      "keyframes": [
+        "004361.webp",
+        "004430.webp",
+        "004431.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đây bây giờ mình nổi lửa lên lại, chúng ta sẽ cho vào đây nước ngâm cá và nước lọc, khoảng hai cái cộng lại khoảng 1.5 lít nước.",
+      "start": 177.4,
+      "end": 185.04,
+      "n_words": 29,
+      "start_frame": 4435,
+      "end_frame": 4626,
+      "keyframes": [
+        "004456.webp",
+        "004481.webp",
+        "004482.webp",
+        "004525.webp",
+        "004568.webp",
+        "004569.webp",
+        "004597.webp",
+        "004625.webp",
+        "004626.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cho vào đây một muỗng canh hạt nêm Knorr heo, khoảng một muỗng cà phê muối, cho củ cải trắng và khoai tây vào.",
+      "start": 185.04,
+      "end": 192.88,
+      "n_words": 24,
+      "start_frame": 4626,
+      "end_frame": 4822,
+      "keyframes": [
+        "004626.webp",
+        "004668.webp",
+        "004711.webp",
+        "004712.webp",
+        "004738.webp",
+        "004764.webp",
+        "004765.webp",
+        "004792.webp",
+        "004820.webp",
+        "004821.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Bây giờ chúng ta cho đậu hũ vào, chúng ta cắt thả vô như vậy nó không bị bể nát ha.",
+      "start": 192.88,
+      "end": 200.76,
+      "n_words": 21,
+      "start_frame": 4822,
+      "end_frame": 5019,
+      "keyframes": [
+        "004861.webp",
+        "004902.webp",
+        "004903.webp",
+        "004934.webp",
+        "004966.webp",
+        "004967.webp",
+        "004998.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Món ăn này không chỉ là thơm ngon mà còn rất là bổ dưỡng nữa.",
+      "start": 200.76,
+      "end": 203.68,
+      "n_words": 15,
+      "start_frame": 5019,
+      "end_frame": 5092,
+      "keyframes": [
+        "005029.webp",
+        "005030.webp",
+        "005059.webp",
+        "005089.webp",
+        "005090.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Trong cá minh thái còn có chứa DHA và vitamin B6 rất là tốt cho phụ nữ mang thai.",
+      "start": 203.68,
+      "end": 209.4,
+      "n_words": 19,
+      "start_frame": 5092,
+      "end_frame": 5235,
+      "keyframes": [
+        "005157.webp",
+        "005225.webp",
+        "005226.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta để nước không có được sôi quá nha các bạn.",
+      "start": 209.4,
+      "end": 212.96,
+      "n_words": 12,
+      "start_frame": 5235,
+      "end_frame": 5324,
+      "keyframes": [
+        "005261.webp",
+        "005296.webp",
+        "005297.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Quá trình này chúng ta cho giá vào đi, chúng ta tắt lửa rồi và chúng ta cho hành boa rô vào luôn.",
+      "start": 213.16,
+      "end": 221.0,
+      "n_words": 23,
+      "start_frame": 5329,
+      "end_frame": 5525,
+      "keyframes": [
+        "005333.webp",
+        "005370.webp",
+        "005371.webp",
+        "005413.webp",
+        "005455.webp",
+        "005456.webp",
+        "005490.webp",
+        "005525.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Nước đã hết sôi nha các bạn, bây giờ chúng ta sẽ cho trứng vào, chúng ta khuấy đều, khuấy tròn như vậy.",
+      "start": 221.0,
+      "end": 228.36,
+      "n_words": 23,
+      "start_frame": 5525,
+      "end_frame": 5709,
+      "keyframes": [
+        "005525.webp",
+        "005526.webp",
+        "005598.webp",
+        "005671.webp",
+        "005672.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta không để nước quá sôi chúng ta mới cho trứng vào, như vậy thì chúng ta mới tạo được vân trứng đẹp mắt.",
+      "start": 228.36,
+      "end": 234.76,
+      "n_words": 25,
+      "start_frame": 5709,
+      "end_frame": 5869,
+      "keyframes": [
+        "005717.webp",
+        "005763.webp",
+        "005764.webp",
+        "005816.webp",
+        "005869.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và với món canh thanh mát này chúng ta có thể xem lại công thức bằng cách là quét mã QR đang hiển thị trên màn hình.",
+      "start": 234.76,
+      "end": 242.12,
+      "n_words": 27,
+      "start_frame": 5869,
+      "end_frame": 6053,
+      "keyframes": [
+        "005869.webp",
+        "005870.webp",
+        "005938.webp",
+        "006006.webp",
+        "006007.webp",
+        "006031.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ thì chúng ta chỉ cần múc canh ra tô thôi, rất là thơm luôn các bạn ạ.",
+      "start": 242.12,
+      "end": 247.08,
+      "n_words": 19,
+      "start_frame": 6053,
+      "end_frame": 6177,
+      "keyframes": [
+        "006056.webp",
+        "006057.webp",
+        "006071.webp",
+        "006086.webp",
+        "006087.webp",
+        "006114.webp",
+        "006142.webp",
+        "006143.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Và nước dùng mình thấy rất là trong, thanh mát vô cùng luôn đó.",
+      "start": 247.08,
+      "end": 253.2,
+      "n_words": 14,
+      "start_frame": 6177,
+      "end_frame": 6330,
+      "keyframes": [
+        "006183.webp",
+        "006223.webp",
+        "006224.webp",
+        "006275.webp",
+        "006327.webp",
+        "006328.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta thả trên đây một vài miếng ớt cho xanh đỏ ha.",
+      "start": 253.88,
+      "end": 259.16,
+      "n_words": 13,
+      "start_frame": 6347,
+      "end_frame": 6479,
+      "keyframes": [
+        "006366.webp",
+        "006405.webp",
+        "006406.webp",
+        "006432.webp",
+        "006458.webp",
+        "006459.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thế là xong các bạn, wow, một món ăn rất là thơm ngon, cực kỳ hấp dẫn và rất là thanh mát.",
+      "start": 259.16,
+      "end": 264.64,
+      "n_words": 22,
+      "start_frame": 6479,
+      "end_frame": 6616,
+      "keyframes": [
+        "006485.webp",
+        "006512.webp",
+        "006513.webp",
+        "006590.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Món này thì ăn kèm với những món nào vậy anh?",
+      "start": 264.64,
+      "end": 266.8,
+      "n_words": 11,
+      "start_frame": 6616,
+      "end_frame": 6670,
+      "keyframes": [
+        "006668.webp",
+        "006669.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thưa các bạn, đối với món ăn này thì chúng ta kết hợp cùng với lại món ba loại rim chế cạnh và khoai tây xào thạch coi, như vậy chúng ta có ngay một bữa ăn rất là Hàn Quốc và rất là chuẩn bài luôn.",
+      "start": 266.8,
+      "end": 277.76,
+      "n_words": 47,
+      "start_frame": 6670,
+      "end_frame": 6944,
+      "keyframes": [
+        "006802.webp",
+        "006936.webp",
+        "006937.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thịt cá minh thái ngọt mềm, nước canh thanh mát, ăn cùng khoai tây và rau củ, mùi thơm mùi hành poaro cực ấm bụng trong những ngày mưa lạnh.",
+      "start": 277.76,
+      "end": 288.44,
+      "n_words": 30,
+      "start_frame": 6944,
+      "end_frame": 7211,
+      "keyframes": [
+        "007004.webp",
+        "007072.webp",
+        "007073.webp",
+        "007143.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Canh cá minh thái rất đáng để thử, các bạn hãy thực hiện ngay nhé.",
+      "start": 288.44,
+      "end": 292.12,
+      "n_words": 15,
+      "start_frame": 7211,
+      "end_frame": 7303,
+      "keyframes": [
+        "007213.webp",
+        "007214.webp",
+        "007259.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ngoài ra các bạn có thể truy cập vào kênh YouTube, website và fanpage của chương trình Món ngon mỗi ngày để tìm hiểu về công thức của các món ăn ngon.",
+      "start": 292.12,
+      "end": 299.0,
+      "n_words": 32,
+      "start_frame": 7303,
+      "end_frame": 7475,
+      "keyframes": [
+        "007305.webp",
+        "007306.webp",
+        "007428.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Còn bây giờ xin được mến chào tạm biệt và hẹn gặp lại.",
+      "start": 299.0,
+      "end": 302.52,
+      "n_words": 13,
+      "start_frame": 7475,
+      "end_frame": 7563,
+      "keyframes": [
+        "007551.webp",
+        "007552.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

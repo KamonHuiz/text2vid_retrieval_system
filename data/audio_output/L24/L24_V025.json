@@ -1,0 +1,19 @@
+{
+  "unfiltered": {
+    "text": "đây đức là của thủ đức thủ đức thủ đức",
+    "word_count": 10
+  },
+  "flagged": {
+    "text": "đây đức là của thủ đức thủ đức thủ đức",
+    "word_count": 10
+  },
+  "refined": {
+    "text": "Đây là của Thủ Đức.",
+    "word_count": 5,
+    "source": "flagged"
+  },
+  "proofread": {
+    "text": "Đây là của Thủ Đức.",
+    "word_count": 5
+  }
+}

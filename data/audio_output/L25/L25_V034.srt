@@ -1,0 +1,687 @@
+1
+00:00:07,520 --> 00:00:13,200
+Xin chào tất cả các em, thầy rất vui được gặp lại các em trong chương trình ôn tập do Bảo Hành Niên tổ chức.
+
+2
+00:00:13,200 --> 00:00:15,840
+Hôm nay chúng ta sẽ tiếp tục với chuyên đề số 7.
+
+3
+00:00:15,840 --> 00:00:24,680
+Ở trong chuyên đề này, thầy trò chúng ta sẽ cùng nhau ôn tập lại một số các dạng toán liên quan đến ba khối tròn xoay cơ bản là nón, trụ và cầu.
+
+4
+00:00:24,680 --> 00:00:27,080
+Thầy trò chúng ta cùng nhau đi vào bài học.
+
+5
+00:00:27,080 --> 00:00:38,000
+Trường Đại học Quốc tế Sài Gòn (SIU) không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SIU nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt.
+
+6
+00:00:38,000 --> 00:00:48,760
+SIU mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới, trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.
+
+7
+00:00:48,760 --> 00:00:57,360
+Năm 2024, SIU tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng bốn phương thức tuyển sinh.
+
+8
+00:00:57,360 --> 00:01:23,880
+SIU cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SIU, 100 suất học bổng "Tiếp bước hành trình quỹ tài năng trẻ", học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa, thể thao, nghệ thuật; Học bổng đồng hành xây dựng nhân lực chất lượng cao cho Thành phố Thủ Đức, Thành phố Hồ Chí Minh; Học bổng doanh nghiệp tài trợ; Học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.
+
+9
+00:01:23,880 --> 00:01:27,440
+"SIU - Tâm hồn Việt Nam, giáo dục thế giới".
+
+10
+00:01:27,440 --> 00:01:35,840
+Đầu tiên, chúng ta sẽ cùng nhau ôn tập lại một số công thức liên quan đến thể tích cũng như là diện tích xung quanh của ba khối nón, trụ và cầu.
+
+11
+00:01:35,840 --> 00:01:38,680
+Đầu tiên, chúng ta sẽ nói về khối nón.
+
+12
+00:01:38,680 --> 00:01:48,720
+Chúng ta xét một cái khối nón thì nó sẽ có ba cái đại lượng đặc trưng đó chính là chiều cao h, đường sinh l và bán kính đáy r.
+
+13
+00:01:48,720 --> 00:01:55,080
+Lúc này, công thức tính diện tích xung quanh của hình nón là $\pi r l$.
+
+14
+00:01:55,080 --> 00:02:04,840
+Công thức tính diện tích toàn phần của hình nón sẽ bằng diện tích xung quanh cộng cho diện tích đáy bằng $\pi r l + \pi r^2$.
+
+15
+00:02:04,840 --> 00:02:10,360
+Công thức tính thể tích khối nón $V = \frac{1}{3}$ diện tích đáy nhân chiều cao.
+
+16
+00:02:10,360 --> 00:02:13,160
+Thể tích khối nón bằng $\frac{1}{3} \pi r^2 h$.
+
+17
+00:02:15,320 --> 00:02:18,160
+Tiếp theo, chúng ta sẽ nói đến khối trụ.
+
+18
+00:02:18,480 --> 00:02:22,760
+Một khối trụ thì nó sẽ có chiều cao h và bán kính đáy r.
+
+19
+00:02:24,000 --> 00:02:29,920
+Lúc này, công thức tính diện tích xung quanh của khối trụ là $2 \pi r h$.
+
+20
+00:02:29,920 --> 00:02:44,560
+Công thức tính diện tích toàn phần sẽ bằng $S_{\text{xung quanh}}$ cộng cho diện tích hai đáy; Mà hai đáy chúng ta thấy là hình tròn do đó công thức diện tích toàn phần sẽ bằng $2 \pi r h + 2 \pi r^2$.
+
+21
+00:02:44,560 --> 00:02:52,560
+Cuối cùng, công thức tính thể tích khối trụ bằng diện tích đáy nhân với chiều cao bằng $\pi r^2 h$.
+
+22
+00:02:52,560 --> 00:02:55,160
+Cuối cùng, chúng ta sẽ đến nói về khối cầu.
+
+23
+00:02:57,600 --> 00:03:00,680
+Một khối cầu sẽ có bán kính r.
+
+24
+00:03:00,680 --> 00:03:04,720
+Công thức tính diện tích mặt cầu $S = 4 \pi r^2$.
+
+25
+00:03:06,480 --> 00:03:09,040
+Thể tích khối cầu $V = \frac{4}{3} \pi r^3$.
+
+26
+00:03:10,480 --> 00:03:17,280
+Thì trên đây là một số công thức giúp các em ôn tập lại để làm được một số cái bài toán liên quan đến khối tròn xoay.
+
+27
+00:03:17,280 --> 00:03:21,560
+Bây giờ chúng ta sẽ cùng nhau giải quyết một số cái ví dụ sau đây.
+
+28
+00:03:21,560 --> 00:03:23,800
+Chúng ta bắt đầu với ví dụ số 1.
+
+29
+00:03:23,800 --> 00:03:27,400
+Thì đây là một câu hỏi đã xuất hiện trong đề minh họa của Bộ Giáo dục năm 2022-2023.
+
+30
+00:03:30,360 --> 00:03:38,600
+Cho khối nón có đỉnh là S (ở đây thầy có minh họa bằng hình vẽ), chiều cao bằng 8 và có thể tích là $800 \pi / 3$.
+
+31
+00:03:39,400 --> 00:03:45,400
+Bây giờ gọi A, B là hai điểm nằm trên đường tròn đáy sao cho $AB = 12$.
+
+32
+00:03:46,800 --> 00:03:54,960
+Đề bài yêu cầu tính khoảng cách từ tâm O đến mặt phẳng (SAB).
+
+33
+00:03:54,960 --> 00:04:08,160
+Trước khi giải quyết cái bài toán này, chúng ta có thể thấy là từ việc mà chúng ta có thể tích là $800 \pi / 3$ và chiều cao $h = 8$, chúng ta có thể dễ dàng tính được r của khối nón.
+
+34
+00:04:08,160 --> 00:04:16,160
+Áp dụng công thức thể tích khối nón là $\frac{1}{3} \pi r^2 h$, chúng ta thay số vào và tính được $r = 10$.
+
+35
+00:04:17,880 --> 00:04:25,440
+Bây giờ thầy sẽ đi dựng khoảng cách từ O đến mặt phẳng (SAB).
+
+36
+00:04:25,440 --> 00:04:30,680
+Đầu tiên thầy sẽ kẻ OY vuông góc với AB.
+
+37
+00:04:32,640 --> 00:04:42,360
+Lúc này thầy sẽ kẻ OH vuông góc với SY thì lúc này khoảng cách từ O đến mặt phẳng (SAB) chính là độ dài của đoạn OH.
+
+38
+00:04:42,720 --> 00:04:52,800
+Thì đây cũng là một trong những bài toán dựng khoảng cách tương đối cơ bản, thì việc của chúng ta lúc này là sẽ đi tính độ dài của đoạn OH.
+
+39
+00:04:52,800 --> 00:05:04,400
+Bây giờ khi mà chúng ta kẻ OY vuông góc với AB thì thầy sẽ có ngay Y chính là trung điểm của AB và do đó $AY = \frac{1}{2} AB = 6$.
+
+40
+00:05:08,400 --> 00:05:11,080
+Lúc này thầy xét tam giác OYA.
+
+41
+00:05:13,200 --> 00:05:18,400
+Tam giác OYA này là một tam giác vuông tại Y, do đó $OY = \sqrt{OA^2 - AY^2}$.
+
+42
+00:05:21,000 --> 00:05:25,560
+Trong đó OA chính là bán kính r và bằng 10, AY bằng 6.
+
+43
+00:05:26,680 --> 00:05:28,760
+Từ đây ta dễ dàng tính được $OY = 8$.
+
+44
+00:05:29,880 --> 00:05:39,440
+Bây giờ với việc chúng ta đã có OY và có chiều cao SO, ta sẽ xét tam giác SOY vuông tại O và đường cao là OH.
+
+45
+00:05:39,440 --> 00:05:42,480
+Lúc này ta có hệ thức lượng: $\frac{1}{OH^2} = \frac{1}{SO^2} + \frac{1}{OY^2}$.
+
+46
+00:05:47,080 --> 00:05:52,680
+Ta thay số vào và tính được $OH^2 = 32$, suy ra $OH = 4\sqrt{2}$.
+
+47
+00:05:53,600 --> 00:05:58,440
+Từ đây ta có khoảng cách từ tâm của đường tròn đáy đến mặt phẳng (SAB) là bằng $4\sqrt{2}$.
+
+48
+00:05:59,120 --> 00:06:01,280
+Ta chọn đáp án C.
+
+49
+00:06:01,280 --> 00:06:04,240
+Chúng ta tiếp tục với ví dụ số 2.
+
+50
+00:06:04,240 --> 00:06:18,040
+Thì cái ví dụ số 2 này là một cái dạng toán đã xuất hiện trong đề thi Trung học phổ thông quốc gia năm ngoái có nội dung như sau: Một hình nón có góc ở đỉnh là 120 độ, bán kính đáy bằng $2\sqrt{3}$.
+
+51
+00:06:19,200 --> 00:06:30,240
+Bây giờ ta xét một cái mặt cầu S đi qua đỉnh của hình nón và chứa đường tròn đáy của hình nón (thầy có minh họa bằng hình vẽ).
+
+52
+00:06:30,240 --> 00:06:38,720
+Bây giờ đề bài yêu cầu tính thể tích của khối cầu S.
+
+53
+00:06:38,720 --> 00:06:45,280
+Chúng ta có thể thấy để tính được thể tích của khối cầu S thì chúng ta phải tìm được bán kính của nó.
+
+54
+00:06:45,640 --> 00:06:52,640
+Bán kính của khối cầu S chính là độ dài của đoạn OB cũng như là đoạn OS.
+
+55
+00:06:52,640 --> 00:07:00,520
+Bây giờ chúng ta thấy góc ở đỉnh của hình nón chính là góc BSA bằng 120 độ.
+
+56
+00:07:00,520 --> 00:07:09,840
+Do đó ta sẽ có góc BSO bằng một nửa của góc BSA và bằng 60 độ.
+
+57
+00:07:09,840 --> 00:07:21,640
+Lúc này ta có tam giác SOB bản chất là một tam giác cân và có một góc 60 độ nên tam giác SOB sẽ là tam giác đều.
+
+58
+00:07:21,640 --> 00:07:28,120
+Bây giờ đề bài cho bán kính đáy bằng $2\sqrt{3}$, tức là cho BY bằng $2\sqrt{3}$.
+
+59
+00:07:28,960 --> 00:07:32,600
+Vậy thì BY chính là đường cao của tam giác đều này.
+
+60
+00:07:32,600 --> 00:07:37,440
+Vậy thì khi mà có đường cao, chúng ta sẽ tìm được cạnh của tam giác đều một cách rất dễ dàng.
+
+61
+00:07:37,440 --> 00:07:47,120
+Cụ thể như sau: BY là đường cao tam giác đều nên nó sẽ bằng OS (tức là cạnh của tam giác đều) nhân cho $\sqrt{3}/2$.
+
+62
+00:07:48,480 --> 00:07:52,880
+Mà $BY = 2\sqrt{3}$, từ đây ta dễ dàng tính được $OS = 4$.
+
+63
+00:07:53,760 --> 00:07:57,920
+Và OS cũng chính là bán kính của mặt cầu S.
+
+64
+00:07:57,920 --> 00:08:07,960
+Áp dụng công thức tính thể tích của khối cầu S sẽ bằng $\frac{4}{3} \pi r^3$, chúng ta thay bằng 4 và kết quả chúng ta đạt được là $256 \pi / 3$.
+
+65
+00:08:09,280 --> 00:08:13,080
+Ta chọn đáp án A.
+
+66
+00:08:13,080 --> 00:08:23,680
+Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.
+
+67
+00:08:23,680 --> 00:08:31,360
+Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện, cân bằng giữa học thuật và nghệ thuật thể thao.
+
+68
+00:08:31,360 --> 00:08:42,000
+Hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, thêm nguồn cảm hứng độc lập để phát triển và hoàn thiện nhân cách.
+
+69
+00:08:42,000 --> 00:09:01,640
+Ngoài những giờ học trên lớp, học sinh Trường Quốc tế Á Châu còn được trải nghiệm thử thách bản thân và phản biện các vấn đề để tự mình học hỏi, trưởng thành độc lập hơn.
+
+70
+00:09:01,640 --> 00:09:17,560
+Nơi đây với tôi còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.
+
+71
+00:09:17,560 --> 00:09:22,680
+"Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là cuộc sống".
+
+72
+00:09:22,680 --> 00:09:36,200
+Từ môi trường giáo dục này, chúng tôi đã tự tin bước tiếp và viết nên câu chuyện tương lai của chính mình.
+
+73
+00:09:36,200 --> 00:09:38,960
+Tiếp theo, chúng ta sẽ đến với ví dụ số 3.
+
+74
+00:09:38,960 --> 00:09:42,240
+Đây là một ví dụ liên quan đến khối trụ.
+
+75
+00:09:42,240 --> 00:09:46,480
+Cho hình trụ có hai đáy là đường tròn tâm O và đường tròn tâm O'.
+
+76
+00:09:48,320 --> 00:10:03,040
+Bây giờ ta xét một cái dây cung AB thuộc đường tròn O sao cho tam giác O'AB là tam giác đều và mặt phẳng (O'AB) hợp với mặt phẳng chứa đường tròn O một góc 60 độ.
+
+77
+00:10:03,040 --> 00:10:07,600
+Đề bài yêu cầu tính diện tích xung quanh của khối trụ.
+
+78
+00:10:07,600 --> 00:10:16,680
+Bây giờ chúng ta sẽ cùng nhau đi phân tích để tìm ra hướng giải quyết của bài toán này.
+
+79
+00:10:16,680 --> 00:10:29,160
+Đầu tiên, đề bài cho góc giữa mặt phẳng (O'AB) và mặt phẳng đáy chứa đường tròn O là một góc 60 độ thì bắt buộc chúng ta phải dựng được cái góc này.
+
+80
+00:10:29,160 --> 00:10:35,800
+Để dựng góc thì chúng ta đầu tiên sẽ xác định giao tuyến của mặt phẳng (O'AB) với mặt phẳng đáy, thì nó chính là AB.
+
+81
+00:10:36,320 --> 00:10:42,920
+Vậy thì bắt buộc phải tìm được hai đường thẳng mà nó vuông góc với giao tuyến AB và nằm trong hai mặt phẳng đó.
+
+82
+00:10:43,240 --> 00:10:48,960
+Cách dựng như sau: Trong mặt phẳng chứa đường tròn O, thầy sẽ kẻ OY vuông góc với AB.
+
+83
+00:10:55,120 --> 00:11:00,720
+Lúc này O'Y cũng vuông góc với AB.
+
+84
+00:11:01,600 --> 00:11:05,080
+Do đó thầy sẽ có AB vuông góc với mặt phẳng (O'Y).
+
+85
+00:11:06,400 --> 00:11:10,080
+Từ đây ta suy ra được AB sẽ vuông góc với O'Y.
+
+86
+00:11:10,960 --> 00:11:14,960
+Vậy thì OY và O'Y chính là hai đường cùng vuông góc với giao tuyến AB.
+
+87
+00:11:15,560 --> 00:11:26,760
+Do đó góc giữa mặt phẳng (O'AB) và mặt phẳng đáy chứa đường tròn O là góc OYO', và góc này đề bài cho là 60 độ.
+
+88
+00:11:26,760 --> 00:11:33,000
+Ta giải quyết xong dữ kiện đầu tiên.
+
+89
+00:11:33,000 --> 00:11:39,120
+Bây giờ chúng ta sẽ cố gắng tính được chiều cao O' theo r.
+
+90
+00:11:39,120 --> 00:11:41,280
+Vậy thì bây giờ thầy sẽ đặt h là O'Y.
+
+91
+00:11:43,360 --> 00:11:50,520
+Bây giờ ta sẽ sử dụng cái góc 60 độ này thì dĩ nhiên $\tan(60^\circ)$ sẽ bằng $O'Y / OY$.
+
+92
+00:11:52,080 --> 00:11:59,400
+Từ đây thầy sẽ tính được $OY = O'Y / \tan(60^\circ)$ và $OY = h / \sqrt{3}$.
+
+93
+00:12:00,280 --> 00:12:03,040
+Vậy là thầy đã tính được OY theo h.
+
+94
+00:12:03,040 --> 00:12:07,360
+Bây giờ thầy sẽ cố gắng tính được AY theo h.
+
+95
+00:12:07,360 --> 00:12:15,800
+Bây giờ ta tiếp tục dùng cái góc 60 độ này và ta sẽ dùng $\sin(60^\circ)$ thì $\sin(60^\circ) = O'Y / O'Y$?
+
+96
+00:12:15,800 --> 00:12:16,720
+(đoạn này ASR lỗi).
+
+97
+00:12:16,720 --> 00:12:16,720
+Ý thầy là dùng $\sin(60^\circ) = O'Y / O'Y$ (sai), thực tế là $\sin(60^\circ) = O'Y / O'Y$ không đúng, mà là $O'Y$ chia cho cạnh huyền.
+
+98
+00:12:30,720 --> 00:12:42,000
+Bây giờ ta xét tam giác O'AB đề cho là tam giác đều và chúng ta đã có chiều cao của nó là O'Y, và dĩ nhiên chiều cao tam giác đều sẽ bằng cạnh $AB \times \sqrt{3} / 2$.
+
+99
+00:12:43,680 --> 00:12:49,920
+Từ đây thầy sẽ tính được AB theo h bằng cách lấy $O'Y \times 2 / \sqrt{3}$.
+
+100
+00:12:49,920 --> 00:12:54,640
+O'Y chúng ta đã tính ở trên và ta được $AB = 4/3 h$.
+
+101
+00:12:57,040 --> 00:13:01,160
+Vì $AB = 4/3 h$ cho nên $AY = \frac{1}{2} AB = 2/3 h$.
+
+102
+00:13:04,160 --> 00:13:09,960
+Vậy thầy đã có được OY theo h, AY theo h.
+
+103
+00:13:09,960 --> 00:13:22,440
+Bây giờ thầy sẽ xét tam giác OYA là tam giác vuông tại Y và dùng định lý Pythagoras, thầy sẽ tính được h theo r cụ thể như sau: $AY^2 + OY^2 = OA^2$.
+
+104
+00:13:22,440 --> 00:13:28,320
+$OA^2$ tức là $r^2$.
+
+105
+00:13:30,320 --> 00:13:34,680
+Thay số vào, AY là $2/3 h$, OY là $h / \sqrt{3}$.
+
+106
+00:13:38,960 --> 00:13:42,160
+Từ đây thầy dễ dàng giải ra được $7/9 h^2 = r^2$.
+
+107
+00:13:44,400 --> 00:13:47,160
+Từ đây ta có $h = 3r / \sqrt{7}$.
+
+108
+00:13:49,000 --> 00:13:57,080
+Áp dụng công thức tính diện tích xung quanh của hình trụ $2 \pi r h$, ta giữ nguyên r, ta thay h bằng $3r / \sqrt{7}$.
+
+109
+00:13:57,680 --> 00:14:02,200
+Từ đây thầy tính được $S_{\text{xung quanh}} = 6 \pi r^2 \sqrt{7} / 7$.
+
+110
+00:14:03,440 --> 00:14:05,800
+Ta chọn đáp án D.
+
+111
+00:14:05,800 --> 00:14:08,480
+Tiếp theo ta sẽ đến với ví dụ số 4.
+
+112
+00:14:08,480 --> 00:14:14,960
+Thì ví dụ này là một cái ví dụ liên quan đến mặt cầu và mặt trụ.
+
+113
+00:14:14,960 --> 00:14:31,160
+Bây giờ ta xét một cái mặt cầu S có bán kính bằng 4 (ở đây thầy có minh họa bằng hình vẽ) và bây giờ có một cái hình trụ H có chiều cao cũng bằng 4 và hai đường tròn đáy nằm trên mặt cầu S.
+
+114
+00:14:32,280 --> 00:14:38,000
+Nói cách khác, cái hình trụ này là nội tiếp trong cái khối cầu S.
+
+115
+00:14:38,000 --> 00:14:44,360
+Bây giờ đặt $V_1$ là thể tích của khối trụ H và $V_2$ là thể tích của khối cầu S.
+
+116
+00:14:44,360 --> 00:14:46,360
+Yêu cầu tính tỷ số $V_1 / V_2$.
+
+117
+00:14:48,720 --> 00:14:59,440
+Đầu tiên, với việc cho khối cầu S có bán kính $R = 4$ thì chắc chắn chúng ta sẽ tính được thể tích của khối cầu này là $\frac{4}{3} \pi R^3$ và bằng $256 \pi / 3$.
+
+118
+00:15:01,400 --> 00:15:04,240
+Bây giờ ta cần tính được thể tích của khối trụ H.
+
+119
+00:15:04,240 --> 00:15:11,320
+Khối trụ H này đã có chiều cao là 4, vậy thì chúng ta cần tính bán kính đáy của nó, đặt là r.
+
+120
+00:15:12,080 --> 00:15:23,920
+Minh họa như hình dưới đây, bây giờ ta gọi O và O' chính là tâm của hai cái đường tròn đáy hình trụ, O là tâm của mặt cầu S.
+
+121
+00:15:23,920 --> 00:15:26,400
+Cho chiều cao bằng 4, tức là $OO' = 4$.
+
+122
+00:15:27,800 --> 00:15:34,760
+Từ đây vì Y là trung điểm của OO' do đó độ dài của đoạn YO là bằng 2.
+
+123
+00:15:34,760 --> 00:15:48,880
+Và ngay lúc này chúng ta có thể nhìn ra được cái cách làm của bài toán này rất đơn giản, chúng ta sẽ áp dụng định lý Pythagoras trong tam giác vuông YOA, ta sẽ có $r = OA = \sqrt{R^2 - YO^2}$.
+
+124
+00:15:48,880 --> 00:15:58,160
+$R = 4$, $YO = 2$, ta tính được $r = 2\sqrt{3}$.
+
+125
+00:16:00,360 --> 00:16:04,840
+Vậy thì suy ra thể tích của hình trụ $V_1 = \pi r^2 h$.
+
+126
+00:16:05,440 --> 00:16:10,400
+Trong đó $r = 2\sqrt{3}, h = 4$, ta tính được $V_1 = 48 \pi$.
+
+127
+00:16:11,760 --> 00:16:15,000
+Từ đây ta sẽ có tỷ số $V_1 / V_2 = 9 / 16$.
+
+128
+00:16:16,240 --> 00:16:18,800
+Ta chọn đáp án A.
+
+129
+00:16:18,800 --> 00:16:21,240
+Tiếp theo ta đến với ví dụ số 5.
+
+130
+00:16:21,240 --> 00:16:29,600
+Thì đây là một cái dạng toán mới vừa xuất hiện trong đề minh họa năm 2024 và là một cái bài toán có ứng dụng thực tế.
+
+131
+00:16:29,600 --> 00:16:39,720
+Cụ thể như sau: Bây giờ chúng ta sẽ có một cái chi tiết máy như thế này được sản xuất từ một cái khối thép hình trụ có bán kính bằng 10, chiều cao là 30.
+
+132
+00:16:40,120 --> 00:16:53,720
+Bây giờ người ta mới khoét một cái rãnh rộng 1 cm và sâu 1 cm (thầy có minh họa bằng hình vẽ, ở đây chúng ta thấy đây chính là cái phần bị khoét, chính là cái phần ở giữa này).
+
+133
+00:16:53,720 --> 00:16:59,800
+Yêu cầu là tính thể tích của cái chi tiết máy này và làm tròn kết quả đến hàng phần mười.
+
+134
+00:16:59,800 --> 00:17:06,080
+Thì thật ra đây là một câu hỏi không khó, chúng ta chỉ cần bình tĩnh và giải quyết nó.
+
+135
+00:17:06,080 --> 00:17:16,080
+Bây giờ chúng ta thấy cái chi tiết máy này thì nó sẽ gồm ba cái hình trụ là hai hình trụ lớn và một cái hình trụ nhỏ.
+
+136
+00:17:16,080 --> 00:17:37,520
+Bây giờ cách giải quyết của thầy là thầy sẽ tính cái thể tích của nguyên một cái hình trụ lớn, rồi sau đó thầy sẽ tính cái thể tích của phần bị khoét bỏ và lấy hai kết quả đó trừ với nhau thì ta sẽ ra kết quả của bài toán.
+
+137
+00:17:37,520 --> 00:17:52,880
+Vậy thì đầu tiên, thể tích của khối thép hình trụ khi chưa bị khoét, tức là nguyên một cái khối trụ lớn thì bán kính bằng 10, chiều cao là 30, ta dễ dàng tính được $V = \pi \times 10^2 \times 30 = 3000 \pi \text{ cm}^3$.
+
+138
+00:17:56,440 --> 00:17:58,920
+Bây giờ thầy sẽ đi tính cái phần bị khoét.
+
+139
+00:17:58,920 --> 00:18:16,240
+Thì cái phần bị khoét này chúng ta có thể dễ thấy nó chính là bằng cái thể tích của cái hình trụ màu xanh lá (thầy có tô màu) trừ cho thể tích của cái hình trụ màu đỏ thì chúng ta sẽ ra được cái phần mà chúng ta đã khoét đi.
+
+140
+00:18:16,240 --> 00:18:17,560
+Các em có thể hình dung.
+
+141
+00:18:18,800 --> 00:18:38,400
+Vậy thì bây giờ cái thể tích của phần hình trụ màu xanh lá, ngay chỗ này nó sẽ có bán kính bằng 10 và chiều cao bằng 1 theo như đề bài cho, và do đó chúng ta sẽ có $\pi \times 10^2 \times 1$.
+
+142
+00:18:40,520 --> 00:19:02,280
+Thể tích của cái hình trụ màu đỏ ở trong thì khối trụ màu đỏ ở trong nó sẽ có bán kính là: chúng ta sẽ lấy bán kính của hình trụ lớn là 10, trừ đi cái phần mà chúng ta khoét vô 1 cm, vậy thì có phải là cái bán kính của cái hình trụ màu đỏ này chính là 9 cm, chiều cao cũng là 1.
+
+143
+00:19:02,280 --> 00:19:09,960
+Ta lấy thể tích của khối màu xanh lá trừ cho thể tích khối đỏ là bằng $19 \pi$, chính là cái phần bị khoét.
+
+144
+00:19:09,960 --> 00:19:23,000
+Vậy thì cái thể tích của chi tiết máy sau khi bị khoét là chúng ta sẽ lấy $V_1 - V_2$, ta được $2981 \pi$ và gần bằng $9365.08 \text{ cm}^3$.
+
+145
+00:19:25,920 --> 00:19:27,160
+Ta chọn đáp án C.
+
+146
+00:19:27,160 --> 00:19:42,000
+Thì đây là một cách giải quyết của bài toán này, ngoài ra các em có thể làm theo cách khác, các em có thể tính thể tích của ba khối trụ này mà chúng ta cộng lại thì chúng ta vẫn ra được kết quả là đáp án C, các em có thể tự làm ở nhà.
+
+147
+00:19:42,000 --> 00:19:54,960
+Để có được thành công như hôm nay, tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình bắt đầu từ Trường Đại học Quốc tế Sài Gòn (SIU).
+
+148
+00:19:54,960 --> 00:20:01,760
+Đào tạo đa dạng đa lĩnh vực, SIU mở ra cho chúng tôi nhiều cơ hội lựa chọn nghề nghiệp trong tương lai.
+
+149
+00:20:01,760 --> 00:20:05,760
+Tất cả sinh viên đều có cơ hội để thể hiện và phát triển năng lực.
+
+150
+00:20:05,760 --> 00:20:09,000
+Những ý tưởng luôn được khuyến khích và phát huy tối đa.
+
+151
+00:20:09,000 --> 00:20:15,120
+Chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin; Chúng tôi được học cách học, cách nghĩ và cách sống.
+
+152
+00:20:15,120 --> 00:20:22,280
+Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.
+
+153
+00:20:22,280 --> 00:20:32,880
+Hiện đại, năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc, đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn (SIU) luôn hướng đến.
+
+154
+00:20:32,880 --> 00:20:40,600
+Đã đến lúc vươn xa hơn những gì đã học.
+
+155
+00:20:40,600 --> 00:20:46,880
+Chúng ta đến với ví dụ cuối cùng, thì ở đây cũng là một cái bài toán mang hơi hướng thực tế.
+
+156
+00:20:46,880 --> 00:20:53,760
+Cụ thể như sau: Bây giờ chúng ta sẽ có một cái phễu của một máy chiết rót chất lỏng.
+
+157
+00:20:53,760 --> 00:21:00,360
+Thì cái phễu này gồm một cái hình trụ và một cái hình nón ở phía dưới có chung đáy.
+
+158
+00:21:00,360 --> 00:21:05,920
+Bây giờ đường kính đáy của hình trụ là 40, chiều cao của cả phễu là 39.
+
+159
+00:21:07,840 --> 00:21:15,680
+Biết rằng khi rót chất lỏng được 30 lít (30 lít tức là khoảng 30.000 $\text{cm}^3$) thì phễu đầy.
+
+160
+00:21:15,680 --> 00:21:23,160
+Hỏi chiều cao của khối trụ gần với giá trị nào sau đây?
+
+161
+00:21:23,160 --> 00:21:28,960
+Bây giờ đầu tiên chúng ta sẽ gọi h chính là chiều cao của khối trụ.
+
+162
+00:21:28,960 --> 00:21:35,240
+Bây giờ chúng ta sẽ cố gắng thiết lập một cái phương trình theo h để chúng ta giải ra h.
+
+163
+00:21:35,240 --> 00:21:47,880
+Vậy thì nếu chúng ta gọi h là chiều cao của hình trụ thì lúc này cái chiều cao của hình nón (cái phần màu vàng này) chính là bằng $39 - h$ bởi vì người ta cho chiều cao của cả phễu là 39.
+
+164
+00:21:50,640 --> 00:21:57,200
+Bây giờ chúng ta sẽ tính cái thể tích của cái hình trụ theo h và thể tích của hình nón theo h.
+
+165
+00:21:57,200 --> 00:22:02,880
+Vậy thì thể tích của khối trụ là bằng $\pi r^2 h$; Đường kính đáy là 40 vậy thì bán kính là 20.
+
+166
+00:22:04,120 --> 00:22:11,320
+Thể tích của khối nón là $\frac{1}{3} \pi r^2$ nhân h (chiều cao của khối nón), mà chiều cao của khối nón chính là $39 - h$.
+
+167
+00:22:12,000 --> 00:22:20,440
+Ở đây ta thay vào ta có $V_1 + V_2$ chính là thể tích phễu, và thể tích phễu người ta đã cho là 30.000 $\text{cm}^3$.
+
+168
+00:22:22,920 --> 00:22:29,920
+Ta thay vào ta sẽ có được một cái phương trình theo h, từ đây ta giải ra được $h \approx 16.31$.
+
+169
+00:22:31,600 --> 00:22:34,000
+Ta chọn đáp án B.
+
+170
+00:22:34,000 --> 00:22:44,240
+Thì trên đây là các ví dụ để giúp các em hiểu rõ hơn về các bài toán liên quan đến khối tròn xoay cũng như là một số cái bài toán thực tế liên quan về khối tròn xoay.
+
+171
+00:22:44,240 --> 00:22:46,560
+Hẹn gặp lại các em ở các chuyên đề tiếp theo.
+
+172
+00:22:46,560 --> 00:22:48,800
+Xin chào tạm biệt các em.

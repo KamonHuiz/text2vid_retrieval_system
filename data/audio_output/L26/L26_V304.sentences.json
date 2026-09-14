@@ -1,0 +1,829 @@
+{
+  "video_id": "L26_V304",
+  "fps": 25.0,
+  "n_sentences": 50,
+  "total_words": 1021,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.52,
+      "end": 11.96,
+      "n_words": 4,
+      "start_frame": 263,
+      "end_frame": 299,
+      "keyframes": [
+        "000299.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Em chào anh Vũ ơi.",
+      "start": 11.96,
+      "end": 13.48,
+      "n_words": 5,
+      "start_frame": 299,
+      "end_frame": 337,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000327.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chào Thanh Phương!",
+      "start": 13.48,
+      "end": 14.24,
+      "n_words": 3,
+      "start_frame": 337,
+      "end_frame": 356,
+      "keyframes": [
+        "000354.webp",
+        "000355.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Trời ơi sao mà dạo này nóng quá anh ơi.",
+      "start": 14.24,
+      "end": 16.32,
+      "n_words": 10,
+      "start_frame": 356,
+      "end_frame": 408,
+      "keyframes": [
+        "000382.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Dạo này anh không thấy em hình như mập ra phải?",
+      "start": 16.32,
+      "end": 18.68,
+      "n_words": 11,
+      "start_frame": 408,
+      "end_frame": 467,
+      "keyframes": [
+        "000410.webp",
+        "000411.webp",
+        "000436.webp",
+        "000462.webp",
+        "000463.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ủa vậy hả?",
+      "start": 18.68,
+      "end": 19.4,
+      "n_words": 3,
+      "start_frame": 467,
+      "end_frame": 485,
+      "keyframes": [
+        "000480.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Anh chắc là tại nóng quá chảy mỡ luôn rồi đó.",
+      "start": 19.4,
+      "end": 21.88,
+      "n_words": 11,
+      "start_frame": 485,
+      "end_frame": 547,
+      "keyframes": [
+        "000497.webp",
+        "000498.webp",
+        "000525.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Anh chính vì nóng quá anh mới sắm đi chợ nè, có mấy trái cây vậy lượm về hết luôn cho anh gọn, ăn cho nó mát.",
+      "start": 21.88,
+      "end": 27.48,
+      "n_words": 27,
+      "start_frame": 547,
+      "end_frame": 687,
+      "keyframes": [
+        "000552.webp",
+        "000553.webp",
+        "000620.webp",
+        "000687.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ em chờ tí xíu để anh gọt trái cây, anh bày cái dĩa cho em, đãi em một dĩa trái cây ướp lạnh luôn.",
+      "start": 27.48,
+      "end": 32.32,
+      "n_words": 26,
+      "start_frame": 687,
+      "end_frame": 808,
+      "keyframes": [
+        "000687.webp",
+        "000688.webp",
+        "000747.webp",
+        "000806.webp",
+        "000807.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Mà anh Vũ ơi, gọt trái cây để em gọt chứ đầu bếp ai gọt trái cây?",
+      "start": 32.32,
+      "end": 35.84,
+      "n_words": 17,
+      "start_frame": 808,
+      "end_frame": 896,
+      "keyframes": [
+        "000879.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Phải làm một cái món gì đó từ trái cây mới hấp dẫn.",
+      "start": 35.84,
+      "end": 38.32,
+      "n_words": 13,
+      "start_frame": 896,
+      "end_frame": 958,
+      "keyframes": [
+        "000951.webp",
+        "000952.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thì trái cây mình làm cocktail thì bình thường rồi, nhà mình làm xà lách đi, mình thưởng thức một món xà lách Âu ở Việt Nam luôn.",
+      "start": 38.32,
+      "end": 47.04,
+      "n_words": 28,
+      "start_frame": 958,
+      "end_frame": 1176,
+      "keyframes": [
+        "000998.webp",
+        "001044.webp",
+        "001045.webp",
+        "001063.webp",
+        "001081.webp",
+        "001082.webp",
+        "001127.webp",
+        "001173.webp",
+        "001174.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Wow, một cái món salad vừa tươi mát mà còn đẹp da nữa.",
+      "start": 47.04,
+      "end": 50.08,
+      "n_words": 13,
+      "start_frame": 1176,
+      "end_frame": 1252,
+      "keyframes": [
+        "001225.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thích quá anh Vũ ơi, salad mùa hè thỏa thuê! Chào các bạn khán giả đang xem chương trình Món ngon mỗi ngày.",
+      "start": 50.08,
+      "end": 74.84,
+      "n_words": 23,
+      "start_frame": 1252,
+      "end_frame": 1871,
+      "keyframes": [
+        "001277.webp",
+        "001278.webp",
+        "001302.webp",
+        "001327.webp",
+        "001328.webp",
+        "001362.webp",
+        "001396.webp",
+        "001397.webp",
+        "001473.webp",
+        "001549.webp",
+        "001562.webp",
+        "001591.webp",
+        "001621.webp",
+        "001622.webp",
+        "001708.webp",
+        "001795.webp",
+        "001796.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 74.84,
+      "end": 78.88,
+      "n_words": 11,
+      "start_frame": 1871,
+      "end_frame": 1972,
+      "keyframes": [
+        "001887.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và thưa các bạn, với món ăn cực kỳ dễ ngày hôm nay, chúng ta chỉ cần chịu khó đi chợ mua các thứ trái cây yêu thích về.",
+      "start": 78.88,
+      "end": 85.56,
+      "n_words": 29,
+      "start_frame": 1972,
+      "end_frame": 2139,
+      "keyframes": [
+        "001979.webp",
+        "001980.webp",
+        "002007.webp",
+        "002034.webp",
+        "002035.webp",
+        "002059.webp",
+        "002084.webp",
+        "002085.webp",
+        "002110.webp",
+        "002135.webp",
+        "002136.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Thì trong món trái cây này, chúng ta cần phải có một loại đậu hạt này kia, hạt óc chó.",
+      "start": 85.56,
+      "end": 91.16,
+      "n_words": 20,
+      "start_frame": 2139,
+      "end_frame": 2279,
+      "keyframes": [
+        "002180.webp",
+        "002224.webp",
+        "002225.webp",
+        "002251.webp",
+        "002278.webp",
+        "002279.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi nhiệm vụ em là gì?",
+      "start": 91.16,
+      "end": 93.52,
+      "n_words": 6,
+      "start_frame": 2279,
+      "end_frame": 2338,
+      "keyframes": [
+        "002279.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nổi lửa lên rang hạt óc chó.",
+      "start": 93.52,
+      "end": 95.72,
+      "n_words": 7,
+      "start_frame": 2338,
+      "end_frame": 2393,
+      "keyframes": [
+        "002352.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ha dạ, nhiệm vụ dễ quá rồi!",
+      "start": 95.72,
+      "end": 97.28,
+      "n_words": 7,
+      "start_frame": 2393,
+      "end_frame": 2432,
+      "keyframes": [
+        "002425.webp",
+        "002426.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Mình rang như vậy thì để cho cái hạt này nó thơm hả anh?",
+      "start": 97.28,
+      "end": 100.24,
+      "n_words": 14,
+      "start_frame": 2432,
+      "end_frame": 2506,
+      "keyframes": [
+        "002465.webp",
+        "002504.webp",
+        "002505.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng rồi, tinh dầu nó mới tươm ra và các bạn biết là những cái loại hạt óc chó thì có rất nhiều vitamin A cũng như C, vừa thơm thôi nha em.",
+      "start": 100.24,
+      "end": 107.4,
+      "n_words": 33,
+      "start_frame": 2506,
+      "end_frame": 2685,
+      "keyframes": [
+        "002539.webp",
+        "002574.webp",
+        "002575.webp",
+        "002614.webp",
+        "002654.webp",
+        "002655.webp",
+        "002674.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Dạ, đầu tiên táo bỏ cuống nha, rửa sạch vỏ.",
+      "start": 107.4,
+      "end": 110.96,
+      "n_words": 10,
+      "start_frame": 2685,
+      "end_frame": 2774,
+      "keyframes": [
+        "002693.webp",
+        "002694.webp",
+        "002711.webp",
+        "002728.webp",
+        "002729.webp",
+        "002764.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thưa các bạn, đối với món này thì táo chúng ta để vỏ để chúng ta giữ được nhiều vitamin và món chúng ta sẽ hấp dẫn hơn nha các bạn.",
+      "start": 110.96,
+      "end": 117.16,
+      "n_words": 31,
+      "start_frame": 2774,
+      "end_frame": 2929,
+      "keyframes": [
+        "002800.webp",
+        "002801.webp",
+        "002869.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn rồi hôm rồi đó, bây giờ em rút ra cái chén đi anh đếm rồi đó nha.",
+      "start": 117.16,
+      "end": 122.68,
+      "n_words": 19,
+      "start_frame": 2929,
+      "end_frame": 3067,
+      "keyframes": [
+        "002937.webp",
+        "002938.webp",
+        "002979.webp",
+        "003021.webp",
+        "003022.webp",
+        "003059.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi thiếu đâu ạ?",
+      "start": 122.68,
+      "end": 123.92,
+      "n_words": 4,
+      "start_frame": 3067,
+      "end_frame": 3098,
+      "keyframes": [
+        "003097.webp",
+        "003098.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nhờ em tay vô và em bẻ những cái hạt đó khoảng làm hai làm ba thôi.",
+      "start": 123.92,
+      "end": 131.0,
+      "n_words": 17,
+      "start_frame": 3098,
+      "end_frame": 3275,
+      "keyframes": [
+        "003098.webp",
+        "003116.webp",
+        "003134.webp",
+        "003135.webp",
+        "003164.webp",
+        "003194.webp",
+        "003195.webp",
+        "003245.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Tiếp tục táo chúng ta sẽ cắt miếng vuông cạnh khoảng 2 cm là được nha các bạn. Đó như vậy.",
+      "start": 131.0,
+      "end": 137.12,
+      "n_words": 21,
+      "start_frame": 3275,
+      "end_frame": 3428,
+      "keyframes": [
+        "003295.webp",
+        "003296.webp",
+        "003368.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ừ và thưa các bạn, chúng ta chuẩn bị sẵn đây một tô nước đá lạnh và chúng ta cho vào đây ít giấm gạo lên men Ajinomoto.",
+      "start": 137.12,
+      "end": 144.52,
+      "n_words": 28,
+      "start_frame": 3428,
+      "end_frame": 3613,
+      "keyframes": [
+        "003441.webp",
+        "003442.webp",
+        "003492.webp",
+        "003542.webp",
+        "003543.webp",
+        "003578.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sau khi chúng ta cắt táo thì chúng ta cho táo vào trong đây để cho táo không bị đen nha các bạn, cắt bề ngang khoảng 2 centimet là được.",
+      "start": 144.52,
+      "end": 153.0,
+      "n_words": 31,
+      "start_frame": 3613,
+      "end_frame": 3825,
+      "keyframes": [
+        "003614.webp",
+        "003615.webp",
+        "003656.webp",
+        "003697.webp",
+        "003698.webp",
+        "003785.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi kế tiếp là các loại nho bỏ hạt nha.",
+      "start": 153.0,
+      "end": 156.32,
+      "n_words": 10,
+      "start_frame": 3825,
+      "end_frame": 3908,
+      "keyframes": [
+        "003873.webp",
+        "003874.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nếu chúng ta mua nho mà không hạt không cần phải bỏ hạt rồi chúng ta cắt đôi ra như vậy, chúng ta cắt đôi ra nho đỏ, bây giờ tới nho xanh.",
+      "start": 156.32,
+      "end": 165.28,
+      "n_words": 33,
+      "start_frame": 3908,
+      "end_frame": 4132,
+      "keyframes": [
+        "003950.webp",
+        "004027.webp",
+        "004028.webp",
+        "004069.webp",
+        "004110.webp",
+        "004111.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đúng là với những cái món salad thì mình nên chọn những loại trái cây mà không có hạt thì ăn nó sẽ dễ hơn.",
+      "start": 165.28,
+      "end": 169.4,
+      "n_words": 25,
+      "start_frame": 4132,
+      "end_frame": 4235,
+      "keyframes": [
+        "004152.webp",
+        "004194.webp",
+        "004195.webp",
+        "004218.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đúng rồi, cho vào đây, chúng ta cắt làm từ những cái trái dâu nhìn chín mọng đỏ, ôi trông rất là hấp dẫn luôn các bạn ơi.",
+      "start": 169.4,
+      "end": 181.0,
+      "n_words": 28,
+      "start_frame": 4235,
+      "end_frame": 4525,
+      "keyframes": [
+        "004241.webp",
+        "004242.webp",
+        "004282.webp",
+        "004323.webp",
+        "004324.webp",
+        "004340.webp",
+        "004357.webp",
+        "004358.webp",
+        "004426.webp",
+        "004495.webp",
+        "004496.webp",
+        "004523.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Rồi bây giờ thì tất cả các loại trái cây chúng ta đã cắt xong rồi, chúng ta lưu ý điều này nha, táo chúng ta để cho ráo nước và tất cả trái cây chúng ta phải giữ lạnh như vậy khi trộn thì món salad chúng ta sẽ tươi mát và sốt sẽ bám nhiều vào trong trái cây hơn nha các bạn.",
+      "start": 181.0,
+      "end": 195.16,
+      "n_words": 65,
+      "start_frame": 4525,
+      "end_frame": 4879,
+      "keyframes": [
+        "004550.webp",
+        "004551.webp",
+        "004579.webp",
+        "004608.webp",
+        "004609.webp",
+        "004742.webp",
+        "004875.webp",
+        "004876.webp",
+        "004877.webp",
+        "004878.webp",
+        "004879.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Rồi em đem cắt như thế này giúp anh.",
+      "start": 195.16,
+      "end": 197.72,
+      "n_words": 9,
+      "start_frame": 4879,
+      "end_frame": 4943,
+      "keyframes": [
+        "004879.webp",
+        "004899.webp",
+        "004920.webp",
+        "004921.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ chúng ta pha vô cùng dễ luôn.",
+      "start": 197.72,
+      "end": 201.16,
+      "n_words": 9,
+      "start_frame": 4943,
+      "end_frame": 5029,
+      "keyframes": [
+        "004946.webp",
+        "004971.webp",
+        "004972.webp",
+        "004986.webp",
+        "005001.webp",
+        "005002.webp",
+        "005013.webp",
+        "005024.webp",
+        "005025.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cho đầy khoảng tí xíu muối, giấm gạo lên men Ajinomoto.",
+      "start": 201.16,
+      "end": 204.64,
+      "n_words": 11,
+      "start_frame": 5029,
+      "end_frame": 5116,
+      "keyframes": [
+        "005045.webp",
+        "005066.webp",
+        "005067.webp",
+        "005090.webp",
+        "005113.webp",
+        "005114.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thứ nhất chúng ta hòa tan muối với lại giấm trước, sau đó chúng ta cho sốt mayonnaise Ajinomoto vô và các nguyên liệu khác vào như vậy thì muối sẽ tan đều trong sốt luôn nha các bạn.",
+      "start": 204.64,
+      "end": 213.12,
+      "n_words": 39,
+      "start_frame": 5116,
+      "end_frame": 5328,
+      "keyframes": [
+        "005145.webp",
+        "005176.webp",
+        "005177.webp",
+        "005253.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Kế tiếp chúng ta sẽ cho mù tạt nguyên hạt vào, mật ong vào đó.",
+      "start": 213.12,
+      "end": 217.44,
+      "n_words": 15,
+      "start_frame": 5328,
+      "end_frame": 5436,
+      "keyframes": [
+        "005329.webp",
+        "005330.webp",
+        "005358.webp",
+        "005387.webp",
+        "005388.webp",
+        "005422.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Mật ong vào sốt mayonnaise đi vô cái phần sốt này độc đáo và mới lạ anh Vũ ơi.",
+      "start": 217.44,
+      "end": 224.96,
+      "n_words": 19,
+      "start_frame": 5436,
+      "end_frame": 5624,
+      "keyframes": [
+        "005456.webp",
+        "005457.webp",
+        "005506.webp",
+        "005556.webp",
+        "005557.webp",
+        "005576.webp",
+        "005595.webp",
+        "005596.webp",
+        "005613.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đối với món này thì độ sánh đặc của sốt sẽ quyết định cái chất lượng món ăn, chứ mà chúng ta pha loãng quá thì sẽ không bám vào trong trái cây, à chúng ta sẽ pha ta đặc như vậy là được nha các bạn.",
+      "start": 224.96,
+      "end": 237.8,
+      "n_words": 47,
+      "start_frame": 5624,
+      "end_frame": 5945,
+      "keyframes": [
+        "005631.webp",
+        "005632.webp",
+        "005721.webp",
+        "005810.webp",
+        "005811.webp",
+        "005850.webp",
+        "005890.webp",
+        "005891.webp",
+        "005915.webp",
+        "005940.webp",
+        "005941.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Trộn đều nhẹ cái loại trái cây này chúng ta cho ra một cái dĩa sâu lòng, sốt thì anh chỉ để đây một ít bên đây khi chúng ta ăn chúng ta sẽ trộn thêm, anh cũng sẽ rưới lên đây một tí xíu sốt nhìn cho nó bắt mắt.",
+      "start": 237.8,
+      "end": 252.84,
+      "n_words": 51,
+      "start_frame": 5945,
+      "end_frame": 6321,
+      "keyframes": [
+        "005987.webp",
+        "006034.webp",
+        "006035.webp",
+        "006063.webp",
+        "006092.webp",
+        "006093.webp",
+        "006120.webp",
+        "006147.webp",
+        "006148.webp",
+        "006173.webp",
+        "006199.webp",
+        "006200.webp",
+        "006230.webp",
+        "006260.webp",
+        "006261.webp",
+        "006315.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Kế tiếp những cái hạt óc chó này rất là thơm, mình rải đều lên đây thôi, vừa thưởng thức vị thanh mát của các loại trái cây nè, còn cảm nhận được cái vị bùi giòn giòn của hạt óc chó nữa.",
+      "start": 252.84,
+      "end": 263.4,
+      "n_words": 43,
+      "start_frame": 6321,
+      "end_frame": 6585,
+      "keyframes": [
+        "006369.webp",
+        "006370.webp",
+        "006404.webp",
+        "006438.webp",
+        "006439.webp",
+        "006474.webp",
+        "006509.webp",
+        "006510.webp",
+        "006525.webp",
+        "006541.webp",
+        "006542.webp",
+        "006571.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Đúng vậy, điểm nhấn hút mắt nha vâng.",
+      "start": 263.4,
+      "end": 265.96,
+      "n_words": 8,
+      "start_frame": 6585,
+      "end_frame": 6649,
+      "keyframes": [
+        "006600.webp",
+        "006601.webp",
+        "006617.webp",
+        "006633.webp",
+        "006634.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và một cái món ăn thanh mát như thế này thì kết hợp với những món nào thì sẽ phù hợp ạ?",
+      "start": 265.96,
+      "end": 269.84,
+      "n_words": 22,
+      "start_frame": 6649,
+      "end_frame": 6746,
+      "keyframes": [
+        "006673.webp",
+        "006712.webp",
+        "006713.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Khi món này chúng ta còn súp nui nha đam tôm thả với lại món khoai tây chiên bò nướng là hoàn hảo luôn.",
+      "start": 269.84,
+      "end": 278.0,
+      "n_words": 24,
+      "start_frame": 6746,
+      "end_frame": 6950,
+      "keyframes": [
+        "006750.webp",
+        "006787.webp",
+        "006788.webp",
+        "006879.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Hấp dẫn quá đi!",
+      "start": 278.0,
+      "end": 279.08,
+      "n_words": 4,
+      "start_frame": 6950,
+      "end_frame": 6977,
+      "keyframes": [
+        "006971.webp",
+        "006972.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Trái cây tươi mát chua ngọt cùng vị béo nhẹ của sốt mayonnaise, vị nồng thơm của hạt mù tạt cay cay cho ngày sảng khoái sau lát mùa hè đã sẵn sàng, hãy cùng gia đình giải nhiệt thôi nào, giải nhiệt thôi nào!",
+      "start": 279.08,
+      "end": 292.04,
+      "n_words": 45,
+      "start_frame": 6977,
+      "end_frame": 7301,
+      "keyframes": [
+        "007003.webp",
+        "007034.webp",
+        "007049.webp",
+        "007077.webp",
+        "007106.webp",
+        "007107.webp",
+        "007162.webp",
+        "007217.webp",
+        "007218.webp",
+        "007260.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Và nếu như quý vị muốn tìm hiểu thêm công thức của các món ăn ngon, hãy truy cập vào kênh YouTube, website và fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 292.04,
+      "end": 300.16,
+      "n_words": 32,
+      "start_frame": 7301,
+      "end_frame": 7504,
+      "keyframes": [
+        "007302.webp",
+        "007303.webp",
+        "007345.webp",
+        "007387.webp",
+        "007388.webp",
+        "007433.webp",
+        "007478.webp",
+        "007479.webp"
+      ],
+      "keyframe_count": 8
+    }
+  ]
+}

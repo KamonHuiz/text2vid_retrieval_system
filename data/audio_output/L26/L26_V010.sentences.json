@@ -1,0 +1,500 @@
+{
+  "video_id": "L26_V010",
+  "fps": 25.0,
+  "n_sentences": 28,
+  "total_words": 760,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày: Nồi vịt kho có màu vàng nâu hấp dẫn, thơm nồng mùi riềng, thịt vịt mềm thấm nước kho đậm đà, lẫn chút cay nhẹ của ớt khô và chua chua của nước me cực đưa cơm.",
+      "start": 10.48,
+      "end": 42.28,
+      "n_words": 41,
+      "start_frame": 262,
+      "end_frame": 1057,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000345.webp",
+        "000391.webp",
+        "000392.webp",
+        "000442.webp",
+        "000492.webp",
+        "000493.webp",
+        "000518.webp",
+        "000543.webp",
+        "000544.webp",
+        "000591.webp",
+        "000639.webp",
+        "000640.webp",
+        "000664.webp",
+        "000688.webp",
+        "000689.webp",
+        "000716.webp",
+        "000743.webp",
+        "000744.webp",
+        "000827.webp",
+        "000911.webp",
+        "000912.webp",
+        "000969.webp",
+        "001026.webp",
+        "001027.webp"
+      ],
+      "keyframe_count": 26
+    },
+    {
+      "text": "Rất vui khi được gặp lại các bạn khán giả đang xem chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành.",
+      "start": 42.28,
+      "end": 49.36,
+      "n_words": 22,
+      "start_frame": 1057,
+      "end_frame": 1234,
+      "keyframes": [
+        "001064.webp",
+        "001101.webp",
+        "001102.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam. Em chào anh Vũ!",
+      "start": 49.36,
+      "end": 54.64,
+      "n_words": 15,
+      "start_frame": 1234,
+      "end_frame": 1366,
+      "keyframes": [
+        "001243.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Em chào Kim Thảo.",
+      "start": 54.64,
+      "end": 55.36,
+      "n_words": 4,
+      "start_frame": 1366,
+      "end_frame": 1384,
+      "keyframes": [
+        "001384.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Anh Vũ ơi, lâu quá em không được ăn vịt kho, hôm nay mình làm được không anh?",
+      "start": 55.36,
+      "end": 59.24,
+      "n_words": 18,
+      "start_frame": 1384,
+      "end_frame": 1481,
+      "keyframes": [
+        "001384.webp",
+        "001385.webp",
+        "001429.webp",
+        "001473.webp",
+        "001474.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Vâng, thưa các bạn, món ngày hôm nay có tên gọi là Vịt kho riềng ớt khô.",
+      "start": 59.24,
+      "end": 62.76,
+      "n_words": 17,
+      "start_frame": 1481,
+      "end_frame": 1569,
+      "keyframes": [
+        "001520.webp",
+        "001566.webp",
+        "001567.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và theo các chuyên gia dinh dưỡng thì một điều đặc biệt nữa, món này sẽ hỗ trợ cho việc bổ máu rất là nhiều nha các bạn.",
+      "start": 62.76,
+      "end": 68.64,
+      "n_words": 28,
+      "start_frame": 1569,
+      "end_frame": 1716,
+      "keyframes": [
+        "001641.webp",
+        "001715.webp",
+        "001716.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thì thịt vịt chúng ta mua về chúng ta rửa sạch, một tí gừng giã nhuyễn cùng với lại rượu trắng.",
+      "start": 68.64,
+      "end": 75.2,
+      "n_words": 21,
+      "start_frame": 1716,
+      "end_frame": 1880,
+      "keyframes": [
+        "001716.webp",
+        "001750.webp",
+        "001785.webp",
+        "001786.webp",
+        "001831.webp",
+        "001877.webp",
+        "001878.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Phần da vịt để cho vịt chúng ta được thơm hơn, khử được mùi tanh cũng như mùi hôi của phần da vịt nha các bạn.",
+      "start": 75.2,
+      "end": 80.04,
+      "n_words": 26,
+      "start_frame": 1880,
+      "end_frame": 2001,
+      "keyframes": [
+        "001939.webp",
+        "002000.webp",
+        "002001.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ thì chúng ta sẽ ướp cái phần thịt vịt này: một muỗng cà phê bột ngọt Ajinomoto, một muỗng canh hạt nêm Ajinomoto, ba muỗng canh nước mắm.",
+      "start": 80.04,
+      "end": 93.72,
+      "n_words": 30,
+      "start_frame": 2001,
+      "end_frame": 2343,
+      "keyframes": [
+        "002001.webp",
+        "002062.webp",
+        "002123.webp",
+        "002124.webp",
+        "002135.webp",
+        "002146.webp",
+        "002147.webp",
+        "002167.webp",
+        "002187.webp",
+        "002188.webp",
+        "002202.webp",
+        "002217.webp",
+        "002218.webp",
+        "002246.webp",
+        "002274.webp",
+        "002275.webp",
+        "002311.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Chúng ta trộn lên cho tan gia vị, cho vào đây hai muỗng canh dầu điều, trộn đều lên.",
+      "start": 93.72,
+      "end": 111.56,
+      "n_words": 19,
+      "start_frame": 2343,
+      "end_frame": 2789,
+      "keyframes": [
+        "002347.webp",
+        "002348.webp",
+        "002425.webp",
+        "002503.webp",
+        "002504.webp",
+        "002590.webp",
+        "002676.webp",
+        "002677.webp",
+        "002756.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ tiến hành kho thịt vịt này thôi.",
+      "start": 111.56,
+      "end": 116.0,
+      "n_words": 12,
+      "start_frame": 2789,
+      "end_frame": 2900,
+      "keyframes": [
+        "002835.webp",
+        "002836.webp",
+        "002868.webp",
+        "002900.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Dầu đã nóng rồi, các bạn chúng ta sẽ cho riềng vào, chúng ta sẽ cho hành băm nè, tỏi băm nè.",
+      "start": 116.0,
+      "end": 121.52,
+      "n_words": 22,
+      "start_frame": 2900,
+      "end_frame": 3038,
+      "keyframes": [
+        "002900.webp",
+        "002901.webp",
+        "002931.webp",
+        "002962.webp",
+        "002963.webp",
+        "002983.webp",
+        "003003.webp",
+        "003004.webp",
+        "003021.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Chúng ta chỉ cần dùng riềng và ớt khô, nhớ là ớt khô nha các bạn để chúng ta tạo cái mùi vị đặc trưng cho món ăn này.",
+      "start": 121.52,
+      "end": 128.28,
+      "n_words": 29,
+      "start_frame": 3038,
+      "end_frame": 3207,
+      "keyframes": [
+        "003039.webp",
+        "003040.webp",
+        "003120.webp",
+        "003201.webp",
+        "003202.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta sẽ cho thịt vịt vào xào.",
+      "start": 128.28,
+      "end": 130.56,
+      "n_words": 8,
+      "start_frame": 3207,
+      "end_frame": 3264,
+      "keyframes": [
+        "003246.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chảo đang rất là thơm cho nên là khi cho thịt vịt vào thì thịt vịt cũng sẽ được áo hết tất cả những cái nguyên liệu mà tạo mùi thơm như thế này.",
+      "start": 131.48,
+      "end": 139.8,
+      "n_words": 34,
+      "start_frame": 3287,
+      "end_frame": 3495,
+      "keyframes": [
+        "003290.webp",
+        "003291.webp",
+        "003349.webp",
+        "003407.webp",
+        "003408.webp",
+        "003450.webp",
+        "003493.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Đúng vậy, cái món chúng ta có ngon hay không ngon là nhờ chúng ta sẽ lấy hết những cái mùi thơm mà khi chúng ta xào các gia vị nó bám lên trên thành chảo á.",
+      "start": 139.8,
+      "end": 153.12,
+      "n_words": 37,
+      "start_frame": 3495,
+      "end_frame": 3828,
+      "keyframes": [
+        "003559.webp",
+        "003630.webp",
+        "003702.webp",
+        "003703.webp",
+        "003768.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Sau khi chúng ta xào cho thịt vịt được săn, chúng ta cho nước dừa vào, thêm xíu nước nữa.",
+      "start": 153.12,
+      "end": 160.92,
+      "n_words": 20,
+      "start_frame": 3828,
+      "end_frame": 4023,
+      "keyframes": [
+        "003834.webp",
+        "003835.webp",
+        "003871.webp",
+        "003907.webp",
+        "003908.webp",
+        "003949.webp",
+        "003991.webp",
+        "003992.webp",
+        "004016.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Kim Thảo thích nhất là trong các món kho chúng ta sử dụng nước dừa tại vì nó sẽ làm cho thịt ngọt hơn và khi ăn cảm nhận như là nó có một cái mùi hương gì đó mà rất là quyến rũ vậy đó anh Vũ.",
+      "start": 161.6,
+      "end": 172.64,
+      "n_words": 48,
+      "start_frame": 4040,
+      "end_frame": 4316,
+      "keyframes": [
+        "004040.webp",
+        "004041.webp",
+        "004080.webp",
+        "004120.webp",
+        "004121.webp",
+        "004217.webp",
+        "004313.webp",
+        "004314.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta sẽ cho vào đây khoảng ba muỗng canh nước cốt me các bạn nha.",
+      "start": 172.64,
+      "end": 176.4,
+      "n_words": 16,
+      "start_frame": 4316,
+      "end_frame": 4410,
+      "keyframes": [
+        "004363.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cho nước cốt me vào trong món kho này để tạo vị chua nhẹ cũng như làm cho thịt vịt mau mềm, thì vịt chúng ta sẽ săn chắc và giữ được độ giòn nha các bạn.",
+      "start": 176.4,
+      "end": 184.56,
+      "n_words": 37,
+      "start_frame": 4410,
+      "end_frame": 4614,
+      "keyframes": [
+        "004412.webp",
+        "004413.webp",
+        "004511.webp",
+        "004610.webp",
+        "004611.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Khi nước kho vừa sôi lên vậy chúng ta hạ lửa xuống, chúng ta kho rim từ từ khoảng độ chừng 30-40 phút là thịt vịt đã thấm và mềm.",
+      "start": 184.56,
+      "end": 194.08,
+      "n_words": 30,
+      "start_frame": 4614,
+      "end_frame": 4852,
+      "keyframes": [
+        "004644.webp",
+        "004677.webp",
+        "004678.webp",
+        "004764.webp",
+        "004850.webp",
+        "004851.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Trong thịt vịt có nhiều sắt và nhiều vitamin nhóm B giúp sản xuất hồng cầu, thành ra là khi chúng ta ăn những món ăn mà có thịt vịt thì sẽ giúp giảm nguy cơ thiếu máu.",
+      "start": 194.08,
+      "end": 203.64,
+      "n_words": 38,
+      "start_frame": 4852,
+      "end_frame": 5091,
+      "keyframes": [
+        "004921.webp",
+        "004991.webp",
+        "004992.webp",
+        "005041.webp",
+        "005091.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và các bạn khán giả có thể quét mã QR trên màn hình để chúng ta nấu món này chuẩn bị như đầu bếp Thanh Vũ nhé.",
+      "start": 203.64,
+      "end": 212.16,
+      "n_words": 27,
+      "start_frame": 5091,
+      "end_frame": 5304,
+      "keyframes": [
+        "005091.webp",
+        "005092.webp",
+        "005163.webp",
+        "005234.webp",
+        "005235.webp",
+        "005259.webp",
+        "005284.webp",
+        "005285.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta để đây ít hành lá, thế là chúng ta đã hoàn thành xong món vịt kho riềng ớt khô.",
+      "start": 212.16,
+      "end": 225.04,
+      "n_words": 21,
+      "start_frame": 5304,
+      "end_frame": 5626,
+      "keyframes": [
+        "005307.webp",
+        "005330.webp",
+        "005331.webp",
+        "005355.webp",
+        "005379.webp",
+        "005380.webp",
+        "005423.webp",
+        "005466.webp",
+        "005467.webp",
+        "005547.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Thịt vịt đã thấm vị rồi, độ mềm ngon, thấm vị đậm đà nhưng mà cái riềng với lại ớt khô nó làm cho cái thịt vịt nó thơm hơn, không còn mùi vịt mà mọi người còn e ngại nữa, mà món này chắc chắn sẽ rất bắt cơm nha.",
+      "start": 225.04,
+      "end": 239.52,
+      "n_words": 51,
+      "start_frame": 5626,
+      "end_frame": 5988,
+      "keyframes": [
+        "005628.webp",
+        "005629.webp",
+        "005675.webp",
+        "005721.webp",
+        "005736.webp",
+        "005787.webp",
+        "005839.webp",
+        "005840.webp",
+        "005912.webp",
+        "005985.webp",
+        "005986.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Và thưa các bạn, để đạt được hiệu quả dinh dưỡng hơn thì chúng ta nên áp dụng món này cùng với lại thực đơn đề nghị như sau: Cả nhà mình cùng quây quần bên mâm cơm cuối tuần với món vịt kho riềng ớt khô sẽ là một gợi ý rất hấp dẫn.",
+      "start": 239.52,
+      "end": 255.8,
+      "n_words": 55,
+      "start_frame": 5988,
+      "end_frame": 6395,
+      "keyframes": [
+        "006045.webp",
+        "006104.webp",
+        "006105.webp",
+        "006167.webp",
+        "006229.webp",
+        "006230.webp",
+        "006313.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Để xem lại trọn vẹn công thức của món ăn ngày hôm nay và nhiều gợi ý khác nữa, chỉ cần truy cập vào YouTube, website, fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 255.8,
+      "end": 265.48,
+      "n_words": 34,
+      "start_frame": 6395,
+      "end_frame": 6637,
+      "keyframes": [
+        "006396.webp",
+        "006397.webp",
+        "006507.webp",
+        "006618.webp",
+        "006619.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

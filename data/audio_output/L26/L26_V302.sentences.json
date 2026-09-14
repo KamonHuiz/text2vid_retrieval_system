@@ -1,0 +1,980 @@
+{
+  "video_id": "L26_V302",
+  "fps": 25.0,
+  "n_sentences": 59,
+  "total_words": 937,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.48,
+      "end": 14.04,
+      "n_words": 4,
+      "start_frame": 262,
+      "end_frame": 351,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000325.webp",
+        "000350.webp",
+        "000351.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đứng yên, anh đã bị bắt!",
+      "start": 14.04,
+      "end": 16.64,
+      "n_words": 6,
+      "start_frame": 351,
+      "end_frame": 416,
+      "keyframes": [
+        "000351.webp",
+        "000363.webp",
+        "000375.webp",
+        "000376.webp",
+        "000392.webp",
+        "000409.webp",
+        "000410.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Anh ăn cái gì say sưa đó?",
+      "start": 16.64,
+      "end": 18.28,
+      "n_words": 7,
+      "start_frame": 416,
+      "end_frame": 457,
+      "keyframes": [
+        "000431.webp",
+        "000453.webp",
+        "000454.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bánh tráng sinh em nghĩ tình anh em mình chắc có bền lâu đó anh?",
+      "start": 18.28,
+      "end": 25.88,
+      "n_words": 15,
+      "start_frame": 457,
+      "end_frame": 647,
+      "keyframes": [
+        "000464.webp",
+        "000475.webp",
+        "000476.webp",
+        "000490.webp",
+        "000505.webp",
+        "000506.webp",
+        "000518.webp",
+        "000531.webp",
+        "000532.webp",
+        "000549.webp",
+        "000567.webp",
+        "000568.webp",
+        "000603.webp",
+        "000639.webp",
+        "000640.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Trời ơi có cái bánh tráng không?",
+      "start": 25.88,
+      "end": 27.32,
+      "n_words": 7,
+      "start_frame": 647,
+      "end_frame": 683,
+      "keyframes": [
+        "000664.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thôi, dẫn vô làm lại cái cho nè.",
+      "start": 27.92,
+      "end": 30.36,
+      "n_words": 8,
+      "start_frame": 698,
+      "end_frame": 759,
+      "keyframes": [
+        "000727.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thấy không?",
+      "start": 30.36,
+      "end": 30.88,
+      "n_words": 2,
+      "start_frame": 759,
+      "end_frame": 772,
+      "keyframes": [
+        "000764.webp",
+        "000765.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đi, bánh rán trứng phô mai mượt mềm thơm nức. Chào quý khán giả đã quay trở lại với chương trình Món ngon mỗi ngày.",
+      "start": 30.88,
+      "end": 55.84,
+      "n_words": 25,
+      "start_frame": 772,
+      "end_frame": 1396,
+      "keyframes": [
+        "000776.webp",
+        "000788.webp",
+        "000789.webp",
+        "000813.webp",
+        "000838.webp",
+        "000839.webp",
+        "000882.webp",
+        "000926.webp",
+        "000927.webp",
+        "000972.webp",
+        "001017.webp",
+        "001032.webp",
+        "001091.webp",
+        "001151.webp",
+        "001152.webp",
+        "001238.webp",
+        "001325.webp",
+        "001326.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 55.84,
+      "end": 59.56,
+      "n_words": 11,
+      "start_frame": 1396,
+      "end_frame": 1489,
+      "keyframes": [
+        "001406.webp",
+        "001487.webp",
+        "001488.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi rồi, phần bánh của Minh Phương đâu?",
+      "start": 59.56,
+      "end": 61.32,
+      "n_words": 8,
+      "start_frame": 1489,
+      "end_frame": 1533,
+      "keyframes": [
+        "001516.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đấy, chưa làm luôn mà lấy cái tôi pha bột rồi.",
+      "start": 61.32,
+      "end": 66.48,
+      "n_words": 11,
+      "start_frame": 1533,
+      "end_frame": 1662,
+      "keyframes": [
+        "001544.webp",
+        "001545.webp",
+        "001559.webp",
+        "001573.webp",
+        "001574.webp",
+        "001590.webp",
+        "001606.webp",
+        "001607.webp",
+        "001635.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Chúng ta sử dụng là bột bánh rán pha sẵn bữa sáng dinh dưỡng.",
+      "start": 66.48,
+      "end": 69.56,
+      "n_words": 14,
+      "start_frame": 1662,
+      "end_frame": 1739,
+      "keyframes": [
+        "001664.webp",
+        "001665.webp",
+        "001699.webp",
+        "001734.webp",
+        "001735.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Là cái sản phẩm mà Minh Phương cực kỳ mê.",
+      "start": 69.8,
+      "end": 72.0,
+      "n_words": 10,
+      "start_frame": 1745,
+      "end_frame": 1800,
+      "keyframes": [
+        "001768.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "105 ml nước cho vào và mình khuấy đều lên.",
+      "start": 72.0,
+      "end": 75.8,
+      "n_words": 10,
+      "start_frame": 1800,
+      "end_frame": 1895,
+      "keyframes": [
+        "001801.webp",
+        "001802.webp",
+        "001829.webp",
+        "001856.webp",
+        "001857.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Rồi, Long đã khuấy đều cái phần bột bánh rán rồi, bây giờ thì rất là mịn màng rồi đúng không?",
+      "start": 75.8,
+      "end": 80.56,
+      "n_words": 21,
+      "start_frame": 1895,
+      "end_frame": 2014,
+      "keyframes": [
+        "001933.webp",
+        "002009.webp",
+        "002010.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ Minh Phương chuẩn bị giúp Long là lấy cái chảo mình rán bánh nè.",
+      "start": 80.56,
+      "end": 83.36,
+      "n_words": 16,
+      "start_frame": 2014,
+      "end_frame": 2084,
+      "keyframes": [
+        "002054.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ngay, tên rán bánh thôi, chảo cũng đã nóng rồi.",
+      "start": 83.64,
+      "end": 87.16,
+      "n_words": 10,
+      "start_frame": 2091,
+      "end_frame": 2179,
+      "keyframes": [
+        "002098.webp",
+        "002099.webp",
+        "002128.webp",
+        "002157.webp",
+        "002158.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ Long sẽ hạ nhiệt chảo để trước khi mình rán bánh chip nhỏ khi mà chúng ta rán bánh đúng không?",
+      "start": 87.16,
+      "end": 92.24,
+      "n_words": 23,
+      "start_frame": 2179,
+      "end_frame": 2306,
+      "keyframes": [
+        "002196.webp",
+        "002234.webp",
+        "002235.webp",
+        "002272.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Rồi, chiếc bánh rán có màu sắc đẹp.",
+      "start": 92.24,
+      "end": 94.32,
+      "n_words": 8,
+      "start_frame": 2306,
+      "end_frame": 2358,
+      "keyframes": [
+        "002310.webp",
+        "002311.webp",
+        "002331.webp",
+        "002351.webp",
+        "002352.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Sau khi đã hạ nhiệt phần chảo thì chúng ta sẽ đổ bột vào, rất là tròn luôn, cũng rất là đơn giản đúng không?",
+      "start": 94.32,
+      "end": 102.92,
+      "n_words": 25,
+      "start_frame": 2358,
+      "end_frame": 2573,
+      "keyframes": [
+        "002409.webp",
+        "002467.webp",
+        "002468.webp",
+        "002495.webp",
+        "002523.webp",
+        "002524.webp",
+        "002563.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Hoàng Long, chúng ta chỉ cần múc một cái vá bột nè, giữ yên tay cho cái dòng bột nó rớt xuống thì nó sẽ tạo được cái hình dáng của chiếc bánh nó tròn.",
+      "start": 102.92,
+      "end": 110.64,
+      "n_words": 35,
+      "start_frame": 2573,
+      "end_frame": 2766,
+      "keyframes": [
+        "002602.webp",
+        "002603.webp",
+        "002634.webp",
+        "002666.webp",
+        "002667.webp",
+        "002698.webp",
+        "002730.webp",
+        "002731.webp",
+        "002752.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đúng rồi, bây giờ mình sẽ lật mặt bánh, đẹp quá rồi!",
+      "start": 110.64,
+      "end": 118.32,
+      "n_words": 12,
+      "start_frame": 2766,
+      "end_frame": 2958,
+      "keyframes": [
+        "002774.webp",
+        "002775.webp",
+        "002819.webp",
+        "002864.webp",
+        "002865.webp",
+        "002887.webp",
+        "002910.webp",
+        "002911.webp",
+        "002935.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Giờ mình sẽ lấy bánh ra.",
+      "start": 118.32,
+      "end": 119.76,
+      "n_words": 6,
+      "start_frame": 2958,
+      "end_frame": 2994,
+      "keyframes": [
+        "002959.webp",
+        "002960.webp",
+        "002973.webp",
+        "002987.webp",
+        "002988.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đúng rồi, thơm quá!",
+      "start": 119.76,
+      "end": 122.36,
+      "n_words": 4,
+      "start_frame": 2994,
+      "end_frame": 3059,
+      "keyframes": [
+        "003024.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đặc biệt là cái mùi bánh này rất là thơm mùi phô mai đúng không nào?",
+      "start": 122.36,
+      "end": 127.32,
+      "n_words": 16,
+      "start_frame": 3059,
+      "end_frame": 3183,
+      "keyframes": [
+        "003061.webp",
+        "003062.webp",
+        "003097.webp",
+        "003132.webp",
+        "003133.webp",
+        "003163.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bánh mẻ này cũng đã chín rồi, bây giờ mình sẽ lấy bánh ra.",
+      "start": 127.32,
+      "end": 130.12,
+      "n_words": 14,
+      "start_frame": 3183,
+      "end_frame": 3253,
+      "keyframes": [
+        "003194.webp",
+        "003195.webp",
+        "003207.webp",
+        "003219.webp",
+        "003220.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đúng rồi, mình nhanh tắt bếp nha.",
+      "start": 130.12,
+      "end": 133.36,
+      "n_words": 7,
+      "start_frame": 3253,
+      "end_frame": 3334,
+      "keyframes": [
+        "003277.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bánh thì cũng đã xong rồi, bây giờ mình sẽ làm phần nhân.",
+      "start": 133.36,
+      "end": 135.8,
+      "n_words": 13,
+      "start_frame": 3334,
+      "end_frame": 3395,
+      "keyframes": [
+        "003335.webp",
+        "003336.webp",
+        "003362.webp",
+        "003388.webp",
+        "003389.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nhờ Minh Phương giúp Long mình đánh trứng nha.",
+      "start": 135.8,
+      "end": 137.76,
+      "n_words": 9,
+      "start_frame": 3395,
+      "end_frame": 3444,
+      "keyframes": [
+        "003407.webp",
+        "003426.webp",
+        "003427.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi, Long cho vào trứng một ít hạt nêm Ajinomoto gà.",
+      "start": 137.76,
+      "end": 141.28,
+      "n_words": 11,
+      "start_frame": 3444,
+      "end_frame": 3532,
+      "keyframes": [
+        "003447.webp",
+        "003468.webp",
+        "003469.webp",
+        "003486.webp",
+        "003504.webp",
+        "003505.webp",
+        "003523.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Rồi trong khi đó thì Long sẽ xào nhân.",
+      "start": 141.28,
+      "end": 144.56,
+      "n_words": 9,
+      "start_frame": 3532,
+      "end_frame": 3614,
+      "keyframes": [
+        "003542.webp",
+        "003543.webp",
+        "003562.webp",
+        "003581.webp",
+        "003582.webp",
+        "003598.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Như vậy là ngày hôm nay chúng ta sẽ làm món bánh rán nhân mặn đúng không nào?",
+      "start": 144.56,
+      "end": 148.16,
+      "n_words": 18,
+      "start_frame": 3614,
+      "end_frame": 3704,
+      "keyframes": [
+        "003615.webp",
+        "003616.webp",
+        "003637.webp",
+        "003659.webp",
+        "003660.webp",
+        "003696.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Nhân mặn mình cho đem dầu ăn, cho hành tây vào xào trước.",
+      "start": 148.16,
+      "end": 153.6,
+      "n_words": 13,
+      "start_frame": 3704,
+      "end_frame": 3840,
+      "keyframes": [
+        "003733.webp",
+        "003734.webp",
+        "003752.webp",
+        "003771.webp",
+        "003772.webp",
+        "003789.webp",
+        "003807.webp",
+        "003808.webp",
+        "003821.webp",
+        "003835.webp",
+        "003836.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Sau khi hành tây đã trong lại thì cho nấm rơm vào xào.",
+      "start": 153.6,
+      "end": 156.96,
+      "n_words": 13,
+      "start_frame": 3840,
+      "end_frame": 3924,
+      "keyframes": [
+        "003855.webp",
+        "003874.webp",
+        "003875.webp",
+        "003894.webp",
+        "003914.webp",
+        "003915.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thơm nấm và hành tây giúp cho món ăn chúng ta thơm và ngọt hơn.",
+      "start": 156.96,
+      "end": 159.88,
+      "n_words": 15,
+      "start_frame": 3924,
+      "end_frame": 3997,
+      "keyframes": [
+        "003955.webp",
+        "003996.webp",
+        "003997.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ mình cho phần trứng vào rồi, nhẹ nhàng thôi, chậm chậm cái phần trứng này vào, nó giống như là cái kiểu là trứng khuấy nào.",
+      "start": 159.88,
+      "end": 169.04,
+      "n_words": 28,
+      "start_frame": 3997,
+      "end_frame": 4226,
+      "keyframes": [
+        "003997.webp",
+        "004066.webp",
+        "004136.webp",
+        "004137.webp",
+        "004179.webp",
+        "004222.webp",
+        "004223.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Và nếu như ở nhà mà Minh Phương muốn thay đổi cái phần nhân một chút xíu thì cũng được đúng không?",
+      "start": 169.04,
+      "end": 173.76,
+      "n_words": 22,
+      "start_frame": 4226,
+      "end_frame": 4344,
+      "keyframes": [
+        "004284.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Khi mà phần nhân cần chín thì mình hãy cho phô mai vào.",
+      "start": 173.76,
+      "end": 175.08,
+      "n_words": 13,
+      "start_frame": 4344,
+      "end_frame": 4377,
+      "keyframes": [
+        "004346.webp",
+        "004347.webp",
+        "004374.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đã cho phô mai vào, phần phô mai này mình sẽ cắt sợi và cho vào trứng.",
+      "start": 175.08,
+      "end": 178.36,
+      "n_words": 17,
+      "start_frame": 4377,
+      "end_frame": 4459,
+      "keyframes": [
+        "004401.webp",
+        "004402.webp",
+        "004429.webp",
+        "004457.webp",
+        "004458.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Các bạn lưu ý chúng ta cho phô mai phần nhân sau đó đảo nhanh tay và tắt bếp để phần nhân này có độ kết dính và ngon hơn.",
+      "start": 178.36,
+      "end": 183.68,
+      "n_words": 30,
+      "start_frame": 4459,
+      "end_frame": 4592,
+      "keyframes": [
+        "004474.webp",
+        "004491.webp",
+        "004492.webp",
+        "004518.webp",
+        "004545.webp",
+        "004546.webp",
+        "004568.webp",
+        "004591.webp",
+        "004592.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Khi mà phần nhân gần chín thì mình đã cho vào đây một ít ngò rí và tiêu rồi đảo đều lên.",
+      "start": 183.68,
+      "end": 191.36,
+      "n_words": 22,
+      "start_frame": 4592,
+      "end_frame": 4784,
+      "keyframes": [
+        "004592.webp",
+        "004629.webp",
+        "004667.webp",
+        "004668.webp",
+        "004698.webp",
+        "004728.webp",
+        "004729.webp",
+        "004770.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Cái phần phô mai nó đang chảy ra rất là mạnh và hấp dẫn. Mình tắt bếp đây.",
+      "start": 191.36,
+      "end": 195.72,
+      "n_words": 18,
+      "start_frame": 4784,
+      "end_frame": 4893,
+      "keyframes": [
+        "004811.webp",
+        "004812.webp",
+        "004853.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng rồi, wow nhìn cái phần nhân hấp dẫn quá!",
+      "start": 195.72,
+      "end": 198.96,
+      "n_words": 10,
+      "start_frame": 4893,
+      "end_frame": 4974,
+      "keyframes": [
+        "004895.webp",
+        "004896.webp",
+        "004933.webp",
+        "004970.webp",
+        "004971.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hoàng Long ơi, Minh Phương nhìn đã mê rồi thì chắc chắn là các bạn nhỏ cũng sẽ rất là thích rồi.",
+      "start": 198.96,
+      "end": 206.28,
+      "n_words": 22,
+      "start_frame": 4974,
+      "end_frame": 5157,
+      "keyframes": [
+        "005013.webp",
+        "005055.webp",
+        "005056.webp",
+        "005076.webp",
+        "005097.webp",
+        "005098.webp",
+        "005122.webp",
+        "005147.webp",
+        "005148.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Bây giờ mình sẽ dọn ra để chuẩn bị hai cái nha hai bên đây nè.",
+      "start": 206.28,
+      "end": 211.8,
+      "n_words": 16,
+      "start_frame": 5157,
+      "end_frame": 5295,
+      "keyframes": [
+        "005168.webp",
+        "005189.webp",
+        "005190.webp",
+        "005211.webp",
+        "005233.webp",
+        "005234.webp",
+        "005259.webp",
+        "005285.webp",
+        "005286.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Mình đã cho phần cái phần xà lách xoắn này lên, mình tiếp tục cho thêm phần nhân lên.",
+      "start": 211.8,
+      "end": 220.24,
+      "n_words": 19,
+      "start_frame": 5295,
+      "end_frame": 5506,
+      "keyframes": [
+        "005325.webp",
+        "005364.webp",
+        "005365.webp",
+        "005386.webp",
+        "005408.webp",
+        "005409.webp",
+        "005435.webp",
+        "005462.webp",
+        "005463.webp",
+        "005487.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Bây giờ mình sẽ tới phần mayonnaise xong rồi, bây giờ tới cái phần tương cà nè, đẹp quá, rất là hấp dẫn rồi.",
+      "start": 220.24,
+      "end": 231.04,
+      "n_words": 24,
+      "start_frame": 5506,
+      "end_frame": 5776,
+      "keyframes": [
+        "005511.webp",
+        "005512.webp",
+        "005544.webp",
+        "005576.webp",
+        "005577.webp",
+        "005610.webp",
+        "005643.webp",
+        "005644.webp",
+        "005670.webp",
+        "005696.webp",
+        "005697.webp",
+        "005727.webp",
+        "005758.webp",
+        "005759.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Mình sẽ đặt lên đây và cái còn lại, cái còn lại thì điệu đà hơn chút đi.",
+      "start": 231.04,
+      "end": 235.52,
+      "n_words": 18,
+      "start_frame": 5776,
+      "end_frame": 5888,
+      "keyframes": [
+        "005794.webp",
+        "005829.webp",
+        "005830.webp",
+        "005860.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Ha, điệu đà hơn chút đúng không?",
+      "start": 235.52,
+      "end": 236.8,
+      "n_words": 7,
+      "start_frame": 5888,
+      "end_frame": 5920,
+      "keyframes": [
+        "005890.webp",
+        "005891.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Mình thêm chút mayonnaise nữa được không?",
+      "start": 236.8,
+      "end": 238.44,
+      "n_words": 7,
+      "start_frame": 5920,
+      "end_frame": 5961,
+      "keyframes": [
+        "005926.webp",
+        "005961.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tại Phương rất là thích ăn cái độ béo béo của mayonnaise.",
+      "start": 238.44,
+      "end": 241.08,
+      "n_words": 12,
+      "start_frame": 5961,
+      "end_frame": 6027,
+      "keyframes": [
+        "005961.webp",
+        "005962.webp",
+        "005991.webp",
+        "006020.webp",
+        "006021.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Rồi bắt ở trên nha, bắt ở trên luôn ha, vừa trang trí vừa ngon mà lại đẹp.",
+      "start": 241.08,
+      "end": 246.4,
+      "n_words": 18,
+      "start_frame": 6027,
+      "end_frame": 6160,
+      "keyframes": [
+        "006048.webp",
+        "006076.webp",
+        "006077.webp",
+        "006114.webp",
+        "006151.webp",
+        "006152.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi đặt lên đây một ít hạt nè.",
+      "start": 246.4,
+      "end": 249.52,
+      "n_words": 8,
+      "start_frame": 6160,
+      "end_frame": 6238,
+      "keyframes": [
+        "006176.webp",
+        "006201.webp",
+        "006202.webp",
+        "006223.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Rồi xong với cái món bánh ngày hôm nay thì sẽ là một cái sự phá cách Minh Phương nghĩ rất là độc đáo và thú vị để quý vị và các bạn có thể thử tại nhà.",
+      "start": 249.52,
+      "end": 257.8,
+      "n_words": 38,
+      "start_frame": 6238,
+      "end_frame": 6445,
+      "keyframes": [
+        "006244.webp",
+        "006245.webp",
+        "006314.webp",
+        "006383.webp",
+        "006384.webp",
+        "006421.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta có thể làm thành đồ ăn sáng nè, hoặc là ăn xế cho bản thân mình hay là cho các bạn nhỏ cũng rất là thích hợp để tạo nên một bữa hoàn chỉnh.",
+      "start": 257.8,
+      "end": 265.84,
+      "n_words": 36,
+      "start_frame": 6445,
+      "end_frame": 6646,
+      "keyframes": [
+        "006458.webp",
+        "006459.webp",
+        "006531.webp",
+        "006603.webp",
+        "006604.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thì Long nghĩ là món này mình có thể kết hợp với lại món trà sữa gạo rang matcha, bánh rang mượt mềm và hơi giòn rụm nhưng trứng phô mai vàng tươi, xà lách xanh non lấp ló và tương cà uốn lượn đan xen, một món ăn chà ôi là ngon và dinh dưỡng các bạn ơi!",
+      "start": 265.84,
+      "end": 283.64,
+      "n_words": 59,
+      "start_frame": 6646,
+      "end_frame": 7091,
+      "keyframes": [
+        "006678.webp",
+        "006753.webp",
+        "006754.webp",
+        "006786.webp",
+        "006819.webp",
+        "006834.webp",
+        "006899.webp",
+        "006965.webp",
+        "006966.webp",
+        "007018.webp",
+        "007071.webp",
+        "007072.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Hãy làm thử ngay món bánh rang trứng phô mai đi nào.",
+      "start": 283.64,
+      "end": 286.24,
+      "n_words": 12,
+      "start_frame": 7091,
+      "end_frame": 7156,
+      "keyframes": [
+        "007155.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Minh Phương tin chắc là ai đã thử thì sẽ phải mê cho mà xem.",
+      "start": 286.24,
+      "end": 289.6,
+      "n_words": 15,
+      "start_frame": 7156,
+      "end_frame": 7240,
+      "keyframes": [
+        "007239.webp",
+        "007240.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ngoài ra để xem lại các công thức của món ngon mỗi ngày thì chúng ta có thể truy cập vào kênh YouTube, website và fanpage của chương trình nhé.",
+      "start": 289.6,
+      "end": 298.16,
+      "n_words": 30,
+      "start_frame": 7240,
+      "end_frame": 7454,
+      "keyframes": [
+        "007240.webp",
+        "007291.webp",
+        "007342.webp",
+        "007343.webp",
+        "007388.webp",
+        "007433.webp",
+        "007434.webp"
+      ],
+      "keyframe_count": 7
+    }
+  ]
+}

@@ -1,0 +1,858 @@
+{
+  "video_id": "L26_V419",
+  "fps": 25.0,
+  "n_sentences": 54,
+  "total_words": 1001,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.44,
+      "end": 12.0,
+      "n_words": 4,
+      "start_frame": 261,
+      "end_frame": 300,
+      "keyframes": [
+        "000261.webp",
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Em chào cô Hà! Chào Kim Thảo.",
+      "start": 12.0,
+      "end": 14.36,
+      "n_words": 7,
+      "start_frame": 300,
+      "end_frame": 359,
+      "keyframes": [
+        "000300.webp",
+        "000332.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cô Hà ơi, cô Hà đang mài cam để cô Hà làm bánh phải không?",
+      "start": 14.36,
+      "end": 17.44,
+      "n_words": 15,
+      "start_frame": 359,
+      "end_frame": 436,
+      "keyframes": [
+        "000364.webp",
+        "000365.webp",
+        "000406.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng rồi.",
+      "start": 17.44,
+      "end": 17.92,
+      "n_words": 2,
+      "start_frame": 436,
+      "end_frame": 448,
+      "keyframes": [
+        "000447.webp",
+        "000448.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Như vậy thì cô mài xong đi rồi đưa cho em để em vắt nước cho cô Hà làm bánh nha.",
+      "start": 17.92,
+      "end": 22.28,
+      "n_words": 21,
+      "start_frame": 448,
+      "end_frame": 557,
+      "keyframes": [
+        "000448.webp",
+        "000496.webp",
+        "000545.webp",
+        "000546.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Không, hôm nay là cô chỉ có sử dụng cái vỏ cam mài một ít cam thôi, còn nguyên cái phần nước thì cô sẽ dành tặng em để em uống để cho tốt giọng.",
+      "start": 22.28,
+      "end": 32.0,
+      "n_words": 35,
+      "start_frame": 557,
+      "end_frame": 800,
+      "keyframes": [
+        "000637.webp",
+        "000728.webp",
+        "000729.webp",
+        "000762.webp",
+        "000795.webp",
+        "000796.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Wow, như vậy thì mình làm ngay đi cô Hà làm liền.",
+      "start": 32.0,
+      "end": 34.64,
+      "n_words": 12,
+      "start_frame": 800,
+      "end_frame": 866,
+      "keyframes": [
+        "000839.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ha dạ, bánh rán cam mật ong chua ngọt miên man cho ngày tràn năng lượng.",
+      "start": 34.64,
+      "end": 57.68,
+      "n_words": 16,
+      "start_frame": 866,
+      "end_frame": 1442,
+      "keyframes": [
+        "000882.webp",
+        "000883.webp",
+        "000907.webp",
+        "000932.webp",
+        "000933.webp",
+        "000991.webp",
+        "001050.webp",
+        "001051.webp",
+        "001116.webp",
+        "001181.webp",
+        "001201.webp",
+        "001237.webp",
+        "001273.webp",
+        "001274.webp",
+        "001361.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Chào mừng các bạn đang đến với chương trình Món ngon mỗi ngày.",
+      "start": 57.68,
+      "end": 60.6,
+      "n_words": 13,
+      "start_frame": 1442,
+      "end_frame": 1515,
+      "keyframes": [
+        "001448.webp",
+        "001449.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Azino Việt Nam.",
+      "start": 60.6,
+      "end": 65.0,
+      "n_words": 11,
+      "start_frame": 1515,
+      "end_frame": 1625,
+      "keyframes": [
+        "001532.webp",
+        "001615.webp",
+        "001616.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hồi nãy thì cô đã mài cái phần vỏ cam xong rồi.",
+      "start": 65.0,
+      "end": 68.28,
+      "n_words": 12,
+      "start_frame": 1625,
+      "end_frame": 1707,
+      "keyframes": [
+        "001651.webp",
+        "001686.webp",
+        "001687.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đây là một phần là gồm có năm muỗng mứt dâu và ba muỗng canh mật ong.",
+      "start": 68.28,
+      "end": 72.88,
+      "n_words": 17,
+      "start_frame": 1707,
+      "end_frame": 1822,
+      "keyframes": [
+        "001732.webp",
+        "001777.webp",
+        "001778.webp",
+        "001800.webp",
+        "001822.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ Kim Thảo giúp cô là mình sẽ trộn đều hai cái loại nguyên liệu này với nhau để chút mình sẽ trang trí và ăn kèm chung với lại cái món bánh khét này.",
+      "start": 72.88,
+      "end": 81.16,
+      "n_words": 36,
+      "start_frame": 1822,
+      "end_frame": 2029,
+      "keyframes": [
+        "001822.webp",
+        "001823.webp",
+        "001843.webp",
+        "001864.webp",
+        "001865.webp",
+        "001899.webp",
+        "001934.webp",
+        "001935.webp",
+        "001958.webp",
+        "001981.webp",
+        "001982.webp",
+        "002007.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Dạ thơm quá!",
+      "start": 81.16,
+      "end": 82.6,
+      "n_words": 3,
+      "start_frame": 2029,
+      "end_frame": 2065,
+      "keyframes": [
+        "002032.webp",
+        "002033.webp",
+        "002049.webp",
+        "002065.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Tiếp theo là chúng ta sẽ cắt lát một quả cam khoảng chừng năm sáu lát thôi, thì cô chỉ đổ năm sáu cái bánh thôi ha.",
+      "start": 82.6,
+      "end": 88.96,
+      "n_words": 27,
+      "start_frame": 2065,
+      "end_frame": 2224,
+      "keyframes": [
+        "002065.webp",
+        "002066.webp",
+        "002103.webp",
+        "002140.webp",
+        "002141.webp",
+        "002172.webp",
+        "002203.webp",
+        "002204.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Rồi mình sẽ để nguyên vỏ như thế này nè, mình sẽ cắt lát mỗi lát và dày khoảng chừng 5 ly.",
+      "start": 88.96,
+      "end": 94.08,
+      "n_words": 22,
+      "start_frame": 2224,
+      "end_frame": 2352,
+      "keyframes": [
+        "002248.webp",
+        "002292.webp",
+        "002293.webp",
+        "002324.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Được rồi, các bạn lưu ý là chúng ta sẽ cắt lát cam khéo léo không quá dày, không quá mỏng để tạo hình bánh được đẹp ha.",
+      "start": 94.08,
+      "end": 101.32,
+      "n_words": 28,
+      "start_frame": 2352,
+      "end_frame": 2533,
+      "keyframes": [
+        "002356.webp",
+        "002357.webp",
+        "002388.webp",
+        "002420.webp",
+        "002421.webp",
+        "002474.webp",
+        "002528.webp",
+        "002529.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Rồi và bây giờ thì chúng ta sẽ pha bột.",
+      "start": 101.32,
+      "end": 103.68,
+      "n_words": 10,
+      "start_frame": 2533,
+      "end_frame": 2592,
+      "keyframes": [
+        "002560.webp",
+        "002592.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rồi chúng ta sẽ sử dụng một bịch bột bánh rán pha sẵn vị truyền thống và đây là phần vỏ cam đã mài.",
+      "start": 103.68,
+      "end": 110.32,
+      "n_words": 24,
+      "start_frame": 2592,
+      "end_frame": 2758,
+      "keyframes": [
+        "002592.webp",
+        "002593.webp",
+        "002625.webp",
+        "002658.webp",
+        "002659.webp",
+        "002675.webp",
+        "002692.webp",
+        "002693.webp",
+        "002727.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Các bạn lưu ý là chúng ta sẽ mài vỏ cam cho thật nhuyễn thì bánh sẽ càng ngon và đẹp nha.",
+      "start": 110.32,
+      "end": 115.68,
+      "n_words": 22,
+      "start_frame": 2758,
+      "end_frame": 2892,
+      "keyframes": [
+        "002761.webp",
+        "002762.webp",
+        "002801.webp",
+        "002841.webp",
+        "002842.webp",
+        "002866.webp",
+        "002890.webp",
+        "002891.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Cho khoảng chừng một muỗng canh vỏ cam này mình sẽ hòa với lại 140 ml nước.",
+      "start": 115.68,
+      "end": 121.36,
+      "n_words": 17,
+      "start_frame": 2892,
+      "end_frame": 3034,
+      "keyframes": [
+        "002923.webp",
+        "002956.webp",
+        "002957.webp",
+        "002994.webp",
+        "003032.webp",
+        "003033.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Các bạn lưu ý là chúng ta sẽ pha vỏ cam mài vào trong nước để hòa tan tinh dầu thì cái tinh dầu cam nó sẽ tiết ra.",
+      "start": 121.36,
+      "end": 128.04,
+      "n_words": 29,
+      "start_frame": 3034,
+      "end_frame": 3201,
+      "keyframes": [
+        "003092.webp",
+        "003152.webp",
+        "003153.webp",
+        "003176.webp",
+        "003199.webp",
+        "003200.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cô đã trộn bột vỏ cam và nước xong hết rồi, là bây giờ thì mình chỉ cần đổ bánh thôi.",
+      "start": 128.04,
+      "end": 133.28,
+      "n_words": 21,
+      "start_frame": 3201,
+      "end_frame": 3332,
+      "keyframes": [
+        "003213.webp",
+        "003226.webp",
+        "003227.webp",
+        "003252.webp",
+        "003278.webp",
+        "003279.webp",
+        "003305.webp",
+        "003332.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "À dạ, em đi lấy chảo rồi.",
+      "start": 133.28,
+      "end": 134.84,
+      "n_words": 7,
+      "start_frame": 3332,
+      "end_frame": 3371,
+      "keyframes": [
+        "003332.webp",
+        "003333.webp",
+        "003358.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cảm ơn em. Rồi em mở lửa giúp cô.",
+      "start": 134.84,
+      "end": 137.36,
+      "n_words": 9,
+      "start_frame": 3371,
+      "end_frame": 3434,
+      "keyframes": [
+        "003384.webp",
+        "003385.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Dạ.",
+      "start": 137.36,
+      "end": 138.08,
+      "n_words": 1,
+      "start_frame": 3434,
+      "end_frame": 3452,
+      "keyframes": [
+        "003438.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Mình sẽ làm nóng chảo, sau đó thì mình sẽ giảm nhiệt độ bằng cách là mình sẽ chuyển chảo sang một cái khăn đã được nhúng nước ẩm khoảng 10 giây rồi mình lại đặt chảo lên trên bếp với lửa nhỏ.",
+      "start": 138.08,
+      "end": 149.0,
+      "n_words": 43,
+      "start_frame": 3452,
+      "end_frame": 3725,
+      "keyframes": [
+        "003492.webp",
+        "003493.webp",
+        "003546.webp",
+        "003599.webp",
+        "003600.webp",
+        "003627.webp",
+        "003655.webp",
+        "003656.webp",
+        "003691.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Hôm nay cô sẽ giới thiệu một cách làm bánh mới.",
+      "start": 149.0,
+      "end": 151.68,
+      "n_words": 11,
+      "start_frame": 3725,
+      "end_frame": 3792,
+      "keyframes": [
+        "003727.webp",
+        "003728.webp",
+        "003759.webp",
+        "003791.webp",
+        "003792.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Phần cam mà mình cắt lát bây giờ cô sẽ để lên trên giữa cái chảo như thế này, để lên một cái vòng như thế này, sau đó thì mình sẽ bắt đầu cho bột lên.",
+      "start": 151.68,
+      "end": 161.4,
+      "n_words": 37,
+      "start_frame": 3792,
+      "end_frame": 4035,
+      "keyframes": [
+        "003792.webp",
+        "003849.webp",
+        "003906.webp",
+        "003907.webp",
+        "003930.webp",
+        "003953.webp",
+        "003954.webp",
+        "003984.webp",
+        "004015.webp",
+        "004016.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Công dụng của việc mà mình đặt cái khung tròn như thế là để mình định hình cái bánh của mình, chút nữa đấy em nó sẽ tròn, vậy là một lát nữa cái bánh của chúng ta sẽ có cái nhân giống như một bông hoa hình quả cam.",
+      "start": 161.4,
+      "end": 172.32,
+      "n_words": 50,
+      "start_frame": 4035,
+      "end_frame": 4308,
+      "keyframes": [
+        "004101.webp",
+        "004187.webp",
+        "004188.webp",
+        "004251.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Rồi khi mà mình thấy là bột nó lan đều ra cái phần khuôn rồi tròn đều rồi, bây giờ mình sẽ dỡ cái khuôn lên nha.",
+      "start": 172.32,
+      "end": 179.4,
+      "n_words": 27,
+      "start_frame": 4308,
+      "end_frame": 4485,
+      "keyframes": [
+        "004315.webp",
+        "004316.webp",
+        "004355.webp",
+        "004394.webp",
+        "004395.webp",
+        "004437.webp",
+        "004480.webp",
+        "004481.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "À hay quá cô Hà ơi!",
+      "start": 179.4,
+      "end": 181.6,
+      "n_words": 6,
+      "start_frame": 4485,
+      "end_frame": 4540,
+      "keyframes": [
+        "004505.webp",
+        "004530.webp",
+        "004531.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi bây giờ thì chúng ta sẽ lật cái bánh này lại, đúng như em dự đoán ha cô Hà.",
+      "start": 181.6,
+      "end": 188.76,
+      "n_words": 20,
+      "start_frame": 4540,
+      "end_frame": 4719,
+      "keyframes": [
+        "004579.webp",
+        "004627.webp",
+        "004628.webp",
+        "004653.webp",
+        "004679.webp",
+        "004680.webp",
+        "004715.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Đúng rồi, đó là có một cái miếng cam giống như một cái bông hoa ở chính giữa cái bánh này.",
+      "start": 188.76,
+      "end": 194.84,
+      "n_words": 21,
+      "start_frame": 4719,
+      "end_frame": 4871,
+      "keyframes": [
+        "004750.webp",
+        "004751.webp",
+        "004798.webp",
+        "004845.webp",
+        "004846.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Em làm bánh này mà như cô Hà đang hướng dẫn cho em thì chắc là hai bạn nhỏ nhà em mê lắm luôn á cô Hà.",
+      "start": 194.84,
+      "end": 200.92,
+      "n_words": 27,
+      "start_frame": 4871,
+      "end_frame": 5023,
+      "keyframes": [
+        "004901.webp",
+        "004956.webp",
+        "004957.webp",
+        "004988.webp",
+        "005020.webp",
+        "005021.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi giờ thì mình sẽ lấy cái bánh này ra.",
+      "start": 200.92,
+      "end": 203.16,
+      "n_words": 10,
+      "start_frame": 5023,
+      "end_frame": 5079,
+      "keyframes": [
+        "005040.webp",
+        "005060.webp",
+        "005061.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tiếp theo thì mình sẽ đổ tiếp các bánh còn lại, rồi chúng ta đổ cho đến khi hết bột.",
+      "start": 203.16,
+      "end": 211.04,
+      "n_words": 20,
+      "start_frame": 5079,
+      "end_frame": 5276,
+      "keyframes": [
+        "005105.webp",
+        "005150.webp",
+        "005151.webp",
+        "005188.webp",
+        "005226.webp",
+        "005227.webp",
+        "005251.webp",
+        "005276.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Đầu tiên là một miếng bánh mình sẽ phết trên đây một miếng mứt dâu trộn mật ong.",
+      "start": 211.04,
+      "end": 216.64,
+      "n_words": 18,
+      "start_frame": 5276,
+      "end_frame": 5416,
+      "keyframes": [
+        "005276.webp",
+        "005277.webp",
+        "005312.webp",
+        "005347.webp",
+        "005348.webp",
+        "005380.webp",
+        "005413.webp",
+        "005414.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Mình có thể kẹp thành từng cặp bánh cũng được ha.",
+      "start": 216.64,
+      "end": 219.64,
+      "n_words": 11,
+      "start_frame": 5416,
+      "end_frame": 5491,
+      "keyframes": [
+        "005455.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Mà ở đây thì cô muốn thay đổi một chút xíu để cho nó đẹp.",
+      "start": 219.92,
+      "end": 223.64,
+      "n_words": 15,
+      "start_frame": 5498,
+      "end_frame": 5591,
+      "keyframes": [
+        "005543.webp",
+        "005589.webp",
+        "005590.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tiếp theo thì mình sẽ để lên thêm một lớp bánh nữa.",
+      "start": 223.64,
+      "end": 227.04,
+      "n_words": 12,
+      "start_frame": 5591,
+      "end_frame": 5676,
+      "keyframes": [
+        "005629.webp",
+        "005668.webp",
+        "005669.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Xinh xắn quá cô Hà ơi!",
+      "start": 227.04,
+      "end": 229.44,
+      "n_words": 6,
+      "start_frame": 5676,
+      "end_frame": 5736,
+      "keyframes": [
+        "005703.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Mình lại phết lên một lớp mật ong trộn với lại mứt dâu nữa.",
+      "start": 229.44,
+      "end": 233.04,
+      "n_words": 14,
+      "start_frame": 5736,
+      "end_frame": 5826,
+      "keyframes": [
+        "005738.webp",
+        "005739.webp",
+        "005797.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mứt dâu nữa cô Hà ơi, nếu mà em không sử dụng mứt dâu, em sử dụng mứt cam hoặc là mứt khác được không cô Hà?",
+      "start": 233.04,
+      "end": 239.8,
+      "n_words": 27,
+      "start_frame": 5826,
+      "end_frame": 5995,
+      "keyframes": [
+        "005856.webp",
+        "005857.webp",
+        "005923.webp",
+        "005989.webp",
+        "005990.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Được chứ em.",
+      "start": 239.8,
+      "end": 240.96,
+      "n_words": 3,
+      "start_frame": 5995,
+      "end_frame": 6024,
+      "keyframes": [
+        "006020.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nếu mà mình sử dụng mứt cam thì bánh mình chỉ có hai mùi cam và mật ong.",
+      "start": 240.96,
+      "end": 245.76,
+      "n_words": 18,
+      "start_frame": 6024,
+      "end_frame": 6144,
+      "keyframes": [
+        "006050.webp",
+        "006051.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cô muốn là có nhiều mùi đồng thời mứt dâu sẽ làm cho cái màu sắc bánh của mình đẹp, trông nó hấp dẫn.",
+      "start": 245.76,
+      "end": 251.84,
+      "n_words": 24,
+      "start_frame": 6144,
+      "end_frame": 6296,
+      "keyframes": [
+        "006184.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Dạ đúng rồi.",
+      "start": 251.84,
+      "end": 254.16,
+      "n_words": 3,
+      "start_frame": 6296,
+      "end_frame": 6354,
+      "keyframes": [
+        "006318.webp",
+        "006319.webp",
+        "006337.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mình sẽ đặt lên đây một ít bột húng lủi.",
+      "start": 254.16,
+      "end": 256.88,
+      "n_words": 10,
+      "start_frame": 6354,
+      "end_frame": 6422,
+      "keyframes": [
+        "006355.webp",
+        "006356.webp",
+        "006389.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Với món ăn này thì chúng ta có thể dùng kèm với lại trà sữa hoa đậu biếc hoặc là trà sữa thạch kem hạt chia các bạn nhé.",
+      "start": 256.88,
+      "end": 263.52,
+      "n_words": 29,
+      "start_frame": 6422,
+      "end_frame": 6588,
+      "keyframes": [
+        "006423.webp",
+        "006424.webp",
+        "006471.webp",
+        "006518.webp",
+        "006519.webp",
+        "006552.webp",
+        "006586.webp",
+        "006587.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Và Kim Thảo tin chắc rằng là tất cả các thành viên trong gia đình, không chỉ là các thành viên nhí đâu ạ, sẽ rất là yêu thích món bánh của ngày hôm nay vì trông rất đơn giản nhưng mà có thể tưởng tượng ra đây là một bữa tiệc rất là vui dành cho mọi người trong nhà của mình.",
+      "start": 263.52,
+      "end": 277.92,
+      "n_words": 63,
+      "start_frame": 6588,
+      "end_frame": 6948,
+      "keyframes": [
+        "006636.webp",
+        "006686.webp",
+        "006687.webp",
+        "006816.webp",
+        "006946.webp",
+        "006947.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bánh rán xốp mềm beo béo lẫn chút vỏ cam the the, lát cam sém cạnh dậy thơm thêm chút mứt dâu chua chua ngon ngọt, đúng là ngon khó cưỡng.",
+      "start": 277.92,
+      "end": 288.96,
+      "n_words": 31,
+      "start_frame": 6948,
+      "end_frame": 7224,
+      "keyframes": [
+        "007027.webp",
+        "007107.webp",
+        "007108.webp",
+        "007165.webp",
+        "007223.webp",
+        "007224.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Vừa sáng tạo vừa thực hiện đơn giản, quả là một món ngon đáng thử.",
+      "start": 288.96,
+      "end": 292.92,
+      "n_words": 15,
+      "start_frame": 7224,
+      "end_frame": 7323,
+      "keyframes": [
+        "007224.webp",
+        "007297.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bắt tay vào thực hiện ngay các bạn nhé!",
+      "start": 292.92,
+      "end": 295.76,
+      "n_words": 9,
+      "start_frame": 7323,
+      "end_frame": 7394,
+      "keyframes": [
+        "007370.webp",
+        "007371.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

@@ -1,0 +1,881 @@
+{
+  "video_id": "L26_V277",
+  "fps": 25.0,
+  "n_sentences": 49,
+  "total_words": 973,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.48,
+      "end": 13.8,
+      "n_words": 4,
+      "start_frame": 262,
+      "end_frame": 345,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000321.webp",
+        "000343.webp",
+        "000344.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Quết, quết cá.",
+      "start": 13.8,
+      "end": 16.76,
+      "n_words": 3,
+      "start_frame": 345,
+      "end_frame": 419,
+      "keyframes": [
+        "000363.webp",
+        "000383.webp",
+        "000384.webp",
+        "000394.webp",
+        "000405.webp",
+        "000406.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Không phải quết chả cá mà tay lên quết luôn á, nhưng mà đúng ra phải quết chả cá mạnh tay như vậy thì chả cá mới dai, mới ngon được.",
+      "start": 16.76,
+      "end": 24.64,
+      "n_words": 31,
+      "start_frame": 419,
+      "end_frame": 616,
+      "keyframes": [
+        "000423.webp",
+        "000440.webp",
+        "000441.webp",
+        "000465.webp",
+        "000489.webp",
+        "000490.webp",
+        "000518.webp",
+        "000546.webp",
+        "000547.webp",
+        "000579.webp",
+        "000611.webp",
+        "000612.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Đúng rồi, với lại Kim Thảo muốn là lấy cá tươi để giữ được cái hàm lượng dinh dưỡng ở trong đó và đặc biệt là hôm nay có cá thác lác giàu vitamin A nha.",
+      "start": 24.64,
+      "end": 34.04,
+      "n_words": 36,
+      "start_frame": 616,
+      "end_frame": 851,
+      "keyframes": [
+        "000630.webp",
+        "000648.webp",
+        "000649.webp",
+        "000670.webp",
+        "000691.webp",
+        "000692.webp",
+        "000725.webp",
+        "000759.webp",
+        "000760.webp",
+        "000805.webp",
+        "000851.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Giờ muốn làm gì đây?",
+      "start": 34.04,
+      "end": 35.2,
+      "n_words": 5,
+      "start_frame": 851,
+      "end_frame": 880,
+      "keyframes": [
+        "000851.webp",
+        "000852.webp",
+        "000863.webp",
+        "000874.webp",
+        "000875.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cá thác lác thì Kim Thảo làm rất nhiều món khác nhau ở nhà rồi, chiên, có nấu canh, có thì lòng.",
+      "start": 35.2,
+      "end": 40.84,
+      "n_words": 22,
+      "start_frame": 880,
+      "end_frame": 1021,
+      "keyframes": [
+        "000941.webp",
+        "001007.webp",
+        "001008.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Có thể giúp cho Kim Thảo và tất cả các bạn khán giả một món gì đó mà Kim Thảo chưa biết không?",
+      "start": 40.84,
+      "end": 45.28,
+      "n_words": 23,
+      "start_frame": 1021,
+      "end_frame": 1132,
+      "keyframes": [
+        "001029.webp",
+        "001050.webp",
+        "001051.webp",
+        "001089.webp",
+        "001128.webp",
+        "001129.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Long vừa nghĩ ra một món mà hứa Kim Thảo luôn là không những người lớn thích mà đặc biệt những trẻ em rất là ít khi ăn cá cũng phải thích luôn.",
+      "start": 45.28,
+      "end": 52.48,
+      "n_words": 33,
+      "start_frame": 1132,
+      "end_frame": 1312,
+      "keyframes": [
+        "001219.webp",
+        "001309.webp",
+        "001310.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thiệt hả?",
+      "start": 52.48,
+      "end": 53.4,
+      "n_words": 2,
+      "start_frame": 1312,
+      "end_frame": 1335,
+      "keyframes": [
+        "001317.webp",
+        "001324.webp",
+        "001325.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Làm đi rồi biết.",
+      "start": 53.4,
+      "end": 56.72,
+      "n_words": 4,
+      "start_frame": 1335,
+      "end_frame": 1418,
+      "keyframes": [
+        "001344.webp",
+        "001363.webp",
+        "001364.webp",
+        "001388.webp",
+        "001413.webp",
+        "001414.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Dai giòn, ngon ngon với món hồ lô cá. Chào quý vị khán giả đã quay trở lại với chương trình Món ngon mỗi ngày.",
+      "start": 56.72,
+      "end": 78.36,
+      "n_words": 25,
+      "start_frame": 1418,
+      "end_frame": 1959,
+      "keyframes": [
+        "001450.webp",
+        "001486.webp",
+        "001487.webp",
+        "001564.webp",
+        "001642.webp",
+        "001657.webp",
+        "001679.webp",
+        "001702.webp",
+        "001703.webp",
+        "001793.webp",
+        "001883.webp",
+        "001884.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 78.36,
+      "end": 82.4,
+      "n_words": 11,
+      "start_frame": 1959,
+      "end_frame": 2060,
+      "keyframes": [
+        "001972.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chả cá đây, nhưng mà trứng bên kia.",
+      "start": 82.4,
+      "end": 84.2,
+      "n_words": 8,
+      "start_frame": 2060,
+      "end_frame": 2105,
+      "keyframes": [
+        "002061.webp",
+        "002062.webp",
+        "002083.webp",
+        "002104.webp",
+        "002105.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Trứng này thì Kim Thảo sẽ giúp Long mình đập ra, sau đó mình khuấy đều lên, tan ra.",
+      "start": 84.2,
+      "end": 89.4,
+      "n_words": 19,
+      "start_frame": 2105,
+      "end_frame": 2235,
+      "keyframes": [
+        "002105.webp",
+        "002131.webp",
+        "002158.webp",
+        "002159.webp",
+        "002178.webp",
+        "002197.webp",
+        "002198.webp",
+        "002218.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Phần lòng thì Long sẽ tẩm ướp gia vị cho cá thác trước khi mình quết: một muỗng cà phê ngò rí băm, một muỗng cà phê hành tím băm, 1/4 muỗng cà phê tiêu, nửa muỗng cà phê hạt nêm Ajinomoto ngon heo, một muỗng canh sốt mayonnaise ngọt dịu thì nó sẽ làm cho cá không bị khô, đồng thời nó sẽ thêm cái vị béo thì làm cho các bạn nhỏ sẽ thích ăn hơn.",
+      "start": 89.4,
+      "end": 112.72,
+      "n_words": 78,
+      "start_frame": 2235,
+      "end_frame": 2818,
+      "keyframes": [
+        "002238.webp",
+        "002239.webp",
+        "002290.webp",
+        "002342.webp",
+        "002343.webp",
+        "002368.webp",
+        "002394.webp",
+        "002395.webp",
+        "002411.webp",
+        "002428.webp",
+        "002429.webp",
+        "002442.webp",
+        "002456.webp",
+        "002457.webp",
+        "002479.webp",
+        "002501.webp",
+        "002502.webp",
+        "002513.webp",
+        "002524.webp",
+        "002525.webp",
+        "002543.webp",
+        "002562.webp",
+        "002563.webp",
+        "002576.webp",
+        "002590.webp",
+        "002591.webp",
+        "002618.webp",
+        "002645.webp",
+        "002646.webp",
+        "002658.webp",
+        "002670.webp",
+        "002671.webp",
+        "002697.webp",
+        "002724.webp",
+        "002725.webp",
+        "002744.webp",
+        "002764.webp",
+        "002765.webp",
+        "002788.webp",
+        "002812.webp",
+        "002813.webp"
+      ],
+      "keyframe_count": 41
+    },
+    {
+      "text": "Hay quá!",
+      "start": 112.72,
+      "end": 113.64,
+      "n_words": 2,
+      "start_frame": 2818,
+      "end_frame": 2841,
+      "keyframes": [
+        "002826.webp",
+        "002839.webp",
+        "002840.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nhồi cái thác lác, bình quết lát này rất là dai mà nó không bị dính bao tay nào thấy không?",
+      "start": 113.64,
+      "end": 117.6,
+      "n_words": 21,
+      "start_frame": 2841,
+      "end_frame": 2940,
+      "keyframes": [
+        "002887.webp",
+        "002935.webp",
+        "002936.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mình sẽ vo 10 viên hồ lô nhỏ.",
+      "start": 117.6,
+      "end": 120.2,
+      "n_words": 8,
+      "start_frame": 2940,
+      "end_frame": 3005,
+      "keyframes": [
+        "002958.webp",
+        "002981.webp",
+        "002982.webp",
+        "002998.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Trước đây Long làm một cái viên đầu hồ lô nhỏ này rất là dễ thương, rất là tròn đúng không?",
+      "start": 120.2,
+      "end": 124.84,
+      "n_words": 21,
+      "start_frame": 3005,
+      "end_frame": 3121,
+      "keyframes": [
+        "003014.webp",
+        "003015.webp",
+        "003041.webp",
+        "003068.webp",
+        "003069.webp",
+        "003092.webp",
+        "003116.webp",
+        "003117.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Đây, Kim Thảo nhìn nè.",
+      "start": 124.84,
+      "end": 130.6,
+      "n_words": 5,
+      "start_frame": 3121,
+      "end_frame": 3265,
+      "keyframes": [
+        "003143.webp",
+        "003170.webp",
+        "003171.webp",
+        "003195.webp",
+        "003220.webp",
+        "003221.webp",
+        "003242.webp",
+        "003264.webp",
+        "003265.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Rồi bây giờ công đoạn là mình sẽ làm khó hơn tí xíu, cấp độ này nó cao hơn và nó khó hơn.",
+      "start": 130.6,
+      "end": 135.0,
+      "n_words": 23,
+      "start_frame": 3265,
+      "end_frame": 3375,
+      "keyframes": [
+        "003265.webp",
+        "003290.webp",
+        "003315.webp",
+        "003316.webp",
+        "003345.webp",
+        "003374.webp",
+        "003375.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cái phần chả cá thác lác còn lại thì Long sẽ chia ra 10 phần bằng nhau để mình bọc trứng cúc vào rồi mình làm một cái tiếp theo.",
+      "start": 135.0,
+      "end": 143.92,
+      "n_words": 30,
+      "start_frame": 3375,
+      "end_frame": 3598,
+      "keyframes": [
+        "003375.webp",
+        "003398.webp",
+        "003422.webp",
+        "003423.webp",
+        "003458.webp",
+        "003493.webp",
+        "003494.webp",
+        "003546.webp",
+        "003598.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Xem ra là cái công đoạn mà cho quả trứng cúc vào bên trong của chả cá thác lác này cũng cần phải có sự khéo tay lại nha.",
+      "start": 143.92,
+      "end": 151.92,
+      "n_words": 29,
+      "start_frame": 3598,
+      "end_frame": 3798,
+      "keyframes": [
+        "003598.webp",
+        "003599.webp",
+        "003634.webp",
+        "003669.webp",
+        "003670.webp",
+        "003673.webp",
+        "003677.webp",
+        "003678.webp",
+        "003705.webp",
+        "003733.webp",
+        "003734.webp",
+        "003750.webp",
+        "003767.webp",
+        "003768.webp",
+        "003789.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Đúng rồi, cuối cùng xong rồi.",
+      "start": 151.92,
+      "end": 154.4,
+      "n_words": 6,
+      "start_frame": 3798,
+      "end_frame": 3860,
+      "keyframes": [
+        "003810.webp",
+        "003811.webp",
+        "003842.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi xong, Thảo thấy dùng cái tăm á mình xuyên qua cái phần nhỏ, phần lớn chúng ta không nên làm viên cá quá dày để cá chín đều sau khi chiên xong rồi.",
+      "start": 154.4,
+      "end": 168.24,
+      "n_words": 34,
+      "start_frame": 3860,
+      "end_frame": 4206,
+      "keyframes": [
+        "003874.webp",
+        "003875.webp",
+        "003999.webp",
+        "004123.webp",
+        "004124.webp",
+        "004187.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Wow!",
+      "start": 168.24,
+      "end": 170.04,
+      "n_words": 1,
+      "start_frame": 4206,
+      "end_frame": 4251,
+      "keyframes": [
+        "004251.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ Long sẽ dùng cái phần hồ lô cá này Long cho vào trong trứng, phủ hết cái phần bột xù lên mình lăn để khi mình chiên lên á nó bông đều ra, nó sẽ đẹp hơn.",
+      "start": 170.04,
+      "end": 181.64,
+      "n_words": 39,
+      "start_frame": 4251,
+      "end_frame": 4541,
+      "keyframes": [
+        "004251.webp",
+        "004252.webp",
+        "004292.webp",
+        "004333.webp",
+        "004334.webp",
+        "004401.webp",
+        "004469.webp",
+        "004470.webp",
+        "004508.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Khi mà tạo hình ra được như vậy rồi thì chắc chắn là sẽ cảm thấy là chờ đợi món ăn được thành phẩm á và thưởng thức.",
+      "start": 181.64,
+      "end": 188.64,
+      "n_words": 28,
+      "start_frame": 4541,
+      "end_frame": 4716,
+      "keyframes": [
+        "004546.webp",
+        "004547.webp",
+        "004592.webp",
+        "004638.webp",
+        "004639.webp",
+        "004662.webp",
+        "004686.webp",
+        "004687.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Á Long, đúng rồi, viên cuối cùng đã xong rồi.",
+      "start": 188.64,
+      "end": 191.88,
+      "n_words": 10,
+      "start_frame": 4716,
+      "end_frame": 4797,
+      "keyframes": [
+        "004737.webp",
+        "004788.webp",
+        "004789.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ là Kim Thảo giúp Long chuẩn bị một cái chảo dầu nóng để mình chiên hết cái phần chả cá này.",
+      "start": 191.88,
+      "end": 197.44,
+      "n_words": 23,
+      "start_frame": 4797,
+      "end_frame": 4936,
+      "keyframes": [
+        "004819.webp",
+        "004849.webp",
+        "004850.webp",
+        "004888.webp",
+        "004927.webp",
+        "004928.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đây rồi, bây giờ thì dầu đã sôi thì Long sẽ cho lần lượt từng viên này vào.",
+      "start": 197.44,
+      "end": 209.08,
+      "n_words": 18,
+      "start_frame": 4936,
+      "end_frame": 5227,
+      "keyframes": [
+        "004945.webp",
+        "004963.webp",
+        "004964.webp",
+        "004998.webp",
+        "005033.webp",
+        "005034.webp",
+        "005095.webp",
+        "005156.webp",
+        "005157.webp",
+        "005203.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Các bạn lưu ý là với chả cá chúng ta sẽ lăn qua bột xù để cá sau khi chiên có độ giòn và đẹp mắt.",
+      "start": 209.08,
+      "end": 214.88,
+      "n_words": 26,
+      "start_frame": 5227,
+      "end_frame": 5372,
+      "keyframes": [
+        "005249.webp",
+        "005250.webp",
+        "005312.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Khi mà dầu sôi chúng ta chiên vào khoảng tầm ba phút tại vì chả cá thì được bọc trứng cúc rồi và nó rất là mỏng đúng không?",
+      "start": 214.88,
+      "end": 221.04,
+      "n_words": 29,
+      "start_frame": 5372,
+      "end_frame": 5526,
+      "keyframes": [
+        "005374.webp",
+        "005375.webp",
+        "005472.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng rồi, cũng sẽ rất là mau chín.",
+      "start": 221.04,
+      "end": 223.16,
+      "n_words": 8,
+      "start_frame": 5526,
+      "end_frame": 5579,
+      "keyframes": [
+        "005570.webp",
+        "005571.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Wow!",
+      "start": 223.16,
+      "end": 224.64,
+      "n_words": 1,
+      "start_frame": 5579,
+      "end_frame": 5616,
+      "keyframes": [
+        "005592.webp",
+        "005614.webp",
+        "005615.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cho ra đĩa nhẹ nhàng thôi.",
+      "start": 224.64,
+      "end": 228.16,
+      "n_words": 6,
+      "start_frame": 5616,
+      "end_frame": 5704,
+      "keyframes": [
+        "005652.webp",
+        "005690.webp",
+        "005691.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rất là nóng, rất là giòn luôn nè, Long nghe được cái tiếng rớt rớt luôn á.",
+      "start": 228.16,
+      "end": 231.16,
+      "n_words": 17,
+      "start_frame": 5704,
+      "end_frame": 5779,
+      "keyframes": [
+        "005735.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ là tới Kim Thảo nè, giúp Long lấy cái phần hành lá đó, cái phần hành lá đó mình thắt một cái vòng cổ cho những cái hồ lô này.",
+      "start": 231.16,
+      "end": 237.44,
+      "n_words": 32,
+      "start_frame": 5779,
+      "end_frame": 5936,
+      "keyframes": [
+        "005780.webp",
+        "005781.webp",
+        "005800.webp",
+        "005820.webp",
+        "005821.webp",
+        "005842.webp",
+        "005864.webp",
+        "005865.webp",
+        "005881.webp",
+        "005898.webp",
+        "005899.webp",
+        "005914.webp",
+        "005930.webp",
+        "005931.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Wow!",
+      "start": 237.44,
+      "end": 237.96,
+      "n_words": 1,
+      "start_frame": 5936,
+      "end_frame": 5949,
+      "keyframes": [
+        "005948.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Xong rồi mình phải rút cái tăm ra, công đoạn này thật là thú vị.",
+      "start": 237.96,
+      "end": 241.04,
+      "n_words": 15,
+      "start_frame": 5949,
+      "end_frame": 6026,
+      "keyframes": [
+        "005965.webp",
+        "005966.webp",
+        "005994.webp",
+        "006023.webp",
+        "006024.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Rồi lúc này đây Long sẽ pha sốt.",
+      "start": 241.04,
+      "end": 243.24,
+      "n_words": 8,
+      "start_frame": 6026,
+      "end_frame": 6081,
+      "keyframes": [
+        "006050.webp",
+        "006076.webp",
+        "006077.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Long cần hai muỗng canh sốt mayonnaise ngọt dịu và một muỗng canh tương ớt, một muỗng cà phê ngò rí băm, trộn đều sốt lên.",
+      "start": 243.24,
+      "end": 252.52,
+      "n_words": 26,
+      "start_frame": 6081,
+      "end_frame": 6313,
+      "keyframes": [
+        "006138.webp",
+        "006199.webp",
+        "006200.webp",
+        "006223.webp",
+        "006246.webp",
+        "006247.webp",
+        "006266.webp",
+        "006285.webp",
+        "006286.webp",
+        "006298.webp",
+        "006311.webp",
+        "006312.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Cái mùi thơm của ngò rí sẽ kết hợp với lại vị béo của mayonnaise sẽ rất phù hợp với lại cái món chả cá chiên vừa rồi, và chúng ta có thể thay thế là tương cà thay cho tương ớt để phù hợp hơn các bạn nhỏ.",
+      "start": 252.52,
+      "end": 263.76,
+      "n_words": 49,
+      "start_frame": 6313,
+      "end_frame": 6594,
+      "keyframes": [
+        "006326.webp",
+        "006340.webp",
+        "006341.webp",
+        "006383.webp",
+        "006425.webp",
+        "006426.webp",
+        "006444.webp",
+        "006462.webp",
+        "006463.webp",
+        "006528.webp",
+        "006593.webp",
+        "006594.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Xong rồi, các bạn khán giả muốn xem lại công thức của món ăn này xin hãy quét mã QR của chúng tôi nhé.",
+      "start": 263.76,
+      "end": 273.44,
+      "n_words": 24,
+      "start_frame": 6594,
+      "end_frame": 6836,
+      "keyframes": [
+        "006594.webp",
+        "006615.webp",
+        "006637.webp",
+        "006638.webp",
+        "006700.webp",
+        "006763.webp",
+        "006764.webp",
+        "006788.webp",
+        "006813.webp",
+        "006814.webp",
+        "006825.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Thật sự là khi mà dọn đĩa thức ăn này lên á thì Kim Thảo không thể tưởng tượng được là ai có thể từ chối được món ăn này á và đây nữa, wow!",
+      "start": 273.44,
+      "end": 285.84,
+      "n_words": 35,
+      "start_frame": 6836,
+      "end_frame": 7146,
+      "keyframes": [
+        "006837.webp",
+        "006838.webp",
+        "006886.webp",
+        "006934.webp",
+        "006935.webp",
+        "006998.webp",
+        "007062.webp",
+        "007063.webp",
+        "007083.webp",
+        "007104.webp",
+        "007105.webp",
+        "007143.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Và để tạo nên một bữa ăn trọn vẹn, Long khuyến khích cả nhà mình nên ăn kèm với món sườn xào bắp non.",
+      "start": 285.84,
+      "end": 291.12,
+      "n_words": 24,
+      "start_frame": 7146,
+      "end_frame": 7278,
+      "keyframes": [
+        "007181.webp",
+        "007182.webp",
+        "007205.webp",
+        "007228.webp",
+        "007229.webp",
+        "007258.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Viên cá giòn dai tươi ngon ôm trọn trứng cúc bùi bùi, thêm sốt béo thơm thơm, ăn thiệt đã.",
+      "start": 291.68,
+      "end": 298.52,
+      "n_words": 20,
+      "start_frame": 7292,
+      "end_frame": 7463,
+      "keyframes": [
+        "007333.webp",
+        "007379.webp",
+        "007380.webp",
+        "007426.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Nếu bạn có chả cá thác lác thì hãy thử ngay món ngon ngon lạ lạ này nhé.",
+      "start": 298.52,
+      "end": 303.08,
+      "n_words": 18,
+      "start_frame": 7463,
+      "end_frame": 7577,
+      "keyframes": [
+        "007472.webp",
+        "007473.webp",
+        "007523.webp",
+        "007574.webp",
+        "007575.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Còn nếu như muốn xem lại công thức của món ăn hồ lô cá ngày hôm nay thì hãy truy cập vào YouTube, website, fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 303.08,
+      "end": 312.88,
+      "n_words": 32,
+      "start_frame": 7577,
+      "end_frame": 7822,
+      "keyframes": [
+        "007687.webp",
+        "007799.webp",
+        "007800.webp"
+      ],
+      "keyframe_count": 3
+    }
+  ]
+}

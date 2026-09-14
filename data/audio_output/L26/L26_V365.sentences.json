@@ -1,0 +1,837 @@
+{
+  "video_id": "L26_V365",
+  "fps": 25.0,
+  "n_sentences": 42,
+  "total_words": 1063,
+  "sentences": [
+    {
+      "text": "Vị món ngon mỗi ngày.",
+      "start": 0.04,
+      "end": 12.2,
+      "n_words": 5,
+      "start_frame": 1,
+      "end_frame": 305,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000119.webp",
+        "000130.webp",
+        "000131.webp",
+        "000148.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 36
+    },
+    {
+      "text": "Dầu iot nè, canxi, vitamin A, B, C, E nhiều quá vậy?",
+      "start": 12.2,
+      "end": 18.32,
+      "n_words": 12,
+      "start_frame": 305,
+      "end_frame": 458,
+      "keyframes": [
+        "000326.webp",
+        "000353.webp",
+        "000354.webp",
+        "000381.webp",
+        "000409.webp",
+        "000410.webp",
+        "000449.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Vậy thì mình phải kết hợp bơ nè, trứng nè, sữa nè, rau củ.",
+      "start": 18.32,
+      "end": 23.24,
+      "n_words": 14,
+      "start_frame": 458,
+      "end_frame": 581,
+      "keyframes": [
+        "000488.webp",
+        "000489.webp",
+        "000519.webp",
+        "000550.webp",
+        "000551.webp",
+        "000565.webp",
+        "000580.webp",
+        "000581.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Đừng có nói bữa nay nghiên cứu như vậy là để nấu tặng sinh một món gì nha?",
+      "start": 23.24,
+      "end": 28.44,
+      "n_words": 18,
+      "start_frame": 581,
+      "end_frame": 711,
+      "keyframes": [
+        "000581.webp",
+        "000619.webp",
+        "000657.webp",
+        "000658.webp",
+        "000683.webp",
+        "000708.webp",
+        "000709.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Trời đất ơi, đang tìm hiểu về chất dinh dưỡng trong các nguyên liệu bởi vì bây giờ không chỉ ăn ngon mà đòi hỏi phải có đầy đủ chất dinh dưỡng trong mỗi bữa ăn.",
+      "start": 28.44,
+      "end": 37.68,
+      "n_words": 36,
+      "start_frame": 711,
+      "end_frame": 942,
+      "keyframes": [
+        "000725.webp",
+        "000742.webp",
+        "000743.webp",
+        "000759.webp",
+        "000776.webp",
+        "000777.webp",
+        "000827.webp",
+        "000878.webp",
+        "000879.webp",
+        "000919.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Mà bây giờ nhiều khoáng chất, nhiều vitamin làm sao mà kết hợp được ta?",
+      "start": 37.68,
+      "end": 41.44,
+      "n_words": 15,
+      "start_frame": 942,
+      "end_frame": 1036,
+      "keyframes": [
+        "000960.webp",
+        "000961.webp",
+        "000997.webp",
+        "001034.webp",
+        "001035.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ có một cái nguyên liệu là cung cấp được vitamin nè, canxi, khoáng chất, iot cao gấp mấy lần tất cả nguyên liệu đó cộng lại luôn.",
+      "start": 41.44,
+      "end": 48.88,
+      "n_words": 29,
+      "start_frame": 1036,
+      "end_frame": 1222,
+      "keyframes": [
+        "001076.webp",
+        "001118.webp",
+        "001119.webp",
+        "001167.webp",
+        "001215.webp",
+        "001216.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Dầu iot, dầu canxi chỉ có thể là rong biển.",
+      "start": 48.88,
+      "end": 55.84,
+      "n_words": 10,
+      "start_frame": 1222,
+      "end_frame": 1396,
+      "keyframes": [
+        "001247.webp",
+        "001278.webp",
+        "001279.webp",
+        "001292.webp",
+        "001306.webp",
+        "001307.webp",
+        "001316.webp",
+        "001326.webp",
+        "001327.webp",
+        "001337.webp",
+        "001347.webp",
+        "001348.webp",
+        "001372.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Vị ngon bung tỏa với rong biển cuộn nấm kim châm. Chào các bạn khán giả đến với chương trình Món ngon mỗi ngày.",
+      "start": 55.84,
+      "end": 78.48,
+      "n_words": 24,
+      "start_frame": 1396,
+      "end_frame": 1962,
+      "keyframes": [
+        "001397.webp",
+        "001398.webp",
+        "001445.webp",
+        "001492.webp",
+        "001493.webp",
+        "001531.webp",
+        "001569.webp",
+        "001584.webp",
+        "001650.webp",
+        "001716.webp",
+        "001717.webp",
+        "001803.webp",
+        "001890.webp",
+        "001891.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 78.48,
+      "end": 82.56,
+      "n_words": 11,
+      "start_frame": 1962,
+      "end_frame": 2064,
+      "keyframes": [
+        "001975.webp",
+        "002059.webp",
+        "002060.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tôm chúng ta mua tôm tươi về, bỏ vỏ lấy chỉ lưng và thấm khô, băm sơ nhẹ cho tôm được dai nha.",
+      "start": 82.56,
+      "end": 89.04,
+      "n_words": 23,
+      "start_frame": 2064,
+      "end_frame": 2226,
+      "keyframes": [
+        "002082.webp",
+        "002105.webp",
+        "002106.webp",
+        "002134.webp",
+        "002162.webp",
+        "002163.webp",
+        "002181.webp",
+        "002199.webp",
+        "002200.webp",
+        "002212.webp",
+        "002225.webp",
+        "002226.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Đây là cái hỗn hợp mà để chúng ta phết lên cái phần rong biển, có phần thịt heo băm và thêm một ít giò sống nữa, gốc hành trắng băm, có tỏi băm, nấm hương thì chúng ta mua nấm hương khô về, chúng ta ngâm mềm, cắt chân và chúng ta cắt hạt lựu nhỏ như vậy.",
+      "start": 89.04,
+      "end": 103.2,
+      "n_words": 59,
+      "start_frame": 2226,
+      "end_frame": 2580,
+      "keyframes": [
+        "002226.webp",
+        "002252.webp",
+        "002278.webp",
+        "002279.webp",
+        "002293.webp",
+        "002307.webp",
+        "002308.webp",
+        "002322.webp",
+        "002337.webp",
+        "002338.webp",
+        "002362.webp",
+        "002386.webp",
+        "002387.webp",
+        "002401.webp",
+        "002415.webp",
+        "002416.webp",
+        "002438.webp",
+        "002461.webp",
+        "002462.webp",
+        "002476.webp",
+        "002491.webp",
+        "002492.webp",
+        "002522.webp",
+        "002553.webp",
+        "002554.webp"
+      ],
+      "keyframe_count": 25
+    },
+    {
+      "text": "Cần nêm nếm vào đây một ít gia vị nữa nha: đầu tiên thì xin sẽ có một muỗng cà phê hạt nêm Aji-ngon heo, có một muỗng cà phê bột ngọt Ajinomoto, một muỗng cà phê tiêu rồi trộn hỗn hợp này.",
+      "start": 103.2,
+      "end": 114.96,
+      "n_words": 43,
+      "start_frame": 2580,
+      "end_frame": 2874,
+      "keyframes": [
+        "002593.webp",
+        "002632.webp",
+        "002633.webp",
+        "002648.webp",
+        "002664.webp",
+        "002665.webp",
+        "002688.webp",
+        "002712.webp",
+        "002713.webp",
+        "002734.webp",
+        "002756.webp",
+        "002757.webp",
+        "002772.webp",
+        "002787.webp",
+        "002788.webp",
+        "002819.webp",
+        "002850.webp",
+        "002851.webp",
+        "002861.webp",
+        "002872.webp",
+        "002873.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Và chúng ta sẽ đập nhẹ phần hỗn hợp này như vậy đó, vậy đó thì món ăn sẽ được kết dính tốt và dai hơn.",
+      "start": 114.96,
+      "end": 120.88,
+      "n_words": 26,
+      "start_frame": 2874,
+      "end_frame": 3022,
+      "keyframes": [
+        "002912.webp",
+        "002951.webp",
+        "002952.webp",
+        "002988.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đối với món này thì chúng ta cho nấm hương vào nhân rong biển để tăng thêm mùi thơm cho món ăn này.",
+      "start": 120.88,
+      "end": 126.32,
+      "n_words": 23,
+      "start_frame": 3022,
+      "end_frame": 3158,
+      "keyframes": [
+        "003025.webp",
+        "003026.webp",
+        "003090.webp",
+        "003155.webp",
+        "003156.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Lá rong biển bình thường chúng ta mua về, mình cắt làm bốn sẽ được cái miếng vừa vặn, thì mình trải ra và mình sẽ dùng cái hỗn hợp hồi nãy, mình sẽ phết một lớp mỏng lên miếng rong biển này, tại vì mình sẽ cuộn nhiều cuộn lại với nhau, cuộn lại nhiều quá mà đúng không?",
+      "start": 126.32,
+      "end": 139.32,
+      "n_words": 60,
+      "start_frame": 3158,
+      "end_frame": 3483,
+      "keyframes": [
+        "003179.webp",
+        "003202.webp",
+        "003203.webp",
+        "003223.webp",
+        "003244.webp",
+        "003245.webp",
+        "003260.webp",
+        "003275.webp",
+        "003276.webp",
+        "003300.webp",
+        "003325.webp",
+        "003326.webp",
+        "003379.webp",
+        "003432.webp",
+        "003433.webp",
+        "003461.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Rồi và phần cuối này thì chúng ta để ít lại để cho chúng ta ghép cái miếng nó được đẹp hơn.",
+      "start": 139.32,
+      "end": 144.0,
+      "n_words": 22,
+      "start_frame": 3483,
+      "end_frame": 3600,
+      "keyframes": [
+        "003489.webp",
+        "003490.webp",
+        "003541.webp",
+        "003593.webp",
+        "003594.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nấm thì chúng ta sẽ lấy một ít để vào chính giữa như vậy, cuộn lại thôi.",
+      "start": 144.0,
+      "end": 149.32,
+      "n_words": 17,
+      "start_frame": 3600,
+      "end_frame": 3733,
+      "keyframes": [
+        "003617.webp",
+        "003641.webp",
+        "003642.webp",
+        "003666.webp",
+        "003690.webp",
+        "003691.webp",
+        "003708.webp",
+        "003725.webp",
+        "003726.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đó, như vậy là chúng ta sẽ được một cuộn rong biển như thế này nè.",
+      "start": 149.32,
+      "end": 153.44,
+      "n_words": 16,
+      "start_frame": 3733,
+      "end_frame": 3836,
+      "keyframes": [
+        "003773.webp",
+        "003820.webp",
+        "003821.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Lần lượt làm hết những cuộn còn lại.",
+      "start": 153.44,
+      "end": 156.88,
+      "n_words": 8,
+      "start_frame": 3836,
+      "end_frame": 3922,
+      "keyframes": [
+        "003849.webp",
+        "003877.webp",
+        "003878.webp",
+        "003899.webp",
+        "003920.webp",
+        "003921.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Khi mà cuộn thì chúng ta phải chặt tay một chút xíu đúng không?",
+      "start": 156.88,
+      "end": 160.24,
+      "n_words": 14,
+      "start_frame": 3922,
+      "end_frame": 4006,
+      "keyframes": [
+        "003966.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đúng rồi, vì khi mà chúng ta chiên, cái phần nấm này sẽ chín mà là phần nấm sẽ hơi teo lại cho nên nếu mà chúng ta không cuộn chặt thì có thể phần nấm này sẽ bị rớt ra ngoài.",
+      "start": 160.24,
+      "end": 168.16,
+      "n_words": 42,
+      "start_frame": 4006,
+      "end_frame": 4204,
+      "keyframes": [
+        "004012.webp",
+        "004013.webp",
+        "004078.webp",
+        "004144.webp",
+        "004145.webp",
+        "004186.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và trong khi chờ bạn cuốn hoàn thành những cuốn còn lại thì xin sẽ hướng dẫn mọi người nấu cái phần nước sốt.",
+      "start": 168.16,
+      "end": 173.64,
+      "n_words": 24,
+      "start_frame": 4204,
+      "end_frame": 4341,
+      "keyframes": [
+        "004228.webp",
+        "004229.webp",
+        "004244.webp",
+        "004260.webp",
+        "004261.webp",
+        "004301.webp",
+        "004341.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Xin cho bốn muỗng canh nước tương Phú Sĩ, thêm một muỗng canh đường nữa nha, một muỗng canh rượu trắng nữa và cuối cùng chúng ta thêm hai muỗng canh gừng băm nữa.",
+      "start": 173.64,
+      "end": 182.32,
+      "n_words": 34,
+      "start_frame": 4341,
+      "end_frame": 4558,
+      "keyframes": [
+        "004341.webp",
+        "004342.webp",
+        "004362.webp",
+        "004382.webp",
+        "004383.webp",
+        "004399.webp",
+        "004415.webp",
+        "004416.webp",
+        "004438.webp",
+        "004460.webp",
+        "004461.webp",
+        "004477.webp",
+        "004494.webp",
+        "004495.webp",
+        "004535.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Rồi bây giờ chúng ta sẽ mở lửa lên, lửa vừa để cho phần sốt chúng ta được cô đặc và sánh xệt vừa phải.",
+      "start": 182.32,
+      "end": 188.08,
+      "n_words": 25,
+      "start_frame": 4558,
+      "end_frame": 4702,
+      "keyframes": [
+        "004575.webp",
+        "004576.webp",
+        "004583.webp",
+        "004590.webp",
+        "004591.webp",
+        "004604.webp",
+        "004617.webp",
+        "004618.webp",
+        "004645.webp",
+        "004672.webp",
+        "004673.webp",
+        "004686.webp",
+        "004700.webp",
+        "004701.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Đối với món sốt này thì chúng ta nên cho rượu trắng vào để tạo hương vị cho món ăn này nha.",
+      "start": 188.08,
+      "end": 191.96,
+      "n_words": 22,
+      "start_frame": 4702,
+      "end_frame": 4799,
+      "keyframes": [
+        "004748.webp",
+        "004795.webp",
+        "004796.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và cái phần nước sốt đang dần sôi nè, rất là thơm.",
+      "start": 191.96,
+      "end": 194.6,
+      "n_words": 12,
+      "start_frame": 4799,
+      "end_frame": 4865,
+      "keyframes": [
+        "004820.webp",
+        "004845.webp",
+        "004846.webp",
+        "004855.webp",
+        "004864.webp",
+        "004865.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cái phần sốt cũng đã sánh xệt thì mình sẽ để ra một cái chén để cho nguội và chúng ta sẽ pha nước chanh vào để khỏi bị đắng.",
+      "start": 194.6,
+      "end": 199.6,
+      "n_words": 30,
+      "start_frame": 4865,
+      "end_frame": 4990,
+      "keyframes": [
+        "004865.webp",
+        "004884.webp",
+        "004903.webp",
+        "004904.webp",
+        "004926.webp",
+        "004948.webp",
+        "004949.webp",
+        "004968.webp",
+        "004988.webp",
+        "004989.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Còn cái phần cuộn thì mình cũng đã cuộn xong rồi, đặt lên đây một cái chảo dầu.",
+      "start": 199.6,
+      "end": 203.12,
+      "n_words": 18,
+      "start_frame": 4990,
+      "end_frame": 5078,
+      "keyframes": [
+        "005012.webp",
+        "005036.webp",
+        "005037.webp",
+        "005058.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Xin sẽ sử dụng một gói gia vị nêm sẵn Ajinomoto bột chiên giòn.",
+      "start": 203.12,
+      "end": 206.48,
+      "n_words": 14,
+      "start_frame": 5078,
+      "end_frame": 5162,
+      "keyframes": [
+        "005079.webp",
+        "005080.webp",
+        "005114.webp",
+        "005148.webp",
+        "005149.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đối với món này thì chúng ta cần cái lớp bột áo mỏng thôi cho nên chúng ta sẽ pha lỏng hơn một chút xíu là 200 ml.",
+      "start": 206.48,
+      "end": 211.48,
+      "n_words": 28,
+      "start_frame": 5162,
+      "end_frame": 5287,
+      "keyframes": [
+        "005176.webp",
+        "005203.webp",
+        "005204.webp",
+        "005225.webp",
+        "005247.webp",
+        "005248.webp",
+        "005284.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Và bây giờ cái hỗn hợp bột thì Xin cũng đã pha xong, thì chúng ta sẽ áo một lớp mỏng như vậy đó, chúng ta nhúng luôn cái phần nấm và để khi chiên phần nấm không bị dính vào nhau á thì chúng ta để vào đây và chúng ta nhúc nhích như vậy đó thì phần nấm sẽ được tơi ra và chúng ta sẽ làm tiếp tục như vậy hết những cuốn nấm còn lại.",
+      "start": 212.08,
+      "end": 229.16,
+      "n_words": 79,
+      "start_frame": 5302,
+      "end_frame": 5729,
+      "keyframes": [
+        "005321.webp",
+        "005322.webp",
+        "005343.webp",
+        "005364.webp",
+        "005365.webp",
+        "005401.webp",
+        "005437.webp",
+        "005438.webp",
+        "005513.webp",
+        "005589.webp",
+        "005590.webp",
+        "005622.webp",
+        "005654.webp",
+        "005655.webp",
+        "005694.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Nhấc một chút xíu khi mà vừa cho cái cuốn vào cái chảo dầu đúng không nào? Đúng rồi, đúng không nào?",
+      "start": 229.16,
+      "end": 233.64,
+      "n_words": 22,
+      "start_frame": 5729,
+      "end_frame": 5841,
+      "keyframes": [
+        "005734.webp",
+        "005735.webp",
+        "005791.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng rồi, chúng ta nên áo một lớp bột mỏng thôi để món ăn có độ giòn nhẹ, món ăn sẽ ngon hơn.",
+      "start": 233.64,
+      "end": 238.96,
+      "n_words": 23,
+      "start_frame": 5841,
+      "end_frame": 5974,
+      "keyframes": [
+        "005847.webp",
+        "005848.webp",
+        "005909.webp",
+        "005970.webp",
+        "005971.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và bây giờ thì tất cả các cuốn đã vàng đều thì Minh Phương sẽ tiến hành gắp ra để thấm dầu nha.",
+      "start": 238.96,
+      "end": 243.44,
+      "n_words": 23,
+      "start_frame": 5974,
+      "end_frame": 6086,
+      "keyframes": [
+        "006008.webp",
+        "006046.webp",
+        "006047.webp",
+        "006066.webp",
+        "006085.webp",
+        "006086.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thì cái hỗn hợp gia vị nước tương hồi nãy chúng ta nấu lên cũng đã nguội rồi thì bây giờ chúng ta sẽ cần thêm hai muỗng canh nước chanh nữa.",
+      "start": 243.44,
+      "end": 250.04,
+      "n_words": 32,
+      "start_frame": 6086,
+      "end_frame": 6251,
+      "keyframes": [
+        "006086.webp",
+        "006119.webp",
+        "006153.webp",
+        "006154.webp",
+        "006185.webp",
+        "006216.webp",
+        "006217.webp",
+        "006235.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Và đây là những cuốn cuối cùng xin sẽ gắp ra để thấm dầu.",
+      "start": 250.04,
+      "end": 255.12,
+      "n_words": 14,
+      "start_frame": 6251,
+      "end_frame": 6378,
+      "keyframes": [
+        "006254.webp",
+        "006255.webp",
+        "006293.webp",
+        "006332.webp",
+        "006333.webp",
+        "006357.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Gắp thôi mà Phương cảm nhận được cái độ giòn của từng cái cuốn nấm cuộn với rong biển.",
+      "start": 255.12,
+      "end": 261.12,
+      "n_words": 19,
+      "start_frame": 6378,
+      "end_frame": 6528,
+      "keyframes": [
+        "006382.webp",
+        "006383.webp",
+        "006412.webp",
+        "006441.webp",
+        "006442.webp",
+        "006464.webp",
+        "006487.webp",
+        "006488.webp",
+        "006505.webp",
+        "006523.webp",
+        "006524.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Để món ăn này được hoàn chỉnh hơn thì nên kết hợp món ăn này với một loại sa lách dầu giấm nữa nha.",
+      "start": 261.12,
+      "end": 265.84,
+      "n_words": 24,
+      "start_frame": 6528,
+      "end_frame": 6646,
+      "keyframes": [
+        "006585.webp",
+        "006646.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cuộn rong biển áo bột vàng giòn, nấm kim châm dai dai, nhân tôm mặn ngọt hài hòa với sốt chấm ấm vị gừng, đậm đà vị nước tương cực kỳ đưa cơm luôn nha các bạn.",
+      "start": 265.84,
+      "end": 277.92,
+      "n_words": 37,
+      "start_frame": 6646,
+      "end_frame": 6948,
+      "keyframes": [
+        "006646.webp",
+        "006647.webp",
+        "006681.webp",
+        "006715.webp",
+        "006716.webp",
+        "006833.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Một món chiên đơn giản nhưng ngon đến lạ kỳ, trổ tài cho cả nhà thưởng thức thôi các bạn ơi.",
+      "start": 277.92,
+      "end": 283.72,
+      "n_words": 21,
+      "start_frame": 6948,
+      "end_frame": 7093,
+      "keyframes": [
+        "006950.webp",
+        "006951.webp",
+        "007022.webp",
+        "007093.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Các bạn có thể xem lại công thức của các món ngon cũng như tìm hiểu về các thông tin hữu ích bằng cách truy cập vào kênh YouTube, website và fanpage của chương trình.",
+      "start": 283.72,
+      "end": 294.2,
+      "n_words": 35,
+      "start_frame": 7093,
+      "end_frame": 7355,
+      "keyframes": [
+        "007093.webp",
+        "007094.webp",
+        "007153.webp",
+        "007213.webp",
+        "007214.webp",
+        "007274.webp",
+        "007334.webp",
+        "007335.webp"
+      ],
+      "keyframe_count": 8
+    }
+  ]
+}

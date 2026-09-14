@@ -1,0 +1,728 @@
+{
+  "video_id": "L26_V103",
+  "fps": 25.0,
+  "n_sentences": 39,
+  "total_words": 1005,
+  "sentences": [
+    {
+      "text": "Rất món ngon mỗi ngày, ngon mắt, khéo vị, ngọt lành với thịt heo cuộn cải hấp.",
+      "start": 0.04,
+      "end": 34.8,
+      "n_words": 17,
+      "start_frame": 1,
+      "end_frame": 870,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000130.webp",
+        "000147.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp",
+        "000352.webp",
+        "000404.webp",
+        "000405.webp",
+        "000482.webp",
+        "000559.webp",
+        "000560.webp",
+        "000628.webp",
+        "000697.webp",
+        "000698.webp",
+        "000788.webp"
+      ],
+      "keyframe_count": 46
+    },
+    {
+      "text": "Rất vui được gặp lại các bạn khán giả đang đến với chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành. Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 34.8,
+      "end": 43.84,
+      "n_words": 33,
+      "start_frame": 870,
+      "end_frame": 1096,
+      "keyframes": [
+        "000878.webp",
+        "000879.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và ngày hôm nay, Phước Hương với Minh Phương sẽ hướng dẫn cho các bạn một món hấp rất là thanh đạm nhưng mà đầy đủ chất dinh dưỡng, luôn đó là món thịt heo cuộn cải hấp.",
+      "start": 43.84,
+      "end": 53.16,
+      "n_words": 38,
+      "start_frame": 1096,
+      "end_frame": 1329,
+      "keyframes": [
+        "001100.webp",
+        "001321.webp",
+        "001322.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hương sẽ đặt lên trên bếp một cái nồi nước.",
+      "start": 53.16,
+      "end": 55.56,
+      "n_words": 10,
+      "start_frame": 1329,
+      "end_frame": 1389,
+      "keyframes": [
+        "001367.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta sẽ ướp cái phần nấm mèo và nấm hương, cho hết cái phần nấm hương này vào tô, nấm hương này vào tô.",
+      "start": 55.56,
+      "end": 60.8,
+      "n_words": 25,
+      "start_frame": 1389,
+      "end_frame": 1520,
+      "keyframes": [
+        "001412.webp",
+        "001413.webp",
+        "001434.webp",
+        "001455.webp",
+        "001456.webp",
+        "001490.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Phần nấm mèo cũng vậy, chúng ta sẽ ngâm nở và cắt nhỏ luôn.",
+      "start": 60.8,
+      "end": 64.28,
+      "n_words": 14,
+      "start_frame": 1520,
+      "end_frame": 1607,
+      "keyframes": [
+        "001525.webp",
+        "001526.webp",
+        "001566.webp",
+        "001607.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và đây cũng là một cái lưu ý cho quý vị khán giả nhé, chúng ta sẽ ướp phần nấm mèo và nấm hương trước khi trộn vào giò sống giúp cho phần nhân thơm ngon hơn.",
+      "start": 64.28,
+      "end": 71.8,
+      "n_words": 37,
+      "start_frame": 1607,
+      "end_frame": 1795,
+      "keyframes": [
+        "001607.webp",
+        "001608.webp",
+        "001633.webp",
+        "001658.webp",
+        "001659.webp",
+        "001725.webp",
+        "001792.webp",
+        "001793.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Cho vào đây một ít hành tím, một ít tiêu, trộn đều lên cho tiêu và hành tím được thấm gia vị.",
+      "start": 71.8,
+      "end": 77.48,
+      "n_words": 22,
+      "start_frame": 1795,
+      "end_frame": 1937,
+      "keyframes": [
+        "001816.webp",
+        "001840.webp",
+        "001841.webp",
+        "001859.webp",
+        "001877.webp",
+        "001878.webp",
+        "001908.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Chúng ta sẽ cho vào đây một ít muối hay chúng ta còn gọi đó là baking soda đó ạ.",
+      "start": 77.48,
+      "end": 82.16,
+      "n_words": 20,
+      "start_frame": 1937,
+      "end_frame": 2054,
+      "keyframes": [
+        "001939.webp",
+        "001940.webp",
+        "001996.webp",
+        "002053.webp",
+        "002054.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đây là cái phần cọng cải đúng không Phước Hưng?",
+      "start": 82.16,
+      "end": 83.92,
+      "n_words": 10,
+      "start_frame": 2054,
+      "end_frame": 2098,
+      "keyframes": [
+        "002054.webp",
+        "002080.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đúng rồi, chúng ta sẽ cho ngay vào một cái tô nước đá lạnh để giữ được màu xanh cho cọng cải.",
+      "start": 83.92,
+      "end": 89.04,
+      "n_words": 22,
+      "start_frame": 2098,
+      "end_frame": 2226,
+      "keyframes": [
+        "002106.webp",
+        "002107.webp",
+        "002165.webp",
+        "002223.webp",
+        "002224.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Rồi bây giờ thì đến phần cà rốt, chúng ta sẽ tắt bếp nè, vớt cà rốt ngâm vào trong nước đá lạnh luôn.",
+      "start": 89.04,
+      "end": 96.08,
+      "n_words": 24,
+      "start_frame": 2226,
+      "end_frame": 2402,
+      "keyframes": [
+        "002266.webp",
+        "002309.webp",
+        "002310.webp",
+        "002326.webp",
+        "002343.webp",
+        "002344.webp",
+        "002373.webp",
+        "002402.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Tiếp tục, Phước Hưng sẽ cho phần giò sống vào, chúng ta trộn, cho vào đây một muỗng cà phê nước mắm, nửa muỗng cà phê bột ngọt Ajinomoto, nửa muỗng cà phê hạt nêm Ajinomoto, rồi trộn đều cái phần nhân.",
+      "start": 96.08,
+      "end": 109.52,
+      "n_words": 42,
+      "start_frame": 2402,
+      "end_frame": 2738,
+      "keyframes": [
+        "002402.webp",
+        "002403.webp",
+        "002419.webp",
+        "002436.webp",
+        "002437.webp",
+        "002471.webp",
+        "002505.webp",
+        "002506.webp",
+        "002531.webp",
+        "002556.webp",
+        "002557.webp",
+        "002593.webp",
+        "002630.webp",
+        "002631.webp",
+        "002660.webp",
+        "002689.webp",
+        "002690.webp",
+        "002714.webp",
+        "002738.webp"
+      ],
+      "keyframe_count": 19
+    },
+    {
+      "text": "Chúng ta sẽ cắt cái phần thăn heo có cái độ dày khoảng 0.5 cm.",
+      "start": 109.52,
+      "end": 112.92,
+      "n_words": 15,
+      "start_frame": 2738,
+      "end_frame": 2823,
+      "keyframes": [
+        "002738.webp",
+        "002739.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nếu như mà ngày hôm nào cái phần thịt thăn nó không đủ bề bạc lớn thì chúng ta sẽ tạo hình bằng cách là chúng ta sẽ cắt hình cánh bướm.",
+      "start": 113.84,
+      "end": 120.88,
+      "n_words": 32,
+      "start_frame": 2846,
+      "end_frame": 3022,
+      "keyframes": [
+        "002929.webp",
+        "002930.webp",
+        "002973.webp",
+        "003016.webp",
+        "003017.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thì chúng ta sẽ đập phần thăn heo này mềm ra, sử dụng thêm một lớp màng thực phẩm nữa mà chúng ta dần ra, chúng ta để qua đây và tiếp tục như vậy, chúng ta sẽ làm hết cái phần thăn heo luôn.",
+      "start": 120.88,
+      "end": 136.36,
+      "n_words": 45,
+      "start_frame": 3022,
+      "end_frame": 3409,
+      "keyframes": [
+        "003062.webp",
+        "003107.webp",
+        "003108.webp",
+        "003152.webp",
+        "003197.webp",
+        "003198.webp",
+        "003250.webp",
+        "003303.webp",
+        "003304.webp",
+        "003362.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Cho vào đây nửa muỗng canh dầu ăn, nửa muỗng cà phê hạt nêm Ajinomoto, một muỗng cà phê đầu hành trắng bằm và cuối cùng Hương sẽ cho vào đây một ít tiêu.",
+      "start": 136.36,
+      "end": 150.4,
+      "n_words": 34,
+      "start_frame": 3409,
+      "end_frame": 3760,
+      "keyframes": [
+        "003421.webp",
+        "003422.webp",
+        "003466.webp",
+        "003510.webp",
+        "003511.webp",
+        "003567.webp",
+        "003624.webp",
+        "003625.webp",
+        "003658.webp",
+        "003691.webp",
+        "003692.webp",
+        "003729.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Chúng ta sẽ trộn đều lên cho phần thịt thăn heo được thấm vị.",
+      "start": 150.4,
+      "end": 154.04,
+      "n_words": 14,
+      "start_frame": 3760,
+      "end_frame": 3851,
+      "keyframes": [
+        "003767.webp",
+        "003768.webp",
+        "003816.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Khi nãy thì Phước Hưng giao nhiệm vụ là phải tráng cho Phước Hưng những cái trứng thiệt là mỏng như thế này, để tiết kiệm thời gian thì chúng ta cũng đã tráng sẵn rồi.",
+      "start": 154.04,
+      "end": 161.16,
+      "n_words": 36,
+      "start_frame": 3851,
+      "end_frame": 4029,
+      "keyframes": [
+        "003865.webp",
+        "003866.webp",
+        "003890.webp",
+        "003915.webp",
+        "003916.webp",
+        "003942.webp",
+        "003968.webp",
+        "003969.webp",
+        "003998.webp",
+        "004027.webp",
+        "004028.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Phước Hương sẽ sử dụng một miếng thịt thăn heo mà chúng ta đã ướp rồi nè, chúng ta sẽ trải lên bề mặt của tấm thớt.",
+      "start": 161.16,
+      "end": 167.28,
+      "n_words": 27,
+      "start_frame": 4029,
+      "end_frame": 4182,
+      "keyframes": [
+        "004057.webp",
+        "004086.webp",
+        "004087.webp",
+        "004133.webp",
+        "004180.webp",
+        "004181.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sẽ lấy một lớp giò sống chúng ta phết mỏng lên, cho vào một lớp trứng, sử dụng một cọng cà rốt và một cọng cải xanh.",
+      "start": 167.28,
+      "end": 177.76,
+      "n_words": 27,
+      "start_frame": 4182,
+      "end_frame": 4444,
+      "keyframes": [
+        "004223.webp",
+        "004266.webp",
+        "004267.webp",
+        "004297.webp",
+        "004327.webp",
+        "004328.webp",
+        "004351.webp",
+        "004375.webp",
+        "004376.webp",
+        "004409.webp",
+        "004443.webp",
+        "004444.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Và đối với món ăn ngày hôm nay thì chúng ta sẽ cuộn chặt tay, khi đó khi hấp thì món ăn sẽ đẹp mắt hơn.",
+      "start": 177.76,
+      "end": 183.28,
+      "n_words": 26,
+      "start_frame": 4444,
+      "end_frame": 4582,
+      "keyframes": [
+        "004444.webp",
+        "004480.webp",
+        "004516.webp",
+        "004517.webp",
+        "004548.webp",
+        "004580.webp",
+        "004581.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Sử dụng lá cải xanh chúng ta cuốn bên ngoài lại và tiếp tục như vậy, chúng ta sẽ làm hết cái phần thân heo luôn.",
+      "start": 183.28,
+      "end": 192.6,
+      "n_words": 26,
+      "start_frame": 4582,
+      "end_frame": 4815,
+      "keyframes": [
+        "004615.webp",
+        "004650.webp",
+        "004651.webp",
+        "004684.webp",
+        "004717.webp",
+        "004718.webp",
+        "004768.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Đặt lên trên bếp một cái xửng hấp rồi chúng ta hấp với lửa lớn khoảng tầm 10 tới 15 phút là cuốn cải chín.",
+      "start": 192.6,
+      "end": 199.92,
+      "n_words": 25,
+      "start_frame": 4815,
+      "end_frame": 4998,
+      "keyframes": [
+        "004818.webp",
+        "004819.webp",
+        "004837.webp",
+        "004856.webp",
+        "004857.webp",
+        "004886.webp",
+        "004916.webp",
+        "004917.webp",
+        "004948.webp",
+        "004980.webp",
+        "004981.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Chúng ta sẽ đậy lại.",
+      "start": 199.92,
+      "end": 201.28,
+      "n_words": 5,
+      "start_frame": 4998,
+      "end_frame": 5032,
+      "keyframes": [
+        "005006.webp",
+        "005032.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Phương sẽ hướng dẫn cho các bạn, chúng ta sẽ làm sốt cho món ăn: cho vào đầu hành trắng băm nè và hành tím băm, cho vào đây một ít gừng băm luôn để cho cái phần sốt có cái vị ấm nồng hơn.",
+      "start": 201.28,
+      "end": 212.08,
+      "n_words": 45,
+      "start_frame": 5032,
+      "end_frame": 5302,
+      "keyframes": [
+        "005032.webp",
+        "005033.webp",
+        "005079.webp",
+        "005126.webp",
+        "005127.webp",
+        "005163.webp",
+        "005200.webp",
+        "005201.webp",
+        "005256.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Chúng ta sẽ sử dụng nước tương Phú Sĩ để giúp cho món sốt có vị đậm đà và có hương vị đặc trưng hơn.",
+      "start": 212.08,
+      "end": 217.48,
+      "n_words": 25,
+      "start_frame": 5302,
+      "end_frame": 5437,
+      "keyframes": [
+        "005311.webp",
+        "005312.webp",
+        "005374.webp",
+        "005436.webp",
+        "005437.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cho vào đây là 4 muỗng canh nước tương Phú Sĩ, một muỗng cà phê đường, một phần ba muỗng cà phê bột ngọt Ajinomoto và Phương sẽ cho vào đây 3 muỗng canh nước.",
+      "start": 217.48,
+      "end": 231.44,
+      "n_words": 35,
+      "start_frame": 5437,
+      "end_frame": 5786,
+      "keyframes": [
+        "005437.webp",
+        "005491.webp",
+        "005546.webp",
+        "005547.webp",
+        "005568.webp",
+        "005590.webp",
+        "005591.webp",
+        "005635.webp",
+        "005679.webp",
+        "005680.webp",
+        "005709.webp",
+        "005738.webp",
+        "005739.webp",
+        "005765.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Và bây giờ chúng ta sẽ cho vào đây một ít bột năng để tạo độ sánh cho sốt nè, và cuối cùng Phước Hưng sẽ cho vào đây một ít dầu mè.",
+      "start": 231.44,
+      "end": 240.44,
+      "n_words": 33,
+      "start_frame": 5786,
+      "end_frame": 6011,
+      "keyframes": [
+        "005792.webp",
+        "005793.webp",
+        "005859.webp",
+        "005925.webp",
+        "005926.webp",
+        "005968.webp",
+        "006010.webp",
+        "006011.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Hưng sẽ cho cái phần sốt này ra cái chén.",
+      "start": 240.44,
+      "end": 244.0,
+      "n_words": 10,
+      "start_frame": 6011,
+      "end_frame": 6100,
+      "keyframes": [
+        "006011.webp",
+        "006062.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúng ta sẽ mở nắp ra, wow, chúng ta sẽ cho ra một món cuốn rất là dễ làm mà lại đảm bảo đầy đủ chất dinh dưỡng nữa.",
+      "start": 244.0,
+      "end": 253.36,
+      "n_words": 29,
+      "start_frame": 6100,
+      "end_frame": 6334,
+      "keyframes": [
+        "006113.webp",
+        "006114.webp",
+        "006148.webp",
+        "006182.webp",
+        "006183.webp",
+        "006236.webp",
+        "006290.webp",
+        "006291.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Các bạn hãy sử dụng điện thoại di động quét mã QR đang hiển thị trên màn hình để lưu về công thức của món ăn ngày hôm nay nhé.",
+      "start": 253.36,
+      "end": 260.88,
+      "n_words": 30,
+      "start_frame": 6334,
+      "end_frame": 6522,
+      "keyframes": [
+        "006382.webp",
+        "006473.webp",
+        "006474.webp",
+        "006498.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng ta sẽ trang trí cho món ăn.",
+      "start": 260.88,
+      "end": 267.52,
+      "n_words": 8,
+      "start_frame": 6522,
+      "end_frame": 6688,
+      "keyframes": [
+        "006523.webp",
+        "006524.webp",
+        "006563.webp",
+        "006603.webp",
+        "006604.webp",
+        "006649.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sau khi mà chúng ta đã cắt ra thành từng khoanh vừa ăn rồi thì bây giờ chúng ta sẽ cho vào dĩa.",
+      "start": 267.52,
+      "end": 272.48,
+      "n_words": 23,
+      "start_frame": 6688,
+      "end_frame": 6812,
+      "keyframes": [
+        "006695.webp",
+        "006696.webp",
+        "006725.webp",
+        "006755.webp",
+        "006756.webp",
+        "006784.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Khi ăn thì các bạn chấm với một ít nước tương Phú Sĩ sẽ rất là tuyệt vời.",
+      "start": 272.48,
+      "end": 276.24,
+      "n_words": 18,
+      "start_frame": 6812,
+      "end_frame": 6906,
+      "keyframes": [
+        "006813.webp",
+        "006814.webp",
+        "006846.webp",
+        "006878.webp",
+        "006879.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và để tạo nên một bữa ăn đầy dinh dưỡng thì chúng ta có thể kết hợp với món canh cá chim nấu ngót sẽ rất là ngon.",
+      "start": 276.24,
+      "end": 283.08,
+      "n_words": 28,
+      "start_frame": 6906,
+      "end_frame": 7077,
+      "keyframes": [
+        "006966.webp",
+        "007053.webp",
+        "007054.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Củ cải có vị ngọt tự nhiên từ thịt và nấm béo của trứng, giòn từ bắp cải và cà rốt, cùng sốt nồng thơm, ngọt nhẹ là đủ ngất ngây.",
+      "start": 283.08,
+      "end": 294.04,
+      "n_words": 31,
+      "start_frame": 7077,
+      "end_frame": 7351,
+      "keyframes": [
+        "007103.webp",
+        "007152.webp",
+        "007167.webp",
+        "007200.webp",
+        "007234.webp",
+        "007235.webp",
+        "007293.webp",
+        "007351.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Thịt heo cuộn cải hấp, một món ăn với hương vị thanh mát từ cải xanh và thịt thăn heo hòa quyện rất hấp dẫn, các bạn hãy làm thử ngay nhé.",
+      "start": 294.04,
+      "end": 301.84,
+      "n_words": 32,
+      "start_frame": 7351,
+      "end_frame": 7546,
+      "keyframes": [
+        "007351.webp",
+        "007352.webp",
+        "007449.webp",
+        "007546.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Ngoài ra để biết thêm thông tin của nhiều món ăn ngon thì chúng ta có thể truy cập vào kênh YouTube, website và fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 301.84,
+      "end": 310.04,
+      "n_words": 32,
+      "start_frame": 7546,
+      "end_frame": 7751,
+      "keyframes": [
+        "007546.webp",
+        "007547.webp",
+        "007636.webp",
+        "007725.webp",
+        "007726.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

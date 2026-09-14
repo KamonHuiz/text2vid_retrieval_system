@@ -1,0 +1,655 @@
+1
+00:00:08,000 --> 00:00:09,200
+Xin chào các em.
+
+2
+00:00:09,200 --> 00:00:22,640
+Chào mừng các em đến với phần ôn tập môn Vật lý thi trung học phổ thông quốc gia năm 2024 do báo Thanh Niên tổ chức.
+
+3
+00:00:22,640 --> 00:00:32,320
+Thầy tự giới thiệu, thầy là thạc sĩ Huỳnh Kiều Viết Lãm sẽ phụ trách với các em bộ môn này trong 10 chuyên đề.
+
+4
+00:00:32,320 --> 00:00:40,720
+Buổi đầu tiên ngày hôm nay, chúng ta sẽ sang chuyên đề một: Dao động điều hòa và con lắc lò xo, con lắc đơn.
+
+5
+00:00:40,720 --> 00:00:52,240
+Cấu trúc của mỗi chuyên đề, chúng ta sẽ đi sang từng kiến thức trọng tâm và sau kiến thức trọng tâm, chúng ta sẽ có một số bài tập vận dụng.
+
+6
+00:00:52,240 --> 00:00:58,240
+Những bài tập này từ đề thi trung học phổ thông ở các năm và năm 2023.
+
+7
+00:00:59,240 --> 00:01:20,920
+Trường Đại học Quốc tế Sài Gòn (SIU) không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SIU nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt, mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới, trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.
+
+8
+00:01:20,920 --> 00:01:29,560
+Năm 2024, SIU tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng bốn phương thức tuyển sinh.
+
+9
+00:01:29,560 --> 00:01:56,080
+SIU cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SIU, 100 suất học bổng Tiếp bước hành trình Quỹ tài năng trẻ, học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa, thể thao, nghệ thuật; Học bổng Đồng hành xây dựng nhân lực chất lượng cao cho thành phố Thủ Đức, thành phố Hồ Chí Minh; Học bổng doanh nghiệp tài trợ; Học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.
+
+10
+00:01:56,080 --> 00:02:00,040
+SIU tâm hồn Việt Nam, giáo dục thế giới.
+
+11
+00:02:00,040 --> 00:02:04,560
+Ở dao động điều hòa thì chúng ta quan tâm đến phương trình dao động.
+
+12
+00:02:04,560 --> 00:02:16,280
+Phương trình dao động ly độ x = A cos(ωt + φ), trong đó x là ly độ và ly độ cực đại là xmax sẽ bằng A.
+
+13
+00:02:16,280 --> 00:02:36,480
+Phương trình vận tốc v = -ω A sin(ωt + φ), từ đó vận tốc cực đại vmax = ω A và ta viết thành dạng chính quy hàm cos thì v sẽ bằng ω A cos(ωt + φ + π/2).
+
+14
+00:02:37,720 --> 00:02:45,040
+Như vậy, chúng ta nhận thấy rằng phương trình vận tốc sẽ sớm pha hơn phương trình ly độ một góc là π/2.
+
+15
+00:02:46,920 --> 00:02:59,920
+Phương trình gia tốc là đạo hàm của vận tốc sẽ bằng -ω² A cos(ωt + φ) và gia tốc cực đại vmax sẽ bằng ω² A.
+
+16
+00:03:00,920 --> 00:03:09,360
+Viết thành phương trình chính quy hàm cos thì a = ω² A cos(ωt + φ + π).
+
+17
+00:03:11,120 --> 00:03:15,920
+Như vậy ta thấy rằng gia tốc sẽ sớm pha hơn vận tốc một góc π/2.
+
+18
+00:03:19,440 --> 00:03:26,160
+Việc sớm và trễ pha hơn π/2 thì ta cũng có thể gọi là vuông pha.
+
+19
+00:03:26,160 --> 00:03:31,600
+Như vậy, a vuông pha với x và a vuông pha với v.
+
+20
+00:03:31,600 --> 00:04:05,240
+Từ đó dao động điều hòa nào vuông pha với nhau chúng ta cũng đều có biểu thức: tức thời chia cực đại bình của đại lượng một + tức thời chia cực đại bình của đại lượng hai thì = 1.
+
+21
+00:04:05,240 --> 00:04:12,920
+Ta thế x = a và v max = omega a ta sẽ được biểu thức độc lập.
+
+22
+00:04:12,920 --> 00:04:30,880
+Độc lập ở đây là độc lập với thời gian vì thời gian trong bài toán phương trình dao động hoặc bất cứ bài toán nào đều là một vấn đề khó của vật lý, vì vậy chúng ta luôn tìm cách cố gắng cách ly thời gian ra khỏi các đại lượng.
+
+23
+00:04:30,880 --> 00:04:36,320
+Ta được a bình = x bình + v trên omega tất cả bình.
+
+24
+00:04:36,320 --> 00:04:46,800
+Tương tự như vậy ta sẽ có a vuông pha với v, đồng thời ở đây chúng ta nhận xét là a và x thì ngược pha với nhau.
+
+25
+00:04:46,800 --> 00:05:10,800
+A vuông pha với v từ đó ta có biểu thức vuông pha a trên a max bình + v trên v max bình = 1 và ta ra biểu thức độc lập thứ hai: a lớn bình phương = a nhỏ bình trên omega mũ bốn + v trên omega tất cả bình.
+
+26
+00:05:10,800 --> 00:05:16,120
+Sang phần ba nhỏ năng lượng vật dao động điều hòa.
+
+27
+00:05:16,120 --> 00:05:23,000
+Năng lượng của vật dao động điều hòa là dưới dạng cơ năng = động năng + thế năng.
+
+28
+00:05:23,000 --> 00:05:39,200
+Động năng thì một phần hai m v bình, thế năng ở đây không phải là thế năng trọng trường mà thế năng đàn hồi = một phần hai m omega bình x bình = một phần hai m omega bình a bình.
+
+29
+00:05:39,200 --> 00:05:50,480
+Và trong điều kiện lý tưởng không có ma sát thì năng lượng của vật dao động điều hòa là không đổi.
+
+30
+00:05:50,480 --> 00:06:01,720
+Đại diện cho vật dao động điều hòa đó là con lắc lò xo và con lắc đơn.
+
+31
+00:06:01,720 --> 00:06:16,480
+Đối với con lắc lò xo và con lắc đơn thì chúng ta quan tâm đến các đại lượng cơ bản là chu kỳ, tần số, tần số góc và cơ năng của con lắc lò xo cũng như con lắc đơn.
+
+32
+00:06:16,480 --> 00:06:36,160
+Thì ở đây ta có chu kỳ T = 2π chia omega = 2π nhân căn m chia k, trong đó m là khối lượng của con lắc lò xo, k là độ cứng của lò xo.
+
+33
+00:06:36,160 --> 00:06:44,840
+Tần số f = một phần T = omega chia 2π = một phần 2π nhân căn k chia m.
+
+34
+00:06:44,840 --> 00:06:56,160
+Tần số góc omega = 2 pi chia t = căn k chia m và cơ năng là = một phần hai m omega bình a bình.
+
+35
+00:06:56,160 --> 00:07:07,240
+Thì ở đây chúng ta sẽ biến đổi m omega bình chính là k vì ở trên omega bình = k chia m, nếu như ta bình phương.
+
+36
+00:07:07,240 --> 00:07:52,000
+Góc và năng lượng đều không xuất hiện khối lượng; Chỉ có năng lượng thì phụ thuộc khối lượng là 1/2 ml omega bình.
+
+37
+00:07:52,000 --> 00:08:17,480
+Thì đối với các đại lượng cơ bản này các em lưu ý chúng ta đơn vị phải đưa về đơn vị chuẩn, ví dụ m là kg, k là Newton trên mét, bên con lắc đơn thì l là mét và g là mét trên giây bình.
+
+38
+00:08:17,480 --> 00:08:43,120
+Vấn đề cần chú ý trong giải dạng bài vật dao động điều hòa đó là thời gian và quãng đường của vật dao động điều hòa thì có hai phương pháp chính tiếp cận để giải dạng bài này: thứ nhất là phương pháp chúng ta dùng đường tròn lượng giác, nhưng có một phương pháp nhanh hơn ngắn gọn hơn là ta dùng trục thời gian ở các điểm đặc biệt.
+
+39
+00:08:43,120 --> 00:09:11,880
+Bởi vì đa phần các bài toán thì sẽ cho các vị trí đặc biệt để chúng ta tìm nhanh ra nghiệm của phương trình, thì ở đây thầy ví dụ thời gian đi từ vị trí cân bằng cho đến vị trí biên độ trên hai là T/12, thời gian đi từ vị trí cân bằng đến vị trí a căn ba trên hai thì ở đây tương ứng là T/6.
+
+40
+00:09:13,200 --> 00:09:22,840
+Như vậy các thời gian đặc biệt này chúng ta nắm được thì chúng ta sẽ giải quyết rất nhanh bài toán.
+
+41
+00:09:22,840 --> 00:09:33,800
+Và quãng đường trong một chu kỳ là 4 lần biên độ, quãng đường trong một nửa chu kỳ thì 2 lần biên độ.
+
+42
+00:09:33,800 --> 00:09:41,200
+Thì xu hướng các bài toán nhìn đồ thị thì chúng ta cần tìm các điểm đặc biệt đưa về các khoảng thời gian đẹp.
+
+43
+00:09:41,200 --> 00:09:56,480
+Thời gian đẹp là khoảng thời gian ở trên trục thời gian mà thầy vẽ cho các em, các em cần ghi nhớ từ đó ta nhanh chóng tìm ra chu kỳ, tần số góc hay tìm các đại lượng còn thiếu.
+
+44
+00:09:56,480 --> 00:10:10,240
+Vấn đề cần phân biệt rõ ràng đó là lực kéo về hay là lực đàn hồi của con lắc lò xo.
+
+45
+00:10:10,240 --> 00:10:33,280
+Lực kéo về thì là F = -kx = -mω²x, thì lúc này ta có Fmax = kA, Fmin = 0 tức là vật ở tại vị trí cân bằng.
+
+46
+00:10:33,280 --> 00:10:52,480
+Mình nghe cái từ kéo về thì mình phải hiểu rằng là kéo về vị trí cân bằng.
+
+47
+00:10:52,480 --> 00:11:03,600
+Vì vậy lực kéo về thì biến thiên điều hòa cùng tần số với ly độ.
+
+48
+00:11:03,600 --> 00:11:21,080
+Còn lực đàn hồi là lực đưa vật về vị trí mà lò xo không biến dạng thì lực đàn hồi ở đây bằng $k \cdot \Delta l$, với $\Delta l$ là độ biến dạng của lò xo.
+
+49
+00:11:21,080 --> 00:11:26,480
+Thì đôi khi các bạn sẽ bị nhầm lẫn giữa lực đàn hồi và lực kéo về.
+
+50
+00:11:26,480 --> 00:11:46,040
+Thì đối với con lắc lò xo nằm ngang, bởi vì khi mà vật ở vị trí cân bằng thì lò xo nó không biến dạng luôn, tức là vị trí 0 nó trùng với vị trí không biến dạng, cho nên lực đàn hồi và lực kéo về là như nhau.
+
+51
+00:11:46,040 --> 00:12:01,000
+Nhưng đối với con lắc lò xo thẳng đứng thì rõ ràng là khi ở vị trí cân bằng, bản thân ở vị trí cân bằng là ở điểm 0 thì lò xo nó đã giãn sẵn một đoạn là $\Delta l$ rồi.
+
+52
+00:12:01,000 --> 00:12:23,040
+Vì vậy là lực đàn hồi sẽ bằng $k(\Delta l + x)$, trị tuyệt đối thì lực đàn hồi $\max$ là bằng $k(\Delta l + A)$, trong đó $\Delta l$ là độ biến dạng tại vị trí cân bằng, tức là nó có sẵn chưa dao động gì cả đã có độ biến dạng vì ta treo vật.
+
+53
+00:12:23,040 --> 00:12:38,880
+Và cái độ biến dạng này, cái lực đàn hồi sinh ra ở độ biến dạng này, nó sẽ cân bằng với trọng lực, vì vậy là $\Delta l$ sẽ bằng $m/k$, tức là $\Delta l \cdot k$ là lực đàn hồi nó sẽ bằng $mg$.
+
+54
+00:12:43,280 --> 00:12:52,520
+Như vậy ta sẽ ra được lực đàn hồi $\max$ và lực đàn hồi $\min$ bằng $k(\Delta l - A)$ nếu như $\Delta l$ lớn hơn $A$.
+
+55
+00:12:52,520 --> 00:12:59,400
+Tức là trong trường hợp này khi vật đi lên đến biên âm thì ta sẽ có lực đàn hồi $\min$.
+
+56
+00:12:59,400 --> 00:13:12,760
+Đây là một hình rất rõ giải thích rất rõ ràng về cái lực đàn hồi $\min$, $\max$ và cũng như là phân biệt với lại lực kéo về.
+
+57
+00:13:13,720 --> 00:13:30,160
+Hình a là $\Delta l$ lớn hơn $A$ thì các em thấy rằng là vật đi lên tới đây thì đã dừng, tức là biên âm, như vậy lực đàn hồi tức là độ giãn chỉ còn một đoạn nhỏ như đây là $\Delta l - A$.
+
+58
+00:13:34,160 --> 00:14:26,880
+Đối với hình b là $\Delta l$ bé hơn $A$, chúng ta thấy rằng là vật khi đi lên đến biên âm thì lò xo lúc này đã bị nén, tức là lò xo đã đi ngang qua cái vị trí mà không biến dạng; Mà đi ngang qua vị trí không biến dạng thì tức là lực đàn hồi sẽ bằng 0 và trong giai đoạn này lò nén là đi từ $-\Delta l$ đến $-A$ và thời gian giãn là $-\Delta l$ đến $A$.
+
+59
+00:14:26,880 --> 00:14:33,680
+Thì đó là một số điều cần chú ý ở lực kéo về và lực đàn hồi.
+
+60
+00:14:33,680 --> 00:14:45,040
+Sau đây chúng ta sang một số bài tập vận dụng những kiến thức trọng tâm và những vấn đề cần chú ý ở chuyên đề một.
+
+61
+00:14:45,040 --> 00:14:58,720
+Bài số một: Chất điểm dao động với phương trình $x = 8 \cos(5t)$, tốc độ chất điểm khi đi qua vị trí cân bằng là bao nhiêu?
+
+62
+00:14:58,720 --> 00:15:17,360
+Thì đây là một bài toán ở mức độ dễ trong kỳ thi trung học phổ thông, khi qua vị trí cân bằng thì sẽ đạt tốc độ cực đại $v_{max} = \omega A$ và chúng ta thế số ta sẽ được giá trị là $40$ cm/s.
+
+63
+00:15:22,080 --> 00:15:32,640
+Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.
+
+64
+00:15:32,640 --> 00:15:50,920
+Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện, cân bằng giữa học thuật và nghệ thuật thể thao, hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, khơi nguồn cảm hứng độc lập để phát triển và hoàn thiện nhân cách.
+
+65
+00:15:50,920 --> 00:16:10,960
+Ngoài những giờ học trên lớp, học sinh Trường Quốc tế Á Châu còn được trải nghiệm, thử thách bản thân và phản biện các vấn đề để tự mình học hỏi, trưởng thành độc lập hơn.
+
+66
+00:16:10,960 --> 00:16:26,560
+Nơi đây với tôi còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.
+
+67
+00:16:26,560 --> 00:16:31,800
+Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là cuộc sống.
+
+68
+00:16:31,800 --> 00:16:45,520
+Từ môi trường giáo dục này, chúng tôi đã tự tin bước tiếp và viết nên câu chuyện tương lai của chính mình.
+
+69
+00:16:45,520 --> 00:16:54,280
+Chúng ta sang bài tập vận dụng số 21: Con lắc đơn có chiều dài 1 m đặt tại nơi có gia tốc trọng trường $9.8\text{ m/s}^2$.
+
+70
+00:16:55,760 --> 00:16:58,320
+Tần số góc dao động của con lắc là bao nhiêu?
+
+71
+00:16:58,320 --> 00:17:03,240
+Thì đây cũng thuộc một câu dễ ở kỳ thi trung học phổ thông.
+
+72
+00:17:03,240 --> 00:17:14,160
+Tần số góc của con lắc đơn thì chúng ta nắm được rằng $\omega = \sqrt{g/l}$ và nhanh chóng chúng ta thế số bằng $\sqrt{9.8/1}$.
+
+73
+00:17:16,280 --> 00:17:24,440
+Ở đây chiều dài đã là 1 m đơn vị chuẩn và $9.8$ là $\text{m/s}^2$ thì từ đó ta ra được đáp án là $\approx 3.13\text{ rad/s}$.
+
+74
+00:17:28,080 --> 00:17:36,480
+Ta sang bài tiếp theo thì chu kỳ dao động của con lắc là t1 bằng 2 giây.
+
+75
+00:17:36,480 --> 00:18:02,720
+Nếu ở nơi có gia tốc trọng trường g2 bằng 9,8 mét trên giây bình thì chu kỳ dao động của con lắc là t2, giá trị t2 là bao nhiêu?
+
+76
+00:18:02,720 --> 00:18:28,560
+Thì ta có biểu thức chu kỳ của con lắc đơn t bằng 2 pi căn l chia g, thì ta nhận xét rằng là chu kỳ tỷ lệ nghịch với căn bậc hai của g là gia tốc trọng trường, tức là con lắc đơn thì phụ thuộc vào vị trí đặt trong trọng trường bởi vì vị trí đặt khác nhau thì giá trị g, tức là gia tốc trọng trường khác nhau.
+
+77
+00:18:28,560 --> 00:19:06,760
+Thì từ đó ta sẽ có biểu thức là T1 trên T2 sẽ bằng căn g2 trên g1 và các đại lượng như T1, T2 giây, g1 là 9,68, g2 là 9,86 ta đã có, và trong bốn đại lượng ẩn còn lại là T2 thì từ đó ta giải quyết được giá trị của T2 là câu d.
+
+78
+00:19:06,760 --> 00:19:25,880
+Ta sang bài tập vận dụng số 41 vật nhỏ khối lượng 200 g dao động điều hòa với tần số 0,5 Hz khi lực kéo về tác dụng là 0,1 Newton thì động năng của vật có giá trị là 1 mili Jun.
+
+79
+00:19:25,880 --> 00:19:32,200
+Các em lưu ý mili ở đây là 10 mũ trừ 3 Jun, lấy pi bình bằng 10.
+
+80
+00:19:32,200 --> 00:19:37,680
+Tốc độ của vật khi đi qua vị trí cân bằng là bao nhiêu?
+
+81
+00:19:37,680 --> 00:19:49,520
+Ở đây chúng ta thấy rằng tần số góc của dao động là omega bằng 2 pi nhân 0,5 là ta ra được giá trị là pi radian trên giây.
+
+82
+00:19:49,520 --> 00:19:52,040
+Tại sao chúng ta phải tính tần số góc?
+
+83
+00:19:52,040 --> 00:20:05,200
+Bởi vì tốc độ của vật qua vị trí cân bằng thì rõ ràng nó là v max bằng omega A, thì chắc chắn là chúng ta cũng cần đại lượng omega.
+
+84
+00:20:05,200 --> 00:20:34,080
+Thì ở đây lực kéo về hay là lực hồi phục thì bằng k nhân x bằng omega bình phương nhân m nhân x, thì ở đây lưu ý chúng ta đổi đơn vị 200 gam là 0,2 kg thì chúng ta sẽ ra vị trí x là 0,05 mét.
+
+85
+00:20:34,080 --> 00:20:41,680
+Ta thế vào giá trị động năng bằng một phần hai m v bình, như vậy v bình bằng 0,01.
+
+86
+00:20:43,120 --> 00:20:46,360
+Tại sao không tính v mà chúng ta đi tính v bình?
+
+87
+00:20:46,360 --> 00:20:53,880
+Bởi vì trong công thức độc lập thì chỉ cần có v bình thì chúng ta đã tìm ra được đại lượng là biên độ chứ.
+
+88
+00:20:53,880 --> 00:21:16,720
+Từ đó tính được a lớn bằng 0.06 mét, tức là bằng 6 centi.
+
+89
+00:21:16,720 --> 00:21:25,880
+Sở dĩ đổi ra 6 centi bởi vì liếc nhìn sơ các đáp án tốc độ ở vị trí cân bằng đơn vị là centimet trên giây.
+
+90
+00:21:25,880 --> 00:21:47,680
+Như vậy ở đây có giá trị omega và có giá trị biên độ thì chúng ta tính ra được giá trị v_max, vì sao là v_max vì là tốc độ khi qua vị trí cân bằng, ra được đáp án là 18.7 centimet trên giây.
+
+91
+00:21:47,680 --> 00:21:57,280
+Ta sang câu vận dụng số 5: Một con lắc lò xo được treo vào một điểm cố định đang dao động điều hòa theo phương thẳng đứng.
+
+92
+00:21:57,280 --> 00:22:10,040
+Ở hình bên là đồ thị biểu diễn sự phụ thuộc của lực đàn hồi mà lò xo tác dụng lên vật nhỏ của con lắc theo thời gian t.
+
+93
+00:22:10,040 --> 00:22:17,360
+Thì lúc t bằng 0.3 giây thì lực kéo về tác dụng lên vật có độ lớn là bao nhiêu?
+
+94
+00:22:17,360 --> 00:22:34,640
+Thì ở đây chúng ta cần định hướng một chút vì đây là một câu khó trong kỳ thi trung học phổ thông quốc gia năm 2020, nằm ở phần câu trên 8 điểm thì không phải dễ dàng để giải quyết, nó sẽ có nhiều bước.
+
+95
+00:22:34,640 --> 00:22:59,280
+Thì trước tiên chúng ta cùng phân tích, khi đề cho thời gian bảo tính một đại lượng nào đó thì khả năng cao là các bạn sẽ nên viết được phương trình của đại lượng dao động điều hòa và ta thế thời gian vào đó là phương pháp khả dĩ nhất và hầu như là hiệu quả nhất.
+
+96
+00:22:59,280 --> 00:23:22,440
+Thì ở đây chúng ta tập thói quen nhìn đồ thị, ở đây đồ thị sẽ cho chúng ta những điểm đặc biệt, từ những điểm đặc biệt chúng ta sẽ khai thác được các đại lượng còn lại, rồi tiến hành giải bài toán.
+
+97
+00:23:22,440 --> 00:23:36,240
+Thì ở đây thầy thấy rằng có một điểm đặc biệt nằm ở phía đáy và thầy gọi điểm này là điểm A, đang có tọa độ là 0.1 tức là t bằng 0.1.
+
+98
+00:23:37,240 --> 00:23:38,800
+Bởi vì sao là t bằng 0.1?
+
+99
+00:23:39,240 --> 00:23:47,280
+Bởi vì ở đây 0.5 là gồm có 1, 2, 3, 4, 5 ô, như vậy mỗi ô là 0.1.
+
+100
+00:23:48,720 --> 00:23:54,040
+Và tung độ của điểm A tức là f đàn hồi là bằng -4.
+
+101
+00:23:55,560 --> 00:24:12,160
+Như vậy F đàn hồi âm, ở đây có nghĩa rằng là lò xo thẳng đứng này có hai giai đoạn là gồm có giai đoạn giãn và gồm có giai đoạn nén.
+
+102
+00:24:12,160 --> 00:24:17,040
+Đặc biệt thứ hai thì tạm gọi là điểm B có tọa độ là 0.
+
+103
+00:24:28,320 --> 00:24:31,240
+Và t đơn vị là giây.
+
+104
+00:24:31,240 --> 00:24:38,120
+Các em lưu ý khi nhìn đơn vị chúng ta phải nhìn trục tên gì và đơn vị ra sao.
+
+105
+00:24:38,120 --> 00:24:54,720
+Sau đó bước thứ hai, chúng ta tìm những điểm đặc biệt trong đồ thị như là điểm đỉnh, điểm đáy và những điểm mà đề người ta cho sẵn để mà từ đó xây dựng ra tọa độ và xác định các đại lượng cần tìm.
+
+106
+00:24:54,720 --> 00:25:39,600
+Như vậy nhìn vào đồ thị chúng ta thấy rằng lực đàn hồi nén là bằng -4, trong khi lực đàn hồi giãn là bằng 6 và biểu thức của lực đàn hồi $F_{max}$ là $k \times (a + \Delta l)$ là bằng 6 Newton, trong khi đó $k \times (\Delta l - a)$ là bằng -4 Newton vì lúc này lò xo ở trạng thái nén là vị trí điểm a, còn ở trên thì đỉnh thì chúng ta thấy rằng là gồm có 6 ô 1, 2, 3, 4, 5, 6 tức là 6 Newton, mỗi ô ứng với một Newton.
+
+107
+00:25:39,600 --> 00:25:49,920
+Vì điểm số bốn này ở bốn ô như vậy cho ta thông tin là mỗi ô là một Newton, thì từ đây ta lập tỷ lệ.
+
+108
+00:25:49,920 --> 00:25:58,080
+Ở đây các em nên dừng video và lấy giấy bút để chúng ta có thể giải ra được các chặng đường.
+
+109
+00:25:58,080 --> 00:26:15,960
+Ở đây thì biến đổi khá nhanh thì a sẽ bằng 5 nhân delta l thì ta thế vào ta sẽ được F, sẽ được F đàn hồi max sẽ bằng k nhân a cộng delta l.
+
+110
+00:26:15,960 --> 00:26:40,120
+Ta thế vào a là 5 lần delta l, như vậy k nhân a lớn sẽ bằng 5 và k nhân a lớn lại chính là F kéo về max.
+
+111
+00:26:40,120 --> 00:27:05,240
+Như vậy ở đây ta có lực đàn hồi là bằng k nhân delta l cộng k nhân x mà k nhân delta l là bằng 1 cộng k nhân x sẽ bằng 1 cộng F kéo về, như vậy F kéo về sẽ bằng F đàn hồi trừ cho 1.
+
+112
+00:27:05,240 --> 00:27:29,840
+Ở đây F kéo về bằng F đàn hồi trừ cho 1 thì chúng ta sẽ có, cái chỉ cần ta suy nghĩ cái việc là ta tịnh tiến cái đồ thị này lên một ô, tức là cái trục ô x này nè, trục ô t chúng ta tịnh tiến lên một ô, tức là ứng với một Newton thì chúng ta sẽ có được đồ thị là F kéo về đây.
+
+113
+00:27:30,280 --> 00:27:44,320
+Tịnh tiến lên cái đường màu đỏ này thì rõ ràng các bạn sẽ thấy rằng là F kéo về dao động điều hòa và đối xứng với nhau ở dưới 5 ô và ở trên cũng 5 ô.
+
+114
+00:27:44,320 --> 00:28:02,560
+Như vậy nhiệm vụ chúng ta là ta sẽ đi viết cái phương trình của lực kéo về này, trong đó chúng ta đã có F kéo là bằng 5.
+
+115
+00:28:02,560 --> 00:28:24,480
+Như vậy với hướng như vậy, thì khi đã chuyển trục màu đỏ thì điểm A sẽ biến thành điểm A' với tọa độ là t = 0,1 và ly độ sẽ là -5, còn điểm B thì sẽ tọa độ là 0,4 và tọa độ là 0.
+
+116
+00:28:26,680 --> 00:28:39,960
+Từ đồ thị mới chúng ta sẽ thấy rằng là 5T/4 = 0,3 giây, có nghĩa là thời gian đi từ điểm A' cho đến điểm B' là 5T/4.
+
+117
+00:28:40,920 --> 00:28:55,040
+Thì tại sao, như vậy tại sao thầy nói nó là 5T/4 thì chúng ta cùng nhìn vào cái trục thời gian mà chúng ta vận dụng: điểm A là -5 tức là đang ở biên âm.
+
+118
+00:28:55,040 --> 00:29:06,040
+Từ biên âm là 0,1 giây đi lên biên dương, ở đây không cho rõ thời gian cụ thể thì chúng ta cứ tiếp tục đi.
+
+119
+00:29:06,040 --> 00:29:22,320
+Như vậy là từ biên âm đi lên biên dương là nửa chu kỳ, từ biên dương chúng ta lại lần xuống là đi xuống biên âm, như vậy là từ biên dương về biên âm nửa chu kỳ nữa là một chu kỳ.
+
+120
+00:29:22,320 --> 00:29:35,360
+Thì tại đây từ biên âm này đi lên đến điểm B là một phần tư chu kỳ, từ -A đi đến điểm B là vị trí cân bằng đó.
+
+121
+00:29:35,360 --> 00:29:45,640
+Như vậy tổng là một chu kỳ cộng một phần tư chu kỳ thì chúng ta sẽ ra là 5/4 chu kỳ.
+
+122
+00:29:45,640 --> 00:29:59,280
+Và 5/4 chu kỳ này thời gian đi từ điểm A' đến điểm B' thì chúng ta thấy rồi đây, lúc sau là 0,4 giây, lúc đầu là 0,1 giây, như vậy tổng là 0,3 giây.
+
+123
+00:29:59,280 --> 00:30:05,440
+0,3 giây thì từ đó chúng ta sẽ tính được omega là bằng 25/3 rad/s.
+
+124
+00:30:09,320 --> 00:30:25,000
+Như vậy trong ba đại lượng còn thiếu của phương trình F kéo về, chúng ta đã tìm được hai là F kéo về sẽ bằng 5 cos(25/3 t + phi).
+
+125
+00:30:25,000 --> 00:30:27,040
+Như vậy phi này tìm như thế nào?
+
+126
+00:30:27,040 --> 00:30:36,880
+Chúng ta thế t = 0,1 vào thì lúc này F kéo về sẽ bằng -5, thì nhanh chóng thầy sẽ tìm được phi = pi/6.
+
+127
+00:30:37,640 --> 00:30:50,080
+Ở đây thầy chỉ hướng dẫn cách biến đổi còn các bạn nên dừng video và ngồi tự tay tính để tìm các đại lượng này để chúng ta có được cái kiến thức.
+
+128
+00:30:50,080 --> 00:30:58,840
+Như vậy ta đã được ba đại lượng của phương trình F kéo về là 5 cos(25/3 t + pi/6).
+
+129
+00:31:02,320 --> 00:31:40,080
+Yêu cầu chúng ta thế t = 0,3 giây, như vậy khi thế t = 0,3 giây thì F kéo về bằng -2,5 Newton.
+
+130
+00:31:40,080 --> 00:31:50,480
+Như vậy, đáp án của chúng ta sẽ là, vì đề hỏi độ lớn cho nên giá trị là 2.5 Newton.
+
+131
+00:31:50,480 --> 00:31:57,960
+Thì đây là một bài toán khó ở mức độ trên 8 điểm của kỳ thi trung học phổ thông.
+
+132
+00:31:57,960 --> 00:32:12,400
+Hy vọng qua bài giảng này, các bạn sẽ nắm kỹ hơn thứ nhất về khả năng nhìn đồ thị, thứ hai là sử dụng nhuần nhuyễn trục thời gian để có được thành công như hôm nay.
+
+133
+00:32:12,400 --> 00:32:25,640
+Tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình bắt đầu từ trường Đại học Quốc tế Sài Gòn SIU đào tạo đa dạng đa lĩnh vực.
+
+134
+00:32:25,640 --> 00:32:29,880
+SIU mở ra cho chúng tôi nhiều cơ hội lựa chọn nghề nghiệp trong tương lai.
+
+135
+00:32:29,880 --> 00:32:37,160
+Tất cả sinh viên đều có cơ hội để thể hiện và phát triển năng lực, những ý tưởng luôn được khuyến khích và phát huy tối đa.
+
+136
+00:32:37,160 --> 00:32:43,280
+Chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin, chúng tôi được học cách học, cách nghĩ và cách sống.
+
+137
+00:32:43,280 --> 00:32:50,360
+Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.
+
+138
+00:32:50,360 --> 00:33:01,040
+Hiện đại năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc, đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn SIU luôn hướng đến.
+
+139
+00:33:01,040 --> 00:33:09,400
+Đã đến lúc vươn xa hơn những gì đã biết.
+
+140
+00:33:09,400 --> 00:33:19,640
+Chúng ta bước sang câu ví dụ số 6 là một câu cũng nằm ở phần trên 8 điểm của kỳ thi trung học phổ thông năm 2023.
+
+141
+00:33:21,040 --> 00:33:37,120
+Thì rất là vui và ngạc nhiên bởi vì dạng bài mà đi qua vị trí lần thứ n đã rất lâu rồi không có trong các kỳ thi, và đây là một dạng bài rất hay.
+
+142
+00:33:37,120 --> 00:33:46,640
+Một con lắc đơn có chiều dài 81 cm đang dao động điều hòa với biên độ góc là 8 độ tại nơi có g = 9.87 m/s².
+
+143
+00:33:49,680 --> 00:33:57,320
+Lúc t = 0 thì vật nhỏ của con lắc đi qua vị trí cân bằng theo chiều âm.
+
+144
+00:33:57,320 --> 00:34:07,160
+Tính từ t = 0, vật đi qua vị trí có ly độ góc 4 độ lần thứ 5 ở thời điểm nào?
+
+145
+00:34:07,160 --> 00:34:24,360
+Thì chúng ta định vị bài này là mặc dù là con lắc đơn nhưng chúng ta vẫn sử dụng trục thời gian của dao động điều hòa bình thường, bởi vì cái con số 8 độ và con số 4 độ này là vị trí A và là A/2.
+
+146
+00:34:25,080 --> 00:34:41,440
+Như vậy giá trị thì không quan trọng, quan trọng là nó đang thì 4 độ sẽ là A/2, thì từ đó ta sẽ làm bài tốt hơn.
+
+147
+00:34:41,440 --> 00:34:44,760
+Còn ở lần thứ 5 này thì như thế nào?
+
+148
+00:34:44,760 --> 00:34:59,520
+Thì ở các dạng bài trong các chương trình ôn tập thì thầy cũng đã nói, thầy cũng đã nói với các bạn 2025 chúng ta cũng không ngại điều đó bởi vì ta đã có phương pháp.
+
+149
+00:34:59,520 --> 00:35:05,160
+Thì khi nói tới thời gian thì trước tiên chúng ta viết biểu thức chu kỳ T = 2π√l/g.
+
+150
+00:35:06,560 --> 00:35:29,120
+Đến đây các bạn muốn tính T ra trước cũng được nhưng mà thầy ngại rằng là T sẽ ra số lẻ, vì vậy khi ra đáp án thì các bạn sẽ không khớp lắm, vì vậy ta nên là để cái T này thế vào bên dưới đáp án và ta bấm một lần thôi để chúng ta ra đáp án chính xác nhất.
+
+151
+00:35:29,120 --> 00:35:35,920
+Thì mỗi chu kỳ vật sẽ đi qua vị trí bất kỳ hai lần, tất nhiên là trừ biên.
+
+152
+00:35:35,920 --> 00:35:47,120
+Thì ở đây 25 lần theo phương pháp của chúng ta nó sẽ là thời gian đi qua cái vị trí đó một lần đầu tiên cộng với thời gian 24 lần cuối.
+
+153
+00:35:47,120 --> 00:36:00,080
+Lần cuối tức là ta đưa vật đến vị trí cần tìm lần đầu tiên cái đã, rồi còn 24 lần này thì mỗi chu kỳ qua hai lần, như vậy 24 lần cuối này sẽ là 12 chu kỳ.
+
+154
+00:36:00,080 --> 00:36:09,360
+Quá đơn giản, như vậy bài toán trở về là tính thời gian mà lần đầu tiên vật qua vị trí A/2.
+
+155
+00:36:12,720 --> 00:36:26,160
+Chúng ta cùng xem vật đi đến vị trí A/2 mất bao nhiêu thời gian thì chúng ta cần phải xem được là t = 0 là vật nằm ở đâu, đi theo chiều nào.
+
+156
+00:36:26,160 --> 00:36:34,120
+T = 0 thì vật qua vị trí cân bằng và theo chiều âm, như vậy vật nằm ở vị trí cân bằng nè.
+
+157
+00:36:34,120 --> 00:36:43,040
+Mặc dù điểm A/2 này gần lắm đó nhưng chúng ta phải đi ngược lại vì đề yêu cầu chúng ta phải đi về biên âm là T/4.
+
+158
+00:36:44,640 --> 00:36:51,000
+Từ biên âm, biên âm trở về vị trí cân bằng là T/4 nữa.
+
+159
+00:36:51,000 --> 00:36:56,200
+Từ vị trí cân bằng chúng ta lại đến vị trí A/2 là T/12.
+
+160
+00:36:58,080 --> 00:37:07,760
+Như vậy ta được cái thời gian một lần đầu tiên nó chính là T/4 cộng T/4 và cộng T/12 là 7T/12.
+
+161
+00:37:10,800 --> 00:37:14,920
+Như vậy tổng thời gian là 7T/12 cộng 1/2T.
+
+162
+00:37:15,760 --> 00:37:27,120
+Từ đó các con thế giá trị T mình vừa tính ở trên vào hoặc là dùng biểu thức 2π√l/g rút T làm nhân.
+
+163
+00:37:49,560 --> 00:38:00,120
+Vậy, sau 6 bài ví dụ thì thầy kết thúc cái chuyên đề 1 nói về dao động điều hòa, con lắc đơn và con lắc lò xo.
+
+164
+00:38:00,120 --> 00:38:07,160
+Thầy chúc các em có một buổi ôn tập thật tốt và hẹn gặp lại ở các chuyên đề sau.

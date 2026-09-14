@@ -1,0 +1,19 @@
+{
+  "unfiltered": {
+    "text": "tỉnh nhiều người không thông tin tai nghe nói trên đỉnh núi thiên cấm sơn có một người hút chuyển được bình dịch tay nhà ngươi vượt đỉnh núi thiên cấm sơn hái thuốc về để trị định cho dân này mưa",
+    "word_count": 42
+  },
+  "flagged": {
+    "text": "tỉnh nhiều người không thông tin tai nghe nói trên đỉnh núi @not_in_dict(thiên cấm) sơn có một người hút chuyển được bình dịch tay nhà ngươi vượt đỉnh núi @not_in_dict(thiên cấm) @not_in_dict(sơn hái) thuốc về để @not_in_dict(trị định) cho dân này mưa",
+    "word_count": 42
+  },
+  "refined": {
+    "text": "Tỉnh nhiều người không thông tin tai nghe nói trên đỉnh núi Thiên Cấm Sơn có một người hái được bình dịch tay, nhà ngươi vượt đỉnh núi Thiên Cấm Sơn hái thuốc về để trị bệnh cho dân này mua.",
+    "word_count": 41,
+    "source": "flagged"
+  },
+  "proofread": {
+    "text": "Tỉnh nhiều người truyền thông tin lại nói trên đỉnh núi Thiên Cấm Sơn có một loại linh dược, nhà ngươi vượt đỉnh núi Thiên Cấm Sơn hái thuốc về để trị bệnh cho dân này mua.",
+    "word_count": 37
+  }
+}

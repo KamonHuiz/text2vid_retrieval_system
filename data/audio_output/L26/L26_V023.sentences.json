@@ -1,0 +1,650 @@
+{
+  "video_id": "L26_V023",
+  "fps": 25.0,
+  "n_sentences": 36,
+  "total_words": 877,
+  "sentences": [
+    {
+      "text": "Chúc món ngon mỗi ngày!",
+      "start": 0.04,
+      "end": 12.04,
+      "n_words": 5,
+      "start_frame": 1,
+      "end_frame": 301,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000087.webp",
+        "000092.webp",
+        "000108.webp",
+        "000119.webp",
+        "000130.webp",
+        "000155.webp",
+        "000160.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 36
+    },
+    {
+      "text": "Miếng cá hồi áp chảo kèm hạnh nhân thơm bùi, giòn rụm, kết hợp cùng sốt chanh dây chua chua ngọt ngọt, mới mẻ độc đáo cho bữa cơm nhà.",
+      "start": 12.04,
+      "end": 36.72,
+      "n_words": 30,
+      "start_frame": 301,
+      "end_frame": 918,
+      "keyframes": [
+        "000347.webp",
+        "000395.webp",
+        "000396.webp",
+        "000449.webp",
+        "000503.webp",
+        "000504.webp",
+        "000543.webp",
+        "000582.webp",
+        "000583.webp",
+        "000620.webp",
+        "000658.webp",
+        "000659.webp",
+        "000680.webp",
+        "000702.webp",
+        "000703.webp",
+        "000783.webp",
+        "000863.webp",
+        "000864.webp",
+        "000893.webp"
+      ],
+      "keyframe_count": 19
+    },
+    {
+      "text": "Rất vui được gặp lại các bạn khán giả đang đến với chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành.",
+      "start": 36.72,
+      "end": 42.12,
+      "n_words": 22,
+      "start_frame": 918,
+      "end_frame": 1053,
+      "keyframes": [
+        "000923.webp",
+        "000924.webp",
+        "001048.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 42.12,
+      "end": 46.92,
+      "n_words": 11,
+      "start_frame": 1053,
+      "end_frame": 1173,
+      "keyframes": [
+        "001173.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rồi ngày hôm nay, Minh Phương đã thấy có cá hồi nè, chắc là sashimi hoặc là cá hồi áp chảo nữa đúng không? Chắc không có đâu.",
+      "start": 46.92,
+      "end": 54.88,
+      "n_words": 28,
+      "start_frame": 1173,
+      "end_frame": 1372,
+      "keyframes": [
+        "001173.webp",
+        "001174.webp",
+        "001204.webp",
+        "001235.webp",
+        "001236.webp",
+        "001260.webp",
+        "001285.webp",
+        "001286.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Ngày hôm nay thì Phước Hương sẽ có một cái sự kết hợp rất là độc đáo luôn, nhưng mà rất là đơn giản luôn nha, đó chính là cá hồi hạnh nhân chanh dây.",
+      "start": 54.88,
+      "end": 62.56,
+      "n_words": 35,
+      "start_frame": 1372,
+      "end_frame": 1564,
+      "keyframes": [
+        "001403.webp",
+        "001520.webp",
+        "001521.webp",
+        "001542.webp",
+        "001563.webp",
+        "001564.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và cũng theo lời chuyên gia dinh dưỡng Tiến sĩ Đào Thị Yến Phi, món ăn ngày hôm nay sẽ hỗ trợ bổ máu rất tốt luôn.",
+      "start": 62.56,
+      "end": 68.32,
+      "n_words": 27,
+      "start_frame": 1564,
+      "end_frame": 1708,
+      "keyframes": [
+        "001564.webp",
+        "001597.webp",
+        "001630.webp",
+        "001631.webp",
+        "001669.webp",
+        "001708.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Công đoạn đầu tiên cho món ăn này thì chúng ta sẽ cắt cái phần phi lê cá hồi.",
+      "start": 68.32,
+      "end": 71.92,
+      "n_words": 19,
+      "start_frame": 1708,
+      "end_frame": 1798,
+      "keyframes": [
+        "001708.webp",
+        "001709.webp",
+        "001752.webp",
+        "001795.webp",
+        "001796.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Còn phi lê cá hồi này Phước Hương sẽ cắt khối khoảng 2 cm.",
+      "start": 71.92,
+      "end": 75.8,
+      "n_words": 14,
+      "start_frame": 1798,
+      "end_frame": 1895,
+      "keyframes": [
+        "001802.webp",
+        "001809.webp",
+        "001810.webp",
+        "001854.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Phần cá hồi thì Phương thấy Phước Hương đã bỏ cái phần da đi, còn nếu mình muốn giữ lại thì có được không?",
+      "start": 75.8,
+      "end": 81.16,
+      "n_words": 24,
+      "start_frame": 1895,
+      "end_frame": 2029,
+      "keyframes": [
+        "001898.webp",
+        "001899.webp",
+        "001919.webp",
+        "001940.webp",
+        "001941.webp",
+        "001993.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Được em Minh Hương, chúng ta sẽ bỏ da cá hồi để món ăn được đồng nhất, khi ăn sẽ không bị tanh.",
+      "start": 81.16,
+      "end": 85.48,
+      "n_words": 23,
+      "start_frame": 2029,
+      "end_frame": 2137,
+      "keyframes": [
+        "002045.webp",
+        "002046.webp",
+        "002091.webp",
+        "002136.webp",
+        "002137.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và nếu như các mẹ đang tìm một loại nguyên liệu vừa ngon nè vừa giàu chất dinh dưỡng giúp cho da dẻ của chúng ta hồng hào thì cá hồi sẽ là một sự lựa chọn hoàn hảo bởi vì trong cá hồi có rất là nhiều chất béo.",
+      "start": 85.48,
+      "end": 97.92,
+      "n_words": 50,
+      "start_frame": 2137,
+      "end_frame": 2448,
+      "keyframes": [
+        "002137.webp",
+        "002265.webp",
+        "002393.webp",
+        "002394.webp",
+        "002421.webp",
+        "002448.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Tiếp theo Phước Hương sẽ hướng dẫn cho các bạn, chúng ta sẽ tạo hình cho phần cá hồi và hạnh nhân.",
+      "start": 97.92,
+      "end": 102.08,
+      "n_words": 22,
+      "start_frame": 2448,
+      "end_frame": 2552,
+      "keyframes": [
+        "002448.webp",
+        "002449.webp",
+        "002473.webp",
+        "002498.webp",
+        "002499.webp",
+        "002524.webp",
+        "002550.webp",
+        "002551.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta sẽ dùng cá hồi, sẽ nén chặt phần hạnh nhân vào phần cá hồi.",
+      "start": 102.08,
+      "end": 107.2,
+      "n_words": 16,
+      "start_frame": 2552,
+      "end_frame": 2680,
+      "keyframes": [
+        "002588.webp",
+        "002626.webp",
+        "002627.webp",
+        "002676.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và phần hạnh nhân thì mình có cần phải giã nát hay như thế nào hả Phước?",
+      "start": 107.2,
+      "end": 112.04,
+      "n_words": 17,
+      "start_frame": 2680,
+      "end_frame": 2801,
+      "keyframes": [
+        "002726.webp",
+        "002727.webp",
+        "002762.webp",
+        "002797.webp",
+        "002798.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta không nên giã hạnh nhân quá nát, khi ăn thì sẽ cảm nhận được hạnh nhân.",
+      "start": 112.04,
+      "end": 116.92,
+      "n_words": 18,
+      "start_frame": 2801,
+      "end_frame": 2923,
+      "keyframes": [
+        "002853.webp",
+        "002908.webp",
+        "002909.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta sẽ lấy phần cá hồi và hạnh nhân, chúng ta sẽ lăn qua gia vị nêm sẵn Aji-Quick bột tẩm khô chiên giòn giúp cho món ăn đậm đà hơn và vị vừa ăn hơn.",
+      "start": 116.92,
+      "end": 126.24,
+      "n_words": 37,
+      "start_frame": 2923,
+      "end_frame": 3156,
+      "keyframes": [
+        "002927.webp",
+        "002945.webp",
+        "002946.webp",
+        "003017.webp",
+        "003088.webp",
+        "003089.webp",
+        "003120.webp",
+        "003152.webp",
+        "003153.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đó chính là cái điều mà Phương rất là mê, gia vị nêm sẵn Aji-Quick bột tẩm khô chiên giòn chính vì thế mà gia vị này luôn luôn có trong gian bếp của Minh Phương.",
+      "start": 126.24,
+      "end": 134.4,
+      "n_words": 36,
+      "start_frame": 3156,
+      "end_frame": 3360,
+      "keyframes": [
+        "003191.webp",
+        "003230.webp",
+        "003231.webp",
+        "003294.webp",
+        "003358.webp",
+        "003359.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và lần lượt như vậy Minh Phương sẽ lăn hết cái phần cá hồi hạnh nhân luôn.",
+      "start": 134.4,
+      "end": 139.76,
+      "n_words": 17,
+      "start_frame": 3360,
+      "end_frame": 3494,
+      "keyframes": [
+        "003382.webp",
+        "003405.webp",
+        "003406.webp",
+        "003437.webp",
+        "003469.webp",
+        "003470.webp",
+        "003489.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Bây giờ thì phần dầu cũng đã nóng rồi, Minh Phương sẽ lần lượt cho phần cá hồi vào.",
+      "start": 139.76,
+      "end": 144.84,
+      "n_words": 19,
+      "start_frame": 3494,
+      "end_frame": 3621,
+      "keyframes": [
+        "003509.webp",
+        "003510.webp",
+        "003565.webp",
+        "003621.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng ta sẽ chiên lửa vừa đến khi nào mà phần cá hồi vừa chín tới, còn bên ngoài có cái độ vàng nhẹ là được.",
+      "start": 144.84,
+      "end": 151.44,
+      "n_words": 26,
+      "start_frame": 3621,
+      "end_frame": 3786,
+      "keyframes": [
+        "003621.webp",
+        "003622.webp",
+        "003704.webp",
+        "003786.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Nếu mà cá hồi chúng ta chiên quá chín thì cá sẽ bị khô, ăn sẽ không ngon.",
+      "start": 151.44,
+      "end": 155.4,
+      "n_words": 18,
+      "start_frame": 3786,
+      "end_frame": 3885,
+      "keyframes": [
+        "003786.webp",
+        "003787.webp",
+        "003836.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ Phước Hương sẽ kiểm tra coi những cái nào mà nó vừa vàng tới rồi, chúng ta sẽ vớt cho ra giấy thấm dầu.",
+      "start": 155.4,
+      "end": 163.88,
+      "n_words": 26,
+      "start_frame": 3885,
+      "end_frame": 4097,
+      "keyframes": [
+        "003886.webp",
+        "003887.webp",
+        "003946.webp",
+        "004005.webp",
+        "004006.webp",
+        "004055.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta sẽ pha cái hỗn hợp sốt để chấm ăn kèm.",
+      "start": 163.88,
+      "end": 166.8,
+      "n_words": 12,
+      "start_frame": 4097,
+      "end_frame": 4170,
+      "keyframes": [
+        "004104.webp",
+        "004105.webp",
+        "004137.webp",
+        "004170.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Phước Hương sẽ cho vào đây một muỗng cà phê mù tạt vàng, hai muỗng canh sốt mayonnaise Aji-Pure vị nguyên bản, một muỗng canh nước cốt chanh dây.",
+      "start": 166.8,
+      "end": 177.52,
+      "n_words": 29,
+      "start_frame": 4170,
+      "end_frame": 4438,
+      "keyframes": [
+        "004170.webp",
+        "004171.webp",
+        "004197.webp",
+        "004223.webp",
+        "004224.webp",
+        "004243.webp",
+        "004262.webp",
+        "004263.webp",
+        "004322.webp",
+        "004382.webp",
+        "004383.webp",
+        "004411.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Chúng ta nên sử dụng sốt mayonnaise Aji-Pure vị nguyên bản để sốt được sánh, khi ăn có hương vị đặc trưng hơn.",
+      "start": 177.52,
+      "end": 184.0,
+      "n_words": 23,
+      "start_frame": 4438,
+      "end_frame": 4600,
+      "keyframes": [
+        "004440.webp",
+        "004441.webp",
+        "004520.webp",
+        "004599.webp",
+        "004600.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Như vậy thì cái phần công thức nước sốt ngày hôm nay cũng không quá phức tạp phải không các bạn?",
+      "start": 184.0,
+      "end": 188.68,
+      "n_words": 21,
+      "start_frame": 4600,
+      "end_frame": 4717,
+      "keyframes": [
+        "004600.webp",
+        "004635.webp",
+        "004671.webp",
+        "004672.webp",
+        "004698.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Để lưu lại công thức của ngày hôm nay thì các bạn hãy dùng điện thoại di động quét mã QR đang hiển thị trên màn hình.",
+      "start": 188.68,
+      "end": 196.4,
+      "n_words": 27,
+      "start_frame": 4717,
+      "end_frame": 4910,
+      "keyframes": [
+        "004724.webp",
+        "004725.webp",
+        "004793.webp",
+        "004861.webp",
+        "004862.webp",
+        "004886.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ trình bày ra món ăn thôi.",
+      "start": 196.4,
+      "end": 199.12,
+      "n_words": 11,
+      "start_frame": 4910,
+      "end_frame": 4978,
+      "keyframes": [
+        "004911.webp",
+        "004912.webp",
+        "004943.webp",
+        "004975.webp",
+        "004976.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đầu tiên thì Phước Hương sẽ lấy một ít sốt nè, đặt những cái viên cá hồi hạnh nhân vào.",
+      "start": 199.12,
+      "end": 204.96,
+      "n_words": 20,
+      "start_frame": 4978,
+      "end_frame": 5124,
+      "keyframes": [
+        "005007.webp",
+        "005038.webp",
+        "005039.webp",
+        "005049.webp",
+        "005060.webp",
+        "005061.webp",
+        "005084.webp",
+        "005107.webp",
+        "005108.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Khi ăn thì chúng ta sẽ chấm với một ít sốt sẽ rất là tuyệt vời luôn.",
+      "start": 204.96,
+      "end": 208.56,
+      "n_words": 17,
+      "start_frame": 5124,
+      "end_frame": 5214,
+      "keyframes": [
+        "005126.webp",
+        "005144.webp",
+        "005145.webp",
+        "005177.webp",
+        "005209.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ Minh Phương hãy thưởng thức ngay đi để cho nó còn một cái độ nóng, giòn đi.",
+      "start": 208.56,
+      "end": 218.72,
+      "n_words": 19,
+      "start_frame": 5214,
+      "end_frame": 5468,
+      "keyframes": [
+        "005224.webp",
+        "005265.webp",
+        "005307.webp",
+        "005308.webp",
+        "005379.webp",
+        "005451.webp",
+        "005452.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Đầu tiên nha, này không có nịnh nha, phải công nhận là khi nãy đến giờ Minh Phương á, Phước Hương tám quá trời quá đất luôn, thế mà bây giờ ăn những cái viên cá hồi này vẫn còn rất là giòn, bên trong cá hồi vừa chín tới, ngọt mềm, không có bị quá khô.",
+      "start": 219.04,
+      "end": 232.72,
+      "n_words": 57,
+      "start_frame": 5476,
+      "end_frame": 5818,
+      "keyframes": [
+        "005536.webp",
+        "005620.webp",
+        "005621.webp",
+        "005660.webp",
+        "005699.webp",
+        "005714.webp",
+        "005777.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Và cuối cùng, cùng đó chính là cái phần sốt chanh dây béo béo của mayonnaise, một chút chua nhẹ chanh dây rất là hài hòa.",
+      "start": 232.72,
+      "end": 240.24,
+      "n_words": 26,
+      "start_frame": 5818,
+      "end_frame": 6006,
+      "keyframes": [
+        "005841.webp",
+        "005842.webp",
+        "005925.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và để đạt được hiệu quả dinh dưỡng thì các bạn nên tham khảo món ăn ngày hôm nay cùng với bản thực đơn sau đây, đổi vị cho cả gia đình mình với món cá hồi hạnh nhân sốt chanh dây.",
+      "start": 240.24,
+      "end": 253.64,
+      "n_words": 42,
+      "start_frame": 6006,
+      "end_frame": 6341,
+      "keyframes": [
+        "006008.webp",
+        "006009.webp",
+        "006059.webp",
+        "006110.webp",
+        "006111.webp",
+        "006173.webp",
+        "006235.webp",
+        "006236.webp",
+        "006289.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Và các bạn khán giả cũng có thể xem thêm nhiều công thức của các món ăn ngon bằng cách truy cập vào kênh YouTube, website và fanpage của Món ngon mỗi ngày.",
+      "start": 253.64,
+      "end": 262.88,
+      "n_words": 33,
+      "start_frame": 6341,
+      "end_frame": 6572,
+      "keyframes": [
+        "006342.webp",
+        "006343.webp",
+        "006446.webp",
+        "006549.webp",
+        "006550.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

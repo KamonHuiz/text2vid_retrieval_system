@@ -1,0 +1,2594 @@
+{
+  "video_id": "L22_V022",
+  "fps": 30.0,
+  "n_sentences": 143,
+  "total_words": 4003,
+  "sentences": [
+    {
+      "text": "Thưa, đây là chương trình 60 giây của Đài Truyền hình Thành phố Hồ Chí Minh, được phát sóng hàng ngày vào lúc 18:30 trên HTV7 và HTV9. Cảm ơn quý vị đã dành thời gian theo dõi chương trình hôm nay, thứ năm ngày 22 tháng 8.",
+      "start": 0.0,
+      "end": 15.32,
+      "n_words": 48,
+      "start_frame": 0,
+      "end_frame": 460,
+      "keyframes": [
+        "000000.webp",
+        "000009.webp",
+        "000019.webp",
+        "000035.webp",
+        "000295.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "60 giây sẽ có những thông tin nổi bật sau đây: Giá thịt heo tăng do người nuôi e ngại chưa tái đàn do dịch bệnh diễn biến phức tạp; Hơn 30.000 cửa hàng kinh doanh ẩm thực phải đóng cửa trong 6 tháng qua; Hơn 100 tổ chức Do Thái trên khắp Canada bị đe dọa đánh bom, cảnh sát vào cuộc điều tra; Một ô tô đầu kéo bất ngờ bốc cháy dữ dội trên đèo Chuối, Lâm Đồng.",
+      "start": 15.32,
+      "end": 42.12,
+      "n_words": 81,
+      "start_frame": 460,
+      "end_frame": 1264,
+      "keyframes": [
+        "000555.webp",
+        "000556.webp",
+        "000585.webp",
+        "000615.webp",
+        "000616.webp",
+        "000634.webp",
+        "000652.webp",
+        "000653.webp",
+        "000655.webp",
+        "000657.webp",
+        "000658.webp",
+        "000690.webp",
+        "000723.webp",
+        "000724.webp",
+        "000745.webp",
+        "000767.webp",
+        "000768.webp",
+        "000785.webp",
+        "000803.webp",
+        "000804.webp",
+        "000822.webp",
+        "000841.webp",
+        "000842.webp",
+        "000857.webp",
+        "000873.webp",
+        "000874.webp",
+        "000895.webp",
+        "000916.webp",
+        "000917.webp",
+        "000939.webp",
+        "000961.webp",
+        "000962.webp",
+        "000978.webp",
+        "000994.webp",
+        "000995.webp",
+        "001030.webp",
+        "001066.webp",
+        "001067.webp",
+        "001088.webp",
+        "001109.webp",
+        "001110.webp",
+        "001130.webp",
+        "001151.webp",
+        "001152.webp",
+        "001174.webp",
+        "001196.webp",
+        "001197.webp",
+        "001214.webp",
+        "001232.webp",
+        "001233.webp"
+      ],
+      "keyframe_count": 50
+    },
+    {
+      "text": "Thưa quý vị, giá thịt heo tại Thành phố Hồ Chí Minh đang biến động tăng do nguồn cung khan hiếm.",
+      "start": 42.12,
+      "end": 48.52,
+      "n_words": 21,
+      "start_frame": 1264,
+      "end_frame": 1456,
+      "keyframes": [
+        "001271.webp",
+        "001309.webp",
+        "001310.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trong khi đó, nhiều người chăn nuôi tại các vùng chăn nuôi trọng điểm ở khu vực phía Nam vẫn không mặn mà tái đàn.",
+      "start": 48.52,
+      "end": 54.36,
+      "n_words": 25,
+      "start_frame": 1456,
+      "end_frame": 1631,
+      "keyframes": [
+        "001478.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nguyên nhân là dịch bệnh lây lan khiến người dân lo lắng tái đàn sẽ thua lỗ.",
+      "start": 54.36,
+      "end": 58.4,
+      "n_words": 17,
+      "start_frame": 1631,
+      "end_frame": 1752,
+      "keyframes": [
+        "001647.webp",
+        "001648.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tình trạng này có khả năng dẫn giá heo tiếp tục tăng và nỗi lo thiếu hụt nguồn cung vào dịp Tết.",
+      "start": 58.4,
+      "end": 64.88,
+      "n_words": 22,
+      "start_frame": 1752,
+      "end_frame": 1946,
+      "keyframes": [
+        "001791.webp",
+        "001934.webp",
+        "001935.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Những ngày này, giá thịt heo tại các chợ tại Thành phố Hồ Chí Minh liên tục tăng từ vài ngàn đến hơn 10.000 đồng một kg tùy loại.",
+      "start": 64.88,
+      "end": 72.2,
+      "n_words": 29,
+      "start_frame": 1946,
+      "end_frame": 2166,
+      "keyframes": [
+        "001952.webp",
+        "001969.webp",
+        "001970.webp",
+        "001989.webp",
+        "002009.webp",
+        "002010.webp",
+        "002044.webp",
+        "002079.webp",
+        "002080.webp",
+        "002119.webp",
+        "002159.webp",
+        "002160.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Tiểu thương xoay sở để giá không tăng quá cao nhằm giữ khách, do sức mua tại chợ truyền thống đã giảm từ 70% đến 80% nên tiểu thương chủ động bình ổn giá, bán dưới giá niêm yết.",
+      "start": 72.2,
+      "end": 85.28,
+      "n_words": 39,
+      "start_frame": 2166,
+      "end_frame": 2558,
+      "keyframes": [
+        "002192.webp",
+        "002225.webp",
+        "002226.webp",
+        "002252.webp",
+        "002279.webp",
+        "002280.webp",
+        "002351.webp",
+        "002423.webp",
+        "002424.webp",
+        "002456.webp",
+        "002489.webp",
+        "002490.webp",
+        "002519.webp",
+        "002549.webp",
+        "002550.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Giá heo hơi tăng liên tục trên dưới 60.000 đồng một kg là nguyên nhân khiến thịt heo tăng giá.",
+      "start": 85.28,
+      "end": 91.12,
+      "n_words": 20,
+      "start_frame": 2558,
+      "end_frame": 2734,
+      "keyframes": [
+        "002578.webp",
+        "002607.webp",
+        "002608.webp",
+        "002624.webp",
+        "002641.webp",
+        "002642.webp",
+        "002669.webp",
+        "002697.webp",
+        "002698.webp",
+        "002733.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Tuy nhiên, dù heo tăng giá nhưng người chăn nuôi lại không mặn mà tái đàn.",
+      "start": 91.12,
+      "end": 96.4,
+      "n_words": 16,
+      "start_frame": 2734,
+      "end_frame": 2892,
+      "keyframes": [
+        "002769.webp",
+        "002770.webp",
+        "002804.webp",
+        "002839.webp",
+        "002840.webp",
+        "002874.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "\"Chăn nuôi thì cũng được thôi, nhưng mà vào cái thời điểm cứ dịch như vậy, người ta nói là không biết là nghỉ thời gian bao lâu.\"",
+      "start": 96.4,
+      "end": 104.76,
+      "n_words": 28,
+      "start_frame": 2892,
+      "end_frame": 3143,
+      "keyframes": [
+        "002908.webp",
+        "002909.webp",
+        "002932.webp",
+        "002956.webp",
+        "002957.webp",
+        "003047.webp",
+        "003137.webp",
+        "003138.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Với giá hiện nay, người nuôi sẽ lời trên 1 triệu đồng một con heo nhưng dịch bệnh phức tạp khiến bà con vẫn e ngại.",
+      "start": 104.76,
+      "end": 111.72,
+      "n_words": 26,
+      "start_frame": 3143,
+      "end_frame": 3352,
+      "keyframes": [
+        "003170.webp",
+        "003202.webp",
+        "003203.webp",
+        "003225.webp",
+        "003248.webp",
+        "003249.webp",
+        "003266.webp",
+        "003283.webp",
+        "003284.webp",
+        "003298.webp",
+        "003313.webp",
+        "003314.webp",
+        "003328.webp",
+        "003343.webp",
+        "003344.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Giảm đàn của các hộ chăn nuôi ở Đồng Nai khoảng 70%.",
+      "start": 111.72,
+      "end": 114.56,
+      "n_words": 12,
+      "start_frame": 3352,
+      "end_frame": 3437,
+      "keyframes": [
+        "003354.webp",
+        "003364.webp",
+        "003365.webp",
+        "003382.webp",
+        "003399.webp",
+        "003400.webp",
+        "003411.webp",
+        "003423.webp",
+        "003424.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Giá chăn nuôi sắp tới từ nay tới cuối năm không thể hạ được.",
+      "start": 115.48,
+      "end": 119.48,
+      "n_words": 14,
+      "start_frame": 3464,
+      "end_frame": 3584,
+      "keyframes": [
+        "003465.webp",
+        "003466.webp",
+        "003514.webp",
+        "003563.webp",
+        "003564.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Với quy mô tổng đàn gia súc tăng khoảng 3% so với cùng kỳ, ngành chăn nuôi vẫn đảm bảo đủ nguồn cung cho tiêu dùng cuối năm.",
+      "start": 119.48,
+      "end": 128.4,
+      "n_words": 28,
+      "start_frame": 3584,
+      "end_frame": 3852,
+      "keyframes": [
+        "003595.webp",
+        "003626.webp",
+        "003627.webp",
+        "003659.webp",
+        "003692.webp",
+        "003693.webp",
+        "003720.webp",
+        "003748.webp",
+        "003749.webp",
+        "003769.webp",
+        "003790.webp",
+        "003791.webp",
+        "003811.webp",
+        "003832.webp",
+        "003833.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Giá xăng trong nước hôm nay được liên Bộ Công Thương - Tài chính điều chỉnh giảm.",
+      "start": 128.4,
+      "end": 132.28,
+      "n_words": 17,
+      "start_frame": 3852,
+      "end_frame": 3968,
+      "keyframes": [
+        "003940.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Các doanh nghiệp đồng loạt điều chỉnh giá xăng dầu từ 15:00 ngày 22 tháng 8.",
+      "start": 132.28,
+      "end": 136.36,
+      "n_words": 16,
+      "start_frame": 3968,
+      "end_frame": 4091,
+      "keyframes": [
+        "004047.webp",
+        "004048.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Theo đó, so với cách đây 7 ngày, giá xăng E5 giảm 460 đồng một lít, giá bán là 20.420 đồng một lít; Giá xăng Ron 95 hạ 540 đồng một lít, giá bán còn 21.310 đồng một lít.",
+      "start": 136.36,
+      "end": 148.4,
+      "n_words": 39,
+      "start_frame": 4091,
+      "end_frame": 4452,
+      "keyframes": [
+        "004110.webp",
+        "004173.webp",
+        "004174.webp",
+        "004198.webp",
+        "004223.webp",
+        "004224.webp",
+        "004265.webp",
+        "004306.webp",
+        "004307.webp",
+        "004347.webp",
+        "004387.webp",
+        "004388.webp",
+        "004395.webp",
+        "004403.webp",
+        "004404.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Tương tự, giá dầu diesel cũng được điều chỉnh giảm 460 đồng một lít, giá bán ở mức 18.770 đồng một lít; Dầu hỏa có mức giá mới là 19.140 đồng, giảm 430 đồng một lít.",
+      "start": 148.4,
+      "end": 159.36,
+      "n_words": 36,
+      "start_frame": 4452,
+      "end_frame": 4781,
+      "keyframes": [
+        "004478.webp",
+        "004553.webp",
+        "004554.webp",
+        "004634.webp",
+        "004715.webp",
+        "004716.webp",
+        "004744.webp",
+        "004773.webp",
+        "004774.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Theo Tổng cục Quản lý Thị trường, tình hình kinh doanh mặt hàng xăng dầu hiện tương đối ổn định, không có tình trạng đầu cơ găm hàng hay nghỉ bán xăng dầu không có lý do.",
+      "start": 159.36,
+      "end": 169.76,
+      "n_words": 37,
+      "start_frame": 4781,
+      "end_frame": 5093,
+      "keyframes": [
+        "004796.webp",
+        "004819.webp",
+        "004820.webp",
+        "004864.webp",
+        "004909.webp",
+        "004910.webp",
+        "004959.webp",
+        "005008.webp",
+        "005009.webp",
+        "005022.webp",
+        "005035.webp",
+        "005036.webp",
+        "005056.webp",
+        "005077.webp",
+        "005078.webp",
+        "005082.webp",
+        "005086.webp",
+        "005087.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Theo báo cáo thị trường kinh doanh ẩm thực của iPOS.",
+      "start": 169.76,
+      "end": 172.6,
+      "n_words": 11,
+      "start_frame": 5093,
+      "end_frame": 5178,
+      "keyframes": [
+        "005167.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Vn cho thấy tỷ lệ người Việt chi tiêu trên 100.000 đồng cho một ly cà phê đã giảm từ 6% năm ngoái xuống chỉ còn 1.7%.",
+      "start": 172.6,
+      "end": 179.16,
+      "n_words": 27,
+      "start_frame": 5178,
+      "end_frame": 5375,
+      "keyframes": [
+        "005247.webp",
+        "005248.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cùng với đó, số lượng cửa hàng kinh doanh ẩm thực phải đóng cửa tăng cao.",
+      "start": 180.2,
+      "end": 185.52,
+      "n_words": 16,
+      "start_frame": 5406,
+      "end_frame": 5566,
+      "keyframes": [
+        "005555.webp",
+        "005556.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Theo đó, đến tháng 7 năm 2024, cả nước có khoảng 304.700 cửa hàng kinh doanh ngành hàng ăn uống, giảm gần 4% so với cùng kỳ năm trước, tương đương với hơn 30.000 cửa hàng đã đóng cửa trong nửa năm qua.",
+      "start": 185.52,
+      "end": 198.56,
+      "n_words": 43,
+      "start_frame": 5566,
+      "end_frame": 5957,
+      "keyframes": [
+        "005590.webp",
+        "005625.webp",
+        "005626.webp",
+        "005643.webp",
+        "005660.webp",
+        "005661.webp",
+        "005699.webp",
+        "005737.webp",
+        "005738.webp",
+        "005787.webp",
+        "005836.webp",
+        "005837.webp",
+        "005846.webp",
+        "005855.webp",
+        "005856.webp",
+        "005911.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Số cửa hàng F&B rời bỏ thị trường phần lớn ở Thành phố Hồ Chí Minh.",
+      "start": 198.56,
+      "end": 202.72,
+      "n_words": 16,
+      "start_frame": 5957,
+      "end_frame": 6082,
+      "keyframes": [
+        "005966.webp",
+        "005967.webp",
+        "006003.webp",
+        "006039.webp",
+        "006040.webp",
+        "006069.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Số lượng cửa hàng đóng cửa chiếm gần 6% tổng số cửa hàng toàn thành phố.",
+      "start": 202.72,
+      "end": 206.84,
+      "n_words": 16,
+      "start_frame": 6082,
+      "end_frame": 6205,
+      "keyframes": [
+        "006098.webp",
+        "006099.webp",
+        "006171.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hầu hết các doanh nghiệp báo cáo giảm doanh thu, đặc biệt giảm mạnh trong quý 2.",
+      "start": 206.84,
+      "end": 215.4,
+      "n_words": 17,
+      "start_frame": 6205,
+      "end_frame": 6462,
+      "keyframes": [
+        "006243.webp",
+        "006244.webp",
+        "006286.webp",
+        "006329.webp",
+        "006330.webp",
+        "006380.webp",
+        "006431.webp",
+        "006432.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Theo khảo sát Hiệp hội Thương mại điện tử Việt Nam, hiện nay hơn một nửa các doanh nghiệp trên cả nước đã triển khai các kênh bán hàng trực tuyến, trong đó 44% số doanh nghiệp xây dựng các trang web, 58% có bán hàng qua mạng xã hội và hơn 24% tham gia các sàn thương mại điện tử.",
+      "start": 215.4,
+      "end": 231.76,
+      "n_words": 61,
+      "start_frame": 6462,
+      "end_frame": 6953,
+      "keyframes": [
+        "006467.webp",
+        "006503.webp",
+        "006504.webp",
+        "006536.webp",
+        "006568.webp",
+        "006569.webp",
+        "006604.webp",
+        "006639.webp",
+        "006640.webp",
+        "006660.webp",
+        "006681.webp",
+        "006682.webp",
+        "006698.webp",
+        "006715.webp",
+        "006716.webp",
+        "006735.webp",
+        "006754.webp",
+        "006755.webp",
+        "006773.webp",
+        "006791.webp",
+        "006792.webp",
+        "006836.webp",
+        "006880.webp",
+        "006881.webp",
+        "006924.webp"
+      ],
+      "keyframe_count": 25
+    },
+    {
+      "text": "Các kênh bán hàng trực tuyến trên mạng xã hội, trên sàn thương mại điện tử, livestream được xem là phù hợp với thị hiếu, tiếp cận khách hàng hiệu quả và nhanh hơn. Mùa mưa cũng là mùa bệnh sốt xuất huyết gia tăng.",
+      "start": 231.76,
+      "end": 244.56,
+      "n_words": 45,
+      "start_frame": 6953,
+      "end_frame": 7337,
+      "keyframes": [
+        "006968.webp",
+        "006969.webp",
+        "007008.webp",
+        "007047.webp",
+        "007048.webp",
+        "007058.webp",
+        "007069.webp",
+        "007070.webp",
+        "007108.webp",
+        "007147.webp",
+        "007148.webp",
+        "007164.webp",
+        "007181.webp",
+        "007182.webp",
+        "007207.webp",
+        "007233.webp",
+        "007234.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Từ đầu năm đến nay, toàn tỉnh Bình Phước đã ghi nhận 1.148 ca mắc sốt xuất huyết, trong đó có một ca tử vong.",
+      "start": 244.56,
+      "end": 251.0,
+      "n_words": 25,
+      "start_frame": 7337,
+      "end_frame": 7530,
+      "keyframes": [
+        "007444.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thông tin được Trung tâm Kiểm soát Bệnh tật tỉnh Bình Phước cho biết vào sáng nay, các địa phương có số ca mắc nhiều gồm: thị xã Phước Long 248 ca, thành phố Đồng Xoài 130 ca, huyện Bù Đăng 116 ca, huyện Lộc Ninh 90 ca.",
+      "start": 251.0,
+      "end": 267.6,
+      "n_words": 48,
+      "start_frame": 7530,
+      "end_frame": 8028,
+      "keyframes": [
+        "007654.webp",
+        "007655.webp",
+        "007694.webp",
+        "007733.webp",
+        "007734.webp",
+        "007765.webp",
+        "007796.webp",
+        "007797.webp",
+        "007835.webp",
+        "007874.webp",
+        "007875.webp",
+        "007900.webp",
+        "007925.webp",
+        "007926.webp",
+        "007961.webp",
+        "007997.webp",
+        "007998.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Trường hợp tử vong là chị Phan Thị NK, 37 tuổi, ngụ xã Tân Tiến, huyện Bù Đốp.",
+      "start": 267.6,
+      "end": 273.6,
+      "n_words": 18,
+      "start_frame": 8028,
+      "end_frame": 8208,
+      "keyframes": [
+        "008040.webp",
+        "008083.webp",
+        "008084.webp",
+        "008133.webp",
+        "008182.webp",
+        "008183.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Ngày 24 tháng 7, bệnh nhân có triệu chứng sốt cao, mệt mỏi, nhức cơ nhưng không được nhập viện mà ở nhà tự điều trị.",
+      "start": 273.6,
+      "end": 280.76,
+      "n_words": 26,
+      "start_frame": 8208,
+      "end_frame": 8423,
+      "keyframes": [
+        "008257.webp",
+        "008331.webp",
+        "008332.webp",
+        "008371.webp",
+        "008411.webp",
+        "008412.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Ngày 27 tháng 7, bệnh nhân đi khám, chẩn đoán sốt xuất huyết Dengue và được kê toa.",
+      "start": 280.76,
+      "end": 286.36,
+      "n_words": 18,
+      "start_frame": 8423,
+      "end_frame": 8591,
+      "keyframes": [
+        "008435.webp",
+        "008458.webp",
+        "008459.webp",
+        "008480.webp",
+        "008501.webp",
+        "008502.webp",
+        "008530.webp",
+        "008559.webp",
+        "008560.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đến chiều ngày 29 tháng 7, bệnh nhân mệt nhiều, được người nhà đưa đến Trung tâm Y tế huyện Lộc Ninh.",
+      "start": 286.36,
+      "end": 291.04,
+      "n_words": 22,
+      "start_frame": 8591,
+      "end_frame": 8731,
+      "keyframes": [
+        "008593.webp",
+        "008627.webp",
+        "008628.webp",
+        "008662.webp",
+        "008697.webp",
+        "008698.webp",
+        "008729.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Khuya 30 tháng 7, bệnh nhân tử vong sau khi nhập viện ở Bệnh viện Bệnh Nhiệt đới Thành phố Hồ Chí Minh.",
+      "start": 292.28,
+      "end": 298.08,
+      "n_words": 23,
+      "start_frame": 8768,
+      "end_frame": 8942,
+      "keyframes": [
+        "008801.webp",
+        "008841.webp",
+        "008842.webp",
+        "008896.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Ngành y tế Bình Phước khuyến cáo người dân tăng cường diệt muỗi phòng chống sốt xuất huyết và đến các cơ sở y tế khám khi nghi ngờ mắc bệnh.",
+      "start": 298.08,
+      "end": 307.28,
+      "n_words": 31,
+      "start_frame": 8942,
+      "end_frame": 9218,
+      "keyframes": [
+        "008950.webp",
+        "008951.webp",
+        "008970.webp",
+        "008989.webp",
+        "008990.webp",
+        "009045.webp",
+        "009101.webp",
+        "009102.webp",
+        "009152.webp",
+        "009202.webp",
+        "009203.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Một con rùa xanh quý hiếm bị mắc cạn tại bãi biển ở Côn Đảo vừa được Ban quản lý Vườn quốc gia Côn Đảo và du khách giải cứu, đưa trở lại đại dương an toàn.",
+      "start": 307.28,
+      "end": 317.04,
+      "n_words": 37,
+      "start_frame": 9218,
+      "end_frame": 9511,
+      "keyframes": [
+        "009325.webp",
+        "009447.webp",
+        "009448.webp",
+        "009478.webp",
+        "009509.webp",
+        "009510.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Con rùa biển bị mắc cạn tại bãi biển Mũi Lò Voi, huyện Côn Đảo, tỉnh Bà Rịa - Vũng Tàu.",
+      "start": 317.04,
+      "end": 321.52,
+      "n_words": 21,
+      "start_frame": 9511,
+      "end_frame": 9646,
+      "keyframes": [
+        "009562.webp",
+        "009614.webp",
+        "009615.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đây là giống rùa có tên Lepidochelys olivacea, có trọng lượng khoảng 70 kg.",
+      "start": 321.52,
+      "end": 326.04,
+      "n_words": 14,
+      "start_frame": 9646,
+      "end_frame": 9781,
+      "keyframes": [
+        "009662.webp",
+        "009709.webp",
+        "009710.webp",
+        "009766.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Nguyên nhân mắc cạn có thể là do rùa đã bơi vào sát bờ, sau đó thủy triều rút nhanh nên không kịp bơi ra biển.",
+      "start": 326.04,
+      "end": 332.04,
+      "n_words": 26,
+      "start_frame": 9781,
+      "end_frame": 9961,
+      "keyframes": [
+        "009823.webp",
+        "009824.webp",
+        "009863.webp",
+        "009902.webp",
+        "009903.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hàng năm, các địa điểm tại Côn Đảo là nơi có số lượng rùa biển dộp làm tổ đẻ trứng nhiều nhất tại Việt Nam, chiếm khoảng 80%.",
+      "start": 332.04,
+      "end": 337.8,
+      "n_words": 28,
+      "start_frame": 9961,
+      "end_frame": 10134,
+      "keyframes": [
+        "009963.webp",
+        "010024.webp",
+        "010025.webp",
+        "010084.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Từ đầu năm đến nay, Vườn quốc gia Côn Đảo đã giải cứu gần 800 tổ trứng rùa với hơn 77.000 trứng được di dời về hố ấp nhân tạo.",
+      "start": 338.76,
+      "end": 348.92,
+      "n_words": 30,
+      "start_frame": 10163,
+      "end_frame": 10468,
+      "keyframes": [
+        "010190.webp",
+        "010237.webp",
+        "010238.webp",
+        "010284.webp",
+        "010330.webp",
+        "010331.webp",
+        "010386.webp",
+        "010441.webp",
+        "010442.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Ngay sau đây trong mạng quốc tế: Đã tìm thấy 5 thi thể trong vụ siêu du thuyền bị chìm ở Italia; Gấu trúc Meng Meng sắp cho ra đời một cặp song sinh đang là tâm điểm chú ý tại vườn thú Berlin.",
+      "start": 348.92,
+      "end": 366.4,
+      "n_words": 44,
+      "start_frame": 10468,
+      "end_frame": 10992,
+      "keyframes": [
+        "010475.webp",
+        "010508.webp",
+        "010509.webp",
+        "010539.webp",
+        "010569.webp",
+        "010570.webp",
+        "010591.webp",
+        "010612.webp",
+        "010613.webp",
+        "010636.webp",
+        "010660.webp",
+        "010661.webp",
+        "010692.webp",
+        "010724.webp",
+        "010725.webp",
+        "010743.webp",
+        "010762.webp",
+        "010763.webp",
+        "010782.webp",
+        "010802.webp",
+        "010803.webp",
+        "010825.webp",
+        "010847.webp",
+        "010848.webp",
+        "010871.webp",
+        "010894.webp",
+        "010895.webp",
+        "010911.webp",
+        "010927.webp",
+        "010928.webp",
+        "010944.webp",
+        "010961.webp",
+        "010962.webp",
+        "010963.webp",
+        "010964.webp",
+        "010965.webp"
+      ],
+      "keyframe_count": 36
+    },
+    {
+      "text": "Thưa quý vị, hơn 100 tổ chức Do Thái trên khắp Canada đã đồng loạt nhận được thư điện tử đe dọa đánh bom, khiến cảnh sát nhiều thành phố phải vào cuộc điều tra và triển khai ngay các biện pháp phòng ngừa.",
+      "start": 366.4,
+      "end": 378.64,
+      "n_words": 44,
+      "start_frame": 10992,
+      "end_frame": 11359,
+      "keyframes": [
+        "011001.webp",
+        "011038.webp",
+        "011039.webp",
+        "011077.webp",
+        "011115.webp",
+        "011116.webp",
+        "011281.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Theo Cơ quan Tư vấn và Dịch vụ Do Thái của Canada, các tổ chức Do Thái đã nhận được thư điện tử vào sáng sớm ngày 21 tháng 8 với nội dung đe dọa sẽ có các vụ nổ tại nhiều văn phòng ở những thành phố lớn như Toronto, Montreal và thậm chí cả thủ đô, đó là các thánh đường Do Thái, các bệnh viện và trung tâm cộng đồng của người Do Thái.",
+      "start": 378.64,
+      "end": 397.4,
+      "n_words": 77,
+      "start_frame": 11359,
+      "end_frame": 11922,
+      "keyframes": [
+        "011446.webp",
+        "011447.webp",
+        "011472.webp",
+        "011498.webp",
+        "011502.webp",
+        "011546.webp",
+        "011591.webp",
+        "011592.webp",
+        "011643.webp",
+        "011695.webp",
+        "011696.webp",
+        "011738.webp",
+        "011781.webp",
+        "011782.webp",
+        "011827.webp",
+        "011872.webp",
+        "011873.webp",
+        "011919.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Trên mạng xã hội X, Thủ tướng Canada Trudeau đã lên án đây là hành vi bài Do Thái cực đoan, yêu cầu các lực lượng thực thi pháp luật phối hợp điều tra và đảm bảo an toàn cho người Canada gốc Do Thái. Thưa quý vị, liên quan đến vụ siêu du thuyền bị chìm ở Italia, tính đến nay 5 thi thể đã được tìm thấy.",
+      "start": 397.4,
+      "end": 415.44,
+      "n_words": 69,
+      "start_frame": 11922,
+      "end_frame": 12463,
+      "keyframes": [
+        "011965.webp",
+        "011988.webp",
+        "012020.webp",
+        "012053.webp",
+        "012054.webp",
+        "012083.webp",
+        "012113.webp",
+        "012114.webp",
+        "012188.webp",
+        "012263.webp",
+        "012264.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Trong quá trình tìm kiếm xác siêu du thuyền bị chìm ngoài khơi bờ biển Sicily, hiện một người vẫn mất tích, công tác tìm kiếm đang tiếp tục.",
+      "start": 415.44,
+      "end": 423.6,
+      "n_words": 29,
+      "start_frame": 12463,
+      "end_frame": 12708,
+      "keyframes": [
+        "012484.webp",
+        "012704.webp",
+        "012705.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Danh tính của các nạn nhân không được chính quyền công bố ngay lập tức. Các thi thể đã được đưa vào bờ và đưa đến các bệnh viện gần đó để nhận dạng chính thức.",
+      "start": 423.6,
+      "end": 432.44,
+      "n_words": 36,
+      "start_frame": 12708,
+      "end_frame": 12973,
+      "keyframes": [
+        "012748.webp",
+        "012791.webp",
+        "012792.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Theo tờ Daily Telegraph của Anh, hai trong số những người thiệt mạng là tỷ phú người Anh Mike Lynch cùng con gái 18 tuổi của ông.",
+      "start": 432.44,
+      "end": 440.36,
+      "n_words": 27,
+      "start_frame": 12973,
+      "end_frame": 13211,
+      "keyframes": [
+        "013013.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chính quyền địa phương ở Sicily từ chối bình luận về báo cáo này.",
+      "start": 440.36,
+      "end": 444.32,
+      "n_words": 14,
+      "start_frame": 13211,
+      "end_frame": 13330,
+      "keyframes": [
+        "013234.webp",
+        "013235.webp",
+        "013305.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các thợ lặn sẽ tiếp tục tìm kiếm thêm một người nữa trong ngày hôm nay.",
+      "start": 444.32,
+      "end": 448.56,
+      "n_words": 16,
+      "start_frame": 13330,
+      "end_frame": 13457,
+      "keyframes": [
+        "013376.webp",
+        "013377.webp",
+        "013396.webp",
+        "013415.webp",
+        "013416.webp",
+        "013450.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Siêu du thuyền Bayesian treo cờ Anh chở 22 người đã bị lốc xoáy tấn công vào sáng ngày 19 tháng 8 khi đang neo đậu ngoài khơi của cảng Porticello, con thuyền bị chìm chỉ trong vài phút.",
+      "start": 448.56,
+      "end": 460.0,
+      "n_words": 39,
+      "start_frame": 13457,
+      "end_frame": 13800,
+      "keyframes": [
+        "013484.webp",
+        "013485.webp",
+        "013534.webp",
+        "013583.webp",
+        "013584.webp",
+        "013682.webp",
+        "013781.webp",
+        "013782.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Tai nạn đã khiến 6 người mất tích, 15 người khác được cứu sống.",
+      "start": 460.0,
+      "end": 463.96,
+      "n_words": 14,
+      "start_frame": 13800,
+      "end_frame": 13919,
+      "keyframes": [
+        "013868.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Câu hỏi lớn nhất được đặt ra lúc này là tại sao con tàu lại chìm nhanh như vậy, trong khi một chiếc thuyền buồm ở gần đó hầu như không bị hư hại gì.",
+      "start": 463.96,
+      "end": 474.48,
+      "n_words": 35,
+      "start_frame": 13919,
+      "end_frame": 14234,
+      "keyframes": [
+        "013955.webp",
+        "013956.webp",
+        "013997.webp",
+        "014038.webp",
+        "014039.webp",
+        "014128.webp",
+        "014218.webp",
+        "014219.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Tái chế rác thực phẩm là việc đang được nhiều quốc gia trên thế giới thực hiện để bảo vệ môi trường.",
+      "start": 474.48,
+      "end": 479.64,
+      "n_words": 22,
+      "start_frame": 14234,
+      "end_frame": 14389,
+      "keyframes": [
+        "014363.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ở Thụy Điển, việc này thậm chí còn được luật hóa.",
+      "start": 479.64,
+      "end": 484.6,
+      "n_words": 11,
+      "start_frame": 14389,
+      "end_frame": 14538,
+      "keyframes": [
+        "014507.webp",
+        "014508.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Anh Jo sống ở Stockholm là người ủng hộ luật mới về tái chế rác thải thực phẩm của Thụy Điển: \"Thay vì vứt vỏ khoai tây vào chung với những loại rác thải khác, anh bỏ riêng ra để mang đi tái chế.",
+      "start": 484.6,
+      "end": 496.88,
+      "n_words": 44,
+      "start_frame": 14538,
+      "end_frame": 14906,
+      "keyframes": [
+        "014545.webp",
+        "014582.webp",
+        "014583.webp",
+        "014619.webp",
+        "014656.webp",
+        "014657.webp",
+        "014689.webp",
+        "014721.webp",
+        "014722.webp",
+        "014766.webp",
+        "014811.webp",
+        "014812.webp",
+        "014854.webp",
+        "014897.webp",
+        "014898.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Tôi nghĩ luật này là một điều tốt, khiến cho mọi người suy nghĩ thêm về thực phẩm mà mình lãng phí và có trách nhiệm hơn đối với thực phẩm mà mình vứt đi.\"",
+      "start": 496.88,
+      "end": 505.28,
+      "n_words": 35,
+      "start_frame": 14906,
+      "end_frame": 15158,
+      "keyframes": [
+        "014932.webp",
+        "014967.webp",
+        "014968.webp",
+        "015006.webp",
+        "015045.webp",
+        "015046.webp",
+        "015077.webp",
+        "015109.webp",
+        "015110.webp",
+        "015131.webp",
+        "015152.webp",
+        "015153.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Biogra, một trong hai công ty chịu trách nhiệm tái chế rác thải thực phẩm tại khu vực Stockholm cho biết, rác thực phẩm sẽ được thu gom tập trung hơn; Rác này sẽ được xử lý thành phân bón, khí sinh học và các nhiên liệu sinh học hóa lỏng.",
+      "start": 505.28,
+      "end": 517.92,
+      "n_words": 51,
+      "start_frame": 15158,
+      "end_frame": 15538,
+      "keyframes": [
+        "015183.webp",
+        "015214.webp",
+        "015215.webp",
+        "015253.webp",
+        "015292.webp",
+        "015293.webp",
+        "015322.webp",
+        "015352.webp",
+        "015353.webp",
+        "015400.webp",
+        "015447.webp",
+        "015448.webp",
+        "015491.webp",
+        "015535.webp",
+        "015536.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Những sản phẩm này sẽ giúp giảm lượng khí thải CO2 và các khí nhà kính khác, đồng thời giúp tránh lạm dụng các nguồn tài nguyên hữu hạn.",
+      "start": 517.92,
+      "end": 525.52,
+      "n_words": 29,
+      "start_frame": 15538,
+      "end_frame": 15766,
+      "keyframes": [
+        "015558.webp",
+        "015581.webp",
+        "015582.webp",
+        "015614.webp",
+        "015647.webp",
+        "015648.webp",
+        "015686.webp",
+        "015724.webp",
+        "015725.webp",
+        "015764.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Theo đơn vị giám sát việc quản lý chất thải của thành phố, trung bình mỗi người Thụy Điển thải ra khoảng 120 kg chất thải thực phẩm hàng năm.",
+      "start": 525.52,
+      "end": 533.88,
+      "n_words": 30,
+      "start_frame": 15766,
+      "end_frame": 16016,
+      "keyframes": [
+        "015803.webp",
+        "015804.webp",
+        "015841.webp",
+        "015879.webp",
+        "015880.webp",
+        "015914.webp",
+        "015949.webp",
+        "015950.webp",
+        "016013.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Nước này đặt mục tiêu đến năm 2025, lượng rác thực phẩm bình quân theo đầu người sẽ giảm 20%.",
+      "start": 533.88,
+      "end": 539.32,
+      "n_words": 20,
+      "start_frame": 16016,
+      "end_frame": 16180,
+      "keyframes": [
+        "016077.webp",
+        "016078.webp",
+        "016111.webp",
+        "016145.webp",
+        "016146.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bờ biển Cape Cod của bang Massachusetts, Mỹ xuất hiện thêm nhiều cá mập trắng do quần thể hải cẩu ở đây gia tăng.",
+      "start": 541.44,
+      "end": 547.44,
+      "n_words": 24,
+      "start_frame": 16243,
+      "end_frame": 16423,
+      "keyframes": [
+        "016418.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Loài động vật hầu như không có kẻ thù này đang giúp thu hút du khách đến với thị trấn ven biển.",
+      "start": 548.0,
+      "end": 553.92,
+      "n_words": 22,
+      "start_frame": 16440,
+      "end_frame": 16618,
+      "keyframes": [
+        "016610.webp",
+        "016611.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bãi biển đây không chỉ đẹp và hoang sơ mà còn có những sát thủ dưới nước có tên là cá mập trắng.",
+      "start": 553.92,
+      "end": 560.8,
+      "n_words": 23,
+      "start_frame": 16618,
+      "end_frame": 16824,
+      "keyframes": [
+        "016653.webp",
+        "016695.webp",
+        "016696.webp",
+        "016732.webp",
+        "016768.webp",
+        "016769.webp",
+        "016788.webp",
+        "016808.webp",
+        "016809.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Chúng thu hút đông đảo về đây vì con mồi là đàn hải cẩu ngày một đông đảo.",
+      "start": 560.8,
+      "end": 565.56,
+      "n_words": 18,
+      "start_frame": 16824,
+      "end_frame": 16967,
+      "keyframes": [
+        "016839.webp",
+        "016870.webp",
+        "016871.webp",
+        "016898.webp",
+        "016925.webp",
+        "016926.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Việc có mặt của cá mập trắng cũng thu hút du khách đến với thị trấn.",
+      "start": 565.56,
+      "end": 569.6,
+      "n_words": 16,
+      "start_frame": 16967,
+      "end_frame": 17088,
+      "keyframes": [
+        "016975.webp",
+        "017025.webp",
+        "017026.webp",
+        "017051.webp",
+        "017077.webp",
+        "017078.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "\"Chúng tôi nhận thấy cá mập trở lại ngày càng đông hơn, điều đó giúp cho việc kinh doanh nhìn chung tốt hơn.\"",
+      "start": 569.6,
+      "end": 575.56,
+      "n_words": 23,
+      "start_frame": 17088,
+      "end_frame": 17267,
+      "keyframes": [
+        "017165.webp",
+        "017252.webp",
+        "017253.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chính quyền và nhân viên cứu hộ cố gắng hết mức để đảm bảo an toàn cho du khách.",
+      "start": 575.56,
+      "end": 579.88,
+      "n_words": 19,
+      "start_frame": 17267,
+      "end_frame": 17396,
+      "keyframes": [
+        "017278.webp",
+        "017303.webp",
+        "017304.webp",
+        "017339.webp",
+        "017374.webp",
+        "017375.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Lá cờ tím luôn hiện diện để nhắc nhở nguy cơ cá mập tấn công.",
+      "start": 579.88,
+      "end": 583.68,
+      "n_words": 15,
+      "start_frame": 17396,
+      "end_frame": 17510,
+      "keyframes": [
+        "017397.webp",
+        "017420.webp",
+        "017421.webp",
+        "017456.webp",
+        "017491.webp",
+        "017492.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Màu tím trong tín hiệu hàng hải thể hiện mạng sống bị đe dọa.",
+      "start": 583.68,
+      "end": 587.24,
+      "n_words": 14,
+      "start_frame": 17510,
+      "end_frame": 17617,
+      "keyframes": [
+        "017520.webp",
+        "017549.webp",
+        "017550.webp",
+        "017579.webp",
+        "017608.webp",
+        "017609.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "\"Chúng tôi cũng có các thiết bị dò tìm cá mập để cảnh báo khi cá mập xuất hiện, thông tin đó hiện lên trên màn hình điện thoại.",
+      "start": 587.24,
+      "end": 593.92,
+      "n_words": 29,
+      "start_frame": 17617,
+      "end_frame": 17818,
+      "keyframes": [
+        "017710.webp",
+        "017811.webp",
+        "017812.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nếu tuân thủ quy tắc an toàn, nguy cơ bị cá mập tấn công là rất nhỏ.\"",
+      "start": 593.92,
+      "end": 598.36,
+      "n_words": 17,
+      "start_frame": 17818,
+      "end_frame": 17951,
+      "keyframes": [
+        "017859.webp",
+        "017907.webp",
+        "017908.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Gần đây nhất tai nạn do cá mập cắn ở Cape Cod là năm 2018, và đó là tai nạn đầu tiên sau 80 năm.",
+      "start": 598.36,
+      "end": 605.72,
+      "n_words": 25,
+      "start_frame": 17951,
+      "end_frame": 18172,
+      "keyframes": [
+        "017966.webp",
+        "018025.webp",
+        "018026.webp",
+        "018097.webp",
+        "018169.webp",
+        "018170.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cá mập trắng Cape Cod được nhiều người biết đến sau khi bộ phim Hàm cá mập năm 1975 của đạo diễn Steven Spielberg được công chiếu.",
+      "start": 605.72,
+      "end": 615.28,
+      "n_words": 27,
+      "start_frame": 18172,
+      "end_frame": 18458,
+      "keyframes": [
+        "018200.webp",
+        "018230.webp",
+        "018231.webp",
+        "018260.webp",
+        "018289.webp",
+        "018290.webp",
+        "018324.webp",
+        "018359.webp",
+        "018360.webp",
+        "018377.webp",
+        "018395.webp",
+        "018396.webp",
+        "018418.webp",
+        "018441.webp",
+        "018442.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Gấu trúc Meng Meng một lần nữa sắp trở thành tâm điểm chú ý tại vườn thú Berlin, Đức khi chuẩn bị sinh vào cuối tháng.",
+      "start": 615.28,
+      "end": 621.68,
+      "n_words": 26,
+      "start_frame": 18458,
+      "end_frame": 18650,
+      "keyframes": [
+        "018506.webp",
+        "018571.webp",
+        "018572.webp",
+        "018601.webp",
+        "018631.webp",
+        "018632.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Gấu trúc sinh con trong vườn thú là chuyện hiếm thấy nên chúng luôn được chăm sóc và chào đón hết sức đặc biệt.",
+      "start": 621.68,
+      "end": 628.88,
+      "n_words": 24,
+      "start_frame": 18650,
+      "end_frame": 18866,
+      "keyframes": [
+        "018698.webp",
+        "018765.webp",
+        "018766.webp",
+        "018810.webp",
+        "018855.webp",
+        "018856.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Trong những ngày qua, các nhân viên tại vườn thú Berlin khá tất bật, họ đang cố gắng tạo điều kiện thoải mái cho gấu mẹ Meng Meng đang chuẩn bị sinh con.",
+      "start": 628.88,
+      "end": 637.44,
+      "n_words": 33,
+      "start_frame": 18866,
+      "end_frame": 19123,
+      "keyframes": [
+        "018888.webp",
+        "018920.webp",
+        "018921.webp",
+        "018961.webp",
+        "019001.webp",
+        "019002.webp",
+        "019043.webp",
+        "019084.webp",
+        "019085.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Thậm chí vườn thú còn vận chuyển măng từ Trung Quốc sang vì Meng Meng rất thích măng tươi.",
+      "start": 637.44,
+      "end": 642.96,
+      "n_words": 19,
+      "start_frame": 19123,
+      "end_frame": 19289,
+      "keyframes": [
+        "019126.webp",
+        "019168.webp",
+        "019169.webp",
+        "019212.webp",
+        "019256.webp",
+        "019257.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "\"Vận chuyển măng bằng đường hàng không khá là tốn kém nhưng chúng tôi vẫn đưa măng sang đây, Meng Meng cần phải tăng cân để chuẩn bị cho việc sinh nở.\"",
+      "start": 642.96,
+      "end": 650.6,
+      "n_words": 32,
+      "start_frame": 19289,
+      "end_frame": 19518,
+      "keyframes": [
+        "019311.webp",
+        "019366.webp",
+        "019367.webp",
+        "019441.webp",
+        "019516.webp",
+        "019517.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Các bác sĩ và nhân viên vườn thú vẫn chưa biết được giới tính của cặp gấu song sinh và cho biết quá trình sinh nở sẽ diễn ra đơn giản.",
+      "start": 650.6,
+      "end": 658.64,
+      "n_words": 31,
+      "start_frame": 19518,
+      "end_frame": 19759,
+      "keyframes": [
+        "019557.webp",
+        "019598.webp",
+        "019599.webp",
+        "019656.webp",
+        "019713.webp",
+        "019714.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "\"Meng Meng sẽ chui vào khu vực mà chúng tôi gọi là hốc sinh nở, nơi nó cảm nhận được sự thoải mái, đó là lúc nó đã sẵn sàng sinh con.\"",
+      "start": 658.64,
+      "end": 667.08,
+      "n_words": 32,
+      "start_frame": 19759,
+      "end_frame": 20012,
+      "keyframes": [
+        "019767.webp",
+        "019821.webp",
+        "019822.webp",
+        "019872.webp",
+        "019922.webp",
+        "019923.webp",
+        "019968.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Meng Meng năm nay 11 tuổi, nó đã đến vườn thú Berlin cùng với gấu trúc được trao tặng năm 2017 theo chính sách ngoại giao gấu trúc giữa Trung Quốc và Đức.",
+      "start": 667.08,
+      "end": 676.68,
+      "n_words": 33,
+      "start_frame": 20012,
+      "end_frame": 20300,
+      "keyframes": [
+        "020013.webp",
+        "020014.webp",
+        "020052.webp",
+        "020090.webp",
+        "020091.webp",
+        "020125.webp",
+        "020159.webp",
+        "020160.webp",
+        "020196.webp",
+        "020233.webp",
+        "020234.webp",
+        "020270.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Cả hai đã trở thành ngôi sao tại vườn thú từ lúc đó.",
+      "start": 676.68,
+      "end": 679.92,
+      "n_words": 13,
+      "start_frame": 20300,
+      "end_frame": 20398,
+      "keyframes": [
+        "020307.webp",
+        "020308.webp",
+        "020341.webp",
+        "020375.webp",
+        "020376.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Năm 2019, cả hai đã cho ra đời hai gấu trúc nhỏ tên Meng Xian và Meng Lan.",
+      "start": 679.92,
+      "end": 686.88,
+      "n_words": 18,
+      "start_frame": 20398,
+      "end_frame": 20606,
+      "keyframes": [
+        "020441.webp",
+        "020506.webp",
+        "020507.webp",
+        "020550.webp",
+        "020593.webp",
+        "020594.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hai cá thể kền kền California vừa được thả về tự nhiên, đánh dấu nỗ lực trong việc bảo tồn loài chim này ở Mexico.",
+      "start": 686.88,
+      "end": 693.36,
+      "n_words": 25,
+      "start_frame": 20606,
+      "end_frame": 20801,
+      "keyframes": [
+        "020705.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đây là loài chim lớn nhất Bắc Mỹ, hiện đang đối mặt nguy cơ tuyệt chủng tại nước này.",
+      "start": 693.36,
+      "end": 697.76,
+      "n_words": 19,
+      "start_frame": 20801,
+      "end_frame": 20933,
+      "keyframes": [
+        "020816.webp",
+        "020817.webp",
+        "020918.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tại nước này chỉ còn khoảng 47 kền kền California sinh sống.",
+      "start": 697.12,
+      "end": 702.6,
+      "n_words": 12,
+      "start_frame": 20914,
+      "end_frame": 21078,
+      "keyframes": [
+        "020918.webp",
+        "021019.webp",
+        "021020.webp",
+        "021039.webp",
+        "021058.webp",
+        "021059.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hai con kền kền California được đặt tên là Enya và Hue, được thả tại vùng núi San Pedro Mártir miền bắc Mexico.",
+      "start": 702.6,
+      "end": 709.96,
+      "n_words": 23,
+      "start_frame": 21078,
+      "end_frame": 21299,
+      "keyframes": [
+        "021091.webp",
+        "021123.webp",
+        "021124.webp",
+        "021173.webp",
+        "021223.webp",
+        "021224.webp",
+        "021273.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Hoạt động này nằm trong chương trình phục hồi và bảo tồn kền kền California giữa Mỹ và Mexico.",
+      "start": 709.96,
+      "end": 716.08,
+      "n_words": 19,
+      "start_frame": 21299,
+      "end_frame": 21482,
+      "keyframes": [
+        "021322.webp",
+        "021323.webp",
+        "021376.webp",
+        "021430.webp",
+        "021431.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chương trình đã mang lại hiệu quả khi số lượng kền kền ngoài tự nhiên đã gia tăng.",
+      "start": 716.08,
+      "end": 720.36,
+      "n_words": 18,
+      "start_frame": 21482,
+      "end_frame": 21611,
+      "keyframes": [
+        "021487.webp",
+        "021543.webp",
+        "021544.webp",
+        "021606.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "\"Chúng tôi đang tiếp tục phục hồi số lượng loài này ở vùng Baja California và vùng núi San Pedro Mártir.\"",
+      "start": 720.36,
+      "end": 727.2,
+      "n_words": 21,
+      "start_frame": 21611,
+      "end_frame": 21816,
+      "keyframes": [
+        "021669.webp",
+        "021670.webp",
+        "021697.webp",
+        "021724.webp",
+        "021725.webp",
+        "021762.webp",
+        "021800.webp",
+        "021801.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Ban đầu, hai chú kền kền được sinh ra tại vườn thú Chapultepec ở Mexico City.",
+      "start": 727.2,
+      "end": 732.48,
+      "n_words": 16,
+      "start_frame": 21816,
+      "end_frame": 21974,
+      "keyframes": [
+        "021840.webp",
+        "021879.webp",
+        "021880.webp",
+        "021927.webp",
+        "021974.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Các nhà khoa học đã ấp trứng nhân tạo để cải thiện khả năng sinh tồn và sinh sản của kền kền California trong tự nhiên.",
+      "start": 732.48,
+      "end": 739.8,
+      "n_words": 26,
+      "start_frame": 21974,
+      "end_frame": 22194,
+      "keyframes": [
+        "021974.webp",
+        "021975.webp",
+        "022006.webp",
+        "022037.webp",
+        "022038.webp",
+        "022068.webp",
+        "022099.webp",
+        "022100.webp",
+        "022131.webp",
+        "022162.webp",
+        "022163.webp",
+        "022191.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Vườn thú Chapultepec đã đóng góp 13 con kền kền California cho chương trình phục hồi và bảo tồn kền kền California, trong đó 11 con đã được thả về môi trường hoang dã.",
+      "start": 739.8,
+      "end": 752.44,
+      "n_words": 34,
+      "start_frame": 22194,
+      "end_frame": 22573,
+      "keyframes": [
+        "022219.webp",
+        "022220.webp",
+        "022244.webp",
+        "022268.webp",
+        "022269.webp",
+        "022308.webp",
+        "022348.webp",
+        "022349.webp",
+        "022398.webp",
+        "022448.webp",
+        "022449.webp",
+        "022502.webp",
+        "022555.webp",
+        "022556.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Công an thị xã Phú Mỹ, tỉnh Bà Rịa - Vũng Tàu đang điều tra nguyên nhân vụ tai nạn giao thông giữa ô tô 7 chỗ và xe đầu kéo khiến một người tử vong.",
+      "start": 752.44,
+      "end": 759.6,
+      "n_words": 36,
+      "start_frame": 22573,
+      "end_frame": 22788,
+      "keyframes": [
+        "022717.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Vụ tai nạn xảy ra vào rạng sáng nay, khoảng 0:10 ngày 22 tháng 8.",
+      "start": 759.6,
+      "end": 766.16,
+      "n_words": 15,
+      "start_frame": 22788,
+      "end_frame": 22985,
+      "keyframes": [
+        "022879.webp",
+        "022880.webp",
+        "022926.webp",
+        "022972.webp",
+        "022973.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ô tô 7 chỗ do một người đàn ông điều khiển lưu thông trên đường Nội Bài - Phước Tân theo hướng từ xã Tóc Tiên ra quốc lộ 51.",
+      "start": 766.16,
+      "end": 772.76,
+      "n_words": 30,
+      "start_frame": 22985,
+      "end_frame": 23183,
+      "keyframes": [
+        "023032.webp",
+        "023092.webp",
+        "023093.webp",
+        "023135.webp",
+        "023177.webp",
+        "023178.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Khi xe đến gần khu vực Núi Nhọn thuộc thị xã Phú Mỹ thì va chạm với đuôi một xe đầu kéo.",
+      "start": 773.36,
+      "end": 778.92,
+      "n_words": 22,
+      "start_frame": 23201,
+      "end_frame": 23368,
+      "keyframes": [
+        "023245.webp",
+        "023313.webp",
+        "023314.webp",
+        "023351.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cú va chạm mạnh đã khiến cabin ô tô bị hư hỏng nặng, tài xế ô tô tử vong tại chỗ.",
+      "start": 778.92,
+      "end": 784.48,
+      "n_words": 21,
+      "start_frame": 23368,
+      "end_frame": 23534,
+      "keyframes": [
+        "023389.webp",
+        "023390.webp",
+        "023423.webp",
+        "023456.webp",
+        "023457.webp",
+        "023492.webp",
+        "023527.webp",
+        "023528.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Lực lượng chức năng và nhóm cứu hộ đã đến hiện trường cùng người dân đưa thi thể nạn nhân ra khỏi cabin.",
+      "start": 784.48,
+      "end": 791.76,
+      "n_words": 23,
+      "start_frame": 23534,
+      "end_frame": 23753,
+      "keyframes": [
+        "023561.webp",
+        "023595.webp",
+        "023596.webp",
+        "023631.webp",
+        "023666.webp",
+        "023667.webp",
+        "023702.webp",
+        "023738.webp",
+        "023739.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cũng trong sáng sớm nay, một ô tô đầu kéo đang di chuyển trên đèo Chuối ở Lâm Đồng thì gầm cabin phát lửa, sau đó bốc cháy dữ dội.",
+      "start": 791.76,
+      "end": 799.28,
+      "n_words": 30,
+      "start_frame": 23753,
+      "end_frame": 23978,
+      "keyframes": [
+        "023977.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Sự việc xảy ra vào lúc 4:20 trên quốc lộ 20 đoạn thuộc thị trấn Ma Đà Gui, huyện Đạ Huoai.",
+      "start": 799.28,
+      "end": 807.6,
+      "n_words": 21,
+      "start_frame": 23978,
+      "end_frame": 24228,
+      "keyframes": [
+        "024215.webp",
+        "024216.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Khi đó, tài xế Vũ Văn Hậu, 35 tuổi, trú Quảng Nam lái xe đầu kéo lưu thông hướng từ thành phố Bảo Lộc, Lâm Đồng về Thành phố Hồ Chí Minh.",
+      "start": 807.6,
+      "end": 815.24,
+      "n_words": 32,
+      "start_frame": 24228,
+      "end_frame": 24457,
+      "keyframes": [
+        "024262.webp",
+        "024309.webp",
+        "024310.webp",
+        "024379.webp",
+        "024448.webp",
+        "024449.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Khi đến khu vực đèo Chuối, anh Hậu phát hiện lửa bùng phát từ gầm cabin nên lập tức dừng xe và dùng bình chữa cháy mini để dập lửa, nhưng lửa lan nhanh bao trùm đầu xe.",
+      "start": 815.24,
+      "end": 824.92,
+      "n_words": 38,
+      "start_frame": 24457,
+      "end_frame": 24748,
+      "keyframes": [
+        "024588.webp",
+        "024727.webp",
+        "024728.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Sau đó, Đội Cảnh sát Phòng cháy Chữa cháy và Cứu nạn Cứu hộ khu vực 4 đã điều xe chữa cháy và hơn 10 chiến sĩ đến hiện trường để dập lửa.",
+      "start": 824.92,
+      "end": 832.12,
+      "n_words": 33,
+      "start_frame": 24748,
+      "end_frame": 24964,
+      "keyframes": [
+        "024799.webp",
+        "024871.webp",
+        "024872.webp",
+        "024937.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Khoảng 4:40, vụ hỏa hoạn được khống chế, cabin xe đầu kéo bị thiêu rụi.",
+      "start": 832.12,
+      "end": 837.28,
+      "n_words": 15,
+      "start_frame": 24964,
+      "end_frame": 25118,
+      "keyframes": [
+        "025003.webp",
+        "025004.webp",
+        "025058.webp",
+        "025112.webp",
+        "025113.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hiện nguyên nhân vụ cháy đang được lực lượng chức năng làm rõ.",
+      "start": 837.28,
+      "end": 841.92,
+      "n_words": 13,
+      "start_frame": 25118,
+      "end_frame": 25258,
+      "keyframes": [
+        "025147.webp",
+        "025181.webp",
+        "025182.webp",
+        "025211.webp",
+        "025240.webp",
+        "025241.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Một tàu cá đang về bờ thì bất ngờ bị tàu hàng đâm chìm ở gần Mũi Điện, tỉnh Phú Yên, may mắn là 6 thuyền viên được cứu sống kịp thời.",
+      "start": 841.92,
+      "end": 850.64,
+      "n_words": 32,
+      "start_frame": 25258,
+      "end_frame": 25519,
+      "keyframes": [
+        "025376.webp",
+        "025511.webp",
+        "025512.webp",
+        "025514.webp",
+        "025516.webp",
+        "025517.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Vào lúc 9:00 sáng ngày 22 tháng 8, tàu cá do ông Nguyễn Văn Cư, sinh năm 1979, trú tại Hòa Hiệp Trung, Đông Hòa, tỉnh Phú Yên làm chủ tàu kiêm thuyền trưởng, trên tàu có 6 lao động, từ biển đi vào cảng cá Phú Lạc.",
+      "start": 850.64,
+      "end": 864.64,
+      "n_words": 48,
+      "start_frame": 25519,
+      "end_frame": 25939,
+      "keyframes": [
+        "025605.webp",
+        "025693.webp",
+        "025694.webp",
+        "025779.webp",
+        "025864.webp",
+        "025865.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Khi còn cách bờ chừng 2 hải lý gần danh thắng Mũi Điện, tàu bất ngờ bị một tàu hàng vỏ thép chưa rõ lai lịch đâm trúng rồi bỏ chạy.",
+      "start": 864.64,
+      "end": 872.16,
+      "n_words": 31,
+      "start_frame": 25939,
+      "end_frame": 26165,
+      "keyframes": [
+        "026029.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cú tông làm nước tràn vào nhanh khiến tàu chìm. Các thuyền viên hốt hoảng leo lên nóc tàu vẫy cờ kêu cứu.",
+      "start": 872.16,
+      "end": 877.68,
+      "n_words": 23,
+      "start_frame": 26165,
+      "end_frame": 26330,
+      "keyframes": [
+        "026193.webp",
+        "026194.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Các tàu gần đó gọi điện cho lực lượng biên phòng và dùng điện thoại phát trực tiếp lên mạng xã hội kêu cứu.",
+      "start": 877.68,
+      "end": 882.96,
+      "n_words": 24,
+      "start_frame": 26330,
+      "end_frame": 26489,
+      "keyframes": [
+        "026340.webp",
+        "026487.webp",
+        "026488.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đồn biên phòng Hòa Hiệp Nam đã huy động 4 tàu cá cùng 24 ngư dân và 10 cán bộ chiến sĩ đồn biên phòng ra hiện trường hỗ trợ dùng máy bơm nước cứu nạn và kéo tàu bị nạn vào bờ.",
+      "start": 882.96,
+      "end": 893.52,
+      "n_words": 43,
+      "start_frame": 26489,
+      "end_frame": 26806,
+      "keyframes": [
+        "026559.webp",
+        "026631.webp",
+        "026632.webp",
+        "026635.webp",
+        "026639.webp",
+        "026640.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đến 11:00, tàu được đưa vào cảng Phú Lạc, các thuyền viên đều an toàn. Vụ việc đang được điều tra làm rõ.",
+      "start": 893.52,
+      "end": 901.16,
+      "n_words": 23,
+      "start_frame": 26806,
+      "end_frame": 27035,
+      "keyframes": [
+        "026852.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Công an tỉnh Đắk Lắk hôm nay cho biết đang tìm người đánh rơi gần 30 triệu đồng trên quốc lộ 26, huyện Krông Pắc.",
+      "start": 901.16,
+      "end": 908.92,
+      "n_words": 25,
+      "start_frame": 27035,
+      "end_frame": 27268,
+      "keyframes": [
+        "027065.webp",
+        "027066.webp",
+        "027238.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Số tiền này được một cảnh sát giao thông nhặt được trong khi đi tuần tra khoảng 14:20 ngày 21 tháng 8.",
+      "start": 908.92,
+      "end": 916.88,
+      "n_words": 22,
+      "start_frame": 27268,
+      "end_frame": 27506,
+      "keyframes": [
+        "027411.webp",
+        "027412.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Trong khi đang tuần tra kiểm soát giao thông trên quốc lộ 26 đoạn qua xã Ea Cok, huyện Krông Pắc, Đại úy Kiều Thanh Hùng phát hiện một cọc tiền rơi bên dưới đường.",
+      "start": 916.88,
+      "end": 926.32,
+      "n_words": 35,
+      "start_frame": 27506,
+      "end_frame": 27790,
+      "keyframes": [
+        "027585.webp",
+        "027759.webp",
+        "027760.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ngay sau đó, Đại úy Hùng đã mời người làm chứng và phối hợp với Công an xã Ea Cok kiểm đếm và niêm phong cọc tiền 29 triệu đồng.",
+      "start": 926.32,
+      "end": 933.64,
+      "n_words": 30,
+      "start_frame": 27790,
+      "end_frame": 28009,
+      "keyframes": [
+        "027806.webp",
+        "027853.webp",
+        "027854.webp",
+        "027929.webp",
+        "028005.webp",
+        "028006.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Phòng Cảnh sát Giao thông Công an tỉnh Đắk Lắk thông báo ai là người đánh rơi số tiền trên thì liên hệ Công an xã Ea Cok hoặc Đại úy Kiều Thanh Hùng, số điện thoại 0946961919 để được nhận lại.",
+      "start": 933.64,
+      "end": 947.44,
+      "n_words": 42,
+      "start_frame": 28009,
+      "end_frame": 28423,
+      "keyframes": [
+        "028157.webp",
+        "028309.webp",
+        "028310.webp",
+        "028355.webp",
+        "028401.webp",
+        "028402.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sản xuất, tàng trữ, vận chuyển và lưu hành tiền giả, một đối tượng vừa bị cơ quan an ninh điều tra Công an tỉnh Nam Định khởi tố và bắt tạm giam.",
+      "start": 947.44,
+      "end": 957.12,
+      "n_words": 33,
+      "start_frame": 28423,
+      "end_frame": 28714,
+      "keyframes": [
+        "028551.webp",
+        "028701.webp",
+        "028702.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Công an tỉnh Nam Định đã phát hiện, bắt quả tang Hoàng Văn Quảng, 30 tuổi, trú tỉnh Quảng Ninh đang vận chuyển tiền giả mang bán cho khách tại thành phố Nam Định.",
+      "start": 957.12,
+      "end": 966.6,
+      "n_words": 34,
+      "start_frame": 28714,
+      "end_frame": 28998,
+      "keyframes": [
+        "028734.webp",
+        "028767.webp",
+        "028768.webp",
+        "028797.webp",
+        "028826.webp",
+        "028827.webp",
+        "028851.webp",
+        "028876.webp",
+        "028877.webp",
+        "028903.webp",
+        "028930.webp",
+        "028931.webp",
+        "028961.webp",
+        "028991.webp",
+        "028992.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Khám xét nơi ở của Quảng, công an thu giữ 3.100 tờ tiền giả có mệnh giá 5.000 đồng, 1.848 phôi tờ tiền chưa thành phẩm có mệnh giá 5.000 đồng, một laptop, một máy photo màu, hai bàn cắt giấy và một số dụng cụ khác dùng để in ấn tiền giả.",
+      "start": 966.6,
+      "end": 983.8,
+      "n_words": 53,
+      "start_frame": 28998,
+      "end_frame": 29514,
+      "keyframes": [
+        "029021.webp",
+        "029051.webp",
+        "029052.webp",
+        "029085.webp",
+        "029119.webp",
+        "029120.webp",
+        "029159.webp",
+        "029199.webp",
+        "029200.webp",
+        "029238.webp",
+        "029277.webp",
+        "029278.webp",
+        "029309.webp",
+        "029341.webp",
+        "029342.webp",
+        "029373.webp",
+        "029405.webp",
+        "029406.webp",
+        "029443.webp",
+        "029481.webp",
+        "029482.webp",
+        "029512.webp"
+      ],
+      "keyframe_count": 22
+    },
+    {
+      "text": "Quảng khai từ đầu tháng 4/2024 đã mua laptop, máy in đa chức năng để in tiền giả, sau đó bán lại cho nhiều người ở các tỉnh thành khác nhau.",
+      "start": 983.8,
+      "end": 994.04,
+      "n_words": 31,
+      "start_frame": 29514,
+      "end_frame": 29821,
+      "keyframes": [
+        "029542.webp",
+        "029543.webp",
+        "029604.webp",
+        "029666.webp",
+        "029667.webp",
+        "029735.webp",
+        "029804.webp",
+        "029805.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Kinh doanh các sản phẩm thịt heo không có hóa đơn chứng từ, không rõ nguồn gốc, một chủ hộ kinh doanh ở Biên Hòa, tỉnh Đồng Nai vừa bị cơ quan chức năng xử phạt hành chính 35 triệu đồng.",
+      "start": 994.04,
+      "end": 1004.4,
+      "n_words": 41,
+      "start_frame": 29821,
+      "end_frame": 30132,
+      "keyframes": [
+        "029958.webp",
+        "030112.webp",
+        "030113.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chủ hộ kinh doanh bị xử phạt là bà Nguyễn Thị Dung ở phường Phước Tân, thành phố Biên Hòa.",
+      "start": 1004.4,
+      "end": 1009.68,
+      "n_words": 20,
+      "start_frame": 30132,
+      "end_frame": 30290,
+      "keyframes": [
+        "030147.webp",
+        "030181.webp",
+        "030182.webp",
+        "030219.webp",
+        "030256.webp",
+        "030257.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Trước đó, chiều ngày 14 tháng 8, kiểm tra cơ sở chế biến thực phẩm do bà Dung làm chủ, lực lượng chức năng phát hiện và thu giữ gần 4 tấn thực phẩm không rõ nguồn gốc xuất xứ gồm tai, mũi heo, lòng gà, heo mã heo dùng, tổng giá trị hàng hóa hơn 47 triệu đồng.",
+      "start": 1009.68,
+      "end": 1025.6,
+      "n_words": 59,
+      "start_frame": 30290,
+      "end_frame": 30768,
+      "keyframes": [
+        "030292.webp",
+        "030328.webp",
+        "030329.webp",
+        "030341.webp",
+        "030353.webp",
+        "030354.webp",
+        "030397.webp",
+        "030441.webp",
+        "030442.webp",
+        "030494.webp",
+        "030547.webp",
+        "030548.webp",
+        "030622.webp",
+        "030697.webp",
+        "030698.webp",
+        "030734.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Bà Dung khai nhận số hàng hóa trên được mua từ các chợ đầu mối trên địa bàn Thành phố Hồ Chí Minh sau đó đưa về cơ sở để chế biến thành thực phẩm thì lực lượng chức năng kiểm tra phát hiện.",
+      "start": 1025.6,
+      "end": 1037.04,
+      "n_words": 44,
+      "start_frame": 30768,
+      "end_frame": 31111,
+      "keyframes": [
+        "030771.webp",
+        "030772.webp",
+        "030807.webp",
+        "030842.webp",
+        "030843.webp",
+        "030872.webp",
+        "030902.webp",
+        "030903.webp",
+        "030944.webp",
+        "030986.webp",
+        "030987.webp",
+        "031015.webp",
+        "031043.webp",
+        "031044.webp",
+        "031068.webp",
+        "031093.webp",
+        "031094.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Cập nhật Bộ Nội vụ Thái Lan cho biết hơn 12.000 hộ gia đình ở miền Bắc nước này bị lũ quét tàn phá gây ảnh hưởng nặng nề.",
+      "start": 1037.36,
+      "end": 1044.12,
+      "n_words": 29,
+      "start_frame": 31121,
+      "end_frame": 31324,
+      "keyframes": [
+        "031287.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Vào hôm nay, 22 tháng 8, lũ lụt là do mưa lớn từ một vùng áp thấp nhiệt đới ảnh hưởng đến 7 tỉnh ở miền Bắc.",
+      "start": 1044.12,
+      "end": 1050.6,
+      "n_words": 27,
+      "start_frame": 31324,
+      "end_frame": 31518,
+      "keyframes": [
+        "031480.webp",
+        "031481.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cục Phòng ngừa và Giảm nhẹ Thiên tai Thái Lan đã đưa ra cảnh báo về lũ quét ở các tỉnh phía Bắc, bao gồm cả Chiang Rai.",
+      "start": 1050.6,
+      "end": 1056.76,
+      "n_words": 28,
+      "start_frame": 31518,
+      "end_frame": 31703,
+      "keyframes": [
+        "031519.webp",
+        "031557.webp",
+        "031558.webp",
+        "031606.webp",
+        "031655.webp",
+        "031656.webp",
+        "031691.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cảnh quay bằng máy bay không người lái cho thấy các khu dân cư và cánh đồng tại tỉnh Chiang Rai bị ngập sau trận lũ quét.",
+      "start": 1056.76,
+      "end": 1062.64,
+      "n_words": 27,
+      "start_frame": 31703,
+      "end_frame": 31879,
+      "keyframes": [
+        "031726.webp",
+        "031727.webp",
+        "031784.webp",
+        "031841.webp",
+        "031842.webp",
+        "031870.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thủ tướng Thái Lan Paetongtarn Shinawatra đã ra lệnh cho các cơ quan có thẩm quyền giám sát tình hình và hỗ trợ người dân.",
+      "start": 1062.64,
+      "end": 1069.76,
+      "n_words": 25,
+      "start_frame": 31879,
+      "end_frame": 32093,
+      "keyframes": [
+        "031899.webp",
+        "031900.webp",
+        "031927.webp",
+        "031954.webp",
+        "031955.webp",
+        "031983.webp",
+        "032011.webp",
+        "032012.webp",
+        "032041.webp",
+        "032071.webp",
+        "032072.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Tới 17:30 chiều nay, Cảnh sát Phòng cháy Chữa cháy tỉnh Bình Dương vẫn đang phun nước dập lửa tại vụ cháy cơ sở kinh doanh nằm trên mặt tiền quốc lộ 13.",
+      "start": 1069.76,
+      "end": 1079.72,
+      "n_words": 33,
+      "start_frame": 32093,
+      "end_frame": 32392,
+      "keyframes": [
+        "032095.webp",
+        "032119.webp",
+        "032120.webp",
+        "032274.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Lửa bốc lên vào khoảng 16:30 ngày 22 tháng 8 tại cơ sở mút xốp mặt tiền quốc lộ 13, thành phố Thủ Dầu Một.",
+      "start": 1081.84,
+      "end": 1089.36,
+      "n_words": 25,
+      "start_frame": 32455,
+      "end_frame": 32681,
+      "keyframes": [
+        "032476.webp",
+        "032523.webp",
+        "032524.webp",
+        "032604.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Một người dân tìm cách dập lửa tại chỗ nhưng không thành, lửa cháy lớn bao trùm cả nhà xưởng rồi lan sang các nhà dân lân cận.",
+      "start": 1089.36,
+      "end": 1097.08,
+      "n_words": 28,
+      "start_frame": 32681,
+      "end_frame": 32912,
+      "keyframes": [
+        "032685.webp",
+        "032686.webp",
+        "032775.webp",
+        "032865.webp",
+        "032866.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cảnh sát Phòng cháy Chữa cháy tỉnh Bình Dương huy động nhiều xe nước và lực lượng tới hiện trường.",
+      "start": 1097.08,
+      "end": 1101.88,
+      "n_words": 20,
+      "start_frame": 32912,
+      "end_frame": 33056,
+      "keyframes": [
+        "032930.webp",
+        "032995.webp",
+        "032996.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thời điểm này trời mưa rất lớn, do hiện trường vụ cháy nằm sâu bên trong, phía sau là các nhà dân nên cảnh sát phải tìm nhiều hướng để tiếp cận phun nước ngăn chặn cháy lan.",
+      "start": 1101.88,
+      "end": 1112.04,
+      "n_words": 38,
+      "start_frame": 33056,
+      "end_frame": 33361,
+      "keyframes": [
+        "033065.webp",
+        "033134.webp",
+        "033135.webp",
+        "033175.webp",
+        "033215.webp",
+        "033216.webp",
+        "033272.webp",
+        "033328.webp",
+        "033329.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Theo người dân, thời điểm trên trời có dông, nghe tiếng sét lớn rồi sau đó lửa bùng lên.",
+      "start": 1112.04,
+      "end": 1117.4,
+      "n_words": 19,
+      "start_frame": 33361,
+      "end_frame": 33522,
+      "keyframes": [
+        "033391.webp",
+        "033454.webp",
+        "033455.webp",
+        "033510.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Hiện cảnh sát đang tích cực dập tắt ngọn lửa tại hiện trường.",
+      "start": 1117.4,
+      "end": 1121.56,
+      "n_words": 13,
+      "start_frame": 33522,
+      "end_frame": 33647,
+      "keyframes": [
+        "033565.webp",
+        "033566.webp",
+        "033609.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thông tin vừa rồi cũng đã khép lại chương trình 60 giây của chúng tôi.",
+      "start": 1121.56,
+      "end": 1125.56,
+      "n_words": 15,
+      "start_frame": 33647,
+      "end_frame": 33767,
+      "keyframes": [
+        "033652.webp",
+        "033653.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Những thông tin mới sẽ tiếp tục được cập nhật trong chương trình 60 giây sáng mai. Quý vị đừng bỏ lỡ nhé. Xin kính chào tạm biệt và hẹn gặp lại.",
+      "start": 1125.56,
+      "end": 1132.92,
+      "n_words": 32,
+      "start_frame": 33767,
+      "end_frame": 33988,
+      "keyframes": [
+        "033839.webp"
+      ],
+      "keyframe_count": 1
+    }
+  ]
+}

@@ -1,0 +1,692 @@
+{
+  "video_id": "L26_V029",
+  "fps": 25.0,
+  "n_sentences": 42,
+  "total_words": 897,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.44,
+      "end": 12.12,
+      "n_words": 4,
+      "start_frame": 261,
+      "end_frame": 303,
+      "keyframes": [
+        "000261.webp",
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nước dùng trong, dậy mùi thảo mộc đặc trưng của phở bò cùng hương thơm nồng ấm của gừng, tỏi hòa với thịt bò mềm ngọt và rau cải xanh giòn, tròn vị. Chào các bạn khán giả đang theo dõi chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành.",
+      "start": 12.12,
+      "end": 42.2,
+      "n_words": 51,
+      "start_frame": 303,
+      "end_frame": 1055,
+      "keyframes": [
+        "000346.webp",
+        "000392.webp",
+        "000393.webp",
+        "000424.webp",
+        "000456.webp",
+        "000457.webp",
+        "000500.webp",
+        "000543.webp",
+        "000544.webp",
+        "000580.webp",
+        "000616.webp",
+        "000617.webp",
+        "000640.webp",
+        "000663.webp",
+        "000664.webp",
+        "000685.webp",
+        "000707.webp",
+        "000708.webp",
+        "000777.webp",
+        "000846.webp",
+        "000847.webp",
+        "000891.webp",
+        "000935.webp",
+        "000936.webp"
+      ],
+      "keyframe_count": 24
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 42.2,
+      "end": 46.36,
+      "n_words": 11,
+      "start_frame": 1055,
+      "end_frame": 1159,
+      "keyframes": [
+        "001092.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ngày hôm nay, đầu bếp Quốc Nghị sẽ hướng dẫn cho chúng ta một món ăn mà người Việt Nam ai cũng biết, đó chính là phở tái lăn.",
+      "start": 46.36,
+      "end": 52.84,
+      "n_words": 29,
+      "start_frame": 1159,
+      "end_frame": 1321,
+      "keyframes": [
+        "001249.webp",
+        "001250.webp",
+        "001271.webp",
+        "001293.webp",
+        "001294.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và ngày hôm nay, Quốc Nghị sẽ hướng dẫn cho các bạn khán giả nè, Kim Thảo nè, nấu phở tái lăn nhanh gọn lẹ ngay trong căn bếp gia đình mình luôn.",
+      "start": 52.84,
+      "end": 60.44,
+      "n_words": 33,
+      "start_frame": 1321,
+      "end_frame": 1511,
+      "keyframes": [
+        "001355.webp",
+        "001417.webp",
+        "001418.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và món ăn này theo chuyên gia dinh dưỡng Tiến sĩ Đào Thị Yến Phi, nó sẽ giúp hỗ trợ cho trí não làm việc hiệu quả hơn đó.",
+      "start": 60.44,
+      "end": 67.12,
+      "n_words": 29,
+      "start_frame": 1511,
+      "end_frame": 1678,
+      "keyframes": [
+        "001548.webp",
+        "001678.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thịt bò chúng ta sẽ cắt lát mỏng. Các bạn cắt ngược sớ nha thì thịt nó mới mềm.",
+      "start": 67.12,
+      "end": 71.72,
+      "n_words": 19,
+      "start_frame": 1678,
+      "end_frame": 1793,
+      "keyframes": [
+        "001678.webp",
+        "001679.webp",
+        "001702.webp",
+        "001726.webp",
+        "001727.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Với món ăn này thì có thịt bò có chứa nhiều sắt và kẽm, rất là tốt cho trí não.",
+      "start": 71.72,
+      "end": 77.28,
+      "n_words": 20,
+      "start_frame": 1793,
+      "end_frame": 1932,
+      "keyframes": [
+        "001795.webp",
+        "001863.webp",
+        "001864.webp",
+        "001897.webp",
+        "001930.webp",
+        "001931.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Tiếp đến là gầu bò, các bạn cũng sẽ cắt lát mỏng ngược sớ.",
+      "start": 77.28,
+      "end": 81.92,
+      "n_words": 14,
+      "start_frame": 1932,
+      "end_frame": 2048,
+      "keyframes": [
+        "001992.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ ướp thịt bò.",
+      "start": 81.92,
+      "end": 83.72,
+      "n_words": 8,
+      "start_frame": 2048,
+      "end_frame": 2093,
+      "keyframes": [
+        "002054.webp",
+        "002055.webp",
+        "002074.webp",
+        "002093.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đầu tiên các bạn sẽ cho một muỗng cà phê gia vị nêm sẵn Aji-phở bò, một muỗng rưỡi cà phê đường, một muỗng canh tỏi băm, một muỗng canh gừng băm.",
+      "start": 83.72,
+      "end": 93.72,
+      "n_words": 32,
+      "start_frame": 2093,
+      "end_frame": 2343,
+      "keyframes": [
+        "002093.webp",
+        "002094.webp",
+        "002154.webp",
+        "002215.webp",
+        "002216.webp",
+        "002235.webp",
+        "002254.webp",
+        "002255.webp",
+        "002280.webp",
+        "002305.webp",
+        "002306.webp",
+        "002324.webp",
+        "002342.webp",
+        "002343.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Cái việc chúng ta ướp tỏi với gừng giúp tạo mùi hương đặc trưng cho phở tái lăn đó.",
+      "start": 93.72,
+      "end": 98.24,
+      "n_words": 19,
+      "start_frame": 2343,
+      "end_frame": 2456,
+      "keyframes": [
+        "002343.webp",
+        "002395.webp",
+        "002447.webp",
+        "002448.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Các bạn trộn đều cho gia vị nó thấm vào thịt bò.",
+      "start": 98.24,
+      "end": 101.12,
+      "n_words": 12,
+      "start_frame": 2456,
+      "end_frame": 2528,
+      "keyframes": [
+        "002485.webp",
+        "002522.webp",
+        "002523.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bình thường nấu phở bò phải có hoa hồi nè, quế nè, rất là nhiều những loại gia vị khác nhau để có được một cái nồi nước súp phở bò thật là đúng điệu.",
+      "start": 101.12,
+      "end": 109.36,
+      "n_words": 35,
+      "start_frame": 2528,
+      "end_frame": 2734,
+      "keyframes": [
+        "002574.webp",
+        "002625.webp",
+        "002626.webp",
+        "002663.webp",
+        "002700.webp",
+        "002701.webp",
+        "002716.webp",
+        "002732.webp",
+        "002733.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Nhưng mà có lẽ là ngày hôm nay chúng ta đã có gia vị nêm sẵn Aji-phở bò cho nên là mọi thứ trông rất là đơn giản như thế này.",
+      "start": 109.36,
+      "end": 116.48,
+      "n_words": 31,
+      "start_frame": 2734,
+      "end_frame": 2912,
+      "keyframes": [
+        "002820.webp",
+        "002908.webp",
+        "002909.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cải ngọt nè, các bạn sẽ cắt khúc khoảng 5 cm.",
+      "start": 116.48,
+      "end": 121.8,
+      "n_words": 11,
+      "start_frame": 2912,
+      "end_frame": 3045,
+      "keyframes": [
+        "002970.webp",
+        "003032.webp",
+        "003033.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi các bạn sẽ cắt lát xéo hành tây, thì một nửa củ các bạn sẽ nấu nước dùng, nửa củ còn lại các bạn sẽ cắt sợi mỏng thì chút nữa chúng ta xào cùng với lại thịt bò và rau cải.",
+      "start": 121.8,
+      "end": 134.24,
+      "n_words": 43,
+      "start_frame": 3045,
+      "end_frame": 3356,
+      "keyframes": [
+        "003078.webp",
+        "003123.webp",
+        "003124.webp",
+        "003188.webp",
+        "003252.webp",
+        "003253.webp",
+        "003306.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Phần lá hành thì các bạn cắt nhỏ làm rau nêm.",
+      "start": 134.44,
+      "end": 137.84,
+      "n_words": 11,
+      "start_frame": 3361,
+      "end_frame": 3446,
+      "keyframes": [
+        "003411.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ nấu nước dùng phở bò.",
+      "start": 137.84,
+      "end": 140.6,
+      "n_words": 10,
+      "start_frame": 3446,
+      "end_frame": 3515,
+      "keyframes": [
+        "003462.webp",
+        "003463.webp",
+        "003509.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cho vào nồi 1 lít rưỡi nước lọc.",
+      "start": 140.6,
+      "end": 142.36,
+      "n_words": 8,
+      "start_frame": 3515,
+      "end_frame": 3559,
+      "keyframes": [
+        "003555.webp",
+        "003556.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rồi nước đã sôi nè, các bạn sẽ cho hành tây, đầu hành lá cái tinh dầu trong hành tây muốn thơm thì các bạn nên ninh với nước sôi khoảng 15 phút.",
+      "start": 142.36,
+      "end": 153.0,
+      "n_words": 33,
+      "start_frame": 3559,
+      "end_frame": 3825,
+      "keyframes": [
+        "003576.webp",
+        "003596.webp",
+        "003597.webp",
+        "003621.webp",
+        "003645.webp",
+        "003646.webp",
+        "003676.webp",
+        "003706.webp",
+        "003707.webp",
+        "003764.webp",
+        "003821.webp",
+        "003822.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Và với 1 lít rưỡi nước lọc, các bạn chỉ cần nêm một gói gia vị nêm sẵn Aji-phở bò, quá tiện lợi luôn ạ, rất nhanh có ngay tô phở.",
+      "start": 153.0,
+      "end": 162.56,
+      "n_words": 31,
+      "start_frame": 3825,
+      "end_frame": 4064,
+      "keyframes": [
+        "003858.webp",
+        "003895.webp",
+        "003896.webp",
+        "003933.webp",
+        "003971.webp",
+        "003972.webp",
+        "004033.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Bây giờ quý vị sẽ ra một tô phở để cho Kim Thảo thưởng thức trước đã nha.",
+      "start": 162.56,
+      "end": 167.72,
+      "n_words": 18,
+      "start_frame": 4064,
+      "end_frame": 4193,
+      "keyframes": [
+        "004095.webp",
+        "004096.webp",
+        "004122.webp",
+        "004149.webp",
+        "004150.webp",
+        "004170.webp",
+        "004191.webp",
+        "004192.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ làm nóng chảo để tái lăn thịt bò.",
+      "start": 167.72,
+      "end": 170.8,
+      "n_words": 13,
+      "start_frame": 4193,
+      "end_frame": 4270,
+      "keyframes": [
+        "004232.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Sau khi dầu ăn đã nóng già thì các bạn sẽ cho thịt bò vào đảo nhanh nhanh, xèo xèo rồi người ta gọi là tái lăn.",
+      "start": 170.8,
+      "end": 179.4,
+      "n_words": 27,
+      "start_frame": 4270,
+      "end_frame": 4485,
+      "keyframes": [
+        "004273.webp",
+        "004274.webp",
+        "004310.webp",
+        "004347.webp",
+        "004348.webp",
+        "004416.webp",
+        "004484.webp",
+        "004485.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta nên xào thịt bò với lửa thật lớn để thịt bò mềm vừa chín và thơm ngon hơn các bạn nhé.",
+      "start": 179.4,
+      "end": 184.36,
+      "n_words": 23,
+      "start_frame": 4485,
+      "end_frame": 4609,
+      "keyframes": [
+        "004485.webp",
+        "004526.webp",
+        "004567.webp",
+        "004568.webp",
+        "004588.webp",
+        "004608.webp",
+        "004609.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Thịt bò vừa chín tái thì các bạn cho hành tây và cải ngọt vào.",
+      "start": 184.36,
+      "end": 191.12,
+      "n_words": 15,
+      "start_frame": 4609,
+      "end_frame": 4778,
+      "keyframes": [
+        "004609.webp",
+        "004645.webp",
+        "004682.webp",
+        "004683.webp",
+        "004739.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Tự nhiên cảm thấy đói bụng ngang luôn á nha.",
+      "start": 191.12,
+      "end": 194.12,
+      "n_words": 10,
+      "start_frame": 4778,
+      "end_frame": 4853,
+      "keyframes": [
+        "004795.webp",
+        "004796.webp",
+        "004825.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ chúng ta cho thịt ra tô phở, một ít rau hành nữa nè, chan vào trong tô phở.",
+      "start": 194.12,
+      "end": 202.96,
+      "n_words": 20,
+      "start_frame": 4853,
+      "end_frame": 5074,
+      "keyframes": [
+        "004854.webp",
+        "004855.webp",
+        "004918.webp",
+        "004981.webp",
+        "004982.webp",
+        "005028.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Mùi thơm y như là mình đang đi ăn một quán phở xịn sò.",
+      "start": 202.96,
+      "end": 208.32,
+      "n_words": 14,
+      "start_frame": 5074,
+      "end_frame": 5208,
+      "keyframes": [
+        "005075.webp",
+        "005076.webp",
+        "005131.webp",
+        "005187.webp",
+        "005188.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Như vậy là từ đây Kim Thảo đã có thể tự nấu phở bò tại nhà rồi.",
+      "start": 208.32,
+      "end": 212.36,
+      "n_words": 17,
+      "start_frame": 5208,
+      "end_frame": 5309,
+      "keyframes": [
+        "005228.webp",
+        "005269.webp",
+        "005270.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Quý vị và các bạn cũng vậy nhé, chúng ta chỉ cần lấy điện thoại ra và quét mã QR trên màn hình để có trọn công thức của phở tái lăn.",
+      "start": 212.36,
+      "end": 225.24,
+      "n_words": 32,
+      "start_frame": 5309,
+      "end_frame": 5631,
+      "keyframes": [
+        "005383.webp",
+        "005497.webp",
+        "005498.webp",
+        "005522.webp",
+        "005547.webp",
+        "005548.webp",
+        "005590.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Các bạn sẽ cho một ít hành lá, vài cọng hành lá chẻ nữa nè, vài cọng ớt, hành tây cắt sợi.",
+      "start": 225.24,
+      "end": 235.44,
+      "n_words": 22,
+      "start_frame": 5631,
+      "end_frame": 5886,
+      "keyframes": [
+        "005632.webp",
+        "005633.webp",
+        "005681.webp",
+        "005729.webp",
+        "005730.webp",
+        "005758.webp",
+        "005787.webp",
+        "005788.webp",
+        "005813.webp",
+        "005839.webp",
+        "005840.webp",
+        "005862.webp",
+        "005884.webp",
+        "005885.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Xong một bát phở tái lăn hoàn chỉnh.",
+      "start": 235.44,
+      "end": 238.16,
+      "n_words": 8,
+      "start_frame": 5886,
+      "end_frame": 5954,
+      "keyframes": [
+        "005915.webp",
+        "005946.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ mời Kim Thảo thưởng thức và cho nhận xét nha.",
+      "start": 238.16,
+      "end": 241.52,
+      "n_words": 12,
+      "start_frame": 5954,
+      "end_frame": 6038,
+      "keyframes": [
+        "005961.webp",
+        "005996.webp",
+        "006031.webp",
+        "006032.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ mình sẽ thử nếm coi là giống ngoài tiệm chưa nha.",
+      "start": 241.52,
+      "end": 255.2,
+      "n_words": 13,
+      "start_frame": 6038,
+      "end_frame": 6380,
+      "keyframes": [
+        "006075.webp",
+        "006119.webp",
+        "006120.webp",
+        "006247.webp",
+        "006374.webp",
+        "006375.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Vị nước phở rất là chuẩn vị, giống như là Kim Thảo đang được ăn một tô phở ở quán quen gần nhà vậy đó.",
+      "start": 255.2,
+      "end": 261.48,
+      "n_words": 25,
+      "start_frame": 6380,
+      "end_frame": 6537,
+      "keyframes": [
+        "006424.webp",
+        "006473.webp",
+        "006474.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Như vậy là từ ngày hôm nay, Kim Thảo đã có thể tự nấu phở bò tại nhà rồi.",
+      "start": 261.48,
+      "end": 265.04,
+      "n_words": 19,
+      "start_frame": 6537,
+      "end_frame": 6626,
+      "keyframes": [
+        "006543.webp",
+        "006612.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và cảm ơn đầu bếp Quốc Nghị vì đã biến tấu cho thêm cải ngọt vào giúp cho món phở tái lăn thêm trọn vị hơn.",
+      "start": 265.04,
+      "end": 271.64,
+      "n_words": 26,
+      "start_frame": 6626,
+      "end_frame": 6791,
+      "keyframes": [
+        "006627.webp",
+        "006662.webp",
+        "006698.webp",
+        "006699.webp",
+        "006743.webp",
+        "006788.webp",
+        "006789.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Và để đạt được hiệu quả dinh dưỡng thì các bạn có thể tham khảo món ăn này cùng với thực đơn một ngày sau đây các bạn nhé.",
+      "start": 271.64,
+      "end": 281.12,
+      "n_words": 29,
+      "start_frame": 6791,
+      "end_frame": 7028,
+      "keyframes": [
+        "006846.webp",
+        "006904.webp",
+        "006905.webp",
+        "006967.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Phở tái lăn làm nhanh gọn nhưng chắc chắn cả nhà đều mê, phải thử ngay nhé.",
+      "start": 281.12,
+      "end": 285.84,
+      "n_words": 17,
+      "start_frame": 7028,
+      "end_frame": 7146,
+      "keyframes": [
+        "007029.webp",
+        "007030.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và để xem lại công thức trọn vị của món ăn ngày hôm nay cùng với rất nhiều những món ăn khác nữa của chương trình, quý vị chỉ cần truy cập vào YouTube, website, fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 285.84,
+      "end": 297.2,
+      "n_words": 43,
+      "start_frame": 7146,
+      "end_frame": 7430,
+      "keyframes": [
+        "007218.webp",
+        "007407.webp",
+        "007408.webp"
+      ],
+      "keyframe_count": 3
+    }
+  ]
+}

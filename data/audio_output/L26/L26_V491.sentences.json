@@ -1,0 +1,886 @@
+{
+  "video_id": "L26_V491",
+  "fps": 25.0,
+  "n_sentences": 47,
+  "total_words": 982,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.52,
+      "end": 13.6,
+      "n_words": 4,
+      "start_frame": 263,
+      "end_frame": 340,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000301.webp",
+        "000302.webp",
+        "000303.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ông ta đó muốn sang thì bắt cầu kiều thèm ăn củ kiệu nên tìm đến bếp Món ngon.",
+      "start": 13.6,
+      "end": 19.76,
+      "n_words": 19,
+      "start_frame": 340,
+      "end_frame": 494,
+      "keyframes": [
+        "000345.webp",
+        "000387.webp",
+        "000388.webp",
+        "000408.webp",
+        "000428.webp",
+        "000429.webp",
+        "000455.webp",
+        "000481.webp",
+        "000482.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "À, củ kiệu không ấy bây giờ mình anh em mình ăn bánh tét.",
+      "start": 19.76,
+      "end": 24.16,
+      "n_words": 14,
+      "start_frame": 494,
+      "end_frame": 604,
+      "keyframes": [
+        "000540.webp",
+        "000599.webp",
+        "000600.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đầu bếp siêu đỉnh cao gì mà chán quá vậy, bây giờ mình phải nghĩ ra một món gì đặc biệt với công thức ngày hôm nay ha.",
+      "start": 24.16,
+      "end": 31.84,
+      "n_words": 28,
+      "start_frame": 604,
+      "end_frame": 796,
+      "keyframes": [
+        "000640.webp",
+        "000680.webp",
+        "000681.webp",
+        "000720.webp",
+        "000760.webp",
+        "000761.webp",
+        "000789.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cô ta yêu cầu được không ra đông tây kết hợp, ăn đồ tây thì có thịt bò, ăn đồ ta thì có củ kiệu, bây giờ đầu bếp nhà mình làm được không?",
+      "start": 31.84,
+      "end": 41.32,
+      "n_words": 34,
+      "start_frame": 796,
+      "end_frame": 1033,
+      "keyframes": [
+        "000817.webp",
+        "000818.webp",
+        "000834.webp",
+        "000850.webp",
+        "000851.webp",
+        "000861.webp",
+        "000872.webp",
+        "000873.webp",
+        "000884.webp",
+        "000896.webp",
+        "000897.webp",
+        "000940.webp",
+        "000984.webp",
+        "000985.webp",
+        "001016.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Dễ à, còn vào phụ bếp của tôi làm liền thôi: salad bò dưa kiệu tươi mát giải nhiệt mùa hè. Chào các bạn khán giả của chương trình Món ngon mỗi ngày.",
+      "start": 41.32,
+      "end": 68.08,
+      "n_words": 33,
+      "start_frame": 1033,
+      "end_frame": 1702,
+      "keyframes": [
+        "001048.webp",
+        "001049.webp",
+        "001067.webp",
+        "001086.webp",
+        "001087.webp",
+        "001100.webp",
+        "001114.webp",
+        "001115.webp",
+        "001139.webp",
+        "001164.webp",
+        "001165.webp",
+        "001203.webp",
+        "001241.webp",
+        "001242.webp",
+        "001269.webp",
+        "001296.webp",
+        "001312.webp",
+        "001361.webp",
+        "001411.webp",
+        "001412.webp",
+        "001526.webp",
+        "001640.webp",
+        "001641.webp"
+      ],
+      "keyframe_count": 23
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 68.08,
+      "end": 72.52,
+      "n_words": 11,
+      "start_frame": 1702,
+      "end_frame": 1813,
+      "keyframes": [
+        "001724.webp",
+        "001807.webp",
+        "001808.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đầu tiên chúng ta sẽ có thịt bò.",
+      "start": 72.52,
+      "end": 74.16,
+      "n_words": 8,
+      "start_frame": 1813,
+      "end_frame": 1854,
+      "keyframes": [
+        "001821.webp",
+        "001834.webp",
+        "001835.webp",
+        "001849.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ cắt thành miếng lát mỏng và vì sao không đem thịt bò và đem củ kiệu mình biết nhà đầu bếp có sẵn rồi, cho nên là mình chỉ ướp thôi.",
+      "start": 74.56,
+      "end": 84.72,
+      "n_words": 36,
+      "start_frame": 1864,
+      "end_frame": 2118,
+      "keyframes": [
+        "001864.webp",
+        "001889.webp",
+        "001915.webp",
+        "001916.webp",
+        "001961.webp",
+        "002006.webp",
+        "002007.webp",
+        "002037.webp",
+        "002067.webp",
+        "002068.webp",
+        "002090.webp",
+        "002112.webp",
+        "002113.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Sau khi phần thịt bò đã cắt lát mỏng như thế này, chúng ta sẽ cho ra tô thì chúng ta sẽ ướp vào đây nửa muỗng cà phê bột ngọt, một muỗng cà phê hạt nêm Ajinomoto, hai muỗng cà phê nước tương Phú Sĩ.",
+      "start": 84.72,
+      "end": 95.16,
+      "n_words": 46,
+      "start_frame": 2118,
+      "end_frame": 2379,
+      "keyframes": [
+        "002133.webp",
+        "002153.webp",
+        "002154.webp",
+        "002180.webp",
+        "002206.webp",
+        "002207.webp",
+        "002240.webp",
+        "002274.webp",
+        "002275.webp",
+        "002306.webp",
+        "002338.webp",
+        "002339.webp",
+        "002371.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Bò mà ướp nước tương rất là thơm đó đúng không.",
+      "start": 95.16,
+      "end": 97.68,
+      "n_words": 11,
+      "start_frame": 2379,
+      "end_frame": 2442,
+      "keyframes": [
+        "002403.webp",
+        "002404.webp",
+        "002432.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mình bật chảo một muỗng canh dầu ăn, thịt bò mình có lượng mỡ rất là thấp đúng không, mình sẽ thêm dầu ăn vào.",
+      "start": 97.68,
+      "end": 103.08,
+      "n_words": 25,
+      "start_frame": 2442,
+      "end_frame": 2577,
+      "keyframes": [
+        "002461.webp",
+        "002462.webp",
+        "002519.webp",
+        "002577.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Tiếp đến là một muỗng canh nước cốt hành tỏi và cuối cùng là một muỗng canh tạt vàng.",
+      "start": 103.08,
+      "end": 108.24,
+      "n_words": 19,
+      "start_frame": 2577,
+      "end_frame": 2706,
+      "keyframes": [
+        "002577.webp",
+        "002578.webp",
+        "002611.webp",
+        "002645.webp",
+        "002646.webp",
+        "002672.webp",
+        "002699.webp",
+        "002700.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Bây giờ công đoạn khó nhất là trộn đều nhường cho Dũng Hà.",
+      "start": 108.24,
+      "end": 112.32,
+      "n_words": 13,
+      "start_frame": 2706,
+      "end_frame": 2808,
+      "keyframes": [
+        "002719.webp",
+        "002738.webp",
+        "002739.webp",
+        "002750.webp",
+        "002761.webp",
+        "002762.webp",
+        "002784.webp",
+        "002807.webp",
+        "002808.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Sau khi Dũng Hà đã trộn đều cái phần thịt bò để ngấm với cùng gia vị thì Quốc Ngày sẽ đặt qua một bên.",
+      "start": 112.32,
+      "end": 118.16,
+      "n_words": 25,
+      "start_frame": 2808,
+      "end_frame": 2954,
+      "keyframes": [
+        "002808.webp",
+        "002817.webp",
+        "002827.webp",
+        "002828.webp",
+        "002890.webp",
+        "002953.webp",
+        "002954.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Chúng ta sẽ sơ chế dưa kiệu.",
+      "start": 118.16,
+      "end": 119.88,
+      "n_words": 7,
+      "start_frame": 2954,
+      "end_frame": 2997,
+      "keyframes": [
+        "002954.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta sẽ chọn dưa kiệu có màu trắng là dưa kiệu mới và khi chọn salad nó sẽ giòn và ngon hơn.",
+      "start": 119.88,
+      "end": 125.36,
+      "n_words": 23,
+      "start_frame": 2997,
+      "end_frame": 3134,
+      "keyframes": [
+        "002998.webp",
+        "003042.webp",
+        "003043.webp",
+        "003086.webp",
+        "003130.webp",
+        "003131.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Dưa kiệu thì bây giờ chúng ta sẽ cắt sợi như thế này cho vào tô lớn.",
+      "start": 125.36,
+      "end": 131.76,
+      "n_words": 17,
+      "start_frame": 3134,
+      "end_frame": 3294,
+      "keyframes": [
+        "003161.webp",
+        "003192.webp",
+        "003193.webp",
+        "003210.webp",
+        "003227.webp",
+        "003228.webp",
+        "003245.webp",
+        "003263.webp",
+        "003264.webp",
+        "003280.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Tiếp đến là phần xà lách tím, chúng ta sẽ cắt khúc rồi chúng ta cũng sẽ cho vào tô.",
+      "start": 131.76,
+      "end": 136.0,
+      "n_words": 20,
+      "start_frame": 3294,
+      "end_frame": 3400,
+      "keyframes": [
+        "003296.webp",
+        "003297.webp",
+        "003313.webp",
+        "003330.webp",
+        "003331.webp",
+        "003365.webp",
+        "003400.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Rồi phần rau má, chúng ta cũng sẽ cắt như thế này thành những khúc, chọn rau má non đúng không? Đúng rồi.",
+      "start": 136.0,
+      "end": 141.12,
+      "n_words": 23,
+      "start_frame": 3400,
+      "end_frame": 3528,
+      "keyframes": [
+        "003400.webp",
+        "003401.webp",
+        "003428.webp",
+        "003455.webp",
+        "003456.webp",
+        "003469.webp",
+        "003483.webp",
+        "003484.webp",
+        "003507.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cà chua chúng ta sẽ lấy cái phần vỏ ngoài nè, bỏ phần ruột đi, cắt thành những cái lát mỏng như thế này cho vào tô.",
+      "start": 141.12,
+      "end": 151.08,
+      "n_words": 27,
+      "start_frame": 3528,
+      "end_frame": 3777,
+      "keyframes": [
+        "003530.webp",
+        "003531.webp",
+        "003559.webp",
+        "003588.webp",
+        "003589.webp",
+        "003601.webp",
+        "003614.webp",
+        "003615.webp",
+        "003628.webp",
+        "003642.webp",
+        "003643.webp",
+        "003662.webp",
+        "003681.webp",
+        "003682.webp",
+        "003709.webp",
+        "003737.webp",
+        "003738.webp",
+        "003757.webp",
+        "003776.webp",
+        "003777.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Tía tô chúng ta cũng sẽ cắt sợi ra, riêng cái phần tía tô chúng ta sẽ ngâm qua nước đá để làm chi Dũng Hà biết không?",
+      "start": 151.08,
+      "end": 160.64,
+      "n_words": 28,
+      "start_frame": 3777,
+      "end_frame": 4016,
+      "keyframes": [
+        "003777.webp",
+        "003798.webp",
+        "003819.webp",
+        "003820.webp",
+        "003840.webp",
+        "003860.webp",
+        "003861.webp",
+        "003886.webp",
+        "003911.webp",
+        "003912.webp",
+        "003980.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Để cho nó giòn hơn và đỡ mùi hăng.",
+      "start": 160.64,
+      "end": 164.64,
+      "n_words": 9,
+      "start_frame": 4016,
+      "end_frame": 4116,
+      "keyframes": [
+        "004049.webp",
+        "004050.webp",
+        "004083.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tỏi cũ chúng ta đập dập để chút nữa chúng ta áp chảo với thịt bò đó Dũng Hà, chúng ta cũng sẽ cho lên chén.",
+      "start": 164.64,
+      "end": 169.12,
+      "n_words": 26,
+      "start_frame": 4116,
+      "end_frame": 4228,
+      "keyframes": [
+        "004117.webp",
+        "004118.webp",
+        "004155.webp",
+        "004193.webp",
+        "004194.webp",
+        "004212.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ những cái phần rau củ á thì Dũng Hà sẽ bọc vào.",
+      "start": 169.12,
+      "end": 174.2,
+      "n_words": 14,
+      "start_frame": 4228,
+      "end_frame": 4355,
+      "keyframes": [
+        "004230.webp",
+        "004231.webp",
+        "004278.webp",
+        "004325.webp",
+        "004326.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta sẽ cắt củ lạnh, củ lạnh cho rau chúng ta có độ giòn và lạnh chút nữa, chúng ta trộn salad sẽ rất là ngon.",
+      "start": 174.2,
+      "end": 179.76,
+      "n_words": 27,
+      "start_frame": 4355,
+      "end_frame": 4494,
+      "keyframes": [
+        "004356.webp",
+        "004387.webp",
+        "004388.webp",
+        "004411.webp",
+        "004434.webp",
+        "004435.webp",
+        "004465.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Bây giờ Quốc Ngày sẽ hướng dẫn các bạn khán giả cùng Dũng Hà chúng ta sẽ pha phần nước sốt cho món salad ngày hôm nay.",
+      "start": 179.76,
+      "end": 184.84,
+      "n_words": 27,
+      "start_frame": 4494,
+      "end_frame": 4621,
+      "keyframes": [
+        "004495.webp",
+        "004496.webp",
+        "004552.webp",
+        "004608.webp",
+        "004609.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đầu tiên chúng ta sẽ cho vào đây hai muỗng canh nước lọc nè, hai muỗng canh đường, ba muỗng canh giấm gạo lên men Lisa.",
+      "start": 184.84,
+      "end": 192.44,
+      "n_words": 26,
+      "start_frame": 4621,
+      "end_frame": 4811,
+      "keyframes": [
+        "004657.webp",
+        "004706.webp",
+        "004707.webp",
+        "004724.webp",
+        "004741.webp",
+        "004742.webp",
+        "004753.webp",
+        "004765.webp",
+        "004766.webp",
+        "004807.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Làm salad thì không thể thiếu giấm gạo lên men, nửa muỗng cà phê muối, nửa muỗng cà phê tiêu xay, hai muỗng canh dầu ô liu và cuối cùng là một muỗng canh mù tạt vàng.",
+      "start": 192.44,
+      "end": 202.68,
+      "n_words": 37,
+      "start_frame": 4811,
+      "end_frame": 5067,
+      "keyframes": [
+        "004848.webp",
+        "004849.webp",
+        "004863.webp",
+        "004878.webp",
+        "004879.webp",
+        "004891.webp",
+        "004904.webp",
+        "004905.webp",
+        "004924.webp",
+        "004944.webp",
+        "004945.webp",
+        "004961.webp",
+        "004977.webp",
+        "004978.webp",
+        "004997.webp",
+        "005017.webp",
+        "005018.webp",
+        "005043.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Cái việc chúng ta thay mù tạt vàng vào sốt dầu giấm để tăng hương vị cho món ăn tại vì có nhiều người họ không ăn được cái vị của dầu ô liu vậy thì mình có thể thay thế bằng cái loại dầu khác được không?",
+      "start": 202.68,
+      "end": 212.16,
+      "n_words": 48,
+      "start_frame": 5067,
+      "end_frame": 5304,
+      "keyframes": [
+        "005068.webp",
+        "005069.webp",
+        "005095.webp",
+        "005121.webp",
+        "005122.webp",
+        "005142.webp",
+        "005162.webp",
+        "005163.webp",
+        "005233.webp",
+        "005303.webp",
+        "005304.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Chúng ta có thể thay dầu ô liu bằng dầu tỏi phi hoặc là dầu tỏi ngâm để cho món ăn chúng ta thơm ngon hơn.",
+      "start": 212.16,
+      "end": 218.24,
+      "n_words": 26,
+      "start_frame": 5304,
+      "end_frame": 5456,
+      "keyframes": [
+        "005304.webp",
+        "005376.webp",
+        "005448.webp",
+        "005449.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Rồi bây giờ chúng ta tiếp tục qua cái công đoạn áp chảo thịt bò.",
+      "start": 218.24,
+      "end": 222.24,
+      "n_words": 15,
+      "start_frame": 5456,
+      "end_frame": 5556,
+      "keyframes": [
+        "005467.webp",
+        "005486.webp",
+        "005487.webp",
+        "005521.webp",
+        "005556.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cho vào đây một ít dầu ăn, tiếp đến là chúng ta sẽ cho cái phần tỏi giã vào.",
+      "start": 222.24,
+      "end": 225.92,
+      "n_words": 19,
+      "start_frame": 5556,
+      "end_frame": 5648,
+      "keyframes": [
+        "005556.webp",
+        "005557.webp",
+        "005570.webp",
+        "005584.webp",
+        "005585.webp",
+        "005605.webp",
+        "005625.webp",
+        "005626.webp",
+        "005637.webp",
+        "005648.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Thơm quá Dũng Hà.",
+      "start": 225.92,
+      "end": 227.2,
+      "n_words": 4,
+      "start_frame": 5648,
+      "end_frame": 5680,
+      "keyframes": [
+        "005648.webp",
+        "005649.webp",
+        "005664.webp",
+        "005680.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Thịt bò vào.",
+      "start": 227.2,
+      "end": 228.12,
+      "n_words": 3,
+      "start_frame": 5680,
+      "end_frame": 5703,
+      "keyframes": [
+        "005680.webp",
+        "005681.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Trời ơi thơm quá luôn, wow hấp dẫn quá, hấp dẫn quá.",
+      "start": 228.12,
+      "end": 233.92,
+      "n_words": 12,
+      "start_frame": 5703,
+      "end_frame": 5848,
+      "keyframes": [
+        "005715.webp",
+        "005749.webp",
+        "005750.webp",
+        "005771.webp",
+        "005792.webp",
+        "005793.webp",
+        "005808.webp",
+        "005823.webp",
+        "005824.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Dũng Hà ơi sao tắt lửa cho ra tô thịt.",
+      "start": 233.92,
+      "end": 242.76,
+      "n_words": 10,
+      "start_frame": 5848,
+      "end_frame": 6069,
+      "keyframes": [
+        "005858.webp",
+        "005892.webp",
+        "005893.webp",
+        "005914.webp",
+        "005935.webp",
+        "005936.webp",
+        "005954.webp",
+        "005973.webp",
+        "005974.webp",
+        "005998.webp",
+        "006023.webp",
+        "006024.webp",
+        "006048.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Có nghe thấy tiếng gì không?",
+      "start": 242.76,
+      "end": 244.4,
+      "n_words": 6,
+      "start_frame": 6069,
+      "end_frame": 6110,
+      "keyframes": [
+        "006073.webp",
+        "006074.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tiếng bao tử của tôi đang đòi nhanh lên đi.",
+      "start": 244.4,
+      "end": 247.56,
+      "n_words": 10,
+      "start_frame": 6110,
+      "end_frame": 6189,
+      "keyframes": [
+        "006115.webp",
+        "006156.webp",
+        "006157.webp",
+        "006174.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Sẽ trộn tất cả loại rau này lên nè cho nó hài hòa cái màu sắc của món salad.",
+      "start": 247.56,
+      "end": 251.52,
+      "n_words": 19,
+      "start_frame": 6189,
+      "end_frame": 6288,
+      "keyframes": [
+        "006191.webp",
+        "006192.webp",
+        "006212.webp",
+        "006232.webp",
+        "006233.webp",
+        "006259.webp",
+        "006285.webp",
+        "006286.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Rồi cuối cùng sẽ cho cái salad là gì á, cho cái phần thịt bò đã áp chảo lên trên, rất là hấp dẫn đúng không?",
+      "start": 251.52,
+      "end": 259.96,
+      "n_words": 26,
+      "start_frame": 6288,
+      "end_frame": 6499,
+      "keyframes": [
+        "006321.webp",
+        "006357.webp",
+        "006358.webp",
+        "006383.webp",
+        "006409.webp",
+        "006410.webp",
+        "006455.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Một ít rau ngò, lá húng, sốt salad khi ăn chúng ta sẽ rưới lên trên như thế này.",
+      "start": 259.96,
+      "end": 265.72,
+      "n_words": 19,
+      "start_frame": 6499,
+      "end_frame": 6643,
+      "keyframes": [
+        "006500.webp",
+        "006501.webp",
+        "006518.webp",
+        "006536.webp",
+        "006537.webp",
+        "006551.webp",
+        "006565.webp",
+        "006566.webp",
+        "006576.webp",
+        "006586.webp",
+        "006587.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "À cái này là sốt mình không trộn trước đúng không? Đúng rồi, để giữ được cái phần tươi giòn của rau.",
+      "start": 265.72,
+      "end": 270.72,
+      "n_words": 22,
+      "start_frame": 6643,
+      "end_frame": 6768,
+      "keyframes": [
+        "006678.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cho lên đây một ít mè rang, như vậy là món salad bò dưa kiệu của chúng ta ngày hôm nay đã hoàn thành.",
+      "start": 270.72,
+      "end": 275.52,
+      "n_words": 24,
+      "start_frame": 6768,
+      "end_frame": 6888,
+      "keyframes": [
+        "006769.webp",
+        "006770.webp",
+        "006783.webp",
+        "006797.webp",
+        "006798.webp",
+        "006816.webp",
+        "006835.webp",
+        "006836.webp",
+        "006883.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Bây giờ mời các bạn khán giả và Dũng Hà chúng ta cùng nhau thưởng thức vị chua chua của sốt salad kết hợp với dưa kiệu giòn giòn, thịt bò thì mềm tan, đậm vị cùng với mùi thơm từ tỏi củ nướng và các loại rau xanh ngon tuyệt của món salad bò dưa kiệu.",
+      "start": 275.52,
+      "end": 291.28,
+      "n_words": 57,
+      "start_frame": 6888,
+      "end_frame": 7282,
+      "keyframes": [
+        "006931.webp",
+        "006932.webp",
+        "006949.webp",
+        "006966.webp",
+        "006967.webp",
+        "007010.webp",
+        "007053.webp",
+        "007075.webp",
+        "007105.webp",
+        "007136.webp",
+        "007137.webp",
+        "007193.webp",
+        "007250.webp",
+        "007251.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Quá xuất sắc, quá xuất sắc cho bữa cơm ngày hè oi bức đúng không nào?",
+      "start": 291.28,
+      "end": 293.76,
+      "n_words": 16,
+      "start_frame": 7282,
+      "end_frame": 7344,
+      "keyframes": [
+        "007322.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cùng thưởng thức với gia đình nha các bạn.",
+      "start": 293.76,
+      "end": 296.56,
+      "n_words": 9,
+      "start_frame": 7344,
+      "end_frame": 7414,
+      "keyframes": [
+        "007393.webp",
+        "007394.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "unfiltered": {
+    "text": "năm hai ngàn không trăm mười khi anh khánh một mình khăn gói vào thành phố hồ chí minh xin làm công nhân tại một năm sẽ thay mình về sau nó giúp đỡ lại cho những cái hoàn cảnh khó khăn sau gần mười bốn năm mở lớp học trò của anh khánh nay có em đã vào đại học nhiều em từ học lực yếu kém sau thời gian được kèm cặp đã có thành tích học tập tiến bộ rõ rệt có em vươn lên khá giỏi khi mà cuộc đời này nó còn cảnh khó khăn và sức khỏe mình nó còn cho phép mình cứ thấy",
+    "word_count": 111
+  },
+  "flagged": {
+    "text": "@datetime(năm hai ngàn không trăm mười) khi anh khánh một mình khăn gói vào thành phố hồ chí minh xin làm công nhân tại một năm sẽ thay mình về sau nó giúp đỡ lại cho những cái hoàn cảnh khó khăn sau gần @number(mười bốn) năm mở @not_in_dict(lớp học trò) của anh khánh nay có em đã vào đại học nhiều em từ học lực yếu kém sau thời gian được kèm cặp đã có thành tích học tập tiến bộ rõ rệt có em vươn lên khá giỏi khi mà cuộc đời này nó còn cảnh khó khăn và sức khỏe mình nó còn cho phép mình cứ thấy",
+    "word_count": 111
+  },
+  "refined": {
+    "text": "Năm 2010, khi anh Khánh một mình khăn gói vào Thành phố Hồ Chí Minh xin làm công nhân tại một nhà xưởng, anh tự nhủ mình về sau sẽ giúp đỡ lại cho những cái hoàn cảnh khó khăn. Sau gần 14 năm, lớp học tình thương của anh Khánh nay có em đã vào đại học, nhiều em từ học lực yếu kém sau thời gian được kèm cặp đã có thành tích học tập tiến bộ rõ rệt, có em vươn lên khá giỏi. Khi mà cuộc đời này nó còn cảnh khó khăn và sức khỏe mình nó còn cho phép mình cứ thế",
+    "word_count": 108,
+    "source": "flagged"
+  },
+  "proofread": {
+    "text": "Năm 2010, khi anh Khánh một mình khăn gói vào Thành phố Hồ Chí Minh xin làm công nhân tại một nhà xưởng, anh tự nhủ mình về sau sẽ giúp đỡ lại cho những hoàn cảnh khó khăn. Sau gần 14 năm, lớp học tình thương của anh Khánh nay có em đã vào đại học, nhiều em từ học lực yếu kém sau thời gian được kèm cặp đã có thành tích học tập tiến bộ rõ rệt, có em vươn lên khá giỏi. Khi mà cuộc đời này nó còn cảnh khó khăn và sức khỏe mình nó còn cho phép mình cứ thế",
+    "word_count": 107
+  }
+}

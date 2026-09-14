@@ -1,0 +1,911 @@
+{
+  "video_id": "L26_V234",
+  "fps": 25.0,
+  "n_sentences": 50,
+  "total_words": 1035,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày: thơm giòn, ngọt ngon với cánh gà chiên dừa.",
+      "start": 10.56,
+      "end": 30.32,
+      "n_words": 13,
+      "start_frame": 264,
+      "end_frame": 758,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000343.webp",
+        "000386.webp",
+        "000387.webp",
+        "000419.webp",
+        "000452.webp",
+        "000467.webp",
+        "000523.webp",
+        "000579.webp",
+        "000580.webp",
+        "000670.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Rất vui khi được gặp lại các bạn khán giả đang xem chương trình Món ngon mỗi ngày.",
+      "start": 30.32,
+      "end": 33.68,
+      "n_words": 18,
+      "start_frame": 758,
+      "end_frame": 842,
+      "keyframes": [
+        "000760.webp",
+        "000761.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Azino Việt Nam.",
+      "start": 33.68,
+      "end": 37.52,
+      "n_words": 11,
+      "start_frame": 842,
+      "end_frame": 938,
+      "keyframes": [
+        "000851.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Em thấy là anh có đem bánh đây, một cái món mà em cực kỳ thích: dừa khô nhưng mà bào sợi.",
+      "start": 37.52,
+      "end": 42.52,
+      "n_words": 22,
+      "start_frame": 938,
+      "end_frame": 1063,
+      "keyframes": [
+        "000942.webp",
+        "000943.webp",
+        "001004.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mà cái này là hình như là mình vô trong những tiệm bánh mình mua là có đúng không anh?",
+      "start": 42.52,
+      "end": 45.56,
+      "n_words": 20,
+      "start_frame": 1063,
+      "end_frame": 1139,
+      "keyframes": [
+        "001066.webp",
+        "001067.webp",
+        "001106.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng rồi.",
+      "start": 45.56,
+      "end": 45.96,
+      "n_words": 2,
+      "start_frame": 1139,
+      "end_frame": 1149,
+      "keyframes": [
+        "001146.webp",
+        "001147.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rồi bây giờ sơ chế cánh gà này nha.",
+      "start": 45.96,
+      "end": 47.96,
+      "n_words": 9,
+      "start_frame": 1149,
+      "end_frame": 1199,
+      "keyframes": [
+        "001169.webp",
+        "001192.webp",
+        "001193.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đầu tiên bỏ phần chót cánh, sau đó chúng ta cắt đôi ngay cái khớp vậy nè.",
+      "start": 47.96,
+      "end": 51.92,
+      "n_words": 17,
+      "start_frame": 1199,
+      "end_frame": 1298,
+      "keyframes": [
+        "001216.webp",
+        "001240.webp",
+        "001241.webp",
+        "001257.webp",
+        "001274.webp",
+        "001275.webp",
+        "001289.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cái phần xương này ha, chúng ta cắt ở đây, rồi ta tuột tuột nó xuống, thế là nó ra, nó ra rồi.",
+      "start": 51.92,
+      "end": 60.88,
+      "n_words": 23,
+      "start_frame": 1298,
+      "end_frame": 1522,
+      "keyframes": [
+        "001303.webp",
+        "001304.webp",
+        "001330.webp",
+        "001357.webp",
+        "001358.webp",
+        "001383.webp",
+        "001408.webp",
+        "001409.webp",
+        "001432.webp",
+        "001456.webp",
+        "001457.webp",
+        "001488.webp",
+        "001520.webp",
+        "001521.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Quá đẹp, đơn giản ha rồi.",
+      "start": 60.88,
+      "end": 63.88,
+      "n_words": 6,
+      "start_frame": 1522,
+      "end_frame": 1597,
+      "keyframes": [
+        "001546.webp",
+        "001572.webp",
+        "001573.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nhưng cái này khó hơn một tí.",
+      "start": 63.88,
+      "end": 65.68,
+      "n_words": 7,
+      "start_frame": 1597,
+      "end_frame": 1642,
+      "keyframes": [
+        "001607.webp",
+        "001641.webp",
+        "001642.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cái phần chính giữa cánh như vậy, chúng ta có phần bản to, phần bản nhỏ.",
+      "start": 65.68,
+      "end": 71.24,
+      "n_words": 16,
+      "start_frame": 1642,
+      "end_frame": 1781,
+      "keyframes": [
+        "001642.webp",
+        "001717.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúng ta cắt cái phần bản nhỏ bọc xung quanh vậy à, chúng ta tuột ra.",
+      "start": 71.24,
+      "end": 76.64,
+      "n_words": 16,
+      "start_frame": 1781,
+      "end_frame": 1916,
+      "keyframes": [
+        "001793.webp",
+        "001794.webp",
+        "001830.webp",
+        "001867.webp",
+        "001868.webp",
+        "001908.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Nhưng chú ý nha, ở đây nó có hai xương ha, xương lớn xương nhỏ, chúng ta nhớ khéo léo bỏ phần xương nhỏ ra nghe các bạn, phần xương lớn chúng ta giữ lại vậy thôi, chỉ gọn lại phần đầu cánh.",
+      "start": 76.64,
+      "end": 88.92,
+      "n_words": 43,
+      "start_frame": 1916,
+      "end_frame": 2223,
+      "keyframes": [
+        "001949.webp",
+        "001950.webp",
+        "001970.webp",
+        "001991.webp",
+        "001992.webp",
+        "002010.webp",
+        "002029.webp",
+        "002030.webp",
+        "002052.webp",
+        "002075.webp",
+        "002076.webp",
+        "002115.webp",
+        "002154.webp",
+        "002155.webp",
+        "002188.webp",
+        "002222.webp",
+        "002223.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Cái phần này thì nó nhỏ hơn tí xíu, phần này thì to hơn.",
+      "start": 88.92,
+      "end": 92.6,
+      "n_words": 14,
+      "start_frame": 2223,
+      "end_frame": 2315,
+      "keyframes": [
+        "002223.webp",
+        "002245.webp",
+        "002268.webp",
+        "002269.webp",
+        "002302.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "À rồi, bây giờ mình tính chỗ OK em, hồi hộp quá anh ơi.",
+      "start": 92.6,
+      "end": 98.0,
+      "n_words": 14,
+      "start_frame": 2315,
+      "end_frame": 2450,
+      "keyframes": [
+        "002335.webp",
+        "002336.webp",
+        "002392.webp",
+        "002448.webp",
+        "002449.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cắt bỏ cái phần chót cánh rồi sau đó thì mình sẽ dọc cái phần xương hai bên đây mà để làm cho nó đẹp thì mình sẽ dùng dao mình kéo xuống như vậy, xong mình lật nó lại hả anh?",
+      "start": 98.0,
+      "end": 112.28,
+      "n_words": 42,
+      "start_frame": 2450,
+      "end_frame": 2807,
+      "keyframes": [
+        "002484.webp",
+        "002520.webp",
+        "002521.webp",
+        "002550.webp",
+        "002579.webp",
+        "002580.webp",
+        "002621.webp",
+        "002662.webp",
+        "002663.webp",
+        "002715.webp",
+        "002767.webp",
+        "002768.webp",
+        "002797.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Hả đúng rồi, rồi đúng rồi, vuốt đó, được chưa?",
+      "start": 112.28,
+      "end": 116.72,
+      "n_words": 10,
+      "start_frame": 2807,
+      "end_frame": 2918,
+      "keyframes": [
+        "002826.webp",
+        "002827.webp",
+        "002857.webp",
+        "002887.webp",
+        "002888.webp",
+        "002905.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Quá giỏi luôn!",
+      "start": 116.72,
+      "end": 117.68,
+      "n_words": 3,
+      "start_frame": 2918,
+      "end_frame": 2942,
+      "keyframes": [
+        "002922.webp",
+        "002923.webp",
+        "002936.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tiếp luôn, tiếp tục phần nhỏ đây, đúng rồi, xong rồi mình sẽ bỏ cái xương nhỏ nữa hả?",
+      "start": 117.68,
+      "end": 123.72,
+      "n_words": 19,
+      "start_frame": 2942,
+      "end_frame": 3093,
+      "keyframes": [
+        "002949.webp",
+        "002950.webp",
+        "002980.webp",
+        "003011.webp",
+        "003012.webp",
+        "003029.webp",
+        "003047.webp",
+        "003048.webp",
+        "003074.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đúng rồi.",
+      "start": 123.72,
+      "end": 124.24,
+      "n_words": 2,
+      "start_frame": 3093,
+      "end_frame": 3106,
+      "keyframes": [
+        "003101.webp",
+        "003102.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đây là cục đùi gà thứ hai của em đó.",
+      "start": 124.24,
+      "end": 127.96,
+      "n_words": 10,
+      "start_frame": 3106,
+      "end_frame": 3199,
+      "keyframes": [
+        "003122.webp",
+        "003143.webp",
+        "003144.webp",
+        "003168.webp",
+        "003193.webp",
+        "003194.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi, bản thân em thì em thích ăn cánh gà hơn bởi vì cánh gà nếu mà so với đùi thì là cái lượng protein của nó nhiều hơn đùi luôn.",
+      "start": 127.96,
+      "end": 135.12,
+      "n_words": 31,
+      "start_frame": 3199,
+      "end_frame": 3378,
+      "keyframes": [
+        "003235.webp",
+        "003276.webp",
+        "003277.webp",
+        "003328.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Gà của mình đã sẵn sàng rồi thì mình sẽ ướp đúng không anh?",
+      "start": 135.12,
+      "end": 137.96,
+      "n_words": 14,
+      "start_frame": 3378,
+      "end_frame": 3449,
+      "keyframes": [
+        "003379.webp",
+        "003380.webp",
+        "003418.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng vậy, chúng ta cho vào đây: hành tím băm khoảng một muỗng cà phê, tỏi băm một muỗng cà phê, gừng băm thì nửa muỗng thôi, sả băm một muỗng cà phê, khoảng hai muỗng cà phê hạt nêm, khoảng một phần sáu muỗng cà phê bột quế, nửa muỗng cà phê nước cốt chanh, một phần hai muỗng cà phê muối, một phần ba muỗng cà phê bột ngọt Ajinomoto, một muỗng cà phê hạt nêm Aji-ngon gà, một phần ba muỗng cà phê tiêu.",
+      "start": 137.96,
+      "end": 162.16,
+      "n_words": 87,
+      "start_frame": 3449,
+      "end_frame": 4054,
+      "keyframes": [
+        "003456.webp",
+        "003457.webp",
+        "003478.webp",
+        "003499.webp",
+        "003500.webp",
+        "003521.webp",
+        "003543.webp",
+        "003544.webp",
+        "003566.webp",
+        "003589.webp",
+        "003590.webp",
+        "003608.webp",
+        "003627.webp",
+        "003628.webp",
+        "003646.webp",
+        "003664.webp",
+        "003665.webp",
+        "003692.webp",
+        "003720.webp",
+        "003721.webp",
+        "003733.webp",
+        "003745.webp",
+        "003746.webp",
+        "003760.webp",
+        "003774.webp",
+        "003775.webp",
+        "003790.webp",
+        "003805.webp",
+        "003806.webp",
+        "003830.webp",
+        "003854.webp",
+        "003855.webp",
+        "003873.webp",
+        "003891.webp",
+        "003892.webp",
+        "003909.webp",
+        "003926.webp",
+        "003927.webp",
+        "003947.webp",
+        "003968.webp",
+        "003969.webp",
+        "003985.webp",
+        "004001.webp",
+        "004002.webp",
+        "004027.webp",
+        "004052.webp",
+        "004053.webp"
+      ],
+      "keyframe_count": 47
+    },
+    {
+      "text": "Và thưa các bạn, ngoài việc vừa sấy, chúng ta tẩm ngoài, chúng ta còn ướp vào đây khoảng nửa chén nước cốt dừa nữa các bạn.",
+      "start": 162.16,
+      "end": 169.0,
+      "n_words": 27,
+      "start_frame": 4054,
+      "end_frame": 4225,
+      "keyframes": [
+        "004071.webp",
+        "004090.webp",
+        "004091.webp",
+        "004115.webp",
+        "004140.webp",
+        "004141.webp",
+        "004180.webp",
+        "004219.webp",
+        "004220.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Và thưa các bạn, nếu như chúng ta làm số lượng lớn thì tất cả chúng ta chỉ cần xay nhuyễn đều thôi, như vậy chúng ta sẽ tiết kiệm thời gian hơn và đặc biệt khi ướp thì sẽ mau thấm vào trong gà hơn nha các bạn.",
+      "start": 169.0,
+      "end": 180.04,
+      "n_words": 49,
+      "start_frame": 4225,
+      "end_frame": 4501,
+      "keyframes": [
+        "004270.webp",
+        "004321.webp",
+        "004322.webp",
+        "004409.webp",
+        "004497.webp",
+        "004498.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đó, chúng ta cho cánh gà vào ướp, cái này chúng ta ướp chúng ta để khoảng 2 giờ thì mới thấm bên trong nha các bạn.",
+      "start": 180.04,
+      "end": 186.32,
+      "n_words": 27,
+      "start_frame": 4501,
+      "end_frame": 4658,
+      "keyframes": [
+        "004525.webp",
+        "004552.webp",
+        "004553.webp",
+        "004581.webp",
+        "004610.webp",
+        "004611.webp",
+        "004638.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Trong khi chờ cho gà thấm thì tôi sẽ chuẩn bị khuấy cái bột chiên giòn.",
+      "start": 186.64,
+      "end": 190.96,
+      "n_words": 16,
+      "start_frame": 4666,
+      "end_frame": 4774,
+      "keyframes": [
+        "004666.webp",
+        "004698.webp",
+        "004731.webp",
+        "004732.webp",
+        "004750.webp",
+        "004769.webp",
+        "004770.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cho vào đây 150 ml nước gia vị nêm sẵn A-quýt, bột chi giòn.",
+      "start": 190.96,
+      "end": 196.72,
+      "n_words": 14,
+      "start_frame": 4774,
+      "end_frame": 4918,
+      "keyframes": [
+        "004803.webp",
+        "004836.webp",
+        "004837.webp",
+        "004856.webp",
+        "004876.webp",
+        "004877.webp",
+        "004901.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Rồi, công việc hết sức là phức tạp nha, em quậy giúp anh cái nha.",
+      "start": 196.72,
+      "end": 199.64,
+      "n_words": 15,
+      "start_frame": 4918,
+      "end_frame": 4991,
+      "keyframes": [
+        "004925.webp",
+        "004926.webp",
+        "004957.webp",
+        "004989.webp",
+        "004990.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Phần kế tiếp là hướng dẫn các bạn cách để pha nước sốt: cho vào đây bốn muỗng canh tương ớt, hai muỗng canh sốt mayonnaise vị nguyên bản nha.",
+      "start": 199.64,
+      "end": 208.36,
+      "n_words": 30,
+      "start_frame": 4991,
+      "end_frame": 5209,
+      "keyframes": [
+        "005024.webp",
+        "005059.webp",
+        "005060.webp",
+        "005070.webp",
+        "005080.webp",
+        "005081.webp",
+        "005096.webp",
+        "005112.webp",
+        "005113.webp",
+        "005159.webp",
+        "005206.webp",
+        "005207.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Công chuyện phức tạp luôn, là bếp trưởng thật quyền lực.",
+      "start": 208.36,
+      "end": 211.36,
+      "n_words": 11,
+      "start_frame": 5209,
+      "end_frame": 5284,
+      "keyframes": [
+        "005222.webp",
+        "005238.webp",
+        "005239.webp",
+        "005260.webp",
+        "005281.webp",
+        "005282.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Trong khi chờ đợi thì anh sẽ bật đây một chảo dầu, tại vì dừa thì rất là mau cháy.",
+      "start": 211.36,
+      "end": 216.16,
+      "n_words": 20,
+      "start_frame": 5284,
+      "end_frame": 5404,
+      "keyframes": [
+        "005318.webp",
+        "005355.webp",
+        "005356.webp",
+        "005383.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Canh mà dầu không khéo thì là sẽ bị cháy bên ngoài mà bên trong còn sống.",
+      "start": 216.16,
+      "end": 220.28,
+      "n_words": 17,
+      "start_frame": 5404,
+      "end_frame": 5507,
+      "keyframes": [
+        "005411.webp",
+        "005412.webp",
+        "005456.webp",
+        "005501.webp",
+        "005502.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cho đũa vào đây, thì trong độ đũa có những cái bọt khí các bạn, sôi nhẹ nhẹ như vậy tức là khoảng 140 °C dầu như vậy vừa rồi.",
+      "start": 220.28,
+      "end": 227.64,
+      "n_words": 30,
+      "start_frame": 5507,
+      "end_frame": 5691,
+      "keyframes": [
+        "005519.webp",
+        "005537.webp",
+        "005538.webp",
+        "005563.webp",
+        "005589.webp",
+        "005590.webp",
+        "005624.webp",
+        "005659.webp",
+        "005660.webp",
+        "005673.webp",
+        "005686.webp",
+        "005687.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Chúng ta chỉ còn tẩm vô rồi mình tẩm bột ướt như vậy, để rồi nhúng vô dừa đó.",
+      "start": 227.64,
+      "end": 234.64,
+      "n_words": 19,
+      "start_frame": 5691,
+      "end_frame": 5866,
+      "keyframes": [
+        "005708.webp",
+        "005730.webp",
+        "005731.webp",
+        "005747.webp",
+        "005763.webp",
+        "005764.webp",
+        "005791.webp",
+        "005819.webp",
+        "005820.webp",
+        "005841.webp",
+        "005863.webp",
+        "005864.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Chúng ta thả vào trong đây để nhẹ xuống rồi chúng ta sẽ làm tiếp, bỏ vô đây như vậy, thả vô mình để một chút là mình hãy thả ra anh ha?",
+      "start": 234.64,
+      "end": 247.2,
+      "n_words": 33,
+      "start_frame": 5866,
+      "end_frame": 6180,
+      "keyframes": [
+        "005926.webp",
+        "005989.webp",
+        "005990.webp",
+        "006013.webp",
+        "006037.webp",
+        "006038.webp",
+        "006059.webp",
+        "006080.webp",
+        "006081.webp",
+        "006129.webp",
+        "006177.webp",
+        "006178.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Đúng, tại vì mình để vô luôn là nó bị dẹp, gà của mình lại nó không có được tròn đẹp.",
+      "start": 247.2,
+      "end": 250.84,
+      "n_words": 21,
+      "start_frame": 6180,
+      "end_frame": 6271,
+      "keyframes": [
+        "006235.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đúng rồi, để cho cánh gà chúng ta được chín vàng đều và không bị ngấm dầu thì chúng ta nhớ một điều duy trì cái nhiệt độ luôn luôn ổn định trong suốt quá trình chúng ta chiên nha các bạn nha.",
+      "start": 250.84,
+      "end": 261.76,
+      "n_words": 43,
+      "start_frame": 6271,
+      "end_frame": 6544,
+      "keyframes": [
+        "006293.webp",
+        "006294.webp",
+        "006327.webp",
+        "006360.webp",
+        "006361.webp",
+        "006391.webp",
+        "006422.webp",
+        "006423.webp",
+        "006479.webp",
+        "006536.webp",
+        "006537.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Rồi được rồi đó Tuấn ơi, đó cái này đó.",
+      "start": 261.76,
+      "end": 267.0,
+      "n_words": 10,
+      "start_frame": 6544,
+      "end_frame": 6675,
+      "keyframes": [
+        "006563.webp",
+        "006589.webp",
+        "006590.webp",
+        "006632.webp",
+        "006674.webp",
+        "006675.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi cái món ăn vừa quyến rũ mà vừa đẹp nữa, rất đẹp.",
+      "start": 267.0,
+      "end": 272.92,
+      "n_words": 13,
+      "start_frame": 6675,
+      "end_frame": 6823,
+      "keyframes": [
+        "006675.webp",
+        "006725.webp",
+        "006776.webp",
+        "006777.webp",
+        "006801.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ngay bây giờ có một cái mã QR xuất hiện trên màn hình, mọi người quét mã này thì sẽ ra công thức nấu ăn của món ăn này chúng ta thực hiện ngay tại nhà mình.",
+      "start": 272.92,
+      "end": 280.2,
+      "n_words": 37,
+      "start_frame": 6823,
+      "end_frame": 7005,
+      "keyframes": [
+        "006826.webp",
+        "006827.webp",
+        "006849.webp",
+        "006872.webp",
+        "006873.webp",
+        "006887.webp",
+        "006902.webp",
+        "006903.webp",
+        "006950.webp",
+        "006997.webp",
+        "006998.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Ra dẻ cái lớn cái nhỏ, cái lớn cái nhỏ xen kẽ với nhau.",
+      "start": 280.2,
+      "end": 283.24,
+      "n_words": 14,
+      "start_frame": 7005,
+      "end_frame": 7081,
+      "keyframes": [
+        "007018.webp",
+        "007038.webp",
+        "007039.webp",
+        "007060.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Thế là chúng ta đã hoàn thành món cánh gà chiên dừa.",
+      "start": 283.24,
+      "end": 286.04,
+      "n_words": 12,
+      "start_frame": 7081,
+      "end_frame": 7151,
+      "keyframes": [
+        "007082.webp",
+        "007083.webp",
+        "007098.webp",
+        "007114.webp",
+        "007115.webp",
+        "007142.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta ăn kèm với lại dưa chuột ngâm giấm là số một luôn các bạn.",
+      "start": 286.04,
+      "end": 289.72,
+      "n_words": 16,
+      "start_frame": 7151,
+      "end_frame": 7243,
+      "keyframes": [
+        "007170.webp",
+        "007171.webp",
+        "007202.webp",
+        "007234.webp",
+        "007235.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Phần cánh gà chiên xù bám như vụn dừa sấy, những vụn dừa sấy vàng giòn bên ngoài, bên trong ngọt thịt, béo béo từ dừa, có một chút cay cay, chua chua từ sốt chấm, cùng lạ miệng ngon bất ngờ.",
+      "start": 289.72,
+      "end": 301.32,
+      "n_words": 42,
+      "start_frame": 7243,
+      "end_frame": 7533,
+      "keyframes": [
+        "007277.webp",
+        "007320.webp",
+        "007335.webp",
+        "007360.webp",
+        "007386.webp",
+        "007387.webp",
+        "007462.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Một món ăn cực kỳ tinh tế, đẹp mắt, sang trọng mà lại còn rất dễ làm tại nhà.",
+      "start": 301.32,
+      "end": 306.28,
+      "n_words": 19,
+      "start_frame": 7533,
+      "end_frame": 7657,
+      "keyframes": [
+        "007537.webp",
+        "007538.webp",
+        "007597.webp",
+        "007657.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Các bạn cần công thức thì hãy truy cập vào những kênh rất quen thuộc của Món ngon mỗi ngày chính là YouTube, website và fanpage.",
+      "start": 306.28,
+      "end": 312.4,
+      "n_words": 26,
+      "start_frame": 7657,
+      "end_frame": 7810,
+      "keyframes": [
+        "007657.webp",
+        "007658.webp",
+        "007732.webp",
+        "007806.webp",
+        "007807.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúc các bạn thành công!",
+      "start": 312.4,
+      "end": 314.32,
+      "n_words": 5,
+      "start_frame": 7810,
+      "end_frame": 7858,
+      "keyframes": [
+        "007823.webp",
+        "007839.webp",
+        "007840.webp"
+      ],
+      "keyframe_count": 3
+    }
+  ]
+}

@@ -1,0 +1,891 @@
+{
+  "video_id": "L26_V493",
+  "fps": 25.0,
+  "n_sentences": 51,
+  "total_words": 1023,
+  "sentences": [
+    {
+      "text": "Bổ món ngon mỗi ngày.",
+      "start": 0.04,
+      "end": 12.08,
+      "n_words": 5,
+      "start_frame": 1,
+      "end_frame": 302,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000130.webp",
+        "000147.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000240.webp",
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 30
+    },
+    {
+      "text": "Ê, để tôi kiểm tra coi hôm nay trong tủ lạnh của đầu bếp có cái gì không ta?",
+      "start": 12.08,
+      "end": 16.68,
+      "n_words": 19,
+      "start_frame": 302,
+      "end_frame": 417,
+      "keyframes": [
+        "000356.webp",
+        "000412.webp",
+        "000413.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "À, cái này là cái gì vậy nhỉ?",
+      "start": 16.68,
+      "end": 21.36,
+      "n_words": 8,
+      "start_frame": 417,
+      "end_frame": 534,
+      "keyframes": [
+        "000464.webp",
+        "000516.webp",
+        "000517.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cái này, cái này là một cái loại thực phẩm chay, nó gọi là chân nấm. Chân nấm hả?",
+      "start": 21.36,
+      "end": 27.0,
+      "n_words": 19,
+      "start_frame": 534,
+      "end_frame": 675,
+      "keyframes": [
+        "000549.webp",
+        "000581.webp",
+        "000582.webp",
+        "000602.webp",
+        "000623.webp",
+        "000624.webp",
+        "000638.webp",
+        "000652.webp",
+        "000653.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đúng rồi, lần đầu tiên hà mới nghe luôn á.",
+      "start": 27.0,
+      "end": 28.8,
+      "n_words": 10,
+      "start_frame": 675,
+      "end_frame": 720,
+      "keyframes": [
+        "000685.webp",
+        "000718.webp",
+        "000719.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thật ra cái này là chân của nấm đông cô, sau đó người ta ngâm mềm nè, người ta dầm ra, người ta tẩm ướp gia vị và cấp đông.",
+      "start": 28.8,
+      "end": 36.32,
+      "n_words": 30,
+      "start_frame": 720,
+      "end_frame": 908,
+      "keyframes": [
+        "000763.webp",
+        "000808.webp",
+        "000809.webp",
+        "000841.webp",
+        "000874.webp",
+        "000875.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Mà cái này nó bán rất là nhiều ở các cửa hàng thực phẩm chay.",
+      "start": 36.32,
+      "end": 39.24,
+      "n_words": 15,
+      "start_frame": 908,
+      "end_frame": 981,
+      "keyframes": [
+        "000928.webp",
+        "000981.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cái nguyên liệu này mà nấu canh thì tuyệt vời.",
+      "start": 39.24,
+      "end": 42.4,
+      "n_words": 10,
+      "start_frame": 981,
+      "end_frame": 1060,
+      "keyframes": [
+        "000981.webp",
+        "000982.webp",
+        "001008.webp",
+        "001034.webp",
+        "001035.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Có nghĩa là hôm nay sẽ có người hướng dẫn cho chúng ta một món canh đặc biệt đúng không?",
+      "start": 42.4,
+      "end": 46.08,
+      "n_words": 20,
+      "start_frame": 1060,
+      "end_frame": 1152,
+      "keyframes": [
+        "001091.webp",
+        "001147.webp",
+        "001148.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Biết ngay mà, ok, bổ dưỡng và ngọt lành với canh chân nấm táo đỏ. Chào các bạn khán giả của chương trình Món ngon mỗi ngày.",
+      "start": 46.08,
+      "end": 72.48,
+      "n_words": 27,
+      "start_frame": 1152,
+      "end_frame": 1812,
+      "keyframes": [
+        "001171.webp",
+        "001195.webp",
+        "001196.webp",
+        "001206.webp",
+        "001217.webp",
+        "001218.webp",
+        "001242.webp",
+        "001267.webp",
+        "001268.webp",
+        "001310.webp",
+        "001352.webp",
+        "001353.webp",
+        "001437.webp",
+        "001522.webp",
+        "001523.webp",
+        "001637.webp",
+        "001751.webp",
+        "001752.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 72.48,
+      "end": 76.24,
+      "n_words": 11,
+      "start_frame": 1812,
+      "end_frame": 1906,
+      "keyframes": [
+        "001831.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cái chân nấm này đầu bếp sẽ nói thêm nè, nếu mình không mua sẵn như thế này á thì cô ta có thể dùng chân nấm khô, sau đó cô ta về ngâm xong luộc mềm nó đi, dần dần ra xong cái mình tẩm ướp gia vị bữa ăn là mình cũng sẽ có chân nấm như thế này.",
+      "start": 76.24,
+      "end": 90.76,
+      "n_words": 61,
+      "start_frame": 1906,
+      "end_frame": 2269,
+      "keyframes": [
+        "001911.webp",
+        "001912.webp",
+        "001943.webp",
+        "001975.webp",
+        "001976.webp",
+        "002023.webp",
+        "002071.webp",
+        "002072.webp",
+        "002119.webp",
+        "002166.webp",
+        "002167.webp",
+        "002216.webp",
+        "002265.webp",
+        "002266.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "À là cái này người ta bán có hai loại, một khô với lại một loại người ta đã làm sẵn.",
+      "start": 90.76,
+      "end": 94.76,
+      "n_words": 21,
+      "start_frame": 2269,
+      "end_frame": 2369,
+      "keyframes": [
+        "002323.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đúng rồi, cái phần táo đỏ nè, táo đỏ cô ta cũng sẽ ngâm cho nó mềm nở như thế này.",
+      "start": 94.76,
+      "end": 99.88,
+      "n_words": 21,
+      "start_frame": 2369,
+      "end_frame": 2497,
+      "keyframes": [
+        "002381.webp",
+        "002382.webp",
+        "002418.webp",
+        "002455.webp",
+        "002456.webp",
+        "002477.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Nấm rơm thì mua về cắt gốc rửa sạch, sau đó mình sẽ khứa chữ thập như thế này.",
+      "start": 99.88,
+      "end": 104.8,
+      "n_words": 19,
+      "start_frame": 2497,
+      "end_frame": 2620,
+      "keyframes": [
+        "002499.webp",
+        "002500.webp",
+        "002530.webp",
+        "002560.webp",
+        "002561.webp",
+        "002597.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Biết cái tác dụng của khứa chữ thập không?",
+      "start": 104.8,
+      "end": 108.16,
+      "n_words": 9,
+      "start_frame": 2620,
+      "end_frame": 2704,
+      "keyframes": [
+        "002634.webp",
+        "002635.webp",
+        "002690.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Để cho gia vị được ngấm hơn. Chính xác!",
+      "start": 108.16,
+      "end": 110.52,
+      "n_words": 9,
+      "start_frame": 2704,
+      "end_frame": 2763,
+      "keyframes": [
+        "002746.webp",
+        "002747.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tưởng đâu nó đẹp nhưng mà nó thẩm mỹ đúng không?",
+      "start": 110.52,
+      "end": 113.84,
+      "n_words": 11,
+      "start_frame": 2763,
+      "end_frame": 2846,
+      "keyframes": [
+        "002796.webp",
+        "002846.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cà rốt chúng ta sẽ khứa hoa đó, xong rồi cải thảo chúng ta cũng sẽ cắt thành những lát xéo như thế này. Đơn giản không?",
+      "start": 113.84,
+      "end": 122.32,
+      "n_words": 27,
+      "start_frame": 2846,
+      "end_frame": 3058,
+      "keyframes": [
+        "002846.webp",
+        "002847.webp",
+        "002875.webp",
+        "002904.webp",
+        "002905.webp",
+        "002930.webp",
+        "002955.webp",
+        "002956.webp",
+        "002980.webp",
+        "003004.webp",
+        "003005.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Quá đơn giản luôn.",
+      "start": 122.32,
+      "end": 123.48,
+      "n_words": 4,
+      "start_frame": 3058,
+      "end_frame": 3087,
+      "keyframes": [
+        "003073.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đây là một món canh rất là thanh mát.",
+      "start": 123.48,
+      "end": 126.4,
+      "n_words": 9,
+      "start_frame": 3087,
+      "end_frame": 3160,
+      "keyframes": [
+        "003142.webp",
+        "003143.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Xong cái phần cải thảo, hành bo rô cắt thành những lát xéo như thế này.",
+      "start": 126.4,
+      "end": 130.6,
+      "n_words": 16,
+      "start_frame": 3160,
+      "end_frame": 3265,
+      "keyframes": [
+        "003176.webp",
+        "003210.webp",
+        "003211.webp",
+        "003237.webp",
+        "003264.webp",
+        "003265.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Lưu ý chúng ta cắt phần gốc riêng để chúng ta chút nữa xào nấm, còn cái phần lá chút nữa chúng ta sẽ làm rau nêm.",
+      "start": 130.6,
+      "end": 136.0,
+      "n_words": 27,
+      "start_frame": 3265,
+      "end_frame": 3400,
+      "keyframes": [
+        "003265.webp",
+        "003298.webp",
+        "003332.webp",
+        "003333.webp",
+        "003363.webp",
+        "003394.webp",
+        "003395.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Phần lá này và phần gốc nè, cái rau quế này chúng ta sẽ làm rau nêm cho canh.",
+      "start": 136.0,
+      "end": 143.2,
+      "n_words": 19,
+      "start_frame": 3400,
+      "end_frame": 3580,
+      "keyframes": [
+        "003412.webp",
+        "003430.webp",
+        "003431.webp",
+        "003432.webp",
+        "003433.webp",
+        "003434.webp",
+        "003453.webp",
+        "003472.webp",
+        "003473.webp",
+        "003507.webp",
+        "003541.webp",
+        "003542.webp",
+        "003560.webp",
+        "003578.webp",
+        "003579.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Rồi chúng ta sẽ đặt cái nồi lên để nấu canh.",
+      "start": 143.2,
+      "end": 146.04,
+      "n_words": 11,
+      "start_frame": 3580,
+      "end_frame": 3651,
+      "keyframes": [
+        "003614.webp",
+        "003649.webp",
+        "003650.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Sau khi nồi nóng thì đầu bếp sẽ cho vào đây một ít dầu ăn, chúng ta sẽ cho cái phần gốc của hành bo rô vào này.",
+      "start": 146.04,
+      "end": 152.64,
+      "n_words": 28,
+      "start_frame": 3651,
+      "end_frame": 3816,
+      "keyframes": [
+        "003664.webp",
+        "003679.webp",
+        "003680.webp",
+        "003702.webp",
+        "003724.webp",
+        "003725.webp",
+        "003772.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Rồi sau khi hành bo rô dậy cái mùi thơm á thì đầu bếp sẽ cho chân nấm vào, nấm tiếp tục chúng ta sẽ xào.",
+      "start": 152.64,
+      "end": 161.12,
+      "n_words": 26,
+      "start_frame": 3816,
+      "end_frame": 4028,
+      "keyframes": [
+        "003819.webp",
+        "003820.webp",
+        "003857.webp",
+        "003894.webp",
+        "003895.webp",
+        "003923.webp",
+        "003952.webp",
+        "003953.webp",
+        "003971.webp",
+        "003989.webp",
+        "003990.webp",
+        "004010.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Chúng ta sẽ nêm vào đây một muỗng cà phê muối, một muỗng canh hạt nêm Aji-ngon từ nấm hương bạc sen và cuối cùng là một muỗng canh nước tương Phú Sĩ.",
+      "start": 161.12,
+      "end": 168.04,
+      "n_words": 33,
+      "start_frame": 4028,
+      "end_frame": 4201,
+      "keyframes": [
+        "004031.webp",
+        "004032.webp",
+        "004044.webp",
+        "004057.webp",
+        "004058.webp",
+        "004070.webp",
+        "004082.webp",
+        "004083.webp",
+        "004096.webp",
+        "004110.webp",
+        "004111.webp",
+        "004128.webp",
+        "004146.webp",
+        "004147.webp",
+        "004157.webp",
+        "004168.webp",
+        "004169.webp",
+        "004200.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Các bạn khán giả lưu ý cái việc cho nước tương Phú Sĩ vào khi xào tạo nên cái hương vị thơm cho món ăn.",
+      "start": 168.04,
+      "end": 173.12,
+      "n_words": 25,
+      "start_frame": 4201,
+      "end_frame": 4328,
+      "keyframes": [
+        "004231.webp",
+        "004232.webp",
+        "004279.webp",
+        "004326.webp",
+        "004327.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đã đều, tiếp đến đầu bếp sẽ cho vào, đầu bếp sẽ cho vào đây 500 ml nước dừa và 700 ml nước lọc.",
+      "start": 173.12,
+      "end": 180.92,
+      "n_words": 24,
+      "start_frame": 4328,
+      "end_frame": 4523,
+      "keyframes": [
+        "004346.webp",
+        "004366.webp",
+        "004367.webp",
+        "004387.webp",
+        "004408.webp",
+        "004409.webp",
+        "004441.webp",
+        "004473.webp",
+        "004474.webp",
+        "004509.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Để mọi người biết tại sao mình phải xào nấm rơm trước khi mà mình nấu canh không?",
+      "start": 180.92,
+      "end": 185.08,
+      "n_words": 18,
+      "start_frame": 4523,
+      "end_frame": 4627,
+      "keyframes": [
+        "004544.webp",
+        "004545.webp",
+        "004584.webp",
+        "004624.webp",
+        "004625.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cái việc chúng ta xào chân nấm và nấm rơm để giúp cho nó thấm gia vị hơn.",
+      "start": 185.08,
+      "end": 189.04,
+      "n_words": 18,
+      "start_frame": 4627,
+      "end_frame": 4726,
+      "keyframes": [
+        "004676.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta tiếp tục cho cái phần táo đỏ nè, cà rốt và cải thảo vào nè.",
+      "start": 189.04,
+      "end": 192.2,
+      "n_words": 17,
+      "start_frame": 4726,
+      "end_frame": 4805,
+      "keyframes": [
+        "004727.webp",
+        "004728.webp",
+        "004750.webp",
+        "004772.webp",
+        "004773.webp",
+        "004788.webp",
+        "004804.webp",
+        "004805.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Hồi nãy ha, cô ta để ý thấy là đầu bếp có bỏ nước dừa vô đây, chắc là để cho nó có một cái vị gì đó đặc biệt của món canh đúng không?",
+      "start": 192.2,
+      "end": 199.16,
+      "n_words": 35,
+      "start_frame": 4805,
+      "end_frame": 4979,
+      "keyframes": [
+        "004805.webp",
+        "004830.webp",
+        "004856.webp",
+        "004857.webp",
+        "004917.webp",
+        "004977.webp",
+        "004978.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Chúng ta dùng nước dừa tươi để tạo thêm cái vị ngọt thanh cho món canh.",
+      "start": 199.16,
+      "end": 203.44,
+      "n_words": 16,
+      "start_frame": 4979,
+      "end_frame": 5086,
+      "keyframes": [
+        "005032.webp",
+        "005086.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ mình sẽ dùng vá nè, gặn bớt cái phần bọt nổi lên trên nè để cho món canh chúng ta trong hơn, hấp dẫn hơn.",
+      "start": 203.44,
+      "end": 210.76,
+      "n_words": 27,
+      "start_frame": 5086,
+      "end_frame": 5269,
+      "keyframes": [
+        "005086.webp",
+        "005087.webp",
+        "005141.webp",
+        "005196.webp",
+        "005197.webp",
+        "005236.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đó quý vị khán giả biết không, nấm rơm nè có tác dụng là giải nhiệt nè, lại còn tăng thêm sức đề kháng cho cơ thể nữa và rất là phù hợp cho những món ăn nấu trong mùa hè này.",
+      "start": 210.76,
+      "end": 220.92,
+      "n_words": 42,
+      "start_frame": 5269,
+      "end_frame": 5523,
+      "keyframes": [
+        "005276.webp",
+        "005277.webp",
+        "005335.webp",
+        "005393.webp",
+        "005394.webp",
+        "005457.webp",
+        "005521.webp",
+        "005522.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Sau khi đầu bếp cho táo đỏ nè, cà rốt nè và cải thảo vào, đầu bếp sẽ nấu năm phút thì món canh chúng ta vừa chín tới.",
+      "start": 220.92,
+      "end": 226.8,
+      "n_words": 29,
+      "start_frame": 5523,
+      "end_frame": 5670,
+      "keyframes": [
+        "005553.webp",
+        "005584.webp",
+        "005585.webp",
+        "005641.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ đầu bếp sẽ tắt lửa và chúng ta sẽ cho cái phần rau nêm vào: lá quế và lá hành bo rô cắt nhỏ.",
+      "start": 226.8,
+      "end": 232.84,
+      "n_words": 26,
+      "start_frame": 5670,
+      "end_frame": 5821,
+      "keyframes": [
+        "005698.webp",
+        "005699.webp",
+        "005759.webp",
+        "005820.webp",
+        "005821.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Như vậy là món canh chúng ta đã hoàn thành.",
+      "start": 232.84,
+      "end": 236.4,
+      "n_words": 10,
+      "start_frame": 5821,
+      "end_frame": 5910,
+      "keyframes": [
+        "005821.webp",
+        "005842.webp",
+        "005864.webp",
+        "005865.webp",
+        "005889.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ đầu bếp sẽ hướng dẫn các bạn cùng trình bày món canh.",
+      "start": 236.4,
+      "end": 240.04,
+      "n_words": 14,
+      "start_frame": 5910,
+      "end_frame": 6001,
+      "keyframes": [
+        "005914.webp",
+        "005915.webp",
+        "005957.webp",
+        "005999.webp",
+        "006000.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nó thơm quá ha, trông hấp dẫn vô cùng.",
+      "start": 240.04,
+      "end": 242.96,
+      "n_words": 9,
+      "start_frame": 6001,
+      "end_frame": 6074,
+      "keyframes": [
+        "006024.webp",
+        "006048.webp",
+        "006049.webp",
+        "006064.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Để cho một ít hành bo rô phiền đó, một cọng lá quế, cuối cùng là một ít tiêu sọ.",
+      "start": 242.96,
+      "end": 249.24,
+      "n_words": 20,
+      "start_frame": 6074,
+      "end_frame": 6231,
+      "keyframes": [
+        "006079.webp",
+        "006080.webp",
+        "006102.webp",
+        "006125.webp",
+        "006126.webp",
+        "006140.webp",
+        "006154.webp",
+        "006155.webp",
+        "006192.webp",
+        "006230.webp",
+        "006231.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Như vậy là món canh nấm táo đỏ dành cho những ngày oi bức đã hoàn thành.",
+      "start": 249.24,
+      "end": 253.88,
+      "n_words": 17,
+      "start_frame": 6231,
+      "end_frame": 6347,
+      "keyframes": [
+        "006231.webp",
+        "006259.webp",
+        "006288.webp",
+        "006289.webp",
+        "006333.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ đầu bếp sẽ mời hai cô ta dùng thử sau đó đánh giá cho các bạn khán giả xem nha.",
+      "start": 253.88,
+      "end": 258.96,
+      "n_words": 22,
+      "start_frame": 6347,
+      "end_frame": 6474,
+      "keyframes": [
+        "006378.webp",
+        "006379.webp",
+        "006404.webp",
+        "006430.webp",
+        "006431.webp",
+        "006451.webp",
+        "006471.webp",
+        "006472.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Khách quý mời dùng thử đó.",
+      "start": 258.96,
+      "end": 263.92,
+      "n_words": 6,
+      "start_frame": 6474,
+      "end_frame": 6598,
+      "keyframes": [
+        "006537.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Công nhận với các bạn là món canh chân nấm táo đỏ này quả thực rất là đặc biệt, bởi vì chân nấm giòn giòn sần sật và còn ngấm gia vị do đầu bếp của chúng ta đã xào trước rồi nè.",
+      "start": 263.92,
+      "end": 274.68,
+      "n_words": 43,
+      "start_frame": 6598,
+      "end_frame": 6867,
+      "keyframes": [
+        "006603.webp",
+        "006604.webp",
+        "006643.webp",
+        "006683.webp",
+        "006684.webp",
+        "006758.webp",
+        "006832.webp",
+        "006833.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúc cho mọi người sẽ có một bữa cơm thật là ngon với món ăn này nha.",
+      "start": 274.68,
+      "end": 278.08,
+      "n_words": 17,
+      "start_frame": 6867,
+      "end_frame": 6952,
+      "keyframes": [
+        "006886.webp",
+        "006939.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nước canh thanh trong, đậm đà, thơm thơm từ lá quế và dư vị dịu mát từ nước dừa, táo đỏ, cải thảo quyện vào chân nấm ngọt giòn.",
+      "start": 278.08,
+      "end": 287.4,
+      "n_words": 29,
+      "start_frame": 6952,
+      "end_frame": 7185,
+      "keyframes": [
+        "006957.webp",
+        "006974.webp",
+        "006991.webp",
+        "007009.webp",
+        "007054.webp",
+        "007100.webp",
+        "007101.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Một món ăn đầy đủ sắc hương vị hài hòa đến ngất ngây, vừa bổ dưỡng vừa thanh mát.",
+      "start": 287.4,
+      "end": 293.28,
+      "n_words": 19,
+      "start_frame": 7185,
+      "end_frame": 7332,
+      "keyframes": [
+        "007206.webp",
+        "007312.webp",
+        "007313.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hãy làm thử món canh chân nấm táo đỏ tại nhà ngay nhé các bạn.",
+      "start": 293.28,
+      "end": 297.04,
+      "n_words": 15,
+      "start_frame": 7332,
+      "end_frame": 7426,
+      "keyframes": [
+        "007361.webp",
+        "007409.webp",
+        "007410.webp"
+      ],
+      "keyframe_count": 3
+    }
+  ]
+}

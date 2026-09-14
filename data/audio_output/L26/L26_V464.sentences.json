@@ -1,0 +1,765 @@
+{
+  "video_id": "L26_V464",
+  "fps": 25.0,
+  "n_sentences": 43,
+  "total_words": 1109,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.52,
+      "end": 12.64,
+      "n_words": 4,
+      "start_frame": 263,
+      "end_frame": 316,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Dạ vâng, chào Minh Tuấn Phương.",
+      "start": 12.64,
+      "end": 14.32,
+      "n_words": 6,
+      "start_frame": 316,
+      "end_frame": 358,
+      "keyframes": [
+        "000325.webp",
+        "000351.webp",
+        "000352.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Có thấy là dạo này thời tiết nó bất thường không?",
+      "start": 14.32,
+      "end": 16.24,
+      "n_words": 11,
+      "start_frame": 358,
+      "end_frame": 406,
+      "keyframes": [
+        "000377.webp",
+        "000403.webp",
+        "000404.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng rồi đó, lúc nắng lúc mưa, lúc nóng lúc mát, lúc oi, nói chung là nó có cái gì làm mình khó chịu?",
+      "start": 16.24,
+      "end": 23.72,
+      "n_words": 24,
+      "start_frame": 406,
+      "end_frame": 593,
+      "keyframes": [
+        "000434.webp",
+        "000464.webp",
+        "000465.webp",
+        "000529.webp",
+        "000593.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thời tiết thất thường nhưng mà mình không có ăn uống thất thường là tốt rồi.",
+      "start": 23.72,
+      "end": 26.6,
+      "n_words": 16,
+      "start_frame": 593,
+      "end_frame": 665,
+      "keyframes": [
+        "000593.webp",
+        "000594.webp",
+        "000633.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng, nhưng mà Minh Tuấn thấy là giữa cái thời tiết mà nó bất thường, nó khó chịu như vậy thì Phước Hưng phải làm một cái món ăn gì đó mà nó thật phi thường để mình cứu lại thời tiết được chứ?",
+      "start": 26.6,
+      "end": 35.0,
+      "n_words": 44,
+      "start_frame": 665,
+      "end_frame": 875,
+      "keyframes": [
+        "000673.webp",
+        "000674.webp",
+        "000699.webp",
+        "000725.webp",
+        "000726.webp",
+        "000777.webp",
+        "000829.webp",
+        "000830.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Hiện giờ là mình đang ảnh hưởng của cái nóng của mùa hè nè, Phước Hưng sẽ hướng dẫn cho Minh Tuấn một cái món ăn tới đâu mát tới đó mà lại đầy đủ chất dinh dưỡng nữa.",
+      "start": 35.0,
+      "end": 42.92,
+      "n_words": 39,
+      "start_frame": 875,
+      "end_frame": 1073,
+      "keyframes": [
+        "000927.webp",
+        "001024.webp",
+        "001025.webp",
+        "001065.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Mát là đẹp da là khỏe, vô làm thôi!",
+      "start": 42.92,
+      "end": 49.04,
+      "n_words": 9,
+      "start_frame": 1073,
+      "end_frame": 1226,
+      "keyframes": [
+        "001105.webp",
+        "001106.webp",
+        "001139.webp",
+        "001172.webp",
+        "001173.webp",
+        "001197.webp",
+        "001222.webp",
+        "001223.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Thanh ngọt đậm đà với bánh canh vịt.",
+      "start": 49.04,
+      "end": 67.92,
+      "n_words": 8,
+      "start_frame": 1226,
+      "end_frame": 1698,
+      "keyframes": [
+        "001260.webp",
+        "001297.webp",
+        "001298.webp",
+        "001330.webp",
+        "001362.webp",
+        "001382.webp",
+        "001449.webp",
+        "001517.webp",
+        "001518.webp",
+        "001607.webp",
+        "001696.webp",
+        "001697.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Chào các bạn đang đến với chương trình Món ngon mỗi ngày, chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 67.92,
+      "end": 73.84,
+      "n_words": 23,
+      "start_frame": 1698,
+      "end_frame": 1846,
+      "keyframes": [
+        "001772.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Vịt thì khi mà quý vị mua về thì chúng ta sẽ xát với lại gừng và rượu cho thật là sạch.",
+      "start": 73.84,
+      "end": 78.28,
+      "n_words": 22,
+      "start_frame": 1846,
+      "end_frame": 1957,
+      "keyframes": [
+        "001847.webp",
+        "001848.webp",
+        "001873.webp",
+        "001898.webp",
+        "001899.webp",
+        "001927.webp",
+        "001955.webp",
+        "001956.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Ở đây Phước Hưng cũng đã làm xong luôn, bây giờ thì Phước Hưng sẽ ướp gia vị vào đây.",
+      "start": 78.28,
+      "end": 81.92,
+      "n_words": 20,
+      "start_frame": 1957,
+      "end_frame": 2048,
+      "keyframes": [
+        "001974.webp",
+        "001993.webp",
+        "001994.webp",
+        "002021.webp",
+        "002048.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đối với món ăn ngày hôm nay thì Phước Hưng sẽ sử dụng củ nén giã nhuyễn để cho củ nén ra tinh dầu, để giúp cho món ăn tạo được hương thơm đặc trưng.",
+      "start": 81.92,
+      "end": 88.76,
+      "n_words": 35,
+      "start_frame": 2048,
+      "end_frame": 2219,
+      "keyframes": [
+        "002048.webp",
+        "002049.webp",
+        "002093.webp",
+        "002137.webp",
+        "002138.webp",
+        "002179.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Phước Hưng sẽ sử dụng một phần hai lượng củ nén mà chúng ta đã giã nhuyễn và một phần hai lượng hành tím giã nhuyễn luôn.",
+      "start": 88.76,
+      "end": 94.76,
+      "n_words": 27,
+      "start_frame": 2219,
+      "end_frame": 2369,
+      "keyframes": [
+        "002220.webp",
+        "002221.webp",
+        "002262.webp",
+        "002303.webp",
+        "002304.webp",
+        "002338.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và Hưng sẽ nêm gia vị vào đây: một muỗng cà phê hạt nêm Aji-ngon heo, một muỗng cà phê bột ngọt Ajinomoto và nửa muỗng cà phê tiêu cho vào đây, một muỗng cà phê ớt bột.",
+      "start": 94.76,
+      "end": 105.72,
+      "n_words": 38,
+      "start_frame": 2369,
+      "end_frame": 2643,
+      "keyframes": [
+        "002372.webp",
+        "002373.webp",
+        "002391.webp",
+        "002409.webp",
+        "002410.webp",
+        "002442.webp",
+        "002474.webp",
+        "002475.webp",
+        "002505.webp",
+        "002535.webp",
+        "002536.webp",
+        "002545.webp",
+        "002554.webp",
+        "002555.webp",
+        "002576.webp",
+        "002598.webp",
+        "002599.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Đối với món ăn ngày hôm nay thì chúng ta sẽ sử dụng dầu màu điều để ướp vào trong thịt vịt để giúp cho món ăn tạo thêm màu sắc đẹp nè và hương vị thơm ngon hơn.",
+      "start": 105.72,
+      "end": 113.2,
+      "n_words": 39,
+      "start_frame": 2643,
+      "end_frame": 2830,
+      "keyframes": [
+        "002666.webp",
+        "002734.webp",
+        "002735.webp",
+        "002783.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Mà Hưng nghĩ là vì thịt vịt thì nó rất là béo, nhiều mỡ nên là nó có cái độ cay đi kèm, cay đi kèm là nó cân bằng tạo ra cái món ăn nó ngon hơn.",
+      "start": 113.2,
+      "end": 120.08,
+      "n_words": 38,
+      "start_frame": 2830,
+      "end_frame": 3002,
+      "keyframes": [
+        "002832.webp",
+        "002833.webp",
+        "002916.webp",
+        "002999.webp",
+        "003000.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ Phước Hưng sẽ trộn đều lên.",
+      "start": 120.08,
+      "end": 121.36,
+      "n_words": 8,
+      "start_frame": 3002,
+      "end_frame": 3034,
+      "keyframes": [
+        "003027.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Phần nấm rơm thì khi mà các bạn mua về thì chúng ta sẽ rửa sạch và chúng ta cắt bỏ cái phần gốc đi.",
+      "start": 121.36,
+      "end": 125.84,
+      "n_words": 25,
+      "start_frame": 3034,
+      "end_frame": 3146,
+      "keyframes": [
+        "003054.webp",
+        "003055.webp",
+        "003089.webp",
+        "003123.webp",
+        "003124.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và bây giờ Minh Tuấn giúp giùm cắt phần chữ thập bên trên, thì cái hình chữ thập này giúp cho món ăn của mình lại được đẹp nè và lại thấm gia vị vào cái nấm nữa.",
+      "start": 125.84,
+      "end": 133.36,
+      "n_words": 38,
+      "start_frame": 3146,
+      "end_frame": 3334,
+      "keyframes": [
+        "003184.webp",
+        "003244.webp",
+        "003245.webp",
+        "003263.webp",
+        "003282.webp",
+        "003283.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi, trong khi mà Minh Tuấn đang sơ chế phần nấm rơm thì Phước Hưng sẽ hướng dẫn cho quý vị tiếp theo, thì chúng ta sẽ tỉa cái phần củ cải trắng này.",
+      "start": 133.36,
+      "end": 140.04,
+      "n_words": 34,
+      "start_frame": 3334,
+      "end_frame": 3501,
+      "keyframes": [
+        "003360.webp",
+        "003437.webp",
+        "003438.webp",
+        "003441.webp",
+        "003444.webp",
+        "003445.webp",
+        "003459.webp",
+        "003474.webp",
+        "003475.webp",
+        "003487.webp",
+        "003499.webp",
+        "003500.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Sau khi mà quý vị tỉa bông xong thì bây giờ chúng ta sẽ cắt lát dày.",
+      "start": 140.04,
+      "end": 146.84,
+      "n_words": 17,
+      "start_frame": 3501,
+      "end_frame": 3671,
+      "keyframes": [
+        "003514.webp",
+        "003529.webp",
+        "003530.webp",
+        "003552.webp",
+        "003575.webp",
+        "003576.webp",
+        "003605.webp",
+        "003634.webp",
+        "003635.webp",
+        "003656.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Phần hành lá và rau răm thì bây giờ Phước Hưng sẽ cắt nhuyễn để chúng ta nêm vào phần bánh canh rồi.",
+      "start": 146.84,
+      "end": 151.32,
+      "n_words": 23,
+      "start_frame": 3671,
+      "end_frame": 3783,
+      "keyframes": [
+        "003677.webp",
+        "003678.webp",
+        "003701.webp",
+        "003725.webp",
+        "003726.webp",
+        "003743.webp",
+        "003761.webp",
+        "003762.webp",
+        "003778.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Như vậy là những cái nguyên liệu kia là Phước Hưng cũng sơ chế xong, nấm rơm thì Minh Tuấn cũng đã vẽ hình chữ thập ở trên đầu rồi. Cảm ơn Minh Tuấn.",
+      "start": 151.32,
+      "end": 157.08,
+      "n_words": 34,
+      "start_frame": 3783,
+      "end_frame": 3927,
+      "keyframes": [
+        "003795.webp",
+        "003796.webp",
+        "003812.webp",
+        "003829.webp",
+        "003830.webp",
+        "003879.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ Phước sẽ đặt lên trên bếp một cái nồi để chúng ta nấu bánh canh, cho vào đây khoảng hai muỗng canh dầu ăn cho cái phần hành tím giã nhuyễn cũng như là củ nén giã nhuyễn cho vào luôn, và bây giờ chúng ta sẽ phi thơm.",
+      "start": 157.08,
+      "end": 168.96,
+      "n_words": 51,
+      "start_frame": 3927,
+      "end_frame": 4224,
+      "keyframes": [
+        "003929.webp",
+        "003930.webp",
+        "003976.webp",
+        "004023.webp",
+        "004024.webp",
+        "004045.webp",
+        "004066.webp",
+        "004067.webp",
+        "004114.webp",
+        "004162.webp",
+        "004163.webp",
+        "004197.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Bây giờ thì phần củ nén cũng đã thơm rồi, cho hết cái phần thịt vịt mà mình đã ướp vào đây luôn và bây giờ Phước Hưng sẽ xào cho thật là săn và thấm gia vị.",
+      "start": 168.96,
+      "end": 177.88,
+      "n_words": 38,
+      "start_frame": 4224,
+      "end_frame": 4447,
+      "keyframes": [
+        "004231.webp",
+        "004232.webp",
+        "004259.webp",
+        "004287.webp",
+        "004288.webp",
+        "004328.webp",
+        "004369.webp",
+        "004370.webp",
+        "004400.webp",
+        "004431.webp",
+        "004432.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Đúng rồi, mới xào rồi mà quá thơm luôn á!",
+      "start": 177.88,
+      "end": 181.12,
+      "n_words": 10,
+      "start_frame": 4447,
+      "end_frame": 4528,
+      "keyframes": [
+        "004472.webp",
+        "004513.webp",
+        "004514.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng rồi, bây giờ Hưng sẽ cho nước sôi vào nè.",
+      "start": 181.12,
+      "end": 183.28,
+      "n_words": 11,
+      "start_frame": 4528,
+      "end_frame": 4582,
+      "keyframes": [
+        "004541.webp",
+        "004568.webp",
+        "004569.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đó, chúng ta sẽ cho vào đây một lít rưỡi.",
+      "start": 183.28,
+      "end": 185.6,
+      "n_words": 10,
+      "start_frame": 4582,
+      "end_frame": 4640,
+      "keyframes": [
+        "004605.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trong nồi cũng đã sôi trở lại rồi, sẽ cho phần củ cải trắng vào và nấm rơm vào và chúng ta lại nấu tiếp tục để cho củ cải trắng và nấm rơm được ra nước ngọt.",
+      "start": 185.6,
+      "end": 194.2,
+      "n_words": 38,
+      "start_frame": 4640,
+      "end_frame": 4855,
+      "keyframes": [
+        "004642.webp",
+        "004643.webp",
+        "004661.webp",
+        "004679.webp",
+        "004680.webp",
+        "004698.webp",
+        "004717.webp",
+        "004718.webp",
+        "004788.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Bây giờ thì phần nước lèo cũng đã sôi rồi, chúng ta sẽ nêm gia vị vào đây: cho vào đây là một muỗng canh hạt nêm Aji-ngon heo và hai muỗng cà phê bột ngọt Ajinomoto, một muỗng cà phê đường.",
+      "start": 194.2,
+      "end": 204.92,
+      "n_words": 42,
+      "start_frame": 4855,
+      "end_frame": 5123,
+      "keyframes": [
+        "004858.webp",
+        "004859.webp",
+        "004880.webp",
+        "004902.webp",
+        "004903.webp",
+        "004920.webp",
+        "004938.webp",
+        "004939.webp",
+        "004949.webp",
+        "004960.webp",
+        "004961.webp",
+        "004989.webp",
+        "005017.webp",
+        "005018.webp",
+        "005052.webp",
+        "005087.webp",
+        "005088.webp",
+        "005106.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Phước Hưng cũng đã nêm đầy đủ gia vị vào trong nồi bánh canh rồi, bây giờ chúng ta sẽ cho phần bánh canh bột gạo vào trong đây luôn để nấu trực tiếp.",
+      "start": 204.92,
+      "end": 211.4,
+      "n_words": 34,
+      "start_frame": 5123,
+      "end_frame": 5285,
+      "keyframes": [
+        "005125.webp",
+        "005126.webp",
+        "005163.webp",
+        "005200.webp",
+        "005201.webp",
+        "005230.webp",
+        "005260.webp",
+        "005261.webp",
+        "005272.webp",
+        "005284.webp",
+        "005285.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Món bánh canh ngày hôm nay thì chúng ta sẽ cho trực tiếp vào nồi nấu luôn để giúp cho món ăn thấm vị và ngon hơn.",
+      "start": 211.4,
+      "end": 216.6,
+      "n_words": 27,
+      "start_frame": 5285,
+      "end_frame": 5415,
+      "keyframes": [
+        "005285.webp",
+        "005307.webp",
+        "005329.webp",
+        "005330.webp",
+        "005372.webp",
+        "005415.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Theo cái tưởng tượng của Minh Tuấn là nếu mà cho bánh canh bột gạo vào trực tiếp như vậy luôn á thì cái phần nước của mình chắc nó sẽ sệt sệt lại đúng không?",
+      "start": 216.6,
+      "end": 222.56,
+      "n_words": 36,
+      "start_frame": 5415,
+      "end_frame": 5564,
+      "keyframes": [
+        "005415.webp",
+        "005416.webp",
+        "005480.webp",
+        "005545.webp",
+        "005546.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chính xác luôn đó Minh Tuấn.",
+      "start": 222.56,
+      "end": 224.32,
+      "n_words": 6,
+      "start_frame": 5564,
+      "end_frame": 5608,
+      "keyframes": [
+        "005589.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đó, bây giờ chúng ta sẽ để nguyên vậy giá và chúng ta sẽ nấu với lửa vừa thôi nha, chúng ta đừng nấu với lửa lớn quá.",
+      "start": 224.32,
+      "end": 229.88,
+      "n_words": 28,
+      "start_frame": 5608,
+      "end_frame": 5747,
+      "keyframes": [
+        "005632.webp",
+        "005633.webp",
+        "005689.webp",
+        "005746.webp",
+        "005747.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ thì phần bánh canh cũng đã chín rồi, cuối cùng Phước Hưng sẽ nêm vào đây một muỗng cà phê nước mắm để tăng thêm hương vị cho món ăn, cho vô đây một ít hành lá và rau răm cắt nhỏ nữa nè.",
+      "start": 229.88,
+      "end": 239.16,
+      "n_words": 46,
+      "start_frame": 5747,
+      "end_frame": 5979,
+      "keyframes": [
+        "005747.webp",
+        "005779.webp",
+        "005811.webp",
+        "005812.webp",
+        "005854.webp",
+        "005897.webp",
+        "005898.webp",
+        "005935.webp",
+        "005972.webp",
+        "005973.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Rồi, làm như vậy là chúng ta tắt bếp, món canh đã xong, mình sẽ bưng qua đây và mình sẽ trang trí đồ ăn rồi.",
+      "start": 239.16,
+      "end": 248.0,
+      "n_words": 26,
+      "start_frame": 5979,
+      "end_frame": 6200,
+      "keyframes": [
+        "006012.webp",
+        "006051.webp",
+        "006052.webp",
+        "006076.webp",
+        "006101.webp",
+        "006102.webp",
+        "006150.webp",
+        "006198.webp",
+        "006199.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Trời, chúng ta sẽ cho bánh canh vào nè, cuối cùng Hưng sẽ cho lên đây một ít rau răm nè để trang trí cho món ăn đẹp hơn.",
+      "start": 248.0,
+      "end": 260.72,
+      "n_words": 29,
+      "start_frame": 6200,
+      "end_frame": 6518,
+      "keyframes": [
+        "006236.webp",
+        "006274.webp",
+        "006275.webp",
+        "006293.webp",
+        "006311.webp",
+        "006312.webp",
+        "006325.webp",
+        "006339.webp",
+        "006340.webp",
+        "006376.webp",
+        "006412.webp",
+        "006413.webp",
+        "006508.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Nhìn một cái set như thế này nó vừa dân dã nhưng lại cực kỳ sang trọng.",
+      "start": 260.72,
+      "end": 266.08,
+      "n_words": 17,
+      "start_frame": 6518,
+      "end_frame": 6652,
+      "keyframes": [
+        "006603.webp",
+        "006604.webp",
+        "006643.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nhìn cái tô bánh canh vịt ở bên trong cực kỳ xuất sắc: sợi bánh canh mềm mịn, thịt vịt chín mềm mọng, nước húp một miếng nước súp độ sánh vừa tới, mùi củ nén thơm lừng làm tăng thêm phần đậm đà, vừa ăn ngon hết ý.",
+      "start": 266.08,
+      "end": 283.68,
+      "n_words": 49,
+      "start_frame": 6652,
+      "end_frame": 7092,
+      "keyframes": [
+        "006682.webp",
+        "006683.webp",
+        "006719.webp",
+        "006755.webp",
+        "006756.webp",
+        "006808.webp",
+        "006860.webp",
+        "006878.webp",
+        "006985.webp",
+        "007092.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Một món ăn ngon bổ rẻ mà lại cực kỳ dễ làm.",
+      "start": 283.68,
+      "end": 287.12,
+      "n_words": 12,
+      "start_frame": 7092,
+      "end_frame": 7178,
+      "keyframes": [
+        "007092.webp",
+        "007093.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Hãy tạo ra một nồi bánh canh vịt ngay cùng Món ngon mỗi ngày tại nhà nhé!",
+      "start": 287.12,
+      "end": 291.44,
+      "n_words": 17,
+      "start_frame": 7178,
+      "end_frame": 7286,
+      "keyframes": [
+        "007183.webp",
+        "007274.webp",
+        "007275.webp"
+      ],
+      "keyframe_count": 3
+    }
+  ]
+}

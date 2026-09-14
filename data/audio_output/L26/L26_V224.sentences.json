@@ -1,0 +1,802 @@
+{
+  "video_id": "L26_V224",
+  "fps": 25.0,
+  "n_sentences": 44,
+  "total_words": 1063,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.48,
+      "end": 12.08,
+      "n_words": 4,
+      "start_frame": 262,
+      "end_frame": 302,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúc quý vị khán giả khéo vị với tôm chiên giòn sốt trứng muối.",
+      "start": 12.08,
+      "end": 30.96,
+      "n_words": 14,
+      "start_frame": 302,
+      "end_frame": 774,
+      "keyframes": [
+        "000352.webp",
+        "000405.webp",
+        "000406.webp",
+        "000445.webp",
+        "000485.webp",
+        "000500.webp",
+        "000549.webp",
+        "000598.webp",
+        "000599.webp",
+        "000689.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Rất vui khi được gặp lại các bạn khán giả đang theo dõi chương trình Món ngon mỗi ngày.",
+      "start": 30.96,
+      "end": 34.84,
+      "n_words": 19,
+      "start_frame": 774,
+      "end_frame": 871,
+      "keyframes": [
+        "000779.webp",
+        "000780.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 34.84,
+      "end": 38.48,
+      "n_words": 11,
+      "start_frame": 871,
+      "end_frame": 962,
+      "keyframes": [
+        "000874.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Với món tôm sốt trứng muối ngày hôm nay, thì ngoài cái việc sử dụng trứng muối có cái độ mặn beo béo ra thì Kim Thảo sẽ sử dụng thịt tôm nè, và thịt tôm chứa rất là nhiều chất dinh dưỡng, đặc biệt là iốt rất là tốt cho trẻ em đang cái giai đoạn phát triển luôn đó các bạn.",
+      "start": 38.48,
+      "end": 52.0,
+      "n_words": 63,
+      "start_frame": 962,
+      "end_frame": 1300,
+      "keyframes": [
+        "000968.webp",
+        "000969.webp",
+        "000994.webp",
+        "001020.webp",
+        "001021.webp",
+        "001124.webp",
+        "001228.webp",
+        "001229.webp",
+        "001257.webp",
+        "001285.webp",
+        "001286.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Wow, cái việc mà Kim Thảo sử dụng tôm bạc thẻ trong món ăn ngày hôm nay vì nó có vỏ mỏng, và khi chiên nó giòn và dễ thấm vị hơn.",
+      "start": 52.0,
+      "end": 58.88,
+      "n_words": 32,
+      "start_frame": 1300,
+      "end_frame": 1472,
+      "keyframes": [
+        "001350.webp",
+        "001415.webp",
+        "001416.webp",
+        "001442.webp",
+        "001468.webp",
+        "001469.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hành trộn salad, tôm chiên, salad tây trộn, salad Kim Thảo sẽ cắt ngang lát mỏng, càng mỏng càng tốt và bây giờ thì Kim Thảo sẽ cho vào trong một chén nước lạnh để giảm độ hăng của hành tây.",
+      "start": 58.88,
+      "end": 69.16,
+      "n_words": 41,
+      "start_frame": 1472,
+      "end_frame": 1729,
+      "keyframes": [
+        "001520.webp",
+        "001572.webp",
+        "001573.webp",
+        "001580.webp",
+        "001588.webp",
+        "001589.webp",
+        "001603.webp",
+        "001618.webp",
+        "001619.webp",
+        "001673.webp",
+        "001728.webp",
+        "001729.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Cà chua bi thì Kim Thảo sẽ cắt làm đôi.",
+      "start": 69.16,
+      "end": 76.0,
+      "n_words": 10,
+      "start_frame": 1729,
+      "end_frame": 1900,
+      "keyframes": [
+        "001729.webp",
+        "001761.webp",
+        "001793.webp",
+        "001794.webp",
+        "001812.webp",
+        "001831.webp",
+        "001832.webp",
+        "001846.webp",
+        "001861.webp",
+        "001862.webp",
+        "001882.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Phần tôm bạc thẻ thì chúng ta sẽ cắt đầu nhọn nè, sau đó cắt ngang cái phần đầu này rồi cái phần kiếm ở đuôi này chúng ta cắt bỏ nè, sau đó chúng ta sẽ chẻ phần lưng bỏ cái phần chỉ lưng nè, chỉ đen nè, chúng ta sẽ lấy vừa thân tôm vừa đầu tôm luôn.",
+      "start": 76.0,
+      "end": 93.48,
+      "n_words": 60,
+      "start_frame": 1900,
+      "end_frame": 2337,
+      "keyframes": [
+        "001903.webp",
+        "001904.webp",
+        "001986.webp",
+        "002068.webp",
+        "002069.webp",
+        "002106.webp",
+        "002144.webp",
+        "002145.webp",
+        "002180.webp",
+        "002216.webp",
+        "002217.webp",
+        "002240.webp",
+        "002264.webp",
+        "002265.webp",
+        "002315.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Đầu tôm chiên rất là ngon rồi chúng ta sẽ lấy phần chỉ đen ra nè.",
+      "start": 93.48,
+      "end": 97.08,
+      "n_words": 16,
+      "start_frame": 2337,
+      "end_frame": 2427,
+      "keyframes": [
+        "002366.webp",
+        "002367.webp",
+        "002389.webp",
+        "002411.webp",
+        "002412.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đó, phần tôm bạc thẻ đã sơ chế xong.",
+      "start": 97.08,
+      "end": 100.08,
+      "n_words": 9,
+      "start_frame": 2427,
+      "end_frame": 2502,
+      "keyframes": [
+        "002429.webp",
+        "002446.webp",
+        "002447.webp",
+        "002474.webp",
+        "002501.webp",
+        "002502.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Kim Thảo giúp các bạn chuẩn bị một cái chảo dầu để chúng ta làm nóng dầu rồi chiên luôn.",
+      "start": 100.08,
+      "end": 104.08,
+      "n_words": 20,
+      "start_frame": 2502,
+      "end_frame": 2602,
+      "keyframes": [
+        "002502.webp",
+        "002525.webp",
+        "002548.webp",
+        "002549.webp",
+        "002570.webp",
+        "002592.webp",
+        "002593.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ cho gia vị nêm sẵn Ajinomoto bột tẩm khô chiên giòn vào tôm.",
+      "start": 104.08,
+      "end": 107.84,
+      "n_words": 18,
+      "start_frame": 2602,
+      "end_frame": 2696,
+      "keyframes": [
+        "002628.webp",
+        "002663.webp",
+        "002664.webp",
+        "002686.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng ta chuẩn bị một cái dĩa để xóc lên, để xóc cái công đoạn mà cuối cùng lăn tôm bạc thẻ qua gia vị nêm sẵn Ajinomoto bột tẩm khô chiên giòn giúp cho tôm giữ được độ ngọt trong thịt đó, như vậy thì bột sẽ áo đều bên ngoài con tôm.",
+      "start": 107.84,
+      "end": 122.44,
+      "n_words": 54,
+      "start_frame": 2696,
+      "end_frame": 3061,
+      "keyframes": [
+        "002709.webp",
+        "002710.webp",
+        "002752.webp",
+        "002794.webp",
+        "002795.webp",
+        "002882.webp",
+        "002970.webp",
+        "002971.webp",
+        "003017.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Bây giờ mình phải thử củi dầu, nó thái sủi tăm nhẹ nhẹ như thế này là đạt được cái nhiệt độ đó.",
+      "start": 122.44,
+      "end": 127.76,
+      "n_words": 23,
+      "start_frame": 3061,
+      "end_frame": 3194,
+      "keyframes": [
+        "003063.webp",
+        "003064.webp",
+        "003126.webp",
+        "003188.webp",
+        "003189.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Kim Thảo gắp tôm vào chiên.",
+      "start": 127.76,
+      "end": 129.64,
+      "n_words": 6,
+      "start_frame": 3194,
+      "end_frame": 3241,
+      "keyframes": [
+        "003213.webp",
+        "003237.webp",
+        "003238.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tôm đã được áo qua một lớp bột, bây giờ Kim Thảo quan sát nè, cái tôm nó sẽ xòe ra và rất là hấp dẫn luôn. Tôm bắt đầu là đỏ âu lên, nhìn nó hấp dẫn lắm luôn.",
+      "start": 129.64,
+      "end": 138.12,
+      "n_words": 40,
+      "start_frame": 3241,
+      "end_frame": 3453,
+      "keyframes": [
+        "003265.webp",
+        "003293.webp",
+        "003294.webp",
+        "003340.webp",
+        "003386.webp",
+        "003387.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi đó, cuối cùng cảm nhận được cái độ giòn rụm của tôm chiên luôn đó.",
+      "start": 138.12,
+      "end": 142.12,
+      "n_words": 16,
+      "start_frame": 3453,
+      "end_frame": 3553,
+      "keyframes": [
+        "003468.webp",
+        "003550.webp",
+        "003551.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trong tôm có chất selen giúp ngăn ngừa ung thư nè, cũng như là có thể là loại bỏ những cái kim loại nặng trong cơ thể của chúng ta, thành ra là ăn tôm sẽ rất là tốt cho sức khỏe.",
+      "start": 142.12,
+      "end": 153.2,
+      "n_words": 42,
+      "start_frame": 3553,
+      "end_frame": 3830,
+      "keyframes": [
+        "003600.webp",
+        "003650.webp",
+        "003651.webp",
+        "003741.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Kim Thảo nghĩ là tôm được rồi á.",
+      "start": 153.2,
+      "end": 154.92,
+      "n_words": 8,
+      "start_frame": 3830,
+      "end_frame": 3873,
+      "keyframes": [
+        "003831.webp",
+        "003832.webp",
+        "003849.webp",
+        "003867.webp",
+        "003868.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Rồi bây giờ chúng ta sẽ vớt ra và bây giờ chúng ta sẽ pha cái sốt salad để trộn salad ăn kèm tôm chiên.",
+      "start": 154.92,
+      "end": 162.08,
+      "n_words": 25,
+      "start_frame": 3873,
+      "end_frame": 4052,
+      "keyframes": [
+        "003887.webp",
+        "003906.webp",
+        "003907.webp",
+        "003939.webp",
+        "003972.webp",
+        "003973.webp",
+        "004010.webp",
+        "004048.webp",
+        "004049.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Một muỗng canh nước lọc nè, một muỗng canh dầu ô liu, một muỗng canh giấm gạo lên men Ajinomoto, một ít muối, một ít tiêu sáy và cuối cùng đó là một muỗng canh đường.",
+      "start": 162.08,
+      "end": 172.4,
+      "n_words": 36,
+      "start_frame": 4052,
+      "end_frame": 4310,
+      "keyframes": [
+        "004077.webp",
+        "004106.webp",
+        "004107.webp",
+        "004126.webp",
+        "004146.webp",
+        "004147.webp",
+        "004174.webp",
+        "004201.webp",
+        "004202.webp",
+        "004217.webp",
+        "004233.webp",
+        "004234.webp",
+        "004245.webp",
+        "004257.webp",
+        "004258.webp",
+        "004283.webp",
+        "004308.webp",
+        "004309.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Pha đều cho tan đường và muối.",
+      "start": 172.4,
+      "end": 173.84,
+      "n_words": 7,
+      "start_frame": 4310,
+      "end_frame": 4346,
+      "keyframes": [
+        "004327.webp",
+        "004345.webp",
+        "004346.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tiếp tục hướng dẫn các bạn làm cái sốt chấm, cái sốt chấm cho món tôm chiên ngày hôm nay.",
+      "start": 173.84,
+      "end": 177.2,
+      "n_words": 20,
+      "start_frame": 4346,
+      "end_frame": 4430,
+      "keyframes": [
+        "004346.webp",
+        "004386.webp",
+        "004427.webp",
+        "004428.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và chúng ta cần có hai muỗng canh sốt mayonnaise nguyên bản, một ít muối, một ít tiêu sáy, một lòng đỏ trứng muối các bạn sẽ hấp chín đi sau đó tán nhuyễn ra và cuối cùng là một muỗng cà phê giấm gạo lên men Ajinomoto.",
+      "start": 177.2,
+      "end": 191.2,
+      "n_words": 48,
+      "start_frame": 4430,
+      "end_frame": 4780,
+      "keyframes": [
+        "004446.webp",
+        "004465.webp",
+        "004466.webp",
+        "004491.webp",
+        "004516.webp",
+        "004517.webp",
+        "004534.webp",
+        "004552.webp",
+        "004553.webp",
+        "004567.webp",
+        "004582.webp",
+        "004583.webp",
+        "004606.webp",
+        "004629.webp",
+        "004630.webp",
+        "004658.webp",
+        "004686.webp",
+        "004687.webp",
+        "004731.webp",
+        "004776.webp",
+        "004777.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Bây giờ tiếp tục là Kim Thảo đánh nhuyễn.",
+      "start": 191.2,
+      "end": 194.72,
+      "n_words": 9,
+      "start_frame": 4780,
+      "end_frame": 4868,
+      "keyframes": [
+        "004805.webp",
+        "004833.webp",
+        "004834.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta sẽ làm sốt trứng muối để áo qua tôm và thưởng thức.",
+      "start": 194.72,
+      "end": 198.16,
+      "n_words": 14,
+      "start_frame": 4868,
+      "end_frame": 4954,
+      "keyframes": [
+        "004869.webp",
+        "004904.webp",
+        "004905.webp",
+        "004929.webp",
+        "004954.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cho vào đây ba muỗng canh dầu ăn, sau khi dầu ăn đã nóng các bạn sẽ cho một lòng đỏ trứng muối tán nhuyễn vào, đánh bông nó lên.",
+      "start": 198.16,
+      "end": 205.2,
+      "n_words": 30,
+      "start_frame": 4954,
+      "end_frame": 5130,
+      "keyframes": [
+        "004954.webp",
+        "004955.webp",
+        "004971.webp",
+        "004987.webp",
+        "004988.webp",
+        "005002.webp",
+        "005016.webp",
+        "005017.webp",
+        "005038.webp",
+        "005060.webp",
+        "005061.webp",
+        "005082.webp",
+        "005103.webp",
+        "005104.webp",
+        "005116.webp",
+        "005129.webp",
+        "005130.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Chúng ta xào sốt trứng muối với nhiều dầu ăn để sốt trứng muối nổi bông đẹp hơn.",
+      "start": 205.2,
+      "end": 209.4,
+      "n_words": 18,
+      "start_frame": 5130,
+      "end_frame": 5235,
+      "keyframes": [
+        "005130.webp",
+        "005153.webp",
+        "005176.webp",
+        "005177.webp",
+        "005199.webp",
+        "005221.webp",
+        "005222.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Sau khi sốt trứng muối nổi bông á, thì chúng ta sẽ cho cái phần tôm chiên vào.",
+      "start": 209.4,
+      "end": 213.52,
+      "n_words": 18,
+      "start_frame": 5235,
+      "end_frame": 5338,
+      "keyframes": [
+        "005255.webp",
+        "005289.webp",
+        "005290.webp",
+        "005313.webp",
+        "005337.webp",
+        "005338.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ mình xốc đều cho sốt trứng muối nó bám vào tôm đó.",
+      "start": 213.52,
+      "end": 218.4,
+      "n_words": 14,
+      "start_frame": 5338,
+      "end_frame": 5460,
+      "keyframes": [
+        "005338.webp",
+        "005381.webp",
+        "005425.webp",
+        "005426.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Sốt trứng muối chỉ cần áo đều vào tôm á, chúng ta sẽ cho hành lá cắt nhỏ vào rồi tắt lửa xong.",
+      "start": 218.4,
+      "end": 227.08,
+      "n_words": 23,
+      "start_frame": 5460,
+      "end_frame": 5677,
+      "keyframes": [
+        "005462.webp",
+        "005499.webp",
+        "005500.webp",
+        "005530.webp",
+        "005561.webp",
+        "005566.webp",
+        "005573.webp",
+        "005580.webp",
+        "005581.webp",
+        "005620.webp",
+        "005660.webp",
+        "005661.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Và quý vị cũng có thể ghi chép lại công thức của món ăn ngày hôm nay bằng cách là quét mã QR trên màn hình của chúng tôi nhé.",
+      "start": 227.08,
+      "end": 233.04,
+      "n_words": 30,
+      "start_frame": 5677,
+      "end_frame": 5826,
+      "keyframes": [
+        "005707.webp",
+        "005754.webp",
+        "005755.webp",
+        "005792.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Sốt salad, các bạn sẽ cho cái hành tím cắt lát mỏng vào này, rồi chúng ta trộn đều cho sốt salad thấm vào hành tím cắt lát.",
+      "start": 235.04,
+      "end": 241.68,
+      "n_words": 28,
+      "start_frame": 5876,
+      "end_frame": 6042,
+      "keyframes": [
+        "005879.webp",
+        "005880.webp",
+        "005920.webp",
+        "005960.webp",
+        "005961.webp",
+        "006001.webp",
+        "006041.webp",
+        "006042.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Kim Thảo giúp chuẩn bị đổ rau vào đây, hành tây, rồi tiếp đến là cà chua bi, cho sốt salad ngâm với hành tím cắt lát vào, trộn đều cho sốt nó thấm vào rau.",
+      "start": 241.68,
+      "end": 251.6,
+      "n_words": 36,
+      "start_frame": 6042,
+      "end_frame": 6290,
+      "keyframes": [
+        "006042.webp",
+        "006065.webp",
+        "006088.webp",
+        "006089.webp",
+        "006114.webp",
+        "006140.webp",
+        "006141.webp",
+        "006153.webp",
+        "006165.webp",
+        "006166.webp",
+        "006201.webp",
+        "006237.webp",
+        "006238.webp",
+        "006261.webp",
+        "006285.webp",
+        "006286.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Mình nên trộn salad sau cùng để rau nó giữ được cái độ tươi giòn á.",
+      "start": 251.6,
+      "end": 256.8,
+      "n_words": 16,
+      "start_frame": 6290,
+      "end_frame": 6420,
+      "keyframes": [
+        "006350.webp",
+        "006414.webp",
+        "006415.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi bây giờ chúng ta sẽ cho cái phần salad ra đĩa, cho những con tôm chiên lên trên.",
+      "start": 256.8,
+      "end": 262.4,
+      "n_words": 19,
+      "start_frame": 6420,
+      "end_frame": 6560,
+      "keyframes": [
+        "006433.webp",
+        "006452.webp",
+        "006453.webp",
+        "006473.webp",
+        "006493.webp",
+        "006494.webp",
+        "006508.webp",
+        "006523.webp",
+        "006524.webp",
+        "006547.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Nhìn ngon quá mà lại còn thơm nữa chứ.",
+      "start": 262.4,
+      "end": 265.76,
+      "n_words": 9,
+      "start_frame": 6560,
+      "end_frame": 6644,
+      "keyframes": [
+        "006570.webp",
+        "006571.webp",
+        "006610.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tiếp đến là cái phần đầu tôm này chúng ta sẽ cho vào giữa nè.",
+      "start": 265.76,
+      "end": 268.96,
+      "n_words": 15,
+      "start_frame": 6644,
+      "end_frame": 6724,
+      "keyframes": [
+        "006649.webp",
+        "006650.webp",
+        "006671.webp",
+        "006692.webp",
+        "006693.webp",
+        "006710.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Như vậy là món tôm chiên giòn sốt trứng muối đã hoàn thành xong, và các bạn có thể làm thêm món mì Ý sốt nấm để cho bữa ăn chúng ta thêm hoàn chỉnh về dinh dưỡng các bạn nhé.",
+      "start": 268.96,
+      "end": 279.84,
+      "n_words": 41,
+      "start_frame": 6724,
+      "end_frame": 6996,
+      "keyframes": [
+        "006727.webp",
+        "006728.webp",
+        "006772.webp",
+        "006817.webp",
+        "006818.webp",
+        "006902.webp",
+        "006987.webp",
+        "006988.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Tôm chiên vàng giòn, ngọt thịt, dai dai, thơm ngậy sốt trứng muối bám bên ngoài beo béo, mặn mặn, cùng sốt chua chua cân bằng lại tất cả.",
+      "start": 279.84,
+      "end": 292.72,
+      "n_words": 29,
+      "start_frame": 6996,
+      "end_frame": 7318,
+      "keyframes": [
+        "007021.webp",
+        "007055.webp",
+        "007070.webp",
+        "007100.webp",
+        "007131.webp",
+        "007132.webp",
+        "007214.webp",
+        "007296.webp",
+        "007297.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Món này dễ làm lại còn phù hợp với các thành viên trong gia đình vào dịp cuối tuần nữa chứ.",
+      "start": 292.72,
+      "end": 297.64,
+      "n_words": 21,
+      "start_frame": 7318,
+      "end_frame": 7441,
+      "keyframes": [
+        "007388.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Các bạn hãy trổ tài ngay nhé.",
+      "start": 297.64,
+      "end": 299.2,
+      "n_words": 7,
+      "start_frame": 7441,
+      "end_frame": 7480,
+      "keyframes": [
+        "007479.webp",
+        "007480.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và để ghi lại công thức của món ăn ngày hôm nay kèm với tất cả những món ăn hấp dẫn của chương trình Món ngon mỗi ngày, quý vị và các bạn có thể truy cập vào YouTube, website, fanpage của chương trình.",
+      "start": 299.2,
+      "end": 310.28,
+      "n_words": 44,
+      "start_frame": 7480,
+      "end_frame": 7757,
+      "keyframes": [
+        "007480.webp",
+        "007607.webp",
+        "007734.webp",
+        "007735.webp"
+      ],
+      "keyframe_count": 4
+    }
+  ]
+}

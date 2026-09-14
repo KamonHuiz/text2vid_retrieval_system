@@ -1,0 +1,921 @@
+{
+  "video_id": "L25_V046",
+  "fps": 25.0,
+  "n_sentences": 46,
+  "total_words": 3170,
+  "sentences": [
+    {
+      "text": "Thầy chào mừng các em đã quay trở lại với nội dung ôn tập bộ môn Lịch sử của báo Thanh Niên cho kỳ thi tốt nghiệp trung học phổ thông sắp tới.",
+      "start": 0.0,
+      "end": 9.2,
+      "n_words": 33,
+      "start_frame": 0,
+      "end_frame": 230,
+      "keyframes": [
+        "000000.webp",
+        "000033.webp",
+        "000067.webp",
+        "000068.webp",
+        "000145.webp",
+        "000222.webp",
+        "000223.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Các em thân mến, sự thắng lợi của cách mạng Việt Nam trong các cuộc kháng chiến chống Pháp và chống Mỹ không chỉ đơn giản là những thắng lợi về mặt quân sự mà là sự tổng hợp của những thắng lợi trên nhiều lĩnh vực khác nhau, trong đó ngoại giao đóng một vai trò rất là quan trọng.",
+      "start": 9.2,
+      "end": 23.92,
+      "n_words": 61,
+      "start_frame": 230,
+      "end_frame": 598,
+      "keyframes": [
+        "000297.webp",
+        "000372.webp",
+        "000373.webp",
+        "000509.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Trong chuyên đề ngày hôm nay, chúng ta sẽ tìm hiểu nắm bắt những kiến thức cơ bản trong cuộc đấu tranh ngoại giao trong lịch sử cách mạng Việt Nam từ 1945 đến 1975.",
+      "start": 23.92,
+      "end": 33.52,
+      "n_words": 35,
+      "start_frame": 598,
+      "end_frame": 838,
+      "keyframes": [
+        "000662.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thầy mời chúng ta cùng bước vào chuyên đề ôn tập đấu tranh ngoại giao trong lịch sử cách mạng Việt Nam từ 1945 đến 1975.",
+      "start": 35.96,
+      "end": 42.44,
+      "n_words": 26,
+      "start_frame": 899,
+      "end_frame": 1061,
+      "keyframes": [
+        "000951.webp",
+        "000952.webp",
+        "001025.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Từ 1945 đến 1975 thì chúng ta thấy là về lĩnh vực ngoại giao sẽ có những dấu ấn bắt đầu từ Hiệp định Sơ bộ 1946 và kết thúc là Hiệp định Paris 1973.",
+      "start": 44.12,
+      "end": 57.04,
+      "n_words": 35,
+      "start_frame": 1103,
+      "end_frame": 1426,
+      "keyframes": [
+        "001195.webp",
+        "001291.webp",
+        "001292.webp",
+        "001375.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Một lần nữa, thầy mời tất cả chúng ta nhìn lên sơ đồ để có thể nắm bắt được những dấu mốc quan trọng trong lịch sử đấu tranh ngoại giao cuộc cách mạng Việt Nam từ 1945 cho đến 1973.",
+      "start": 58.48,
+      "end": 67.84,
+      "n_words": 41,
+      "start_frame": 1462,
+      "end_frame": 1696,
+      "keyframes": [
+        "001607.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trường Đại học Quốc tế Sài Gòn SIU không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SIU nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt.",
+      "start": 70.04,
+      "end": 81.0,
+      "n_words": 39,
+      "start_frame": 1751,
+      "end_frame": 2025,
+      "keyframes": [
+        "001754.webp",
+        "001755.webp",
+        "001768.webp",
+        "001782.webp",
+        "001783.webp",
+        "001798.webp",
+        "001814.webp",
+        "001815.webp",
+        "001837.webp",
+        "001859.webp",
+        "001860.webp",
+        "001868.webp",
+        "001877.webp",
+        "001878.webp",
+        "001886.webp",
+        "001894.webp",
+        "001895.webp",
+        "001903.webp",
+        "001911.webp",
+        "001912.webp",
+        "001924.webp",
+        "001936.webp",
+        "001937.webp",
+        "001945.webp",
+        "001954.webp",
+        "001977.webp",
+        "001979.webp",
+        "001982.webp",
+        "001983.webp",
+        "002000.webp",
+        "002017.webp",
+        "002018.webp"
+      ],
+      "keyframe_count": 32
+    },
+    {
+      "text": "SIU mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới, trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.",
+      "start": 81.0,
+      "end": 91.72,
+      "n_words": 39,
+      "start_frame": 2025,
+      "end_frame": 2293,
+      "keyframes": [
+        "002032.webp",
+        "002046.webp",
+        "002047.webp",
+        "002060.webp",
+        "002074.webp",
+        "002075.webp",
+        "002093.webp",
+        "002111.webp",
+        "002112.webp",
+        "002128.webp",
+        "002144.webp",
+        "002145.webp",
+        "002160.webp",
+        "002175.webp",
+        "002176.webp",
+        "002192.webp",
+        "002209.webp",
+        "002210.webp",
+        "002230.webp",
+        "002250.webp",
+        "002251.webp",
+        "002259.webp",
+        "002268.webp",
+        "002269.webp",
+        "002276.webp",
+        "002283.webp",
+        "002293.webp"
+      ],
+      "keyframe_count": 27
+    },
+    {
+      "text": "Năm 2024, SIU tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng bốn phương thức tuyển sinh.",
+      "start": 91.72,
+      "end": 100.36,
+      "n_words": 23,
+      "start_frame": 2293,
+      "end_frame": 2509,
+      "keyframes": [
+        "002293.webp",
+        "002306.webp",
+        "002319.webp",
+        "002320.webp",
+        "002335.webp",
+        "002350.webp",
+        "002351.webp",
+        "002366.webp",
+        "002382.webp",
+        "002383.webp",
+        "002401.webp",
+        "002419.webp",
+        "002420.webp",
+        "002434.webp",
+        "002449.webp",
+        "002474.webp",
+        "002490.webp",
+        "002506.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "SIU cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SIU, 100 suất học bổng Tiếp bước hành trình Quỹ tài năng trẻ; Học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa, thể thao, nghệ thuật; Học bổng đồng hành xây dựng nhân lực chất lượng cao cho thành phố Thủ Đức, thành phố Hồ Chí Minh; Học bổng doanh nghiệp tài trợ; Học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.",
+      "start": 100.36,
+      "end": 126.88,
+      "n_words": 106,
+      "start_frame": 2509,
+      "end_frame": 3172,
+      "keyframes": [
+        "002511.webp",
+        "002531.webp",
+        "002551.webp",
+        "002596.webp",
+        "002623.webp",
+        "002650.webp",
+        "002651.webp",
+        "002680.webp",
+        "002709.webp",
+        "002710.webp",
+        "002723.webp",
+        "002736.webp",
+        "002737.webp",
+        "002749.webp",
+        "002761.webp",
+        "002788.webp",
+        "002796.webp",
+        "002804.webp",
+        "002805.webp",
+        "002819.webp",
+        "002833.webp",
+        "002834.webp",
+        "002848.webp",
+        "002863.webp",
+        "002864.webp",
+        "002879.webp",
+        "002895.webp",
+        "002896.webp",
+        "002911.webp",
+        "002926.webp",
+        "002927.webp",
+        "002945.webp",
+        "002963.webp",
+        "002964.webp",
+        "002981.webp",
+        "002998.webp",
+        "002999.webp",
+        "003018.webp",
+        "003037.webp",
+        "003038.webp",
+        "003053.webp",
+        "003068.webp",
+        "003069.webp",
+        "003082.webp",
+        "003095.webp",
+        "003096.webp",
+        "003114.webp",
+        "003132.webp",
+        "003133.webp",
+        "003148.webp",
+        "003163.webp",
+        "003164.webp"
+      ],
+      "keyframe_count": 52
+    },
+    {
+      "text": "Sâu tâm hồn Việt Nam, giáo dục thế giới. Đầu tiên là Hiệp định Sơ bộ được ký kết vào ngày 06/03/1946. Tuy Hiệp định Sơ bộ 1946 này không phải là một văn bản có giá trị pháp lý quốc tế, tuy nhiên chúng ta cần phải lưu ý trong hoàn cảnh bối cảnh lúc đó thì Hiệp định Sơ bộ là một trong những giải pháp ngoại giao khôn khéo của Chính phủ Việt Nam Dân chủ Cộng hòa nhằm mục tiêu giải quyết hiện trạng của nước Việt Nam Dân chủ Cộng hòa trong khoảng thời gian đó. Hiệp định Genève 1954 là một trong những văn bản có giá trị pháp lý quốc tế đã kết thúc hoàn toàn cuộc chiến tranh Đông Dương và ghi dấu ấn cho sự thắng lợi của cuộc kháng chiến chống Pháp của nhân dân ta. Hiệp định Paris 1973 cũng là một trong những văn bản có giá trị pháp lý quốc tế đã ghi nhận thắng lợi của nhân dân miền Nam Việt Nam cũng như là toàn bộ nhân dân Việt Nam trong cuộc kháng chiến chống Mỹ. Bây giờ chúng ta sẽ lần lượt tìm hiểu những nội dung cụ thể của các hiệp định nêu trên. Đầu tiên là Hiệp định Sơ bộ.",
+      "start": 126.88,
+      "end": 191.4,
+      "n_words": 218,
+      "start_frame": 3172,
+      "end_frame": 4785,
+      "keyframes": [
+        "003174.webp",
+        "003185.webp",
+        "003198.webp",
+        "003225.webp",
+        "003253.webp",
+        "003254.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Trong từng hiệp định, chúng ta sẽ lần lượt tìm hiểu hoàn cảnh dẫn đến sự ra đời của hiệp định, nội dung của hiệp định, những nội dung cơ bản của hiệp định và ý nghĩa lịch sử của hiệp định. Hiệp định Sơ bộ được ký vào ngày 06/03/1946 trong một hoàn cảnh rất là khó khăn, đặc biệt là trong lĩnh vực ngoại giao. Chúng ta lưu ý tình hình của nước Việt Nam Dân chủ Cộng hòa trong thời điểm sau ngày 02/09/1945 cho đến tháng 2/1946. Trong thời điểm đó, nước Việt Nam Dân chủ Cộng hòa phải đối phó với hai lực lượng từ nước ngoài, đó chính là lực lượng Trung Hoa Dân quốc từ vĩ tuyến 16 trở ra và lực lượng quân Pháp đã quay trở lại xâm lược vào ngày 23/09/1945. Trong giai đoạn sau ngày 23/09/1945, chúng ta đã có một giải pháp khá khôn ngoan đó là tìm mọi cách hòa hoãn với Trung Hoa Dân quốc để tập trung giúp đỡ cho Nam Bộ kháng chiến. Tuy nhiên, đến ngày 28/02/1946, Pháp đã có một bước đi mới khi ký với Trung Hoa Dân quốc bản hiệp ước Hoa-Pháp với âm mưu thay Trung Hoa Dân quốc ở miền Bắc.",
+      "start": 191.4,
+      "end": 261.96,
+      "n_words": 213,
+      "start_frame": 4785,
+      "end_frame": 6549,
+      "keyframes": [
+        "005020.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Hiệp ước Hoa-Pháp do vậy buộc chúng ta phải lựa chọn một trong hai con đường: hoặc là chiến đấu chống Pháp ngay, hoặc tìm cách hòa hoãn với Pháp để tránh tình trạng cùng một lúc đối phó với hai kẻ thù. Đảng và Chính phủ đã quyết định chọn giải pháp hòa để tiến, và đây chính là nguyên nhân dẫn đến ngày 06/03/1946 Chủ tịch Hồ Chí Minh đã thay mặt Chính phủ ký Hiệp định Sơ bộ. Hiệp định Sơ bộ được ký kết tại Hà Nội giữa Chủ tịch Hồ Chí Minh thay mặt cho Chính phủ Việt Nam Dân chủ Cộng hòa và ông Sainteny đại diện cho Chính phủ Pháp. Nội dung của Hiệp định Sơ bộ gồm có nhiều điều khoản, tuy nhiên chúng ta lưu ý những điểm cơ bản sau đây: thứ nhất, đó là Pháp công nhận nước Việt Nam Dân chủ Cộng hòa là một quốc gia tự do nằm trong Liên bang Đông Dương và trong khối Liên hiệp Pháp, có chính phủ, nghị viện, quân đội và tài chính riêng.",
+      "start": 261.96,
+      "end": 318.64,
+      "n_words": 184,
+      "start_frame": 6549,
+      "end_frame": 7966,
+      "keyframes": [
+        "006787.webp",
+        "006788.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Điều khoản thứ hai là Chính phủ Việt Nam Dân chủ Cộng hòa đồng ý cho 15.000 quân Pháp vào miền Bắc thay thế cho 200.000 quân Trung Hoa Dân quốc để làm nhiệm vụ giải giáp quân đội Nhật và sẽ rút dần trong năm năm; Hai bên thực hiện ngừng bắn để đàm phán về chế độ tương lai của Đông Dương. Với những điều khoản cơ bản nêu trên, chúng ta có thể nhìn thấy Hiệp định Sơ bộ có ý nghĩa lịch sử rất là quan trọng. Việc ký Hiệp định Sơ bộ là biện pháp ngoại giao khéo léo giúp ta tránh được cuộc chiến đấu bất lợi cùng một lúc với nhiều kẻ thù. Do Việt Nam được công nhận là một quốc gia nằm trong Liên bang Đông Dương và nằm trong khối Liên hiệp Pháp cho nên Trung Hoa Dân quốc chấm dứt vai trò can thiệp tại miền Bắc Việt Nam và phải rút lui về nước, và chúng ta có thêm thời gian hòa bình để củng cố chính quyền, chuẩn bị cho lực lượng kháng chiến chống Pháp về sau. Như vậy chúng ta vừa mới hoàn thành xong nội dung của Hiệp định Sơ bộ ngày 06/03/1946.",
+      "start": 318.64,
+      "end": 378.96,
+      "n_words": 209,
+      "start_frame": 7966,
+      "end_frame": 9474,
+      "keyframes": [
+        "008243.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ thầy mời tất cả chúng ta chuyển sang tìm hiểu về Hiệp định Genève kết thúc cuộc chiến tranh Đông Dương.",
+      "start": 380.76,
+      "end": 389.84,
+      "n_words": 23,
+      "start_frame": 9519,
+      "end_frame": 9746,
+      "keyframes": [
+        "009699.webp",
+        "009700.webp",
+        "009703.webp",
+        "009706.webp",
+        "009707.webp",
+        "009736.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến, hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.",
+      "start": 389.84,
+      "end": 400.4,
+      "n_words": 33,
+      "start_frame": 9746,
+      "end_frame": 10010,
+      "keyframes": [
+        "009765.webp",
+        "009783.webp",
+        "009788.webp",
+        "009794.webp",
+        "009822.webp",
+        "009848.webp",
+        "009875.webp",
+        "009876.webp",
+        "009896.webp",
+        "009917.webp",
+        "009918.webp",
+        "009939.webp",
+        "009960.webp",
+        "009961.webp",
+        "009969.webp",
+        "009978.webp",
+        "009991.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện, cân bằng giữa học thuật và nghệ thuật, thể thao.",
+      "start": 400.4,
+      "end": 408.0,
+      "n_words": 23,
+      "start_frame": 10010,
+      "end_frame": 10200,
+      "keyframes": [
+        "010044.webp",
+        "010098.webp",
+        "010099.webp",
+        "010119.webp",
+        "010140.webp",
+        "010141.webp",
+        "010156.webp",
+        "010171.webp",
+        "010172.webp",
+        "010182.webp",
+        "010193.webp",
+        "010194.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, khơi nguồn cảm hứng độc lập để phát triển và hoàn thiện nhân cách.",
+      "start": 408.0,
+      "end": 418.68,
+      "n_words": 34,
+      "start_frame": 10200,
+      "end_frame": 10467,
+      "keyframes": [
+        "010206.webp",
+        "010219.webp",
+        "010220.webp",
+        "010246.webp",
+        "010273.webp",
+        "010274.webp",
+        "010319.webp",
+        "010364.webp",
+        "010365.webp",
+        "010390.webp",
+        "010416.webp",
+        "010417.webp",
+        "010440.webp",
+        "010464.webp",
+        "010465.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Ngoài những giờ học trên lớp, học sinh Trường Quốc tế Á Châu còn được trải nghiệm thử thách bản thân và phản biện các vấn đề để tự mình học hỏi, trưởng thành độc lập hơn.",
+      "start": 418.68,
+      "end": 438.24,
+      "n_words": 37,
+      "start_frame": 10467,
+      "end_frame": 10956,
+      "keyframes": [
+        "010474.webp",
+        "010483.webp",
+        "010484.webp",
+        "010500.webp",
+        "010517.webp",
+        "010518.webp",
+        "010545.webp",
+        "010572.webp",
+        "010573.webp",
+        "010646.webp",
+        "010719.webp",
+        "010720.webp",
+        "010735.webp",
+        "010750.webp",
+        "010760.webp",
+        "010767.webp",
+        "010774.webp",
+        "010775.webp",
+        "010820.webp",
+        "010865.webp",
+        "010866.webp",
+        "010880.webp",
+        "010895.webp",
+        "010896.webp",
+        "010908.webp",
+        "010920.webp",
+        "010921.webp",
+        "010939.webp"
+      ],
+      "keyframe_count": 28
+    },
+    {
+      "text": "Nơi đây với tôi còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.",
+      "start": 438.24,
+      "end": 454.32,
+      "n_words": 33,
+      "start_frame": 10956,
+      "end_frame": 11358,
+      "keyframes": [
+        "010958.webp",
+        "010959.webp",
+        "011026.webp",
+        "011094.webp",
+        "011095.webp",
+        "011121.webp",
+        "011148.webp",
+        "011149.webp",
+        "011165.webp",
+        "011182.webp",
+        "011198.webp",
+        "011218.webp",
+        "011238.webp",
+        "011239.webp",
+        "011246.webp",
+        "011253.webp",
+        "011284.webp",
+        "011293.webp",
+        "011302.webp",
+        "011303.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là cuộc sống.",
+      "start": 454.32,
+      "end": 459.36,
+      "n_words": 15,
+      "start_frame": 11358,
+      "end_frame": 11484,
+      "keyframes": [
+        "011359.webp",
+        "011416.webp",
+        "011417.webp",
+        "011425.webp",
+        "011433.webp",
+        "011434.webp",
+        "011447.webp",
+        "011460.webp",
+        "011461.webp",
+        "011467.webp",
+        "011473.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Từ môi trường giáo dục này, chúng tôi đã tự tin bước tiếp và viết nên câu chuyện tương lai của chính mình.",
+      "start": 459.36,
+      "end": 465.32,
+      "n_words": 23,
+      "start_frame": 11484,
+      "end_frame": 11633,
+      "keyframes": [
+        "011490.webp",
+        "011504.webp",
+        "011518.webp",
+        "011535.webp",
+        "011536.webp",
+        "011537.webp",
+        "011561.webp",
+        "011567.webp",
+        "011574.webp",
+        "011600.webp",
+        "011617.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Để có thể nắm được bối cảnh lịch sử của Hiệp định Genève, thì chúng ta phải nắm được bối cảnh dẫn đến sự ra đời của hội nghị Genève giải quyết vấn đề Đông Dương. Hoàn cảnh lịch sử của hội nghị Genève cũng chính là hoàn cảnh lịch sử dẫn đến sự ra đời của Hiệp định Genève. Chúng ta cần lưu ý những điểm sau đây: Bước vào đông xuân năm 1953, 1954, đồng thời với mặt trận quân sự, ta bắt đầu mở cuộc đấu tranh trên mặt trận ngoại giao.",
+      "start": 470.92,
+      "end": 501.04,
+      "n_words": 95,
+      "start_frame": 11773,
+      "end_frame": 12526,
+      "keyframes": [
+        "011773.webp",
+        "011815.webp",
+        "011816.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ngày 26/11/1953, Chủ tịch Hồ Chí Minh tuyên bố nếu thực dân Pháp tiếp tục cuộc chiến tranh xâm lược thì nhân dân Việt Nam tiếp tục cuộc chiến tranh ái quốc đến thắng lợi cuối cùng, nhưng nếu Chính phủ Pháp đã rút được bài học trong cuộc chiến tranh mấy năm nay, muốn đi đến đình chiến ở Việt Nam bằng cách thương lượng và giải quyết các vấn đề Việt Nam theo đường lối hòa bình thì nhân dân và Chính phủ Việt Nam Dân chủ Cộng hòa sẵn sàng tiếp ý muốn đó.",
+      "start": 501.04,
+      "end": 527.64,
+      "n_words": 97,
+      "start_frame": 12526,
+      "end_frame": 13191,
+      "keyframes": [
+        "012908.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Vì vậy, tháng 1/1954 thì hội nghị Genève đã được triệu tập giữa ngoại trưởng bốn nước lớn để bàn về vấn đề Đông Dương và mãi cho đến ngày 08/05/1954 sau khi chúng ta giành thắng lợi giòn giã tại Điện Biên Phủ thì hội nghị Genève mới bắt đầu thảo luận về vấn đề Đông Dương. Căn cứ vào điều kiện cụ thể, Chính phủ Việt Nam Dân chủ Cộng hòa đã ký Hiệp định Genève vào ngày 21/07/1954. Hội nghị Genève có những nội dung cơ bản như thế nào?",
+      "start": 527.64,
+      "end": 559.04,
+      "n_words": 93,
+      "start_frame": 13191,
+      "end_frame": 13976,
+      "keyframes": [
+        "013263.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta lưu ý như sau: điều khoản đầu tiên đó là các nước tham dự hội nghị cam kết tôn trọng quyền dân tộc cơ bản của ba nước Đông Dương đó là Việt Nam, Lào, Campuchia là độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ. Điều khoản thứ hai: hai bên tham chiến cùng ngừng bắn, lập lại hòa bình trên toàn Đông Dương.",
+      "start": 559.04,
+      "end": 582.24,
+      "n_words": 69,
+      "start_frame": 13976,
+      "end_frame": 14556,
+      "keyframes": [
+        "014000.webp",
+        "014001.webp",
+        "014356.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Điều khoản chúng ta cần phải lưu ý đó là hai bên tham chiến thực hiện cuộc di chuyển tập kết quân đội ở hai vùng; Quân đội Việt Nam và quân đội Pháp tập kết ở hai miền Nam Bắc, lấy vĩ tuyến 17 làm ranh giới tạm thời.",
+      "start": 582.24,
+      "end": 597.04,
+      "n_words": 50,
+      "start_frame": 14556,
+      "end_frame": 14926,
+      "keyframes": [
+        "014711.webp",
+        "014712.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Việt Nam tiến tới thống nhất bằng cuộc tổng tuyển cử tự do trên cả nước sẽ tổ chức vào tháng 7/1956 dưới sự giám sát của ủy ban quốc tế.",
+      "start": 597.04,
+      "end": 608.96,
+      "n_words": 31,
+      "start_frame": 14926,
+      "end_frame": 15224,
+      "keyframes": [
+        "015030.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Với những điều khoản nêu trên, Hiệp định Genève đã có ý nghĩa lịch sử hết sức to lớn trong cuộc kháng chiến chống Pháp. Đây là văn bản pháp lý quốc tế ghi nhận các quyền dân tộc cơ bản của nhân dân Đông Dương. Hiệp định Genève đã kết thúc cuộc chiến tranh tại Đông Dương của Pháp, buộc Pháp phải rút quân về nước, do vậy âm mưu kéo dài chiến tranh của Pháp, Mỹ đã bị thất bại. Miền Bắc hoàn toàn được giải phóng, tiến lên xây dựng chủ nghĩa xã hội.",
+      "start": 608.96,
+      "end": 639.2,
+      "n_words": 97,
+      "start_frame": 15224,
+      "end_frame": 15980,
+      "keyframes": [
+        "015349.webp",
+        "015350.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Như vậy chúng ta vừa mới tìm hiểu những điều khoản quan trọng và ý nghĩa lịch sử của Hiệp định Genève đối với cuộc kháng chiến chống Pháp. Chúng ta lưu ý rằng một trong những yếu tố quan trọng dẫn đến sự thắng lợi của Hiệp định Genève đó chính là thắng lợi trên lĩnh vực quân sự - chiến dịch Điện Biên Phủ.",
+      "start": 639.2,
+      "end": 664.68,
+      "n_words": 66,
+      "start_frame": 15980,
+      "end_frame": 16617,
+      "keyframes": [
+        "016087.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ chuyển sang tìm hiểu hiệp định cuối cùng kết thúc cuộc kháng chiến chống Mỹ đó chính là Hiệp định Paris. Hoàn cảnh lịch sử của Hiệp định Paris cũng chính là hoàn cảnh lịch sử của hội nghị Paris dẫn đến việc chấm dứt chiến tranh tại Việt Nam. Chúng ta lưu ý những mốc thời gian chính như sau: ngày 31/03/1968, sau đòn bất ngờ là cuộc tổng tiến công và nổi dậy xuân Mậu Thân của quân dân ta, Tổng thống Mỹ Johnson tuyên bố ngừng ném bom phá hoại miền Bắc từ vĩ tuyến 20 trở ra và bắt đầu nói đến đàm phán với Việt Nam.",
+      "start": 664.68,
+      "end": 701.88,
+      "n_words": 116,
+      "start_frame": 16617,
+      "end_frame": 17547,
+      "keyframes": [
+        "016825.webp",
+        "016826.webp",
+        "016838.webp",
+        "016850.webp",
+        "016851.webp",
+        "016873.webp",
+        "016895.webp",
+        "016896.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Tháng 5/1968, hội nghị Paris bắt đầu, ban đầu đó là hội nghị hai bên, sau đó mở rộng là hội nghị bốn bên nhưng do lập trường các bên đàm phán khác nhau nên hội nghị kéo dài. Sau trận Điện Biên Phủ trên không, đánh bại chiến tranh phá hoại lần hai của Mỹ, vào thời điểm 1973 thì Hiệp định Paris mới chính thức được ký kết. Bây giờ chúng ta sẽ tìm hiểu về những nội dung cơ bản của Hiệp định Paris.",
+      "start": 701.88,
+      "end": 731.28,
+      "n_words": 87,
+      "start_frame": 17547,
+      "end_frame": 18282,
+      "keyframes": [
+        "017595.webp",
+        "017854.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cũng giống như là Hiệp định Genève, Hiệp định Paris sẽ có rất là nhiều điều khoản, tuy nhiên trong quá trình học tập chúng ta lưu ý những điểm cơ bản sau đây: đầu tiên, Hoa Kỳ cam kết tôn trọng độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của Việt Nam; Hoa Kỳ rút hết quân viễn chinh và quân đồng minh, hủy bỏ các căn cứ quân sự của Mỹ, cam kết không tiếp tục can thiệp vào nội bộ của miền Nam Việt Nam. Nhân dân miền Nam tự quyết định tương lai chính trị thông qua tổng tuyển cử tự do không có sự can thiệp của nước ngoài. Các bên công nhận thực tế miền Nam có hai chính quyền, hai quân đội, hai vùng kiểm soát, ba lực lượng chính trị. Các bên ngừng bắn tại chỗ, trao trả cho nhau tù binh và dân thường bị bắt.",
+      "start": 731.28,
+      "end": 779.56,
+      "n_words": 158,
+      "start_frame": 18282,
+      "end_frame": 19489,
+      "keyframes": [
+        "018295.webp",
+        "018296.webp",
+        "018589.webp",
+        "018883.webp",
+        "018884.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ngoài ra còn có một số những điều khoản khác, ví dụ như Hoa Kỳ cam kết góp phần vào việc hàn gắn vết thương chiến tranh ở Việt Nam và Đông Dương, thiết lập quan hệ bình thường cùng có lợi với Việt Nam. Với những điều khoản nêu trên thì Hiệp định Paris có ý nghĩa lịch sử như thế nào đối với công cuộc kháng chiến chống Mỹ và cách mạng Việt Nam?",
+      "start": 779.56,
+      "end": 800.48,
+      "n_words": 76,
+      "start_frame": 19489,
+      "end_frame": 20012,
+      "keyframes": [
+        "019693.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Hiệp định Paris do vậy là thắng lợi của sự kết hợp giữa đấu tranh chính trị, đấu tranh quân sự và đấu tranh ngoại giao, là kết quả của cuộc đấu tranh kiên cường bất khuất của nhân dân ta trên cả hai miền đất nước, mở ra bước ngoặt mới cho cách mạng Việt Nam tiến lên giải phóng hoàn toàn miền Nam, thống nhất đất nước.",
+      "start": 800.48,
+      "end": 821.64,
+      "n_words": 69,
+      "start_frame": 20012,
+      "end_frame": 20541,
+      "keyframes": [
+        "020503.webp",
+        "020534.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Để có được thành công như hôm nay, tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình bắt đầu từ trường Đại học Quốc tế Sài Gòn SIU.",
+      "start": 821.64,
+      "end": 834.48,
+      "n_words": 35,
+      "start_frame": 20541,
+      "end_frame": 20862,
+      "keyframes": [
+        "020562.webp",
+        "020590.webp",
+        "020591.webp",
+        "020622.webp",
+        "020653.webp",
+        "020683.webp",
+        "020730.webp",
+        "020778.webp",
+        "020790.webp",
+        "020803.webp",
+        "020817.webp",
+        "020830.webp",
+        "020849.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Đào tạo đa dạng đa lĩnh vực, SIU mở ra cho chúng tôi nhiều cơ hội lựa chọn nghề nghiệp trong tương lai.",
+      "start": 834.48,
+      "end": 841.2,
+      "n_words": 23,
+      "start_frame": 20862,
+      "end_frame": 21030,
+      "keyframes": [
+        "020869.webp",
+        "020870.webp",
+        "020889.webp",
+        "020908.webp",
+        "020909.webp",
+        "020927.webp",
+        "020946.webp",
+        "020947.webp",
+        "020964.webp",
+        "020982.webp",
+        "020983.webp",
+        "021000.webp",
+        "021017.webp",
+        "021018.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Tất cả sinh viên đều có cơ hội để thể hiện và phát triển năng lực, những ý tưởng luôn được khuyến khích và phát huy tối đa.",
+      "start": 841.2,
+      "end": 848.48,
+      "n_words": 28,
+      "start_frame": 21030,
+      "end_frame": 21212,
+      "keyframes": [
+        "021035.webp",
+        "021052.webp",
+        "021053.webp",
+        "021063.webp",
+        "021073.webp",
+        "021099.webp",
+        "021109.webp",
+        "021120.webp",
+        "021121.webp",
+        "021130.webp",
+        "021140.webp",
+        "021141.webp",
+        "021147.webp",
+        "021154.webp",
+        "021155.webp",
+        "021182.webp",
+        "021210.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin; Chúng tôi được học cách học, cách nghĩ và cách sống.",
+      "start": 848.48,
+      "end": 854.6,
+      "n_words": 23,
+      "start_frame": 21212,
+      "end_frame": 21365,
+      "keyframes": [
+        "021226.webp",
+        "021244.webp",
+        "021262.webp",
+        "021263.webp",
+        "021280.webp",
+        "021298.webp",
+        "021299.webp",
+        "021324.webp",
+        "021349.webp",
+        "021350.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.",
+      "start": 854.6,
+      "end": 861.68,
+      "n_words": 28,
+      "start_frame": 21365,
+      "end_frame": 21542,
+      "keyframes": [
+        "021369.webp",
+        "021389.webp",
+        "021390.webp",
+        "021408.webp",
+        "021427.webp",
+        "021428.webp",
+        "021471.webp",
+        "021514.webp",
+        "021526.webp",
+        "021538.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Hiện đại, năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn SIU luôn hướng đến.",
+      "start": 861.68,
+      "end": 872.32,
+      "n_words": 34,
+      "start_frame": 21542,
+      "end_frame": 21808,
+      "keyframes": [
+        "021551.webp",
+        "021556.webp",
+        "021570.webp",
+        "021585.webp",
+        "021586.webp",
+        "021603.webp",
+        "021621.webp",
+        "021647.webp",
+        "021656.webp",
+        "021666.webp",
+        "021667.webp",
+        "021678.webp",
+        "021689.webp",
+        "021707.webp",
+        "021714.webp",
+        "021721.webp",
+        "021751.webp",
+        "021768.webp",
+        "021786.webp"
+      ],
+      "keyframe_count": 19
+    },
+    {
+      "text": "Đã đến lúc vươn xa hơn những gì đã có. Các em học sinh thân mến, như vậy chúng ta vừa mới ôn tập lại những kiến thức cơ bản của những mốc son chói lọi trên mặt trận ngoại giao, đó là Hiệp định Sơ bộ 1946, Hiệp định Genève 1954 và Hiệp định Paris 1973. Trong quá trình ôn tập, chúng ta không nên dừng ở việc nắm bắt những nội dung hiệp định, hoàn cảnh lịch sử hay là ý nghĩa lịch sử mà chúng ta còn nên tiến hành so sánh để nhận ra những điểm giống nhau và khác nhau giữa các hiệp định này để có thể giải quyết được những câu hỏi mang tính vận dụng trong đề thi.",
+      "start": 872.32,
+      "end": 916.88,
+      "n_words": 126,
+      "start_frame": 21808,
+      "end_frame": 22922,
+      "keyframes": [
+        "021834.webp",
+        "021848.webp",
+        "021863.webp",
+        "021886.webp",
+        "021944.webp",
+        "022003.webp",
+        "022004.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Ví dụ như chúng ta có thể nhìn thấy là giữa Hiệp định Genève 1954 và Hiệp định Paris 1973 có một số điểm giống nhau: đều là những hiệp định kết thúc hai cuộc kháng chiến chống xâm lược của nhân dân ta; Hay là có điểm giống nhau là cả hai hiệp định này đều được ký kết sau những thắng lợi quân sự quan trọng, đối với Hiệp định Genève đó là chiến dịch Điện Biên Phủ và đối với Hiệp định Paris đó là thắng lợi trong trận Điện Biên Phủ trên không 1972. Bên cạnh đó, chúng ta cũng nên tìm ra những điểm khác nhau giữa hai hiệp định Genève và Paris. Ví dụ như là sau Hiệp định Genève thì chúng ta chỉ giành được một thắng lợi một phần thôi bởi vì chỉ có miền Bắc là hoàn toàn giải phóng đi lên xây dựng chủ nghĩa xã hội, còn miền Nam thì chưa. Trong khi đó, thì Hiệp định Paris Mỹ đã phải cam kết tôn trọng độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của Việt Nam.",
+      "start": 916.88,
+      "end": 975.36,
+      "n_words": 190,
+      "start_frame": 22922,
+      "end_frame": 24384,
+      "keyframes": [
+        "023364.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thì sự so sánh giống nhau và khác nhau giữa các hiệp định này sẽ giúp cho chúng ta có thể giải được những câu hỏi mang tính vận dụng và nâng cao trong đề thi của kỳ thi trung học phổ thông sắp tới.",
+      "start": 975.36,
+      "end": 989.2,
+      "n_words": 45,
+      "start_frame": 24384,
+      "end_frame": 24730,
+      "keyframes": [
+        "024725.webp",
+        "024726.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thầy hy vọng rằng là với những kiến thức cơ bản trong chuyên đề này sẽ giúp chúng ta có thể giải quyết tốt những câu hỏi trong kỳ thi sắp tới.",
+      "start": 989.2,
+      "end": 996.92,
+      "n_words": 32,
+      "start_frame": 24730,
+      "end_frame": 24923,
+      "keyframes": [
+        "024886.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thầy chào tất cả các em và hẹn gặp lại các em trong những chuyên đề ôn tập sau.",
+      "start": 996.92,
+      "end": 1002.32,
+      "n_words": 19,
+      "start_frame": 24923,
+      "end_frame": 25058,
+      "keyframes": [
+        "025047.webp",
+        "025048.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

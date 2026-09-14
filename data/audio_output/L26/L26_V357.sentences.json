@@ -1,0 +1,755 @@
+{
+  "video_id": "L26_V357",
+  "fps": 25.0,
+  "n_sentences": 46,
+  "total_words": 974,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày: Ra vườn hái củ gừng ngon vào bếp.",
+      "start": 10.52,
+      "end": 13.88,
+      "n_words": 12,
+      "start_frame": 263,
+      "end_frame": 347,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000323.webp",
+        "000346.webp",
+        "000347.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ối là la la la, cái gì?",
+      "start": 13.88,
+      "end": 16.28,
+      "n_words": 7,
+      "start_frame": 347,
+      "end_frame": 407,
+      "keyframes": [
+        "000347.webp",
+        "000374.webp",
+        "000401.webp",
+        "000402.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đem gừng vô làm sạch để cho Phước Hương làm món ăn ngày hôm nay nè.",
+      "start": 16.28,
+      "end": 18.88,
+      "n_words": 16,
+      "start_frame": 407,
+      "end_frame": 472,
+      "keyframes": [
+        "000418.webp",
+        "000435.webp",
+        "000436.webp",
+        "000464.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Rồi nãy giờ đầu bếp đi đâu mà nhanh dữ vậy?",
+      "start": 18.88,
+      "end": 20.92,
+      "n_words": 11,
+      "start_frame": 472,
+      "end_frame": 523,
+      "keyframes": [
+        "000493.webp",
+        "000494.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đi chợ ở đây Phước Hương mua được một cái bắp bò rất là ngon.",
+      "start": 20.92,
+      "end": 24.2,
+      "n_words": 15,
+      "start_frame": 523,
+      "end_frame": 605,
+      "keyframes": [
+        "000546.webp",
+        "000598.webp",
+        "000599.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bò lại cho chúng ta bổ máu nè mà lại tốt cho sức khỏe nữa, kết hợp với gừng sả thì lại ăn rất là ấm bụng, nghe là thấy ưng cái bụng của mình rồi, làm liền luôn nha.",
+      "start": 24.2,
+      "end": 35.4,
+      "n_words": 40,
+      "start_frame": 605,
+      "end_frame": 885,
+      "keyframes": [
+        "000638.webp",
+        "000678.webp",
+        "000679.webp",
+        "000695.webp",
+        "000711.webp",
+        "000712.webp",
+        "000774.webp",
+        "000837.webp",
+        "000838.webp",
+        "000862.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Bắp bò om gừng sả thơm lừng bừng vị giác.",
+      "start": 35.4,
+      "end": 54.72,
+      "n_words": 10,
+      "start_frame": 885,
+      "end_frame": 1368,
+      "keyframes": [
+        "000887.webp",
+        "000888.webp",
+        "000930.webp",
+        "000972.webp",
+        "000973.webp",
+        "001014.webp",
+        "001056.webp",
+        "001071.webp",
+        "001133.webp",
+        "001196.webp",
+        "001197.webp",
+        "001283.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Mời chào các bạn đang đến với chương trình Món ngon mỗi ngày, chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 54.72,
+      "end": 61.24,
+      "n_words": 24,
+      "start_frame": 1368,
+      "end_frame": 1531,
+      "keyframes": [
+        "001370.webp",
+        "001371.webp",
+        "001453.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đầu tiên, phần bắp bò khi mà chúng ta mua về thì chúng ta rửa sạch và để ráo, sẽ cắt khối vuông vừa ăn.",
+      "start": 61.24,
+      "end": 66.96,
+      "n_words": 25,
+      "start_frame": 1531,
+      "end_frame": 1674,
+      "keyframes": [
+        "001536.webp",
+        "001537.webp",
+        "001578.webp",
+        "001620.webp",
+        "001621.webp",
+        "001639.webp",
+        "001657.webp",
+        "001658.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Màu sắc của cái phần bắp bò rất là đẹp mắt ha?",
+      "start": 66.96,
+      "end": 69.28,
+      "n_words": 12,
+      "start_frame": 1674,
+      "end_frame": 1732,
+      "keyframes": [
+        "001704.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đúng rồi, rồi phần gừng thì chúng ta sẽ cắt sợi nhuyễn rồi xào cho qua.",
+      "start": 69.28,
+      "end": 84.44,
+      "n_words": 16,
+      "start_frame": 1732,
+      "end_frame": 2111,
+      "keyframes": [
+        "001751.webp",
+        "001752.webp",
+        "001796.webp",
+        "001841.webp",
+        "001842.webp",
+        "001867.webp",
+        "001893.webp",
+        "001894.webp",
+        "001933.webp",
+        "001973.webp",
+        "001974.webp",
+        "001989.webp",
+        "002005.webp",
+        "002006.webp",
+        "002025.webp",
+        "002044.webp",
+        "002045.webp",
+        "002064.webp",
+        "002083.webp",
+        "002084.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Cái gì hết?",
+      "start": 84.44,
+      "end": 85.8,
+      "n_words": 3,
+      "start_frame": 2111,
+      "end_frame": 2145,
+      "keyframes": [
+        "002115.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Phước Hương ơi, cô ta rất là thích ăn thịt bò luôn cho nên là muốn hỏi thêm mình có thể thay thế phần bắp bò bằng những phần khác được không?",
+      "start": 85.8,
+      "end": 92.32,
+      "n_words": 32,
+      "start_frame": 2145,
+      "end_frame": 2308,
+      "keyframes": [
+        "002147.webp",
+        "002148.webp",
+        "002234.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Được chứ, chúng ta cũng có thể thay thế bắp bò thành nạm, sườn bò hay đuôi bò thì món ăn cũng sẽ rất là ngon.",
+      "start": 92.32,
+      "end": 97.64,
+      "n_words": 26,
+      "start_frame": 2308,
+      "end_frame": 2441,
+      "keyframes": [
+        "002320.webp",
+        "002321.webp",
+        "002381.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và bây giờ chúng ta sẽ nêm gia vị vào đây.",
+      "start": 97.64,
+      "end": 99.92,
+      "n_words": 11,
+      "start_frame": 2441,
+      "end_frame": 2498,
+      "keyframes": [
+        "002442.webp",
+        "002443.webp",
+        "002470.webp",
+        "002497.webp",
+        "002498.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hương sẽ cho vào đây nửa muỗng cà phê ngũ vị hương, nửa muỗng cà phê muối, nửa muỗng cà phê bột ngọt Ajinomoto, một muỗng canh dầu hào, ba muỗng canh nước tương Phú Sĩ, rồi trộn đều gia vị lên để cho bắp bò được thấm ướp.",
+      "start": 99.92,
+      "end": 116.88,
+      "n_words": 49,
+      "start_frame": 2498,
+      "end_frame": 2922,
+      "keyframes": [
+        "002498.webp",
+        "002533.webp",
+        "002568.webp",
+        "002569.webp",
+        "002590.webp",
+        "002611.webp",
+        "002612.webp",
+        "002629.webp",
+        "002646.webp",
+        "002647.webp",
+        "002670.webp",
+        "002693.webp",
+        "002694.webp",
+        "002721.webp",
+        "002748.webp",
+        "002749.webp",
+        "002771.webp",
+        "002794.webp",
+        "002795.webp",
+        "002805.webp",
+        "002816.webp",
+        "002817.webp",
+        "002850.webp",
+        "002884.webp",
+        "002885.webp",
+        "002922.webp"
+      ],
+      "keyframe_count": 26
+    },
+    {
+      "text": "Thịt bò với lại nước tương là đúng bài luôn, nhưng mà mình phải ướp bao lâu thì mọi thứ mới ngấm đều với nhau?",
+      "start": 116.88,
+      "end": 121.56,
+      "n_words": 25,
+      "start_frame": 2922,
+      "end_frame": 3039,
+      "keyframes": [
+        "002922.webp",
+        "002960.webp",
+        "002961.webp",
+        "002998.webp",
+        "003036.webp",
+        "003037.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sau khi mà quý vị chúng ta đã cho đầy đủ gia vị vào trong phần bắp bò rồi thì chúng ta sẽ để ướp khoảng 15 đến 20 phút là thịt bò đã được thấm hương.",
+      "start": 121.56,
+      "end": 129.2,
+      "n_words": 37,
+      "start_frame": 3039,
+      "end_frame": 3230,
+      "keyframes": [
+        "003088.webp",
+        "003140.webp",
+        "003141.webp",
+        "003180.webp",
+        "003220.webp",
+        "003221.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sẽ đặt lên trên bếp một cái nồi đất để chúng ta om thịt bò.",
+      "start": 129.2,
+      "end": 132.48,
+      "n_words": 15,
+      "start_frame": 3230,
+      "end_frame": 3312,
+      "keyframes": [
+        "003235.webp",
+        "003249.webp",
+        "003250.webp",
+        "003282.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ thì phần nồi cũng đã nóng rồi, sẽ cho vào đây khoảng hai muỗng canh dầu ăn, cho phần gừng các sợi vào, chúng ta phi thơm.",
+      "start": 132.48,
+      "end": 138.68,
+      "n_words": 29,
+      "start_frame": 3312,
+      "end_frame": 3467,
+      "keyframes": [
+        "003315.webp",
+        "003316.webp",
+        "003360.webp",
+        "003404.webp",
+        "003405.webp",
+        "003456.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hành tím củ và tỏi củ chúng ta sẽ cho vào cùng một lúc luôn để chúng ta phi thơm.",
+      "start": 139.12,
+      "end": 143.76,
+      "n_words": 20,
+      "start_frame": 3478,
+      "end_frame": 3594,
+      "keyframes": [
+        "003508.webp",
+        "003509.webp",
+        "003552.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tiếp theo, Hương sẽ cho vào đây hai muỗng canh sả băm và tiêu xanh đập dập luôn.",
+      "start": 143.76,
+      "end": 149.0,
+      "n_words": 18,
+      "start_frame": 3594,
+      "end_frame": 3725,
+      "keyframes": [
+        "003595.webp",
+        "003596.webp",
+        "003630.webp",
+        "003664.webp",
+        "003665.webp",
+        "003694.webp",
+        "003724.webp",
+        "003725.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Trời ơi là mùi hành tỏi rồi gừng sả, đặc biệt là tiêu xanh nữa, đã sộc lên mũi của ta rồi.",
+      "start": 149.0,
+      "end": 155.76,
+      "n_words": 22,
+      "start_frame": 3725,
+      "end_frame": 3894,
+      "keyframes": [
+        "003725.webp",
+        "003819.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đúng công nhận luôn!",
+      "start": 155.76,
+      "end": 156.6,
+      "n_words": 4,
+      "start_frame": 3894,
+      "end_frame": 3915,
+      "keyframes": [
+        "003914.webp",
+        "003915.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ thì phần gừng cũng như là sả băm đã dậy lên mùi thơm rồi, chúng ta sẽ cho hết cái phần bò vào đảo đều.",
+      "start": 156.6,
+      "end": 163.84,
+      "n_words": 27,
+      "start_frame": 3915,
+      "end_frame": 4096,
+      "keyframes": [
+        "003915.webp",
+        "003958.webp",
+        "004002.webp",
+        "004003.webp",
+        "004034.webp",
+        "004065.webp",
+        "004066.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Hương vị của thịt bò nè, của những cái phần ướp gia vị với lại gừng sả tiêu xanh, nó làm cho chúng ta chỉ muốn ăn liền luôn đúng không?",
+      "start": 163.84,
+      "end": 173.2,
+      "n_words": 31,
+      "start_frame": 4096,
+      "end_frame": 4330,
+      "keyframes": [
+        "004121.webp",
+        "004177.webp",
+        "004178.webp",
+        "004234.webp",
+        "004291.webp",
+        "004292.webp",
+        "004328.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Và đây cũng là một cái lưu ý cho quý vị khán giả nha, chúng ta sẽ xào thịt bò săn kỹ trước và chúng ta hãy đem đi om.",
+      "start": 173.2,
+      "end": 178.88,
+      "n_words": 30,
+      "start_frame": 4330,
+      "end_frame": 4472,
+      "keyframes": [
+        "004364.webp",
+        "004365.webp",
+        "004446.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Làm như vậy thì giúp cho thịt bò ngon hơn.",
+      "start": 178.88,
+      "end": 181.12,
+      "n_words": 10,
+      "start_frame": 4472,
+      "end_frame": 4528,
+      "keyframes": [
+        "004528.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cho vào đây một trái dừa tươi để chúng ta om, quá tuyệt vời.",
+      "start": 181.12,
+      "end": 184.92,
+      "n_words": 14,
+      "start_frame": 4528,
+      "end_frame": 4623,
+      "keyframes": [
+        "004528.webp",
+        "004529.webp",
+        "004577.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Sẽ đậy nắp lại nha.",
+      "start": 184.92,
+      "end": 186.96,
+      "n_words": 5,
+      "start_frame": 4623,
+      "end_frame": 4674,
+      "keyframes": [
+        "004625.webp",
+        "004626.webp",
+        "004654.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi sau khi mà quý vị chúng ta đậy nắp lại rồi thì chúng ta sẽ om trong lửa vừa khoảng 25 phút là bò đủ mềm.",
+      "start": 186.96,
+      "end": 194.2,
+      "n_words": 27,
+      "start_frame": 4674,
+      "end_frame": 4855,
+      "keyframes": [
+        "004683.webp",
+        "004684.webp",
+        "004769.webp",
+        "004855.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đối với món ăn ngày hôm nay thì chúng ta sử dụng nồi đất và đậy nắp kỹ, làm như vậy thì giúp cho món bò mau mềm, khi ăn sẽ thơm ngon hơn.",
+      "start": 194.2,
+      "end": 201.88,
+      "n_words": 34,
+      "start_frame": 4855,
+      "end_frame": 5047,
+      "keyframes": [
+        "004855.webp",
+        "004856.webp",
+        "004892.webp",
+        "004928.webp",
+        "004929.webp",
+        "004986.webp",
+        "005044.webp",
+        "005045.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Đã đủ thời gian om thịt bò rồi, Phước Hương sẽ tắt bếp nè.",
+      "start": 201.88,
+      "end": 205.4,
+      "n_words": 14,
+      "start_frame": 5047,
+      "end_frame": 5135,
+      "keyframes": [
+        "005085.webp",
+        "005126.webp",
+        "005127.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta sẽ mở ra, wow, cái mùi rất là thơm luôn!",
+      "start": 205.4,
+      "end": 211.16,
+      "n_words": 12,
+      "start_frame": 5135,
+      "end_frame": 5279,
+      "keyframes": [
+        "005181.webp",
+        "005235.webp",
+        "005236.webp",
+        "005260.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Ở đây thì Phước Hương cũng đã chuẩn bị thêm một cái nồi đất rất là xinh xắn luôn để mà cho ra món ăn.",
+      "start": 211.16,
+      "end": 216.24,
+      "n_words": 25,
+      "start_frame": 5279,
+      "end_frame": 5406,
+      "keyframes": [
+        "005285.webp",
+        "005286.webp",
+        "005345.webp",
+        "005405.webp",
+        "005406.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ múc bò ra nè, ngon quá!",
+      "start": 216.24,
+      "end": 221.76,
+      "n_words": 11,
+      "start_frame": 5406,
+      "end_frame": 5544,
+      "keyframes": [
+        "005406.webp",
+        "005475.webp",
+        "005544.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Những cái phần gân bây giờ là rất là mềm rồi nè.",
+      "start": 221.76,
+      "end": 225.16,
+      "n_words": 12,
+      "start_frame": 5544,
+      "end_frame": 5629,
+      "keyframes": [
+        "005544.webp",
+        "005545.webp",
+        "005585.webp",
+        "005625.webp",
+        "005626.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Giờ cho hành tím vô, coi Hương sẽ cho lên đây một ít lá gừng nè, rồi và chúng ta cho ớt sừng cắt sợi để tăng thêm màu sắc cho món ăn.",
+      "start": 225.16,
+      "end": 234.88,
+      "n_words": 33,
+      "start_frame": 5629,
+      "end_frame": 5872,
+      "keyframes": [
+        "005647.webp",
+        "005668.webp",
+        "005669.webp",
+        "005771.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và cuối cùng Phước Hương sẽ cho lên đây một ít gừng cắt sợi chiên vàng.",
+      "start": 234.88,
+      "end": 239.48,
+      "n_words": 16,
+      "start_frame": 5872,
+      "end_frame": 5987,
+      "keyframes": [
+        "005873.webp",
+        "005874.webp",
+        "005901.webp",
+        "005928.webp",
+        "005929.webp",
+        "005973.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và quý vị thấy không, màu nâu sóng sánh của nước om nè, rồi của thịt bò nè, hòa quyện cùng với hương vị của sả, gừng, tiêu xanh tạo nên một món ăn rất là hấp dẫn.",
+      "start": 239.48,
+      "end": 250.76,
+      "n_words": 38,
+      "start_frame": 5987,
+      "end_frame": 6269,
+      "keyframes": [
+        "006018.webp",
+        "006019.webp",
+        "006059.webp",
+        "006100.webp",
+        "006101.webp",
+        "006184.webp",
+        "006268.webp",
+        "006269.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Và chắc chắn bây giờ mà có một chén cơm nóng thôi thì mình có thể ăn hết luôn cả thố thịt này đó.",
+      "start": 250.76,
+      "end": 255.28,
+      "n_words": 24,
+      "start_frame": 6269,
+      "end_frame": 6382,
+      "keyframes": [
+        "006269.webp",
+        "006326.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Với món ăn ngày hôm nay thì các bạn cũng có thể kết hợp với món cải thìa xào nấm đông cô thịt cua, ăn cũng sẽ rất là ngon.",
+      "start": 255.28,
+      "end": 261.6,
+      "n_words": 30,
+      "start_frame": 6382,
+      "end_frame": 6540,
+      "keyframes": [
+        "006383.webp",
+        "006384.webp",
+        "006461.webp",
+        "006538.webp",
+        "006539.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thịt bò mềm, thấm vị đậm đà, hài hòa cùng hương thơm ấm nồng của tiêu xanh gừng sả, ăn với chút cơm nóng thì bụng dạ nào mà chẳng xuyến xao.",
+      "start": 261.6,
+      "end": 270.64,
+      "n_words": 32,
+      "start_frame": 6540,
+      "end_frame": 6766,
+      "keyframes": [
+        "006653.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Một món ăn xuất sắc với công thức vô cùng đơn giản, nào vào bếp cùng làm bắp bò om gừng sả với chúng tôi các bạn nhé!",
+      "start": 270.64,
+      "end": 277.04,
+      "n_words": 28,
+      "start_frame": 6766,
+      "end_frame": 6926,
+      "keyframes": [
+        "006767.webp",
+        "006768.webp",
+        "006847.webp",
+        "006926.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và các bạn có thể xem lại công thức nấu món ăn cũng như là các thông tin bổ ích khác trên YouTube, website và fanpage của Món ngon mỗi ngày.",
+      "start": 277.04,
+      "end": 284.24,
+      "n_words": 31,
+      "start_frame": 6926,
+      "end_frame": 7106,
+      "keyframes": [
+        "006926.webp",
+        "006927.webp",
+        "006957.webp",
+        "006987.webp",
+        "006988.webp",
+        "007092.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Còn ngay bây giờ thì xin chào và hẹn gặp lại.",
+      "start": 284.24,
+      "end": 288.08,
+      "n_words": 11,
+      "start_frame": 7106,
+      "end_frame": 7202,
+      "keyframes": [
+        "007196.webp",
+        "007197.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

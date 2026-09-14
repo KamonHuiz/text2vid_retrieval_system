@@ -1,0 +1,709 @@
+{
+  "video_id": "L26_V422",
+  "fps": 25.0,
+  "n_sentences": 39,
+  "total_words": 1016,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.52,
+      "end": 12.64,
+      "n_words": 4,
+      "start_frame": 263,
+      "end_frame": 316,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Em chào cô Minh Tuấn.",
+      "start": 12.64,
+      "end": 14.24,
+      "n_words": 5,
+      "start_frame": 316,
+      "end_frame": 356,
+      "keyframes": [
+        "000332.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ủa nay cô dạy mọi người nấu cơm hả cô?",
+      "start": 14.24,
+      "end": 17.28,
+      "n_words": 10,
+      "start_frame": 356,
+      "end_frame": 432,
+      "keyframes": [
+        "000365.webp",
+        "000366.webp",
+        "000393.webp",
+        "000421.webp",
+        "000422.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Mình thích món này, có cái nồi là thấy gạo đó cô.",
+      "start": 17.28,
+      "end": 21.16,
+      "n_words": 12,
+      "start_frame": 432,
+      "end_frame": 529,
+      "keyframes": [
+        "000448.webp",
+        "000474.webp",
+        "000475.webp",
+        "000499.webp",
+        "000523.webp",
+        "000524.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cô ủa đó chứ không phải em ủa đâu, nghe bữa trước em nói với cô là em thích ăn cơm chiên đúng không, cho nên hôm nay là cô sẽ giới thiệu với em một món cơm chiên cô mới tìm hiểu được.",
+      "start": 21.16,
+      "end": 30.24,
+      "n_words": 44,
+      "start_frame": 529,
+      "end_frame": 756,
+      "keyframes": [
+        "000550.webp",
+        "000577.webp",
+        "000578.webp",
+        "000603.webp",
+        "000629.webp",
+        "000630.webp",
+        "000667.webp",
+        "000704.webp",
+        "000705.webp",
+        "000717.webp",
+        "000729.webp",
+        "000730.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Một cái loại gạo này là hạt dài á, nó khác lắm luôn á, nó khác với gạo bình thường luôn á, có công dụng rất tốt, công dụng mà khi mình ăn vô sẽ giúp ổn định đường huyết nè, huyết áp nè, và loại gạo này thì rất là nhiều chất xơ mà giá cũng mắc nữa.",
+      "start": 30.24,
+      "end": 45.84,
+      "n_words": 59,
+      "start_frame": 756,
+      "end_frame": 1146,
+      "keyframes": [
+        "000761.webp",
+        "000792.webp",
+        "000793.webp",
+        "000813.webp",
+        "000833.webp",
+        "000834.webp",
+        "000871.webp",
+        "000909.webp",
+        "000910.webp",
+        "000992.webp",
+        "001075.webp",
+        "001076.webp",
+        "001092.webp",
+        "001109.webp",
+        "001110.webp",
+        "001127.webp",
+        "001144.webp",
+        "001145.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Vậy mình làm liền đi cô, tại vì mấy cái bắt mắt mới hợp vô em cũng chảnh quá.",
+      "start": 45.84,
+      "end": 52.52,
+      "n_words": 19,
+      "start_frame": 1146,
+      "end_frame": 1313,
+      "keyframes": [
+        "001183.webp",
+        "001221.webp",
+        "001222.webp",
+        "001242.webp",
+        "001262.webp",
+        "001263.webp",
+        "001287.webp",
+        "001312.webp",
+        "001313.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cơm chiên Ấn Độ, hương vị ấn tượng mãi không thôi.",
+      "start": 52.52,
+      "end": 72.24,
+      "n_words": 11,
+      "start_frame": 1313,
+      "end_frame": 1806,
+      "keyframes": [
+        "001313.webp",
+        "001359.webp",
+        "001405.webp",
+        "001406.webp",
+        "001449.webp",
+        "001493.webp",
+        "001523.webp",
+        "001575.webp",
+        "001628.webp",
+        "001629.webp",
+        "001716.webp",
+        "001803.webp",
+        "001804.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Mừng các bạn đang đến với chương trình Món ngon mỗi ngày, chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 72.24,
+      "end": 78.8,
+      "n_words": 23,
+      "start_frame": 1806,
+      "end_frame": 1970,
+      "keyframes": [
+        "001888.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cái món này là cô nấu theo kiểu Ấn Độ, nhưng mà thông thường thì người ta nấu là không có thịt, nhưng mà bữa nay mình thêm thịt vô để đầy đủ dinh dưỡng ha.",
+      "start": 78.8,
+      "end": 87.36,
+      "n_words": 36,
+      "start_frame": 1970,
+      "end_frame": 2184,
+      "keyframes": [
+        "001972.webp",
+        "001973.webp",
+        "001992.webp",
+        "002012.webp",
+        "002013.webp",
+        "002071.webp",
+        "002130.webp",
+        "002131.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Nên thêm thịt cô ơi nó mới ngon.",
+      "start": 87.36,
+      "end": 89.8,
+      "n_words": 8,
+      "start_frame": 2184,
+      "end_frame": 2245,
+      "keyframes": [
+        "002205.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đúng rồi, cho vào đây là một muỗng cà phê hạt nêm Aji-ngon gà và một muỗng cà phê bột nghệ, mình sẽ trộn đều lên và mình chờ cho thịt gà thấm gia vị.",
+      "start": 89.8,
+      "end": 100.64,
+      "n_words": 35,
+      "start_frame": 2245,
+      "end_frame": 2516,
+      "keyframes": [
+        "002279.webp",
+        "002280.webp",
+        "002325.webp",
+        "002370.webp",
+        "002371.webp",
+        "002381.webp",
+        "002392.webp",
+        "002393.webp",
+        "002407.webp",
+        "002421.webp",
+        "002422.webp",
+        "002442.webp",
+        "002463.webp",
+        "002464.webp",
+        "002489.webp",
+        "002514.webp",
+        "002515.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Đây là lá cà ri tươi nè, lá cà ri tươi này giờ cũng rất là dễ mua, Tuấn sẽ lặt ra chừa lại cho cô khoảng chừng 10 lá, còn phần còn lại thì Tuấn xé hai xé ba ra giùm cô ha.",
+      "start": 100.64,
+      "end": 110.4,
+      "n_words": 44,
+      "start_frame": 2516,
+      "end_frame": 2760,
+      "keyframes": [
+        "002535.webp",
+        "002555.webp",
+        "002556.webp",
+        "002585.webp",
+        "002614.webp",
+        "002615.webp",
+        "002642.webp",
+        "002669.webp",
+        "002670.webp",
+        "002717.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Chúng ta sẽ mài lấy khoảng chừng một muỗng canh cái vỏ của chanh vàng này, mình sẽ vắt lấy thêm khoảng lấy thêm khoảng chừng hai muỗng nước cốt chanh nha các bạn ha.",
+      "start": 110.4,
+      "end": 120.64,
+      "n_words": 35,
+      "start_frame": 2760,
+      "end_frame": 3016,
+      "keyframes": [
+        "002764.webp",
+        "002765.webp",
+        "002782.webp",
+        "002800.webp",
+        "002801.webp",
+        "002838.webp",
+        "002876.webp",
+        "002877.webp",
+        "002945.webp",
+        "003014.webp",
+        "003015.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Bây giờ thì chúng ta sẽ bắt một cái chảo lên để mình xào cái phần thịt gà, cho vào đây khoảng chừng nửa chén dầu ăn rồi chảo dầu nóng thì mình sẽ cho lá cà ri vô, rồi chút nữa thì lá cà ri sẽ trong lại từ từ, thơm đúng không?",
+      "start": 120.64,
+      "end": 135.32,
+      "n_words": 54,
+      "start_frame": 3016,
+      "end_frame": 3383,
+      "keyframes": [
+        "003057.webp",
+        "003099.webp",
+        "003100.webp",
+        "003143.webp",
+        "003186.webp",
+        "003187.webp",
+        "003216.webp",
+        "003245.webp",
+        "003246.webp",
+        "003266.webp",
+        "003287.webp",
+        "003288.webp",
+        "003325.webp",
+        "003363.webp",
+        "003364.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Thì thơm luôn cô rồi.",
+      "start": 135.32,
+      "end": 136.48,
+      "n_words": 5,
+      "start_frame": 3383,
+      "end_frame": 3412,
+      "keyframes": [
+        "003387.webp",
+        "003411.webp",
+        "003412.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chừa lại trong này khoảng chừng hai muỗng canh dầu thôi, các bạn lưu ý là chúng ta sẽ xào đậu phộng với lửa nhỏ để đậu phộng chín đều từ trong ra ngoài cùng với dầu.",
+      "start": 136.48,
+      "end": 145.48,
+      "n_words": 37,
+      "start_frame": 3412,
+      "end_frame": 3637,
+      "keyframes": [
+        "003412.webp",
+        "003442.webp",
+        "003472.webp",
+        "003473.webp",
+        "003510.webp",
+        "003547.webp",
+        "003548.webp",
+        "003576.webp",
+        "003604.webp",
+        "003605.webp",
+        "003630.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Đúng rồi, để cho nó giòn hơn.",
+      "start": 145.48,
+      "end": 147.2,
+      "n_words": 7,
+      "start_frame": 3637,
+      "end_frame": 3680,
+      "keyframes": [
+        "003655.webp",
+        "003656.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đúng rồi, cho nó giòn và nó thơm hơn.",
+      "start": 147.2,
+      "end": 149.2,
+      "n_words": 9,
+      "start_frame": 3680,
+      "end_frame": 3730,
+      "keyframes": [
+        "003690.webp",
+        "003725.webp",
+        "003726.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cho vào đây thêm một muỗng cà phê hạt mù tạt, lá cà ri mà mình đã xé nhỏ ra đó mình cho vô, rất là dậy mùi thơm rồi.",
+      "start": 149.2,
+      "end": 158.56,
+      "n_words": 30,
+      "start_frame": 3730,
+      "end_frame": 3964,
+      "keyframes": [
+        "003769.webp",
+        "003812.webp",
+        "003813.webp",
+        "003855.webp",
+        "003898.webp",
+        "003899.webp",
+        "003924.webp",
+        "003949.webp",
+        "003950.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cuối cùng cô sẽ cho cái phần thịt gà đã ướp gia vị vào đây, em lớn lửa lên giúp cô ha.",
+      "start": 158.56,
+      "end": 163.12,
+      "n_words": 22,
+      "start_frame": 3964,
+      "end_frame": 4078,
+      "keyframes": [
+        "003975.webp",
+        "004001.webp",
+        "004002.webp",
+        "004037.webp",
+        "004073.webp",
+        "004074.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cùng với thịt gà thì cô sẽ cho vô nè ớt xanh, ớt đỏ đã cắt hình thỏi, hành tím đó.",
+      "start": 163.12,
+      "end": 170.48,
+      "n_words": 21,
+      "start_frame": 4078,
+      "end_frame": 4262,
+      "keyframes": [
+        "004105.webp",
+        "004137.webp",
+        "004138.webp",
+        "004181.webp",
+        "004224.webp",
+        "004225.webp",
+        "004242.webp",
+        "004260.webp",
+        "004261.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Bây giờ thì mình chỉ cần xào cho cái phần thịt gà nó vừa chín tới là được rồi.",
+      "start": 170.48,
+      "end": 175.6,
+      "n_words": 19,
+      "start_frame": 4262,
+      "end_frame": 4390,
+      "keyframes": [
+        "004276.webp",
+        "004291.webp",
+        "004292.webp",
+        "004339.webp",
+        "004387.webp",
+        "004388.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ rồi, bây giờ thì cô sẽ tắt lửa và mình sẽ cho vào đây là chừng một muỗng canh đường, chanh mài với lại hai muỗng canh nước cốt chanh.",
+      "start": 175.6,
+      "end": 184.28,
+      "n_words": 32,
+      "start_frame": 4390,
+      "end_frame": 4607,
+      "keyframes": [
+        "004409.webp",
+        "004431.webp",
+        "004432.webp",
+        "004462.webp",
+        "004492.webp",
+        "004493.webp",
+        "004523.webp",
+        "004554.webp",
+        "004555.webp",
+        "004579.webp",
+        "004603.webp",
+        "004604.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Rồi giờ cô sẽ cho ra đĩa, coi như là mình trút cái phần nhân này ra, cho khoảng chừng hai muỗng canh dầu ăn vào trong cái chảo này để mình chiên cơm đây.",
+      "start": 184.28,
+      "end": 191.64,
+      "n_words": 35,
+      "start_frame": 4607,
+      "end_frame": 4791,
+      "keyframes": [
+        "004640.webp",
+        "004677.webp",
+        "004678.webp",
+        "004730.webp",
+        "004783.webp",
+        "004784.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Mình sẽ sử dụng hành tây tím, mình cho vô đây luôn phi cho thơm.",
+      "start": 191.64,
+      "end": 196.16,
+      "n_words": 15,
+      "start_frame": 4791,
+      "end_frame": 4904,
+      "keyframes": [
+        "004804.webp",
+        "004824.webp",
+        "004825.webp",
+        "004881.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Thì đây là cơm, cách nấu cơm này tốt nhất là mình ngâm gạo trước khoảng chừng 15 phút sau đó là mình bắt lên mình nấu cho nước nóng như là cơm bình thường của mình vậy đó.",
+      "start": 196.16,
+      "end": 204.12,
+      "n_words": 39,
+      "start_frame": 4904,
+      "end_frame": 5103,
+      "keyframes": [
+        "004937.webp",
+        "004938.webp",
+        "004949.webp",
+        "004961.webp",
+        "004962.webp",
+        "005005.webp",
+        "005048.webp",
+        "005049.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Và cái gạo này nấu lên thường thường nó sẽ rất khô và nó tơi như thế này nè.",
+      "start": 204.12,
+      "end": 208.32,
+      "n_words": 19,
+      "start_frame": 5103,
+      "end_frame": 5208,
+      "keyframes": [
+        "005108.webp",
+        "005167.webp",
+        "005168.webp",
+        "005186.webp",
+        "005204.webp",
+        "005205.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Mình sẽ cho vào đây là hai phần ba muỗng cà phê hạt nêm Aji-ngon gà, trộn đều lên.",
+      "start": 208.32,
+      "end": 213.52,
+      "n_words": 19,
+      "start_frame": 5208,
+      "end_frame": 5338,
+      "keyframes": [
+        "005259.webp",
+        "005314.webp",
+        "005315.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi khi mà mình thấy là hạt cơm là săn lên rồi nè ha, rồi mình sẽ cho cái phần nhân này vào.",
+      "start": 213.52,
+      "end": 219.64,
+      "n_words": 23,
+      "start_frame": 5338,
+      "end_frame": 5491,
+      "keyframes": [
+        "005345.webp",
+        "005376.webp",
+        "005377.webp",
+        "005476.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Rồi chúng ta sẽ chiên riêng cái phần nhân và cái phần cơm, sau đó mình sẽ trộn chung thì hạt cơm nó sẽ săn, nó tơi ngon hơn.",
+      "start": 219.64,
+      "end": 229.12,
+      "n_words": 29,
+      "start_frame": 5491,
+      "end_frame": 5728,
+      "keyframes": [
+        "005576.webp",
+        "005577.webp",
+        "005622.webp",
+        "005667.webp",
+        "005668.webp",
+        "005700.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi đó, mình chỉ cần đảo đều cho cái phần nhân và cái gia vị của nhân, vị của nhân nó ngấm đều vào trong hạt cơm dạ.",
+      "start": 229.12,
+      "end": 235.84,
+      "n_words": 28,
+      "start_frame": 5728,
+      "end_frame": 5896,
+      "keyframes": [
+        "005733.webp",
+        "005734.webp",
+        "005819.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Được rồi, bây giờ thì mình sẽ tắt lửa, mình sẽ cho vào đây khoảng chừng nửa muỗng cà phê lá chanh đã băm nhỏ.",
+      "start": 235.84,
+      "end": 242.92,
+      "n_words": 25,
+      "start_frame": 5896,
+      "end_frame": 6073,
+      "keyframes": [
+        "005904.webp",
+        "005905.webp",
+        "005933.webp",
+        "005962.webp",
+        "005963.webp",
+        "005976.webp",
+        "005989.webp",
+        "005990.webp",
+        "006042.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Các bạn lưu ý là sau khi tắt lửa thì chúng ta mới cho nước cốt chanh nè, vỏ chanh mài hoặc là lá chanh vô để giữ được cái mùi thơm của gia vị này các bạn ha.",
+      "start": 242.92,
+      "end": 253.36,
+      "n_words": 39,
+      "start_frame": 6073,
+      "end_frame": 6334,
+      "keyframes": [
+        "006094.webp",
+        "006095.webp",
+        "006190.webp",
+        "006285.webp",
+        "006286.webp",
+        "006310.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cô có một cái nồi rất là đẹp để trình bày món ăn này luôn á, rất là ấn tượng luôn, vừa có màu sắc cho món ăn nữa.",
+      "start": 253.36,
+      "end": 259.92,
+      "n_words": 29,
+      "start_frame": 6334,
+      "end_frame": 6498,
+      "keyframes": [
+        "006335.webp",
+        "006336.webp",
+        "006391.webp",
+        "006446.webp",
+        "006447.webp",
+        "006471.webp",
+        "006496.webp",
+        "006497.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Để cho có một bữa ăn hoàn chỉnh, chúng ta có thể kết hợp với lại món salad bắp cải xốt mè và canh nghêu bó xôi.",
+      "start": 259.92,
+      "end": 266.88,
+      "n_words": 27,
+      "start_frame": 6498,
+      "end_frame": 6672,
+      "keyframes": [
+        "006526.webp",
+        "006555.webp",
+        "006556.webp",
+        "006612.webp",
+        "006668.webp",
+        "006669.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Là tất cả các công thức kể cả món chính của ngày hôm nay luôn, các bạn cũng có thể theo dõi tại trang web của chương trình đó chính là Món ngon mỗi ngày.",
+      "start": 266.88,
+      "end": 273.44,
+      "n_words": 35,
+      "start_frame": 6672,
+      "end_frame": 6836,
+      "keyframes": [
+        "006715.webp",
+        "006761.webp",
+        "006762.webp",
+        "006806.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Món cơm đầy màu sắc vô cùng đẹp mắt, hạt cơm thì tơi xốp, thơm thơm mùi cà ri thoang thoảng một ít mùi lá chanh, ăn cùng đậu phộng bùi béo béo, thịt gà thì săn ngọt ngon tê tái.",
+      "start": 274.24,
+      "end": 288.48,
+      "n_words": 41,
+      "start_frame": 6856,
+      "end_frame": 7212,
+      "keyframes": [
+        "006959.webp",
+        "007067.webp",
+        "007068.webp",
+        "007137.webp",
+        "007207.webp",
+        "007208.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Món cơm của ngày hôm nay là một món rất đặc biệt nhưng mà đảm bảo lạ miệng và dễ làm nữa, các bạn bắt tay thực hiện ngay tại nhà nha.",
+      "start": 288.48,
+      "end": 296.24,
+      "n_words": 32,
+      "start_frame": 7212,
+      "end_frame": 7406,
+      "keyframes": [
+        "007297.webp",
+        "007387.webp",
+        "007388.webp"
+      ],
+      "keyframe_count": 3
+    }
+  ]
+}

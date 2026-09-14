@@ -1,0 +1,922 @@
+{
+  "video_id": "L26_V433",
+  "fps": 25.0,
+  "n_sentences": 51,
+  "total_words": 1018,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.56,
+      "end": 12.04,
+      "n_words": 4,
+      "start_frame": 264,
+      "end_frame": 301,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ em sẽ có một cái trò chơi nho nhỏ dành cho anh Long.",
+      "start": 12.04,
+      "end": 15.2,
+      "n_words": 15,
+      "start_frame": 301,
+      "end_frame": 380,
+      "keyframes": [
+        "000334.webp",
+        "000369.webp",
+        "000370.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Những nguyên liệu em đã giấu ở dưới những cái chén này, anh sẽ được chọn ba cái chén trong tổng số sáu cái chén này và anh sẽ nấu một cái món ăn bao gồm ba nguyên liệu có trong ba cái chén mà anh đã chọn.",
+      "start": 15.2,
+      "end": 25.32,
+      "n_words": 48,
+      "start_frame": 380,
+      "end_frame": 633,
+      "keyframes": [
+        "000391.webp",
+        "000412.webp",
+        "000413.webp",
+        "000444.webp",
+        "000475.webp",
+        "000476.webp",
+        "000500.webp",
+        "000525.webp",
+        "000526.webp",
+        "000575.webp",
+        "000624.webp",
+        "000625.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Thử thách gì?",
+      "start": 25.32,
+      "end": 26.2,
+      "n_words": 3,
+      "start_frame": 633,
+      "end_frame": 655,
+      "keyframes": [
+        "000651.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Sáu chọn ba, bốc gì nấu đó. Được luôn!",
+      "start": 26.2,
+      "end": 34.8,
+      "n_words": 9,
+      "start_frame": 655,
+      "end_frame": 870,
+      "keyframes": [
+        "000678.webp",
+        "000679.webp",
+        "000695.webp",
+        "000711.webp",
+        "000712.webp",
+        "000720.webp",
+        "000728.webp",
+        "000729.webp",
+        "000752.webp",
+        "000776.webp",
+        "000777.webp",
+        "000800.webp",
+        "000823.webp",
+        "000824.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Nhưng mà vậy bây giờ là Long có ba nguyên liệu này, Long sẽ nấu thành một món ăn, nhưng mà có được xin thêm không?",
+      "start": 34.8,
+      "end": 38.96,
+      "n_words": 26,
+      "start_frame": 870,
+      "end_frame": 974,
+      "keyframes": [
+        "000873.webp",
+        "000923.webp",
+        "000924.webp",
+        "000947.webp",
+        "000970.webp",
+        "000971.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thêm thì được mà bớt thì không được nha.",
+      "start": 38.96,
+      "end": 42.88,
+      "n_words": 9,
+      "start_frame": 974,
+      "end_frame": 1072,
+      "keyframes": [
+        "000996.webp",
+        "001021.webp",
+        "001022.webp",
+        "001046.webp",
+        "001071.webp",
+        "001072.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Ngon nhất với súp hoành thánh tươi.",
+      "start": 42.88,
+      "end": 45.52,
+      "n_words": 7,
+      "start_frame": 1072,
+      "end_frame": 1138,
+      "keyframes": [
+        "001072.webp",
+        "001111.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Xin kính chào quý vị khán giả đã quay trở lại với chương trình Món ngon mỗi ngày.",
+      "start": 45.52,
+      "end": 64.88,
+      "n_words": 18,
+      "start_frame": 1138,
+      "end_frame": 1622,
+      "keyframes": [
+        "001150.webp",
+        "001151.webp",
+        "001207.webp",
+        "001264.webp",
+        "001286.webp",
+        "001329.webp",
+        "001373.webp",
+        "001374.webp",
+        "001461.webp",
+        "001549.webp",
+        "001550.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Chương trình được sự tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 64.88,
+      "end": 68.64,
+      "n_words": 12,
+      "start_frame": 1622,
+      "end_frame": 1716,
+      "keyframes": [
+        "001636.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ thành phần giúp Long là phần củ cải đó, lo tỉa hoa rồi cắt dày khoảng 3 ly để mình nấu cho ngọt nước.",
+      "start": 68.64,
+      "end": 78.76,
+      "n_words": 26,
+      "start_frame": 1716,
+      "end_frame": 1969,
+      "keyframes": [
+        "001723.webp",
+        "001724.webp",
+        "001740.webp",
+        "001757.webp",
+        "001758.webp",
+        "001767.webp",
+        "001776.webp",
+        "001777.webp",
+        "001789.webp",
+        "001801.webp",
+        "001802.webp",
+        "001814.webp",
+        "001826.webp",
+        "001827.webp",
+        "001845.webp",
+        "001864.webp",
+        "001865.webp",
+        "001876.webp",
+        "001887.webp",
+        "001888.webp",
+        "001912.webp",
+        "001936.webp",
+        "001937.webp",
+        "001956.webp"
+      ],
+      "keyframe_count": 24
+    },
+    {
+      "text": "Và bên đây Long sẽ cắt cái phần hành này, phần lá dùng để nêm còn phần gốc mình cắt khúc để lát mình cho vào.",
+      "start": 78.76,
+      "end": 92.08,
+      "n_words": 26,
+      "start_frame": 1969,
+      "end_frame": 2302,
+      "keyframes": [
+        "001976.webp",
+        "001977.webp",
+        "002007.webp",
+        "002037.webp",
+        "002038.webp",
+        "002072.webp",
+        "002107.webp",
+        "002108.webp",
+        "002123.webp",
+        "002139.webp",
+        "002140.webp",
+        "002156.webp",
+        "002173.webp",
+        "002174.webp",
+        "002199.webp",
+        "002224.webp",
+        "002225.webp",
+        "002249.webp",
+        "002273.webp",
+        "002274.webp",
+        "002289.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Nấm rơm này mình sẽ chẻ đôi để cái phần nước dùng nó dễ dàng thẩm thấu bên trong sẽ ngọt hơn.",
+      "start": 92.08,
+      "end": 96.64,
+      "n_words": 22,
+      "start_frame": 2302,
+      "end_frame": 2416,
+      "keyframes": [
+        "002305.webp",
+        "002306.webp",
+        "002343.webp",
+        "002380.webp",
+        "002381.webp",
+        "002396.webp",
+        "002412.webp",
+        "002413.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Rồi bây giờ mình tới cái phần tôm, chẻ đôi ra đi rồi tôm sẽ tập hợp cho vào cối xay và một ít gốc hành, một muỗng cà phê hành lá.",
+      "start": 96.64,
+      "end": 111.4,
+      "n_words": 32,
+      "start_frame": 2416,
+      "end_frame": 2785,
+      "keyframes": [
+        "002425.webp",
+        "002438.webp",
+        "002439.webp",
+        "002457.webp",
+        "002475.webp",
+        "002476.webp",
+        "002513.webp",
+        "002551.webp",
+        "002552.webp",
+        "002593.webp",
+        "002634.webp",
+        "002635.webp",
+        "002649.webp",
+        "002664.webp",
+        "002665.webp",
+        "002680.webp",
+        "002696.webp",
+        "002697.webp",
+        "002719.webp",
+        "002742.webp",
+        "002743.webp",
+        "002763.webp",
+        "002784.webp",
+        "002785.webp"
+      ],
+      "keyframe_count": 24
+    },
+    {
+      "text": "Kế đến là phần thịt xay, chúng ta sẽ nêm vào đây là nửa muỗng cà phê bột canh, một ít tiêu, một cái lòng trắng trứng gà.",
+      "start": 111.4,
+      "end": 118.72,
+      "n_words": 28,
+      "start_frame": 2785,
+      "end_frame": 2968,
+      "keyframes": [
+        "002785.webp",
+        "002806.webp",
+        "002828.webp",
+        "002829.webp",
+        "002861.webp",
+        "002894.webp",
+        "002895.webp",
+        "002907.webp",
+        "002920.webp",
+        "002921.webp",
+        "002956.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Ô mà anh Long ơi, tại sao trong cái phần nguyên liệu này mình cho lòng trắng vào để làm gì ạ?",
+      "start": 118.72,
+      "end": 122.72,
+      "n_words": 22,
+      "start_frame": 2968,
+      "end_frame": 3068,
+      "keyframes": [
+        "002992.webp",
+        "002993.webp",
+        "003030.webp",
+        "003067.webp",
+        "003068.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Khi cho lòng trắng vào, lòng trắng giúp cho cái phần nhân chúng ta nó không bị khô và có một độ kết dính.",
+      "start": 122.72,
+      "end": 127.36,
+      "n_words": 24,
+      "start_frame": 3068,
+      "end_frame": 3184,
+      "keyframes": [
+        "003068.webp",
+        "003127.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Một muỗng cà phê gừng băm, nửa muỗng cà phê dầu mè.",
+      "start": 127.36,
+      "end": 130.6,
+      "n_words": 12,
+      "start_frame": 3184,
+      "end_frame": 3265,
+      "keyframes": [
+        "003186.webp",
+        "003187.webp",
+        "003205.webp",
+        "003224.webp",
+        "003225.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ mình sẽ xay đều cái phần tôm thịt nè.",
+      "start": 130.6,
+      "end": 138.0,
+      "n_words": 11,
+      "start_frame": 3265,
+      "end_frame": 3450,
+      "keyframes": [
+        "003275.webp",
+        "003325.webp",
+        "003326.webp",
+        "003345.webp",
+        "003365.webp",
+        "003366.webp",
+        "003410.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Bây giờ sau khi có nhân là Long sẽ chuẩn bị một vỏ hoành thánh.",
+      "start": 138.0,
+      "end": 140.32,
+      "n_words": 15,
+      "start_frame": 3450,
+      "end_frame": 3508,
+      "keyframes": [
+        "003454.webp",
+        "003455.webp",
+        "003481.webp",
+        "003508.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Hồi nãy là Thanh Phương thử thách Long nha.",
+      "start": 140.32,
+      "end": 141.6,
+      "n_words": 9,
+      "start_frame": 3508,
+      "end_frame": 3540,
+      "keyframes": [
+        "003508.webp",
+        "003509.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ lấy lòng nó, thử thách Thanh Phương lại, ít nước vô.",
+      "start": 141.6,
+      "end": 145.36,
+      "n_words": 13,
+      "start_frame": 3540,
+      "end_frame": 3634,
+      "keyframes": [
+        "003548.webp",
+        "003587.webp",
+        "003588.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mình sẽ lấy một ít nha, một ít nhân, một ít nhân gói vào trong chính giữa nè, nhưng mà Long sẽ chập đôi lại.",
+      "start": 145.36,
+      "end": 157.68,
+      "n_words": 25,
+      "start_frame": 3634,
+      "end_frame": 3942,
+      "keyframes": [
+        "003674.webp",
+        "003760.webp",
+        "003761.webp",
+        "003777.webp",
+        "003793.webp",
+        "003794.webp",
+        "003815.webp",
+        "003836.webp",
+        "003837.webp",
+        "003869.webp",
+        "003901.webp",
+        "003902.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Đẹp quá ta!",
+      "start": 157.68,
+      "end": 158.96,
+      "n_words": 3,
+      "start_frame": 3942,
+      "end_frame": 3974,
+      "keyframes": [
+        "003943.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rồi nhưng mình lưu ý là khi chúng ta gói hoành thánh, chúng ta dùng một ít nước thấm vào lá hoành thánh thì sẽ dễ dàng tạo hình hơn.",
+      "start": 158.96,
+      "end": 168.72,
+      "n_words": 30,
+      "start_frame": 3974,
+      "end_frame": 4218,
+      "keyframes": [
+        "003984.webp",
+        "003985.webp",
+        "004005.webp",
+        "004025.webp",
+        "004026.webp",
+        "004043.webp",
+        "004061.webp",
+        "004062.webp",
+        "004097.webp",
+        "004132.webp",
+        "004133.webp",
+        "004155.webp",
+        "004178.webp",
+        "004179.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Như vậy là phần hoành thánh một nhân đã xong rồi.",
+      "start": 168.72,
+      "end": 171.52,
+      "n_words": 11,
+      "start_frame": 4218,
+      "end_frame": 4288,
+      "keyframes": [
+        "004231.webp",
+        "004283.webp",
+        "004284.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Long sẽ chuẩn bị thêm một ít hoành thánh lá này, Long sẽ cắt sợi chữ nhật vừa phải để mình đem chiên.",
+      "start": 171.52,
+      "end": 177.16,
+      "n_words": 23,
+      "start_frame": 4288,
+      "end_frame": 4429,
+      "keyframes": [
+        "004330.webp",
+        "004377.webp",
+        "004378.webp",
+        "004386.webp",
+        "004395.webp",
+        "004396.webp",
+        "004408.webp",
+        "004420.webp",
+        "004421.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Bây giờ Long sẽ chuẩn bị một cái chảo dầu để mình chiên và một cái nồi để mình luộc hoành thánh nha.",
+      "start": 177.16,
+      "end": 182.32,
+      "n_words": 23,
+      "start_frame": 4429,
+      "end_frame": 4558,
+      "keyframes": [
+        "004484.webp",
+        "004548.webp",
+        "004549.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Phần nước đã sôi thì mình sẽ cho cái phần hoành thánh vào đây.",
+      "start": 182.32,
+      "end": 188.32,
+      "n_words": 14,
+      "start_frame": 4558,
+      "end_frame": 4708,
+      "keyframes": [
+        "004580.webp",
+        "004611.webp",
+        "004612.webp",
+        "004658.webp",
+        "004705.webp",
+        "004706.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bên đây là hoành thánh chiên, một món ăn cực kỳ phong phú luôn.",
+      "start": 188.32,
+      "end": 191.44,
+      "n_words": 14,
+      "start_frame": 4708,
+      "end_frame": 4786,
+      "keyframes": [
+        "004734.webp",
+        "004763.webp",
+        "004764.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta vừa được thưởng thức hoành thánh chiên nè, hoành thánh luộc nè, súp nè, thêm vào đó là những cái topping hoành thánh chiên giòn lên nữa.",
+      "start": 191.44,
+      "end": 198.4,
+      "n_words": 29,
+      "start_frame": 4786,
+      "end_frame": 4960,
+      "keyframes": [
+        "004834.webp",
+        "004905.webp",
+        "004906.webp",
+        "004928.webp",
+        "004951.webp",
+        "004952.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Phần hoành thánh chúng ta đã chiên xong rồi mình sẽ lấy ra, trông giòn ngon quá.",
+      "start": 198.4,
+      "end": 203.08,
+      "n_words": 17,
+      "start_frame": 4960,
+      "end_frame": 5077,
+      "keyframes": [
+        "004985.webp",
+        "005018.webp",
+        "005019.webp",
+        "005048.webp",
+        "005077.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ cái phần mà hoành thánh mà sau khi luộc, mình phải cho vào tô nước lạnh để giữ lại cái độ dai của bột hoành thánh.",
+      "start": 203.08,
+      "end": 209.72,
+      "n_words": 28,
+      "start_frame": 5077,
+      "end_frame": 5243,
+      "keyframes": [
+        "005077.webp",
+        "005078.webp",
+        "005124.webp",
+        "005170.webp",
+        "005171.webp",
+        "005207.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bên đây thì mình sẽ tiếp tục mình chiên cái phần hoành thánh sợi để mình làm topping nè.",
+      "start": 209.72,
+      "end": 218.16,
+      "n_words": 19,
+      "start_frame": 5243,
+      "end_frame": 5454,
+      "keyframes": [
+        "005244.webp",
+        "005245.webp",
+        "005270.webp",
+        "005296.webp",
+        "005297.webp",
+        "005348.webp",
+        "005400.webp",
+        "005401.webp",
+        "005420.webp",
+        "005440.webp",
+        "005441.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Rồi xong, bây giờ mình sẽ cho vào đây chút dầu ăn để cho nó đừng có bị dính, đúng không?",
+      "start": 218.16,
+      "end": 225.04,
+      "n_words": 21,
+      "start_frame": 5454,
+      "end_frame": 5626,
+      "keyframes": [
+        "005455.webp",
+        "005470.webp",
+        "005471.webp",
+        "005488.webp",
+        "005506.webp",
+        "005507.webp",
+        "005537.webp",
+        "005567.webp",
+        "005568.webp",
+        "005599.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Mình cho phần bánh dính với nhau mình sẽ bị nát.",
+      "start": 225.04,
+      "end": 228.16,
+      "n_words": 11,
+      "start_frame": 5626,
+      "end_frame": 5704,
+      "keyframes": [
+        "005630.webp",
+        "005631.webp",
+        "005666.webp",
+        "005702.webp",
+        "005703.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ở đây thì Long đã chuẩn bị sẵn một lít hai nước dùng gà.",
+      "start": 228.16,
+      "end": 230.88,
+      "n_words": 14,
+      "start_frame": 5704,
+      "end_frame": 5772,
+      "keyframes": [
+        "005736.webp",
+        "005769.webp",
+        "005770.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cái phần nước dùng gà chúng ta đã sôi, mình sẽ cho vào đây là cái phần cà rốt và củ cải trắng để tạo độ ngọt và mình sẽ cho vào nấm rơm.",
+      "start": 230.88,
+      "end": 239.84,
+      "n_words": 34,
+      "start_frame": 5772,
+      "end_frame": 5996,
+      "keyframes": [
+        "005794.webp",
+        "005818.webp",
+        "005819.webp",
+        "005875.webp",
+        "005931.webp",
+        "005932.webp",
+        "005966.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cái phần cà rốt và củ cải trắng chúng ta cũng đã tiết ra độ ngọt và nấm cũng vậy.",
+      "start": 239.84,
+      "end": 244.88,
+      "n_words": 20,
+      "start_frame": 5996,
+      "end_frame": 6122,
+      "keyframes": [
+        "006001.webp",
+        "006002.webp",
+        "006061.webp",
+        "006121.webp",
+        "006122.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Long sẽ cho vào đây nửa muỗng canh bột canh, nửa muỗng cà phê bột ngọt Ajinomoto để điều vị.",
+      "start": 244.88,
+      "end": 253.96,
+      "n_words": 20,
+      "start_frame": 6122,
+      "end_frame": 6349,
+      "keyframes": [
+        "006122.webp",
+        "006139.webp",
+        "006157.webp",
+        "006158.webp",
+        "006188.webp",
+        "006219.webp",
+        "006220.webp",
+        "006259.webp",
+        "006299.webp",
+        "006300.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Đầu tiên là cái phần hoành thánh luộc nè, hấp dẫn quá!",
+      "start": 253.96,
+      "end": 258.32,
+      "n_words": 12,
+      "start_frame": 6349,
+      "end_frame": 6458,
+      "keyframes": [
+        "006353.webp",
+        "006406.webp",
+        "006407.webp",
+        "006428.webp",
+        "006450.webp",
+        "006451.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Kế đến là chúng ta sẽ cho vào đây một ít nước với một ít nấm lên nữa, và kế đến mình sẽ cho cái phần mà hoành thánh chiên lên trên mặt, rất là giòn.",
+      "start": 258.32,
+      "end": 267.36,
+      "n_words": 36,
+      "start_frame": 6458,
+      "end_frame": 6684,
+      "keyframes": [
+        "006507.webp",
+        "006563.webp",
+        "006564.webp",
+        "006598.webp",
+        "006632.webp",
+        "006633.webp",
+        "006659.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Một ít topping là cái hoành thánh chiên phía trên nè, rồi rắc hành phi nữa, một ít tiêu.",
+      "start": 267.36,
+      "end": 274.48,
+      "n_words": 19,
+      "start_frame": 6684,
+      "end_frame": 6862,
+      "keyframes": [
+        "006685.webp",
+        "006686.webp",
+        "006710.webp",
+        "006735.webp",
+        "006736.webp",
+        "006749.webp",
+        "006762.webp",
+        "006763.webp",
+        "006801.webp",
+        "006840.webp",
+        "006841.webp",
+        "006854.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Như vậy là món ăn chúng ta đã hoàn thành.",
+      "start": 274.48,
+      "end": 276.24,
+      "n_words": 10,
+      "start_frame": 6862,
+      "end_frame": 6906,
+      "keyframes": [
+        "006867.webp",
+        "006868.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ mời mọi người cùng thưởng thức hoành thánh thơm lừng với lớp vỏ mềm mại và nhân tôm thịt dai ngon bên trong, hòa quyện cùng với nước dùng đậm đà, ăn cùng hoành thánh chiên giòn giòn ngon khó cưỡng. Nhìn thôi đã thèm, nếm lại càng mê.",
+      "start": 276.24,
+      "end": 291.4,
+      "n_words": 51,
+      "start_frame": 6906,
+      "end_frame": 7285,
+      "keyframes": [
+        "006908.webp",
+        "006949.webp",
+        "006950.webp",
+        "006977.webp",
+        "007005.webp",
+        "007035.webp",
+        "007064.webp",
+        "007094.webp",
+        "007095.webp",
+        "007159.webp",
+        "007223.webp",
+        "007224.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Hãy bắt tay ngay vào thực hiện món súp hoành thánh các bạn nhé.",
+      "start": 291.32,
+      "end": 294.36,
+      "n_words": 14,
+      "start_frame": 7283,
+      "end_frame": 7359,
+      "keyframes": [
+        "007293.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Với mong muốn là người bạn đồng hành thiết thực cùng với quý vị khán giả, mỗi tuần chương trình sẽ có câu hỏi khảo sát và câu hỏi của chương trình kỳ này như sau: Bạn có thường xem chương trình Món ngon mỗi ngày với bạn bè và gia đình không?",
+      "start": 294.36,
+      "end": 305.64,
+      "n_words": 53,
+      "start_frame": 7359,
+      "end_frame": 7641,
+      "keyframes": [
+        "007362.webp",
+        "007363.webp",
+        "007425.webp",
+        "007487.webp",
+        "007488.webp",
+        "007514.webp",
+        "007541.webp",
+        "007542.webp",
+        "007590.webp",
+        "007639.webp",
+        "007640.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Cách thức để soạn tin nhắn như sau: MNER khoảng trắng CÓ hoặc KHÔNG gửi về tổng đài 8069.",
+      "start": 305.64,
+      "end": 311.56,
+      "n_words": 19,
+      "start_frame": 7641,
+      "end_frame": 7789,
+      "keyframes": [
+        "007724.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cước phí mỗi tin nhắn là 1.000 đồng.",
+      "start": 312.48,
+      "end": 314.84,
+      "n_words": 8,
+      "start_frame": 7812,
+      "end_frame": 7871,
+      "keyframes": [
+        "007840.webp",
+        "007870.webp",
+        "007871.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và cách thứ hai thì chúng ta có thể gửi tin nhắn tới fanpage của Món ngon mỗi ngày với địa chỉ nằm bên dưới màn hình ạ.",
+      "start": 314.84,
+      "end": 320.08,
+      "n_words": 28,
+      "start_frame": 7871,
+      "end_frame": 8002,
+      "keyframes": [
+        "007871.webp",
+        "007935.webp",
+        "008000.webp",
+        "008001.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Còn bây giờ thì xin được mến chào tạm biệt, hẹn gặp lại quý vị trong những chương trình lần sau.",
+      "start": 320.08,
+      "end": 324.92,
+      "n_words": 21,
+      "start_frame": 8002,
+      "end_frame": 8123,
+      "keyframes": [
+        "008065.webp"
+      ],
+      "keyframe_count": 1
+    }
+  ]
+}

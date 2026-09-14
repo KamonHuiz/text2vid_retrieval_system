@@ -1,0 +1,495 @@
+1
+00:00:00,040 --> 00:00:09,720
+Thầy xin chào tất cả các em.
+
+2
+00:00:09,720 --> 00:00:21,280
+Hôm nay chúng ta sẽ tiếp tục với một chuyên đề liên quan đến hình học tọa độ Oxyz, cụ thể là chuyên đề số 9: liên hệ giữa mặt cầu, đường thẳng, mặt phẳng trong hệ trục tọa độ Oxyz.
+
+3
+00:00:21,280 --> 00:00:24,120
+Hãy cùng chúng ta cùng nhau đi vào bài học.
+
+4
+00:00:24,120 --> 00:00:35,080
+Trường Đại học Quốc tế Sài Gòn (SIU) không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SIU nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt.
+
+5
+00:00:35,080 --> 00:00:45,840
+SIU mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới, trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.
+
+6
+00:00:45,840 --> 00:00:54,440
+Năm 2024, SIU tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng bốn phương thức tuyển sinh.
+
+7
+00:00:54,440 --> 00:01:21,000
+SIU cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SIU, 100 suất học bổng "Tiếp bước hành trình" quỹ tài năng trẻ, học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa, thể thao, nghệ thuật; Học bổng đồng hành xây dựng nhân lực chất lượng cao cho thành phố Thủ Đức, thành phố Hồ Chí Minh; Học bổng doanh nghiệp tài trợ; Học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.
+
+8
+00:01:21,000 --> 00:01:24,560
+SIU - Tâm hồn Việt Nam, giáo dục thế giới.
+
+9
+00:01:27,680 --> 00:01:39,720
+Trong không gian Oxyz, cho mặt cầu (S) có tâm là điểm A tọa độ là (2; 2) và mặt phẳng (P) có phương trình là $2x + 2y + z + 8 = 0$.
+
+10
+00:01:39,720 --> 00:01:45,080
+Mặt phẳng (P) này cắt mặt cầu (S) theo thiết diện là một đường tròn có bán kính $r = 8$.
+
+11
+00:01:45,800 --> 00:01:55,040
+Diện tích của mặt cầu (S) là Đây là bốn đáp án, bây giờ thầy sẽ minh họa bằng hình ảnh như sau.
+
+12
+00:01:55,040 --> 00:01:59,720
+Đây là mặt cầu tâm A và đây là mặt phẳng (P).
+
+13
+00:01:59,720 --> 00:02:07,760
+Mặt phẳng (B) này cắt cái mặt cầu theo một thiết diện là đường tròn như thế này, bán kính đường tròn thiết diện là bằng 8.
+
+14
+00:02:07,760 --> 00:02:09,680
+Yêu cầu tính diện tích mặt cầu (S).
+
+15
+00:02:09,680 --> 00:02:15,440
+Vậy thì để tính được diện tích của mặt cầu (S), chúng ta phải tính được bán kính của mặt cầu này.
+
+16
+00:02:15,440 --> 00:02:23,840
+Bây giờ chúng ta sẽ thấy nếu thầy kẻ AH vuông góc với mặt phẳng (B) thì lúc này H sẽ là tâm của cái đường tròn thiết diện.
+
+17
+00:02:23,840 --> 00:02:29,520
+Độ dài của đoạn AH chính là độ dài của khoảng cách từ A đến mặt phẳng (B).
+
+18
+00:02:29,520 --> 00:02:35,280
+Chúng ta có công thức và chúng ta dễ dàng tính được là bằng 6.
+
+19
+00:02:35,280 --> 00:02:46,000
+Bây giờ chúng ta sẽ sử dụng định lý Pythagoras trong tam giác AHM, trong đó AH bằng 6, HM chính là bán kính của đường tròn thiết diện là bằng 8.
+
+20
+00:02:46,000 --> 00:02:55,120
+Vậy thì $R^2$ (bán kính mặt cầu) tức là $AM^2$ sẽ bằng $AH^2$ cộng cho $r^2$ (bán kính đường tròn thiết diện).
+
+21
+00:02:55,120 --> 00:03:00,680
+Lúc này AH bằng 6, $r$ bằng 8, ta thay vào ta tính được $R^2$ là bằng 100.
+
+22
+00:03:01,160 --> 00:03:09,120
+Từ đây ta có $R = 10$ và suy ra diện tích của mặt cầu (S) công thức là $4\pi R^2$ và bằng 400$\pi$.
+
+23
+00:03:09,840 --> 00:03:12,240
+Ta chọn đáp án D.
+
+24
+00:03:12,240 --> 00:03:15,200
+Tiếp theo chúng ta đến với ví dụ số 2.
+
+25
+00:03:15,200 --> 00:03:18,880
+Thì đây là một cái ví dụ liên hệ giữa mặt cầu với lại đường thẳng.
+
+26
+00:03:18,880 --> 00:03:24,560
+Cụ thể, trong không gian Oxyz, cho điểm I tọa độ là (1; -2; 3).
+
+27
+00:03:25,280 --> 00:03:33,200
+Yêu cầu viết phương trình mặt cầu tâm I cắt trục Ox tại hai điểm A và B sao cho độ dài đoạn thẳng AB là bằng $2\sqrt{3}$.
+
+28
+00:03:34,280 --> 00:03:43,520
+Thì đây là hình ảnh minh họa: mặt cầu tâm I, hai điểm A, B này nằm trên trục Ox và nằm trên mặt cầu (S), $AB = 2\sqrt{3}$.
+
+29
+00:03:45,560 --> 00:03:51,800
+Rõ ràng để viết được phương trình của mặt cầu, chúng ta đã có tâm rồi, chúng ta chỉ còn thiếu bán kính của nó thôi.
+
+30
+00:03:51,800 --> 00:03:53,640
+Và bán kính của nó chính là độ dài đoạn YA và độ dài đoạn YB.
+
+31
+00:03:54,880 --> 00:03:57,880
+Vậy thì bây giờ thầy sẽ cố gắng tính độ dài đoạn YA.
+
+32
+00:04:00,320 --> 00:04:08,640
+Bây giờ thầy sẽ gọi H là trung điểm của AB thì dễ thấy lúc này cái YH nó sẽ vuông góc với AB.
+
+33
+00:04:10,440 --> 00:04:22,400
+Mặt khác, chúng ta thấy AB chính là nằm trên trục Ox và do đó YH vuông góc với AB, suy ra H chính là hình chiếu của Y lên trục Ox.
+
+34
+00:04:22,400 --> 00:04:31,400
+Và rõ ràng điểm Y tọa độ là (1; -2; 3), nếu chiếu lên trục Ox chúng ta sẽ được điểm H tọa độ là (1; 0; 0).
+
+35
+00:04:31,400 --> 00:04:43,760
+Từ đây thầy dễ dàng tính được độ dài của đoạn YH là $\sqrt{(-2)^2 + 3^2}$, tức là độ dài của vector YH bằng $\sqrt{13}$.
+
+36
+00:04:45,280 --> 00:04:51,160
+Lúc này thầy đã có YH, bây giờ muốn tính được YA, thầy sẽ sử dụng định lý Pythagoras trong tam giác YHA.
+
+37
+00:04:52,680 --> 00:04:57,960
+Vậy thì hãy tính được AH trước, thì AH chính là một nửa AB và bằng $\sqrt{3}$.
+
+38
+00:04:58,920 --> 00:05:08,400
+Áp dụng định lý Pythagoras trong tam giác YHA thì bán kính $R$ của mặt cầu chính là độ dài YA sẽ bằng $\sqrt{HA^2 + YH^2} = \sqrt{(\sqrt{3})^2 + (\sqrt{13})^2}$.
+
+39
+00:05:13,000 --> 00:05:16,680
+Ta dễ dàng tính ra được $R$ bằng 4.
+
+40
+00:05:16,680 --> 00:05:29,320
+Từ đây phương trình của mặt cầu sẽ là $(x - 1)^2 + (y + 2)^2 + (z - 3)^2 = R^2$, tức là $4^2$ và bằng 16.
+
+41
+00:05:31,600 --> 00:05:42,200
+Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến, hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.
+
+42
+00:05:42,200 --> 00:05:50,120
+Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện, cân bằng giữa học thuật và nghệ thuật, thể thao.
+
+43
+00:05:50,400 --> 00:06:00,480
+Mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, khơi nguồn cảm hứng, độc lập để phát triển và hoàn thiện nhân cách.
+
+44
+00:06:00,480 --> 00:06:20,000
+Ngoài những giờ học trên lớp, học sinh Trường Quốc tế Á Châu còn được trải nghiệm, thử thách bản thân và phản biện các vấn đề để tự mình học hỏi, trưởng thành độc lập hơn.
+
+45
+00:06:20,000 --> 00:06:36,080
+Nơi đây với tôi còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.
+
+46
+00:06:36,080 --> 00:06:41,160
+Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là cuộc sống.
+
+47
+00:06:41,160 --> 00:06:47,080
+Từ môi trường giáo dục này, chúng tôi đã tự tin bước tiếp và viết nên câu chuyện tương lai của chính mình.
+
+48
+00:06:59,560 --> 00:07:12,880
+Trong không gian Oxyz, cho mặt cầu (S) có phương trình là $(x + 1)^2 + (y + 1)^2 + (z + 1)^2 = 9$ và một điểm A tọa độ là (2; 3; -1).
+
+49
+00:07:14,320 --> 00:07:22,680
+Bây giờ ta xét các điểm M nằm trên mặt cầu (S) sao cho đường thẳng AM này luôn tiếp xúc với mặt cầu (S).
+
+50
+00:07:22,680 --> 00:07:32,960
+Thì đề bài yêu cầu chúng ta xác định một mặt phẳng mà điểm M này luôn luôn nằm trên mặt phẳng đó.
+
+51
+00:07:32,960 --> 00:07:39,480
+Thì đây là một câu hỏi, dạng của nó giống với một câu hỏi đã xuất hiện trong đề minh họa năm 2024.
+
+52
+00:07:40,560 --> 00:07:58,280
+Bây giờ chúng ta sẽ minh họa bằng hình ảnh: đây là một cái mặt cầu tâm I, đây là một cái điểm M sao cho IM tiếp xúc với mặt cầu (S).
+
+53
+00:07:58,280 --> 00:08:05,840
+Bây giờ chúng ta phải tìm được một cái mặt phẳng mà cái M này luôn luôn nằm trên cái mặt phẳng đó.
+
+54
+00:08:05,840 --> 00:08:14,840
+Thì bây giờ mặt cầu (S) này chúng ta sẽ thấy nó có tâm I tọa độ là (-1; -1; -1) và bán kính là $R = 3$.
+
+55
+00:08:14,840 --> 00:08:28,800
+Bây giờ thầy sẽ gọi cái điểm M này có tọa độ là (x; Y; Z) và dĩ nhiên M nằm trên mặt cầu (S), do đó nó sẽ thỏa cái phương trình của mặt cầu (S) là $(x + 1)^2 + (y + 1)^2 + (z + 1)^2 = 9$.
+
+56
+00:08:31,280 --> 00:08:39,120
+Từ đây ta khai triển ta sẽ có cái phương trình số 1: $x^2 + y^2 + z^2 + 2x + 2y + 2z - 6 = 0$.
+
+57
+00:08:43,000 --> 00:08:52,360
+Bây giờ do AM tiếp xúc với cái mặt cầu này, do đó chúng ta sẽ có cái AM sẽ vuông góc với lại IM.
+
+58
+00:08:53,120 --> 00:08:58,080
+Vậy thì áp dụng định lý Pythagoras thì thầy sẽ có $AM^2 = IA^2 - IM^2$.
+
+59
+00:09:01,640 --> 00:09:12,400
+Thì rõ ràng IA thầy sẽ tính được bởi vậy thầy đã có tọa độ điểm I và tọa độ điểm A rồi, bán kính $R = 3$, từ đây thầy dễ dàng tính được $AM^2 = 16$.
+
+60
+00:09:14,600 --> 00:09:33,200
+Mà chúng ta thấy $AM^2$ thì bản chất chính là bằng $(x - 2)^2 + (y - 3)^2 + (z + 1)^2$ với (x; Y; Z) là tọa độ của M và (2; 3; -1) là tọa độ của A.
+
+61
+00:09:33,200 --> 00:09:39,920
+Thì ở phương trình này chúng ta cũng khai triển và chúng ta thu được cái phương trình số 2.
+
+62
+00:09:39,920 --> 00:09:51,400
+Thì lúc này quan sát phương trình 1 và phương trình 2, chúng ta sẽ lấy phương trình 1 mà trừ cho phương trình 2 thì lúc này thầy sẽ thu được $3x + 4y - 2 = 0$.
+
+63
+00:09:52,400 --> 00:10:00,440
+Thì chúng ta sẽ thấy tất cả những cái điểm M thì tọa độ của nó sẽ thỏa mãn cái phương trình là $3x + 4y - 2 = 0$.
+
+64
+00:10:01,080 --> 00:10:11,600
+Vậy thì điểm M luôn thuộc một cái mặt phẳng có phương trình là $3x + 4y - 2 = 0$ và ta chọn đáp án A.
+
+65
+00:10:11,600 --> 00:10:14,480
+Tiếp theo chúng ta đến với ví dụ số 4.
+
+66
+00:10:14,480 --> 00:10:18,920
+Thì cái ví dụ số 4 này cũng là phát triển từ cái ví dụ số 3.
+
+67
+00:10:18,920 --> 00:10:29,480
+Cụ thể, trong không gian Oxyz, cho một cái điểm A tọa độ là (4; -2; 2) và một cái mặt cầu (S) có phương trình là $x^2 + y^2 + z^2 = 4$.
+
+68
+00:10:33,120 --> 00:10:43,840
+Chúng ta xét ba điểm B, C, D sao cho các tiếp diện của S tại mỗi điểm đó đều đi qua điểm A.
+
+69
+00:10:43,840 --> 00:10:51,760
+Có nghĩa là các mặt phẳng tiếp xúc với mặt cầu (S) tại B, C, D đều đi qua điểm A.
+
+70
+00:10:51,760 --> 00:11:00,240
+Bây giờ đề bài yêu cầu xác định bán kính r của đường tròn ngoại tiếp tam giác BCD.
+
+71
+00:11:00,240 --> 00:11:04,200
+Thì ở đây thầy có minh họa bằng hình vẽ.
+
+72
+00:11:04,200 --> 00:11:09,840
+Bây giờ chúng ta cùng nhau phân tích để tìm ra cái lời giải của bài toán này.
+
+73
+00:11:09,840 --> 00:11:21,320
+Thì rõ ràng đầu tiên với mặt cầu (S), thầy sẽ xác định được tâm O của mặt cầu này tọa độ là (0; 0; 0) và bán kính $R = 2$.
+
+74
+00:11:21,320 --> 00:11:29,400
+Bây giờ điểm A này chúng ta thấy $OA = 2\sqrt{6}$ cho nên nó sẽ nằm ngoài mặt cầu.
+
+75
+00:11:29,400 --> 00:11:36,640
+Bây giờ thầy sẽ gọi H là giao điểm của OA với lại mặt phẳng BCD.
+
+76
+00:11:36,640 --> 00:11:50,560
+Bây giờ chúng ta sẽ thấy do các tiếp diện của (S) tại B, C, D đều đi qua A, do đó AB, AC và AD nó sẽ là các tiếp tuyến của mặt cầu (S), nên ta sẽ có là $AB = AC = AD$.
+
+77
+00:11:50,560 --> 00:12:02,240
+Và AB chúng ta có thể tính được bằng cách áp dụng định lý Pythagoras trong tam giác ABO, thì nó sẽ bằng $\sqrt{OA^2 - R^2}$.
+
+78
+00:12:05,440 --> 00:12:18,360
+Trong đó O chúng ta đã có tọa độ là (0; 0; 0), A chúng ta đã có tọa độ là (4; -2; 2), $OA = 2\sqrt{6}$, $R = 2$, ta tính được ra $AB = AC = AD = 2\sqrt{5}$.
+
+79
+00:12:20,760 --> 00:12:23,880
+Ngoài ra chúng ta cũng có $OB = OC = OD$.
+
+80
+00:12:26,400 --> 00:12:46,400
+Từ việc $AB = AC = AD$ và $OB = OC = OD$, do đó cái OA này nó sẽ là trục của đường tròn ngoại tiếp tam giác BCD, và do đó cái điểm H nó sẽ là tâm của đường tròn ngoại tiếp tam giác BCD.
+
+81
+00:12:46,400 --> 00:12:53,840
+Vậy thì đề bài yêu cầu xác định bán kính của đường tròn ngoại tiếp BCD, có nghĩa là chúng ta sẽ đi tính độ dài của đoạn HB.
+
+82
+00:12:53,840 --> 00:13:04,800
+Và rõ ràng độ dài của đoạn HB chúng ta có thể tính được bằng cách áp dụng hệ thức lượng trong tam giác vuông ABO, đường cao là HB.
+
+83
+00:13:04,800 --> 00:13:08,000
+Vậy thì bây giờ ta sẽ có $\frac{1}{BH^2} = \frac{1}{AB^2} + \frac{1}{OB^2}$.
+
+84
+00:13:14,360 --> 00:13:32,880
+Thì ở đây $AB = 2\sqrt{5}$, OB chúng ta có là bán kính của mặt cầu là bằng 2, từ đây hãy tính được $\frac{1}{BH^2} = \frac{3}{10}$ và do đó BH chúng ta sẽ có là $\sqrt{\frac{10}{3}}$ và đó cũng chính là bán kính của đường tròn ngoại tiếp tam giác BCD.
+
+85
+00:13:32,880 --> 00:13:33,000
+Ta chọn đáp án D.
+
+86
+00:13:38,280 --> 00:13:50,640
+Có được thành công như hôm nay, tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình bắt đầu từ trường Đại học Quốc tế Sài Gòn (SIU).
+
+87
+00:13:50,640 --> 00:13:57,440
+Đào tạo đa dạng đa lĩnh vực, SIU mở ra cho chúng tôi nhiều cơ hội lựa chọn nghề nghiệp trong tương lai.
+
+88
+00:13:57,440 --> 00:14:04,720
+Tất cả sinh viên đều có cơ hội để thể hiện và phát triển năng lực, những ý tưởng luôn được khuyến khích và phát huy tối đa.
+
+89
+00:14:04,720 --> 00:14:10,800
+Chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin, chúng tôi được học cách học, cách nghĩ và cách sống.
+
+90
+00:14:10,800 --> 00:14:17,920
+Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.
+
+91
+00:14:17,920 --> 00:14:28,480
+Hiện đại, năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc, đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn (SIU) luôn hướng đến.
+
+92
+00:14:28,480 --> 00:14:37,400
+Đã đến lúc vươn xa hơn những gì đã học, những gì đã biết.
+
+93
+00:14:37,400 --> 00:14:39,240
+Chúng ta sẽ đến với ví dụ số 5.
+
+94
+00:14:39,240 --> 00:14:45,480
+Thì đây là một cái ví dụ tương đối khó và nằm ở mức vận dụng, vận dụng cao, các em quan sát ví dụ này.
+
+95
+00:14:45,480 --> 00:15:00,040
+Trong không gian Oxyz, cho hai đường thẳng $d_1: \frac{x+2}{2} = \frac{y+1}{-3} = \frac{z}{1}$ và mặt cầu $(S): (x-2)^2 + (y+1)^2 + (z+1)^2 = 6$.
+
+96
+00:15:05,600 --> 00:15:12,600
+Bây giờ chúng ta xét hai cái mặt phẳng (P) và (Q) là hai cái mặt phẳng chứa $d_1$ và tiếp xúc với mặt cầu (S).
+
+97
+00:15:12,600 --> 00:15:18,800
+Các em có thể quan sát trên hình vẽ, đây là mặt (P) và đây là mặt (Q) tiếp xúc với mặt cầu (S) tại A và B.
+
+98
+00:15:18,800 --> 00:15:21,640
+Yêu cầu tính cos của cái góc $\angle AIB$.
+
+99
+00:15:25,720 --> 00:15:35,360
+Vậy thì để giải quyết cái bài toán này, đầu tiên thầy sẽ có cái bán kính của mặt cầu (S) là $\sqrt{6}$ và tâm của nó là (2; -1; -1).
+
+100
+00:15:37,560 --> 00:15:45,840
+Bây giờ thầy sẽ gọi cái điểm K này chính là giao điểm của cái mặt phẳng (AIB) với đường thẳng $d_1$.
+
+101
+00:15:45,840 --> 00:15:51,960
+Đây là cái hình ảnh minh họa của điểm K.
+
+102
+00:15:51,960 --> 00:16:03,640
+Lúc này ta sẽ có, do (B) tiếp xúc với mặt cầu (S) tại A vậy thì ta sẽ có IA vuông góc với mặt phẳng (B) và do đó IA cũng sẽ vuông góc với $d_1$.
+
+103
+00:16:03,640 --> 00:16:07,760
+Tương tự, IB cũng sẽ vuông góc với đường $d_1$.
+
+104
+00:16:07,760 --> 00:16:11,640
+Điều này suy ra cái đường thẳng $d_1$ này sẽ vuông góc với lại mặt phẳng (AIB).
+
+105
+00:16:13,200 --> 00:16:28,800
+Và rõ ràng IK nằm trong mặt phẳng (AIB), do đó $d_1$ sẽ vuông góc với lại IK, hay nói cách khác K sẽ là cái hình chiếu của điểm I trên đường thẳng $d_1$.
+
+106
+00:16:28,800 --> 00:16:32,960
+Vậy thì rõ ràng chúng ta có thể tìm được tọa độ của điểm K này.
+
+107
+00:16:32,960 --> 00:16:35,440
+Bây giờ thầy sẽ tìm tọa độ của điểm K.
+
+108
+00:16:35,440 --> 00:16:46,040
+Bây giờ do K nằm trên đường thẳng $d_1$, do đó thầy có thể gọi tọa độ của K theo tham số của đường thẳng $d_1$ là $(2a + 2; -3a - 1; A)$.
+
+109
+00:16:48,720 --> 00:16:56,920
+Dựa vào đường thẳng $d_1$, lúc này thầy tính được vector YK là $(2a - 4; -3a; A + 1)$.
+
+110
+00:17:00,560 --> 00:17:08,680
+Do K là hình chiếu của Y lên $d_1$, vậy thì ta sẽ có vector YK vuông góc với vector chỉ phương của $d_1$.
+
+111
+00:17:08,680 --> 00:17:14,680
+Nói cách khác, vector YK nhân với vector chỉ phương của $d_1$ sẽ bằng 0.
+
+112
+00:17:14,680 --> 00:17:23,120
+Vector chỉ phương của $d_1$ tọa độ của nó là (2; -3; 1), còn đây là vector YK, từ đây dễ dàng ta tính được a bằng 1/2.
+
+113
+00:17:24,000 --> 00:17:29,040
+Vậy thì thầy sẽ có được tọa độ của điểm K là (-1; -5/2; 1/2).
+
+114
+00:17:32,680 --> 00:17:37,600
+Bây giờ quay trở lại bài toán, chúng ta cần tính cos của góc $\angle AIB$.
+
+115
+00:17:37,600 --> 00:17:48,960
+Vậy thì sau khi tìm được cái tọa độ điểm K này, thì thầy sẽ tính được độ dài đoạn IK, và thầy cũng có độ dài đoạn IA chính là bán kính của mặt cầu rồi và bằng $\sqrt{6}$.
+
+116
+00:17:49,560 --> 00:17:58,160
+Do đó thầy có thể tính được cos của góc $\angle AIK$, góc $\angle AIK$ cos của nó sẽ bằng IA chia cho IK.
+
+117
+00:17:58,160 --> 00:18:04,960
+$IA = \sqrt{6}$ và $IK = \frac{3\sqrt{6}}{2}$, và từ đây thầy tính được cos của góc $\angle AIK$ là bằng 2/3.
+
+118
+00:18:06,280 --> 00:18:13,440
+Bây giờ đề bài yêu cầu tính cos của góc $\angle AIB$ và rõ ràng góc $\angle AIB$ là bằng hai lần của góc $\angle AIK$.
+
+119
+00:18:13,440 --> 00:18:23,760
+Áp dụng công thức nhân đôi cho cos, ta có cos của hai lần góc $\angle AIK$ sẽ bằng hai lần $\cos^2(\angle AIK)$ mà đem trừ cho 1.
+
+120
+00:18:23,760 --> 00:18:30,680
+Cos góc $\angle AIK$ chúng ta đã tính được là 2/3, thay vào và tính được cos của góc $\angle AIB$ là bằng -1/9.
+
+121
+00:18:31,920 --> 00:18:33,440
+Ta chọn đáp án A.
+
+122
+00:18:33,760 --> 00:18:38,800
+Đây là một cái ví dụ tương đối khó, nên các em có thể lưu ý những cái dạng toán như thế này.
+
+123
+00:18:38,800 --> 00:18:47,960
+Thì trên đây là toàn bộ các bài tập liên quan đến việc liên hệ giữa ba cái khối là khối cầu, đường thẳng và mặt phẳng.
+
+124
+00:18:47,960 --> 00:18:53,040
+Hẹn gặp lại các em ở các chuyên đề tiếp theo, xin chào tạm biệt các em.

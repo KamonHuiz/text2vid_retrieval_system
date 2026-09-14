@@ -1,0 +1,762 @@
+{
+  "video_id": "L26_V453",
+  "fps": 25.0,
+  "n_sentences": 40,
+  "total_words": 1073,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.52,
+      "end": 12.4,
+      "n_words": 4,
+      "start_frame": 263,
+      "end_frame": 310,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Trời ơi, cô Hà làm cái món gì với thịt ba rọi xông khói mà nhìn ngon quá!",
+      "start": 12.4,
+      "end": 17.6,
+      "n_words": 18,
+      "start_frame": 310,
+      "end_frame": 440,
+      "keyframes": [
+        "000324.webp",
+        "000349.webp",
+        "000350.webp",
+        "000374.webp",
+        "000399.webp",
+        "000400.webp",
+        "000417.webp",
+        "000434.webp",
+        "000435.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Nhưng mà em lại có một nỗi lo rất là lớn, nghe đồn ăn thịt ba rọi thì sẽ rất là mập luôn.",
+      "start": 17.6,
+      "end": 24.32,
+      "n_words": 23,
+      "start_frame": 440,
+      "end_frame": 608,
+      "keyframes": [
+        "000465.webp",
+        "000496.webp",
+        "000497.webp",
+        "000549.webp",
+        "000602.webp",
+        "000603.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Em biết là ở trong thịt ba rọi xông khói nó cũng có một cái hàm lượng axit oleic là một cái loại axit mà nó cũng có ở trong dầu ô liu mà người ta hay ca ngợi là tốt cho tim mạch đó.",
+      "start": 24.32,
+      "end": 36.04,
+      "n_words": 45,
+      "start_frame": 608,
+      "end_frame": 901,
+      "keyframes": [
+        "000678.webp",
+        "000754.webp",
+        "000755.webp",
+        "000813.webp",
+        "000872.webp",
+        "000873.webp",
+        "000894.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Nhưng mà bất cứ một loại thực phẩm nào cũng vậy, chúng ta ăn ở mức độ vừa phải thì nó sẽ không có tác hại gì hết.",
+      "start": 36.04,
+      "end": 41.84,
+      "n_words": 28,
+      "start_frame": 901,
+      "end_frame": 1046,
+      "keyframes": [
+        "000916.webp",
+        "000917.webp",
+        "000955.webp",
+        "000994.webp",
+        "000995.webp",
+        "001015.webp",
+        "001036.webp",
+        "001037.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Vậy thì kỳ này hai cô ta hoàn toàn yên tâm để thử món ngon mới do cô Hà chế biến rồi: sườn cuộn bacon chiên mè đậm đà trọn vị.",
+      "start": 41.84,
+      "end": 67.52,
+      "n_words": 31,
+      "start_frame": 1046,
+      "end_frame": 1688,
+      "keyframes": [
+        "001100.webp",
+        "001163.webp",
+        "001164.webp",
+        "001188.webp",
+        "001213.webp",
+        "001214.webp",
+        "001254.webp",
+        "001295.webp",
+        "001296.webp",
+        "001352.webp",
+        "001408.webp",
+        "001430.webp",
+        "001474.webp",
+        "001518.webp",
+        "001519.webp",
+        "001606.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Chào mừng các bạn đang đến với chương trình Món ngon mỗi ngày được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 67.52,
+      "end": 73.28,
+      "n_words": 22,
+      "start_frame": 1688,
+      "end_frame": 1832,
+      "keyframes": [
+        "001694.webp",
+        "001695.webp",
+        "001764.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta sẽ sử dụng những cái sườn mà có cọng như thế này, khi bớt phần thịt xung quanh đây thì mình sẽ có những cái que sườn như thế này.",
+      "start": 73.28,
+      "end": 79.32,
+      "n_words": 32,
+      "start_frame": 1832,
+      "end_frame": 1983,
+      "keyframes": [
+        "001834.webp",
+        "001835.webp",
+        "001869.webp",
+        "001904.webp",
+        "001905.webp",
+        "001942.webp",
+        "001979.webp",
+        "001980.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Các bạn lưu ý là khi ướp sườn, chúng ta sẽ khứa nhẹ xung quanh miếng sườn vài đường để cho sườn mềm và thấm gia vị.",
+      "start": 79.32,
+      "end": 86.32,
+      "n_words": 27,
+      "start_frame": 1983,
+      "end_frame": 2158,
+      "keyframes": [
+        "002019.webp",
+        "002059.webp",
+        "002060.webp",
+        "002084.webp",
+        "002108.webp",
+        "002109.webp",
+        "002135.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Thì bây giờ mình sẽ ướp gia vị vào trong sườn này: hai muỗng canh hành tím băm và tỏi băm, nửa muỗng canh đường, một muỗng cà phê hạt nêm Aji-no-moto ngon heo, một muỗng cà phê tiêu Lốt.",
+      "start": 86.32,
+      "end": 98.24,
+      "n_words": 40,
+      "start_frame": 2158,
+      "end_frame": 2456,
+      "keyframes": [
+        "002162.webp",
+        "002163.webp",
+        "002190.webp",
+        "002217.webp",
+        "002218.webp",
+        "002236.webp",
+        "002254.webp",
+        "002255.webp",
+        "002277.webp",
+        "002300.webp",
+        "002301.webp",
+        "002319.webp",
+        "002338.webp",
+        "002339.webp",
+        "002378.webp",
+        "002418.webp",
+        "002419.webp",
+        "002436.webp",
+        "002454.webp",
+        "002455.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Tiêu Lốt mình mua về mình sẽ rang lên và mình sẽ giã ra mình sẽ cho vào đây.",
+      "start": 98.24,
+      "end": 102.32,
+      "n_words": 19,
+      "start_frame": 2456,
+      "end_frame": 2558,
+      "keyframes": [
+        "002493.webp",
+        "002531.webp",
+        "002532.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Một muỗng canh nước tương Phú Sĩ.",
+      "start": 102.32,
+      "end": 105.08,
+      "n_words": 7,
+      "start_frame": 2558,
+      "end_frame": 2627,
+      "keyframes": [
+        "002581.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta cần để cái sườn trong khoảng từ 15 tới 20 phút.",
+      "start": 105.08,
+      "end": 109.56,
+      "n_words": 13,
+      "start_frame": 2627,
+      "end_frame": 2739,
+      "keyframes": [
+        "002631.webp",
+        "002632.webp",
+        "002686.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mình sẽ cho vào đây một ít dầu, một ít là hành tím băm và tỏi băm, khi cho thơm lên, thơm lên rồi bây giờ chúng ta sẽ cho cái phần sườn đã ướp vào đây, mình xào lên cho săn cái phần sườn này lại và thấm gia vị nữa.",
+      "start": 109.56,
+      "end": 125.24,
+      "n_words": 52,
+      "start_frame": 2739,
+      "end_frame": 3131,
+      "keyframes": [
+        "002740.webp",
+        "002741.webp",
+        "002765.webp",
+        "002789.webp",
+        "002790.webp",
+        "002815.webp",
+        "002841.webp",
+        "002842.webp",
+        "002876.webp",
+        "002911.webp",
+        "002912.webp",
+        "002928.webp",
+        "002945.webp",
+        "002946.webp",
+        "002984.webp",
+        "003022.webp",
+        "003023.webp",
+        "003051.webp",
+        "003079.webp",
+        "003080.webp",
+        "003115.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Và em thấy có cái mùi rất là đặc biệt, chắc có lẽ là do mình đã bỏ tiêu Lốt vô đúng không?",
+      "start": 125.24,
+      "end": 129.04,
+      "n_words": 23,
+      "start_frame": 3131,
+      "end_frame": 3226,
+      "keyframes": [
+        "003151.webp",
+        "003152.webp",
+        "003192.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng rồi.",
+      "start": 129.04,
+      "end": 129.44,
+      "n_words": 2,
+      "start_frame": 3226,
+      "end_frame": 3236,
+      "keyframes": [
+        "003233.webp",
+        "003234.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Sau khi mà thịt sườn săn lại rồi thì chúng ta sẽ cho vào đây khoảng chừng một đến hai chén nước, nó vừa ngập sườn chút xíu thôi thì mình sẽ ôm để cho cái phần sườn này chín mềm ha.",
+      "start": 129.44,
+      "end": 139.2,
+      "n_words": 42,
+      "start_frame": 3236,
+      "end_frame": 3480,
+      "keyframes": [
+        "003269.webp",
+        "003305.webp",
+        "003306.webp",
+        "003332.webp",
+        "003359.webp",
+        "003360.webp",
+        "003384.webp",
+        "003409.webp",
+        "003410.webp",
+        "003445.webp",
+        "003480.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Phần sườn nó đã mềm rồi đó, chúng ta sẽ vớt sườn ra.",
+      "start": 139.2,
+      "end": 142.2,
+      "n_words": 13,
+      "start_frame": 3480,
+      "end_frame": 3555,
+      "keyframes": [
+        "003480.webp",
+        "003481.webp",
+        "003495.webp",
+        "003510.webp",
+        "003511.webp",
+        "003533.webp",
+        "003555.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Các bạn lưu ý là chúng ta sẽ ôm sườn trước để sườn thật mềm và thấm vị nhé.",
+      "start": 142.2,
+      "end": 146.92,
+      "n_words": 19,
+      "start_frame": 3555,
+      "end_frame": 3673,
+      "keyframes": [
+        "003555.webp",
+        "003556.webp",
+        "003587.webp",
+        "003619.webp",
+        "003620.webp",
+        "003646.webp",
+        "003673.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Pha cái sốt: cho vào đây hai muỗng canh sốt mayonnaise Aji-no-moto, vô khoảng một muỗng canh tương ớt.",
+      "start": 146.92,
+      "end": 153.88,
+      "n_words": 19,
+      "start_frame": 3673,
+      "end_frame": 3847,
+      "keyframes": [
+        "003673.webp",
+        "003674.webp",
+        "003709.webp",
+        "003745.webp",
+        "003746.webp",
+        "003774.webp",
+        "003803.webp",
+        "003804.webp",
+        "003824.webp",
+        "003845.webp",
+        "003846.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Chúng ta thích cái vị cay hơn xíu á thì mình sẽ cho thêm một chút xíu ớt băm, chúng ta sẽ trộn đều lên rồi chúng ta đã có cái phần sốt sẵn sàng.",
+      "start": 153.88,
+      "end": 163.12,
+      "n_words": 35,
+      "start_frame": 3847,
+      "end_frame": 4078,
+      "keyframes": [
+        "003896.webp",
+        "003947.webp",
+        "003948.webp",
+        "003982.webp",
+        "004016.webp",
+        "004017.webp",
+        "004049.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ cuộn bacon với sườn rồi mình trải một miếng ra, đặt một miếng sườn lên và mình sẽ cuộn lại như thế này, dùng một cái cây tăm mình sẽ ghim dọc theo cái sườn như thế này thì mình cứ như vậy mình sẽ cuộn hết cái phần sườn lại bằng cái thịt ba rọi xông khói như vậy là mình đã cuộn xong rồi đó.",
+      "start": 163.12,
+      "end": 186.16,
+      "n_words": 72,
+      "start_frame": 4078,
+      "end_frame": 4654,
+      "keyframes": [
+        "004081.webp",
+        "004082.webp",
+        "004136.webp",
+        "004191.webp",
+        "004192.webp",
+        "004213.webp",
+        "004235.webp",
+        "004236.webp",
+        "004272.webp",
+        "004309.webp",
+        "004310.webp",
+        "004365.webp",
+        "004420.webp",
+        "004421.webp",
+        "004451.webp",
+        "004482.webp",
+        "004483.webp",
+        "004500.webp",
+        "004518.webp",
+        "004519.webp",
+        "004554.webp",
+        "004589.webp",
+        "004590.webp",
+        "004622.webp"
+      ],
+      "keyframe_count": 24
+    },
+    {
+      "text": "Em đặt lên trên bếp giùm cô một cái chảo dầu nha.",
+      "start": 186.16,
+      "end": 189.12,
+      "n_words": 12,
+      "start_frame": 4654,
+      "end_frame": 4728,
+      "keyframes": [
+        "004655.webp",
+        "004656.webp",
+        "004672.webp",
+        "004689.webp",
+        "004690.webp",
+        "004709.webp",
+        "004728.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Chúng ta sẽ sử dụng gia vị nêm sẵn Ajinomoto bột chiên giòn.",
+      "start": 189.12,
+      "end": 192.56,
+      "n_words": 13,
+      "start_frame": 4728,
+      "end_frame": 4814,
+      "keyframes": [
+        "004728.webp",
+        "004729.webp",
+        "004781.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đầu tiên thì chúng ta sẽ lấy ra khoảng chừng hai muỗng canh và cô sẽ rắc nó lên trên này, còn bao nhiêu á thì cô sẽ cho vào tô và chúng ta sẽ thêm nước pha vô bột.",
+      "start": 192.56,
+      "end": 204.04,
+      "n_words": 40,
+      "start_frame": 4814,
+      "end_frame": 5101,
+      "keyframes": [
+        "004834.webp",
+        "004835.webp",
+        "004864.webp",
+        "004894.webp",
+        "004895.webp",
+        "004932.webp",
+        "004970.webp",
+        "004971.webp",
+        "004982.webp",
+        "004993.webp",
+        "004994.webp",
+        "005009.webp",
+        "005024.webp",
+        "005025.webp",
+        "005047.webp",
+        "005069.webp",
+        "005070.webp",
+        "005081.webp",
+        "005093.webp",
+        "005094.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Xong xuôi rồi thì bây giờ chúng ta sẽ bắt đầu tẩm một cái lớp bột khô qua những cái cuộn bacon này.",
+      "start": 204.04,
+      "end": 209.84,
+      "n_words": 23,
+      "start_frame": 5101,
+      "end_frame": 5246,
+      "keyframes": [
+        "005113.webp",
+        "005133.webp",
+        "005134.webp",
+        "005158.webp",
+        "005182.webp",
+        "005183.webp",
+        "005237.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Đối với món ăn này thì chúng ta cũng lưu ý là chúng ta sẽ chọn những miếng bacon có mỡ để cho cái sườn sau khi chiên xong không bị khô nha.",
+      "start": 209.84,
+      "end": 217.2,
+      "n_words": 33,
+      "start_frame": 5246,
+      "end_frame": 5430,
+      "keyframes": [
+        "005291.webp",
+        "005292.webp",
+        "005369.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn cho vào đây nửa muỗng canh mè đen, lăn cái phần sườn này vào bột ướt cho tất cả các cái sườn thì phải có bột bám đều.",
+      "start": 217.2,
+      "end": 228.64,
+      "n_words": 30,
+      "start_frame": 5430,
+      "end_frame": 5716,
+      "keyframes": [
+        "005446.webp",
+        "005447.webp",
+        "005457.webp",
+        "005467.webp",
+        "005468.webp",
+        "005483.webp",
+        "005498.webp",
+        "005499.webp",
+        "005553.webp",
+        "005607.webp",
+        "005608.webp",
+        "005659.webp",
+        "005711.webp",
+        "005712.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Rồi bây giờ thì cô Hà sẽ cho vào đây để chiên và em giúp cô là khi mà nó vàng vàng thì em trở ra giùm cô nha.",
+      "start": 228.64,
+      "end": 236.04,
+      "n_words": 29,
+      "start_frame": 5716,
+      "end_frame": 5901,
+      "keyframes": [
+        "005743.webp",
+        "005774.webp",
+        "005775.webp",
+        "005809.webp",
+        "005844.webp",
+        "005845.webp",
+        "005876.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Rồi em thấy rồi, cái màu bột bây giờ nó đã vàng rất là đẹp rồi, mình vớt ra ha, cho ra giấy thấm dầu.",
+      "start": 236.04,
+      "end": 246.56,
+      "n_words": 25,
+      "start_frame": 5901,
+      "end_frame": 6164,
+      "keyframes": [
+        "005907.webp",
+        "005908.webp",
+        "005931.webp",
+        "005954.webp",
+        "005955.webp",
+        "005989.webp",
+        "006023.webp",
+        "006024.webp",
+        "006043.webp",
+        "006063.webp",
+        "006064.webp",
+        "006089.webp",
+        "006115.webp",
+        "006116.webp",
+        "006140.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Nhìn miếng sườn quá hấp dẫn luôn!",
+      "start": 246.56,
+      "end": 248.92,
+      "n_words": 7,
+      "start_frame": 6164,
+      "end_frame": 6223,
+      "keyframes": [
+        "006165.webp",
+        "006166.webp",
+        "006191.webp",
+        "006216.webp",
+        "006217.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Rồi có một miếng cô đã cắt ra rồi, cô cho vào đây một đọt lá húng quế như vậy là cô đã hoàn thành cái món ăn ngày hôm nay rồi nè.",
+      "start": 248.92,
+      "end": 259.68,
+      "n_words": 33,
+      "start_frame": 6223,
+      "end_frame": 6492,
+      "keyframes": [
+        "006261.webp",
+        "006305.webp",
+        "006306.webp",
+        "006346.webp",
+        "006386.webp",
+        "006387.webp",
+        "006439.webp",
+        "006491.webp",
+        "006492.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cắn vào miếng sườn, cảm nhận ngay lớp vỏ bột vàng giòn, thơm lừng của mè, sườn và thịt chín mềm, ngọt vị, beo béo nhẹ.",
+      "start": 259.68,
+      "end": 268.0,
+      "n_words": 26,
+      "start_frame": 6492,
+      "end_frame": 6700,
+      "keyframes": [
+        "006492.webp",
+        "006541.webp",
+        "006591.webp",
+        "006612.webp",
+        "006635.webp",
+        "006658.webp",
+        "006659.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Tất cả gia vị và tiêu Lốt đã tạo nên một món sườn thơm ngon đậm vị với sườn cuộn bacon chiên mè cực hấp dẫn.",
+      "start": 268.0,
+      "end": 275.44,
+      "n_words": 26,
+      "start_frame": 6700,
+      "end_frame": 6886,
+      "keyframes": [
+        "006736.webp",
+        "006814.webp",
+        "006815.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Lượn vào bếp cùng với bí kíp của Món ngon mỗi ngày không bao giờ là khó.",
+      "start": 275.44,
+      "end": 279.32,
+      "n_words": 17,
+      "start_frame": 6886,
+      "end_frame": 6983,
+      "keyframes": [
+        "006898.webp",
+        "006982.webp",
+        "006983.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Quý vị thân mến, với mong muốn để Món ngon mỗi ngày trở thành một người bạn đồng hành thiết thực với gia đình, chúng tôi xin mời các bạn hãy đóng góp ý kiến bằng cách trả lời câu hỏi ngày hôm nay: Bạn có thực hiện công thức nấu ăn đặc biệt này cho gia đình mình không?",
+      "start": 279.32,
+      "end": 293.32,
+      "n_words": 60,
+      "start_frame": 6983,
+      "end_frame": 7333,
+      "keyframes": [
+        "006983.webp",
+        "007043.webp",
+        "007103.webp",
+        "007104.webp",
+        "007166.webp",
+        "007229.webp",
+        "007230.webp",
+        "007282.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Cách thứ nhất đó là soạn tin gửi về tổng đài 8069 với cú pháp cực kỳ đơn giản là tên viết tắt của chương trình Món ngon mỗi ngày MN khoảng cách có nếu như các bạn chọn đáp án là có, và khoảng cách không nếu như các bạn chọn là không.",
+      "start": 293.32,
+      "end": 308.4,
+      "n_words": 54,
+      "start_frame": 7333,
+      "end_frame": 7710,
+      "keyframes": [
+        "007334.webp",
+        "007335.webp",
+        "007436.webp",
+        "007538.webp",
+        "007539.webp",
+        "007627.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và với tin nhắn này chúng ta chỉ tốn 1.000 đồng cho một tin mà thôi.",
+      "start": 308.4,
+      "end": 311.88,
+      "n_words": 16,
+      "start_frame": 7710,
+      "end_frame": 7797,
+      "keyframes": [
+        "007715.webp",
+        "007716.webp",
+        "007773.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và chúng ta còn cách thứ hai, chúng ta hãy gửi trực tiếp vào cho fanpage của chương trình với địa chỉ đang được chiếu trên màn hình.",
+      "start": 311.88,
+      "end": 318.48,
+      "n_words": 28,
+      "start_frame": 7797,
+      "end_frame": 7962,
+      "keyframes": [
+        "007830.webp",
+        "007831.webp",
+        "007894.webp",
+        "007958.webp",
+        "007959.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hà Thu Hà xin chào và hẹn gặp lại trong những chương trình sau nha.",
+      "start": 318.48,
+      "end": 324.32,
+      "n_words": 15,
+      "start_frame": 7962,
+      "end_frame": 8108,
+      "keyframes": [
+        "008032.webp",
+        "008106.webp",
+        "008107.webp"
+      ],
+      "keyframe_count": 3
+    }
+  ]
+}

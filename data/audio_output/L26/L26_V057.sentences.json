@@ -1,0 +1,615 @@
+{
+  "video_id": "L26_V057",
+  "fps": 25.0,
+  "n_sentences": 35,
+  "total_words": 972,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày: Đùi gà sốt kiểu Teriyaki mềm, mọng giòn, thơm khó cưỡng, chiều vị giác.",
+      "start": 10.48,
+      "end": 35.52,
+      "n_words": 18,
+      "start_frame": 262,
+      "end_frame": 888,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000365.webp",
+        "000430.webp",
+        "000431.webp",
+        "000517.webp",
+        "000603.webp",
+        "000618.webp",
+        "000664.webp",
+        "000711.webp",
+        "000712.webp",
+        "000802.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Mến chào quý vị khán giả đang xem chương trình Món ngon mỗi ngày. Nấu chuẩn an lành.",
+      "start": 35.52,
+      "end": 40.24,
+      "n_words": 18,
+      "start_frame": 888,
+      "end_frame": 1006,
+      "keyframes": [
+        "000892.webp",
+        "000893.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 40.24,
+      "end": 45.32,
+      "n_words": 11,
+      "start_frame": 1006,
+      "end_frame": 1133,
+      "keyframes": [
+        "001013.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rất vui khi được gặp lại Kim Thảo ngày hôm nay và trên bàn ngày hôm nay là chúng ta có các nguyên liệu từ đùi gà, quả dừa.",
+      "start": 45.32,
+      "end": 53.48,
+      "n_words": 29,
+      "start_frame": 1133,
+      "end_frame": 1337,
+      "keyframes": [
+        "001134.webp",
+        "001135.webp",
+        "001158.webp",
+        "001182.webp",
+        "001183.webp",
+        "001223.webp",
+        "001264.webp",
+        "001265.webp",
+        "001301.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Các bạn ơi, hôm nay sẽ giới thiệu đến các bạn một món ăn mới lạ nhưng mà quen, mới lạ nhưng mà quen, nhưng mà quen mà mới lạ, nhưng phải ngon mới được nha, chắc chắn luôn.",
+      "start": 53.48,
+      "end": 63.24,
+      "n_words": 39,
+      "start_frame": 1337,
+      "end_frame": 1581,
+      "keyframes": [
+        "001338.webp",
+        "001339.webp",
+        "001437.webp",
+        "001535.webp",
+        "001536.webp",
+        "001556.webp",
+        "001576.webp",
+        "001577.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Ngay bây giờ mời các bạn hãy theo tôi cùng về một xứ sở mặt trời mọc để cùng nhau chế biến món đùi gà sốt kiểu Teriyaki.",
+      "start": 63.24,
+      "end": 72.12,
+      "n_words": 28,
+      "start_frame": 1581,
+      "end_frame": 1803,
+      "keyframes": [
+        "001693.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thứ nhất, bạn hãy cắt sợi ớt cho nó nhanh, cắt sắn tới nha, nhẹ nhàng sắn tới, sắn tới như vậy.",
+      "start": 72.32,
+      "end": 78.6,
+      "n_words": 22,
+      "start_frame": 1808,
+      "end_frame": 1965,
+      "keyframes": [
+        "001809.webp",
+        "001810.webp",
+        "001887.webp",
+        "001964.webp",
+        "001965.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Còn phần còn lại là hành lá, Kim Thảo sẽ làm đúng rồi, chúng ta cắt khúc có chiều dài khoảng 7 cm, đập dập rồi.",
+      "start": 78.6,
+      "end": 95.6,
+      "n_words": 26,
+      "start_frame": 1965,
+      "end_frame": 2390,
+      "keyframes": [
+        "001965.webp",
+        "002000.webp",
+        "002035.webp",
+        "002036.webp",
+        "002052.webp",
+        "002068.webp",
+        "002069.webp",
+        "002125.webp",
+        "002182.webp",
+        "002183.webp",
+        "002216.webp",
+        "002249.webp",
+        "002250.webp",
+        "002281.webp",
+        "002313.webp",
+        "002314.webp",
+        "002355.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Còn phần gừng thì chúng ta cũng cắt sợi đối, này thì chúng ta chọn gừng ngon, chúng ta cũng thả vào trong chén nước đá như vậy thì sẽ làm cho hành, gừng, ớt lát một lát nữa sẽ nở ra đẹp hơn và giữ được độ giòn.",
+      "start": 95.6,
+      "end": 108.96,
+      "n_words": 49,
+      "start_frame": 2390,
+      "end_frame": 2724,
+      "keyframes": [
+        "002397.webp",
+        "002398.webp",
+        "002453.webp",
+        "002509.webp",
+        "002510.webp",
+        "002541.webp",
+        "002573.webp",
+        "002574.webp",
+        "002610.webp",
+        "002646.webp",
+        "002647.webp",
+        "002685.webp",
+        "002723.webp",
+        "002724.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Đùi gà thì chúng ta cũng mua đùi gà công nghiệp rồi chúng ta sẽ khứa vài khứa ở đây, rồi phần gà chúng ta cũng khứa nhẹ luôn.",
+      "start": 108.96,
+      "end": 117.24,
+      "n_words": 29,
+      "start_frame": 2724,
+      "end_frame": 2931,
+      "keyframes": [
+        "002724.webp",
+        "002761.webp",
+        "002798.webp",
+        "002799.webp",
+        "002833.webp",
+        "002868.webp",
+        "002869.webp",
+        "002931.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Thưa các bạn, chúng ta khứa hai mặt thịt đùi gà để sau khi rim thì thịt gà được thấm vị và không bị thong lại nhé.",
+      "start": 117.24,
+      "end": 123.44,
+      "n_words": 27,
+      "start_frame": 2931,
+      "end_frame": 3086,
+      "keyframes": [
+        "002931.webp",
+        "002993.webp",
+        "002994.webp",
+        "003039.webp",
+        "003085.webp",
+        "003086.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thịt đùi gà có chứa nhiều protein tốt cho việc tạo cơ, đồng thời là sẽ bổ dưỡng và cung cấp đầy đủ lượng protein cho cơ thể.",
+      "start": 123.44,
+      "end": 131.92,
+      "n_words": 28,
+      "start_frame": 3086,
+      "end_frame": 3298,
+      "keyframes": [
+        "003086.webp",
+        "003134.webp",
+        "003183.webp",
+        "003184.webp",
+        "003239.webp",
+        "003295.webp",
+        "003296.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Giờ thì tẩm lên đây một lớp mỏng gia vị nêm sẵn Ajinomoto bột tẩm khô chiên giòn.",
+      "start": 132.08,
+      "end": 138.04,
+      "n_words": 18,
+      "start_frame": 3302,
+      "end_frame": 3451,
+      "keyframes": [
+        "003331.webp",
+        "003367.webp",
+        "003368.webp",
+        "003422.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Như vậy là miếng thịt gà chúng ta đã đủ vị rồi đó, rất là tiện dụng, nhanh và khi chúng ta chiên nó không bị xì chảo nha các bạn ơi.",
+      "start": 138.04,
+      "end": 145.08,
+      "n_words": 32,
+      "start_frame": 3451,
+      "end_frame": 3627,
+      "keyframes": [
+        "003477.webp",
+        "003478.webp",
+        "003525.webp",
+        "003572.webp",
+        "003573.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta chỉ cần tẩm vào đây gia vị nêm sẵn Ajinomoto bột tẩm khô chiên giòn là thịt gà chúng ta đã đủ vị, do đó chúng ta không cần thêm gia vị gì hết với món ăn này.",
+      "start": 145.08,
+      "end": 154.4,
+      "n_words": 40,
+      "start_frame": 3627,
+      "end_frame": 3860,
+      "keyframes": [
+        "003631.webp",
+        "003689.webp",
+        "003690.webp",
+        "003763.webp",
+        "003837.webp",
+        "003838.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đúng tiêu chí tìm kiếm của Kim Thảo: nhanh, gọn lẹ và phải đảm bảo độ hấp dẫn.",
+      "start": 154.4,
+      "end": 158.72,
+      "n_words": 18,
+      "start_frame": 3860,
+      "end_frame": 3968,
+      "keyframes": [
+        "003932.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và phải nấu làm sao đó để khỏi phải nhớ quá nhiều gia vị, chúng ta chỉ cần gói gia vị nêm sẵn Ajinomoto bột tẩm khô chiên giòn là chúng ta giải quyết được mọi vấn đề rồi.",
+      "start": 158.72,
+      "end": 169.28,
+      "n_words": 39,
+      "start_frame": 3968,
+      "end_frame": 4232,
+      "keyframes": [
+        "004026.webp",
+        "004027.webp",
+        "004129.webp",
+        "004231.webp",
+        "004232.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bắt đầu một cái chảo, chảo nóng cho vào đây một ít dầu.",
+      "start": 169.28,
+      "end": 174.4,
+      "n_words": 13,
+      "start_frame": 4232,
+      "end_frame": 4360,
+      "keyframes": [
+        "004232.webp",
+        "004240.webp",
+        "004248.webp",
+        "004249.webp",
+        "004271.webp",
+        "004294.webp",
+        "004295.webp",
+        "004328.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chảo nóng chúng ta sẽ thả những cái miếng thịt gà này vào chiên rám mặt vàng nâu hai mặt luôn đó thưa các bạn.",
+      "start": 174.4,
+      "end": 182.28,
+      "n_words": 25,
+      "start_frame": 4360,
+      "end_frame": 4557,
+      "keyframes": [
+        "004362.webp",
+        "004363.webp",
+        "004406.webp",
+        "004450.webp",
+        "004451.webp",
+        "004495.webp",
+        "004540.webp",
+        "004541.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Món Teriyaki này chúng ta nên chiên trước thịt gà, sau đó chúng ta rim thì món ăn sẽ săn chắc và thơm hơn rất là nhiều.",
+      "start": 182.28,
+      "end": 189.44,
+      "n_words": 27,
+      "start_frame": 4557,
+      "end_frame": 4736,
+      "keyframes": [
+        "004638.webp",
+        "004736.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Khi mà chúng ta cho phần da xuống trước là mỡ trong da gà nó sẽ tiết ra và chúng ta sẽ chỉ cần lấy ít dầu thôi.",
+      "start": 189.44,
+      "end": 196.8,
+      "n_words": 28,
+      "start_frame": 4736,
+      "end_frame": 4920,
+      "keyframes": [
+        "004736.webp",
+        "004737.webp",
+        "004785.webp",
+        "004834.webp",
+        "004835.webp",
+        "004877.webp",
+        "004920.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Và bây giờ chúng ta sẽ cho gừng vô các bạn, khoảng ba lát gừng, khoảng 150 ml rượu sake, khoảng 30 ml rượu mirin cho vào đây, hai muỗng canh nước tương Fuji.",
+      "start": 196.8,
+      "end": 207.08,
+      "n_words": 34,
+      "start_frame": 4920,
+      "end_frame": 5177,
+      "keyframes": [
+        "004920.webp",
+        "004921.webp",
+        "004954.webp",
+        "004988.webp",
+        "004989.webp",
+        "005023.webp",
+        "005057.webp",
+        "005058.webp",
+        "005088.webp",
+        "005118.webp",
+        "005119.webp",
+        "005155.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Teriyaki thường là sẽ có vị ngọt cho nên chúng ta sẽ bù ở đây nước dừa.",
+      "start": 207.08,
+      "end": 212.0,
+      "n_words": 17,
+      "start_frame": 5177,
+      "end_frame": 5300,
+      "keyframes": [
+        "005191.webp",
+        "005192.webp",
+        "005245.webp",
+        "005299.webp",
+        "005300.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hôm nay là mình thấy là có hai loại rượu mirin và sake, đây là hai loại rượu mà mình cho vào trong món ăn sẽ tạo nên một cái hương vị rất là độc đáo của ẩm thực Nhật Bản cộng với việc là mình kết hợp với nước dừa nó giống như là món rim của Việt Nam mình vậy, rim từ từ không để bị nám nha các bạn nha.",
+      "start": 212.0,
+      "end": 228.64,
+      "n_words": 73,
+      "start_frame": 5300,
+      "end_frame": 5716,
+      "keyframes": [
+        "005300.webp",
+        "005328.webp",
+        "005356.webp",
+        "005357.webp",
+        "005449.webp",
+        "005541.webp",
+        "005542.webp",
+        "005590.webp",
+        "005639.webp",
+        "005640.webp",
+        "005677.webp",
+        "005715.webp",
+        "005716.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Xong các bạn chúng ta tắt lửa, đó như vậy là được rồi.",
+      "start": 228.64,
+      "end": 231.84,
+      "n_words": 13,
+      "start_frame": 5716,
+      "end_frame": 5796,
+      "keyframes": [
+        "005716.webp",
+        "005735.webp",
+        "005754.webp",
+        "005755.webp",
+        "005777.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và nếu như quý vị và các bạn đang lăn tăn là không biết là có nhớ nổi công thức của món ăn ngày hôm nay không thì không sao cả, chỉ cần là quét mã QR trên màn hình của chúng tôi nhé.",
+      "start": 231.84,
+      "end": 242.76,
+      "n_words": 44,
+      "start_frame": 5796,
+      "end_frame": 6069,
+      "keyframes": [
+        "005799.webp",
+        "005800.webp",
+        "005911.webp",
+        "006023.webp",
+        "006024.webp",
+        "006048.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và thưa các bạn bây giờ chúng ta sẽ chuẩn bị ra một cái đĩa để ra món ăn, cắt nghiêng dao như vậy xíu nha, nghiêng dao như vậy.",
+      "start": 242.76,
+      "end": 250.76,
+      "n_words": 30,
+      "start_frame": 6069,
+      "end_frame": 6269,
+      "keyframes": [
+        "006073.webp",
+        "006074.webp",
+        "006130.webp",
+        "006186.webp",
+        "006187.webp",
+        "006236.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Làm sao có thể kìm lòng trước một miếng gà ngon như thế này, bóng bẩy, mềm.",
+      "start": 250.76,
+      "end": 261.76,
+      "n_words": 17,
+      "start_frame": 6269,
+      "end_frame": 6544,
+      "keyframes": [
+        "006286.webp",
+        "006287.webp",
+        "006347.webp",
+        "006408.webp",
+        "006409.webp",
+        "006434.webp",
+        "006460.webp",
+        "006461.webp",
+        "006497.webp",
+        "006534.webp",
+        "006535.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Chúng ta sẽ rưới lên đây nha các bạn.",
+      "start": 261.76,
+      "end": 264.52,
+      "n_words": 9,
+      "start_frame": 6544,
+      "end_frame": 6613,
+      "keyframes": [
+        "006580.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Khi mà mình nấu món này ở nhà đến công đoạn này thì Kim Thảo tin chắc rằng là mọi người đã tập trung quanh bàn ăn rồi.",
+      "start": 264.52,
+      "end": 271.12,
+      "n_words": 28,
+      "start_frame": 6613,
+      "end_frame": 6778,
+      "keyframes": [
+        "006625.webp",
+        "006626.webp",
+        "006674.webp",
+        "006723.webp",
+        "006724.webp",
+        "006750.webp",
+        "006777.webp",
+        "006778.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Cho thêm ít ớt hành cắt sợi nha.",
+      "start": 271.12,
+      "end": 275.08,
+      "n_words": 8,
+      "start_frame": 6778,
+      "end_frame": 6877,
+      "keyframes": [
+        "006778.webp",
+        "006868.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đó và thưa các bạn, món thịt gà thì chúng ta ăn kèm với món canh tôm khoai mài là chúng ta có ngay một bữa ăn giao thoa văn hóa Nhật - Việt rất là hấp dẫn luôn.",
+      "start": 275.08,
+      "end": 287.72,
+      "n_words": 39,
+      "start_frame": 6877,
+      "end_frame": 7193,
+      "keyframes": [
+        "006959.webp",
+        "006960.webp",
+        "007074.webp",
+        "007189.webp",
+        "007190.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thịt gà được phủ một lớp sốt màu nâu óng ánh, thoang thoảng hương gừng và nước dừa vị mặn ngọt hài hòa, thấm vào từng thớ thịt mềm mọng cực nịnh miệng.",
+      "start": 287.72,
+      "end": 299.48,
+      "n_words": 33,
+      "start_frame": 7193,
+      "end_frame": 7487,
+      "keyframes": [
+        "007258.webp",
+        "007327.webp",
+        "007328.webp",
+        "007409.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đùi gà sốt kiểu Teriyaki vị hài hòa, thơm lôi cuốn, thử ngay các bạn nhé.",
+      "start": 299.48,
+      "end": 305.04,
+      "n_words": 16,
+      "start_frame": 7487,
+      "end_frame": 7626,
+      "keyframes": [
+        "007490.webp",
+        "007491.webp",
+        "007559.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và để xem lại công thức nấu ăn của món ngày hôm nay cũng như là chúng ta có thể sáng tạo những bữa cơm hấp dẫn cho gia đình của mình, chỉ cần truy cập vào YouTube, website, fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 305.04,
+      "end": 317.2,
+      "n_words": 47,
+      "start_frame": 7626,
+      "end_frame": 7930,
+      "keyframes": [
+        "007628.webp",
+        "007629.webp",
+        "007769.webp",
+        "007909.webp",
+        "007910.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

@@ -1,0 +1,1052 @@
+{
+  "video_id": "L26_V324",
+  "fps": 25.0,
+  "n_sentences": 62,
+  "total_words": 987,
+  "sentences": [
+    {
+      "text": "Chào món ngon mỗi ngày.",
+      "start": 0.04,
+      "end": 12.96,
+      "n_words": 5,
+      "start_frame": 1,
+      "end_frame": 324,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000130.webp",
+        "000147.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp",
+        "000314.webp"
+      ],
+      "keyframe_count": 37
+    },
+    {
+      "text": "Có vẻ Thanh Phương thích hoa nhỉ?",
+      "start": 12.96,
+      "end": 14.68,
+      "n_words": 7,
+      "start_frame": 324,
+      "end_frame": 367,
+      "keyframes": [
+        "000328.webp",
+        "000329.webp",
+        "000345.webp",
+        "000361.webp",
+        "000362.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Dạ vâng, hầu như con gái ai cũng thích hoa hết mà.",
+      "start": 14.68,
+      "end": 16.92,
+      "n_words": 12,
+      "start_frame": 367,
+      "end_frame": 423,
+      "keyframes": [
+        "000392.webp",
+        "000422.webp",
+        "000423.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hoa hôm nay tươi quá trời.",
+      "start": 16.92,
+      "end": 17.96,
+      "n_words": 6,
+      "start_frame": 423,
+      "end_frame": 449,
+      "keyframes": [
+        "000423.webp",
+        "000439.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ăn nè, để hôm nay anh tặng hoa cho em mà.",
+      "start": 17.96,
+      "end": 20.0,
+      "n_words": 11,
+      "start_frame": 449,
+      "end_frame": 500,
+      "keyframes": [
+        "000456.webp",
+        "000457.webp",
+        "000474.webp",
+        "000492.webp",
+        "000493.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Dịp gì?",
+      "start": 20.0,
+      "end": 20.72,
+      "n_words": 2,
+      "start_frame": 500,
+      "end_frame": 518,
+      "keyframes": [
+        "000505.webp",
+        "000518.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nếu mình thích thì mình tặng thôi mà.",
+      "start": 20.72,
+      "end": 22.08,
+      "n_words": 8,
+      "start_frame": 518,
+      "end_frame": 552,
+      "keyframes": [
+        "000518.webp",
+        "000519.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Hoa đặc biệt á, vừa đẹp vừa ngon nữa.",
+      "start": 22.08,
+      "end": 24.56,
+      "n_words": 9,
+      "start_frame": 552,
+      "end_frame": 614,
+      "keyframes": [
+        "000565.webp",
+        "000611.webp",
+        "000612.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hiểu ý Thanh Phương ghê, vừa thích hoa nè mà vừa lại có tâm hồn ăn uống nữa, món quà này là quá phù hợp luôn đó. Đúng rồi đó.",
+      "start": 24.56,
+      "end": 30.8,
+      "n_words": 30,
+      "start_frame": 614,
+      "end_frame": 770,
+      "keyframes": [
+        "000660.webp",
+        "000708.webp",
+        "000709.webp",
+        "000732.webp",
+        "000755.webp",
+        "000756.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Anh nghĩ là bây giờ mình sẽ vào bếp mình làm cái hoa.",
+      "start": 30.8,
+      "end": 32.96,
+      "n_words": 13,
+      "start_frame": 770,
+      "end_frame": 824,
+      "keyframes": [
+        "000786.webp",
+        "000816.webp",
+        "000817.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đồng ý liền hè.",
+      "start": 32.96,
+      "end": 36.32,
+      "n_words": 4,
+      "start_frame": 824,
+      "end_frame": 908,
+      "keyframes": [
+        "000833.webp",
+        "000849.webp",
+        "000850.webp",
+        "000874.webp",
+        "000899.webp",
+        "000900.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Vui nhộn rộn ràng căn bếp với hoành thánh hoa hồng.",
+      "start": 36.32,
+      "end": 53.6,
+      "n_words": 11,
+      "start_frame": 908,
+      "end_frame": 1340,
+      "keyframes": [
+        "000946.webp",
+        "000993.webp",
+        "000994.webp",
+        "001051.webp",
+        "001108.webp",
+        "001123.webp",
+        "001170.webp",
+        "001218.webp",
+        "001219.webp",
+        "001305.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Chào mừng quý vị đã quay trở lại với chương trình Món ngon mỗi ngày.",
+      "start": 53.6,
+      "end": 58.28,
+      "n_words": 15,
+      "start_frame": 1340,
+      "end_frame": 1457,
+      "keyframes": [
+        "001392.webp",
+        "001393.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 58.28,
+      "end": 62.36,
+      "n_words": 11,
+      "start_frame": 1457,
+      "end_frame": 1559,
+      "keyframes": [
+        "001474.webp",
+        "001555.webp",
+        "001556.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Anh Long này, Thanh Phương hóng quá, không biết là cái bông hoa mà anh Long làm thì nó sẽ đẹp và nó thơm ngon như thế nào?",
+      "start": 62.36,
+      "end": 68.64,
+      "n_words": 28,
+      "start_frame": 1559,
+      "end_frame": 1716,
+      "keyframes": [
+        "001635.webp",
+        "001715.webp",
+        "001716.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cà rốt thì mình sẽ thái sợi và băm nhỏ.",
+      "start": 68.64,
+      "end": 71.48,
+      "n_words": 10,
+      "start_frame": 1716,
+      "end_frame": 1787,
+      "keyframes": [
+        "001716.webp",
+        "001750.webp",
+        "001784.webp",
+        "001785.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cái phần cà rốt băm nhuyễn này là mình sẽ để làm nhân đúng không ạ?",
+      "start": 71.48,
+      "end": 74.68,
+      "n_words": 16,
+      "start_frame": 1787,
+      "end_frame": 1867,
+      "keyframes": [
+        "001820.webp",
+        "001855.webp",
+        "001856.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng rồi, mình sẽ làm nhân.",
+      "start": 74.68,
+      "end": 78.92,
+      "n_words": 6,
+      "start_frame": 1867,
+      "end_frame": 1973,
+      "keyframes": [
+        "001895.webp",
+        "001934.webp",
+        "001935.webp",
+        "001955.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Kế đến là chúng ta sẽ băm nhỏ phần nấm, như vậy là khi thưởng thức ở phần nhân, chúng ta sẽ cảm nhận được độ dai giòn, giòn sần sật của cà rốt và của nấm mèo.",
+      "start": 78.92,
+      "end": 88.28,
+      "n_words": 38,
+      "start_frame": 1973,
+      "end_frame": 2207,
+      "keyframes": [
+        "001975.webp",
+        "001976.webp",
+        "002008.webp",
+        "002041.webp",
+        "002042.webp",
+        "002065.webp",
+        "002089.webp",
+        "002090.webp",
+        "002104.webp",
+        "002119.webp",
+        "002120.webp",
+        "002144.webp",
+        "002169.webp",
+        "002170.webp",
+        "002188.webp",
+        "002207.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Kế đến chúng ta sẽ băm nhuyễn phần hành lá.",
+      "start": 88.28,
+      "end": 91.48,
+      "n_words": 10,
+      "start_frame": 2207,
+      "end_frame": 2287,
+      "keyframes": [
+        "002207.webp",
+        "002208.webp",
+        "002230.webp",
+        "002252.webp",
+        "002253.webp",
+        "002271.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Với phần tôm thì bây giờ mình sẽ đập dập và băm nhuyễn.",
+      "start": 91.48,
+      "end": 97.96,
+      "n_words": 13,
+      "start_frame": 2287,
+      "end_frame": 2449,
+      "keyframes": [
+        "002290.webp",
+        "002291.webp",
+        "002300.webp",
+        "002310.webp",
+        "002311.webp",
+        "002324.webp",
+        "002338.webp",
+        "002339.webp",
+        "002368.webp",
+        "002397.webp",
+        "002398.webp",
+        "002425.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Phần chuẩn bị nguyên liệu cũng xong.",
+      "start": 97.96,
+      "end": 99.88,
+      "n_words": 7,
+      "start_frame": 2449,
+      "end_frame": 2497,
+      "keyframes": [
+        "002452.webp",
+        "002453.webp",
+        "002472.webp",
+        "002492.webp",
+        "002493.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ mình hãy chuẩn bị trộn làm cái phần nhân.",
+      "start": 99.88,
+      "end": 102.48,
+      "n_words": 11,
+      "start_frame": 2497,
+      "end_frame": 2562,
+      "keyframes": [
+        "002528.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Mình đã có tôm rồi, và đây mình có giò sống nha, cho vào.",
+      "start": 102.48,
+      "end": 105.84,
+      "n_words": 14,
+      "start_frame": 2562,
+      "end_frame": 2646,
+      "keyframes": [
+        "002563.webp",
+        "002564.webp",
+        "002580.webp",
+        "002596.webp",
+        "002597.webp",
+        "002620.webp",
+        "002644.webp",
+        "002645.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Cho một phần cà rốt vào, cho hết cái phần nấm này vào, cho hành lá ra một muỗng hành lá thôi, và mình cho cái phần bắp mình đã luộc rồi mình bào ra.",
+      "start": 105.84,
+      "end": 115.36,
+      "n_words": 35,
+      "start_frame": 2646,
+      "end_frame": 2884,
+      "keyframes": [
+        "002663.webp",
+        "002682.webp",
+        "002683.webp",
+        "002704.webp",
+        "002725.webp",
+        "002726.webp",
+        "002764.webp",
+        "002802.webp",
+        "002803.webp",
+        "002843.webp",
+        "002883.webp",
+        "002884.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Bây giờ mình sẽ nêm vào đây là nửa muỗng cà phê đường và một muỗng rưỡi cà phê hạt nêm Ajinomoto ngon heo, nửa muỗng cà phê tiêu, xíu hành tím băm đi cho nó thơm luôn.",
+      "start": 115.36,
+      "end": 125.76,
+      "n_words": 38,
+      "start_frame": 2884,
+      "end_frame": 3144,
+      "keyframes": [
+        "002884.webp",
+        "002908.webp",
+        "002933.webp",
+        "002934.webp",
+        "002947.webp",
+        "002961.webp",
+        "002962.webp",
+        "002983.webp",
+        "003004.webp",
+        "003005.webp",
+        "003021.webp",
+        "003037.webp",
+        "003038.webp",
+        "003072.webp",
+        "003107.webp",
+        "003108.webp",
+        "003136.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Hết công đoạn quên rồi, phải nói chung là đều tay và mạnh tay được rồi thì nó mới dai và ngon.",
+      "start": 125.76,
+      "end": 131.44,
+      "n_words": 22,
+      "start_frame": 3144,
+      "end_frame": 3286,
+      "keyframes": [
+        "003165.webp",
+        "003166.webp",
+        "003191.webp",
+        "003216.webp",
+        "003217.webp",
+        "003246.webp",
+        "003276.webp",
+        "003277.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Đang cắt tròn cái phần hoành thánh lá này để lát mình làm hoa hồng.",
+      "start": 131.68,
+      "end": 136.04,
+      "n_words": 15,
+      "start_frame": 3292,
+      "end_frame": 3401,
+      "keyframes": [
+        "003302.webp",
+        "003328.webp",
+        "003329.webp",
+        "003361.webp",
+        "003393.webp",
+        "003394.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chia Thanh Phương một ít nè.",
+      "start": 136.04,
+      "end": 138.4,
+      "n_words": 6,
+      "start_frame": 3401,
+      "end_frame": 3460,
+      "keyframes": [
+        "003425.webp",
+        "003456.webp",
+        "003457.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mình sẽ lấy ba lá, sau đó mình sẽ cho một muỗng rưỡi nhân vào.",
+      "start": 138.4,
+      "end": 143.56,
+      "n_words": 15,
+      "start_frame": 3460,
+      "end_frame": 3589,
+      "keyframes": [
+        "003487.webp",
+        "003517.webp",
+        "003518.webp",
+        "003535.webp",
+        "003552.webp",
+        "003553.webp",
+        "003575.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cái phần nhân ở đây các bạn lưu ý là chúng ta sẽ lấy vừa đủ thôi để khi mà mình chiên lên á thì cái phần nhân bên trong nó dễ chín hơn.",
+      "start": 143.56,
+      "end": 150.92,
+      "n_words": 34,
+      "start_frame": 3589,
+      "end_frame": 3773,
+      "keyframes": [
+        "003597.webp",
+        "003598.webp",
+        "003639.webp",
+        "003680.webp",
+        "003681.webp",
+        "003723.webp",
+        "003765.webp",
+        "003766.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Để mình gấp đôi lại, mình sẽ cuộn lại, cuộn lại như vậy thôi.",
+      "start": 150.92,
+      "end": 155.28,
+      "n_words": 14,
+      "start_frame": 3773,
+      "end_frame": 3882,
+      "keyframes": [
+        "003782.webp",
+        "003799.webp",
+        "003800.webp",
+        "003877.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đúng rồi, cuộn như vậy thôi nó sẽ hình bông hồng, rồi sau đó mình thấm nhẹ muỗng vào nước ẩm mình dán lại.",
+      "start": 155.84,
+      "end": 165.44,
+      "n_words": 24,
+      "start_frame": 3896,
+      "end_frame": 4136,
+      "keyframes": [
+        "003954.webp",
+        "003955.webp",
+        "003999.webp",
+        "004044.webp",
+        "004045.webp",
+        "004073.webp",
+        "004102.webp",
+        "004103.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Màu hồng rất là xinh.",
+      "start": 165.44,
+      "end": 166.84,
+      "n_words": 5,
+      "start_frame": 4136,
+      "end_frame": 4171,
+      "keyframes": [
+        "004140.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Các bạn lưu ý là với món ăn này chúng ta sẽ phết nhân thật là mỏng để tạo hình hoa hồng thật là đẹp mắt thôi.",
+      "start": 166.84,
+      "end": 171.92,
+      "n_words": 27,
+      "start_frame": 4171,
+      "end_frame": 4298,
+      "keyframes": [
+        "004177.webp",
+        "004178.webp",
+        "004236.webp",
+        "004294.webp",
+        "004295.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ Thanh Phương làm thử một cái nha.",
+      "start": 171.92,
+      "end": 174.2,
+      "n_words": 9,
+      "start_frame": 4298,
+      "end_frame": 4355,
+      "keyframes": [
+        "004328.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Làm nha.",
+      "start": 174.2,
+      "end": 175.44,
+      "n_words": 2,
+      "start_frame": 4355,
+      "end_frame": 4386,
+      "keyframes": [
+        "004362.webp",
+        "004363.webp",
+        "004383.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta sẽ cho mỏng đều ra xong rồi sau đó mình gấp đôi lại phải không anh?",
+      "start": 175.44,
+      "end": 179.6,
+      "n_words": 18,
+      "start_frame": 4386,
+      "end_frame": 4490,
+      "keyframes": [
+        "004403.webp",
+        "004404.webp",
+        "004455.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Gấp đôi lại.",
+      "start": 179.6,
+      "end": 180.44,
+      "n_words": 3,
+      "start_frame": 4490,
+      "end_frame": 4511,
+      "keyframes": [
+        "004507.webp",
+        "004508.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúng ta sẽ đè nhẹ nhẹ cái phần trung tâm như thế này rồi sau đó mình sẽ cuộn lại.",
+      "start": 180.44,
+      "end": 184.64,
+      "n_words": 20,
+      "start_frame": 4511,
+      "end_frame": 4616,
+      "keyframes": [
+        "004537.webp",
+        "004566.webp",
+        "004567.webp",
+        "004589.webp",
+        "004612.webp",
+        "004613.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Xinh quá trời!",
+      "start": 184.64,
+      "end": 186.52,
+      "n_words": 3,
+      "start_frame": 4616,
+      "end_frame": 4663,
+      "keyframes": [
+        "004630.webp",
+        "004647.webp",
+        "004648.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng là con gái khéo tay ghê chưa.",
+      "start": 186.52,
+      "end": 188.52,
+      "n_words": 8,
+      "start_frame": 4663,
+      "end_frame": 4713,
+      "keyframes": [
+        "004666.webp",
+        "004685.webp",
+        "004686.webp",
+        "004712.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đây, đặt vào đây.",
+      "start": 188.52,
+      "end": 189.56,
+      "n_words": 4,
+      "start_frame": 4713,
+      "end_frame": 4739,
+      "keyframes": [
+        "004739.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ mình sẽ chuẩn bị đem chiên và làm sốt rồi.",
+      "start": 189.56,
+      "end": 191.68,
+      "n_words": 12,
+      "start_frame": 4739,
+      "end_frame": 4792,
+      "keyframes": [
+        "004739.webp",
+        "004740.webp",
+        "004762.webp",
+        "004784.webp",
+        "004785.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Mở bếp lên nè.",
+      "start": 191.68,
+      "end": 193.72,
+      "n_words": 4,
+      "start_frame": 4792,
+      "end_frame": 4843,
+      "keyframes": [
+        "004811.webp",
+        "004837.webp",
+        "004838.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trong khi chờ đợi cái phần dầu này sôi lên thì mình sẽ làm sốt.",
+      "start": 193.72,
+      "end": 197.04,
+      "n_words": 15,
+      "start_frame": 4843,
+      "end_frame": 4926,
+      "keyframes": [
+        "004885.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta sử dụng ba muỗng canh sốt Mayonnaise để làm sốt và một muỗng canh tương ớt và cuối cùng là một muỗng canh tương xí muội.",
+      "start": 197.44,
+      "end": 204.72,
+      "n_words": 28,
+      "start_frame": 4936,
+      "end_frame": 5118,
+      "keyframes": [
+        "004952.webp",
+        "004972.webp",
+        "004973.webp",
+        "004995.webp",
+        "005018.webp",
+        "005019.webp",
+        "005047.webp",
+        "005076.webp",
+        "005077.webp",
+        "005096.webp",
+        "005115.webp",
+        "005116.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Và cái phần nước sốt này rất là hấp dẫn đi, có vị béo béo của Mayonnaise nè, vị cay của tương ớt và vị chua ngọt ngọt thơm thơm của tương xí muội. Đúng rồi.",
+      "start": 204.72,
+      "end": 213.88,
+      "n_words": 36,
+      "start_frame": 5118,
+      "end_frame": 5347,
+      "keyframes": [
+        "005169.webp",
+        "005223.webp",
+        "005224.webp",
+        "005277.webp",
+        "005330.webp",
+        "005331.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Ôi, với lại cái món chiên bông hồng này thì thật sự là hết ý.",
+      "start": 213.88,
+      "end": 217.52,
+      "n_words": 15,
+      "start_frame": 5347,
+      "end_frame": 5438,
+      "keyframes": [
+        "005382.webp",
+        "005433.webp",
+        "005434.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mình đã có một cái phần sốt rất là ngon và cũng với món ăn này chúng ta sẽ chiên ngập dầu và lửa vừa để khi cánh hoa nó bung ra chín đều.",
+      "start": 217.52,
+      "end": 224.88,
+      "n_words": 34,
+      "start_frame": 5438,
+      "end_frame": 5622,
+      "keyframes": [
+        "005458.webp",
+        "005482.webp",
+        "005483.webp",
+        "005551.webp",
+        "005619.webp",
+        "005620.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Wow, khi mà chúng ta cho những cái bông hồng này vào trong chảo dầu đang nóng thì những cánh hoa bắt đầu định hình và nó tỏa ra một cái mùi rất là thơm, và cái hoa bắt đầu chuyển sang một cái màu vàng nè.",
+      "start": 224.88,
+      "end": 236.8,
+      "n_words": 47,
+      "start_frame": 5622,
+      "end_frame": 5920,
+      "keyframes": [
+        "005692.webp",
+        "005765.webp",
+        "005766.webp",
+        "005803.webp",
+        "005840.webp",
+        "005841.webp",
+        "005881.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Và những bông hoa màu vàng đầu tiên đã xuất hiện và mùi thơm thì nó lan tỏa khắp cả gian bếp luôn rồi ạ.",
+      "start": 236.8,
+      "end": 242.64,
+      "n_words": 25,
+      "start_frame": 5920,
+      "end_frame": 6066,
+      "keyframes": [
+        "005921.webp",
+        "005922.webp",
+        "005937.webp",
+        "005953.webp",
+        "005954.webp",
+        "005969.webp",
+        "005985.webp",
+        "005986.webp",
+        "006022.webp",
+        "006058.webp",
+        "006059.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Hoa này thơm quá, chất lượng quá luôn đấy ạ.",
+      "start": 242.64,
+      "end": 245.08,
+      "n_words": 10,
+      "start_frame": 6066,
+      "end_frame": 6127,
+      "keyframes": [
+        "006085.webp",
+        "006112.webp",
+        "006113.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Vàng thì mình sẽ vớt ra.",
+      "start": 245.36,
+      "end": 247.2,
+      "n_words": 6,
+      "start_frame": 6134,
+      "end_frame": 6180,
+      "keyframes": [
+        "006140.webp",
+        "006167.webp",
+        "006168.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Như vậy là những bông hồng vàng đã chín hết rồi.",
+      "start": 247.2,
+      "end": 252.16,
+      "n_words": 11,
+      "start_frame": 6180,
+      "end_frame": 6304,
+      "keyframes": [
+        "006211.webp",
+        "006254.webp",
+        "006255.webp",
+        "006279.webp",
+        "006304.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "À bây giờ Long sẽ làm cho một bó hoa nha.",
+      "start": 252.16,
+      "end": 255.0,
+      "n_words": 11,
+      "start_frame": 6304,
+      "end_frame": 6375,
+      "keyframes": [
+        "006304.webp",
+        "006305.webp",
+        "006324.webp",
+        "006344.webp",
+        "006345.webp",
+        "006366.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Dạ trời ơi đẹp quá!",
+      "start": 255.0,
+      "end": 256.8,
+      "n_words": 5,
+      "start_frame": 6375,
+      "end_frame": 6420,
+      "keyframes": [
+        "006387.webp",
+        "006388.webp",
+        "006413.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hả, cà chua vào một bó hoa hồng vàng rất là đáng yêu và cực kỳ thơm ngon luôn.",
+      "start": 256.8,
+      "end": 263.88,
+      "n_words": 19,
+      "start_frame": 6420,
+      "end_frame": 6597,
+      "keyframes": [
+        "006438.webp",
+        "006439.webp",
+        "006457.webp",
+        "006476.webp",
+        "006477.webp",
+        "006515.webp",
+        "006554.webp",
+        "006555.webp",
+        "006575.webp",
+        "006595.webp",
+        "006596.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Để tạo nên một bữa ăn hoàn chỉnh, chúng ta có thể thực hiện món ăn này kèm theo món súp cua nấm tuyết.",
+      "start": 263.88,
+      "end": 269.16,
+      "n_words": 24,
+      "start_frame": 6597,
+      "end_frame": 6729,
+      "keyframes": [
+        "006625.webp",
+        "006655.webp",
+        "006656.webp",
+        "006691.webp",
+        "006727.webp",
+        "006728.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bên ngoài giòn rụm vàng đều, bên trong ngọt vị bắp, đậm vị tương, cùng súp béo thơm chua ngọt cay nhẹ thật là ngọt ngào ngon liệm tim.",
+      "start": 269.16,
+      "end": 281.04,
+      "n_words": 29,
+      "start_frame": 6729,
+      "end_frame": 7026,
+      "keyframes": [
+        "006768.webp",
+        "006809.webp",
+        "006824.webp",
+        "006853.webp",
+        "006883.webp",
+        "006884.webp",
+        "006954.webp",
+        "007024.webp",
+        "007025.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Hãy cùng với chương trình Món ngon mỗi ngày biến món khó hóa dễ và biến món dễ trở nên ngon hơn các bạn nhé.",
+      "start": 281.04,
+      "end": 286.84,
+      "n_words": 25,
+      "start_frame": 7026,
+      "end_frame": 7171,
+      "keyframes": [
+        "007098.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và nếu như quý vị muốn tìm hiểu thêm công thức của các món ăn ngon, hãy truy cập vào kênh YouTube, website và fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 286.84,
+      "end": 295.72,
+      "n_words": 32,
+      "start_frame": 7171,
+      "end_frame": 7393,
+      "keyframes": [
+        "007172.webp",
+        "007173.webp",
+        "007212.webp",
+        "007252.webp",
+        "007253.webp",
+        "007310.webp",
+        "007368.webp",
+        "007369.webp"
+      ],
+      "keyframe_count": 8
+    }
+  ]
+}

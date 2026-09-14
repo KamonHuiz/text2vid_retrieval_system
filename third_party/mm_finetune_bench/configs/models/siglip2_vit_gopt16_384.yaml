@@ -1,0 +1,58 @@
+# ViT-gopt-16-SigLIP2-384 -- Google SigLIP2 (giant-opt vision tower, patch16,
+# 384px). Loaded via transformers.Siglip2Model. SigLIP models are trained
+# with a sigmoid pairwise loss rather than softmax InfoNCE, and ship a
+# learnable (logit_scale, logit_bias) pair rather than logit_scale alone.
+
+name: siglip2
+wrapper: siglip2
+backend: transformers
+transformers:
+  model_id: "google/siglip2-giant-opt-patch16-384"
+  trust_remote_code: false
+
+embed_dim: 1536
+image_size: 384
+max_text_length: 64
+
+adaptation: lora
+quantization: null
+
+lora:
+  enabled: true
+  r: 8                    # SigLIP's sigmoid loss is more forgiving of small negative
+                            # batches, but the giant-opt tower is huge -> keep r modest.
+  alpha: 16
+  dropout: 0.05
+  bias: none
+  # HF SiglipEncoderLayer names its attention `self_attn` (verified in
+  # transformers' modeling_siglip.py). `attention` is the pooling head's
+  # nn.MultiheadAttention, which is not a LoRA-able Linear.
+  target_modules:
+    - "self_attn.q_proj"
+    - "self_attn.k_proj"
+    - "self_attn.v_proj"
+    - "self_attn.out_proj"
+  target_module_depth_fraction: 0.5
+  modules_to_save:
+    - "vision_model.head"       # attention-pooling head (image side)
+    - "text_model.head"         # final projection (text side)
+
+partial_unfreeze:
+  unfreeze_last_n_vision_blocks: 4
+  unfreeze_last_n_text_blocks: 2
+  always_unfreeze:
+    - "vision_model.head"
+    - "text_model.head"
+    - "logit_scale"
+    - "logit_bias"
+
+loss:
+  type: siglip
+  learnable_logit_scale: true
+  learnable_logit_bias: true
+
+differential_lr_groups:
+  vision_encoder: "vision_model.*"
+  text_encoder: "text_model.*"
+  projection: ".*head.*"
+  logit_scale: "(logit_scale|logit_bias)"

@@ -1,0 +1,623 @@
+1
+00:00:07,400 --> 00:00:09,240
+Xin chào tất cả các em.
+
+2
+00:00:09,240 --> 00:00:11,600
+Hôm nay chúng ta sẽ tiếp tục với chuyên đề thứ tư.
+
+3
+00:00:11,600 --> 00:00:15,200
+Chuyên đề này mang tên "Các bài toán liên quan đến ứng dụng tích phân".
+
+4
+00:00:15,400 --> 00:00:21,120
+Chuyên đề này thường xuyên xuất hiện trong đề thi trung học phổ thông quốc gia và cũng đã xuất hiện trong đề thi minh họa năm 2023, 2024.
+
+5
+00:00:22,480 --> 00:00:25,680
+Thầy trò chúng ta cùng nhau đi vào bài học.
+
+6
+00:00:25,680 --> 00:00:33,920
+Để có được thành công như hôm nay, tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình.
+
+7
+00:00:33,920 --> 00:00:46,600
+Bắt đầu từ Trường Đại học Quốc tế Sài Gòn, đào tạo đa dạng đa lĩnh vực, mở ra cho chúng tôi nhiều cơ hội lựa chọn nghề nghiệp trong tương lai.
+
+8
+00:00:46,600 --> 00:00:50,640
+Tất cả sinh viên đều có cơ hội để thể hiện và phát triển năng lực.
+
+9
+00:00:50,640 --> 00:00:53,880
+Những ý tưởng luôn được khuyến khích và phát huy tối đa.
+
+10
+00:00:53,880 --> 00:00:59,200
+Chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin, chúng tôi được học cách học, cách nghĩ và cách sống.
+
+11
+00:01:00,040 --> 00:01:07,120
+Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.
+
+12
+00:01:07,120 --> 00:01:17,760
+Hiện đại, năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc, đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn luôn hướng đến.
+
+13
+00:01:17,760 --> 00:01:25,600
+Đã đến lúc vươn xa hơn những gì đã học.
+
+14
+00:01:25,600 --> 00:01:32,720
+Đầu tiên, thầy sẽ nhắc lại cho các em các công thức liên quan đến ứng dụng tích phân để tính diện tích cũng như là thể tích.
+
+15
+00:01:32,720 --> 00:01:54,080
+Ứng dụng tích phân để tính diện tích hình phẳng, chúng ta cần nhớ những cái công thức sau đây: diện tích hình phẳng giới hạn bởi đồ thị y = f(x) liên tục trên đoạn [a, b], trục hoành và hai đường thẳng x = a, x = b được xác định bởi công thức S = tích phân từ a đến b trị tuyệt đối f(x) dx.
+
+16
+00:01:54,080 --> 00:02:04,920
+Công thức tiếp theo là công thức tính diện tích hình phẳng giới hạn bởi hai đồ thị y = f(x), y = g(x) và hai đường thẳng x = a, x = b.
+
+17
+00:02:04,920 --> 00:02:14,000
+Công thức như sau: S = tích phân từ a đến b của trị tuyệt đối f(x) trừ g(x) dx.
+
+18
+00:02:14,000 --> 00:02:19,000
+Tiếp theo là công thức tính thể tích vật thể tròn xoay.
+
+19
+00:02:19,000 --> 00:02:38,280
+Thể tích khối tròn xoay khi quay hình phẳng giới hạn bởi đồ thị y = f(x), trục hoành và hai đường thẳng x = a, x = b quay quanh trục Ox được tính bằng công thức V = pi nhân cho tích phân từ a đến b của f(x) tất cả bình phương dx.
+
+20
+00:02:38,280 --> 00:02:51,920
+Tương tự, chúng ta cũng có công thức thể tích khối tròn xoay khi quay hình phẳng giới hạn bởi hai đồ thị y = f(x), y = g(x) và hai đường thẳng x = a, x = b quanh trục Ox.
+
+21
+00:02:51,920 --> 00:03:01,720
+Công thức như sau: V = pi nhân cho tích phân từ a đến b của f(x) bình phương trừ cho g(x) bình phương dx.
+
+22
+00:03:01,720 --> 00:03:07,240
+Thì bây giờ chúng ta sẽ cùng nhau ứng dụng các công thức này để giải quyết một số cái ví dụ.
+
+23
+00:03:07,240 --> 00:03:10,520
+Chúng ta đến với ví dụ thứ nhất.
+
+24
+00:03:10,520 --> 00:03:42,960
+Ví dụ 1: Cho hàm số f(x) liên tục trên R, gọi S là diện tích hình phẳng giới hạn bởi f(x), trục hoành, hai đường thẳng x = -1 và x = 4.
+
+25
+00:03:42,960 --> 00:03:42,960
+= 4$.
+
+26
+00:03:42,960 --> 00:03:52,760
+Do đó diện tích của hình phẳng đã cho tính bằng tích phân từ -1 đến 4 của trị tuyệt đối $f(x) dx$.
+
+27
+00:03:52,760 --> 00:03:58,320
+Bây giờ chúng ta sẽ phải xét dấu của $f(x)$ để chúng ta bỏ cái trị tuyệt đối này.
+
+28
+00:03:58,320 --> 00:04:06,880
+Thì bây giờ tích phân từ -1 đến 4 thầy sẽ tách nó làm hai tích phân là tích phân từ -1 đến 1 cộng cho tích phân từ 1 đến 4.
+
+29
+00:04:06,880 --> 00:04:16,240
+Thì các em quan sát trên cái đồ thị, trên cái khoảng từ -1 đến 1 chúng ta có thể thấy $f(x)$ nằm trên trục hoành, tức là $f(x)$ dương.
+
+30
+00:04:16,240 --> 00:04:23,520
+Do đó thầy có thể bỏ trị tuyệt đối và thầy sẽ được tích phân từ -1 đến 1 của fx.
+
+31
+00:04:23,520 --> 00:04:29,840
+Tiếp theo, trên khoảng từ 1 đến 4, fx nằm dưới trục hoành do đó fx âm.
+
+32
+00:04:29,840 --> 00:04:39,240
+Vậy thì muốn bỏ trị tuyệt đối thì thầy bắt buộc phải thêm dấu trừ, và do đó tiếp theo là chúng ta sẽ trừ cho tích phân từ 1 đến 4 của fx.
+
+33
+00:04:39,240 --> 00:04:41,880
+Từ đây chúng ta chọn đáp án B.
+
+34
+00:04:41,880 --> 00:04:44,960
+Kết thúc ví dụ thứ nhất.
+
+35
+00:04:44,960 --> 00:04:48,320
+Tiếp theo chúng ta đến với ví dụ số hai.
+
+36
+00:04:48,320 --> 00:04:55,520
+Ví dụ số 2: Cho hàm số y = f(x) có đồ thị trên đoạn từ -1 đến 4 như hình vẽ bên.
+
+37
+00:04:55,520 --> 00:05:00,400
+Đề bài yêu cầu tính tích phân từ -1 đến 4 của f(x).
+
+38
+00:05:00,400 --> 00:05:07,520
+Thì bây giờ chúng ta sẽ tính tích phân này dựa vào diện tích hình phẳng.
+
+39
+00:05:07,520 --> 00:05:22,920
+Đầu tiên thầy có tích phân từ -1 đến 4 của fx thì lúc này thầy sẽ tách nó ra làm hai tích phân: đầu tiên tích phân từ -1 đến 2 của fx cộng cho tích phân từ 2 đến 4 của fx.
+
+40
+00:05:22,920 --> 00:05:36,160
+Bây giờ các em quan sát trên cái khoảng từ -1 đến 2, chúng ta thấy fx nằm trên trục hoành do đó fx dương.
+
+41
+00:05:36,160 --> 00:05:52,760
+Vậy thì lúc này cái tích phân từ -1 đến 2 của fx nó sẽ đúng bằng diện tích của cái miền S1, tức là diện tích giới hạn bởi fx, trục hoành và hai cận là từ -1 đến 2.
+
+42
+00:05:52,760 --> 00:05:58,560
+Tương tự trên cái khoảng từ 2 đến 4, chúng ta có thể thấy là fx âm.
+
+43
+00:05:58,560 --> 00:06:11,480
+Do đó tích phân từ 2 đến 4 của fx chính là bằng trừ diện tích của cái miền giới hạn bởi fx, trục hoành hai cận từ 2 đến 4.
+
+44
+00:06:11,480 --> 00:06:41,840
+Ở đây các em lưu ý khi mà fx âm thì dạng một cái hình thang, đáy lớn là 3, đáy bé là 1, chiều cao là 2; Diện tích hình thang là bằng 1/2 đáy lớn cộng đáy bé nhân chiều cao, do đó chúng ta dễ dàng tính được S1 bằng 4.
+
+45
+00:06:41,840 --> 00:06:51,360
+Tương tự, S2 cũng là một cái hình thang vuông, đáy lớn là 2, đáy bé là 1, chiều cao là 1, do đó chúng ta tính được S2 là bằng 3/2.
+
+46
+00:06:52,480 --> 00:07:05,360
+Vậy tích phân y ban đầu là bằng S1 trừ cho S2, tức là ta lấy 4 trừ cho 3/2, ta ra được kết quả là 5/2, ta chọn đáp án D.
+
+47
+00:07:05,360 --> 00:07:15,920
+Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến, hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.
+
+48
+00:07:15,920 --> 00:07:23,600
+Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện, cân bằng giữa học thuật và nghệ thuật, thể thao.
+
+49
+00:07:23,600 --> 00:07:34,240
+Hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, thêm nguồn cảm hứng, độc lập để phát triển và hoàn thiện nhân cách.
+
+50
+00:07:34,240 --> 00:07:54,840
+Ngoài những giờ học trên lớp, học sinh Trường Quốc tế Á Châu còn được trải nghiệm, thử thách bản thân và phản biện các vấn đề để tự mình học hỏi, trưởng thành độc lập hơn.
+
+51
+00:07:54,840 --> 00:08:09,840
+Nơi đây với tôi còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.
+
+52
+00:08:09,840 --> 00:08:14,960
+Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là cuộc sống.
+
+53
+00:08:14,960 --> 00:08:28,520
+Từ môi trường giáo dục này, chúng tôi đã tự tin bước tiếp và viết nên câu chuyện tương lai của chính mình.
+
+54
+00:08:28,520 --> 00:08:31,200
+Tiếp theo chúng ta đến với ví dụ số 3.
+
+55
+00:08:31,440 --> 00:08:39,760
+Đây là một cái ví dụ khó hơn một chút cho hàm số y = f(x) có đồ thị trên đoạn từ -2 đến 6.
+
+56
+00:08:39,760 --> 00:08:48,080
+Nhờ hình vẽ bên, biết rằng các miền A, B, C có diện tích lần lượt là 3, 2 và 2.
+
+57
+00:08:48,080 --> 00:08:56,280
+Yêu cầu tính tích phân I là tích phân từ -2 đến 2 của (3x - 4) nhân cho (1 + f(-3/4 x^2 + 2x + 5)).
+
+58
+00:09:03,000 --> 00:09:16,600
+Đầu tiên, cái tích phân cần tính, chúng ta để ý bây giờ thầy sẽ nhân phân phối cái (3x - 4) này vào trong cái ngoặc này, thì lúc này cái tích phân thầy có thể tách nó ra làm hai tích phân.
+
+59
+00:09:16,600 --> 00:09:39,920
+Đầu tiên, khi thầy nhân phân phối, thầy nhân (3x - 4) với 1 thì thầy sẽ được là tích phân từ -2 đến 2 của (3x - 4) và thầy được cái tích phân thứ hai là tích phân từ trừ 2 đến 2 của 3x trừ 4 nhân cho f(-3/4 x bình cộng 2x cộng 5).
+
+60
+00:09:39,920 --> 00:09:48,440
+Thì rõ ràng cái tích phân đầu tiên là tích phân từ trừ 2 đến 2 của 3x trừ 4 thì các em có thể dễ dàng tính được nó và kết quả đó là -16.
+
+61
+00:09:49,600 --> 00:09:57,360
+Còn cái tích phân phía sau thì thầy đặt nó là tích phân y1 và bây giờ thầy sẽ đi tính tích phân y1 này.
+
+62
+00:09:57,360 --> 00:10:05,440
+Vậy thì bây giờ làm cách nào để chúng ta có thể tính được y1 thì chúng ta sẽ sử dụng phương pháp là phương pháp đổi biến.
+
+63
+00:10:05,440 --> 00:10:17,600
+Bây giờ thầy sẽ đặt u là cái biểu thức ở trong f, tức là -3/4 x mũ 2 cộng 2x cộng 5 thì đây cũng là một cái dạng đổi biến số quen thuộc thôi.
+
+64
+00:10:17,600 --> 00:10:23,920
+Đến đây ta lấy du bằng -3/2 x cộng 2 dx.
+
+65
+00:10:23,920 --> 00:10:31,320
+Bây giờ nếu như các em tinh tế các em đặt -1/2 ra ngoài thì bên trong sẽ còn lại là 3x trừ 4 dx.
+
+66
+00:10:31,960 --> 00:10:35,440
+Thì 3x trừ 4 chính là cái phần còn lại của tích phân này, của tích phân I1.
+
+67
+00:10:36,960 --> 00:10:41,960
+Thì lúc này thầy tính được là 3x trừ 4 dx nó sẽ bằng -2 lần du.
+
+68
+00:10:44,080 --> 00:11:00,320
+Tiếp theo sau khi đổi biến thì chúng ta sẽ đổi cận, với x bằng -2 thì chúng ta có u tương ứng cũng bằng -2, với x bằng 2 chúng ta sẽ có u tương ứng là bằng 6.
+
+69
+00:11:00,320 --> 00:11:18,560
+Lúc này cái tích phân y1 thì thầy sẽ viết lại theo biến u, đó chính là bằng -2 lần tích phân từ -2 đến 6 của f(u) du và nó cũng sẽ bằng luôn tích phân từ -2 đến 6 của f(x) nhân với -2.
+
+70
+00:11:19,480 --> 00:11:24,120
+Do tích phân thì chúng ta lưu ý là nó không phụ thuộc vào biến.
+
+71
+00:11:24,120 --> 00:11:35,680
+Thì lúc này sau khi có y1 thì cái tích phân y ban đầu thầy sẽ viết lại là bằng -16 trừ cho 2 lần tích phân từ -2 đến 6 của f(x).
+
+72
+00:11:35,680 --> 00:11:39,000
+Bây giờ chúng ta cần tính cái tích phân này.
+
+73
+00:11:39,000 --> 00:11:46,240
+Thì để tính được tích phân này á, thì chúng ta sẽ áp dụng tương tự như ví dụ 2 vừa rồi, chúng ta sẽ sử dụng diện tích hình phẳng.
+
+74
+00:11:46,240 --> 00:11:52,160
+Vậy thì bây giờ tích phân từ -2 đến 6 của f(x) thầy sẽ tách nó ra làm ba tích phân.
+
+75
+00:11:52,160 --> 00:11:55,120
+Đầu tiên là tích phân từ -2 đến 2.
+
+76
+00:11:59,040 --> 00:12:16,800
+Dựa vào cái đồ thị ở đây thì bây giờ tích phân từ trừ 2 đến 2 của f(x), chúng ta thấy là trên khoảng từ trừ 2 đến 2 thì f(x) là âm, do đó cái tích phân này nó sẽ bằng trừ A, tức là trừ diện tích của cái miền A.
+
+77
+00:12:16,800 --> 00:12:21,280
+Các em lưu ý ha, nếu như nằm dưới trục hoành âm thì chúng ta phải thêm dấu trừ.
+
+78
+00:12:21,280 --> 00:12:30,480
+Tiếp theo tích phân từ 2 đến 4 thì trên cái khoảng từ 2 đến 4 này thì f(x) dương, do đó tích phân này đúng bằng diện tích của cái miền B.
+
+79
+00:12:30,480 --> 00:12:38,480
+Tương tự trên khoảng từ 4 đến 6 là f(x) âm, cho nên tích phân này nó sẽ bằng trừ diện tích của miền C.
+
+80
+00:12:38,480 --> 00:12:47,000
+Chúng ta thay A bằng 32, B bằng 2, C bằng 3 vào đây thì chúng ta tính được tích phân từ trừ 2 đến 6 của f(x) là bằng trừ 33.
+
+81
+00:12:48,080 --> 00:12:58,120
+Đến đây ta thay vào y, ta thay vào y thì chúng ta sẽ được y bằng trừ 16 trừ cho hai lần của trừ 33 và bằng 50.
+
+82
+00:12:58,440 --> 00:13:01,640
+Ta chọn đáp án D.
+
+83
+00:13:01,640 --> 00:13:05,120
+Tiếp theo chúng ta sẽ đến với ví dụ thứ tư.
+
+84
+00:13:05,120 --> 00:13:10,480
+Đây là một ví dụ có liên hệ đến một cái chương đó là chương khảo sát hàm số.
+
+85
+00:13:10,480 --> 00:13:28,800
+Ví dụ thứ tư như sau: Cho hai hàm số f(x), hàm số f(x) này là hàm số bậc bốn ax mũ 4 cộng bx mũ 3 cộng cx mũ 2 cộng dx và hàm số g(x) là hàm số bậc ba mx mũ 3 cộng nx mũ 2 trừ x.
+
+86
+00:13:28,800 --> 00:13:43,160
+Bây giờ giả thiết người ta cho là cái hàm số f(x) trừ g(x) có ba điểm cực trị, ba điểm cực trị là trừ 1, 2 và 3 và đề bài yêu cầu tính diện tích hình phẳng giới hạn bởi hai đồ thị là đồ thị f'(x) và g'(x).
+
+87
+00:13:46,640 --> 00:13:59,320
+Thì dĩ nhiên sau khi đọc bài toán này, để tính được cái diện tích hình phẳng giới hạn bởi f' và g' thì chắc chắn là chúng ta phải biết được là cái hàm số f' trừ g' nó là cái hàm số như thế nào.
+
+88
+00:13:59,320 --> 00:14:16,320
+Thì đầu tiên thầy sẽ tính f' trước, f' sẽ bằng 4ax mũ 3 cộng 3bx mũ 2 cộng 2cx cộng d và g'(x) là bằng 3mx mũ 2 cộng 2nx trừ 1.
+
+89
+00:14:16,320 --> 00:14:27,320
+Bây giờ thầy sẽ đặt h(x) là cái hàm số f(x) trừ g(x) và do đó cái hàm số h', tức là đạo hàm của h cũng sẽ bằng f' trừ cho g'.
+
+90
+00:14:29,040 --> 00:14:48,880
+Bây giờ đề bài cho chúng ta là cái hàm h(x) này nó có -1, 2 và 3 này nó sẽ là nghiệm của cái phương trình h'(x) = 0.
+
+91
+00:14:50,400 --> 00:15:11,800
+Và chúng ta cũng để ý là f' trừ g' thì cái bậc của nó là bậc ba và nó có ba nghiệm là -1, 2 và 3, do đó thầy có thể đặt f' trừ g' là bằng A nhân cho (x + 1) nhân cho (x - 2) và nhân cho (x - 3).
+
+92
+00:15:11,800 --> 00:15:17,120
+Chúng ta đặt được như vậy là do -1, 2 và 3 là các nghiệm của f' trừ g'.
+
+93
+00:15:18,960 --> 00:15:23,200
+Bây giờ nhiệm vụ của chúng ta là phải xác định được cái hệ số A này.
+
+94
+00:15:23,200 --> 00:15:32,000
+Thì bây giờ muốn tính được cái A thì rõ ràng chúng ta phải thay một cái giá trị x nào đó vào đây, từ đó giải ra A.
+
+95
+00:15:32,000 --> 00:15:33,760
+Thì bây giờ chúng ta sẽ thay giá trị nào?
+
+96
+00:15:33,760 --> 00:15:49,400
+Thì các em lưu ý hai cái hàm số f' và g', chúng ta thấy hàm số f' nè có hệ số tự do là 3, g' có hệ số tự do là -1, thì có nghĩa là chúng ta đã có được f'(0) với g'(0) đúng chưa?
+
+97
+00:15:49,400 --> 00:15:56,360
+Do đó ở trong cái đẳng thức sau này thầy sẽ thay x = 0 vào hai vế của nó.
+
+98
+00:15:56,360 --> 00:16:08,120
+Thì lúc mà thầy thay x = 0 vào hai vế của nó thì thầy sẽ được f'(0) trừ g'(0) là bằng A nhân cho 0 + 1 nhân cho 0 - 2 và nhân cho 0 - 3.
+
+99
+00:16:08,120 --> 00:16:20,000
+Và dĩ nhiên f'(0) là bằng 3 và g'(0) là bằng -1, từ đây thầy sẽ có được một cái phương trình theo A và chúng ta sẽ giải ra được A là bằng 2/3.
+
+100
+00:16:22,160 --> 00:16:32,600
+Lúc này f'(x) trừ g'(x) chính là cái hàm số 2/3 nhân cho (x + 1) nhân cho (x - 2) nhân cho (x - 3).
+
+101
+00:16:32,600 --> 00:16:36,280
+Bây giờ chúng ta sẽ quay trở lại tính diện tích giới hạn bởi f' và g'.
+
+102
+00:16:36,640 --> 00:16:39,200
+Thì rõ ràng chúng ta chưa có hai cái cận đúng không?
+
+103
+00:16:39,200 --> 00:16:50,040
+Thì lúc này chúng ta sẽ xét cái phương trình hoành độ giao điểm, tức là chúng ta sẽ cho f' bằng với g' và dĩ nhiên f' bằng với g' tương đương là f' trừ g' bằng 0.
+
+104
+00:16:50,040 --> 00:16:54,600
+Thì chúng ta cũng sẽ có ba nghiệm là -1, 2 và 3 thôi.
+
+105
+00:16:54,600 --> 00:17:20,240
+Sau khi có đầy đủ những cái này thì chúng ta xác định công thức diện tích hình phẳng giới hạn bởi f(x) và hàm 2/3 nhân cho (x + 1) nhân cho (x - 2) nhân cho (x - 3).
+
+106
+00:17:20,240 --> 00:17:32,160
+Đến đây chúng ta có thể bấm máy tính và ra được kết quả diện tích là bằng 7/1, là bằng 71/3, ta chọn đáp án B.
+
+107
+00:17:32,160 --> 00:17:43,160
+Trường Đại học Quốc tế Sài Gòn (SIU) không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SIU nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt.
+
+108
+00:17:43,160 --> 00:17:53,920
+SIU mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới, trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.
+
+109
+00:17:53,920 --> 00:18:02,520
+Năm 2024, SIU tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng 4 phương thức tuyển sinh.
+
+110
+00:18:02,520 --> 00:18:29,080
+SIU cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SIU, 100 suất học bổng tiếp bước hành trình quỹ tài năng trẻ, học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa, thể thao, nghệ thuật, học bổng đồng hành xây dựng nhân lực chất lượng cao cho Thành phố Thủ Đức, Thành phố Hồ Chí Minh, học bổng doanh nghiệp tài trợ, tài trợ học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.
+
+111
+00:18:29,080 --> 00:18:34,000
+"Sài Gòn tâm hồn Việt Nam, giáo dục thế giới".
+
+112
+00:18:34,000 --> 00:18:37,600
+Tiếp theo chúng ta sẽ đến với ví dụ số 5.
+
+113
+00:18:37,600 --> 00:18:50,160
+Thì đây là một cái dạng toán thực tế, thì trong cái đề thi minh họa năm 2023, 2024 vừa mới xuất hiện, thì chúng ta có thể thấy là trong đề thi đó cũng có hai câu toán thực tế.
+
+114
+00:18:50,160 --> 00:18:56,920
+Thì trong ví dụ 5 này thầy muốn giới thiệu cho các em một cái bài toán thực tế liên quan đến tính diện tích hình phẳng.
+
+115
+00:18:56,920 --> 00:19:04,880
+Bây giờ chúng ta sẽ có một cái mảnh vườn hình chữ nhật dài 16 mét và rộng 8 mét.
+
+116
+00:19:04,880 --> 00:19:14,280
+Thì bây giờ các nhà toán học người ta mới dùng hai cái đường parabol có đỉnh là trung điểm của cái chiều dài hình chữ nhật.
+
+117
+00:19:14,280 --> 00:19:25,840
+Ở đây chúng ta thấy có hai cái đường parabol, thì cái phần mà tô đậm các nhà toán học dùng để trồng hoa hồng.
+
+118
+00:19:25,840 --> 00:19:44,200
+Bây giờ biết chi phí để trồng hoa hồng là 40.000 - 45.000 đồng trên mét vuông, thì bây giờ người ta mới hỏi là chúng ta muốn hướng đến tính là phải tính được cái diện tích của cái phần này đúng chưa?
+
+119
+00:19:44,200 --> 00:19:47,320
+Mà tính diện tích thì chúng ta sẽ ứng dụng tích phân.
+
+120
+00:19:47,320 --> 00:19:53,040
+Vậy thì bây giờ bắt buộc là thầy phải đặt vào trong cái hình chữ nhật này một cái hệ trục tọa độ.
+
+121
+00:19:53,040 --> 00:20:11,840
+Thì rõ ràng khi mà đặt hệ trục tọa độ, chúng ta sẽ có rất là nhiều cách đặt, thì ở đây thầy sẽ đặt hệ trục như sau: bây giờ thầy sẽ chọn cái hệ trục tọa độ có cái tâm O chính là cái tâm của cái hình chữ nhật.
+
+122
+00:20:11,840 --> 00:20:19,120
+Thì bây giờ ở đây chúng ta có hai đường parabol, thầy ký hiệu đường màu đỏ là đường P1, đường màu xanh là đường P2.
+
+123
+00:20:21,200 --> 00:20:34,000
+Thì bây giờ để tính được cái phần diện tích thì phần diện tích này chính là cái phần mà giới hạn bởi hai cái đường parabol này và hai cái cận là hai cái giao điểm của hai parabol đó.
+
+124
+00:20:34,000 --> 00:20:38,960
+Thì đầu tiên chắc chắn là phải viết được phương trình của parabol P1 và parabol P2.
+
+125
+00:20:40,560 --> 00:20:57,120
+Đầu tiên chúng ta thấy parabol P1 là parabol màu đỏ thì nó sẽ có đỉnh là A1, một cái điểm A1 này sẽ có tọa độ là (0, -4) và đi qua điểm B1 tọa độ là (8, 4).
+
+126
+00:20:57,120 --> 00:21:04,640
+Bây giờ để viết được parabol P1, thầy đặt P1 là hàm số bậc hai y = ax² + bx + c.
+
+127
+00:21:04,640 --> 00:21:16,480
+Thì chúng ta thấy rằng đỉnh là A1 có hoành độ là 0, do đó chúng ta sẽ suy ra được ngay là -b/2a = 0, hay nói cách khác là b = 0.
+
+128
+00:21:16,480 --> 00:21:26,400
+Tiếp theo ta cần tìm a với c, thì bây giờ parabol P1 này đi qua hai điểm là A1 và B1 thì thầy có quyền thay tọa độ của A1 và B1 vào cái parabol P1.
+
+129
+00:21:28,040 --> 00:21:36,600
+Thì khi mà thầy thay vào thầy sẽ được thay 0 vào x, thay -4 vào y thì thầy được c = -4.
+
+130
+00:21:37,760 --> 00:21:45,920
+Tiếp theo thầy thay 8 vào x, 4 vào y thì thầy sẽ được phương trình là a nhân cho 8² + c = 4.
+
+131
+00:21:45,920 --> 00:21:49,080
+Lúc này thầy giải ra được c = -4 và a = 1/8.
+
+132
+00:21:50,320 --> 00:21:54,600
+Vậy tóm lại parabol P1 sẽ có phương trình là y = x²/8 - 4.
+
+133
+00:21:57,520 --> 00:22:08,840
+Tương tự chúng ta sẽ tìm phương trình của parabol b2 thì cái phần này thầy sẽ để cho các em tự giải quyết thì parabol b2 sẽ có phương trình là y = -x²/8 + 4.
+
+134
+00:22:20,920 --> 00:22:25,760
+Hãy lập phương trình hoành độ giao điểm: x^2/8 - 4 = -x^2/8 + 4.
+
+135
+00:22:28,960 --> 00:22:37,480
+Lúc này, hãy giải ra được x = ±4√2 và đây chính là hai cái cận.
+
+136
+00:22:37,480 --> 00:22:52,560
+Áp dụng công thức tính diện tích hình phẳng, diện tích phần gạch chéo sẽ = tích phân từ -4√2 đến 4√2, chúng ta sẽ lấy parabol b2 trừ cho parabol b1: (-x^2/8 + 4) - (x^2/8 - 4).
+
+137
+00:22:52,560 --> 00:22:59,440
+Bấm máy tính, chúng ta sẽ được diện tích này gần = 60,34 m².
+
+138
+00:23:01,960 --> 00:23:10,880
+Chúng ta nhân với số tiền là 45.000 đồng trên m², chúng ta sẽ được số tiền trồng hoa là 2.715.300 đồng.
+
+139
+00:23:10,880 --> 00:23:13,440
+Chúng ta kết thúc bài toán.
+
+140
+00:23:13,440 --> 00:23:22,280
+Cuối cùng, chúng ta sẽ đến với một cái ví dụ về tính thể tích của vật thể và đây cũng là một dạng toán thực tế.
+
+141
+00:23:22,280 --> 00:23:32,840
+Các em quan sát ví dụ 6.1: Cốc rượu có dạng hình tròn xoay có chiều cao = 10, đường kính miệng là = 8.
+
+142
+00:23:32,840 --> 00:23:44,360
+Biết thiết diện khi mà bổ dọc cái cốc rượu này chúng ta sẽ được một cái parabol, thì yêu cầu là tính thể tích của cái cốc rượu.
+
+143
+00:23:44,360 --> 00:23:55,480
+Bây giờ tính thể tích thì chúng ta nhớ là chúng ta cũng có một cái công thức ứng dụng phân, thì bây giờ bắt buộc là hãy phải đặt vào trong đây một cái hệ trục tọa độ.
+
+144
+00:23:55,480 --> 00:24:02,040
+Thì bây giờ hãy chọn cái hệ trục tọa độ như sau: Thầy sẽ đặt cái gốc tọa độ là ngay đỉnh của cái parabol đó.
+
+145
+00:24:02,040 --> 00:24:18,720
+Các em quan sát trên hình thì bây giờ các em có thể tưởng tượng rằng nếu như thầy lấy cái parabol này mà thầy quay quanh trục Oy thì nó sẽ trở thành cái cốc rượu như cái đề bài đã cho.
+
+146
+00:24:18,720 --> 00:24:24,480
+Vậy thì đầu tiên là thầy phải tìm được cái phương trình của cái parabol này trước.
+
+147
+00:24:24,480 --> 00:24:33,960
+Thì parabol này là parabol có đỉnh là gốc tọa độ cho nên nó sẽ có dạng là y = ax^2 và đi qua điểm (4, 10).
+
+148
+00:24:33,960 --> 00:24:38,520
+Do đó thầy sẽ dễ dàng tìm được phương trình của đường parabol là y = 5/8 x^2.
+
+149
+00:24:40,600 --> 00:24:46,560
+Bây giờ cái cốc rượu này được sinh ra khi chúng ta quay parabol này quanh trục Oy.
+
+150
+00:24:48,360 --> 00:24:55,520
+Do đó khi mà chúng ta áp dụng công thức tính thể tích vật thể là chúng ta phải tính theo $x = \sqrt{\frac{8}{5}y}$.
+
+151
+00:25:05,440 --> 00:25:10,800
+Lúc này dung tích $V$ của cốc tính bằng công thức $V = \pi \int \dots$.
+
+152
+00:25:11,680 --> 00:25:19,040
+Bây giờ các em tưởng tượng là chúng ta quay quanh Oy, vậy thì cái cận chúng ta sẽ lấy trên trục Oy là từ 0 cho đến 10.
+
+153
+00:25:19,040 --> 00:25:33,520
+Bây giờ cái hàm số là chúng ta sẽ lấy hàm số $\sqrt{\frac{8}{5}y}$ bình phương, theo đúng công thức thì lúc này chúng ta sẽ dễ dàng tính được thể tích của cốc là $80\pi$, gần bằng 251,33 $\text{cm}^3$.
+
+154
+00:25:36,200 --> 00:25:40,160
+Chúng ta chọn đáp án C và kết thúc ví dụ số 6.
+
+155
+00:25:40,160 --> 00:25:45,920
+Thì trên đây là toàn bộ những cái kiến thức liên quan đến ứng dụng tích phân, hy vọng ôn tập lại cho các em.
+
+156
+00:25:45,920 --> 00:25:50,040
+Hẹn gặp lại các em ở các chuyên đề sau, xin chào tạm biệt.

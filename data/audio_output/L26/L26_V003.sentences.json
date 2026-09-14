@@ -1,0 +1,678 @@
+{
+  "video_id": "L26_V003",
+  "fps": 25.0,
+  "n_sentences": 38,
+  "total_words": 816,
+  "sentences": [
+    {
+      "text": "Rất món ngon mỗi ngày.",
+      "start": 0.04,
+      "end": 12.0,
+      "n_words": 5,
+      "start_frame": 1,
+      "end_frame": 300,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000065.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000155.webp",
+        "000160.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 36
+    },
+    {
+      "text": "Thịt gà mềm ngọt kết hợp với thịt nguội và phô mai béo thơm, bên ngoài là lớp vỏ chiên giòn tan, không thể thiếu chút xốt beo béo, ngọt thơm, ăn cực cuốn.",
+      "start": 12.0,
+      "end": 37.12,
+      "n_words": 34,
+      "start_frame": 300,
+      "end_frame": 928,
+      "keyframes": [
+        "000300.webp",
+        "000341.webp",
+        "000383.webp",
+        "000384.webp",
+        "000387.webp",
+        "000390.webp",
+        "000391.webp",
+        "000410.webp",
+        "000429.webp",
+        "000430.webp",
+        "000473.webp",
+        "000516.webp",
+        "000517.webp",
+        "000554.webp",
+        "000591.webp",
+        "000592.webp",
+        "000619.webp",
+        "000646.webp",
+        "000647.webp",
+        "000667.webp",
+        "000688.webp",
+        "000689.webp",
+        "000774.webp",
+        "000860.webp",
+        "000861.webp",
+        "000898.webp"
+      ],
+      "keyframe_count": 26
+    },
+    {
+      "text": "Rất vui được gặp lại các bạn khán giả đang đến với chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành.",
+      "start": 37.12,
+      "end": 42.52,
+      "n_words": 22,
+      "start_frame": 928,
+      "end_frame": 1063,
+      "keyframes": [
+        "000935.webp",
+        "000936.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 42.52,
+      "end": 46.84,
+      "n_words": 11,
+      "start_frame": 1063,
+      "end_frame": 1171,
+      "keyframes": [
+        "001072.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Phước Hưng chào Kim Thảo.",
+      "start": 47.16,
+      "end": 48.36,
+      "n_words": 5,
+      "start_frame": 1179,
+      "end_frame": 1209,
+      "keyframes": [
+        "001208.webp",
+        "001209.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Phước Hưng ơi, ngày hôm nay cho Kim Thảo order một món đúng trào lưu của các bạn trẻ luôn nha, đó là sử dụng nguyên liệu phô mai nhưng phải là một món bổ dưỡng.",
+      "start": 48.36,
+      "end": 56.24,
+      "n_words": 36,
+      "start_frame": 1209,
+      "end_frame": 1406,
+      "keyframes": [
+        "001209.webp",
+        "001236.webp",
+        "001264.webp",
+        "001265.webp",
+        "001316.webp",
+        "001368.webp",
+        "001369.webp",
+        "001386.webp",
+        "001404.webp",
+        "001405.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Ngày hôm nay Phước Hưng sẽ theo lời yêu cầu của Kim Thảo hướng dẫn cho các bạn, cũng như là Kim Thảo, đó là món ức gà nhồi phô mai.",
+      "start": 56.24,
+      "end": 63.32,
+      "n_words": 31,
+      "start_frame": 1406,
+      "end_frame": 1583,
+      "keyframes": [
+        "001459.webp",
+        "001514.webp",
+        "001515.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và cũng theo lời của chuyên gia dinh dưỡng thì món ăn ngày hôm nay hỗ trợ giúp cho cơ thể của chúng ta bổ máu rất là tốt.",
+      "start": 63.32,
+      "end": 70.12,
+      "n_words": 29,
+      "start_frame": 1583,
+      "end_frame": 1753,
+      "keyframes": [
+        "001626.webp",
+        "001737.webp",
+        "001738.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Miếng phi lê ức gà chúng ta sẽ xẻ theo chiều dọc nhưng không cho đứt nhé.",
+      "start": 70.12,
+      "end": 75.68,
+      "n_words": 17,
+      "start_frame": 1753,
+      "end_frame": 1892,
+      "keyframes": [
+        "001793.webp",
+        "001849.webp",
+        "001850.webp",
+        "001872.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Phước Hưng sẽ cho cái miếng ức gà lên trên cái bàn bọc thực phẩm, chúng ta sẽ đập cái miếng ức gà có cái độ dày khoảng 8 milimet là được.",
+      "start": 75.68,
+      "end": 82.76,
+      "n_words": 32,
+      "start_frame": 1892,
+      "end_frame": 2069,
+      "keyframes": [
+        "001895.webp",
+        "001896.webp",
+        "001949.webp",
+        "002003.webp",
+        "002004.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ức gà thì rất tốt cho sức khỏe, giúp tăng cơ giảm mỡ và ức gà có chứa nhiều vitamin nhóm B12 giúp tạo lập tế bào hồng cầu, hỗ trợ bổ máu.",
+      "start": 82.76,
+      "end": 92.2,
+      "n_words": 33,
+      "start_frame": 2069,
+      "end_frame": 2305,
+      "keyframes": [
+        "002076.webp",
+        "002149.webp",
+        "002150.webp",
+        "002189.webp",
+        "002229.webp",
+        "002230.webp",
+        "002267.webp",
+        "002305.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta ướp gia vị vào đây: một phần ba muỗng cà phê hạt nêm Aji-no-moto heo, một phần ba muỗng cà phê nước cốt chanh.",
+      "start": 92.2,
+      "end": 100.48,
+      "n_words": 26,
+      "start_frame": 2305,
+      "end_frame": 2512,
+      "keyframes": [
+        "002305.webp",
+        "002306.webp",
+        "002324.webp",
+        "002342.webp",
+        "002343.webp",
+        "002361.webp",
+        "002379.webp",
+        "002380.webp",
+        "002413.webp",
+        "002447.webp",
+        "002448.webp",
+        "002482.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Tiếp tục Phước Hưng sẽ hướng dẫn cho các bạn, chúng ta sẽ tạo hình cho cái phần ức gà này.",
+      "start": 100.48,
+      "end": 105.12,
+      "n_words": 21,
+      "start_frame": 2512,
+      "end_frame": 2628,
+      "keyframes": [
+        "002517.webp",
+        "002518.webp",
+        "002572.webp",
+        "002626.webp",
+        "002627.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hưng sẽ cho phần thịt nguội, cho phần phô mai lên bên trên.",
+      "start": 105.12,
+      "end": 114.72,
+      "n_words": 13,
+      "start_frame": 2628,
+      "end_frame": 2868,
+      "keyframes": [
+        "002653.webp",
+        "002679.webp",
+        "002680.webp",
+        "002706.webp",
+        "002733.webp",
+        "002734.webp",
+        "002777.webp",
+        "002821.webp",
+        "002822.webp",
+        "002846.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Phước Hưng sẽ gắp cái phần ức gà lại và chúng ta sẽ ấn nhẹ tay cho cái phần ức gà này bám chặt vào phần thịt nguội và phô mai.",
+      "start": 114.72,
+      "end": 124.4,
+      "n_words": 31,
+      "start_frame": 2868,
+      "end_frame": 3110,
+      "keyframes": [
+        "002871.webp",
+        "002872.webp",
+        "002927.webp",
+        "002982.webp",
+        "002983.webp",
+        "003044.webp",
+        "003106.webp",
+        "003107.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Lấy phần ức gà phi lê mà chúng ta đã tạo hình rồi, Hưng sẽ cho vào bột mì, chúng ta sẽ áo đều bột mì trước.",
+      "start": 124.4,
+      "end": 131.52,
+      "n_words": 27,
+      "start_frame": 3110,
+      "end_frame": 3288,
+      "keyframes": [
+        "003130.webp",
+        "003153.webp",
+        "003154.webp",
+        "003218.webp",
+        "003282.webp",
+        "003283.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Tiếp tục Hưng sẽ cho qua phần trứng gà đánh tan.",
+      "start": 131.52,
+      "end": 135.76,
+      "n_words": 11,
+      "start_frame": 3288,
+      "end_frame": 3394,
+      "keyframes": [
+        "003339.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Phước Hưng sẽ cho qua bột xù và chúng ta sẽ nhấn nhẹ tay.",
+      "start": 135.76,
+      "end": 140.56,
+      "n_words": 14,
+      "start_frame": 3394,
+      "end_frame": 3514,
+      "keyframes": [
+        "003395.webp",
+        "003396.webp",
+        "003415.webp",
+        "003434.webp",
+        "003435.webp",
+        "003476.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta sẽ tẩm bột hai lần và nhẹ tay để lớp bột bên ngoài có độ giòn và có gai đẹp mắt hơn.",
+      "start": 140.56,
+      "end": 146.96,
+      "n_words": 24,
+      "start_frame": 3514,
+      "end_frame": 3674,
+      "keyframes": [
+        "003518.webp",
+        "003519.webp",
+        "003543.webp",
+        "003568.webp",
+        "003569.webp",
+        "003593.webp",
+        "003617.webp",
+        "003618.webp",
+        "003645.webp",
+        "003673.webp",
+        "003674.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Hưng sẽ cho vào chảo dầu, chúng ta chiên, chúng ta chiên với lửa vừa thôi đến khi nào mà vàng hai mặt là được.",
+      "start": 146.96,
+      "end": 154.2,
+      "n_words": 25,
+      "start_frame": 3674,
+      "end_frame": 3855,
+      "keyframes": [
+        "003674.webp",
+        "003706.webp",
+        "003739.webp",
+        "003740.webp",
+        "003797.webp",
+        "003854.webp",
+        "003855.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Chúng ta sẽ để phần thịt gà vào trong tủ lạnh một thời gian giúp cho thịt gà định hình, làm như vậy khi chiên thì sẽ đẹp mắt hơn.",
+      "start": 154.2,
+      "end": 161.2,
+      "n_words": 30,
+      "start_frame": 3855,
+      "end_frame": 4030,
+      "keyframes": [
+        "003855.webp",
+        "003941.webp",
+        "004027.webp",
+        "004028.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng ta sẽ pha sốt: cho vào đây hai muỗng canh sốt mayonnaise vị nguyên bản, một muỗng canh tương ớt và nửa muỗng canh mật ong.",
+      "start": 161.2,
+      "end": 172.84,
+      "n_words": 27,
+      "start_frame": 4030,
+      "end_frame": 4321,
+      "keyframes": [
+        "004053.webp",
+        "004079.webp",
+        "004080.webp",
+        "004108.webp",
+        "004137.webp",
+        "004138.webp",
+        "004162.webp",
+        "004186.webp",
+        "004187.webp",
+        "004214.webp",
+        "004241.webp",
+        "004242.webp",
+        "004276.webp",
+        "004310.webp",
+        "004311.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Hãy khuấy đều cho hỗn hợp phần nước sốt này.",
+      "start": 172.84,
+      "end": 175.32,
+      "n_words": 10,
+      "start_frame": 4321,
+      "end_frame": 4383,
+      "keyframes": [
+        "004350.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nhìn món ức gà chưa hoàn thành mà đã rất là hấp dẫn rồi. Cảm ơn đầu bếp Phước rất là nhiều.",
+      "start": 177.8,
+      "end": 182.56,
+      "n_words": 22,
+      "start_frame": 4445,
+      "end_frame": 4564,
+      "keyframes": [
+        "004448.webp",
+        "004449.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và chúng ta có thể lấy điện thoại ra và quét mã QR trên màn hình của chúng tôi để có thể có trọn vẹn công thức của món ăn ngày hôm nay nhé.",
+      "start": 182.56,
+      "end": 191.04,
+      "n_words": 34,
+      "start_frame": 4564,
+      "end_frame": 4776,
+      "keyframes": [
+        "004588.webp",
+        "004727.webp",
+        "004728.webp",
+        "004752.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Phước Hưng sẽ cắt cái phần ức gà ra.",
+      "start": 191.04,
+      "end": 203.36,
+      "n_words": 9,
+      "start_frame": 4776,
+      "end_frame": 5084,
+      "keyframes": [
+        "004777.webp",
+        "004778.webp",
+        "004804.webp",
+        "004830.webp",
+        "004831.webp",
+        "004855.webp",
+        "004879.webp",
+        "004880.webp",
+        "004986.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Chúng ta sẽ cắt thịt gà khi hơi nguội để thịt gà không bị chảy nước ra ngoài.",
+      "start": 203.36,
+      "end": 207.52,
+      "n_words": 18,
+      "start_frame": 5084,
+      "end_frame": 5188,
+      "keyframes": [
+        "005092.webp",
+        "005093.webp",
+        "005140.webp",
+        "005187.webp",
+        "005188.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Phước Hưng sẽ cho phần ức gà qua.",
+      "start": 207.52,
+      "end": 212.56,
+      "n_words": 8,
+      "start_frame": 5188,
+      "end_frame": 5314,
+      "keyframes": [
+        "005188.webp",
+        "005221.webp",
+        "005254.webp",
+        "005255.webp",
+        "005288.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Vậy là bây giờ món ức gà nhồi phô mai của chúng ta đã hoàn tất rồi.",
+      "start": 212.56,
+      "end": 216.6,
+      "n_words": 17,
+      "start_frame": 5314,
+      "end_frame": 5415,
+      "keyframes": [
+        "005321.webp",
+        "005322.webp",
+        "005387.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mời Kim Thảo ăn thử.",
+      "start": 216.6,
+      "end": 218.08,
+      "n_words": 5,
+      "start_frame": 5415,
+      "end_frame": 5452,
+      "keyframes": [
+        "005452.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Khi ăn thì chúng ta sẽ chấm với bột xốt sẽ rất là tuyệt vời.",
+      "start": 218.08,
+      "end": 229.56,
+      "n_words": 15,
+      "start_frame": 5452,
+      "end_frame": 5739,
+      "keyframes": [
+        "005452.webp",
+        "005453.webp",
+        "005500.webp",
+        "005547.webp",
+        "005548.webp",
+        "005586.webp",
+        "005625.webp",
+        "005626.webp",
+        "005681.webp",
+        "005737.webp",
+        "005738.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Món này xuất sắc, được gọi là 100 trên 100 điểm, 100 điểm luôn!",
+      "start": 229.56,
+      "end": 234.76,
+      "n_words": 14,
+      "start_frame": 5739,
+      "end_frame": 5869,
+      "keyframes": [
+        "005771.webp",
+        "005804.webp",
+        "005819.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Lớp vỏ bên ngoài thì giòn rụm, thịt gà ở bên trong ngọt mềm, thấm vị cùng với lại độ beo béo của thịt nguội và phô mai làm cho mùi vị của món ăn càng thêm thu hút hơn, quyến rũ hơn.",
+      "start": 234.76,
+      "end": 247.0,
+      "n_words": 43,
+      "start_frame": 5869,
+      "end_frame": 6175,
+      "keyframes": [
+        "005882.webp",
+        "005945.webp",
+        "005960.webp",
+        "006019.webp",
+        "006079.webp",
+        "006094.webp",
+        "006134.webp",
+        "006175.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Và để đạt được hiệu quả dinh dưỡng thì các bạn nên tham khảo món ăn này cùng với bản thực đơn sau đây.",
+      "start": 247.0,
+      "end": 256.32,
+      "n_words": 24,
+      "start_frame": 6175,
+      "end_frame": 6408,
+      "keyframes": [
+        "006175.webp",
+        "006176.webp",
+        "006231.webp",
+        "006287.webp",
+        "006288.webp",
+        "006350.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Ức gà nhồi phô mai: nguyên liệu dễ tìm, công thức dễ làm, vị ngon thì khó cưỡng.",
+      "start": 256.32,
+      "end": 261.52,
+      "n_words": 18,
+      "start_frame": 6408,
+      "end_frame": 6538,
+      "keyframes": [
+        "006412.webp",
+        "006413.webp",
+        "006519.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Món này chắc chắn sẽ tạo trend dành cho tất cả mọi người.",
+      "start": 261.52,
+      "end": 265.04,
+      "n_words": 13,
+      "start_frame": 6538,
+      "end_frame": 6626,
+      "keyframes": [
+        "006626.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Các bạn có thể truy cập vào YouTube, website, fanpage của chương trình Món ngon mỗi ngày để chúng ta có những công thức món ăn thật hấp dẫn cho bữa cơm gia đình.",
+      "start": 265.04,
+      "end": 273.72,
+      "n_words": 34,
+      "start_frame": 6626,
+      "end_frame": 6843,
+      "keyframes": [
+        "006626.webp",
+        "006627.webp",
+        "006827.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và trên website Món ngon mỗi ngày của chúng tôi không thiếu những món ăn đang hot thịnh hành hiện đại, mọi người có thể tham khảo thêm.",
+      "start": 273.72,
+      "end": 282.0,
+      "n_words": 28,
+      "start_frame": 6843,
+      "end_frame": 7050,
+      "keyframes": [
+        "007028.webp",
+        "007029.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

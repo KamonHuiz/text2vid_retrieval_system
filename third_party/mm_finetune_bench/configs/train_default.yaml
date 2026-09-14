@@ -1,0 +1,57 @@
+# Shared training defaults. Any key here can be overridden per-model by
+# passing a second --train-config with only the differing keys, or via
+# CLI --set key=value (see scripts/train.py --help).
+
+seed: 42
+
+# --- Optimization schedule ---
+epochs: 5
+per_device_batch_size: 128          # local micro-batch size (pre-accumulation)
+grad_accum_steps: 4                 # effective batch = per_device_batch_size * grad_accum_steps * world_size
+max_grad_norm: 1.0
+weight_decay: 0.05
+warmup_ratio: 0.03                  # fraction of total steps spent warming up
+lr_scheduler: cosine                # {cosine, linear, constant_with_warmup}
+
+# --- Differential learning rates (multiplied against each param group's base_lr) ---
+# Rationale: the vision/text towers are large pretrained encoders that only need
+# gentle adaptation, while newly-initialized/adapter parameters (LoRA, projection
+# heads, logit_scale/logit_bias) need to move much faster to be useful at all.
+learning_rate:
+  vision_encoder: 5.0e-6
+  text_encoder: 5.0e-6
+  projection: 5.0e-5
+  lora: 5.0e-4
+  logit_scale: 5.0e-4
+
+# --- Precision / performance ---
+precision: bf16                     # {bf16, fp16, fp32}
+flash_attention: true               # request attn_implementation="flash_attention_2" where supported
+grad_checkpointing: true
+compile: false                      # torch.compile(model) -- off by default, flaky across the 4 archs
+
+# --- Checkpointing / eval cadence ---
+save_every_steps: 500
+eval_every_steps: 500
+keep_last_n_checkpoints: 3
+output_dir: runs/default
+
+# --- Data loading ---
+num_workers: 8
+prefetch_factor: 4
+image_size: null                    # null => use each model's native image_size from its own config
+
+# --- Loss ---
+# Per-model default is set in the model config (configs/models/*.yaml); this
+# value is only used if the model config omits `loss.type`.
+loss:
+  type: infonce                     # {infonce, siglip}
+  learnable_logit_scale: true
+  logit_scale_init: 4.6052          # ln(100), standard CLIP init
+  logit_scale_max: 4.6052           # clamp ceiling (ln(100)) to prevent runaway temperature
+  siglip_logit_bias_init: -10.0     # only used when loss.type == siglip
+
+dry_run:
+  num_fake_samples: 32
+  fake_image_size: 224
+  fake_embed_dim: 128

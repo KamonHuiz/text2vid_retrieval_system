@@ -1,0 +1,2004 @@
+{
+  "video_id": "L21_V022",
+  "fps": 30.0,
+  "n_sentences": 122,
+  "total_words": 3545,
+  "sentences": [
+    {
+      "text": "Xin kính chào quý vị, chúng tôi rất vui được gặp lại quý vị trong chương trình 60 giây của Đài Truyền hình Thành phố Hồ Chí Minh.",
+      "start": 4.16,
+      "end": 9.08,
+      "n_words": 28,
+      "start_frame": 125,
+      "end_frame": 272,
+      "keyframes": [
+        "000233.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "60 giây hôm nay sẽ mang đến cho quý vị các thông tin được quan tâm nhất trong ngày.",
+      "start": 9.08,
+      "end": 15.64,
+      "n_words": 19,
+      "start_frame": 272,
+      "end_frame": 469,
+      "keyframes": [
+        "000426.webp",
+        "000427.webp",
+        "000459.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Người Việt Nam ở tỉnh Kursk vẫn an toàn, đề xuất làm bãi giữ xe tạm ở các công viên tại Thành phố Hồ Chí Minh.",
+      "start": 15.64,
+      "end": 27.52,
+      "n_words": 26,
+      "start_frame": 469,
+      "end_frame": 826,
+      "keyframes": [
+        "000492.webp",
+        "000493.webp",
+        "000516.webp",
+        "000539.webp",
+        "000540.webp",
+        "000565.webp",
+        "000590.webp",
+        "000591.webp",
+        "000617.webp",
+        "000644.webp",
+        "000645.webp",
+        "000646.webp",
+        "000647.webp",
+        "000648.webp",
+        "000649.webp",
+        "000651.webp",
+        "000652.webp",
+        "000672.webp",
+        "000692.webp",
+        "000693.webp",
+        "000717.webp",
+        "000741.webp",
+        "000742.webp",
+        "000766.webp",
+        "000791.webp",
+        "000792.webp",
+        "000824.webp"
+      ],
+      "keyframe_count": 27
+    },
+    {
+      "text": "Kính thưa quý vị, dù mới bước vào đầu mùa mưa bão, hầu hết các tỉnh miền Bắc đã hứng chịu hậu quả nặng nề do thiên tai gây ra.",
+      "start": 27.52,
+      "end": 35.44,
+      "n_words": 30,
+      "start_frame": 826,
+      "end_frame": 1063,
+      "keyframes": [
+        "000857.webp",
+        "000858.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thiệt hại tính từ đầu năm đến nay là hơn 100 người chết và mất tích, thiệt hại kinh tế 2.000 tỷ đồng.",
+      "start": 35.44,
+      "end": 40.88,
+      "n_words": 23,
+      "start_frame": 1063,
+      "end_frame": 1226,
+      "keyframes": [
+        "001149.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nhưng tháng 9 tới đây thì dự báo diễn biến mưa lũ sẽ còn rất phức tạp và khó lường, đặc biệt là ở các tỉnh miền núi.",
+      "start": 40.88,
+      "end": 49.0,
+      "n_words": 28,
+      "start_frame": 1226,
+      "end_frame": 1470,
+      "keyframes": [
+        "001441.webp",
+        "001442.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ngay từ đầu mùa mưa, thậm chí chưa có bão, những trận mưa lớn đã trút xuống khiến nhiều nơi ở đồng bằng sông Hồng bị ngập lụt.",
+      "start": 49.0,
+      "end": 55.56,
+      "n_words": 28,
+      "start_frame": 1470,
+      "end_frame": 1667,
+      "keyframes": [
+        "001535.webp",
+        "001628.webp",
+        "001629.webp",
+        "001650.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Như ở xã Nam Phương Tiến, huyện Chương Mỹ, thành phố Hà Nội, 200 ha diện tích nông nghiệp, thủy sản bị thiệt hại; Hơn 800 hộ dân bị cô lập dài ngày.",
+      "start": 55.56,
+      "end": 64.24,
+      "n_words": 33,
+      "start_frame": 1667,
+      "end_frame": 1927,
+      "keyframes": [
+        "001671.webp",
+        "001672.webp",
+        "001703.webp",
+        "001734.webp",
+        "001735.webp",
+        "001754.webp",
+        "001773.webp",
+        "001774.webp",
+        "001802.webp",
+        "001830.webp",
+        "001831.webp",
+        "001858.webp",
+        "001886.webp",
+        "001887.webp",
+        "001909.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "40 đến 45 ngày sau thì nhân dân mới lưu thông được bình thường.",
+      "start": 64.24,
+      "end": 67.68,
+      "n_words": 14,
+      "start_frame": 1927,
+      "end_frame": 2030,
+      "keyframes": [
+        "001932.webp",
+        "001933.webp",
+        "001937.webp",
+        "001941.webp",
+        "001942.webp",
+        "002000.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Toàn bộ khu vực này, những trận lũ quét gây ngập lụt và sạt lở nghiêm trọng tại các tỉnh Hà Giang, Sơn La, Điện Biên.",
+      "start": 67.68,
+      "end": 73.04,
+      "n_words": 26,
+      "start_frame": 2030,
+      "end_frame": 2191,
+      "keyframes": [
+        "002058.webp",
+        "002059.webp",
+        "002094.webp",
+        "002129.webp",
+        "002130.webp",
+        "002151.webp",
+        "002172.webp",
+        "002173.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Nhiều thành phố vùng cao bị ngập sâu đã bộc lộ những bất cập về khả năng thoát lũ khi có mưa lớn.",
+      "start": 73.04,
+      "end": 78.2,
+      "n_words": 23,
+      "start_frame": 2191,
+      "end_frame": 2346,
+      "keyframes": [
+        "002197.webp",
+        "002221.webp",
+        "002222.webp",
+        "002248.webp",
+        "002275.webp",
+        "002276.webp",
+        "002313.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Thì ở một số nơi cũng có những cái hoạt động công trình làm gia tăng thêm rủi ro thiên tai, ví dụ như là chúng ta bạt các cái mái ta luy để chúng ta làm các tuyến đường giao thông hay là các cái cầu qua các sông suối nhưng mà chưa có cái khẩu độ đủ lớn để thoát lũ.",
+      "start": 78.2,
+      "end": 97.84,
+      "n_words": 63,
+      "start_frame": 2346,
+      "end_frame": 2935,
+      "keyframes": [
+        "002351.webp",
+        "002352.webp",
+        "002447.webp",
+        "002543.webp",
+        "002544.webp",
+        "002736.webp",
+        "002928.webp",
+        "002929.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Theo cơ quan phòng chống thiên tai, mưa lũ xảy ra rất cực đoan, nhiều nơi lượng mưa đã vượt ngưỡng lịch sử, thiệt hại tính đến nay là lớn nhất trong vòng 5 năm qua và tăng gần 40% so với năm 2023. Kính thưa quý vị, tình hình xung đột ở tỉnh Kursk của Nga vẫn đang diễn biến phức tạp.",
+      "start": 97.84,
+      "end": 116.32,
+      "n_words": 63,
+      "start_frame": 2935,
+      "end_frame": 3490,
+      "keyframes": [
+        "002968.webp",
+        "003008.webp",
+        "003009.webp",
+        "003029.webp",
+        "003050.webp",
+        "003051.webp",
+        "003082.webp",
+        "003113.webp",
+        "003114.webp",
+        "003148.webp",
+        "003182.webp",
+        "003183.webp",
+        "003219.webp",
+        "003255.webp",
+        "003256.webp",
+        "003284.webp",
+        "003313.webp",
+        "003314.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Nằm cách khu vực chiến sự ở Kursk chỉ khoảng 140 km, khoảng 100 lao động Việt Nam vẫn tích cực lao động để đảm bảo cung cấp đúng hạn hợp đồng.",
+      "start": 116.32,
+      "end": 124.56,
+      "n_words": 32,
+      "start_frame": 3490,
+      "end_frame": 3737,
+      "keyframes": [
+        "003592.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Họ là nhóm người Việt đông nhất đang làm việc gần khu vực xung đột, nằm gần thành phố Zizera, Kursk.",
+      "start": 124.56,
+      "end": 132.96,
+      "n_words": 21,
+      "start_frame": 3737,
+      "end_frame": 3989,
+      "keyframes": [
+        "003870.webp",
+        "003871.webp",
+        "003921.webp",
+        "003972.webp",
+        "003973.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Còn đường dẫn tới xưởng may Hà Nội vẫn thanh bình như bao vùng quê khác của nước Nga.",
+      "start": 132.96,
+      "end": 137.76,
+      "n_words": 19,
+      "start_frame": 3989,
+      "end_frame": 4133,
+      "keyframes": [
+        "004035.webp",
+        "004098.webp",
+        "004099.webp",
+        "004116.webp",
+        "004133.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Trong xưởng may ba chuyên sản xuất vẫn đang hoạt động hối hả như mọi ngày.",
+      "start": 137.76,
+      "end": 142.96,
+      "n_words": 16,
+      "start_frame": 4133,
+      "end_frame": 4289,
+      "keyframes": [
+        "004133.webp",
+        "004134.webp",
+        "004182.webp",
+        "004231.webp",
+        "004232.webp",
+        "004264.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "\"Trước nghèo thì bây giờ vẫn thế, cũng không có gì hết.",
+      "start": 142.96,
+      "end": 146.4,
+      "n_words": 12,
+      "start_frame": 4289,
+      "end_frame": 4392,
+      "keyframes": [
+        "004296.webp",
+        "004297.webp",
+        "004336.webp",
+        "004376.webp",
+        "004377.webp",
+        "004378.webp",
+        "004379.webp",
+        "004380.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Xung đột thì cũng có hơi sợ thôi nhưng mà thấy bình thường.",
+      "start": 146.4,
+      "end": 150.32,
+      "n_words": 13,
+      "start_frame": 4392,
+      "end_frame": 4510,
+      "keyframes": [
+        "004446.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Công việc thì hàng hóa vẫn lên bình thường, ổn định.",
+      "start": 150.32,
+      "end": 154.48,
+      "n_words": 11,
+      "start_frame": 4510,
+      "end_frame": 4634,
+      "keyframes": [
+        "004513.webp",
+        "004514.webp",
+        "004603.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hàng may mặc người nhà cũng có điện và cũng nói với người nhà là cứ yên tâm tại vì bên đây nó cũng không có ảnh hưởng gì.\"",
+      "start": 154.48,
+      "end": 163.52,
+      "n_words": 29,
+      "start_frame": 4634,
+      "end_frame": 4906,
+      "keyframes": [
+        "004692.webp",
+        "004693.webp",
+        "004791.webp",
+        "004889.webp",
+        "004890.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thì khi mà lúc mà cuộc chiến mới bắt đầu thì lúc đấy chỉ khoảng 50 nhân công, và hiện tại công ty vẫn phát triển đều đặn và hiện tại đã đạt tới con số 100.",
+      "start": 164.24,
+      "end": 171.88,
+      "n_words": 37,
+      "start_frame": 4927,
+      "end_frame": 5156,
+      "keyframes": [
+        "004938.webp",
+        "004950.webp",
+        "004951.webp",
+        "004967.webp",
+        "004983.webp",
+        "004984.webp",
+        "005083.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Đời sống sinh hoạt với lại công việc của họ là ngày một tốt hơn, vẫn như là chưa có gì xảy ra.",
+      "start": 172.4,
+      "end": 180.72,
+      "n_words": 23,
+      "start_frame": 5172,
+      "end_frame": 5422,
+      "keyframes": [
+        "005183.webp",
+        "005184.webp",
+        "005295.webp",
+        "005406.webp",
+        "005407.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hiện tại Ban công tác cộng đồng của Đại sứ quán Việt Nam tại Liên bang Nga hằng ngày vẫn thường xuyên liên lạc với đại diện của cộng đồng người Việt Nam ở tỉnh Kursk để cập nhật tình hình bà con. Theo kết quả nghiên cứu hiện nay, các cổng dịch vụ công trực tuyến mặc dù được đầu tư lớn và đóng vai trò quan trọng trong công cuộc chuyển đổi số quốc gia nhưng hiện nay các cổng này vẫn còn nhiều bất cập.",
+      "start": 180.72,
+      "end": 203.56,
+      "n_words": 88,
+      "start_frame": 5422,
+      "end_frame": 6107,
+      "keyframes": [
+        "005451.webp",
+        "005496.webp",
+        "005497.webp",
+        "005559.webp",
+        "005621.webp",
+        "005622.webp",
+        "005671.webp",
+        "005720.webp",
+        "005721.webp",
+        "005745.webp",
+        "005769.webp",
+        "005770.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Do vậy, các tỉnh thành được khuyến nghị đầu tư cải thiện các cổng dịch vụ công trực tuyến lấy người dùng làm trung tâm.",
+      "start": 203.56,
+      "end": 209.2,
+      "n_words": 25,
+      "start_frame": 6107,
+      "end_frame": 6276,
+      "keyframes": [
+        "006177.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Các khuyến nghị này được đưa ra tại tọa đàm đánh giá 63 cổng dịch vụ công cấp tỉnh từ góc độ người dùng năm 2024, tổ chức hôm 21 tháng 8 tại Hà Nội.",
+      "start": 209.2,
+      "end": 220.36,
+      "n_words": 35,
+      "start_frame": 6276,
+      "end_frame": 6611,
+      "keyframes": [
+        "006585.webp",
+        "006586.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Theo các tổ chức thực hiện cuộc đánh giá, các cổng dịch vụ công chưa đáp ứng nhu cầu của người dùng, chưa tạo sự thuận tiện, thiếu đồng bộ giữa các cổng dịch vụ công cấp tỉnh và cấp quốc gia khiến người dùng gặp khó khăn khi phải làm quen với nhiều giao diện khác nhau.",
+      "start": 220.36,
+      "end": 233.28,
+      "n_words": 58,
+      "start_frame": 6611,
+      "end_frame": 6998,
+      "keyframes": [
+        "006622.webp",
+        "006659.webp",
+        "006660.webp",
+        "006691.webp",
+        "006722.webp",
+        "006723.webp",
+        "006748.webp",
+        "006774.webp",
+        "006775.webp",
+        "006794.webp",
+        "006813.webp",
+        "006814.webp",
+        "006833.webp",
+        "006853.webp",
+        "006854.webp",
+        "006887.webp",
+        "006921.webp",
+        "006922.webp",
+        "006962.webp"
+      ],
+      "keyframe_count": 19
+    },
+    {
+      "text": "Giao diện được thiết kế cho máy tính chứ chưa phải là được thiết kế cho điện thoại di động, trong khi người dân lại phổ biến sử dụng điện thoại di động rồi.",
+      "start": 233.28,
+      "end": 240.68,
+      "n_words": 34,
+      "start_frame": 6998,
+      "end_frame": 7220,
+      "keyframes": [
+        "007002.webp",
+        "007003.webp",
+        "007032.webp",
+        "007061.webp",
+        "007062.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Các tính năng ví dụ như là tìm kiếm cung cấp thông tin rồi tính năng nhận cái kết quả để biết được xem là cái hồ sơ của mình gửi đi hiện tại như thế nào thì những cái tính năng như vậy vẫn đang còn khá là hạn chế.",
+      "start": 240.68,
+      "end": 251.88,
+      "n_words": 51,
+      "start_frame": 7220,
+      "end_frame": 7556,
+      "keyframes": [
+        "007307.webp",
+        "007553.webp",
+        "007554.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Theo thông tin từ Ủy ban Quốc gia về Chuyển đổi số, đến tháng 7 năm nay, tỷ lệ hồ sơ nộp trực tuyến đối với các dịch vụ công trực tuyến của cấp tỉnh, thành phố nhằm thực hiện toàn bộ thủ tục hành chính trên môi trường mạng mới chỉ đạt 17%.",
+      "start": 251.88,
+      "end": 263.8,
+      "n_words": 54,
+      "start_frame": 7556,
+      "end_frame": 7914,
+      "keyframes": [
+        "007560.webp",
+        "007567.webp",
+        "007568.webp",
+        "007602.webp",
+        "007637.webp",
+        "007638.webp",
+        "007666.webp",
+        "007695.webp",
+        "007696.webp",
+        "007715.webp",
+        "007735.webp",
+        "007736.webp",
+        "007754.webp",
+        "007773.webp",
+        "007774.webp",
+        "007809.webp",
+        "007845.webp",
+        "007846.webp",
+        "007893.webp"
+      ],
+      "keyframe_count": 19
+    },
+    {
+      "text": "Cần thay đổi tư duy quản trị số lấy người dùng làm trung tâm.",
+      "start": 265.28,
+      "end": 269.24,
+      "n_words": 14,
+      "start_frame": 7958,
+      "end_frame": 8077,
+      "keyframes": [
+        "008009.webp",
+        "008077.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Các chuyên gia cũng khuyến nghị thời gian tới các tỉnh thành cần sớm thực hiện rà soát và khắc phục các lỗi kỹ thuật trên cổng dịch vụ công, đảm bảo hiệu quả thực chất và công khai thông tin tạo sự thuận tiện cho người dân. Kính thưa quý vị, tại Thành phố Hồ Chí Minh, nhu cầu đậu xe gửi xe ngày càng bức bách nhất là tại khu vực trung tâm.",
+      "start": 269.24,
+      "end": 288.56,
+      "n_words": 75,
+      "start_frame": 8077,
+      "end_frame": 8657,
+      "keyframes": [
+        "008077.webp",
+        "008078.webp",
+        "008106.webp",
+        "008135.webp",
+        "008136.webp",
+        "008172.webp",
+        "008208.webp",
+        "008209.webp",
+        "008240.webp",
+        "008271.webp",
+        "008272.webp",
+        "008304.webp",
+        "008337.webp",
+        "008338.webp",
+        "008383.webp",
+        "008429.webp",
+        "008430.webp",
+        "008448.webp",
+        "008467.webp",
+        "008468.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Tuy nhiên, việc tổ chức giữ xe tại các công viên đang gặp khó về cơ chế thực hiện.",
+      "start": 288.56,
+      "end": 292.8,
+      "n_words": 19,
+      "start_frame": 8657,
+      "end_frame": 8784,
+      "keyframes": [
+        "008780.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và để đáp ứng nhu cầu của người dân trong thời gian chờ các bộ ngành hướng dẫn, Sở Xây dựng Thành phố Hồ Chí Minh vừa kiến nghị được tổ chức đấu giá bãi giữ xe ở các công viên trên địa bàn thành phố.",
+      "start": 292.8,
+      "end": 304.28,
+      "n_words": 46,
+      "start_frame": 8784,
+      "end_frame": 9128,
+      "keyframes": [
+        "009093.webp",
+        "009094.webp",
+        "009104.webp",
+        "009115.webp",
+        "009116.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Theo đó, Sở kiến nghị Ủy ban Nhân dân thành phố chấp thuận chủ trương cho Trung tâm Quản lý Hạ tầng Kỹ thuật thuộc Sở Xây dựng tổ chức đấu giá cho thuê quyền khai thác bãi giữ xe trong các công viên được giao quản lý.",
+      "start": 304.28,
+      "end": 316.72,
+      "n_words": 48,
+      "start_frame": 9128,
+      "end_frame": 9502,
+      "keyframes": [
+        "009196.webp",
+        "009277.webp",
+        "009278.webp",
+        "009328.webp",
+        "009378.webp",
+        "009379.webp",
+        "009424.webp",
+        "009470.webp",
+        "009471.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Trung tâm sẽ thuê tổ chức có đủ điều kiện hoạt động thẩm định giá để xác định giá khởi điểm làm cơ sở tổ chức đấu giá theo quy định về đấu giá tài sản.",
+      "start": 316.72,
+      "end": 325.72,
+      "n_words": 36,
+      "start_frame": 9502,
+      "end_frame": 9772,
+      "keyframes": [
+        "009540.webp",
+        "009609.webp",
+        "009610.webp",
+        "009653.webp",
+        "009696.webp",
+        "009697.webp",
+        "009742.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Số tiền thu được từ khai thác các bãi giữ xe này sau khi trừ đi các chi phí liên quan sẽ được nộp toàn bộ vào ngân sách thành phố.",
+      "start": 325.72,
+      "end": 333.4,
+      "n_words": 31,
+      "start_frame": 9772,
+      "end_frame": 10002,
+      "keyframes": [
+        "009787.webp",
+        "009788.webp",
+        "009803.webp",
+        "009819.webp",
+        "009820.webp",
+        "009859.webp",
+        "009899.webp",
+        "009900.webp",
+        "009951.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Trước đó, ngày 8 tháng 7, Ủy ban Nhân dân Thành phố Hồ Chí Minh đã có công văn gửi Bộ Xây dựng và Bộ Tài chính xin hướng dẫn trong việc khai thác bãi giữ xe và các dịch vụ thiết yếu như căn tin, máy bán nước tự động trong công viên.",
+      "start": 333.4,
+      "end": 348.68,
+      "n_words": 54,
+      "start_frame": 10002,
+      "end_frame": 10460,
+      "keyframes": [
+        "010003.webp",
+        "010004.webp",
+        "010053.webp",
+        "010103.webp",
+        "010104.webp",
+        "010156.webp",
+        "010209.webp",
+        "010210.webp",
+        "010263.webp",
+        "010316.webp",
+        "010317.webp",
+        "010351.webp",
+        "010385.webp",
+        "010386.webp",
+        "010414.webp",
+        "010443.webp",
+        "010444.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Liên quan đến vụ tuyển sinh lớp 10 trung học phổ thông công lập năm 2024-2025, trong đó hàng trăm học sinh từ rớt thành đậu và ngược lại, Ủy ban Nhân dân tỉnh Thái Bình vừa có quyết định gia hạn thời gian tạm đình chỉ công tác đối với ông Nguyễn Viết Hiển, Giám đốc Sở Giáo dục và Đào tạo để phục vụ công tác thanh tra. Thời gian gia hạn tạm đình chỉ công tác là 15 ngày làm việc.",
+      "start": 348.68,
+      "end": 370.6,
+      "n_words": 84,
+      "start_frame": 10460,
+      "end_frame": 11118,
+      "keyframes": [
+        "010782.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trước đó, ngày 20 tháng 8, Ủy ban Nhân dân tỉnh Thái Bình đã tổ chức họp báo cung cấp thông tin về kết quả thanh tra và nghiêm túc nhận trách nhiệm, đồng thời công khai xin lỗi nhân dân.",
+      "start": 370.6,
+      "end": 381.12,
+      "n_words": 41,
+      "start_frame": 11118,
+      "end_frame": 11434,
+      "keyframes": [
+        "011121.webp",
+        "011122.webp",
+        "011185.webp",
+        "011249.webp",
+        "011250.webp",
+        "011307.webp",
+        "011365.webp",
+        "011366.webp",
+        "011377.webp",
+        "011388.webp",
+        "011389.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Thông tin tại cuộc họp báo cho biết, trong đợt thi lớp 10 vừa qua, toàn tỉnh Thái Bình có gần 3.000 bài thi bị lệch làm sai điểm của 2.750 thí sinh.",
+      "start": 381.12,
+      "end": 390.72,
+      "n_words": 33,
+      "start_frame": 11434,
+      "end_frame": 11722,
+      "keyframes": [
+        "011454.webp",
+        "011519.webp",
+        "011520.webp",
+        "011580.webp",
+        "011641.webp",
+        "011642.webp",
+        "011684.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Hậu quả khiến 1.368 bài thi có điểm cao hơn điểm đã công bố, 1.401 bài thi có điểm thấp hơn điểm đã công bố, có 237 thí sinh không trúng tuyển thành trúng tuyển, 243 thí sinh từ trúng tuyển thành không trúng tuyển.",
+      "start": 390.72,
+      "end": 406.48,
+      "n_words": 45,
+      "start_frame": 11722,
+      "end_frame": 12194,
+      "keyframes": [
+        "011727.webp",
+        "011728.webp",
+        "011785.webp",
+        "011843.webp",
+        "011844.webp",
+        "011869.webp",
+        "011895.webp",
+        "011896.webp",
+        "011952.webp",
+        "012008.webp",
+        "012009.webp",
+        "012152.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Đoàn thanh tra tỉnh Thái Bình xác định Trưởng ban Chỉ đạo kỳ thi là ông Nguyễn Viết Hiển và Ban thư ký đã không thực hiện đúng quy định trong quá trình thực hiện việc hồi phách bài thi tự luận.",
+      "start": 406.48,
+      "end": 416.4,
+      "n_words": 42,
+      "start_frame": 12194,
+      "end_frame": 12492,
+      "keyframes": [
+        "012296.webp",
+        "012297.webp",
+        "012359.webp",
+        "012422.webp",
+        "012423.webp",
+        "012456.webp",
+        "012489.webp",
+        "012490.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Đoàn thanh tra cũng xác định trách nhiệm để xảy ra vụ việc đáng tiếc này thuộc về công chức viên chức của Ban thư ký trong thực hiện nhiệm vụ quyền hạn được giao. Đêm qua, một đám cháy đã xảy ra tại một khu dân cư ở huyện Di Linh, Lâm Đồng.",
+      "start": 416.4,
+      "end": 430.6,
+      "n_words": 54,
+      "start_frame": 12492,
+      "end_frame": 12918,
+      "keyframes": [
+        "012534.webp",
+        "012579.webp",
+        "012580.webp",
+        "012623.webp",
+        "012666.webp",
+        "012667.webp",
+        "012727.webp",
+        "012787.webp",
+        "012788.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Xe cứu hỏa cùng cán bộ chiến sĩ đã phải đi gần 40 km để đến hiện trường chữa cháy.",
+      "start": 430.6,
+      "end": 435.28,
+      "n_words": 20,
+      "start_frame": 12918,
+      "end_frame": 13058,
+      "keyframes": [
+        "012994.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đến 21:30 tối qua, đám cháy mới được khống chế.",
+      "start": 435.28,
+      "end": 440.96,
+      "n_words": 10,
+      "start_frame": 13058,
+      "end_frame": 13229,
+      "keyframes": [
+        "013201.webp",
+        "013202.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Vụ cháy xảy ra từ 18:00 cùng ngày tại một nhà kho nằm trong khu dân cư trên đường Nguyễn Du, thị trấn Di Linh.",
+      "start": 440.96,
+      "end": 447.24,
+      "n_words": 25,
+      "start_frame": 13229,
+      "end_frame": 13417,
+      "keyframes": [
+        "013331.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Từ thành phố Bảo Lộc, hai xe chữa cháy được điều đi.",
+      "start": 447.24,
+      "end": 449.96,
+      "n_words": 12,
+      "start_frame": 13417,
+      "end_frame": 13499,
+      "keyframes": [
+        "013461.webp",
+        "013462.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đến 19:30, lực lượng Cảnh sát Phòng cháy Chữa cháy đã có mặt tiếp cận hiện trường.",
+      "start": 449.96,
+      "end": 454.84,
+      "n_words": 17,
+      "start_frame": 13499,
+      "end_frame": 13645,
+      "keyframes": [
+        "013631.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tuy nhiên do chứa các vật dụng dễ cháy nên ngọn lửa đã bao trùm toàn bộ nhà kho rộng hàng trăm m2.",
+      "start": 454.84,
+      "end": 460.44,
+      "n_words": 23,
+      "start_frame": 13645,
+      "end_frame": 13813,
+      "keyframes": [
+        "013801.webp",
+        "013802.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Sau khoảng hai tiếng nỗ lực, đám cháy cơ bản được dập tắt.",
+      "start": 461.2,
+      "end": 464.4,
+      "n_words": 13,
+      "start_frame": 13836,
+      "end_frame": 13932,
+      "keyframes": [
+        "013895.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cơ quan chức năng đang thống kê thiệt hại, điều tra nguyên nhân.",
+      "start": 464.4,
+      "end": 469.36,
+      "n_words": 13,
+      "start_frame": 13932,
+      "end_frame": 14081,
+      "keyframes": [
+        "013988.webp",
+        "013989.webp",
+        "014024.webp",
+        "014060.webp",
+        "014061.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thời gian qua tại Thành phố Hồ Chí Minh, nhiều người đi xe máy bị xe tải ô tô chen hết phần đường khiến cho các phương tiện phải leo lên vỉa hè để di chuyển.",
+      "start": 469.36,
+      "end": 477.48,
+      "n_words": 36,
+      "start_frame": 14081,
+      "end_frame": 14324,
+      "keyframes": [
+        "014317.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tình trạng trên diễn ra thường xuyên trên đoạn Quốc lộ 22 từ ngã tư Hóc Môn đến gần cầu An Hạ thuộc địa bàn huyện Hóc Môn.",
+      "start": 477.48,
+      "end": 487.08,
+      "n_words": 28,
+      "start_frame": 14324,
+      "end_frame": 14612,
+      "keyframes": [
+        "014574.webp",
+        "014575.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ghi nhận vào sáng ngày 21 tháng 8, từ 9:00 đến 11:00, giao lộ Quốc lộ 22 Nguyễn Văn Bứa kéo dài đến khu vực cầu An Hạ thường xuyên ùn ứ giao thông do lượng phương tiện xe tải ô tô tăng cao.",
+      "start": 487.08,
+      "end": 498.8,
+      "n_words": 44,
+      "start_frame": 14612,
+      "end_frame": 14964,
+      "keyframes": [
+        "014669.webp",
+        "014763.webp",
+        "014764.webp",
+        "014870.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Dù đoạn đường có dải phân cách cứng phân chia giữa làn dành cho ô tô và làn hỗn hợp, nhưng mỗi khi ùn ứ, hàng loạt ô tô xe tải nhanh chóng rẽ vào làn hỗn hợp di chuyển chen lấn với xe máy. Do bề rộng làn đường hỗn hợp khoảng 5 mét, chỉ cần một xe tải nặng lưu thông thì xe máy không còn lối đi.",
+      "start": 498.8,
+      "end": 514.36,
+      "n_words": 70,
+      "start_frame": 14964,
+      "end_frame": 15431,
+      "keyframes": [
+        "014977.webp",
+        "014978.webp",
+        "015206.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nhiều trường hợp hai ô tô con dàn hàng ngang tranh nhau chạy đẩy người đi xe máy xuống dãy đường hoặc phải leo lên vỉa hè để di chuyển.",
+      "start": 514.36,
+      "end": 521.2,
+      "n_words": 30,
+      "start_frame": 15431,
+      "end_frame": 15636,
+      "keyframes": [
+        "015435.webp",
+        "015436.webp",
+        "015547.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nhiều người dân bức xúc đề nghị đơn vị quản lý tuyến cấm xe tải, xe container vào làn hỗn hợp nhằm tránh nguy cơ mất an toàn giao thông cho người đi đường.",
+      "start": 521.2,
+      "end": 530.0,
+      "n_words": 34,
+      "start_frame": 15636,
+      "end_frame": 15900,
+      "keyframes": [
+        "015659.webp",
+        "015660.webp",
+        "015775.webp",
+        "015890.webp",
+        "015891.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ngày 21 tháng 8, lực lượng Công an tỉnh Đồng Nai cho biết đã bắt đối tượng Bùi Minh Trọng, 44 tuổi để điều tra về hành vi cưỡng đoạt tài sản đối với một số chủ ghe đánh bắt cá tôm dọc tuyến sông Thị Vải thuộc địa bàn huyện Long Thành.",
+      "start": 530.0,
+      "end": 542.88,
+      "n_words": 53,
+      "start_frame": 15900,
+      "end_frame": 16286,
+      "keyframes": [
+        "016158.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Theo thông tin ban đầu, vụ việc đã diễn ra trong thời gian dài.",
+      "start": 542.88,
+      "end": 548.36,
+      "n_words": 14,
+      "start_frame": 16286,
+      "end_frame": 16451,
+      "keyframes": [
+        "016425.webp",
+        "016426.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Theo điều tra, từ năm 2017, Trọng bắt đầu ép buộc các chủ ghe đánh bắt cá dọc tuyến sông Thị Vải phải chung chi tiền hàng tháng cho đối tượng này với giá 1 triệu đồng một tháng nếu muốn đánh bắt cá.",
+      "start": 548.36,
+      "end": 558.8,
+      "n_words": 44,
+      "start_frame": 16451,
+      "end_frame": 16764,
+      "keyframes": [
+        "016477.webp",
+        "016529.webp",
+        "016530.webp",
+        "016611.webp",
+        "016692.webp",
+        "016693.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Tuy nhiên được một thời gian, do việc đánh bắt khó khăn nên những người đánh bắt cá sẽ được hạ xuống còn 500 ngàn đồng một tháng một ghe.",
+      "start": 558.8,
+      "end": 565.52,
+      "n_words": 30,
+      "start_frame": 16764,
+      "end_frame": 16966,
+      "keyframes": [
+        "016784.webp",
+        "016875.webp",
+        "016876.webp",
+        "016966.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Hàng tháng Trọng cử người đi gom tiền cho mình.",
+      "start": 565.52,
+      "end": 568.08,
+      "n_words": 10,
+      "start_frame": 16966,
+      "end_frame": 17042,
+      "keyframes": [
+        "016966.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nhiều người dân là nạn nhân của Trọng đã rất bức xúc trước hành vi bảo kê thu tiền của đối tượng này.",
+      "start": 568.08,
+      "end": 572.64,
+      "n_words": 23,
+      "start_frame": 17042,
+      "end_frame": 17179,
+      "keyframes": [
+        "017057.webp",
+        "017058.webp",
+        "017147.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tuy nhiên vì cuộc sống mưu sinh, nhiều người dân lao động đã phải chấp nhận, trong số đó có nhiều người từ các tỉnh miền Tây cũng đến khu vực này để sinh sống bằng nghề đánh bắt cá trên sông.",
+      "start": 572.64,
+      "end": 581.76,
+      "n_words": 42,
+      "start_frame": 17179,
+      "end_frame": 17453,
+      "keyframes": [
+        "017237.webp",
+        "017238.webp",
+        "017287.webp",
+        "017337.webp",
+        "017338.webp",
+        "017394.webp",
+        "017450.webp",
+        "017451.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Qua đấu tranh bước đầu, Bùi Minh Trọng thừa nhận hành vi phạm tội của mình.",
+      "start": 581.76,
+      "end": 585.44,
+      "n_words": 16,
+      "start_frame": 17453,
+      "end_frame": 17563,
+      "keyframes": [
+        "017487.webp",
+        "017523.webp",
+        "017524.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cơ quan Công an đang khẩn trương mở rộng điều tra vụ án.",
+      "start": 585.44,
+      "end": 589.28,
+      "n_words": 13,
+      "start_frame": 17563,
+      "end_frame": 17678,
+      "keyframes": [
+        "017565.webp",
+        "017607.webp",
+        "017608.webp",
+        "017652.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Thời gian gần đây, đàn khỉ hàng trăm con trên núi Sơn Trà, Đà Nẵng lại tràn xuống đường Hoàng Sa giật đồ ăn, thậm chí là tấn công người dân và du khách.",
+      "start": 589.28,
+      "end": 598.08,
+      "n_words": 34,
+      "start_frame": 17678,
+      "end_frame": 17942,
+      "keyframes": [
+        "017696.webp",
+        "017697.webp",
+        "017908.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Do một số người khi đến đây thường mang theo đồ ăn và thức uống cho đàn khỉ nên chúng quen dần.",
+      "start": 598.08,
+      "end": 605.32,
+      "n_words": 22,
+      "start_frame": 17942,
+      "end_frame": 18160,
+      "keyframes": [
+        "018120.webp",
+        "018121.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Theo đó, cứ tầm 7:00 đến 8:00 và 13:00 đến 17:00 hàng ngày, đàn khỉ lại tràn xuống đường để chờ được cho ăn.",
+      "start": 605.32,
+      "end": 613.16,
+      "n_words": 24,
+      "start_frame": 18160,
+      "end_frame": 18395,
+      "keyframes": [
+        "018230.webp",
+        "018339.webp",
+        "018340.webp",
+        "018366.webp",
+        "018392.webp",
+        "018393.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Dọc tuyến đường Hoàng Sa, đàn khỉ đông đúc có khi lên đến cả trăm con lớn nhỏ đi trên đường, ngồi trên vỉa hè, gốc cây chờ người tới cho ăn.",
+      "start": 613.16,
+      "end": 622.64,
+      "n_words": 32,
+      "start_frame": 18395,
+      "end_frame": 18679,
+      "keyframes": [
+        "018403.webp",
+        "018413.webp",
+        "018414.webp",
+        "018482.webp",
+        "018551.webp",
+        "018552.webp",
+        "018571.webp",
+        "018590.webp",
+        "018591.webp",
+        "018643.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Theo người dân, nơi đây đã từng có trường hợp trẻ em bị khỉ tấn công cắn gây thương tích.",
+      "start": 622.64,
+      "end": 627.76,
+      "n_words": 20,
+      "start_frame": 18679,
+      "end_frame": 18833,
+      "keyframes": [
+        "018696.webp",
+        "018697.webp",
+        "018736.webp",
+        "018776.webp",
+        "018777.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Họ cũng nói thêm khỉ được cho đồ ăn nên rất dễ, lúc đói chúng còn tấn công để cướp thức ăn.",
+      "start": 627.76,
+      "end": 634.4,
+      "n_words": 22,
+      "start_frame": 18833,
+      "end_frame": 19032,
+      "keyframes": [
+        "018838.webp",
+        "018899.webp",
+        "018900.webp",
+        "019003.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Ban quản lý bán đảo Sơn Trà và các bãi biển du lịch Đà Nẵng đã cử nhân viên tuần tra nhắc nhở người dân trên đoạn đường từ nút giao thông Lê Đức Thọ đến khu nghỉ dưỡng InterContinental, khuôn viên chùa Linh Ứng không cho khỉ ăn nhằm tránh tạo thói quen không tốt.",
+      "start": 634.4,
+      "end": 649.4,
+      "n_words": 56,
+      "start_frame": 19032,
+      "end_frame": 19482,
+      "keyframes": [
+        "019106.webp",
+        "019107.webp",
+        "019157.webp",
+        "019207.webp",
+        "019208.webp",
+        "019254.webp",
+        "019301.webp",
+        "019302.webp",
+        "019357.webp",
+        "019412.webp",
+        "019413.webp",
+        "019476.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Việc cho khỉ ăn cũng làm mất đi bản năng sinh tồn tự nhiên của chúng. Thưa quý vị, ngày 21 tháng 8, một nhân viên trường học đã bắn chết ba người trong trường.",
+      "start": 649.4,
+      "end": 659.68,
+      "n_words": 35,
+      "start_frame": 19482,
+      "end_frame": 19790,
+      "keyframes": [
+        "019539.webp",
+        "019540.webp",
+        "019590.webp",
+        "019641.webp",
+        "019642.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Vụ việc xảy ra tại một trường trung học ở thị trấn Sansky Most, phía tây Bosnia.",
+      "start": 659.68,
+      "end": 666.44,
+      "n_words": 17,
+      "start_frame": 19790,
+      "end_frame": 19993,
+      "keyframes": [
+        "019803.webp",
+        "019965.webp",
+        "019966.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Vụ nổ súng xảy ra vào khoảng 10:00 sáng theo giờ địa phương.",
+      "start": 666.44,
+      "end": 669.92,
+      "n_words": 13,
+      "start_frame": 19993,
+      "end_frame": 20098,
+      "keyframes": [
+        "020093.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Hãng tin AP dẫn nguồn cảnh sát địa phương cho biết hung thủ đã dùng một khẩu súng trường tự động để gây án.",
+      "start": 669.92,
+      "end": 675.56,
+      "n_words": 24,
+      "start_frame": 20098,
+      "end_frame": 20267,
+      "keyframes": [
+        "020220.webp",
+        "020221.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Người này sau đó cố tự sát và đang trong tình trạng nguy kịch.",
+      "start": 675.56,
+      "end": 679.44,
+      "n_words": 14,
+      "start_frame": 20267,
+      "end_frame": 20383,
+      "keyframes": [
+        "020359.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ba nạn nhân thiệt mạng gồm hiệu trưởng của trường, một thư ký và một giáo viên.",
+      "start": 679.44,
+      "end": 684.0,
+      "n_words": 17,
+      "start_frame": 20383,
+      "end_frame": 20520,
+      "keyframes": [
+        "020498.webp",
+        "020499.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Trường hợp này vẫn đang trong kỳ nghỉ hè nên không có trẻ em nào liên quan.",
+      "start": 684.0,
+      "end": 688.6,
+      "n_words": 17,
+      "start_frame": 20520,
+      "end_frame": 20658,
+      "keyframes": [
+        "020572.webp",
+        "020645.webp",
+        "020646.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Truyền thông địa phương đưa tin thủ phạm bất đồng với ban quản lý trường và đang bị kỷ luật.",
+      "start": 688.6,
+      "end": 693.68,
+      "n_words": 20,
+      "start_frame": 20658,
+      "end_frame": 20810,
+      "keyframes": [
+        "020762.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Các vụ xả súng hàng loạt tương đối hiếm ở khu vực Balkan dù người dân nơi này có rất nhiều vũ khí từ các cuộc chiến tranh trong những năm 1990.",
+      "start": 693.68,
+      "end": 701.24,
+      "n_words": 32,
+      "start_frame": 20810,
+      "end_frame": 21037,
+      "keyframes": [
+        "020879.webp",
+        "020880.webp",
+        "020899.webp",
+        "020918.webp",
+        "020919.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Theo Chương trình Phát triển Liên Hợp Quốc, có khoảng 750.000 vũ khí bị tàng trữ trái phép ở Bosnia.",
+      "start": 702.56,
+      "end": 709.44,
+      "n_words": 20,
+      "start_frame": 21077,
+      "end_frame": 21283,
+      "keyframes": [
+        "021181.webp",
+        "021182.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tháng trước, một cựu chiến binh ở Croatia đã bắn chết năm người ở một nhà dưỡng lão trong đó có mẹ mình và làm sáu người khác bị thương.",
+      "start": 709.44,
+      "end": 718.28,
+      "n_words": 30,
+      "start_frame": 21283,
+      "end_frame": 21548,
+      "keyframes": [
+        "021333.webp",
+        "021485.webp",
+        "021486.webp",
+        "021526.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Ngày 21 tháng 8, Cảnh sát Pakistan cáo buộc một người ở nước này đã phát tán thông tin giả trên mạng gây ra cuộc bạo loạn tại Anh.",
+      "start": 718.28,
+      "end": 726.68,
+      "n_words": 29,
+      "start_frame": 21548,
+      "end_frame": 21800,
+      "keyframes": [
+        "021566.webp",
+        "021567.webp",
+        "021760.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Người này là Fahan Asif, 32 tuổi, là nhà phát triển web tự do.",
+      "start": 726.68,
+      "end": 732.76,
+      "n_words": 14,
+      "start_frame": 21800,
+      "end_frame": 21983,
+      "keyframes": [
+        "021953.webp",
+        "021954.webp",
+        "021957.webp",
+        "021961.webp",
+        "021962.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hồi cuối tháng 7, ba bé gái đã thiệt mạng trong một vụ tấn công bằng dao ở thị trấn Southport, miền bắc nước Anh.",
+      "start": 732.76,
+      "end": 739.32,
+      "n_words": 25,
+      "start_frame": 21983,
+      "end_frame": 22180,
+      "keyframes": [
+        "022002.webp",
+        "022043.webp",
+        "022044.webp",
+        "022077.webp",
+        "022110.webp",
+        "022111.webp",
+        "022141.webp",
+        "022172.webp",
+        "022173.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Asif bị cáo buộc đã phát tán thông tin sai lệch rằng thủ phạm là một người di cư theo đạo Hồi.",
+      "start": 739.32,
+      "end": 745.16,
+      "n_words": 22,
+      "start_frame": 22180,
+      "end_frame": 22355,
+      "keyframes": [
+        "022208.webp",
+        "022243.webp",
+        "022244.webp",
+        "022285.webp",
+        "022326.webp",
+        "022327.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cảnh sát sau đó đã công bố rằng nghi phạm sinh ra ở Anh.",
+      "start": 745.16,
+      "end": 748.52,
+      "n_words": 14,
+      "start_frame": 22355,
+      "end_frame": 22456,
+      "keyframes": [
+        "022373.webp",
+        "022419.webp",
+        "022420.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tuy nhiên những thông tin sai đã bị phát tán rộng rãi gây nên cuộc bạo loạn trên khắp nước Anh kéo dài hơn một tuần, khiến chính quyền Anh phải bắt giữ hơn 1.000 người.",
+      "start": 748.52,
+      "end": 758.4,
+      "n_words": 36,
+      "start_frame": 22456,
+      "end_frame": 22752,
+      "keyframes": [
+        "022577.webp",
+        "022734.webp",
+        "022735.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cảnh sát Pakistan cho biết Asif bị bắt tại nhà riêng ở thành phố Lahore.",
+      "start": 758.4,
+      "end": 763.96,
+      "n_words": 15,
+      "start_frame": 22752,
+      "end_frame": 22919,
+      "keyframes": [
+        "022771.webp",
+        "022807.webp",
+        "022808.webp",
+        "022891.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Asif nói rằng mình chỉ đăng lại thông tin từ mạng xã hội chứ không phải là nguồn ban đầu.",
+      "start": 763.96,
+      "end": 769.32,
+      "n_words": 20,
+      "start_frame": 22919,
+      "end_frame": 23080,
+      "keyframes": [
+        "022974.webp",
+        "022975.webp",
+        "023032.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Vụ việc đã được chuyển giao đến cơ quan điều tra liên bang Pakistan nơi xử lý các vụ khủng bố mạng.",
+      "start": 769.32,
+      "end": 775.04,
+      "n_words": 22,
+      "start_frame": 23080,
+      "end_frame": 23251,
+      "keyframes": [
+        "023090.webp",
+        "023091.webp",
+        "023182.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hiện chưa rõ Anh có yêu cầu dẫn độ Asif hay không.",
+      "start": 775.04,
+      "end": 779.44,
+      "n_words": 12,
+      "start_frame": 23251,
+      "end_frame": 23383,
+      "keyframes": [
+        "023273.webp",
+        "023274.webp",
+        "023328.webp",
+        "023383.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Triển lãm Robot Thế giới 2024 chính thức khai mạc vào ngày hôm qua, 21 tháng 8 tại Bắc Kinh, Trung Quốc.",
+      "start": 779.44,
+      "end": 786.16,
+      "n_words": 22,
+      "start_frame": 23383,
+      "end_frame": 23585,
+      "keyframes": [
+        "023383.webp",
+        "023384.webp",
+        "023435.webp",
+        "023487.webp",
+        "023488.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nhiều công ty công nghệ và viện nghiên cứu hàng đầu đã ra mắt những tiến bộ mới nhất của mình trong lĩnh vực robot.",
+      "start": 786.16,
+      "end": 794.12,
+      "n_words": 25,
+      "start_frame": 23585,
+      "end_frame": 23824,
+      "keyframes": [
+        "023600.webp",
+        "023712.webp",
+        "023713.webp",
+        "023752.webp",
+        "023791.webp",
+        "023792.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Nhiều khách tham quan rất ấn tượng trước chất lượng và sự tiện lợi của đầu bếp robot: bạn quét mã QR và chọn loại bánh crepe muốn mua.",
+      "start": 794.12,
+      "end": 802.4,
+      "n_words": 29,
+      "start_frame": 23824,
+      "end_frame": 24072,
+      "keyframes": [
+        "023825.webp",
+        "023858.webp",
+        "023859.webp",
+        "023911.webp",
+        "023964.webp",
+        "023965.webp",
+        "024059.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "\"Tôi chọn loại không cay và thêm hai quả trứng\".",
+      "start": 802.4,
+      "end": 805.28,
+      "n_words": 10,
+      "start_frame": 24072,
+      "end_frame": 24158,
+      "keyframes": [
+        "024153.webp",
+        "024154.webp",
+        "024156.webp",
+        "024158.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Sau khi thanh toán, máy bắt đầu chuẩn bị và toàn bộ quá trình nấu chỉ mất khoảng hai phút là bạn đã có bữa ăn sẵn sàng.",
+      "start": 805.28,
+      "end": 812.4,
+      "n_words": 28,
+      "start_frame": 24158,
+      "end_frame": 24372,
+      "keyframes": [
+        "024158.webp",
+        "024159.webp",
+        "024167.webp",
+        "024175.webp",
+        "024176.webp",
+        "024183.webp",
+        "024191.webp",
+        "024192.webp",
+        "024208.webp",
+        "024225.webp",
+        "024226.webp",
+        "024265.webp",
+        "024305.webp",
+        "024306.webp",
+        "024340.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Những robot hình người có khả năng mô phỏng biểu cảm khuôn mặt con người cũng thu hút sự chú ý đặc biệt.",
+      "start": 812.4,
+      "end": 818.4,
+      "n_words": 23,
+      "start_frame": 24372,
+      "end_frame": 24552,
+      "keyframes": [
+        "024375.webp",
+        "024376.webp",
+        "024435.webp",
+        "024494.webp",
+        "024495.webp",
+        "024551.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Ngoài khả năng biểu cảm khuôn mặt, nhiều robot đã có thể phản ứng với các tình huống phức tạp theo thời gian thực.",
+      "start": 818.4,
+      "end": 824.32,
+      "n_words": 24,
+      "start_frame": 24552,
+      "end_frame": 24730,
+      "keyframes": [
+        "024608.webp",
+        "024609.webp",
+        "024666.webp",
+        "024723.webp",
+        "024724.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Trước đây hành động của robot là phản hồi tự động theo tình huống cố định.",
+      "start": 824.32,
+      "end": 828.68,
+      "n_words": 16,
+      "start_frame": 24730,
+      "end_frame": 24860,
+      "keyframes": [
+        "024825.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Năm nay, với việc sử dụng mô hình dữ liệu lớn, lời nói hoặc hành động của robot là phản ứng kịp thời theo tình huống mà mắt nhìn hoặc cảm nhận được.",
+      "start": 828.68,
+      "end": 837.56,
+      "n_words": 33,
+      "start_frame": 24860,
+      "end_frame": 25127,
+      "keyframes": [
+        "024927.webp",
+        "024928.webp",
+        "024989.webp",
+        "025050.webp",
+        "025051.webp",
+        "025083.webp",
+        "025115.webp",
+        "025116.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Triển lãm Robot Thế giới 2024 sẽ diễn ra đến hết ngày 25 tháng 8.",
+      "start": 837.56,
+      "end": 844.24,
+      "n_words": 15,
+      "start_frame": 25127,
+      "end_frame": 25327,
+      "keyframes": [
+        "025156.webp",
+        "025196.webp",
+        "025197.webp",
+        "025255.webp",
+        "025314.webp",
+        "025315.webp",
+        "025316.webp",
+        "025317.webp",
+        "025318.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Hôm 21 tháng 8, tay đua người Séc Paven Pitner đã giành chiến thắng ở chặng thứ năm của cuộc đua xe đạp La Vuelta Tây Ban Nha bằng màn nước rút đầy kịch tính.",
+      "start": 844.24,
+      "end": 852.64,
+      "n_words": 35,
+      "start_frame": 25327,
+      "end_frame": 25579,
+      "keyframes": [
+        "025373.webp",
+        "025429.webp",
+        "025430.webp",
+        "025536.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chặng thứ năm là cung đường tương đối phẳng dài 177 km từ Fultre tới CP.",
+      "start": 852.64,
+      "end": 862.08,
+      "n_words": 16,
+      "start_frame": 25579,
+      "end_frame": 25862,
+      "keyframes": [
+        "025643.webp",
+        "025644.webp",
+        "025671.webp",
+        "025698.webp",
+        "025699.webp",
+        "025762.webp",
+        "025826.webp",
+        "025827.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Tay đua Pitner xuất sắc vượt mặt Kuss ngay tại đích trong pha nước rút tập thể.",
+      "start": 862.08,
+      "end": 866.64,
+      "n_words": 17,
+      "start_frame": 25862,
+      "end_frame": 25999,
+      "keyframes": [
+        "025873.webp",
+        "025919.webp",
+        "025920.webp",
+        "025989.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đây cũng là chiến thắng đầu tiên của Pitner trong giải Grand Tour.",
+      "start": 866.64,
+      "end": 869.8,
+      "n_words": 13,
+      "start_frame": 25999,
+      "end_frame": 26094,
+      "keyframes": [
+        "026059.webp",
+        "026060.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Trước đó, ngày 5 tháng 8, tay đua 21 tuổi này đã giành chiến thắng chuyên nghiệp đầu tiên của mình tại giải đua năm chặng của Anh. \"Tôi vẫn không thể tin được mình chiến thắng ở giải đua lớn này.",
+      "start": 869.8,
+      "end": 880.76,
+      "n_words": 42,
+      "start_frame": 26094,
+      "end_frame": 26423,
+      "keyframes": [
+        "026113.webp",
+        "026166.webp",
+        "026167.webp",
+        "026206.webp",
+        "026245.webp",
+        "026246.webp",
+        "026288.webp",
+        "026331.webp",
+        "026332.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Tôi chỉ vừa mới có được chiến thắng chuyên nghiệp đầu tiên của mình cách đây vài tuần\".",
+      "start": 880.76,
+      "end": 884.96,
+      "n_words": 18,
+      "start_frame": 26423,
+      "end_frame": 26549,
+      "keyframes": [
+        "026439.webp",
+        "026546.webp",
+        "026547.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trong khi đó, ba lần vô địch La Vuelta Tây Ban Nha Primoz Roglic vẫn giữ vị trí cao nhất trên bảng tổng sắp, đứng sau anh là Adam Yates và thứ ba là Enric Mas.",
+      "start": 884.96,
+      "end": 895.32,
+      "n_words": 36,
+      "start_frame": 26549,
+      "end_frame": 26860,
+      "keyframes": [
+        "026597.webp",
+        "026648.webp",
+        "026649.webp",
+        "026698.webp",
+        "026748.webp",
+        "026749.webp",
+        "026806.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Trận đua thứ sáu diễn ra vào thứ năm 22 tháng 8 sẽ trở lại dưới các ngọn núi bao gồm bốn ngọn đèo trên chặng đua dài 185.5 km từ Her Fronte đến Junkers.",
+      "start": 895.32,
+      "end": 906.56,
+      "n_words": 35,
+      "start_frame": 26860,
+      "end_frame": 27197,
+      "keyframes": [
+        "026863.webp",
+        "026864.webp",
+        "026909.webp",
+        "026955.webp",
+        "026956.webp",
+        "027016.webp",
+        "027077.webp",
+        "027078.webp",
+        "027124.webp",
+        "027171.webp",
+        "027172.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Cuộc đua La Vuelta Tây Ban Nha với 21 chặng sẽ kết thúc tại Madrid vào ngày 8 tháng 9.",
+      "start": 906.56,
+      "end": 913.92,
+      "n_words": 20,
+      "start_frame": 27197,
+      "end_frame": 27418,
+      "keyframes": [
+        "027206.webp",
+        "027241.webp",
+        "027242.webp",
+        "027285.webp",
+        "027329.webp",
+        "027330.webp",
+        "027366.webp",
+        "027402.webp",
+        "027403.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Thông tin cập nhật: thưa quý vị, ngày 21 tháng 8, một vụ nổ đã xảy ra tại một nhà máy dược phẩm ở miền nam Ấn Độ khiến ít nhất 15 người thiệt mạng và 40 người khác bị thương.",
+      "start": 913.92,
+      "end": 923.68,
+      "n_words": 41,
+      "start_frame": 27418,
+      "end_frame": 27710,
+      "keyframes": [
+        "027622.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Vụ nổ xảy ra vào giờ ăn trưa theo giờ địa phương tại nhà máy rộng 16 ha của công ty Asvansa ở quận Anakapalli của bang Andhra Pradesh.",
+      "start": 923.68,
+      "end": 933.52,
+      "n_words": 29,
+      "start_frame": 27710,
+      "end_frame": 28006,
+      "keyframes": [
+        "027842.webp",
+        "027843.webp",
+        "027903.webp",
+        "027963.webp",
+        "027964.webp",
+        "028002.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Công ty này chưa đưa ra thông báo nào về sự việc.",
+      "start": 933.52,
+      "end": 936.12,
+      "n_words": 12,
+      "start_frame": 28006,
+      "end_frame": 28084,
+      "keyframes": [
+        "028040.webp",
+        "028041.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Theo truyền thông địa phương, vụ nổ xảy ra ở khu vực trộn hóa chất, các nạn nhân bị bỏng nghiêm trọng.",
+      "start": 936.12,
+      "end": 941.44,
+      "n_words": 22,
+      "start_frame": 28084,
+      "end_frame": 28243,
+      "keyframes": [
+        "028120.webp",
+        "028200.webp",
+        "028201.webp",
+        "028240.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Nhà chức trách cho rằng số người chết có thể sẽ còn tăng thêm.",
+      "start": 941.44,
+      "end": 944.32,
+      "n_words": 14,
+      "start_frame": 28243,
+      "end_frame": 28330,
+      "keyframes": [
+        "028279.webp",
+        "028280.webp",
+        "028316.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Sáu xe chữa cháy đã được điều đến hiện trường, lực lượng ứng phó thảm họa quốc gia cũng tham gia cứu hộ.",
+      "start": 944.32,
+      "end": 949.08,
+      "n_words": 23,
+      "start_frame": 28330,
+      "end_frame": 28472,
+      "keyframes": [
+        "028352.webp",
+        "028353.webp",
+        "028445.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Năm ngoái, hai người đã thiệt mạng và năm người khác bị thương trong vụ tai nạn tương tự ở một nhà máy dược phẩm khác cũng ở quận Anakapalli. Những hình ảnh vừa rồi cũng đã khép lại chương trình 60 giây của chúng tôi.",
+      "start": 949.08,
+      "end": 962.16,
+      "n_words": 46,
+      "start_frame": 28472,
+      "end_frame": 28865,
+      "keyframes": [
+        "028538.webp",
+        "028539.webp",
+        "028646.webp",
+        "028753.webp",
+        "028754.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hẹn gặp lại quý vị vào tối nay trên khung giờ quen thuộc 18:30 trên kênh HTV7 và HTV9 để cùng chúng tôi cập nhật những tin tức thú vị. Xin kính chào tạm biệt và hẹn gặp lại.",
+      "start": 962.16,
+      "end": 971.52,
+      "n_words": 39,
+      "start_frame": 28865,
+      "end_frame": 29146,
+      "keyframes": [
+        "028975.webp"
+      ],
+      "keyframe_count": 1
+    }
+  ]
+}

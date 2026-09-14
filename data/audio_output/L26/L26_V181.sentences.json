@@ -1,0 +1,756 @@
+{
+  "video_id": "L26_V181",
+  "fps": 25.0,
+  "n_sentences": 41,
+  "total_words": 1147,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày: bò lá lốt chiên ngoài giòn tan, bên trong mềm ngọt mướt.",
+      "start": 10.52,
+      "end": 30.4,
+      "n_words": 16,
+      "start_frame": 263,
+      "end_frame": 760,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000340.webp",
+        "000381.webp",
+        "000382.webp",
+        "000415.webp",
+        "000448.webp",
+        "000463.webp",
+        "000518.webp",
+        "000574.webp",
+        "000575.webp",
+        "000665.webp",
+        "000755.webp",
+        "000756.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Chào các bạn đang đến với chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành. Chương trình được tài trợ bởi công ty Azino Việt Nam.",
+      "start": 30.4,
+      "end": 37.92,
+      "n_words": 27,
+      "start_frame": 760,
+      "end_frame": 948,
+      "keyframes": [
+        "000853.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Món ăn ngày hôm nay sẽ có một chút biến tấu.",
+      "start": 37.92,
+      "end": 41.28,
+      "n_words": 11,
+      "start_frame": 948,
+      "end_frame": 1032,
+      "keyframes": [
+        "000951.webp",
+        "000952.webp",
+        "000966.webp",
+        "000981.webp",
+        "000982.webp",
+        "001010.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Ngày Halloween đã sắp đến rồi, chính vì thế chúng ta có những cái bữa tiệc cùng với bạn bè thì những cái món ăn finger food hay là món ăn nhanh đó như những cái cuốn bò lá lốt thì sẽ rất là thú vị đúng không nào?",
+      "start": 41.28,
+      "end": 52.24,
+      "n_words": 49,
+      "start_frame": 1032,
+      "end_frame": 1306,
+      "keyframes": [
+        "001039.webp",
+        "001040.webp",
+        "001098.webp",
+        "001157.webp",
+        "001158.webp",
+        "001235.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đúng rồi, chúng ta làm những món ăn khai vị nè, ăn chơi này, nhâm nhi cũng rất là phù hợp luôn.",
+      "start": 52.24,
+      "end": 56.92,
+      "n_words": 22,
+      "start_frame": 1306,
+      "end_frame": 1423,
+      "keyframes": [
+        "001313.webp",
+        "001314.webp",
+        "001367.webp",
+        "001420.webp",
+        "001421.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Rồi bây giờ chúng ta bắt đầu ngay công đoạn đầu tiên thì Phương Hương, đầu tiên thì Phương Hương sẽ hướng dẫn cho các bạn chúng ta sẽ trộn nhân.",
+      "start": 56.92,
+      "end": 62.16,
+      "n_words": 31,
+      "start_frame": 1423,
+      "end_frame": 1554,
+      "keyframes": [
+        "001444.webp",
+        "001467.webp",
+        "001468.webp",
+        "001509.webp",
+        "001550.webp",
+        "001551.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đầu tiên Phương Hương sẽ cho phần thịt bò băm, chúng ta cũng đừng xay hoặc là băm bò quá nhuyễn, khi ăn thì chúng ta sẽ không cảm nhận được cái vị bò.",
+      "start": 62.16,
+      "end": 70.48,
+      "n_words": 34,
+      "start_frame": 1554,
+      "end_frame": 1762,
+      "keyframes": [
+        "001583.webp",
+        "001615.webp",
+        "001616.webp",
+        "001689.webp",
+        "001762.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Tiếp theo, Hương sẽ cho phần thịt nạc dăm vào và cho phần mỡ heo vào luôn.",
+      "start": 70.48,
+      "end": 74.76,
+      "n_words": 17,
+      "start_frame": 1762,
+      "end_frame": 1869,
+      "keyframes": [
+        "001762.webp",
+        "001763.webp",
+        "001792.webp",
+        "001821.webp",
+        "001822.webp",
+        "001846.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cho vào đây là 1/4 muỗng cà phê bột ngũ vị hương, gia vị không thể thiếu để chúng ta ướp phần bò lá lốt; 1/4 muỗng cà phê tiêu, một muỗng cà phê bột ngọt Ajinomoto, một muỗng cà phê hạt nêm Aji-ngon, thêm hai muỗng cà phê đường, một muỗng cà phê nước mắm, khoảng một muỗng canh sả băm.",
+      "start": 74.76,
+      "end": 93.04,
+      "n_words": 62,
+      "start_frame": 1869,
+      "end_frame": 2326,
+      "keyframes": [
+        "001870.webp",
+        "001871.webp",
+        "001921.webp",
+        "001971.webp",
+        "001972.webp",
+        "002002.webp",
+        "002032.webp",
+        "002033.webp",
+        "002043.webp",
+        "002053.webp",
+        "002054.webp",
+        "002068.webp",
+        "002083.webp",
+        "002084.webp",
+        "002096.webp",
+        "002109.webp",
+        "002110.webp",
+        "002125.webp",
+        "002140.webp",
+        "002141.webp",
+        "002171.webp",
+        "002201.webp",
+        "002202.webp",
+        "002221.webp",
+        "002240.webp",
+        "002241.webp",
+        "002260.webp",
+        "002280.webp",
+        "002281.webp",
+        "002302.webp",
+        "002324.webp",
+        "002325.webp"
+      ],
+      "keyframe_count": 32
+    },
+    {
+      "text": "Chúng ta sẽ sử dụng lõi sả để trộn nhân để khi ăn không bị xạm và một muỗng canh hành tím và tỏi băm.",
+      "start": 93.04,
+      "end": 99.72,
+      "n_words": 25,
+      "start_frame": 2326,
+      "end_frame": 2493,
+      "keyframes": [
+        "002375.webp",
+        "002425.webp",
+        "002426.webp",
+        "002445.webp",
+        "002464.webp",
+        "002465.webp",
+        "002484.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Rồi bây giờ thì trộn đều lên đúng không Phương Hương?",
+      "start": 99.72,
+      "end": 102.4,
+      "n_words": 11,
+      "start_frame": 2493,
+      "end_frame": 2560,
+      "keyframes": [
+        "002503.webp",
+        "002504.webp",
+        "002527.webp",
+        "002550.webp",
+        "002551.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đúng rồi, rất là thơm Phương Hương ơi, mùi hương đặc trưng của ngũ vị hương nè và thêm một gia vị không thể thiếu trong món bò lá lốt đó chính là sả băm.",
+      "start": 102.4,
+      "end": 111.76,
+      "n_words": 35,
+      "start_frame": 2560,
+      "end_frame": 2794,
+      "keyframes": [
+        "002576.webp",
+        "002602.webp",
+        "002603.webp",
+        "002645.webp",
+        "002688.webp",
+        "002689.webp",
+        "002729.webp",
+        "002770.webp",
+        "002771.webp",
+        "002790.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Đúng rồi, và bây giờ tiếp theo Phương Hương sẽ hướng dẫn cho các bạn chúng ta sẽ tạo hình cho món bò lá lốt.",
+      "start": 111.76,
+      "end": 116.68,
+      "n_words": 25,
+      "start_frame": 2794,
+      "end_frame": 2917,
+      "keyframes": [
+        "002810.webp",
+        "002811.webp",
+        "002863.webp",
+        "002916.webp",
+        "002917.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và đối với món ăn ngày hôm nay, thì chúng ta sẽ chọn kích cỡ lá lốt đều nhau để tạo hình dễ dàng hơn và khi chiên chín đồng đều nhau hơn.",
+      "start": 116.68,
+      "end": 123.88,
+      "n_words": 33,
+      "start_frame": 2917,
+      "end_frame": 3097,
+      "keyframes": [
+        "002917.webp",
+        "002960.webp",
+        "003004.webp",
+        "003005.webp",
+        "003050.webp",
+        "003095.webp",
+        "003096.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Đặt cái bề láng ra ngoài, bây giờ Phương Hương sẽ cho nhân vào, đừng có cho quá nhiều đúng không?",
+      "start": 123.88,
+      "end": 129.0,
+      "n_words": 21,
+      "start_frame": 3097,
+      "end_frame": 3225,
+      "keyframes": [
+        "003110.webp",
+        "003125.webp",
+        "003126.webp",
+        "003133.webp",
+        "003140.webp",
+        "003141.webp",
+        "003161.webp",
+        "003182.webp",
+        "003183.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đúng rồi, và bây giờ chúng ta sẽ cuộn tròn lại và chúng ta không cần gấp hai cái mí đầu đúng rồi đúng rồi vì chúng ta còn phải lăn bột, chúng ta phải cuộn cho chặt tay.",
+      "start": 129.0,
+      "end": 139.24,
+      "n_words": 39,
+      "start_frame": 3225,
+      "end_frame": 3481,
+      "keyframes": [
+        "003237.webp",
+        "003291.webp",
+        "003292.webp",
+        "003353.webp",
+        "003414.webp",
+        "003415.webp",
+        "003443.webp",
+        "003471.webp",
+        "003472.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Rồi rồi tiếp tục Phương Hương sẽ cho nhân vào rồi.",
+      "start": 139.24,
+      "end": 142.84,
+      "n_words": 11,
+      "start_frame": 3481,
+      "end_frame": 3571,
+      "keyframes": [
+        "003486.webp",
+        "003500.webp",
+        "003501.webp",
+        "003562.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Minh Phương cứ làm giống như vậy đi, rồi lần lượt như vậy chúng ta sẽ làm hết cái phần nhân luôn, nhưng chúng ta phải cuốn chặt tay chút để mà chúng ta sẽ lăn qua bột thì cái phần lá lốt sẽ không bị bung.",
+      "start": 142.84,
+      "end": 155.12,
+      "n_words": 47,
+      "start_frame": 3571,
+      "end_frame": 3878,
+      "keyframes": [
+        "003624.webp",
+        "003625.webp",
+        "003659.webp",
+        "003694.webp",
+        "003695.webp",
+        "003770.webp",
+        "003846.webp",
+        "003847.webp",
+        "003865.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Tạo hình cho phần bò lá lốt đã xong rồi, và bây giờ tiếp theo Phương Hương sẽ đặt lên trên bếp một cái chảo dầu để chúng ta chiên bò lá lốt.",
+      "start": 155.12,
+      "end": 162.36,
+      "n_words": 33,
+      "start_frame": 3878,
+      "end_frame": 4059,
+      "keyframes": [
+        "003884.webp",
+        "003885.webp",
+        "003917.webp",
+        "003950.webp",
+        "003951.webp",
+        "003967.webp",
+        "003984.webp",
+        "003985.webp",
+        "004021.webp",
+        "004057.webp",
+        "004058.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Phương Hương sử dụng một gói gia vị nêm sẵn Ajinomoto bột chiên giòn và chúng ta sẽ cho nước theo định lượng trên bao bì, khuấy đều.",
+      "start": 162.36,
+      "end": 169.28,
+      "n_words": 28,
+      "start_frame": 4059,
+      "end_frame": 4232,
+      "keyframes": [
+        "004099.webp",
+        "004141.webp",
+        "004142.webp",
+        "004185.webp",
+        "004228.webp",
+        "004229.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi bây giờ bột rất là mịn rồi, sẽ lấy cuộn bò lá lốt nè, sẽ nhúng qua bột ta cho vào chiên.",
+      "start": 169.28,
+      "end": 178.28,
+      "n_words": 23,
+      "start_frame": 4232,
+      "end_frame": 4457,
+      "keyframes": [
+        "004252.webp",
+        "004276.webp",
+        "004277.webp",
+        "004295.webp",
+        "004314.webp",
+        "004315.webp",
+        "004331.webp",
+        "004348.webp",
+        "004349.webp",
+        "004369.webp",
+        "004389.webp",
+        "004390.webp",
+        "004420.webp",
+        "004450.webp",
+        "004451.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Lần lượt như vậy chúng ta sẽ lăn hết cái phần cuộn bò lá lốt luôn.",
+      "start": 178.28,
+      "end": 186.24,
+      "n_words": 16,
+      "start_frame": 4457,
+      "end_frame": 4656,
+      "keyframes": [
+        "004474.webp",
+        "004498.webp",
+        "004499.webp",
+        "004520.webp",
+        "004542.webp",
+        "004543.webp",
+        "004569.webp",
+        "004595.webp",
+        "004596.webp",
+        "004625.webp",
+        "004655.webp",
+        "004656.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Đối với thịt bò thì nó cũng nhanh chín cho nên mình sẽ chiên không quá lâu đúng không Phương Hương?",
+      "start": 186.24,
+      "end": 190.6,
+      "n_words": 21,
+      "start_frame": 4656,
+      "end_frame": 4765,
+      "keyframes": [
+        "004656.webp",
+        "004715.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đúng rồi, khi nào mà ở lớp vỏ bên ngoài chúng ta chuyển sang màu vàng và cảm nhận được cái độ giòn là chúng ta có thể vớt ra.",
+      "start": 190.6,
+      "end": 196.8,
+      "n_words": 30,
+      "start_frame": 4765,
+      "end_frame": 4920,
+      "keyframes": [
+        "004775.webp",
+        "004776.webp",
+        "004850.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Món ăn ngày hôm nay hứa hẹn sẽ là một cái sự biến tấu rất là thú vị.",
+      "start": 197.28,
+      "end": 201.08,
+      "n_words": 18,
+      "start_frame": 4932,
+      "end_frame": 5027,
+      "keyframes": [
+        "004976.webp",
+        "005027.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thịt bò thì rất là tốt cho sức khỏe bởi vì có rất là nhiều protein nè, đối với sả còn có khả năng loại bỏ axit uric hay là những cái chất độc không tốt cho cơ thể của chúng ta.",
+      "start": 201.08,
+      "end": 212.04,
+      "n_words": 42,
+      "start_frame": 5027,
+      "end_frame": 5301,
+      "keyframes": [
+        "005027.webp",
+        "005028.webp",
+        "005088.webp",
+        "005148.webp",
+        "005149.webp",
+        "005191.webp",
+        "005234.webp",
+        "005235.webp",
+        "005267.webp",
+        "005299.webp",
+        "005300.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Và bên cạnh đó, cái nguyên liệu cuối cùng đặc biệt trong món ăn ngày hôm nay đó chính là lá lốt, rất là quen thuộc đúng không nào?",
+      "start": 212.04,
+      "end": 219.24,
+      "n_words": 29,
+      "start_frame": 5301,
+      "end_frame": 5481,
+      "keyframes": [
+        "005363.webp",
+        "005426.webp",
+        "005427.webp",
+        "005474.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đối với lá lốt có những cái tác dụng đó chính là kháng viêm nè, chống sưng cũng như là giúp cho chúng ta giảm đau nữa.",
+      "start": 219.24,
+      "end": 225.72,
+      "n_words": 27,
+      "start_frame": 5481,
+      "end_frame": 5643,
+      "keyframes": [
+        "005522.webp",
+        "005523.webp",
+        "005562.webp",
+        "005602.webp",
+        "005603.webp",
+        "005621.webp",
+        "005639.webp",
+        "005640.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Wow, một cái món ăn mà đầy đủ công dụng cũng như là tốt cho sức khỏe của chúng ta luôn.",
+      "start": 225.72,
+      "end": 229.96,
+      "n_words": 21,
+      "start_frame": 5643,
+      "end_frame": 5749,
+      "keyframes": [
+        "005664.webp",
+        "005688.webp",
+        "005689.webp",
+        "005718.webp",
+        "005747.webp",
+        "005748.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và bây giờ Phương Hương sẽ tăng lửa lớn lên để cho cái phần dầu bên trong đẩy ra ngoài để giúp cho món ăn ít dầu và giòn lâu hơn.",
+      "start": 229.96,
+      "end": 237.52,
+      "n_words": 31,
+      "start_frame": 5749,
+      "end_frame": 5938,
+      "keyframes": [
+        "005774.webp",
+        "005801.webp",
+        "005802.webp",
+        "005835.webp",
+        "005868.webp",
+        "005869.webp",
+        "005905.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Vậy là bây giờ món bò lá lốt của chúng ta đã hoàn tất rồi, chúng ta chỉ việc trình bày món ăn ra thôi.",
+      "start": 237.52,
+      "end": 242.56,
+      "n_words": 25,
+      "start_frame": 5938,
+      "end_frame": 6064,
+      "keyframes": [
+        "005941.webp",
+        "005942.webp",
+        "005967.webp",
+        "005993.webp",
+        "005994.webp",
+        "006027.webp",
+        "006060.webp",
+        "006061.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Không những nhanh mà còn tạo hình rất là hấp dẫn nữa.",
+      "start": 242.56,
+      "end": 245.28,
+      "n_words": 12,
+      "start_frame": 6064,
+      "end_frame": 6132,
+      "keyframes": [
+        "006105.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và quý vị ơi, trong quá trình xem nếu như quý vị bỏ lỡ một giai đoạn hay công thức nào thì đừng lo, chúng ta có mã QR đang hiển thị trên màn hình, quý vị khán giả có thể dùng điện thoại di động quét mã này để xem lại công thức của món ngày hôm nay nhé.",
+      "start": 245.28,
+      "end": 258.56,
+      "n_words": 60,
+      "start_frame": 6132,
+      "end_frame": 6464,
+      "keyframes": [
+        "006149.webp",
+        "006150.webp",
+        "006284.webp",
+        "006419.webp",
+        "006420.webp",
+        "006444.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và bây giờ ở đây Phương Hương cũng đã chuẩn bị sẵn một cái dĩa để chúng ta trình bày ra món ăn.",
+      "start": 258.56,
+      "end": 262.88,
+      "n_words": 23,
+      "start_frame": 6464,
+      "end_frame": 6572,
+      "keyframes": [
+        "006469.webp",
+        "006470.webp",
+        "006486.webp",
+        "006502.webp",
+        "006503.webp",
+        "006518.webp",
+        "006533.webp",
+        "006534.webp",
+        "006558.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Khi ăn thì chúng ta sẽ chấm kèm với một ít tương ớt cũng sẽ rất là ngon.",
+      "start": 262.88,
+      "end": 266.24,
+      "n_words": 18,
+      "start_frame": 6572,
+      "end_frame": 6656,
+      "keyframes": [
+        "006582.webp",
+        "006583.webp",
+        "006605.webp",
+        "006628.webp",
+        "006629.webp",
+        "006653.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và bây giờ món bò lá lốt chiên của chúng ta đến đây đã hoàn tất rồi.",
+      "start": 266.24,
+      "end": 269.4,
+      "n_words": 17,
+      "start_frame": 6656,
+      "end_frame": 6735,
+      "keyframes": [
+        "006678.webp",
+        "006679.webp",
+        "006721.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và để tạo nên một bữa ăn đầy dinh dưỡng thì chúng ta có thể kết hợp với món khai vị cá hồi trái bơ cũng sẽ rất là ngon.",
+      "start": 269.4,
+      "end": 275.2,
+      "n_words": 30,
+      "start_frame": 6735,
+      "end_frame": 6880,
+      "keyframes": [
+        "006763.webp",
+        "006764.webp",
+        "006822.webp",
+        "006880.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng ta đã có thêm một gợi ý đặc biệt là ngày lễ Halloween đang sắp đến, chúc quý vị và các bạn sẽ thành công với món ăn này và ngon miệng.",
+      "start": 275.2,
+      "end": 282.92,
+      "n_words": 33,
+      "start_frame": 6880,
+      "end_frame": 7073,
+      "keyframes": [
+        "006880.webp",
+        "006881.webp",
+        "006897.webp",
+        "006914.webp",
+        "006915.webp",
+        "006948.webp",
+        "006981.webp",
+        "006982.webp",
+        "007025.webp",
+        "007068.webp",
+        "007069.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Chả lá lốt được bao quanh một lớp bột chiên giòn tan, thịt bò mềm mọng ngọt ngon, hương thơm của lá lốt hòa làm cho món ăn thơm nồng nàn và ngon mê mẩn.",
+      "start": 282.92,
+      "end": 294.48,
+      "n_words": 35,
+      "start_frame": 7073,
+      "end_frame": 7362,
+      "keyframes": [
+        "007106.webp",
+        "007143.webp",
+        "007158.webp",
+        "007197.webp",
+        "007236.webp",
+        "007237.webp",
+        "007299.webp",
+        "007361.webp",
+        "007362.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Một món ăn vừa ngon vừa nhanh lại phù hợp với mùa lễ hội độc đáo, còn chần chờ gì vào bếp và thực hiện ngay các bạn ơi.",
+      "start": 294.48,
+      "end": 302.4,
+      "n_words": 29,
+      "start_frame": 7362,
+      "end_frame": 7560,
+      "keyframes": [
+        "007362.webp",
+        "007460.webp",
+        "007558.webp",
+        "007559.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Ngoài ra chúng ta có thể coi lại rất nhiều công thức của các món ăn ngon bằng cách truy cập vào kênh YouTube, website và fanpage của chương trình.",
+      "start": 302.4,
+      "end": 310.48,
+      "n_words": 30,
+      "start_frame": 7560,
+      "end_frame": 7762,
+      "keyframes": [
+        "007652.webp",
+        "007746.webp",
+        "007747.webp"
+      ],
+      "keyframe_count": 3
+    }
+  ]
+}

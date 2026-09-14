@@ -1,0 +1,911 @@
+{
+  "video_id": "L26_V305",
+  "fps": 25.0,
+  "n_sentences": 57,
+  "total_words": 1089,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.52,
+      "end": 14.24,
+      "n_words": 4,
+      "start_frame": 263,
+      "end_frame": 356,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000341.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Xin chào các bạn.",
+      "start": 14.24,
+      "end": 15.48,
+      "n_words": 4,
+      "start_frame": 356,
+      "end_frame": 387,
+      "keyframes": [
+        "000383.webp",
+        "000384.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "- Em chào cô chú.",
+      "start": 15.48,
+      "end": 16.88,
+      "n_words": 5,
+      "start_frame": 387,
+      "end_frame": 422,
+      "keyframes": [
+        "000411.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "- Chào cô.",
+      "start": 16.88,
+      "end": 17.84,
+      "n_words": 3,
+      "start_frame": 422,
+      "end_frame": 446,
+      "keyframes": [
+        "000438.webp",
+        "000439.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "- Cô ơi, em đang coi người ta ăn lẩu, nồi lẩu to mà bao nhiêu cái thứ ngon trên đời này bỏ vô hết, hấp dẫn ngon.",
+      "start": 17.84,
+      "end": 26.28,
+      "n_words": 28,
+      "start_frame": 446,
+      "end_frame": 657,
+      "keyframes": [
+        "000451.webp",
+        "000464.webp",
+        "000465.webp",
+        "000491.webp",
+        "000517.webp",
+        "000518.webp",
+        "000532.webp",
+        "000546.webp",
+        "000547.webp",
+        "000610.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "- Đúng rồi, đúng rồi.",
+      "start": 26.28,
+      "end": 27.04,
+      "n_words": 5,
+      "start_frame": 657,
+      "end_frame": 676,
+      "keyframes": [
+        "000673.webp",
+        "000674.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nhưng mà ăn lẩu là không phải là bỏ vô một lúc hết, đúng không?",
+      "start": 27.04,
+      "end": 29.8,
+      "n_words": 15,
+      "start_frame": 676,
+      "end_frame": 745,
+      "keyframes": [
+        "000724.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Phải có thứ bỏ trước bỏ sau em.",
+      "start": 29.8,
+      "end": 31.92,
+      "n_words": 8,
+      "start_frame": 745,
+      "end_frame": 798,
+      "keyframes": [
+        "000775.webp",
+        "000776.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "- Nếu mà ăn lẩu thì em bỏ nhiều trước à?",
+      "start": 31.92,
+      "end": 34.16,
+      "n_words": 11,
+      "start_frame": 798,
+      "end_frame": 854,
+      "keyframes": [
+        "000815.webp",
+        "000854.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "- Theo cái phương diện cá nhân thì em lựa cái gì mắc nhất em bỏ vô.",
+      "start": 34.16,
+      "end": 36.96,
+      "n_words": 17,
+      "start_frame": 854,
+      "end_frame": 924,
+      "keyframes": [
+        "000854.webp",
+        "000855.webp",
+        "000888.webp",
+        "000922.webp",
+        "000923.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thí dụ như cô tặng em ba con tôm hùm này là em sẽ bỏ con tôm vào vô trước.",
+      "start": 36.96,
+      "end": 40.04,
+      "n_words": 20,
+      "start_frame": 924,
+      "end_frame": 1001,
+      "keyframes": [
+        "000957.webp",
+        "000992.webp",
+        "000993.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thí dụ như lẩu hải sản, lẩu thịt bò thì mình sẽ bỏ hải sản trước còn thịt bò thì mình nhúng. - Ồ, em cái này quá cô ơi!",
+      "start": 40.04,
+      "end": 46.08,
+      "n_words": 30,
+      "start_frame": 1001,
+      "end_frame": 1152,
+      "keyframes": [
+        "001027.webp",
+        "001061.webp",
+        "001062.webp",
+        "001113.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "- Rồi, vậy thì hôm nay để cô nấu thử cái lẩu này coi, em sẽ bỏ nhiều vô trước nha, có nghĩa là cô chuẩn bị rất nhiều đồ, nhiều lắm.",
+      "start": 46.08,
+      "end": 53.12,
+      "n_words": 32,
+      "start_frame": 1152,
+      "end_frame": 1328,
+      "keyframes": [
+        "001164.webp",
+        "001165.webp",
+        "001213.webp",
+        "001261.webp",
+        "001262.webp",
+        "001301.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "- Không cô?",
+      "start": 53.12,
+      "end": 53.84,
+      "n_words": 3,
+      "start_frame": 1328,
+      "end_frame": 1346,
+      "keyframes": [
+        "001340.webp",
+        "001341.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "- Lẩu bò vị Thái, thấm vị, ngon vị, ăn tê tái.",
+      "start": 53.84,
+      "end": 76.96,
+      "n_words": 12,
+      "start_frame": 1346,
+      "end_frame": 1924,
+      "keyframes": [
+        "001349.webp",
+        "001358.webp",
+        "001359.webp",
+        "001373.webp",
+        "001387.webp",
+        "001388.webp",
+        "001412.webp",
+        "001437.webp",
+        "001438.webp",
+        "001483.webp",
+        "001529.webp",
+        "001530.webp",
+        "001572.webp",
+        "001614.webp",
+        "001629.webp",
+        "001691.webp",
+        "001754.webp",
+        "001755.webp",
+        "001841.webp"
+      ],
+      "keyframe_count": 19
+    },
+    {
+      "text": "Chào mừng các bạn đang đến với chương trình Món ngon mỗi ngày.",
+      "start": 76.96,
+      "end": 80.12,
+      "n_words": 13,
+      "start_frame": 1924,
+      "end_frame": 2003,
+      "keyframes": [
+        "001928.webp",
+        "001929.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 80.12,
+      "end": 85.08,
+      "n_words": 11,
+      "start_frame": 2003,
+      "end_frame": 2127,
+      "keyframes": [
+        "002023.webp",
+        "002118.webp",
+        "002119.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ mình vô nấu lẩu, đầu tiên thì bây giờ cô sẽ sơ chế thịt bò.",
+      "start": 85.08,
+      "end": 89.0,
+      "n_words": 17,
+      "start_frame": 2127,
+      "end_frame": 2225,
+      "keyframes": [
+        "002143.webp",
+        "002168.webp",
+        "002169.webp",
+        "002194.webp",
+        "002220.webp",
+        "002221.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cô sẽ cắt khăn lông bò thành miếng vừa ăn.",
+      "start": 89.0,
+      "end": 91.72,
+      "n_words": 10,
+      "start_frame": 2225,
+      "end_frame": 2293,
+      "keyframes": [
+        "002256.webp",
+        "002292.webp",
+        "002293.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cái bí quyết của cô để mà khử bớt cái mùi đặc trưng của bò ở trong cái phần lòng này là như thế nào cô?",
+      "start": 91.72,
+      "end": 97.36,
+      "n_words": 26,
+      "start_frame": 2293,
+      "end_frame": 2434,
+      "keyframes": [
+        "002293.webp",
+        "002323.webp",
+        "002354.webp",
+        "002355.webp",
+        "002370.webp",
+        "002386.webp",
+        "002387.webp",
+        "002409.webp",
+        "002431.webp",
+        "002432.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "- Các bạn lưu ý là chúng ta sẽ trần khăn lông bò qua nước có rượu gừng và chanh để khử mùi đặc trưng của nguyên liệu này nhé.",
+      "start": 97.36,
+      "end": 104.0,
+      "n_words": 30,
+      "start_frame": 2434,
+      "end_frame": 2600,
+      "keyframes": [
+        "002515.webp",
+        "002599.webp",
+        "002600.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đây là phần gân bò, hơi nghiêng dao cắt mỏng mỏng một chút xíu để cái thời gian nấu của mình nó sẽ ngắn lại.",
+      "start": 104.0,
+      "end": 110.16,
+      "n_words": 25,
+      "start_frame": 2600,
+      "end_frame": 2754,
+      "keyframes": [
+        "002600.webp",
+        "002614.webp",
+        "002628.webp",
+        "002629.webp",
+        "002670.webp",
+        "002712.webp",
+        "002713.webp",
+        "002734.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Sau khi đã cắt cái phần khăn lông bò cũng như là gân bò rồi thì bây giờ chúng ta sẽ ướp gia vị.",
+      "start": 110.16,
+      "end": 114.8,
+      "n_words": 24,
+      "start_frame": 2754,
+      "end_frame": 2870,
+      "keyframes": [
+        "002755.webp",
+        "002756.webp",
+        "002780.webp",
+        "002805.webp",
+        "002806.webp",
+        "002837.webp",
+        "002868.webp",
+        "002869.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta sẽ sử dụng gia vị nêm sẵn Ajinomoto Quick Lẩu Thái.",
+      "start": 114.8,
+      "end": 118.16,
+      "n_words": 13,
+      "start_frame": 2870,
+      "end_frame": 2954,
+      "keyframes": [
+        "002896.webp",
+        "002924.webp",
+        "002925.webp",
+        "002952.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Mình sẽ cho vào đây hai muỗng canh, sau đó thì mình sẽ trộn đều.",
+      "start": 118.16,
+      "end": 123.12,
+      "n_words": 15,
+      "start_frame": 2954,
+      "end_frame": 3078,
+      "keyframes": [
+        "002979.webp",
+        "002980.webp",
+        "003006.webp",
+        "003033.webp",
+        "003034.webp",
+        "003065.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Các bạn lưu ý là chúng ta sẽ ướp gia vị nêm sẵn Aji-Quick Lẩu Thái vào gân bò và gân bò để tạo mùi thơm và thấm vị nhé.",
+      "start": 123.12,
+      "end": 130.92,
+      "n_words": 30,
+      "start_frame": 3078,
+      "end_frame": 3273,
+      "keyframes": [
+        "003096.webp",
+        "003097.webp",
+        "003185.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thì bây giờ cô Hà sẽ cho vào đây một ít thơm đã băm sẵn.",
+      "start": 130.92,
+      "end": 134.72,
+      "n_words": 15,
+      "start_frame": 3273,
+      "end_frame": 3368,
+      "keyframes": [
+        "003274.webp",
+        "003275.webp",
+        "003307.webp",
+        "003339.webp",
+        "003340.webp",
+        "003356.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Các bạn lưu ý là chúng ta sẽ ướp thơm băm nhỏ vào gân bò và gân bò để cho nguyên liệu mau chín mềm.",
+      "start": 134.72,
+      "end": 140.2,
+      "n_words": 25,
+      "start_frame": 3368,
+      "end_frame": 3505,
+      "keyframes": [
+        "003373.webp",
+        "003374.webp",
+        "003438.webp",
+        "003502.webp",
+        "003503.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Trong thơm này nè có một cái loại enzyme tên là bromelain, nó có công dụng là nó sẽ làm mềm cái chất đạm. - Hay quá!",
+      "start": 140.2,
+      "end": 148.64,
+      "n_words": 27,
+      "start_frame": 3505,
+      "end_frame": 3716,
+      "keyframes": [
+        "003529.webp",
+        "003556.webp",
+        "003557.webp",
+        "003589.webp",
+        "003622.webp",
+        "003623.webp",
+        "003659.webp",
+        "003696.webp",
+        "003697.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "- Bây giờ thì mình sẽ để cái phần gân bò và khăn lông bò sang cho nó chờ thấm gia vị. Tiếp theo thì bây giờ chúng ta sẽ cắt phần bắp bò.",
+      "start": 148.64,
+      "end": 156.96,
+      "n_words": 34,
+      "start_frame": 3716,
+      "end_frame": 3924,
+      "keyframes": [
+        "003721.webp",
+        "003746.webp",
+        "003747.webp",
+        "003797.webp",
+        "003847.webp",
+        "003848.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bắp hoa thì nó mới ngon, nhìn cái miếng bắp bò thôi là muốn nhúng lẩu liền luôn á.",
+      "start": 156.96,
+      "end": 161.44,
+      "n_words": 19,
+      "start_frame": 3924,
+      "end_frame": 4036,
+      "keyframes": [
+        "003931.webp",
+        "004015.webp",
+        "004016.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Xong thịt bò rồi đó và bây giờ là chúng ta sẽ bắt đầu đến bước là nấu lẩu.",
+      "start": 161.44,
+      "end": 167.92,
+      "n_words": 19,
+      "start_frame": 4036,
+      "end_frame": 4198,
+      "keyframes": [
+        "004071.webp",
+        "004126.webp",
+        "004127.webp",
+        "004164.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Mình sẽ cho dầu ăn vào trong nồi nha, cho vào đây là sả cắt khúc đập dập và cả hành tím đập dập luôn.",
+      "start": 167.92,
+      "end": 175.08,
+      "n_words": 25,
+      "start_frame": 4198,
+      "end_frame": 4377,
+      "keyframes": [
+        "004202.webp",
+        "004203.webp",
+        "004232.webp",
+        "004262.webp",
+        "004263.webp",
+        "004288.webp",
+        "004314.webp",
+        "004315.webp",
+        "004353.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "- Đập dập luôn.",
+      "start": 175.08,
+      "end": 175.92,
+      "n_words": 4,
+      "start_frame": 4377,
+      "end_frame": 4398,
+      "keyframes": [
+        "004392.webp",
+        "004393.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Em thấy hương vị của Thái đâu đây rồi.",
+      "start": 175.92,
+      "end": 179.52,
+      "n_words": 9,
+      "start_frame": 4398,
+      "end_frame": 4488,
+      "keyframes": [
+        "004437.webp",
+        "004481.webp",
+        "004482.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "- Tiếp theo thì mình sẽ cho cái phần nạm bò và gân bò đã ướp vào đây.",
+      "start": 179.52,
+      "end": 183.92,
+      "n_words": 18,
+      "start_frame": 4488,
+      "end_frame": 4598,
+      "keyframes": [
+        "004508.webp",
+        "004535.webp",
+        "004536.webp",
+        "004567.webp",
+        "004598.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cho mấy trái ớt khô này vô rồi để cho cái màu sắc của cái món ăn nó đẹp hơn thì cô sẽ cho vào đây một ít dầu điều nè, cô sẽ cho tương cà vào đây, bột canh Ajinomoto, cô sẽ cho vào đây một ít, trộn đều lên.",
+      "start": 183.92,
+      "end": 200.56,
+      "n_words": 51,
+      "start_frame": 4598,
+      "end_frame": 5014,
+      "keyframes": [
+        "004598.webp",
+        "004599.webp",
+        "004618.webp",
+        "004637.webp",
+        "004638.webp",
+        "004714.webp",
+        "004790.webp",
+        "004791.webp",
+        "004829.webp",
+        "004868.webp",
+        "004869.webp",
+        "004908.webp",
+        "004948.webp",
+        "004949.webp",
+        "004979.webp",
+        "005010.webp",
+        "005011.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Cái phần mà nạm bò và gân bò sẽ có màu sắc hấp dẫn cũng như là cái mùi rất là thơm thơm đó.",
+      "start": 200.56,
+      "end": 208.0,
+      "n_words": 24,
+      "start_frame": 5014,
+      "end_frame": 5200,
+      "keyframes": [
+        "005102.webp",
+        "005193.webp",
+        "005194.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi bây giờ thì cô sẽ cho vào đây thêm là nấm rơm nè, một ít thơm tạo một cái vị chua.",
+      "start": 208.0,
+      "end": 213.64,
+      "n_words": 22,
+      "start_frame": 5200,
+      "end_frame": 5341,
+      "keyframes": [
+        "005241.webp",
+        "005289.webp",
+        "005290.webp",
+        "005312.webp",
+        "005335.webp",
+        "005336.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Mình sẽ nấu một chút, cô sẽ cho vào đây một lít rưỡi nước dùng.",
+      "start": 213.64,
+      "end": 217.76,
+      "n_words": 15,
+      "start_frame": 5341,
+      "end_frame": 5444,
+      "keyframes": [
+        "005359.webp",
+        "005382.webp",
+        "005383.webp",
+        "005410.webp",
+        "005437.webp",
+        "005438.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đợi cho nước sôi lại, bây giờ em đậy nắp lại đi.",
+      "start": 217.76,
+      "end": 220.96,
+      "n_words": 12,
+      "start_frame": 5444,
+      "end_frame": 5524,
+      "keyframes": [
+        "005456.webp",
+        "005474.webp",
+        "005475.webp",
+        "005502.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Sau khi mà chúng ta đã nấu nước sôi lên rồi, bây giờ thì mình vớt bọt đi và cô sẽ cho thêm gia vị nêm sẵn Aji-Quick Lẩu Thái còn lại.",
+      "start": 220.96,
+      "end": 228.4,
+      "n_words": 32,
+      "start_frame": 5524,
+      "end_frame": 5710,
+      "keyframes": [
+        "005529.webp",
+        "005530.webp",
+        "005558.webp",
+        "005587.webp",
+        "005588.webp",
+        "005618.webp",
+        "005649.webp",
+        "005650.webp",
+        "005679.webp",
+        "005708.webp",
+        "005709.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "- Như vậy là quá gọn luôn, chỉ với một cái gói gia vị sẵn Aji-Quick Lẩu Thái, mình vừa có thể ướp được những cái nguyên liệu ăn cho đậm đà và mình còn vừa làm được nước lẩu cũng ngon luôn.",
+      "start": 228.4,
+      "end": 237.56,
+      "n_words": 43,
+      "start_frame": 5710,
+      "end_frame": 5939,
+      "keyframes": [
+        "005774.webp",
+        "005839.webp",
+        "005840.webp",
+        "005895.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "- Đúng rồi.",
+      "start": 237.56,
+      "end": 238.08,
+      "n_words": 3,
+      "start_frame": 5939,
+      "end_frame": 5952,
+      "keyframes": [
+        "005950.webp",
+        "005951.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Sau đó thì chúng ta sẽ tiếp tục nấu khoảng chừng 20 phút để cho cái phần gân bò cũng như khăn lông bò mềm ha, và cuối cùng thì chúng ta sẽ cho vô một canh nước mắm trộn đều lên rồi và như vậy là món ăn của mình đã xong rồi đó.",
+      "start": 238.08,
+      "end": 250.88,
+      "n_words": 55,
+      "start_frame": 5952,
+      "end_frame": 6272,
+      "keyframes": [
+        "006027.webp",
+        "006104.webp",
+        "006105.webp",
+        "006140.webp",
+        "006175.webp",
+        "006176.webp",
+        "006190.webp",
+        "006205.webp",
+        "006206.webp",
+        "006239.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Và bây giờ thì chúng ta sẽ trình bày cái món ăn này ra nha các bạn, ngon lắm luôn.",
+      "start": 252.68,
+      "end": 257.2,
+      "n_words": 20,
+      "start_frame": 6317,
+      "end_frame": 6430,
+      "keyframes": [
+        "006323.webp",
+        "006324.webp",
+        "006365.webp",
+        "006406.webp",
+        "006407.webp",
+        "006430.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "- Hả cô?",
+      "start": 257.2,
+      "end": 257.88,
+      "n_words": 3,
+      "start_frame": 6430,
+      "end_frame": 6447,
+      "keyframes": [
+        "006430.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "- Rồi cuối cùng thì chúng ta sẽ cho lên một ít rau thơm và như vậy là chúng ta đã hoàn thành món ăn ngày hôm nay.",
+      "start": 257.88,
+      "end": 263.44,
+      "n_words": 28,
+      "start_frame": 6447,
+      "end_frame": 6586,
+      "keyframes": [
+        "006453.webp",
+        "006454.webp",
+        "006496.webp",
+        "006539.webp",
+        "006540.webp",
+        "006577.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "- Cảm ơn cô rất nhiều, chỉ vì một câu đố thôi mà cô đã phải tốn nguyên một cái nồi lẩu ngày hôm nay.",
+      "start": 263.44,
+      "end": 268.36,
+      "n_words": 25,
+      "start_frame": 6586,
+      "end_frame": 6709,
+      "keyframes": [
+        "006615.webp",
+        "006616.webp",
+        "006661.webp",
+        "006706.webp",
+        "006707.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cảm ơn cô một lần nữa.",
+      "start": 268.36,
+      "end": 269.76,
+      "n_words": 6,
+      "start_frame": 6709,
+      "end_frame": 6744,
+      "keyframes": [
+        "006722.webp",
+        "006738.webp",
+        "006739.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúc các bạn ngon miệng với món ăn này.",
+      "start": 269.76,
+      "end": 271.64,
+      "n_words": 9,
+      "start_frame": 6744,
+      "end_frame": 6791,
+      "keyframes": [
+        "006765.webp",
+        "006791.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Phần bắp bò mềm, mướt gân và khăn lông bò giòn sần sật, hài hòa với vị cay nhẹ của ớt, nước lẩu chua chua ngọt ngọt đậm đà bắt vị.",
+      "start": 271.64,
+      "end": 281.64,
+      "n_words": 31,
+      "start_frame": 6791,
+      "end_frame": 7041,
+      "keyframes": [
+        "006791.webp",
+        "006792.webp",
+        "006869.webp",
+        "006946.webp",
+        "006947.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Một nồi lẩu hết sức vừa ý, vừa nhanh lại vừa ngon trời.",
+      "start": 281.64,
+      "end": 285.64,
+      "n_words": 13,
+      "start_frame": 7041,
+      "end_frame": 7141,
+      "keyframes": [
+        "007047.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Mà mưa mưa lạnh lạnh mình chuẩn bị một cái nồi lẩu bò vị Thái này thì còn gì bằng, thì còn gì bằng.",
+      "start": 285.64,
+      "end": 292.12,
+      "n_words": 24,
+      "start_frame": 7141,
+      "end_frame": 7303,
+      "keyframes": [
+        "007148.webp",
+        "007149.webp",
+        "007262.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đảm bảo 20 phút là các bạn làm xong một nồi lẩu.",
+      "start": 292.12,
+      "end": 295.08,
+      "n_words": 12,
+      "start_frame": 7303,
+      "end_frame": 7377,
+      "keyframes": [
+        "007376.webp",
+        "007377.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và nếu như các bạn quên công thức thì chúng tôi có rất nhiều kênh để cho mọi người có thể tham khảo, đó chính là YouTube, website và fanpage của chương trình Món ngon mỗi ngày. Bắt tay thực hiện ngay tại nhà nha.",
+      "start": 295.08,
+      "end": 304.84,
+      "n_words": 45,
+      "start_frame": 7377,
+      "end_frame": 7621,
+      "keyframes": [
+        "007377.webp",
+        "007434.webp",
+        "007492.webp",
+        "007493.webp",
+        "007578.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúc cho các bạn thành công với món ăn này.",
+      "start": 304.84,
+      "end": 307.64,
+      "n_words": 10,
+      "start_frame": 7621,
+      "end_frame": 7691,
+      "keyframes": [
+        "007664.webp",
+        "007665.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

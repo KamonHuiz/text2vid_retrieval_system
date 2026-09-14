@@ -1,0 +1,825 @@
+{
+  "video_id": "L26_V264",
+  "fps": 25.0,
+  "n_sentences": 48,
+  "total_words": 1035,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.48,
+      "end": 12.44,
+      "n_words": 4,
+      "start_frame": 262,
+      "end_frame": 311,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000309.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trời ơi, gọi tên em là hành tây mà sao em hành ta quá Minh Phương trời ơi!",
+      "start": 12.44,
+      "end": 21.44,
+      "n_words": 18,
+      "start_frame": 311,
+      "end_frame": 536,
+      "keyframes": [
+        "000318.webp",
+        "000319.webp",
+        "000329.webp",
+        "000339.webp",
+        "000340.webp",
+        "000377.webp",
+        "000415.webp",
+        "000416.webp",
+        "000430.webp",
+        "000445.webp",
+        "000446.webp",
+        "000503.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Mấy cái củ hành tây lột mới có 12 trái mà cay ơi là cay luôn.",
+      "start": 21.44,
+      "end": 25.08,
+      "n_words": 16,
+      "start_frame": 536,
+      "end_frame": 627,
+      "keyframes": [
+        "000561.webp",
+        "000562.webp",
+        "000581.webp",
+        "000601.webp",
+        "000602.webp",
+        "000620.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cô Hà ơi, này dễ thôi mà, nếu như mà em đem cái củ hành tây này nè, em bỏ vô trong tủ lạnh cho nó lạnh đi rồi em lấy ra em lột, đỡ đi rất là nhiều.",
+      "start": 25.08,
+      "end": 32.88,
+      "n_words": 39,
+      "start_frame": 627,
+      "end_frame": 822,
+      "keyframes": [
+        "000639.webp",
+        "000640.webp",
+        "000654.webp",
+        "000668.webp",
+        "000669.webp",
+        "000728.webp",
+        "000788.webp",
+        "000789.webp",
+        "000806.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Á sao cô Hà không xuất hiện sớm để em đi cất liền nha cô?",
+      "start": 32.88,
+      "end": 36.8,
+      "n_words": 15,
+      "start_frame": 822,
+      "end_frame": 920,
+      "keyframes": [
+        "000824.webp",
+        "000825.webp",
+        "000853.webp",
+        "000881.webp",
+        "000882.webp",
+        "000898.webp",
+        "000914.webp",
+        "000915.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Nhưng mà trong thời gian đó thì mình làm cái gì hả cô Hà?",
+      "start": 36.8,
+      "end": 39.16,
+      "n_words": 14,
+      "start_frame": 920,
+      "end_frame": 979,
+      "keyframes": [
+        "000944.webp",
+        "000973.webp",
+        "000974.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mình sẽ sơ chế các loại rau củ quả để mình làm món ăn ngày hôm nay là một món có hương vị của châu Âu và rất là ngon miệng: cuộn hành tây phô mai khai vị lạ, hãy thử ngay!",
+      "start": 39.16,
+      "end": 67.2,
+      "n_words": 42,
+      "start_frame": 979,
+      "end_frame": 1680,
+      "keyframes": [
+        "001004.webp",
+        "001034.webp",
+        "001035.webp",
+        "001108.webp",
+        "001181.webp",
+        "001182.webp",
+        "001206.webp",
+        "001231.webp",
+        "001232.webp",
+        "001289.webp",
+        "001347.webp",
+        "001348.webp",
+        "001383.webp",
+        "001418.webp",
+        "001433.webp",
+        "001482.webp",
+        "001531.webp",
+        "001532.webp",
+        "001622.webp"
+      ],
+      "keyframe_count": 19
+    },
+    {
+      "text": "Chào mừng các bạn đang đến với chương trình Món ngon mỗi ngày.",
+      "start": 67.2,
+      "end": 71.32,
+      "n_words": 13,
+      "start_frame": 1680,
+      "end_frame": 1783,
+      "keyframes": [
+        "001712.webp",
+        "001713.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Azino Việt Nam.",
+      "start": 71.32,
+      "end": 75.48,
+      "n_words": 11,
+      "start_frame": 1783,
+      "end_frame": 1887,
+      "keyframes": [
+        "001802.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ giúp cô cắt các loại rau này, mình sẽ cắt đôi, cắt thành hai. Được rồi.",
+      "start": 75.48,
+      "end": 81.28,
+      "n_words": 18,
+      "start_frame": 1887,
+      "end_frame": 2032,
+      "keyframes": [
+        "001891.webp",
+        "001892.webp",
+        "001927.webp",
+        "001962.webp",
+        "001963.webp",
+        "001975.webp",
+        "001988.webp",
+        "001989.webp",
+        "002016.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Dạ cà chua bi thì mình sẽ cắt lát ngang.",
+      "start": 81.28,
+      "end": 86.32,
+      "n_words": 10,
+      "start_frame": 2032,
+      "end_frame": 2158,
+      "keyframes": [
+        "002044.webp",
+        "002045.webp",
+        "002099.webp",
+        "002153.webp",
+        "002154.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Dạ rồi, ngoài ra còn ô liu nữa, cũng cắt ngang thôi ha.",
+      "start": 86.32,
+      "end": 90.88,
+      "n_words": 13,
+      "start_frame": 2158,
+      "end_frame": 2272,
+      "keyframes": [
+        "002172.webp",
+        "002191.webp",
+        "002192.webp",
+        "002235.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Nguyên liệu ngày hôm nay quả là chuẩn Tây luôn cô ơi!",
+      "start": 90.88,
+      "end": 94.24,
+      "n_words": 12,
+      "start_frame": 2272,
+      "end_frame": 2356,
+      "keyframes": [
+        "002278.webp",
+        "002279.webp",
+        "002307.webp",
+        "002336.webp",
+        "002337.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đối với món ăn này thì Minh Phương và các bạn mình sẽ chọn cái củ hành tây to to và nó cũng có chiều cao như thế này.",
+      "start": 94.24,
+      "end": 100.12,
+      "n_words": 29,
+      "start_frame": 2356,
+      "end_frame": 2503,
+      "keyframes": [
+        "002365.webp",
+        "002393.webp",
+        "002394.webp",
+        "002448.webp",
+        "002503.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hành tây thì chúng ta sẽ cắt khoanh và cái độ dày khoảng chừng một phân.",
+      "start": 100.12,
+      "end": 104.12,
+      "n_words": 16,
+      "start_frame": 2503,
+      "end_frame": 2603,
+      "keyframes": [
+        "002503.webp",
+        "002504.webp",
+        "002521.webp",
+        "002538.webp",
+        "002539.webp",
+        "002568.webp",
+        "002598.webp",
+        "002599.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Và hành tây nhìn như vậy nhưng thật ra theo em biết nó có rất là nhiều vitamin C, đúng vậy, và bên cạnh đó còn có nhiều chất chống oxy hóa.",
+      "start": 104.12,
+      "end": 115.28,
+      "n_words": 32,
+      "start_frame": 2603,
+      "end_frame": 2882,
+      "keyframes": [
+        "002642.webp",
+        "002686.webp",
+        "002687.webp",
+        "002715.webp",
+        "002743.webp",
+        "002744.webp",
+        "002812.webp",
+        "002881.webp",
+        "002882.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Sau khi mình cắt xong, mình để qua đây.",
+      "start": 115.28,
+      "end": 117.28,
+      "n_words": 9,
+      "start_frame": 2882,
+      "end_frame": 2932,
+      "keyframes": [
+        "002882.webp",
+        "002904.webp",
+        "002926.webp",
+        "002927.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Trong món ăn này thì mình sẽ sử dụng phô mai mozzarella và chúng ta sẽ cắt lát mỏng dày khoảng chừng một tới hai ly thôi.",
+      "start": 117.28,
+      "end": 123.36,
+      "n_words": 27,
+      "start_frame": 2932,
+      "end_frame": 3084,
+      "keyframes": [
+        "002969.webp",
+        "003012.webp",
+        "003013.webp",
+        "003047.webp",
+        "003081.webp",
+        "003082.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Phần hem này chắc sợ như là phô mai chừng một phân rồi.",
+      "start": 123.36,
+      "end": 128.0,
+      "n_words": 13,
+      "start_frame": 3084,
+      "end_frame": 3200,
+      "keyframes": [
+        "003120.webp",
+        "003159.webp",
+        "003160.webp",
+        "003181.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đây là thịt ba rọi xông khói hay còn gọi là bacon.",
+      "start": 128.0,
+      "end": 131.2,
+      "n_words": 12,
+      "start_frame": 3200,
+      "end_frame": 3280,
+      "keyframes": [
+        "003203.webp",
+        "003204.webp",
+        "003241.webp",
+        "003279.webp",
+        "003280.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cái món ăn này thì mình chọn thịt ba rọi xông khói mà nó có nhiều mỡ một chút xíu thì nó sẽ ngon hơn.",
+      "start": 131.2,
+      "end": 136.16,
+      "n_words": 25,
+      "start_frame": 3280,
+      "end_frame": 3404,
+      "keyframes": [
+        "003280.webp",
+        "003327.webp",
+        "003374.webp",
+        "003375.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Mình sẽ cắt nó ra làm đôi, cắt dọc, mà tốt nhất là mình lựa cái miếng thịt mà nó liền, nó không có bị rời ra thì nó sẽ dễ cho mình hơn.",
+      "start": 136.16,
+      "end": 145.6,
+      "n_words": 34,
+      "start_frame": 3404,
+      "end_frame": 3640,
+      "keyframes": [
+        "003418.webp",
+        "003462.webp",
+        "003463.webp",
+        "003512.webp",
+        "003562.webp",
+        "003563.webp",
+        "003577.webp",
+        "003592.webp",
+        "003593.webp",
+        "003624.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Rồi như vậy là chúng ta đã xong phần sơ chế và bây giờ tiếp tục chúng ta sẽ tạo hình.",
+      "start": 145.6,
+      "end": 150.08,
+      "n_words": 21,
+      "start_frame": 3640,
+      "end_frame": 3752,
+      "keyframes": [
+        "003655.webp",
+        "003656.webp",
+        "003690.webp",
+        "003725.webp",
+        "003726.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Rồi những cái khoanh hành tây này nè, mình sẽ tách ra đây, phô mai nó sẽ là một cặp cỡ dày chưa.",
+      "start": 150.08,
+      "end": 158.52,
+      "n_words": 23,
+      "start_frame": 3752,
+      "end_frame": 3963,
+      "keyframes": [
+        "003784.webp",
+        "003842.webp",
+        "003843.webp",
+        "003857.webp",
+        "003872.webp",
+        "003873.webp",
+        "003913.webp",
+        "003953.webp",
+        "003954.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đầu tiên là mình sẽ lấy cái khoanh hành to này, ở bên trong của cái hành to này nè là một cái lớp thâm đặt thành một cái vòng tròn luôn.",
+      "start": 158.52,
+      "end": 165.8,
+      "n_words": 32,
+      "start_frame": 3963,
+      "end_frame": 4145,
+      "keyframes": [
+        "003988.webp",
+        "004022.webp",
+        "004023.webp",
+        "004043.webp",
+        "004064.webp",
+        "004065.webp",
+        "004104.webp",
+        "004143.webp",
+        "004144.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Sau cái lớp thâm đó thì mình sẽ đặt lên là một lớp phô mai, phô mai chính xác rồi.",
+      "start": 165.8,
+      "end": 172.04,
+      "n_words": 20,
+      "start_frame": 4145,
+      "end_frame": 4301,
+      "keyframes": [
+        "004174.webp",
+        "004204.webp",
+        "004205.webp",
+        "004252.webp",
+        "004300.webp",
+        "004301.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sau đó mình sẽ cho cái dải nhỏ vô bên trong này thấy chưa?",
+      "start": 172.04,
+      "end": 176.16,
+      "n_words": 14,
+      "start_frame": 4301,
+      "end_frame": 4404,
+      "keyframes": [
+        "004301.webp",
+        "004337.webp",
+        "004373.webp",
+        "004374.webp",
+        "004400.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Dạ rồi, xong rồi mình rắc lên đây một vài cái lá thyme.",
+      "start": 176.16,
+      "end": 179.44,
+      "n_words": 13,
+      "start_frame": 4404,
+      "end_frame": 4486,
+      "keyframes": [
+        "004426.webp",
+        "004427.webp",
+        "004455.webp",
+        "004483.webp",
+        "004484.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Các bạn lưu ý là chúng ta sẽ cho lá thyme tươi vào trong củ hành tây giúp tạo hương thơm đặc trưng cho món ăn nha.",
+      "start": 179.44,
+      "end": 185.4,
+      "n_words": 27,
+      "start_frame": 4486,
+      "end_frame": 4635,
+      "keyframes": [
+        "004508.webp",
+        "004533.webp",
+        "004534.webp",
+        "004582.webp",
+        "004631.webp",
+        "004632.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Tiếp theo là mình sẽ sử dụng thịt xông khói này nè, mình sẽ quấn xung quanh của cái khoanh hành này.",
+      "start": 185.4,
+      "end": 191.76,
+      "n_words": 22,
+      "start_frame": 4635,
+      "end_frame": 4794,
+      "keyframes": [
+        "004688.webp",
+        "004744.webp",
+        "004745.webp",
+        "004789.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng ta nhớ quấn chặt tay, đây tới đây thì mình cũng chắp lên, chúng ta sẽ cứ tiếp tục dùng bacon để quấn nốt hết cái vòng tròn của cái hành tây.",
+      "start": 191.76,
+      "end": 201.12,
+      "n_words": 33,
+      "start_frame": 4794,
+      "end_frame": 5028,
+      "keyframes": [
+        "004834.webp",
+        "004835.webp",
+        "004930.webp",
+        "005025.webp",
+        "005026.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Sau khi cuộn xong thì mình sẽ dùng một cái que xiên nè, mình xiên từ cái chỗ cái mép của cuối cùng mà mình quấn lại, á dạ, mình xiên qua đó để mình định hình, sẽ bẻ bỏ cái phần này để chút mình chiên nó dễ dàng hơn.",
+      "start": 201.12,
+      "end": 214.76,
+      "n_words": 51,
+      "start_frame": 5028,
+      "end_frame": 5369,
+      "keyframes": [
+        "005059.webp",
+        "005092.webp",
+        "005093.webp",
+        "005190.webp",
+        "005287.webp",
+        "005288.webp",
+        "005302.webp",
+        "005316.webp",
+        "005317.webp",
+        "005340.webp",
+        "005364.webp",
+        "005365.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Đây, đẹp quá cô Hà ơi!",
+      "start": 214.76,
+      "end": 216.36,
+      "n_words": 6,
+      "start_frame": 5369,
+      "end_frame": 5409,
+      "keyframes": [
+        "005384.webp",
+        "005404.webp",
+        "005405.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cứ như vậy thì chúng ta sẽ lần lượt làm cho hết cái phần nguyên liệu.",
+      "start": 216.36,
+      "end": 219.6,
+      "n_words": 16,
+      "start_frame": 5409,
+      "end_frame": 5490,
+      "keyframes": [
+        "005430.webp",
+        "005456.webp",
+        "005457.webp",
+        "005484.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Các bạn lưu ý là khi cuộn bacon thì chúng ta sẽ cuộn chặt tay để cho khi chiên thì phô mai không bị chảy ra ngoài nha.",
+      "start": 219.6,
+      "end": 226.12,
+      "n_words": 28,
+      "start_frame": 5490,
+      "end_frame": 5653,
+      "keyframes": [
+        "005512.webp",
+        "005513.webp",
+        "005580.webp",
+        "005648.webp",
+        "005649.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Món này chúng ta sẽ chiên ngập dầu rồi bây giờ thì chúng ta sẽ cho cái cuộn này vô, mình chiên không cần phải dầu thật sôi đâu, thôi mình sẽ chiên cho đến khi mình thấy là cái phần mà thịt xông khói bên ngoài này nè nó vàng lên, nó vàng xém xém lên thì là được.",
+      "start": 226.12,
+      "end": 242.76,
+      "n_words": 60,
+      "start_frame": 5653,
+      "end_frame": 6069,
+      "keyframes": [
+        "005679.webp",
+        "005710.webp",
+        "005711.webp",
+        "005744.webp",
+        "005777.webp",
+        "005778.webp",
+        "005828.webp",
+        "005878.webp",
+        "005879.webp",
+        "005932.webp",
+        "005986.webp",
+        "005987.webp",
+        "006023.webp",
+        "006060.webp",
+        "006061.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Bây giờ nè em thấy nè, không cần chiên chín kỹ, thơm vàng ha.",
+      "start": 242.76,
+      "end": 247.84,
+      "n_words": 14,
+      "start_frame": 6069,
+      "end_frame": 6196,
+      "keyframes": [
+        "006130.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Như vậy là chúng ta đã có những khoanh cuộn trông rất là hấp dẫn.",
+      "start": 247.84,
+      "end": 251.52,
+      "n_words": 15,
+      "start_frame": 6196,
+      "end_frame": 6288,
+      "keyframes": [
+        "006199.webp",
+        "006200.webp",
+        "006223.webp",
+        "006246.webp",
+        "006247.webp",
+        "006270.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và trong quá trình thực hiện món ăn này nếu như quý vị bỏ lỡ một giai đoạn nào đó từ đầu bếp thì không sao, chúng ta có thể quét mã QR đang hiển thị trên màn hình để xem lại chi tiết hơn các bạn nha.",
+      "start": 251.52,
+      "end": 263.64,
+      "n_words": 48,
+      "start_frame": 6288,
+      "end_frame": 6591,
+      "keyframes": [
+        "006293.webp",
+        "006294.webp",
+        "006324.webp",
+        "006355.webp",
+        "006356.webp",
+        "006391.webp",
+        "006427.webp",
+        "006428.webp",
+        "006479.webp",
+        "006530.webp",
+        "006531.webp",
+        "006555.webp",
+        "006580.webp",
+        "006581.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Cô sẽ đặt từng cái khoanh này lên và món này thì mình sẽ ăn kèm với xà lách.",
+      "start": 263.64,
+      "end": 269.2,
+      "n_words": 19,
+      "start_frame": 6591,
+      "end_frame": 6730,
+      "keyframes": [
+        "006621.webp",
+        "006661.webp",
+        "006662.webp",
+        "006691.webp",
+        "006721.webp",
+        "006722.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Tiếp theo thì mình sẽ đặt lên đây một quả cà chua.",
+      "start": 269.2,
+      "end": 272.32,
+      "n_words": 12,
+      "start_frame": 6730,
+      "end_frame": 6808,
+      "keyframes": [
+        "006763.webp",
+        "006804.webp",
+        "006805.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đây là bột ớt paprika cô Hà.",
+      "start": 272.32,
+      "end": 274.48,
+      "n_words": 7,
+      "start_frame": 6808,
+      "end_frame": 6862,
+      "keyframes": [
+        "006837.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đúng rồi, chúng ta sẽ dùng kết hợp với lại sốt mayonnaise ngọt dịu giúp cho món ăn cân bằng vị hơn, cũng sẽ rất là phù hợp khi mà chúng ta kết hợp với món trà sữa trân châu đường đen.",
+      "start": 274.48,
+      "end": 285.92,
+      "n_words": 42,
+      "start_frame": 6862,
+      "end_frame": 7148,
+      "keyframes": [
+        "006870.webp",
+        "006871.webp",
+        "006895.webp",
+        "006919.webp",
+        "006920.webp",
+        "006971.webp",
+        "007022.webp",
+        "007023.webp",
+        "007082.webp",
+        "007141.webp",
+        "007142.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Cuộn bacon vàng giòn thơm, thơm béo ngậy vị phô mai và vị ngọt ngon của hành tây.",
+      "start": 285.92,
+      "end": 291.16,
+      "n_words": 18,
+      "start_frame": 7148,
+      "end_frame": 7279,
+      "keyframes": [
+        "007228.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Hành tây ăn cùng cà chua, quả ô liu và salad carotte tươi, mọng vị tuyệt đỉnh như là mơ.",
+      "start": 291.16,
+      "end": 299.04,
+      "n_words": 20,
+      "start_frame": 7279,
+      "end_frame": 7476,
+      "keyframes": [
+        "007314.webp",
+        "007315.webp",
+        "007396.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Món ăn thật hấp dẫn phải không nào?",
+      "start": 299.04,
+      "end": 301.36,
+      "n_words": 8,
+      "start_frame": 7476,
+      "end_frame": 7534,
+      "keyframes": [
+        "007478.webp",
+        "007479.webp",
+        "007534.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Làm thử và thưởng thức ngay thôi các bạn ơi!",
+      "start": 301.36,
+      "end": 303.64,
+      "n_words": 10,
+      "start_frame": 7534,
+      "end_frame": 7591,
+      "keyframes": [
+        "007534.webp",
+        "007589.webp",
+        "007590.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và để xem lại chi tiết hơn công thức của món ăn ngày hôm nay thì đừng quên vào kênh YouTube, website và fanpage của chương trình Món ngon mỗi ngày các bạn nhé.",
+      "start": 303.64,
+      "end": 312.64,
+      "n_words": 34,
+      "start_frame": 7591,
+      "end_frame": 7816,
+      "keyframes": [
+        "007691.webp",
+        "007792.webp",
+        "007793.webp"
+      ],
+      "keyframe_count": 3
+    }
+  ]
+}

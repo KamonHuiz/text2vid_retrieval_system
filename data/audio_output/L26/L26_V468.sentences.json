@@ -1,0 +1,876 @@
+{
+  "video_id": "L26_V468",
+  "fps": 25.0,
+  "n_sentences": 49,
+  "total_words": 1086,
+  "sentences": [
+    {
+      "text": "Chả món ngon mỗi ngày.",
+      "start": 0.0,
+      "end": 12.0,
+      "n_words": 5,
+      "start_frame": 0,
+      "end_frame": 300,
+      "keyframes": [
+        "000000.webp",
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000085.webp",
+        "000087.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000130.webp",
+        "000155.webp",
+        "000181.webp",
+        "000182.webp",
+        "000240.webp",
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 28
+    },
+    {
+      "text": "Hưng ơi Hưng! À ôi Hưng đây.",
+      "start": 12.0,
+      "end": 14.12,
+      "n_words": 7,
+      "start_frame": 300,
+      "end_frame": 353,
+      "keyframes": [
+        "000300.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Hôm nay nhờ Hưng một chuyện nhỏ xíu xíu được không? Rất là đơn giản.",
+      "start": 14.12,
+      "end": 17.84,
+      "n_words": 15,
+      "start_frame": 353,
+      "end_frame": 446,
+      "keyframes": [
+        "000360.webp",
+        "000420.webp",
+        "000421.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ mấy bạn nhỏ ở nhà muốn ăn một món thiệt là ngon, không biết làm món gì để chiều lòng đây.",
+      "start": 17.84,
+      "end": 23.12,
+      "n_words": 23,
+      "start_frame": 446,
+      "end_frame": 578,
+      "keyframes": [
+        "000453.webp",
+        "000485.webp",
+        "000486.webp",
+        "000530.webp",
+        "000575.webp",
+        "000576.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Các bạn nhỏ thì thường thường hay thích những cái món giòn giòn nè, vậy thì ngày hôm nay Phước Hưng làm một cái món chả giò đi, nhưng mà sẽ kết hợp với hàu trong đó nữa, mang một cái món ăn đầy đủ chất dinh dưỡng luôn, sẽ rất là phù hợp với các bé đó nghe.",
+      "start": 23.12,
+      "end": 36.8,
+      "n_words": 59,
+      "start_frame": 578,
+      "end_frame": 920,
+      "keyframes": [
+        "000621.webp",
+        "000667.webp",
+        "000668.webp",
+        "000709.webp",
+        "000751.webp",
+        "000752.webp",
+        "000793.webp",
+        "000834.webp",
+        "000835.webp",
+        "000884.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Ngon không?",
+      "start": 36.8,
+      "end": 37.64,
+      "n_words": 2,
+      "start_frame": 920,
+      "end_frame": 941,
+      "keyframes": [
+        "000933.webp",
+        "000934.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ngon hả?",
+      "start": 37.64,
+      "end": 39.6,
+      "n_words": 2,
+      "start_frame": 941,
+      "end_frame": 990,
+      "keyframes": [
+        "000980.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Quá ngon luôn đó chứ, mình làm liền luôn nha.",
+      "start": 39.6,
+      "end": 44.4,
+      "n_words": 10,
+      "start_frame": 990,
+      "end_frame": 1110,
+      "keyframes": [
+        "001027.webp",
+        "001028.webp",
+        "001044.webp",
+        "001060.webp",
+        "001061.webp",
+        "001085.webp",
+        "001110.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Chả giò hàu giòn thơm độc đáo.",
+      "start": 44.4,
+      "end": 63.76,
+      "n_words": 7,
+      "start_frame": 1110,
+      "end_frame": 1594,
+      "keyframes": [
+        "001110.webp",
+        "001111.webp",
+        "001148.webp",
+        "001185.webp",
+        "001186.webp",
+        "001227.webp",
+        "001269.webp",
+        "001299.webp",
+        "001353.webp",
+        "001408.webp",
+        "001409.webp",
+        "001496.webp",
+        "001584.webp",
+        "001585.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Chào các bạn đang đến với chương trình Món ngon mỗi ngày, được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 63.76,
+      "end": 69.76,
+      "n_words": 21,
+      "start_frame": 1594,
+      "end_frame": 1744,
+      "keyframes": [
+        "001696.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Món ăn ngày hôm nay thì Phước Hưng cũng đã chuẩn bị sẵn sàng tất cả các nguyên liệu rồi, bởi vì rất là đơn giản thôi.",
+      "start": 69.76,
+      "end": 74.92,
+      "n_words": 27,
+      "start_frame": 1744,
+      "end_frame": 1873,
+      "keyframes": [
+        "001807.webp",
+        "001808.webp",
+        "001840.webp",
+        "001873.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Ở đây Phước Hưng cũng đã bào sả hàu ra thành từng sợi nhỏ vừa ăn rồi.",
+      "start": 74.92,
+      "end": 78.68,
+      "n_words": 17,
+      "start_frame": 1873,
+      "end_frame": 1967,
+      "keyframes": [
+        "001873.webp",
+        "001874.webp",
+        "001919.webp",
+        "001965.webp",
+        "001966.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Phần tôm tươi chúng ta sẽ làm tôm cho thật sạch và lấy hết cái phần chỉ lưng đi.",
+      "start": 78.68,
+      "end": 82.88,
+      "n_words": 19,
+      "start_frame": 1967,
+      "end_frame": 2072,
+      "keyframes": [
+        "001980.webp",
+        "001994.webp",
+        "001995.webp",
+        "002051.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và ở đây Phước Hưng băm nhỏ, rồi sẽ bắc lên trên bếp một cái chảo nước để chúng ta trần sơ qua cái phần hàu.",
+      "start": 82.88,
+      "end": 87.92,
+      "n_words": 26,
+      "start_frame": 2072,
+      "end_frame": 2198,
+      "keyframes": [
+        "002107.webp",
+        "002108.webp",
+        "002137.webp",
+        "002166.webp",
+        "002167.webp",
+        "002192.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Trong khi mà chúng ta đang đợi phần nước sôi thì Phước Hưng sẽ hướng dẫn cho quý vị chúng ta pha nước để ăn kèm với món chả giò.",
+      "start": 87.92,
+      "end": 93.52,
+      "n_words": 30,
+      "start_frame": 2198,
+      "end_frame": 2338,
+      "keyframes": [
+        "002217.webp",
+        "002218.webp",
+        "002275.webp",
+        "002332.webp",
+        "002333.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đầu tiên Hưng sẽ cho vào đây hai muỗng canh sốt mayonnaise, một muỗng canh tương ớt, chúng ta sẽ pha với tỷ lệ hai một, đều lên.",
+      "start": 93.52,
+      "end": 101.32,
+      "n_words": 28,
+      "start_frame": 2338,
+      "end_frame": 2533,
+      "keyframes": [
+        "002350.webp",
+        "002367.webp",
+        "002368.webp",
+        "002396.webp",
+        "002425.webp",
+        "002426.webp",
+        "002469.webp",
+        "002513.webp",
+        "002514.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Bây giờ thì phần món sốt của chúng ta cũng đã xong, Phước Hưng sẽ để sang một bên.",
+      "start": 101.32,
+      "end": 105.04,
+      "n_words": 19,
+      "start_frame": 2533,
+      "end_frame": 2626,
+      "keyframes": [
+        "002551.webp",
+        "002589.webp",
+        "002590.webp",
+        "002608.webp",
+        "002626.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Sau khi phần nước cũng đã sôi, quý vị chúng ta sẽ cho gừng đập dập và khoảng hai muỗng canh rượu trắng vào, chúng ta sẽ trần hàu qua phần nước trong đó có rượu và gừng để giúp cho hàu khử được mùi tanh.",
+      "start": 105.04,
+      "end": 114.8,
+      "n_words": 46,
+      "start_frame": 2626,
+      "end_frame": 2870,
+      "keyframes": [
+        "002626.webp",
+        "002627.webp",
+        "002676.webp",
+        "002725.webp",
+        "002726.webp",
+        "002760.webp",
+        "002794.webp",
+        "002795.webp",
+        "002832.webp",
+        "002870.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Hàu là một cái loại hải sản rất là nhanh chín, chúng ta sẽ trần sơ qua thôi.",
+      "start": 114.8,
+      "end": 119.44,
+      "n_words": 18,
+      "start_frame": 2870,
+      "end_frame": 2986,
+      "keyframes": [
+        "002870.webp",
+        "002871.webp",
+        "002899.webp",
+        "002928.webp",
+        "002929.webp",
+        "002956.webp",
+        "002984.webp",
+        "002985.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Và với cái cách mà mình chần như thế này thì mình áp dụng được cho tất cả các loại hải sản khác, đúng không?",
+      "start": 119.44,
+      "end": 124.2,
+      "n_words": 25,
+      "start_frame": 2986,
+      "end_frame": 3105,
+      "keyframes": [
+        "003050.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đúng rồi.",
+      "start": 124.2,
+      "end": 124.64,
+      "n_words": 2,
+      "start_frame": 3105,
+      "end_frame": 3116,
+      "keyframes": [
+        "003116.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rồi bây giờ Phước Hưng sẽ tắt bếp, rồi Phước Hưng sẽ vớt ra.",
+      "start": 124.64,
+      "end": 129.04,
+      "n_words": 14,
+      "start_frame": 3116,
+      "end_frame": 3226,
+      "keyframes": [
+        "003116.webp",
+        "003117.webp",
+        "003154.webp",
+        "003191.webp",
+        "003192.webp",
+        "003204.webp",
+        "003216.webp",
+        "003217.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Rồi bây giờ tất cả các nguyên liệu cũng đã sẵn sàng rồi.",
+      "start": 129.76,
+      "end": 132.76,
+      "n_words": 13,
+      "start_frame": 3244,
+      "end_frame": 3319,
+      "keyframes": [
+        "003258.webp",
+        "003259.webp",
+        "003288.webp",
+        "003317.webp",
+        "003318.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đầu tiên Hưng sẽ cho phần tôm mà chúng ta đã băm nhỏ vào nè, cho phần sả hành, cho hành tây băm vào đây, đầu hành lá băm và lá hành chúng ta cắt nhỏ nè, rồi thì là băm cho vào đây, là một muỗng rưỡi cà phê hạt nêm Aji-ngon heo và một muỗng cà phê tiêu, trộn vô cái phần nhân này đều lại.",
+      "start": 132.76,
+      "end": 151.48,
+      "n_words": 68,
+      "start_frame": 3319,
+      "end_frame": 3787,
+      "keyframes": [
+        "003359.webp",
+        "003400.webp",
+        "003401.webp",
+        "003422.webp",
+        "003444.webp",
+        "003445.webp",
+        "003469.webp",
+        "003494.webp",
+        "003495.webp",
+        "003518.webp",
+        "003541.webp",
+        "003542.webp",
+        "003566.webp",
+        "003590.webp",
+        "003591.webp",
+        "003605.webp",
+        "003619.webp",
+        "003620.webp",
+        "003631.webp",
+        "003642.webp",
+        "003643.webp",
+        "003660.webp",
+        "003678.webp",
+        "003679.webp",
+        "003691.webp",
+        "003704.webp",
+        "003705.webp",
+        "003725.webp",
+        "003745.webp",
+        "003746.webp",
+        "003766.webp",
+        "003786.webp",
+        "003787.webp"
+      ],
+      "keyframe_count": 33
+    },
+    {
+      "text": "Thì bây giờ cuối cùng Phước Hưng sẽ cho cái phần hàu vào.",
+      "start": 151.48,
+      "end": 154.24,
+      "n_words": 13,
+      "start_frame": 3787,
+      "end_frame": 3856,
+      "keyframes": [
+        "003787.webp",
+        "003820.webp",
+        "003854.webp",
+        "003855.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Nếu mà chúng ta cho cái phần hàu vào sớm quá thì chúng ta trộn thì cái phần hàu sẽ bị nát và ra nước, khi ăn thì sẽ không ngon.",
+      "start": 154.24,
+      "end": 161.2,
+      "n_words": 31,
+      "start_frame": 3856,
+      "end_frame": 4030,
+      "keyframes": [
+        "003881.webp",
+        "003907.webp",
+        "003908.webp",
+        "004007.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Công nhận món ăn này thôi thấy nguyên liệu đã thấy hấp dẫn rồi, cái mùi thì là nó bốc lên rất là thơm luôn đó Phước Hưng.",
+      "start": 161.2,
+      "end": 167.52,
+      "n_words": 28,
+      "start_frame": 4030,
+      "end_frame": 4188,
+      "keyframes": [
+        "004106.webp",
+        "004107.webp",
+        "004135.webp",
+        "004163.webp",
+        "004164.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đúng rồi đó.",
+      "start": 167.52,
+      "end": 168.16,
+      "n_words": 3,
+      "start_frame": 4188,
+      "end_frame": 4204,
+      "keyframes": [
+        "004202.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đối với món chả giò ngày hôm nay thì Phước Hưng sẽ cho một ít phần thì là vào trong nhân để giúp cho món ăn có hương vị đặc trưng hơn.",
+      "start": 168.16,
+      "end": 173.92,
+      "n_words": 32,
+      "start_frame": 4204,
+      "end_frame": 4348,
+      "keyframes": [
+        "004241.webp",
+        "004242.webp",
+        "004296.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Sẽ đánh cái phần trứng gà này để chúng ta dán cái phần mép của chả giò thì khi chiên chả giò sẽ không có bị bung ra.",
+      "start": 173.92,
+      "end": 178.96,
+      "n_words": 28,
+      "start_frame": 4348,
+      "end_frame": 4474,
+      "keyframes": [
+        "004351.webp",
+        "004352.webp",
+        "004373.webp",
+        "004395.webp",
+        "004396.webp",
+        "004418.webp",
+        "004441.webp",
+        "004442.webp",
+        "004457.webp",
+        "004473.webp",
+        "004474.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Chúng ta sẽ cuốn chả giò, chúng ta sẽ dùng bánh đa nem tươi nè, múc phần nhân vào cuốn lại, dùng trứng chúng ta sẽ phết, sẽ để qua đây một cuốn đầu tiên, tiếp tục cuốn thứ hai. Hai.",
+      "start": 178.96,
+      "end": 197.08,
+      "n_words": 41,
+      "start_frame": 4474,
+      "end_frame": 4927,
+      "keyframes": [
+        "004474.webp",
+        "004487.webp",
+        "004500.webp",
+        "004501.webp",
+        "004521.webp",
+        "004541.webp",
+        "004542.webp",
+        "004569.webp",
+        "004597.webp",
+        "004598.webp",
+        "004610.webp",
+        "004622.webp",
+        "004623.webp",
+        "004635.webp",
+        "004648.webp",
+        "004649.webp",
+        "004679.webp",
+        "004709.webp",
+        "004710.webp",
+        "004754.webp",
+        "004799.webp",
+        "004800.webp",
+        "004823.webp",
+        "004846.webp",
+        "004847.webp",
+        "004888.webp"
+      ],
+      "keyframe_count": 26
+    },
+    {
+      "text": "Trời ơi đầu bếp của chúng ta khéo tay quá, không biết là mình có bí quyết gì để cuốn chả giò cái nào cũng đều như cái máy không?",
+      "start": 197.08,
+      "end": 202.64,
+      "n_words": 30,
+      "start_frame": 4927,
+      "end_frame": 5066,
+      "keyframes": [
+        "004930.webp",
+        "004931.webp",
+        "004943.webp",
+        "004955.webp",
+        "004956.webp",
+        "004984.webp",
+        "005012.webp",
+        "005013.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta múc nhân cho đều tay thì cái cuốn chả giò nó cũng sẽ đều.",
+      "start": 202.64,
+      "end": 205.84,
+      "n_words": 16,
+      "start_frame": 5066,
+      "end_frame": 5146,
+      "keyframes": [
+        "005079.webp",
+        "005145.webp",
+        "005146.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ thì phần cuốn chả giò cũng đã sắp xong rồi, Hưng nhờ anh Hà giúp giùm cho Hưng bắt một cái chảo dầu lên trên bếp để cho dầu nóng là vừa rồi.",
+      "start": 205.84,
+      "end": 212.8,
+      "n_words": 35,
+      "start_frame": 5146,
+      "end_frame": 5320,
+      "keyframes": [
+        "005146.webp",
+        "005160.webp",
+        "005175.webp",
+        "005176.webp",
+        "005188.webp",
+        "005200.webp",
+        "005201.webp",
+        "005214.webp",
+        "005228.webp",
+        "005229.webp",
+        "005240.webp",
+        "005251.webp",
+        "005252.webp",
+        "005269.webp",
+        "005286.webp",
+        "005287.webp",
+        "005304.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Phần dầu cũng đã nóng, Phước Hưng sẽ sắp cái chả giò lên trên cái cây vợt này, chúng ta sẽ thả chả giò vào.",
+      "start": 212.8,
+      "end": 217.6,
+      "n_words": 25,
+      "start_frame": 5320,
+      "end_frame": 5440,
+      "keyframes": [
+        "005322.webp",
+        "005323.webp",
+        "005346.webp",
+        "005369.webp",
+        "005370.webp",
+        "005390.webp",
+        "005411.webp",
+        "005412.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Sau khi mà quý vị chúng ta cho chả giò vào trong chảo nóng rồi thì chúng ta sẽ chiên với lửa vừa và chúng ta dùng đũa chúng ta sẽ khuấy đều cái phần chả giò này thì phần chả giò này nó sẽ vàng đều, chứ chúng ta đừng có dùng đũa chúng ta sẽ lật từng bề mặt của chả giò này nó sẽ không đẹp.",
+      "start": 217.6,
+      "end": 230.8,
+      "n_words": 69,
+      "start_frame": 5440,
+      "end_frame": 5770,
+      "keyframes": [
+        "005447.webp",
+        "005482.webp",
+        "005483.webp",
+        "005516.webp",
+        "005549.webp",
+        "005550.webp",
+        "005660.webp",
+        "005770.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Bây giờ thì phần chả giò cũng đã bắt đầu vàng tới rồi, Phước Hưng sẽ tăng lửa lên để cho cái phần dầu ở trong phần nhân đẩy ra và cái chả giò của mình sẽ giòn hơn.",
+      "start": 230.8,
+      "end": 238.64,
+      "n_words": 39,
+      "start_frame": 5770,
+      "end_frame": 5966,
+      "keyframes": [
+        "005770.webp",
+        "005771.webp",
+        "005869.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tắt bếp nè, chúng ta sẽ vớt ra, chúng ta sẽ cho qua một cái giấy thấm dầu.",
+      "start": 238.64,
+      "end": 245.28,
+      "n_words": 18,
+      "start_frame": 5966,
+      "end_frame": 6132,
+      "keyframes": [
+        "005968.webp",
+        "005969.webp",
+        "005987.webp",
+        "006006.webp",
+        "006007.webp",
+        "006032.webp",
+        "006057.webp",
+        "006058.webp",
+        "006072.webp",
+        "006086.webp",
+        "006087.webp",
+        "006111.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Bây giờ Hưng sẽ cho chả giò vào nè.",
+      "start": 245.28,
+      "end": 247.96,
+      "n_words": 9,
+      "start_frame": 6132,
+      "end_frame": 6199,
+      "keyframes": [
+        "006136.webp",
+        "006137.webp",
+        "006187.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Wow, rất là giòn đúng không?",
+      "start": 247.96,
+      "end": 249.52,
+      "n_words": 6,
+      "start_frame": 6199,
+      "end_frame": 6238,
+      "keyframes": [
+        "006238.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cắt xéo một cái cuốn chả giò để chúng ta trình bày lên mặt nè.",
+      "start": 249.52,
+      "end": 252.6,
+      "n_words": 15,
+      "start_frame": 6238,
+      "end_frame": 6315,
+      "keyframes": [
+        "006238.webp",
+        "006239.webp",
+        "006253.webp",
+        "006268.webp",
+        "006269.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Wow, nhìn cái cuốn chả giò nhân màu sắc thật là đẹp.",
+      "start": 252.6,
+      "end": 255.56,
+      "n_words": 12,
+      "start_frame": 6315,
+      "end_frame": 6389,
+      "keyframes": [
+        "006332.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trời ơi ngon quá, không biết mình có được nếm thử không ta?",
+      "start": 255.56,
+      "end": 258.6,
+      "n_words": 13,
+      "start_frame": 6389,
+      "end_frame": 6465,
+      "keyframes": [
+        "006396.webp",
+        "006397.webp",
+        "006430.webp",
+        "006463.webp",
+        "006464.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đây Phước Hưng sẽ cho một cuốn.",
+      "start": 258.6,
+      "end": 260.16,
+      "n_words": 7,
+      "start_frame": 6465,
+      "end_frame": 6504,
+      "keyframes": [
+        "006503.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trời ơi đầu bếp tốt bụng quá!",
+      "start": 260.16,
+      "end": 266.56,
+      "n_words": 7,
+      "start_frame": 6504,
+      "end_frame": 6664,
+      "keyframes": [
+        "006543.webp",
+        "006544.webp",
+        "006606.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cái mùi của thì là nó rất là lạ, rất là hợp với tôm với lại nhân hàu mà còn có cái lớp vỏ giòn giòn nữa, không những là các bé nhỏ mà bé Hà này cũng thích đó.",
+      "start": 266.56,
+      "end": 276.88,
+      "n_words": 40,
+      "start_frame": 6664,
+      "end_frame": 6922,
+      "keyframes": [
+        "006669.webp",
+        "006670.webp",
+        "006754.webp",
+        "006838.webp",
+        "006839.webp",
+        "006878.webp",
+        "006918.webp",
+        "006919.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Cuốn chả giò giòn bên ngoài, mềm mềm của nhân hải sản, đặc biệt độc lạ với hương vị ngọt tận chân răng của hàu tươi lẫn hương thơm của thì là, lạ mà ngon.",
+      "start": 276.88,
+      "end": 288.6,
+      "n_words": 35,
+      "start_frame": 6922,
+      "end_frame": 7215,
+      "keyframes": [
+        "006951.webp",
+        "006984.webp",
+        "006985.webp",
+        "007021.webp",
+        "007057.webp",
+        "007058.webp",
+        "007137.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Chả giò với hàu thơm ngon nhất nhì như thế này hẳn sẽ chiều lòng được các thực khách nhỏ tuổi.",
+      "start": 288.6,
+      "end": 293.2,
+      "n_words": 21,
+      "start_frame": 7215,
+      "end_frame": 7330,
+      "keyframes": [
+        "007217.webp",
+        "007218.webp",
+        "007306.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Còn chần chừ gì mà không lặn vào bếp ngay!",
+      "start": 293.2,
+      "end": 296.48,
+      "n_words": 10,
+      "start_frame": 7330,
+      "end_frame": 7412,
+      "keyframes": [
+        "007394.webp",
+        "007395.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+1
+00:00:00,000 --> 00:00:09,440
+Và rất vui gặp lại các em trong chương trình ôn tập chuẩn bị cho kỳ thi trung học phổ thông năm 2024 do báo Thanh Niên tổ chức.
+
+2
+00:00:09,440 --> 00:00:18,840
+Hôm nay thầy sẽ hướng dẫn các em chuyên đề thứ tư, đó là xác định số loại kiểu gen tối đa của cơ thể lưỡng bội.
+
+3
+00:00:18,840 --> 00:00:30,800
+Thầy lấy ví dụ 2n = 8, tức là có bốn cặp nhiễm sắc thể tương đồng và cặp nhiễm sắc thể này thầy ký hiệu là X, tức là gồm có hai chiếc giống nhau.
+
+4
+00:00:30,800 --> 00:00:46,040
+Và trên một cặp nhiễm sắc thể thường thầy xét một gen có hai alen là A lớn và a nhỏ thì số loại kiểu gen là ba, bao gồm AA và aa là kiểu gen đồng hợp, và Aa là kiểu gen dị hợp.
+
+5
+00:00:46,040 --> 00:01:17,000
+Và mở rộng ra, nếu như mà một gen có n alen trên một cặp nhiễm sắc thể thường thì số loại kiểu gen sẽ là n đồng hợp, còn kiểu gen dị hợp thì em chỉ cần chọn ngẫu nhiên hai alen trong n alen không theo trật tự, tức là tổ hợp chập hai của n; Và em khai triển biểu thức này ra thì các em sẽ được một công thức rất là quen thuộc đó là n nhân cho n cộng một tất cả chia cho hai.
+
+6
+00:01:17,000 --> 00:01:35,320
+Và nếu như thầy xét một gen thứ hai hoặc là thầy xét thêm nhiều gen nữa nằm trên cùng một cặp nhiễm sắc thể thường, lúc đó các em thấy n này chính là số loại giao tử được tạo ra của cặp nhiễm sắc thể có hai chiếc này.
+
+7
+00:01:35,320 --> 00:01:53,440
+Cho nên khi mà mình xét nhiều gen nằm trên cùng một cặp nhiễm sắc thể thì các em cứ áp dụng công thức này nhưng mà n sẽ là số loại giao tử, và số loại giao tử sẽ được tính bằng cách nhân số lượng alen của các gen này lại thì chúng ta sẽ được n.
+
+8
+00:01:53,440 --> 00:02:06,520
+Cụ thể trong trường hợp này số loại giao tử sẽ là 2 nhân 2 là 4, và số loại kiểu gen sẽ là 4 cộng cho tổ hợp chập hai của 4 là 10.
+
+9
+00:02:06,520 --> 00:02:12,760
+Và em lưu ý là nếu như alen trội là hoàn toàn, số loại kiểu hình sẽ bằng số lượng alen.
+
+10
+00:02:12,760 --> 00:02:20,560
+Ví dụ như trong trường hợp này A lớn trội hoàn toàn a nhỏ thì chúng ta có hai loại kiểu hình đó là kiểu hình của A trội và kiểu hình của a lặn.
+
+11
+00:02:20,560 --> 00:02:30,600
+Tương tự ở đây B lớn trội hoàn toàn b nhỏ thì chúng ta có hai loại kiểu hình đó là kiểu hình của B lớn và kiểu hình của b nhỏ.
+
+12
+00:02:30,600 --> 00:02:49,240
+Và nếu như chúng ta xét đồng thời cả hai gen này, số loại kiểu hình chúng ta chỉ cần nhân lại, tức là có bốn loại kiểu hình đó là kiểu hình của A trội B trội, kiểu hình của A trội b lặn, kiểu hình của a lặn B trội và kiểu hình của a lặn b lặn.
+
+13
+00:02:49,240 --> 00:02:55,120
+Để có được thành công như hôm nay, tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình.
+
+14
+00:02:55,120 --> 00:03:08,720
+Ước mơ của mình bắt đầu từ trường Đại học Quốc tế Sài Gòn SIU, đào tạo đa dạng đa lĩnh vực, SIU mở ra cho chúng tôi nhiều cơ hội lựa chọn nghề nghiệp trong tương lai.
+
+15
+00:03:13,760 --> 00:03:22,120
+Được khuyến khích và phát huy tối đa, chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin, chúng tôi được học cách học, cách nghĩ và cách sống.
+
+16
+00:03:22,120 --> 00:03:29,200
+Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.
+
+17
+00:03:29,200 --> 00:03:39,760
+Hiện đại, năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc, đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn SIU luôn hướng đến.
+
+18
+00:03:39,760 --> 00:03:50,240
+Đã đến lúc vươn xa hơn những gì đã học.
+
+19
+00:03:50,240 --> 00:04:08,120
+Còn nếu như gen nằm trên vùng không tương đồng của những nhiễm sắc thể X, thì vùng không tương đồng của nhiễm sắc thể X tức là chỉ trên nhiễm sắc thể X mới mang gen đó, còn trên nhiễm sắc thể Y thì không mang gen này thì gọi là trên vùng không tương đồng của X.
+
+20
+00:04:08,120 --> 00:04:19,200
+Bây giờ thầy xét một gen có hai alen là A lớn và a nhỏ trên vùng không tương đồng của nhiễm sắc thể X, lúc đó chúng ta cũng tính thông qua số loại giao tử.
+
+21
+00:04:19,200 --> 00:04:39,800
+Số loại giao tử X là hai, đó là $X^A$ và $X^a$, cho nên số loại kiểu gen XX là cặp tương đồng cho nên chúng ta sẽ áp dụng giống như là trên cặp nhiễm sắc thể thường, tức là 2 tổ hợp chập hai của hai là bằng 3.
+
+22
+00:04:39,800 --> 00:04:47,880
+Số loại giao tử Y là một, đó là chỉ có một loại giao tử Y do gen nằm trên vùng không tương đồng của nhiễm sắc thể X.
+
+23
+00:04:47,880 --> 00:05:00,720
+Số loại kiểu gen XY được tính bằng công thức đó, bằng công thức đó là bằng số loại giao tử X nhân cho số loại giao tử Y, cụ thể trong trường hợp này sẽ là 2 nhân cho 1 bằng 2.
+
+24
+00:05:00,720 --> 00:05:06,880
+Cho nên tổng kiểu gen nó chỉ cần cộng lại thì sẽ ra được là 5.
+
+25
+00:05:06,880 --> 00:05:18,680
+Và mở rộng ra nếu như mà một locus có n alen nằm trên vùng không tương đồng của nhiễm sắc thể X, lúc đó số loại giao tử X sẽ là n, số loại giao tử Y là 1.
+
+26
+00:05:18,680 --> 00:05:33,680
+Số loại kiểu gen XX sẽ là n + tổ hợp chập hai của n, còn số loại kiểu gen XY sẽ bằng số loại giao tử X tức là bằng n nhân cho số loại giao tử Y tức là bằng 1, thì số loại kiểu gen XY sẽ bằng n.
+
+27
+00:05:33,680 --> 00:05:42,080
+Và đem cộng lại thì tổng số loại kiểu gen sẽ là n + tổ hợp chập hai của n.
+
+28
+00:05:42,080 --> 00:06:25,720
+Tương tự như vậy, nếu như xét gen nằm trên vùng tương đồng của X và Y, gen nằm trên vùng tương đồng của X và Y tức là số loại giao tử X sẽ là 2, nhưng mà lúc này số loại giao tử Y sẽ là 2 bởi vì gen nằm trên vùng tương đồng thì có cả trên cả nhiễm sắc thể Y, cho nên số loại giao tử Y sẽ là 2 bao gồm Y D lớn và Y D nhỏ.
+
+29
+00:06:25,720 --> 00:06:40,040
+Và số loại giao tử X, số loại kiểu gen XY, chúng ta áp dụng công thức là số loại giao tử X nhân cho số loại giao tử Y, thì trong trường hợp này số loại kiểu gen XY sẽ bằng 4, tổng sẽ là bằng 7.
+
+30
+00:06:40,040 --> 00:07:01,120
+Và mở rộng ra khi mà xét một locus có n alen, số loại kiểu gen XX sẽ bằng n cộng cho tổ hợp chập hai của n, và số loại kiểu gen XY thì sẽ bằng n nhân cho n, tức là bằng n bình phương, và tổng kiểu gen thì chúng ta chỉ cần cộng lại.
+
+31
+00:07:01,120 --> 00:07:15,040
+Trên vùng không tương đồng của nhiễm sắc thể Y, tức là gen này chỉ nằm trên nhiễm sắc thể Y mà không có alen tương ứng trên nhiễm sắc thể X thì chúng ta hình thành công thức tương tự.
+
+32
+00:07:15,040 --> 00:07:36,160
+Lúc đó số loại giao tử Y sẽ là 2, đó là Y D lớn và Y D nhỏ, và số loại giao tử X chỉ có 1, số loại kiểu gen X chỉ có 1 và kiểu gen này sẽ không mang được gen đang xét, còn số loại kiểu gen XY là 2.
+
+33
+00:07:36,160 --> 00:07:56,840
+Và mở rộng ra nếu như mà một locus có n alen nằm trên vùng không tương đồng của nhiễm sắc thể Y, lúc đó số loại kiểu gen XY sẽ là n, còn kiểu gen XX sẽ không mang được alen tương ứng của gen này cho nên chỉ có một loại kiểu gen XX mà thôi.
+
+34
+00:07:56,840 --> 00:08:07,240
+Về số phép lai tối đa, thầy gọi k là số loại kiểu gen tối đa có thể được hình thành từ một cặp nhiễm sắc thể.
+
+35
+00:08:07,240 --> 00:08:17,840
+Nếu cặp nhiễm sắc thể này là cặp nhiễm sắc thể thường thì số loại kiểu gen k sẽ bằng n cộng cho tổ hợp chập hai của n, giống như lúc nãy thầy đã phân tích với các em.
+
+36
+00:08:17,840 --> 00:08:39,920
+Và số phép lai thì trong k loại kiểu gen này, các em thấy là sẽ có hai trường hợp để thực hiện phép lai: thứ nhất là cả hai cơ thể đem lai đều có kiểu gen giống nhau thì chúng ta sẽ có k trường hợp; Trường hợp thứ hai là nếu như không phân biệt vai trò của bố và mẹ thì lúc đó chúng ta chỉ cần chọn ngẫu nhiên hai loại kiểu gen trong k.
+
+37
+00:08:41,160 --> 00:08:50,160
+Theo tổ hợp thì chúng ta sẽ được phép lai giữa hai cơ thể có kiểu gen khác nhau, tức là số loại kiểu gen lúc đó sẽ là tổ hợp chập hai của k.
+
+38
+00:08:50,160 --> 00:08:56,520
+Cho nên số phép lai tối đa sẽ là k cộng cho tổ hợp chập hai của k.
+
+39
+00:08:56,520 --> 00:09:05,840
+Nhưng nếu gen nằm trên nhiễm sắc thể giới tính thì ở đây có ba trường hợp như trên màn hình mấy em thấy.
+
+40
+00:09:05,840 --> 00:09:15,720
+Lúc đó số phép lai tối đa mấy em sẽ áp dụng công thức bằng số loại kiểu gen X nhân cho số loại kiểu gen XY.
+
+41
+00:09:16,720 --> 00:09:24,160
+Loại kiểu gen X và số loại kiểu gen XY mấy em đã biết, thầy em chỉ cần nhân lại thì sẽ ra được số phép lai tối đa.
+
+42
+00:09:24,160 --> 00:09:28,400
+Đây là một số công thức thường gặp trong đề thi trung học phổ thông.
+
+43
+00:09:28,400 --> 00:09:34,640
+Bây giờ thầy hướng dẫn các em một số câu trong đề thi các năm qua.
+
+44
+00:09:34,640 --> 00:09:51,320
+Câu thứ nhất trong đề thi năm 2021, quần thể thú ngẫu phối, xét bốn gen: gen 1 và gen 2 cùng nằm trên một cặp nhiễm sắc thể thường, gen 3 và gen 4 cùng nằm ở vùng không tương đồng của nhiễm sắc thể X.
+
+45
+00:09:51,320 --> 00:10:09,240
+Cho biết quần thể này có tối đa 6 loại giao tử thuộc gen 1 và gen 2, 5 loại tinh trùng thuộc gen 3 và gen 4, trong đó có cả tinh trùng mang nhiễm sắc thể X và tinh trùng mang nhiễm sắc thể Y thì theo lý thuyết sẽ tạo ra được tối đa bao nhiêu loại kiểu gen về các gen đang xét?
+
+46
+00:10:09,240 --> 00:10:19,360
+Bây giờ thầy ký hiệu trên màn hình cho mấy em thấy hai cặp nhiễm sắc thể này và đề đã cho mấy em biết là trên cặp nhiễm sắc thể thường tạo ra 6 loại giao tử.
+
+47
+00:10:19,360 --> 00:10:26,240
+Thầy, các em chỉ cần áp dụng công thức với n bằng 6, bởi vì trong công thức đó n chính là số loại giao tử.
+
+48
+00:10:26,240 --> 00:10:39,000
+Giống như lúc nãy thầy đã phân tích, trong câu này cặp nhiễm sắc thể thường tạo ra 6 loại giao tử, cho nên trên cặp nhiễm sắc thể thường tạo ra số loại kiểu gen tối đa là 6 cộng cho tổ hợp chập hai của 6, tức là bằng 21 loại.
+
+49
+00:10:39,000 --> 00:10:40,960
+21 loại kiểu gen.
+
+50
+00:10:40,960 --> 00:11:00,800
+Còn trên cặp nhiễm sắc thể XY, hai gen 3 và 4 nằm trên vùng không tương đồng của nhiễm sắc thể X, nằm ở vùng không tương đồng của nhiễm sắc thể X và cho ra tối đa 5 loại tinh trùng, trong đó có cả tinh trùng mang nhiễm sắc thể X và tinh trùng mang nhiễm sắc thể Y.
+
+51
+00:11:00,800 --> 00:11:24,440
+Cho nên tinh trùng mang nhiễm sắc thể Y chỉ có một loại, và chúng ta lấy 5 trừ 1 thì sẽ ra được 4 loại tinh trùng mang nhiễm sắc thể X, và ta đã phân tích và tổng số gen sẽ là 14.
+
+52
+00:11:25,080 --> 00:11:30,040
+Đề yêu cầu chúng ta tính trong quần thể này có tối đa bao nhiêu loại kiểu gen.
+
+53
+00:11:31,600 --> 00:11:36,800
+Khi chúng ta xét riêng từng cặp nhiễm sắc thể, muốn xét chung thì chúng ta sẽ nhân kết quả lại mà thôi.
+
+54
+00:11:36,800 --> 00:11:52,560
+Tức là chúng ta sẽ lấy 21 là trên cặp nhiễm sắc thể thường và 14 là trên cặp nhiễm sắc thể giới tính, chúng ta nhân lại thì sẽ có tối đa là 14 nhân cho 21 bằng 294 loại kiểu gen.
+
+55
+00:11:52,560 --> 00:11:58,240
+Chúng ta chọn đáp án là B.
+
+56
+00:11:58,240 --> 00:12:08,840
+Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.
+
+57
+00:12:08,840 --> 00:12:16,480
+Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện, cân bằng giữa học thuật và nghệ thuật, thể thao.
+
+58
+00:12:16,480 --> 00:12:27,120
+Hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, thêm nguồn cảm hứng độc lập để phát triển và hoàn thiện nhân cách.
+
+59
+00:12:27,120 --> 00:12:46,520
+Ngoài những giờ học trên lớp, học sinh Trường Quốc tế Á Châu còn được trải nghiệm thử thách bản thân và phản biện các vấn đề để tự mình học hỏi trưởng thành, độc lập hơn.
+
+60
+00:12:46,520 --> 00:13:02,760
+Nơi đây với tôi còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.
+
+61
+00:13:02,760 --> 00:13:07,840
+Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là cuộc sống.
+
+62
+00:13:07,840 --> 00:13:21,720
+Từ môi trường giáo dục này, chúng tôi đã tự tin bước tiếp và viết nên câu chuyện tương lai của chính mình.
+
+63
+00:13:21,720 --> 00:13:24,680
+Bây giờ chúng ta qua một câu trong đề thi năm 2022.
+
+64
+00:13:27,760 --> 00:13:32,760
+Ở một loài động vật xét 2 gen phân ly độc lập, mỗi gen quy định một tính trạng.
+
+65
+00:13:32,760 --> 00:13:38,240
+Các alen là hoàn toàn trội và cả hai gen đều biểu hiện ở cả hai giới.
+
+66
+00:13:38,240 --> 00:13:41,840
+Cho biết ở loài này có cặp nhiễm sắc thể giới tính là XX và XY.
+
+67
+00:13:42,560 --> 00:13:53,760
+Đề chỉ nói chung chung là ở loài này có cặp nhiễm sắc thể giới tính là X và XY, cho nên chúng ta cần phải xác định đó là con đực sẽ là cặp X hay là cặp XY.
+
+68
+00:13:53,760 --> 00:14:00,880
+Nếu không xét tính đực và tính cái thì trong quần thể có tối đa 6 loại kiểu hình về 2 tính trạng này.
+
+69
+00:14:00,880 --> 00:14:04,960
+Số loại kiểu gen ở con đực gấp 2 lần số loại của con cái.
+
+70
+00:14:04,960 --> 00:14:06,800
+Đây là thông tin rất là quan trọng.
+
+71
+00:14:12,920 --> 00:14:25,440
+Thứ nhất, nếu như đề cho mình là nếu không xét tính đực và tính cái thì quần thể có tối đa là 6 loại kiểu hình về hai tính trạng này.
+
+72
+00:14:25,440 --> 00:14:31,280
+Đề đã cho các em là alen trội là hoàn toàn cho nên số loại kiểu hình sẽ bằng số lượng alen.
+
+73
+00:14:31,280 --> 00:14:45,680
+Có 6 loại kiểu hình, với hai gen, lúc đó 6 loại kiểu hình này thì có thể là một gen có 6 alen, một gen có 1 alen; 6 nhân 1 là 6, hoặc là một gen có 3 alen và một gen có 2 alen.
+
+74
+00:14:47,520 --> 00:14:53,680
+Thông tin thứ hai là đề cho mình số loại kiểu gen ở giới đực gấp 2 lần số loại kiểu gen ở giới cái.
+
+75
+00:14:53,680 --> 00:15:03,200
+Thông tin này sẽ giúp mình xác định được là sẽ có một gen nằm trên nhiễm sắc thể giới tính, bởi vì đề đã cho mình biết là hai gen phân ly độc lập.
+
+76
+00:15:03,200 --> 00:15:12,440
+Nếu như hai gen này nằm trên hai cặp nhiễm sắc thể thường khác nhau thì số loại kiểu gen của giới đực và giới cái sẽ giống nhau bởi vì đó là gen nằm trên cặp nhiễm sắc thể thường.
+
+77
+00:15:12,440 --> 00:15:20,320
+Ở đây mấy em thấy là số loại kiểu gen của giới đực và giới cái khác nhau cho nên sẽ có một gen nằm trên cặp nhiễm sắc thể giới tính.
+
+78
+00:15:20,320 --> 00:15:39,960
+Và đề cho mình là cả hai gen này biểu hiện ở cả hai giới, cho nên gen nằm trên nhiễm sắc thể giới tính sẽ không thể nào nằm trên vùng không tương đồng của nhiễm sắc thể Y, vì nếu như mà gen nằm trên vùng không tương đồng của nhiễm sắc thể Y thì gen đó chỉ biểu hiện được ở giới XY mà thôi.
+
+79
+00:15:39,960 --> 00:15:51,880
+Vì vậy trong câu này, từ những thông tin đề cho, chúng ta sẽ xác định được là một gen nằm trên nhiễm sắc thể thường và một gen nằm trên nhiễm sắc thể giới tính.
+
+80
+00:15:51,880 --> 00:16:09,360
+Và gen nằm trên nhiễm sắc thể giới tính thì có thể nằm ở vùng không tương đồng của nhiễm sắc thể X, và nằm ở vùng không tương đồng của nhiễm sắc thể X thì mới có thể biểu hiện được ở cả hai giới, hoặc là gen đó nằm ở vùng tương đồng của nhiễm sắc thể X và Y.
+
+81
+00:16:09,360 --> 00:16:49,360
+Lúc này các em chỉ cần nhớ công thức xác định số loại kiểu gen khi mà gen nằm trên vùng không tương đồng nhiễm sắc thể X hoặc là trên vùng tương đồng của nhiễm sắc thể X và Y với n, ở đây các em có tất cả là 4 trường hợp số lượng alen có thể là 6, có thể là 1, có thể là 2 hoặc có thể là 3 thì các em sẽ thế n = 2, = 3 hoặc là = 6 vào hai công thức này, còn khi mà n = 1.
+
+82
+00:16:56,360 --> 00:17:03,040
+Có kiểu gen dị hợp này xuất hiện, cho nên tức là số loại kiểu gen dị hợp này sẽ = 0.
+
+83
+00:17:03,040 --> 00:17:14,640
+Vì vậy mà lúc đó nếu như n = 1 thì em sẽ dễ dàng thấy số loại kiểu gen XY và số loại kiểu gen XX sẽ bằng nhau và bằng 1, tức là không thỏa mãn yêu cầu của đề bài.
+
+84
+00:17:14,640 --> 00:17:30,000
+Cho nên lúc này các em chỉ cần bấm máy nhanh với n = 2 hoặc = 3 hoặc = 6 tùy trường hợp nào sẽ làm cho số loại kiểu gen ở đực gấp đôi so với số loại kiểu gen ở cái.
+
+85
+00:17:30,000 --> 00:17:48,640
+Nhận xét nhanh là nếu như n = 3 thì lúc đó, và nếu như mà gen này nằm trên vùng không tương đồng của nhiễm sắc thể X, thì lúc đó số loại kiểu gen XY sẽ = 3, số loại kiểu gen XX sẽ = 3 cộng cho tổ hợp chập hai của 3, tức là = 6.
+
+86
+00:17:48,640 --> 00:18:06,560
+Như vậy đã có hiện tượng gấp đôi và theo đề là số loại kiểu gen ở con đực gấp đôi ở con cái, cho nên từ đó mình thấy rằng kiểu gen XX gấp đôi so với XY, cho nên con đực ở đây sẽ là sẽ có cặp nhiễm sắc thể là XY còn con cái có cặp nhiễm sắc thể là XX.
+
+87
+00:18:08,680 --> 00:18:26,320
+Từ nhận xét đó các em sẽ thấy là sẽ có hai gen mà có hai alen sẽ nằm trên nhiễm sắc thể thường và gen có ba alen nằm trên vùng không tương đồng của nhiễm sắc thể X, và lúc đó con đực đó con đực sẽ là XY và con cái sẽ là XX.
+
+88
+00:18:28,480 --> 00:18:59,760
+Sau khi chúng ta phân tích được các dữ kiện đề cho thì chúng ta sẽ phân tích vào các biểu mà có ba alen nằm trên vùng không tương đồng của X thì số loại giao tử X sẽ là = 3, số loại giao tử Y sẽ = 1.
+
+89
+00:18:59,760 --> 00:19:13,480
+Cho nên cơ thể X sẽ cho chúng ta 3 loại giao tử, còn cơ thể XY sẽ cho chúng ta 4 loại giao tử thì em chỉ cần cộng lại.
+
+90
+00:19:13,480 --> 00:19:39,320
+Cho nên trong quần thể số loại giao tử cái sẽ nhiều hơn số loại giao tử đực, phát biểu này là đúng, này là đúng trong câu này bởi vì bốn phát biểu là khác nhau, cho nên khi mà mấy em thấy phát biểu A là đúng thì chúng ta sẽ chọn ngay đáp án là A mà không cần phải phân tích tiếp.
+
+91
+00:19:39,320 --> 00:19:47,280
+Nhưng mà bây giờ thầy phân tích cho các em tại sao ba phát biểu B, C lại bị sai.
+
+92
+00:19:47,280 --> 00:20:08,760
+Đề phát biểu câu B đó là trong quần thể có tối đa 378 kiểu phép lai về hai gen trên để số loại của gen X trên nhiễm sắc thể thường.
+
+93
+00:20:08,760 --> 00:20:18,720
+Gen có hai alen cho nên sẽ cho mình hai loại giao tử và số loại kiểu gen trên cặp nhiễm sắc thể thường này sẽ là ba.
+
+94
+00:20:18,720 --> 00:20:28,800
+Còn trên cặp nhiễm sắc thể giới tính có ba loại giao tử X, cho nên sẽ có sáu loại kiểu gen X.
+
+95
+00:20:28,800 --> 00:20:40,240
+Và cho nên khi mà xét đồng thời cả hai nhiễm sắc thể này thì số loại kiểu gen X sẽ là 3 nhân cho 6 bằng 18 loại kiểu gen.
+
+96
+00:20:40,240 --> 00:20:45,680
+Và số loại giao tử Y là bằng 1, cho nên số loại kiểu gen XY sẽ bằng 3.
+
+97
+00:20:45,680 --> 00:20:45,680
+3.
+
+98
+00:20:45,680 --> 00:20:58,480
+Và xét đồng thời cả hai cặp nhiễm sắc thể này thì số loại của kiểu gen XY sẽ bằng 3 nhân 3 là 9 loại kiểu gen.
+
+99
+00:20:58,480 --> 00:21:07,640
+Và ở đây người ta hỏi mình là số phép lai, số kiểu lai thì sẽ bằng số loại kiểu gen X nhân cho số loại kiểu gen XY.
+
+100
+00:21:08,000 --> 00:21:16,800
+Các em nhân lại thì sẽ được 162 phép lai chứ không phải là 378, cho nên câu B này là chưa chính xác.
+
+101
+00:21:16,800 --> 00:21:20,520
+Câu C: hai gen này nằm trên hai cặp nhiễm sắc thể thường khác nhau.
+
+102
+00:21:20,520 --> 00:21:33,280
+Câu này mấy em khỏi cần phân tích cũng biết được đó là sai, bởi vì đề đã cho mình số loại của gen ở đực khác với số loại của gen ở cái nên sẽ có một gen nằm trên nhiễm sắc thể giới tính.
+
+103
+00:21:33,280 --> 00:21:38,560
+Câu D: một cơ thể giảm phân tạo ra tối đa 8 loại giao tử về hai gen.
+
+104
+00:21:39,520 --> 00:21:54,320
+Một số bạn nhận xét là ở nhiễm sắc thể thường thì sẽ cho ra hai loại giao tử, còn trên nhiễm sắc thể XY thì cho ra bốn loại giao tử, cho nên tối đa sẽ là 4 nhân 2 là 8.
+
+105
+00:21:54,320 --> 00:22:03,800
+Nhưng mà em lưu ý ở đây là mình đang áp dụng công thức, tức là chúng ta đang tính số loại giao tử hay là số loại của gen tối đa trong một quần thể.
+
+106
+00:22:03,800 --> 00:22:07,480
+Còn trong câu này người ta đang hỏi mình một cá thể.
+
+107
+00:22:07,480 --> 00:22:16,120
+Một cá thể sẽ có một kiểu gen xác định và để xác định số loại giao tử tối đa thì chúng ta sẽ xét kiểu gen dị hợp.
+
+108
+00:22:16,120 --> 00:22:25,200
+Và cho dù kiểu gen dị hợp như trên màn hình, mấy em thấy lúc này chỉ cho mình tối đa có bốn loại giao tử mà thôi chứ không phải là tám.
+
+109
+00:22:25,200 --> 00:22:28,600
+Vì vậy câu D là không chính xác.
+
+110
+00:22:28,600 --> 00:22:37,600
+Đây là một số vấn đề thầy muốn trao đổi với em về cách xác định số loại kiểu gen và số phép lai trong bài tập trong đề thi của trung học phổ thông.
+
+111
+00:22:37,600 --> 00:22:39,960
+Cảm ơn các em đã dành thời gian theo dõi.
+
+112
+00:22:39,960 --> 00:22:44,800
+Chúc các em đạt kết quả cao trong kỳ thi sắp tới.
+
+113
+00:22:44,800 --> 00:22:46,440
+Chào các em.
+
+114
+00:22:46,440 --> 00:22:57,400
+Trường Đại học Quốc tế Sài Gòn SIU không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SIU nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt.
+
+115
+00:22:57,400 --> 00:23:08,160
+Việc mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.
+
+116
+00:23:08,160 --> 00:23:16,760
+Năm 2024, SIU tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng bốn phương thức tuyển sinh.
+
+117
+00:23:16,760 --> 00:23:43,280
+SIU cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SIU, 100 suất học bổng Tiếp bước hành trình Quỹ Tài năng trẻ, học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa, thể thao, nghệ thuật, học bổng Đồng hành xây dựng nhân lực chất lượng cao cho thành phố Thủ Đức, thành phố Hồ Chí Minh, học bổng doanh nghiệp tài trợ, học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.
+
+118
+00:23:43,280 --> 00:23:47,360
+SIU - Tâm hồn Việt Nam, giáo dục thế giới.

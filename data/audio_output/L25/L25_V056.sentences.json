@@ -1,0 +1,1241 @@
+{
+  "video_id": "L25_V056",
+  "fps": 25.0,
+  "n_sentences": 70,
+  "total_words": 4161,
+  "sentences": [
+    {
+      "text": "Và rất vui gặp lại các em trong chương trình ôn tập chuẩn bị cho kỳ thi trung học phổ thông năm 2024 do báo Thanh Niên tổ chức.",
+      "start": 0.0,
+      "end": 9.44,
+      "n_words": 29,
+      "start_frame": 0,
+      "end_frame": 236,
+      "keyframes": [
+        "000000.webp",
+        "000033.webp",
+        "000066.webp",
+        "000067.webp",
+        "000068.webp",
+        "000069.webp",
+        "000070.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Hôm nay thầy sẽ hướng dẫn các em chuyên đề thứ tư, đó là xác định số loại kiểu gen tối đa của cơ thể lưỡng bội. Thầy lấy ví dụ 2n = 8, tức là có bốn cặp nhiễm sắc thể tương đồng và cặp nhiễm sắc thể này thầy ký hiệu là X, tức là gồm có hai chiếc giống nhau. Và trên một cặp nhiễm sắc thể thường thầy xét một gen có hai alen là A lớn và a nhỏ thì số loại kiểu gen là ba, bao gồm AA và aa là kiểu gen đồng hợp, và Aa là kiểu gen dị hợp. Và mở rộng ra, nếu như mà một gen có n alen trên một cặp nhiễm sắc thể thường thì số loại kiểu gen sẽ là n đồng hợp, còn kiểu gen dị hợp thì em chỉ cần chọn ngẫu nhiên hai alen trong n alen không theo trật tự, tức là tổ hợp chập hai của n; Và em khai triển biểu thức này ra thì các em sẽ được một công thức rất là quen thuộc đó là n nhân cho n cộng một tất cả chia cho hai.",
+      "start": 9.44,
+      "end": 77.0,
+      "n_words": 199,
+      "start_frame": 236,
+      "end_frame": 1925,
+      "keyframes": [
+        "000245.webp",
+        "000420.webp",
+        "000421.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và nếu như thầy xét một gen thứ hai hoặc là thầy xét thêm nhiều gen nữa nằm trên cùng một cặp nhiễm sắc thể thường, lúc đó các em thấy n này chính là số loại giao tử được tạo ra của cặp nhiễm sắc thể có hai chiếc này. Cho nên khi mà mình xét nhiều gen nằm trên cùng một cặp nhiễm sắc thể thì các em cứ áp dụng công thức này nhưng mà n sẽ là số loại giao tử, và số loại giao tử sẽ được tính bằng cách nhân số lượng alen của các gen này lại thì chúng ta sẽ được n. Cụ thể trong trường hợp này số loại giao tử sẽ là 2 nhân 2 là 4, và số loại kiểu gen sẽ là 4 cộng cho tổ hợp chập hai của 4 là 10. Và em lưu ý là nếu như alen trội là hoàn toàn, số loại kiểu hình sẽ bằng số lượng alen. Ví dụ như trong trường hợp này A lớn trội hoàn toàn a nhỏ thì chúng ta có hai loại kiểu hình đó là kiểu hình của A trội và kiểu hình của a lặn. Tương tự ở đây B lớn trội hoàn toàn b nhỏ thì chúng ta có hai loại kiểu hình đó là kiểu hình của B lớn và kiểu hình của b nhỏ.",
+      "start": 77.0,
+      "end": 150.6,
+      "n_words": 233,
+      "start_frame": 1925,
+      "end_frame": 3765,
+      "keyframes": [
+        "002306.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và nếu như chúng ta xét đồng thời cả hai gen này, số loại kiểu hình chúng ta chỉ cần nhân lại, tức là có bốn loại kiểu hình đó là kiểu hình của A trội B trội, kiểu hình của A trội b lặn, kiểu hình của a lặn B trội và kiểu hình của a lặn b lặn.",
+      "start": 150.6,
+      "end": 169.24,
+      "n_words": 60,
+      "start_frame": 3765,
+      "end_frame": 4231,
+      "keyframes": [
+        "004191.webp",
+        "004222.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Để có được thành công như hôm nay, tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình.",
+      "start": 169.24,
+      "end": 175.12,
+      "n_words": 24,
+      "start_frame": 4231,
+      "end_frame": 4378,
+      "keyframes": [
+        "004250.webp",
+        "004278.webp",
+        "004279.webp",
+        "004310.webp",
+        "004341.webp",
+        "004371.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Ước mơ của mình bắt đầu từ trường Đại học Quốc tế Sài Gòn SIU, đào tạo đa dạng đa lĩnh vực, SIU mở ra cho chúng tôi nhiều cơ hội lựa chọn nghề nghiệp trong tương lai.",
+      "start": 175.12,
+      "end": 188.72,
+      "n_words": 38,
+      "start_frame": 4378,
+      "end_frame": 4718,
+      "keyframes": [
+        "004418.webp",
+        "004466.webp",
+        "004478.webp",
+        "004491.webp",
+        "004505.webp",
+        "004518.webp",
+        "004537.webp",
+        "004557.webp",
+        "004558.webp",
+        "004577.webp",
+        "004596.webp",
+        "004597.webp",
+        "004615.webp",
+        "004634.webp",
+        "004635.webp",
+        "004652.webp",
+        "004670.webp",
+        "004671.webp",
+        "004688.webp",
+        "004705.webp",
+        "004706.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Được khuyến khích và phát huy tối đa, chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin, chúng tôi được học cách học, cách nghĩ và cách sống.",
+      "start": 193.76,
+      "end": 202.12,
+      "n_words": 31,
+      "start_frame": 4844,
+      "end_frame": 5053,
+      "keyframes": [
+        "004863.webp",
+        "004898.webp",
+        "004914.webp",
+        "004932.webp",
+        "004950.webp",
+        "004951.webp",
+        "004968.webp",
+        "004986.webp",
+        "004987.webp",
+        "005012.webp",
+        "005037.webp",
+        "005038.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.",
+      "start": 202.12,
+      "end": 209.2,
+      "n_words": 28,
+      "start_frame": 5053,
+      "end_frame": 5230,
+      "keyframes": [
+        "005057.webp",
+        "005077.webp",
+        "005078.webp",
+        "005099.webp",
+        "005120.webp",
+        "005121.webp",
+        "005122.webp",
+        "005124.webp",
+        "005125.webp",
+        "005163.webp",
+        "005202.webp",
+        "005214.webp",
+        "005226.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Hiện đại, năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc, đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn SIU luôn hướng đến.",
+      "start": 209.2,
+      "end": 219.76,
+      "n_words": 34,
+      "start_frame": 5230,
+      "end_frame": 5494,
+      "keyframes": [
+        "005239.webp",
+        "005244.webp",
+        "005258.webp",
+        "005273.webp",
+        "005287.webp",
+        "005298.webp",
+        "005309.webp",
+        "005333.webp",
+        "005343.webp",
+        "005354.webp",
+        "005355.webp",
+        "005366.webp",
+        "005377.webp",
+        "005395.webp",
+        "005402.webp",
+        "005409.webp",
+        "005410.webp",
+        "005442.webp",
+        "005474.webp"
+      ],
+      "keyframe_count": 19
+    },
+    {
+      "text": "Đã đến lúc vươn xa hơn những gì đã học. Còn nếu như gen nằm trên vùng không tương đồng của những nhiễm sắc thể X, thì vùng không tương đồng của nhiễm sắc thể X tức là chỉ trên nhiễm sắc thể X mới mang gen đó, còn trên nhiễm sắc thể Y thì không mang gen này thì gọi là trên vùng không tương đồng của X. Bây giờ thầy xét một gen có hai alen là A lớn và a nhỏ trên vùng không tương đồng của nhiễm sắc thể X, lúc đó chúng ta cũng tính thông qua số loại giao tử. Số loại giao tử X là hai, đó là $X^A$ và $X^a$, cho nên số loại kiểu gen XX là cặp tương đồng cho nên chúng ta sẽ áp dụng giống như là trên cặp nhiễm sắc thể thường, tức là 2 tổ hợp chập hai của hai là bằng 3.",
+      "start": 219.76,
+      "end": 279.8,
+      "n_words": 157,
+      "start_frame": 5494,
+      "end_frame": 6995,
+      "keyframes": [
+        "005522.webp",
+        "005536.webp",
+        "005551.webp",
+        "005574.webp",
+        "005632.webp",
+        "005691.webp",
+        "005692.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Số loại giao tử Y là một, đó là chỉ có một loại giao tử Y do gen nằm trên vùng không tương đồng của nhiễm sắc thể X. Số loại kiểu gen XY được tính bằng công thức đó, bằng công thức đó là bằng số loại giao tử X nhân cho số loại giao tử Y, cụ thể trong trường hợp này sẽ là 2 nhân cho 1 bằng 2. Cho nên tổng kiểu gen nó chỉ cần cộng lại thì sẽ ra được là 5. Và mở rộng ra nếu như mà một locus có n alen nằm trên vùng không tương đồng của nhiễm sắc thể X, lúc đó số loại giao tử X sẽ là n, số loại giao tử Y là 1. Số loại kiểu gen XX sẽ là n + tổ hợp chập hai của n, còn số loại kiểu gen XY sẽ bằng số loại giao tử X tức là bằng n nhân cho số loại giao tử Y tức là bằng 1, thì số loại kiểu gen XY sẽ bằng n. Và đem cộng lại thì tổng số loại kiểu gen sẽ là n + tổ hợp chập hai của n.",
+      "start": 279.8,
+      "end": 342.08,
+      "n_words": 200,
+      "start_frame": 6995,
+      "end_frame": 8552,
+      "keyframes": [
+        "007124.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tương tự như vậy, nếu như xét gen nằm trên vùng tương đồng của X và Y, gen nằm trên vùng tương đồng của X và Y tức là số loại giao tử X sẽ là 2, nhưng mà lúc này số loại giao tử Y sẽ là 2 bởi vì gen nằm trên vùng tương đồng thì có cả trên cả nhiễm sắc thể Y, cho nên số loại giao tử Y sẽ là 2 bao gồm Y D lớn và Y D nhỏ.",
+      "start": 342.08,
+      "end": 385.72,
+      "n_words": 85,
+      "start_frame": 8552,
+      "end_frame": 9643,
+      "keyframes": [
+        "008556.webp",
+        "008619.webp",
+        "008744.webp",
+        "008869.webp",
+        "008994.webp",
+        "009119.webp",
+        "009244.webp",
+        "009369.webp",
+        "009494.webp",
+        "009619.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Và số loại giao tử X, số loại kiểu gen XY, chúng ta áp dụng công thức là số loại giao tử X nhân cho số loại giao tử Y, thì trong trường hợp này số loại kiểu gen XY sẽ bằng 4, tổng sẽ là bằng 7.",
+      "start": 385.72,
+      "end": 400.04,
+      "n_words": 48,
+      "start_frame": 9643,
+      "end_frame": 10001,
+      "keyframes": [
+        "009744.webp",
+        "009869.webp",
+        "009994.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và mở rộng ra khi mà xét một locus có n alen, số loại kiểu gen XX sẽ bằng n cộng cho tổ hợp chập hai của n, và số loại kiểu gen XY thì sẽ bằng n nhân cho n, tức là bằng n bình phương, và tổng kiểu gen thì chúng ta chỉ cần cộng lại.",
+      "start": 400.04,
+      "end": 421.12,
+      "n_words": 58,
+      "start_frame": 10001,
+      "end_frame": 10528,
+      "keyframes": [
+        "010119.webp",
+        "010244.webp",
+        "010369.webp",
+        "010494.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Trên vùng không tương đồng của nhiễm sắc thể Y, tức là gen này chỉ nằm trên nhiễm sắc thể Y mà không có alen tương ứng trên nhiễm sắc thể X thì chúng ta hình thành công thức tương tự.",
+      "start": 421.12,
+      "end": 435.04,
+      "n_words": 41,
+      "start_frame": 10528,
+      "end_frame": 10876,
+      "keyframes": [
+        "010619.webp",
+        "010744.webp",
+        "010869.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Lúc đó số loại giao tử Y sẽ là 2, đó là Y D lớn và Y D nhỏ, và số loại giao tử X chỉ có 1, số loại kiểu gen X chỉ có 1 và kiểu gen này sẽ không mang được gen đang xét, còn số loại kiểu gen XY là 2.",
+      "start": 435.04,
+      "end": 456.16,
+      "n_words": 55,
+      "start_frame": 10876,
+      "end_frame": 11404,
+      "keyframes": [
+        "010994.webp",
+        "011119.webp",
+        "011244.webp",
+        "011369.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và mở rộng ra nếu như mà một locus có n alen nằm trên vùng không tương đồng của nhiễm sắc thể Y, lúc đó số loại kiểu gen XY sẽ là n, còn kiểu gen XX sẽ không mang được alen tương ứng của gen này cho nên chỉ có một loại kiểu gen XX mà thôi.",
+      "start": 456.16,
+      "end": 476.84,
+      "n_words": 58,
+      "start_frame": 11404,
+      "end_frame": 11921,
+      "keyframes": [
+        "011494.webp",
+        "011619.webp",
+        "011744.webp",
+        "011869.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Về số phép lai tối đa, thầy gọi k là số loại kiểu gen tối đa có thể được hình thành từ một cặp nhiễm sắc thể.",
+      "start": 476.84,
+      "end": 487.24,
+      "n_words": 27,
+      "start_frame": 11921,
+      "end_frame": 12181,
+      "keyframes": [
+        "011994.webp",
+        "012119.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nếu cặp nhiễm sắc thể này là cặp nhiễm sắc thể thường thì số loại kiểu gen k sẽ bằng n cộng cho tổ hợp chập hai của n, giống như lúc nãy thầy đã phân tích với các em.",
+      "start": 487.24,
+      "end": 497.84,
+      "n_words": 40,
+      "start_frame": 12181,
+      "end_frame": 12446,
+      "keyframes": [
+        "012244.webp",
+        "012369.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và số phép lai thì trong k loại kiểu gen này, các em thấy là sẽ có hai trường hợp để thực hiện phép lai: thứ nhất là cả hai cơ thể đem lai đều có kiểu gen giống nhau thì chúng ta sẽ có k trường hợp; Trường hợp thứ hai là nếu như không phân biệt vai trò của bố và mẹ thì lúc đó chúng ta chỉ cần chọn ngẫu nhiên hai loại kiểu gen trong k.",
+      "start": 497.84,
+      "end": 519.92,
+      "n_words": 80,
+      "start_frame": 12446,
+      "end_frame": 12998,
+      "keyframes": [
+        "012494.webp",
+        "012619.webp",
+        "012744.webp",
+        "012869.webp",
+        "012994.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Theo tổ hợp thì chúng ta sẽ được phép lai giữa hai cơ thể có kiểu gen khác nhau, tức là số loại kiểu gen lúc đó sẽ là tổ hợp chập hai của k.",
+      "start": 521.16,
+      "end": 530.16,
+      "n_words": 35,
+      "start_frame": 13029,
+      "end_frame": 13254,
+      "keyframes": [
+        "013119.webp",
+        "013244.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cho nên số phép lai tối đa sẽ là k cộng cho tổ hợp chập hai của k.",
+      "start": 530.16,
+      "end": 536.52,
+      "n_words": 18,
+      "start_frame": 13254,
+      "end_frame": 13413,
+      "keyframes": [
+        "013369.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nhưng nếu gen nằm trên nhiễm sắc thể giới tính thì ở đây có ba trường hợp như trên màn hình mấy em thấy.",
+      "start": 536.52,
+      "end": 545.84,
+      "n_words": 24,
+      "start_frame": 13413,
+      "end_frame": 13646,
+      "keyframes": [
+        "013494.webp",
+        "013619.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Lúc đó số phép lai tối đa mấy em sẽ áp dụng công thức bằng số loại kiểu gen X nhân cho số loại kiểu gen XY.",
+      "start": 545.84,
+      "end": 555.72,
+      "n_words": 27,
+      "start_frame": 13646,
+      "end_frame": 13893,
+      "keyframes": [
+        "013744.webp",
+        "013869.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Loại kiểu gen X và số loại kiểu gen XY mấy em đã biết, thầy em chỉ cần nhân lại thì sẽ ra được số phép lai tối đa.",
+      "start": 556.72,
+      "end": 564.16,
+      "n_words": 29,
+      "start_frame": 13918,
+      "end_frame": 14104,
+      "keyframes": [
+        "013994.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đây là một số công thức thường gặp trong đề thi trung học phổ thông.",
+      "start": 564.16,
+      "end": 568.4,
+      "n_words": 15,
+      "start_frame": 14104,
+      "end_frame": 14210,
+      "keyframes": [
+        "014119.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ thầy hướng dẫn các em một số câu trong đề thi các năm qua. Câu thứ nhất trong đề thi năm 2021, quần thể thú ngẫu phối, xét bốn gen: gen 1 và gen 2 cùng nằm trên một cặp nhiễm sắc thể thường, gen 3 và gen 4 cùng nằm ở vùng không tương đồng của nhiễm sắc thể X. Cho biết quần thể này có tối đa 6 loại giao tử thuộc gen 1 và gen 2, 5 loại tinh trùng thuộc gen 3 và gen 4, trong đó có cả tinh trùng mang nhiễm sắc thể X và tinh trùng mang nhiễm sắc thể Y thì theo lý thuyết sẽ tạo ra được tối đa bao nhiêu loại kiểu gen về các gen đang xét? Bây giờ thầy ký hiệu trên màn hình cho mấy em thấy hai cặp nhiễm sắc thể này và đề đã cho mấy em biết là trên cặp nhiễm sắc thể thường tạo ra 6 loại giao tử. Thầy, các em chỉ cần áp dụng công thức với n bằng 6, bởi vì trong công thức đó n chính là số loại giao tử. Giống như lúc nãy thầy đã phân tích, trong câu này cặp nhiễm sắc thể thường tạo ra 6 loại giao tử, cho nên trên cặp nhiễm sắc thể thường tạo ra số loại kiểu gen tối đa là 6 cộng cho tổ hợp chập hai của 6, tức là bằng 21 loại. 21 loại kiểu gen.",
+      "start": 568.4,
+      "end": 640.96,
+      "n_words": 251,
+      "start_frame": 14210,
+      "end_frame": 16024,
+      "keyframes": [
+        "014244.webp",
+        "014314.webp",
+        "014322.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Còn trên cặp nhiễm sắc thể XY, hai gen 3 và 4 nằm trên vùng không tương đồng của nhiễm sắc thể X, nằm ở vùng không tương đồng của nhiễm sắc thể X và cho ra tối đa 5 loại tinh trùng, trong đó có cả tinh trùng mang nhiễm sắc thể X và tinh trùng mang nhiễm sắc thể Y. Cho nên tinh trùng mang nhiễm sắc thể Y chỉ có một loại, và chúng ta lấy 5 trừ 1 thì sẽ ra được 4 loại tinh trùng mang nhiễm sắc thể X, và ta đã phân tích và tổng số gen sẽ là 14. Đề yêu cầu chúng ta tính trong quần thể này có tối đa bao nhiêu loại kiểu gen. Khi chúng ta xét riêng từng cặp nhiễm sắc thể, muốn xét chung thì chúng ta sẽ nhân kết quả lại mà thôi. Tức là chúng ta sẽ lấy 21 là trên cặp nhiễm sắc thể thường và 14 là trên cặp nhiễm sắc thể giới tính, chúng ta nhân lại thì sẽ có tối đa là 14 nhân cho 21 bằng 294 loại kiểu gen.",
+      "start": 640.96,
+      "end": 712.56,
+      "n_words": 191,
+      "start_frame": 16024,
+      "end_frame": 17814,
+      "keyframes": [
+        "016119.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta chọn đáp án là B.",
+      "start": 712.56,
+      "end": 718.24,
+      "n_words": 7,
+      "start_frame": 17814,
+      "end_frame": 17956,
+      "keyframes": [
+        "017917.webp",
+        "017918.webp",
+        "017947.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.",
+      "start": 718.24,
+      "end": 728.84,
+      "n_words": 33,
+      "start_frame": 17956,
+      "end_frame": 18221,
+      "keyframes": [
+        "017976.webp",
+        "017994.webp",
+        "018040.webp",
+        "018086.webp",
+        "018087.webp",
+        "018107.webp",
+        "018128.webp",
+        "018129.webp",
+        "018150.webp",
+        "018171.webp",
+        "018172.webp",
+        "018180.webp",
+        "018189.webp",
+        "018202.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện, cân bằng giữa học thuật và nghệ thuật, thể thao.",
+      "start": 728.84,
+      "end": 736.48,
+      "n_words": 23,
+      "start_frame": 18221,
+      "end_frame": 18412,
+      "keyframes": [
+        "018255.webp",
+        "018309.webp",
+        "018310.webp",
+        "018330.webp",
+        "018351.webp",
+        "018352.webp",
+        "018367.webp",
+        "018382.webp",
+        "018383.webp",
+        "018393.webp",
+        "018404.webp",
+        "018405.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, thêm nguồn cảm hứng độc lập để phát triển và hoàn thiện nhân cách.",
+      "start": 736.48,
+      "end": 747.12,
+      "n_words": 34,
+      "start_frame": 18412,
+      "end_frame": 18678,
+      "keyframes": [
+        "018417.webp",
+        "018430.webp",
+        "018431.webp",
+        "018432.webp",
+        "018433.webp",
+        "018434.webp",
+        "018504.webp",
+        "018575.webp",
+        "018576.webp",
+        "018601.webp",
+        "018627.webp",
+        "018628.webp",
+        "018651.webp",
+        "018675.webp",
+        "018676.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Ngoài những giờ học trên lớp, học sinh Trường Quốc tế Á Châu còn được trải nghiệm thử thách bản thân và phản biện các vấn đề để tự mình học hỏi trưởng thành, độc lập hơn.",
+      "start": 747.12,
+      "end": 766.52,
+      "n_words": 37,
+      "start_frame": 18678,
+      "end_frame": 19163,
+      "keyframes": [
+        "018685.webp",
+        "018694.webp",
+        "018695.webp",
+        "018711.webp",
+        "018728.webp",
+        "018729.webp",
+        "018756.webp",
+        "018783.webp",
+        "018784.webp",
+        "018793.webp",
+        "018803.webp",
+        "018804.webp",
+        "018882.webp",
+        "018961.webp",
+        "018971.webp",
+        "018977.webp",
+        "018984.webp",
+        "019000.webp",
+        "019038.webp",
+        "019076.webp",
+        "019077.webp",
+        "019091.webp",
+        "019106.webp",
+        "019107.webp",
+        "019119.webp",
+        "019131.webp",
+        "019132.webp",
+        "019150.webp"
+      ],
+      "keyframe_count": 28
+    },
+    {
+      "text": "Nơi đây với tôi còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.",
+      "start": 766.52,
+      "end": 782.76,
+      "n_words": 33,
+      "start_frame": 19163,
+      "end_frame": 19569,
+      "keyframes": [
+        "019169.webp",
+        "019181.webp",
+        "019243.webp",
+        "019305.webp",
+        "019328.webp",
+        "019343.webp",
+        "019359.webp",
+        "019360.webp",
+        "019376.webp",
+        "019393.webp",
+        "019394.webp",
+        "019401.webp",
+        "019408.webp",
+        "019409.webp",
+        "019429.webp",
+        "019449.webp",
+        "019450.webp",
+        "019457.webp",
+        "019464.webp",
+        "019496.webp",
+        "019504.webp",
+        "019513.webp",
+        "019514.webp",
+        "019524.webp",
+        "019535.webp",
+        "019536.webp",
+        "019548.webp",
+        "019560.webp",
+        "019561.webp"
+      ],
+      "keyframe_count": 29
+    },
+    {
+      "text": "Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là cuộc sống.",
+      "start": 782.76,
+      "end": 787.84,
+      "n_words": 15,
+      "start_frame": 19569,
+      "end_frame": 19696,
+      "keyframes": [
+        "019594.webp",
+        "019627.webp",
+        "019628.webp",
+        "019636.webp",
+        "019644.webp",
+        "019645.webp",
+        "019658.webp",
+        "019671.webp",
+        "019672.webp",
+        "019677.webp",
+        "019682.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Từ môi trường giáo dục này, chúng tôi đã tự tin bước tiếp và viết nên câu chuyện tương lai của chính mình. Bây giờ chúng ta qua một câu trong đề thi năm 2022. Ở một loài động vật xét 2 gen phân ly độc lập, mỗi gen quy định một tính trạng. Các alen là hoàn toàn trội và cả hai gen đều biểu hiện ở cả hai giới. Cho biết ở loài này có cặp nhiễm sắc thể giới tính là XX và XY.",
+      "start": 787.84,
+      "end": 821.84,
+      "n_words": 87,
+      "start_frame": 19696,
+      "end_frame": 20546,
+      "keyframes": [
+        "019701.webp",
+        "019714.webp",
+        "019728.webp",
+        "019746.webp",
+        "019747.webp",
+        "019748.webp",
+        "019773.webp",
+        "019779.webp",
+        "019785.webp",
+        "019811.webp",
+        "019828.webp",
+        "019846.webp",
+        "019870.webp",
+        "019891.webp",
+        "019912.webp",
+        "019913.webp",
+        "019917.webp",
+        "019922.webp",
+        "019942.webp",
+        "019984.webp",
+        "020026.webp",
+        "020027.webp"
+      ],
+      "keyframe_count": 22
+    },
+    {
+      "text": "Đề chỉ nói chung chung là ở loài này có cặp nhiễm sắc thể giới tính là X và XY, cho nên chúng ta cần phải xác định đó là con đực sẽ là cặp X hay là cặp XY. Nếu không xét tính đực và tính cái thì trong quần thể có tối đa 6 loại kiểu hình về 2 tính trạng này. Số loại kiểu gen ở con đực gấp 2 lần số loại của con cái.",
+      "start": 822.56,
+      "end": 844.96,
+      "n_words": 79,
+      "start_frame": 20564,
+      "end_frame": 21124,
+      "keyframes": [
+        "020586.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đây là thông tin rất là quan trọng. Thứ nhất, nếu như đề cho mình là nếu không xét tính đực và tính cái thì quần thể có tối đa là 6 loại kiểu hình về hai tính trạng này. Đề đã cho các em là alen trội là hoàn toàn cho nên số loại kiểu hình sẽ bằng số lượng alen. Có 6 loại kiểu hình, với hai gen, lúc đó 6 loại kiểu hình này thì có thể là một gen có 6 alen, một gen có 1 alen; 6 nhân 1 là 6, hoặc là một gen có 3 alen và một gen có 2 alen. Thông tin thứ hai là đề cho mình số loại kiểu gen ở giới đực gấp 2 lần số loại kiểu gen ở giới cái. Thông tin này sẽ giúp mình xác định được là sẽ có một gen nằm trên nhiễm sắc thể giới tính, bởi vì đề đã cho mình biết là hai gen phân ly độc lập.",
+      "start": 844.96,
+      "end": 903.2,
+      "n_words": 169,
+      "start_frame": 21124,
+      "end_frame": 22580,
+      "keyframes": [
+        "021146.webp",
+        "021147.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nếu như hai gen này nằm trên hai cặp nhiễm sắc thể thường khác nhau thì số loại kiểu gen của giới đực và giới cái sẽ giống nhau bởi vì đó là gen nằm trên cặp nhiễm sắc thể thường. Ở đây mấy em thấy là số loại kiểu gen của giới đực và giới cái khác nhau cho nên sẽ có một gen nằm trên cặp nhiễm sắc thể giới tính. Và đề cho mình là cả hai gen này biểu hiện ở cả hai giới, cho nên gen nằm trên nhiễm sắc thể giới tính sẽ không thể nào nằm trên vùng không tương đồng của nhiễm sắc thể Y, vì nếu như mà gen nằm trên vùng không tương đồng của nhiễm sắc thể Y thì gen đó chỉ biểu hiện được ở giới XY mà thôi. Vì vậy trong câu này, từ những thông tin đề cho, chúng ta sẽ xác định được là một gen nằm trên nhiễm sắc thể thường và một gen nằm trên nhiễm sắc thể giới tính. Và gen nằm trên nhiễm sắc thể giới tính thì có thể nằm ở vùng không tương đồng của nhiễm sắc thể X, và nằm ở vùng không tương đồng của nhiễm sắc thể X thì mới có thể biểu hiện được ở cả hai giới, hoặc là gen đó nằm ở vùng tương đồng của nhiễm sắc thể X và Y.",
+      "start": 903.2,
+      "end": 969.36,
+      "n_words": 239,
+      "start_frame": 22580,
+      "end_frame": 24234,
+      "keyframes": [
+        "022766.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Lúc này các em chỉ cần nhớ công thức xác định số loại kiểu gen khi mà gen nằm trên vùng không tương đồng nhiễm sắc thể X hoặc là trên vùng tương đồng của nhiễm sắc thể X và Y với n, ở đây các em có tất cả là 4 trường hợp số lượng alen có thể là 6, có thể là 1, có thể là 2 hoặc có thể là 3 thì các em sẽ thế n = 2, = 3 hoặc là = 6 vào hai công thức này, còn khi mà n = 1. Có kiểu gen dị hợp này xuất hiện, cho nên tức là số loại kiểu gen dị hợp này sẽ = 0.",
+      "start": 969.36,
+      "end": 1023.04,
+      "n_words": 121,
+      "start_frame": 24234,
+      "end_frame": 25576,
+      "keyframes": [
+        "024386.webp",
+        "024387.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Vì vậy mà lúc đó nếu như n = 1 thì em sẽ dễ dàng thấy số loại kiểu gen XY và số loại kiểu gen XX sẽ bằng nhau và bằng 1, tức là không thỏa mãn yêu cầu của đề bài. Cho nên lúc này các em chỉ cần bấm máy nhanh với n = 2 hoặc = 3 hoặc = 6 tùy trường hợp nào sẽ làm cho số loại kiểu gen ở đực gấp đôi so với số loại kiểu gen ở cái. Nhận xét nhanh là nếu như n = 3 thì lúc đó, và nếu như mà gen này nằm trên vùng không tương đồng của nhiễm sắc thể X, thì lúc đó số loại kiểu gen XY sẽ = 3, số loại kiểu gen XX sẽ = 3 cộng cho tổ hợp chập hai của 3, tức là = 6.",
+      "start": 1023.04,
+      "end": 1068.64,
+      "n_words": 147,
+      "start_frame": 25576,
+      "end_frame": 26716,
+      "keyframes": [
+        "025786.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Như vậy đã có hiện tượng gấp đôi và theo đề là số loại kiểu gen ở con đực gấp đôi ở con cái, cho nên từ đó mình thấy rằng kiểu gen XX gấp đôi so với XY, cho nên con đực ở đây sẽ là sẽ có cặp nhiễm sắc thể là XY còn con cái có cặp nhiễm sắc thể là XX.",
+      "start": 1068.64,
+      "end": 1086.56,
+      "n_words": 65,
+      "start_frame": 26716,
+      "end_frame": 27164,
+      "keyframes": [
+        "027095.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Từ nhận xét đó các em sẽ thấy là sẽ có hai gen mà có hai alen sẽ nằm trên nhiễm sắc thể thường và gen có ba alen nằm trên vùng không tương đồng của nhiễm sắc thể X, và lúc đó con đực đó con đực sẽ là XY và con cái sẽ là XX.",
+      "start": 1088.68,
+      "end": 1106.32,
+      "n_words": 57,
+      "start_frame": 27217,
+      "end_frame": 27658,
+      "keyframes": [
+        "027501.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Sau khi chúng ta phân tích được các dữ kiện đề cho thì chúng ta sẽ phân tích vào các biểu mà có ba alen nằm trên vùng không tương đồng của X thì số loại giao tử X sẽ là = 3, số loại giao tử Y sẽ = 1.",
+      "start": 1108.48,
+      "end": 1139.76,
+      "n_words": 51,
+      "start_frame": 27712,
+      "end_frame": 28494,
+      "keyframes": [
+        "027816.webp",
+        "027879.webp",
+        "028004.webp",
+        "028129.webp",
+        "028254.webp",
+        "028379.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cho nên cơ thể X sẽ cho chúng ta 3 loại giao tử, còn cơ thể XY sẽ cho chúng ta 4 loại giao tử thì em chỉ cần cộng lại.",
+      "start": 1139.76,
+      "end": 1153.48,
+      "n_words": 31,
+      "start_frame": 28494,
+      "end_frame": 28837,
+      "keyframes": [
+        "028504.webp",
+        "028629.webp",
+        "028754.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cho nên trong quần thể số loại giao tử cái sẽ nhiều hơn số loại giao tử đực, phát biểu này là đúng, này là đúng trong câu này bởi vì bốn phát biểu là khác nhau, cho nên khi mà mấy em thấy phát biểu A là đúng thì chúng ta sẽ chọn ngay đáp án là A mà không cần phải phân tích tiếp.",
+      "start": 1153.48,
+      "end": 1179.32,
+      "n_words": 66,
+      "start_frame": 28837,
+      "end_frame": 29483,
+      "keyframes": [
+        "028879.webp",
+        "029004.webp",
+        "029129.webp",
+        "029254.webp",
+        "029379.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nhưng mà bây giờ thầy phân tích cho các em tại sao ba phát biểu B, C lại bị sai.",
+      "start": 1179.32,
+      "end": 1187.28,
+      "n_words": 20,
+      "start_frame": 29483,
+      "end_frame": 29682,
+      "keyframes": [
+        "029504.webp",
+        "029629.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đề phát biểu câu B đó là trong quần thể có tối đa 378 kiểu phép lai về hai gen trên để số loại của gen X trên nhiễm sắc thể thường.",
+      "start": 1187.28,
+      "end": 1208.76,
+      "n_words": 32,
+      "start_frame": 29682,
+      "end_frame": 30219,
+      "keyframes": [
+        "029754.webp",
+        "029879.webp",
+        "030004.webp",
+        "030129.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Gen có hai alen cho nên sẽ cho mình hai loại giao tử và số loại kiểu gen trên cặp nhiễm sắc thể thường này sẽ là ba.",
+      "start": 1208.76,
+      "end": 1218.72,
+      "n_words": 28,
+      "start_frame": 30219,
+      "end_frame": 30468,
+      "keyframes": [
+        "030254.webp",
+        "030379.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Còn trên cặp nhiễm sắc thể giới tính có ba loại giao tử X, cho nên sẽ có sáu loại kiểu gen X.",
+      "start": 1218.72,
+      "end": 1228.8,
+      "n_words": 23,
+      "start_frame": 30468,
+      "end_frame": 30720,
+      "keyframes": [
+        "030504.webp",
+        "030629.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và cho nên khi mà xét đồng thời cả hai nhiễm sắc thể này thì số loại kiểu gen X sẽ là 3 nhân cho 6 bằng 18 loại kiểu gen.",
+      "start": 1228.8,
+      "end": 1240.24,
+      "n_words": 31,
+      "start_frame": 30720,
+      "end_frame": 31006,
+      "keyframes": [
+        "030754.webp",
+        "030879.webp",
+        "031004.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và số loại giao tử Y là bằng 1, cho nên số loại kiểu gen XY sẽ bằng 3. 3.",
+      "start": 1240.24,
+      "end": 1245.68,
+      "n_words": 20,
+      "start_frame": 31006,
+      "end_frame": 31142,
+      "keyframes": [
+        "031129.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và xét đồng thời cả hai cặp nhiễm sắc thể này thì số loại của kiểu gen XY sẽ bằng 3 nhân 3 là 9 loại kiểu gen.",
+      "start": 1245.68,
+      "end": 1258.48,
+      "n_words": 28,
+      "start_frame": 31142,
+      "end_frame": 31462,
+      "keyframes": [
+        "031254.webp",
+        "031379.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và ở đây người ta hỏi mình là số phép lai, số kiểu lai thì sẽ bằng số loại kiểu gen X nhân cho số loại kiểu gen XY.",
+      "start": 1258.48,
+      "end": 1267.64,
+      "n_words": 29,
+      "start_frame": 31462,
+      "end_frame": 31691,
+      "keyframes": [
+        "031504.webp",
+        "031629.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Các em nhân lại thì sẽ được 162 phép lai chứ không phải là 378, cho nên câu B này là chưa chính xác.",
+      "start": 1268.0,
+      "end": 1276.8,
+      "n_words": 24,
+      "start_frame": 31700,
+      "end_frame": 31920,
+      "keyframes": [
+        "031754.webp",
+        "031879.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Câu C: hai gen này nằm trên hai cặp nhiễm sắc thể thường khác nhau.",
+      "start": 1276.8,
+      "end": 1280.52,
+      "n_words": 15,
+      "start_frame": 31920,
+      "end_frame": 32013,
+      "keyframes": [
+        "032004.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Câu này mấy em khỏi cần phân tích cũng biết được đó là sai, bởi vì đề đã cho mình số loại của gen ở đực khác với số loại của gen ở cái nên sẽ có một gen nằm trên nhiễm sắc thể giới tính.",
+      "start": 1280.52,
+      "end": 1293.28,
+      "n_words": 46,
+      "start_frame": 32013,
+      "end_frame": 32332,
+      "keyframes": [
+        "032129.webp",
+        "032254.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Câu D: một cơ thể giảm phân tạo ra tối đa 8 loại giao tử về hai gen.",
+      "start": 1293.28,
+      "end": 1298.56,
+      "n_words": 18,
+      "start_frame": 32332,
+      "end_frame": 32464,
+      "keyframes": [
+        "032379.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Một số bạn nhận xét là ở nhiễm sắc thể thường thì sẽ cho ra hai loại giao tử, còn trên nhiễm sắc thể XY thì cho ra bốn loại giao tử, cho nên tối đa sẽ là 4 nhân 2 là 8.",
+      "start": 1299.52,
+      "end": 1314.32,
+      "n_words": 43,
+      "start_frame": 32488,
+      "end_frame": 32858,
+      "keyframes": [
+        "032504.webp",
+        "032629.webp",
+        "032754.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nhưng mà em lưu ý ở đây là mình đang áp dụng công thức, tức là chúng ta đang tính số loại giao tử hay là số loại của gen tối đa trong một quần thể.",
+      "start": 1314.32,
+      "end": 1323.8,
+      "n_words": 36,
+      "start_frame": 32858,
+      "end_frame": 33095,
+      "keyframes": [
+        "032879.webp",
+        "033004.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Còn trong câu này người ta đang hỏi mình một cá thể.",
+      "start": 1323.8,
+      "end": 1327.48,
+      "n_words": 12,
+      "start_frame": 33095,
+      "end_frame": 33187,
+      "keyframes": [
+        "033129.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Một cá thể sẽ có một kiểu gen xác định và để xác định số loại giao tử tối đa thì chúng ta sẽ xét kiểu gen dị hợp.",
+      "start": 1327.48,
+      "end": 1336.12,
+      "n_words": 29,
+      "start_frame": 33187,
+      "end_frame": 33403,
+      "keyframes": [
+        "033254.webp",
+        "033379.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và cho dù kiểu gen dị hợp như trên màn hình, mấy em thấy lúc này chỉ cho mình tối đa có bốn loại giao tử mà thôi chứ không phải là tám.",
+      "start": 1336.12,
+      "end": 1345.2,
+      "n_words": 33,
+      "start_frame": 33403,
+      "end_frame": 33630,
+      "keyframes": [
+        "033504.webp",
+        "033629.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Vì vậy câu D là không chính xác.",
+      "start": 1345.2,
+      "end": 1348.6,
+      "n_words": 8,
+      "start_frame": 33630,
+      "end_frame": 33715,
+      "keyframes": [
+        "033692.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đây là một số vấn đề thầy muốn trao đổi với em về cách xác định số loại kiểu gen và số phép lai trong bài tập trong đề thi của trung học phổ thông. Cảm ơn các em đã dành thời gian theo dõi. Chúc các em đạt kết quả cao trong kỳ thi sắp tới. Chào các em.",
+      "start": 1348.6,
+      "end": 1366.44,
+      "n_words": 60,
+      "start_frame": 33715,
+      "end_frame": 34161,
+      "keyframes": [
+        "033928.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trường Đại học Quốc tế Sài Gòn SIU không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SIU nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt.",
+      "start": 1366.44,
+      "end": 1377.4,
+      "n_words": 39,
+      "start_frame": 34161,
+      "end_frame": 34435,
+      "keyframes": [
+        "034164.webp",
+        "034165.webp",
+        "034178.webp",
+        "034192.webp",
+        "034193.webp",
+        "034208.webp",
+        "034224.webp",
+        "034225.webp",
+        "034247.webp",
+        "034269.webp",
+        "034270.webp",
+        "034278.webp",
+        "034286.webp",
+        "034287.webp",
+        "034295.webp",
+        "034304.webp",
+        "034305.webp",
+        "034313.webp",
+        "034321.webp",
+        "034322.webp",
+        "034334.webp",
+        "034346.webp",
+        "034347.webp",
+        "034355.webp",
+        "034364.webp",
+        "034386.webp",
+        "034389.webp",
+        "034392.webp",
+        "034393.webp",
+        "034410.webp",
+        "034427.webp",
+        "034428.webp"
+      ],
+      "keyframe_count": 32
+    },
+    {
+      "text": "Việc mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.",
+      "start": 1377.4,
+      "end": 1388.16,
+      "n_words": 39,
+      "start_frame": 34435,
+      "end_frame": 34704,
+      "keyframes": [
+        "034442.webp",
+        "034456.webp",
+        "034457.webp",
+        "034470.webp",
+        "034484.webp",
+        "034485.webp",
+        "034503.webp",
+        "034521.webp",
+        "034522.webp",
+        "034538.webp",
+        "034554.webp",
+        "034555.webp",
+        "034570.webp",
+        "034585.webp",
+        "034586.webp",
+        "034602.webp",
+        "034619.webp",
+        "034620.webp",
+        "034640.webp",
+        "034660.webp",
+        "034679.webp",
+        "034690.webp",
+        "034702.webp",
+        "034703.webp"
+      ],
+      "keyframe_count": 24
+    },
+    {
+      "text": "Năm 2024, SIU tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng bốn phương thức tuyển sinh.",
+      "start": 1388.16,
+      "end": 1396.76,
+      "n_words": 23,
+      "start_frame": 34704,
+      "end_frame": 34919,
+      "keyframes": [
+        "034731.webp",
+        "034760.webp",
+        "034761.webp",
+        "034776.webp",
+        "034792.webp",
+        "034793.webp",
+        "034811.webp",
+        "034829.webp",
+        "034830.webp",
+        "034844.webp",
+        "034859.webp",
+        "034885.webp",
+        "034900.webp",
+        "034915.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "SIU cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SIU, 100 suất học bổng Tiếp bước hành trình Quỹ Tài năng trẻ, học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa, thể thao, nghệ thuật, học bổng Đồng hành xây dựng nhân lực chất lượng cao cho thành phố Thủ Đức, thành phố Hồ Chí Minh, học bổng doanh nghiệp tài trợ, học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.",
+      "start": 1396.76,
+      "end": 1423.28,
+      "n_words": 106,
+      "start_frame": 34919,
+      "end_frame": 35582,
+      "keyframes": [
+        "034921.webp",
+        "034941.webp",
+        "034961.webp",
+        "034973.webp",
+        "035016.webp",
+        "035060.webp",
+        "035061.webp",
+        "035090.webp",
+        "035119.webp",
+        "035120.webp",
+        "035133.webp",
+        "035146.webp",
+        "035147.webp",
+        "035159.webp",
+        "035171.webp",
+        "035198.webp",
+        "035206.webp",
+        "035214.webp",
+        "035215.webp",
+        "035229.webp",
+        "035243.webp",
+        "035244.webp",
+        "035258.webp",
+        "035273.webp",
+        "035274.webp",
+        "035289.webp",
+        "035305.webp",
+        "035306.webp",
+        "035321.webp",
+        "035336.webp",
+        "035337.webp",
+        "035355.webp",
+        "035373.webp",
+        "035374.webp",
+        "035391.webp",
+        "035408.webp",
+        "035409.webp",
+        "035428.webp",
+        "035447.webp",
+        "035448.webp",
+        "035463.webp",
+        "035478.webp",
+        "035479.webp",
+        "035492.webp",
+        "035505.webp",
+        "035506.webp",
+        "035524.webp",
+        "035542.webp",
+        "035543.webp",
+        "035558.webp",
+        "035573.webp",
+        "035574.webp"
+      ],
+      "keyframe_count": 52
+    },
+    {
+      "text": "SIU - Tâm hồn Việt Nam, giáo dục thế giới.",
+      "start": 1423.28,
+      "end": 1427.36,
+      "n_words": 10,
+      "start_frame": 35582,
+      "end_frame": 35684,
+      "keyframes": [
+        "035584.webp",
+        "035595.webp",
+        "035608.webp",
+        "035635.webp",
+        "035663.webp",
+        "035664.webp"
+      ],
+      "keyframe_count": 6
+    }
+  ]
+}

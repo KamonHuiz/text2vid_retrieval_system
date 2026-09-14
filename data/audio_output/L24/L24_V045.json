@@ -1,0 +1,19 @@
+{
+  "unfiltered": {
+    "text": "em mà anh bay lắng anh gầm em ở trong quán bar em ăn đồ thân tính nháy như cô nàng công chúa ôi nhìn nàng em đẹp tiếng sao em theo con lắc tôi từng bay",
+    "word_count": 37
+  },
+  "flagged": {
+    "text": "em mà anh bay lắng anh gầm em ở trong quán bar em @not_in_dict(ăn đồ) @not_in_dict(thân tính) nháy như cô nàng công chúa ôi nhìn nàng em đẹp tiếng @symbol(sao) em theo con lắc tôi từng bay",
+    "word_count": 37
+  },
+  "refined": {
+    "text": "Em mà anh bay lắng anh gầm em ở trong quán bar em ăn đồ thân tính nháy như cô nàng công chúa ôi nhìn nàng em đẹp tiếng * em theo con lắc tôi từng bay.",
+    "word_count": 37,
+    "source": "flagged"
+  },
+  "proofread": {
+    "text": "Em mà anh bay lắng anh gầm em ở trong quán bar em ăn đồ thân tính nháy như cô nàng công chúa ôi nhìn nàng em đẹp tiếng * em theo con lắc tôi từng bay.",
+    "word_count": 37
+  }
+}

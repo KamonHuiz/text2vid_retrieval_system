@@ -1,0 +1,44 @@
+# PE Core BigG -- Meta Perception Encoder, loaded as open_clip
+# ('PE-Core-bigG-14-448', 'meta'). Module layout verified on the checkpoint;
+# see mm_bench/models/pe_core_bigg.py.
+
+name: pe_core_bigg
+wrapper: pe_core_bigg
+backend: open_clip
+open_clip:
+  model_name: "PE-Core-bigG-14-448"
+  pretrained: "meta"
+
+embed_dim: 1280
+image_size: 448
+context_length: 72                 # text positional_embedding is (72, 1280)
+
+adaptation: lora
+quantization: null                 # open_clip has no bitsandbytes k-bit path
+
+lora:
+  enabled: true
+  r: 16
+  alpha: 32
+  dropout: 0.05
+  bias: none
+  target_module_depth_fraction: 0.5   # last 25/50 vision blocks, last 12/24 text blocks
+  # Vision (timm Eva): fused qkv + output proj + both MLP layers, all nn.Linear.
+  vision_target_modules: ["attn.qkv", "attn.proj", "mlp.fc1", "mlp.fc2"]
+  # Text (open_clip): `attn` is nn.MultiheadAttention -- target the module
+  # itself, never attn.out_proj (MHA bypasses out_proj.forward()).
+  text_target_modules: ["attn", "mlp.c_fc", "mlp.c_proj"]
+  modules_to_save:
+    - "visual.trunk.attn_pool"       # attention-pooling head, trained in full (as SigLIP2's head was)
+    - "visual.trunk.head"            # vision 1536 -> 1280 projection
+    - "text.text_projection"         # a Parameter: unfrozen directly, not via peft
+
+loss:
+  type: infonce
+  learnable_logit_scale: true
+
+differential_lr_groups:
+  vision_encoder: "visual\\."
+  text_encoder: "text\\."
+  projection: "(attn_pool|trunk\\.head|text_projection)"
+  logit_scale: "logit_scale"

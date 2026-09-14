@@ -1,0 +1,2126 @@
+{
+  "video_id": "L29_V001",
+  "fps": 25.0,
+  "n_sentences": 114,
+  "total_words": 3411,
+  "sentences": [
+    {
+      "text": "Hãy nương theo dòng chảy sông Mekong.",
+      "start": 0.0,
+      "end": 25.2,
+      "n_words": 7,
+      "start_frame": 0,
+      "end_frame": 630,
+      "keyframes": [
+        "000000.webp",
+        "000033.webp",
+        "000067.webp",
+        "000068.webp",
+        "000082.webp",
+        "000096.webp",
+        "000097.webp",
+        "000116.webp",
+        "000136.webp",
+        "000137.webp",
+        "000282.webp",
+        "000428.webp",
+        "000444.webp",
+        "000507.webp",
+        "000570.webp",
+        "000571.webp",
+        "000614.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Nhịp sống không chỉ là sự đan xen của những dòng nước mà còn là câu chuyện đầy màu sắc từ sự đa dạng của hệ sinh quyển, của đời sống con người hòa quyện vào nhau.",
+      "start": 25.2,
+      "end": 35.88,
+      "n_words": 37,
+      "start_frame": 630,
+      "end_frame": 897,
+      "keyframes": [
+        "000658.webp",
+        "000659.webp",
+        "000696.webp",
+        "000734.webp",
+        "000735.webp",
+        "000745.webp",
+        "000755.webp",
+        "000756.webp",
+        "000773.webp",
+        "000790.webp",
+        "000791.webp",
+        "000815.webp",
+        "000840.webp",
+        "000841.webp",
+        "000867.webp",
+        "000894.webp",
+        "000895.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Hãy cùng chúng tôi hướng về đồng bằng sông Cửu Long, hạ lưu châu thổ sông Mekong.",
+      "start": 35.88,
+      "end": 40.8,
+      "n_words": 17,
+      "start_frame": 897,
+      "end_frame": 1020,
+      "keyframes": [
+        "000898.webp",
+        "000902.webp",
+        "000903.webp",
+        "000924.webp",
+        "000945.webp",
+        "000946.webp",
+        "000991.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Từ những cánh đồng lúa mênh mông đến những làng chài bình dị, chúng ta sẽ cảm nhận được hơi thở của nước.",
+      "start": 40.8,
+      "end": 47.56,
+      "n_words": 23,
+      "start_frame": 1020,
+      "end_frame": 1189,
+      "keyframes": [
+        "001036.webp",
+        "001037.webp",
+        "001059.webp",
+        "001081.webp",
+        "001091.webp",
+        "001118.webp",
+        "001145.webp",
+        "001146.webp",
+        "001166.webp",
+        "001186.webp",
+        "001187.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Đa số các nền văn minh đều bắt nguồn từ những dòng sông và bên dòng Mekong, hàng ngàn câu chuyện đã được ghi lại từ thế hệ này sang thế hệ khác.",
+      "start": 47.56,
+      "end": 58.48,
+      "n_words": 33,
+      "start_frame": 1189,
+      "end_frame": 1462,
+      "keyframes": [
+        "001215.webp",
+        "001244.webp",
+        "001245.webp",
+        "001280.webp",
+        "001316.webp",
+        "001317.webp",
+        "001341.webp",
+        "001365.webp",
+        "001366.webp",
+        "001403.webp",
+        "001440.webp",
+        "001441.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Hãy sẵn sàng cho một cuộc phiêu lưu đầy màu sắc và sức sống mới.",
+      "start": 58.48,
+      "end": 62.4,
+      "n_words": 15,
+      "start_frame": 1462,
+      "end_frame": 1560,
+      "keyframes": [
+        "001481.webp",
+        "001521.webp",
+        "001527.webp",
+        "001529.webp",
+        "001532.webp",
+        "001533.webp",
+        "001536.webp",
+        "001539.webp",
+        "001540.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Chúng ta cùng nhau khám phá những bí ẩn và vẻ đẹp của cuộc sống dọc theo sông Mekong, nơi mà tinh thần của con người và mạch sống của tự nhiên cộng sinh và giao thoa tạo nên môi trường sống tươi đẹp.",
+      "start": 62.4,
+      "end": 89.44,
+      "n_words": 44,
+      "start_frame": 1560,
+      "end_frame": 2236,
+      "keyframes": [
+        "001573.webp",
+        "001606.webp",
+        "001607.webp",
+        "001629.webp",
+        "001652.webp",
+        "001653.webp",
+        "001682.webp",
+        "001712.webp",
+        "001713.webp",
+        "001748.webp",
+        "001783.webp",
+        "001814.webp",
+        "001940.webp",
+        "002066.webp",
+        "002067.webp",
+        "002069.webp",
+        "002071.webp",
+        "002072.webp",
+        "002131.webp",
+        "002191.webp",
+        "002192.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Thưa quý vị, hoa quê tên gọi lục bình đậm đà sắc tím, tượng hình thủy chung, dù cho mưa gió bão bùng trôi đi vẫn nở tận cùng sông xa.",
+      "start": 89.44,
+      "end": 99.04,
+      "n_words": 31,
+      "start_frame": 2236,
+      "end_frame": 2476,
+      "keyframes": [
+        "002339.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đúng như vậy, dọc theo dòng Mekong, chúng ta sẽ dễ dàng bắt gặp hình ảnh của những mảng lục bình trôi.",
+      "start": 99.32,
+      "end": 104.2,
+      "n_words": 22,
+      "start_frame": 2483,
+      "end_frame": 2605,
+      "keyframes": [
+        "002486.webp",
+        "002487.webp",
+        "002519.webp",
+        "002551.webp",
+        "002552.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Tưởng chừng chỉ là một loài cây dại, nhưng nay lục bình đã có mặt trong các cơ sở sản xuất đồ thủ công để thể hiện bàn tay khéo léo và tỉ mỉ của người lao động, và bên cạnh đó mang lại giá trị kinh tế cao cho người dân địa phương.",
+      "start": 104.2,
+      "end": 116.4,
+      "n_words": 54,
+      "start_frame": 2605,
+      "end_frame": 2910,
+      "keyframes": [
+        "002726.webp",
+        "002890.webp",
+        "002901.webp",
+        "002902.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Hôm nay, xin mời quý vị cùng theo chân chương trình \"Đôi mắt Mekong\" đến với xã Tân Thuận, huyện Thới Bình, tại Cà Mau để cùng tìm hiểu về nghề đan lục bình - nghệ thuật, và bên cạnh đó hiểu hơn về những hoàn cảnh, những câu chuyện đặc biệt tại đây.",
+      "start": 116.4,
+      "end": 133.88,
+      "n_words": 54,
+      "start_frame": 2910,
+      "end_frame": 3347,
+      "keyframes": [
+        "002996.webp",
+        "003091.webp",
+        "003092.webp",
+        "003192.webp",
+        "003293.webp",
+        "003332.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Những câu chuyện đời nhiều bất hạnh, những dáng đi liêu xiêu, những bàn tay run run chậm chạp, những nỗ lực vươn lên số phận và cũng có những mặc cảm tưởng chừng không thoát ra được.",
+      "start": 133.88,
+      "end": 163.16,
+      "n_words": 38,
+      "start_frame": 3347,
+      "end_frame": 4079,
+      "keyframes": [
+        "003393.webp",
+        "003455.webp",
+        "003473.webp",
+        "003542.webp",
+        "003611.webp",
+        "003649.webp",
+        "003713.webp",
+        "003778.webp",
+        "003816.webp",
+        "003871.webp",
+        "003927.webp",
+        "003966.webp",
+        "004018.webp",
+        "004071.webp",
+        "004072.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "\"Bản thân đi cũng không có được thoải mái như người ta.",
+      "start": 163.16,
+      "end": 168.56,
+      "n_words": 12,
+      "start_frame": 4079,
+      "end_frame": 4214,
+      "keyframes": [
+        "004139.webp",
+        "004206.webp",
+        "004207.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Lúc đó mình cũng có mặc cảm, hệ thống tự rào ngăn cái thời có khi phương tới giờ rồi bán cho câu lạc bộ rồi phải chở cho đi chơi chỗ này chỗ kia, gợi mình thấy nhiều cái ngặt nghèo còn tệ hơn mình nữa, thôi nghĩ không có ý đó nữa.",
+      "start": 168.56,
+      "end": 182.48,
+      "n_words": 54,
+      "start_frame": 4214,
+      "end_frame": 4562,
+      "keyframes": [
+        "004302.webp",
+        "004398.webp",
+        "004399.webp",
+        "004478.webp",
+        "004558.webp",
+        "004559.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Tay thì nó cũng đau, chuyện nặng nhọc không chi trả được, phương là chỉ dẫn này tầng nào muốn đẹp đây, cả tầng nữa chứ đâu phải muốn vô mà làm được đâu.\"",
+      "start": 182.48,
+      "end": 196.0,
+      "n_words": 34,
+      "start_frame": 4562,
+      "end_frame": 4900,
+      "keyframes": [
+        "004631.webp",
+        "004703.webp",
+        "004704.webp",
+        "004795.webp",
+        "004887.webp",
+        "004888.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và rồi những mảnh đời ấy lại hội ngộ tại cùng một mái nhà, tay nắm tay dìu dắt đến những đoạn đời tươi sáng hơn.",
+      "start": 196.0,
+      "end": 204.88,
+      "n_words": 26,
+      "start_frame": 4900,
+      "end_frame": 5122,
+      "keyframes": [
+        "004943.webp",
+        "004999.webp",
+        "005023.webp",
+        "005046.webp",
+        "005070.webp",
+        "005071.webp",
+        "005096.webp",
+        "005121.webp",
+        "005122.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Những đôi bàn tay hăng say lao động đã tạm quên đi những tổn thương để mang lại những nét đẹp cho đời.",
+      "start": 204.88,
+      "end": 217.68,
+      "n_words": 23,
+      "start_frame": 5122,
+      "end_frame": 5442,
+      "keyframes": [
+        "005122.webp",
+        "005170.webp",
+        "005218.webp",
+        "005250.webp",
+        "005282.webp",
+        "005314.webp",
+        "005318.webp",
+        "005378.webp",
+        "005439.webp",
+        "005440.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Thưa quý vị, bên cạnh Phương Uyên lúc này là chị Hồng Phương, chủ nhiệm câu lạc bộ phụ nữ khuyết tật tại xã Tân Thuận.",
+      "start": 217.68,
+      "end": 223.52,
+      "n_words": 26,
+      "start_frame": 5442,
+      "end_frame": 5588,
+      "keyframes": [
+        "005475.webp",
+        "005511.webp",
+        "005512.webp",
+        "005534.webp",
+        "005556.webp",
+        "005557.webp",
+        "005571.webp",
+        "005585.webp",
+        "005586.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Dạ, cảm ơn chị Phương vì đã nhận lời để tham gia chương trình ngày hôm nay để giới thiệu với quý vị khán giả của chương trình \"Đôi mắt Mekong\" một ngành nghề rất là hay và đặc trưng tại vùng sông nước Mekong của mình, đó là nghề đan lục bình.",
+      "start": 223.52,
+      "end": 235.64,
+      "n_words": 53,
+      "start_frame": 5588,
+      "end_frame": 5891,
+      "keyframes": [
+        "005631.webp",
+        "005676.webp",
+        "005677.webp",
+        "005710.webp",
+        "005743.webp",
+        "005744.webp",
+        "005815.webp",
+        "005887.webp",
+        "005888.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Thì cho em hỏi là cơ duyên nào chị thành lập câu lạc bộ này và đối với chị được bao lâu rồi?",
+      "start": 235.64,
+      "end": 239.96,
+      "n_words": 23,
+      "start_frame": 5891,
+      "end_frame": 5999,
+      "keyframes": [
+        "005910.webp",
+        "005932.webp",
+        "005933.webp",
+        "005977.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "\"Thì nói chung cơ duyên thì tôi cũng tham gia cái Hội Liên hiệp Phụ nữ của xã Tân Thuận.",
+      "start": 240.72,
+      "end": 246.24,
+      "n_words": 20,
+      "start_frame": 6018,
+      "end_frame": 6156,
+      "keyframes": [
+        "006022.webp",
+        "006023.webp",
+        "006115.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thì trong lúc công tác Hội Phụ nữ thì cũng gặp nhiều chị em người khuyết tật rất là khó khăn, không được hòa nhập với cộng đồng.",
+      "start": 246.24,
+      "end": 255.84,
+      "n_words": 28,
+      "start_frame": 6156,
+      "end_frame": 6396,
+      "keyframes": [
+        "006207.webp",
+        "006208.webp",
+        "006245.webp",
+        "006283.webp",
+        "006284.webp",
+        "006312.webp",
+        "006341.webp",
+        "006342.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Thành ra vì chỗ đó có cái lý tưởng để thành lập, xin phép ở trên thành lập một cái câu lạc bộ phụ nữ khuyết tật để mời chị em về tham gia, để mà họp hội, để cho chị em hòa đồng với xã hội.",
+      "start": 255.84,
+      "end": 266.48,
+      "n_words": 47,
+      "start_frame": 6396,
+      "end_frame": 6662,
+      "keyframes": [
+        "006403.webp",
+        "006464.webp",
+        "006465.webp",
+        "006502.webp",
+        "006539.webp",
+        "006540.webp",
+        "006600.webp",
+        "006661.webp",
+        "006662.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Bước đầu là hướng dẫn cho chị em kết bông, kết bông mà thêu tranh đính đá rồi sau đó huyện, tỉnh với cấp trên cũng rất là quan tâm giới thiệu.\"",
+      "start": 266.48,
+      "end": 276.12,
+      "n_words": 32,
+      "start_frame": 6662,
+      "end_frame": 6903,
+      "keyframes": [
+        "006662.webp",
+        "006695.webp",
+        "006728.webp",
+        "006729.webp",
+        "006767.webp",
+        "006805.webp",
+        "006806.webp",
+        "006826.webp",
+        "006846.webp",
+        "006847.webp",
+        "006865.webp",
+        "006884.webp",
+        "006885.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "\"Là bắt đầu từ năm mấy chị ha?\"",
+      "start": 276.12,
+      "end": 278.4,
+      "n_words": 8,
+      "start_frame": 6903,
+      "end_frame": 6960,
+      "keyframes": [
+        "006916.webp",
+        "006948.webp",
+        "006949.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "\"Bước đầu tham gia là đan thủ công mỹ nghệ này là 2016.\"",
+      "start": 278.4,
+      "end": 281.64,
+      "n_words": 13,
+      "start_frame": 6960,
+      "end_frame": 7041,
+      "keyframes": [
+        "006979.webp",
+        "007009.webp",
+        "007010.webp",
+        "007037.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "\"Lúc đó là có bao nhiêu người tham gia để học những cái buổi học đầu tiên tại câu lạc bộ?\"",
+      "start": 282.72,
+      "end": 288.52,
+      "n_words": 21,
+      "start_frame": 7068,
+      "end_frame": 7213,
+      "keyframes": [
+        "007091.webp",
+        "007117.webp",
+        "007118.webp",
+        "007136.webp",
+        "007155.webp",
+        "007156.webp",
+        "007202.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "\"Bước đầu tham gia thì mở cái lớp dạy nghề xin ở huyện cho cái lớp dạy nghề được 3 tháng thì tham gia được 35 chị.",
+      "start": 288.52,
+      "end": 298.12,
+      "n_words": 27,
+      "start_frame": 7213,
+      "end_frame": 7453,
+      "keyframes": [
+        "007248.webp",
+        "007249.webp",
+        "007285.webp",
+        "007322.webp",
+        "007323.webp",
+        "007361.webp",
+        "007400.webp",
+        "007401.webp",
+        "007446.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "35 chị học xuyên suốt thời gian đầu.\"",
+      "start": 298.12,
+      "end": 300.16,
+      "n_words": 8,
+      "start_frame": 7453,
+      "end_frame": 7504,
+      "keyframes": [
+        "007491.webp",
+        "007492.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "\"Khi mà chưa được biết đến rộng rãi giống như bây giờ, các chị sẽ tự tìm đến mình hay là chị sẽ đi tìm từng hoàn cảnh, từng câu chuyện để mời đến đây và tham gia?\"",
+      "start": 300.16,
+      "end": 309.4,
+      "n_words": 38,
+      "start_frame": 7504,
+      "end_frame": 7735,
+      "keyframes": [
+        "007524.webp",
+        "007556.webp",
+        "007557.webp",
+        "007587.webp",
+        "007618.webp",
+        "007619.webp",
+        "007656.webp",
+        "007693.webp",
+        "007694.webp",
+        "007731.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "\"Động viên mọi người đến, rồi nhờ cũng thông tin của xã, rồi chị cũng đi họp, chị cũng triển khai ra cho chị em, rồi chị em nắm được cái chỗ đó rồi hỏi thăm đến rồi thành lập tổ riêng, nhóm cho mình rồi đưa 12 chị để học cái cơ bản về hướng dẫn lại.\"",
+      "start": 309.4,
+      "end": 326.08,
+      "n_words": 58,
+      "start_frame": 7735,
+      "end_frame": 8152,
+      "keyframes": [
+        "007768.webp",
+        "007769.webp",
+        "007842.webp",
+        "007915.webp",
+        "007916.webp",
+        "007947.webp",
+        "007978.webp",
+        "007979.webp",
+        "008007.webp",
+        "008036.webp",
+        "008037.webp",
+        "008066.webp",
+        "008095.webp",
+        "008096.webp",
+        "008140.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "\"Dạ rồi dần dần thì coi như là mấy chị trong xã rồi xã ngoài nữa đều biết đến là sẽ tự tìm đến câu lạc bộ mình để cùng tham gia ngày một đông hơn?\"",
+      "start": 326.08,
+      "end": 334.64,
+      "n_words": 36,
+      "start_frame": 8152,
+      "end_frame": 8366,
+      "keyframes": [
+        "008184.webp",
+        "008185.webp",
+        "008224.webp",
+        "008263.webp",
+        "008264.webp",
+        "008291.webp",
+        "008318.webp",
+        "008319.webp",
+        "008340.webp",
+        "008362.webp",
+        "008363.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "\"Đúng rồi.\"",
+      "start": 334.64,
+      "end": 335.52,
+      "n_words": 2,
+      "start_frame": 8366,
+      "end_frame": 8388,
+      "keyframes": [
+        "008374.webp",
+        "008386.webp",
+        "008387.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thì trong thời gian học thì nó nhiều mẫu đan như các cái sản phẩm này nè, rồi rổ rồi nón rồi giỏ rồi khay hộp, nói chung rất là nhiều.\"",
+      "start": 335.52,
+      "end": 348.36,
+      "n_words": 31,
+      "start_frame": 8388,
+      "end_frame": 8709,
+      "keyframes": [
+        "008417.webp",
+        "008447.webp",
+        "008448.webp",
+        "008477.webp",
+        "008506.webp",
+        "008531.webp",
+        "008551.webp",
+        "008571.webp",
+        "008593.webp",
+        "008607.webp",
+        "008621.webp",
+        "008642.webp",
+        "008655.webp",
+        "008668.webp",
+        "008688.webp",
+        "008702.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "\"Chị ơi, em nhìn ở đây thì em thấy em tạm phân biệt là có mặt hàng gia dụng nè, rồi mặt hàng thời trang và hàng lưu niệm nữa.",
+      "start": 348.36,
+      "end": 355.52,
+      "n_words": 30,
+      "start_frame": 8709,
+      "end_frame": 8888,
+      "keyframes": [
+        "008716.webp",
+        "008737.webp",
+        "008751.webp",
+        "008765.webp",
+        "008785.webp",
+        "008803.webp",
+        "008822.webp",
+        "008823.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Vậy thì không biết sản phẩm nào nó sẽ tốn thời gian làm hơn và mấy chị em của mình là làm được hết tất cả các loại hàng này luôn hả chị?\"",
+      "start": 355.52,
+      "end": 362.12,
+      "n_words": 33,
+      "start_frame": 8888,
+      "end_frame": 9053,
+      "keyframes": [
+        "009003.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "\"Nói chung tốn thời gian là hàng lưu niệm với hàng thời trang tại vì cái hàng này mình rất là phải khéo tay làm, nó rất là tỉ mỉ.\"",
+      "start": 362.12,
+      "end": 369.6,
+      "n_words": 30,
+      "start_frame": 9053,
+      "end_frame": 9240,
+      "keyframes": [
+        "009184.webp",
+        "009185.webp",
+        "009211.webp",
+        "009238.webp",
+        "009239.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Còn hàng gia dụng thì nó đơn giản hơn, mấy chị làm nhanh hơn.",
+      "start": 369.6,
+      "end": 373.12,
+      "n_words": 14,
+      "start_frame": 9240,
+      "end_frame": 9328,
+      "keyframes": [
+        "009270.webp",
+        "009302.webp",
+        "009303.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mặt hàng gia dụng người ta đặt nhiều là chỗ công ty, còn cái thời trang với lưu niệm là mình bán ra thị trường.\"",
+      "start": 373.12,
+      "end": 378.88,
+      "n_words": 25,
+      "start_frame": 9328,
+      "end_frame": 9472,
+      "keyframes": [
+        "009336.webp",
+        "009370.webp",
+        "009371.webp",
+        "009422.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "\"Nãy giờ em nghe chị chia sẻ về những cái quy trình làm sản phẩm với lại xưởng sản xuất của mình thì chị có thể dẫn em đi tham quan với lại gặp mấy chị bên đó được không chị?\"",
+      "start": 378.88,
+      "end": 386.72,
+      "n_words": 41,
+      "start_frame": 9472,
+      "end_frame": 9668,
+      "keyframes": [
+        "009474.webp",
+        "009475.webp",
+        "009515.webp",
+        "009556.webp",
+        "009557.webp",
+        "009573.webp",
+        "009589.webp",
+        "009590.webp",
+        "009610.webp",
+        "009630.webp",
+        "009631.webp",
+        "009648.webp",
+        "009665.webp",
+        "009666.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "\"Rồi, mời em đi qua bên xưởng gặp mấy chị mình đang làm.\"",
+      "start": 386.72,
+      "end": 403.52,
+      "n_words": 13,
+      "start_frame": 9668,
+      "end_frame": 10088,
+      "keyframes": [
+        "009686.webp",
+        "009707.webp",
+        "009708.webp",
+        "009726.webp",
+        "009744.webp",
+        "009745.webp",
+        "009758.webp",
+        "009772.webp",
+        "009791.webp",
+        "009802.webp",
+        "009814.webp",
+        "009834.webp",
+        "009846.webp",
+        "009858.webp",
+        "009874.webp",
+        "009883.webp",
+        "009893.webp",
+        "009922.webp",
+        "009948.webp",
+        "009975.webp",
+        "009997.webp",
+        "010010.webp",
+        "010024.webp",
+        "010050.webp"
+      ],
+      "keyframe_count": 24
+    },
+    {
+      "text": "\"Công việc này là cái công đoạn gì chị ha?\"",
+      "start": 403.52,
+      "end": 405.52,
+      "n_words": 10,
+      "start_frame": 10088,
+      "end_frame": 10138,
+      "keyframes": [
+        "010093.webp",
+        "010136.webp",
+        "010137.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "\"Cái công đoạn đang cắt cái mấy cái gốc này đặng để mình chuẩn bị mình đan mình sẽ quay cho nó tròn cái này là gọi là cái đứt giỏ hay là cái đầu nón rồi đó rồi mình làm cho nó thành cái công đoạn này rồi mình bắt đầu mình đan lên.\"",
+      "start": 405.52,
+      "end": 423.12,
+      "n_words": 55,
+      "start_frame": 10138,
+      "end_frame": 10578,
+      "keyframes": [
+        "010173.webp",
+        "010209.webp",
+        "010210.webp",
+        "010241.webp",
+        "010272.webp",
+        "010273.webp",
+        "010339.webp",
+        "010406.webp",
+        "010407.webp",
+        "010450.webp",
+        "010493.webp",
+        "010494.webp",
+        "010536.webp",
+        "010578.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "\"Cái này em thấy chị cắt bỏ như vậy á là mình bỏ luôn hay là mình có sử dụng được gì không chị?\"",
+      "start": 423.12,
+      "end": 428.36,
+      "n_words": 24,
+      "start_frame": 10578,
+      "end_frame": 10709,
+      "keyframes": [
+        "010578.webp",
+        "010579.webp",
+        "010600.webp",
+        "010622.webp",
+        "010623.webp",
+        "010653.webp",
+        "010684.webp",
+        "010685.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "\"Mình cũng sử dụng lại là mình làm phân hủy để trồng cây rau cải, đất mình sẽ gom mấy cái này lại xong rồi mình sẽ đem giống như là làm phân hữu cơ dễ bón cho cây luôn.\"",
+      "start": 428.36,
+      "end": 441.2,
+      "n_words": 40,
+      "start_frame": 10709,
+      "end_frame": 11030,
+      "keyframes": [
+        "010714.webp",
+        "010743.webp",
+        "010744.webp",
+        "010799.webp",
+        "010854.webp",
+        "010855.webp",
+        "010914.webp",
+        "010974.webp",
+        "010975.webp",
+        "011012.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "\"Rồi bình thường là chị sẽ dành thời gian để đến đây để làm vào những lúc nào?\"",
+      "start": 441.2,
+      "end": 446.48,
+      "n_words": 18,
+      "start_frame": 11030,
+      "end_frame": 11162,
+      "keyframes": [
+        "011050.webp",
+        "011051.webp",
+        "011103.webp",
+        "011156.webp",
+        "011157.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "\"Cũng dành thời gian là có bữa nào mình công việc ở đây nhiều á thì mình đến đây mình ngồi mình đan.",
+      "start": 446.48,
+      "end": 452.96,
+      "n_words": 23,
+      "start_frame": 11162,
+      "end_frame": 11324,
+      "keyframes": [
+        "011208.webp",
+        "011260.webp",
+        "011261.webp",
+        "011300.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Còn nếu công việc nó nhàn rỗi hơn chút nữa thì mình nhận từ cái cọc này về nhà mình làm.",
+      "start": 452.96,
+      "end": 458.84,
+      "n_words": 21,
+      "start_frame": 11324,
+      "end_frame": 11471,
+      "keyframes": [
+        "011340.webp",
+        "011341.webp",
+        "011388.webp",
+        "011435.webp",
+        "011436.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cái cọc lục bình này về nhà mình làm thì nếu mình đan lẹ thì một ngày mình thu nhập cũng 70-80 ngàn, 100 ngàn.\"",
+      "start": 458.84,
+      "end": 468.6,
+      "n_words": 25,
+      "start_frame": 11471,
+      "end_frame": 11715,
+      "keyframes": [
+        "011493.webp",
+        "011550.webp",
+        "011551.webp",
+        "011612.webp",
+        "011674.webp",
+        "011675.webp",
+        "011696.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Mình làm theo cái sức khỏe của mình thôi.\"",
+      "start": 468.6,
+      "end": 471.04,
+      "n_words": 9,
+      "start_frame": 11715,
+      "end_frame": 11776,
+      "keyframes": [
+        "011717.webp",
+        "011718.webp",
+        "011745.webp",
+        "011772.webp",
+        "011773.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "\"Chị là gắn bó với câu lạc bộ của mình là bao lâu rồi chị ha?\"",
+      "start": 471.04,
+      "end": 474.04,
+      "n_words": 16,
+      "start_frame": 11776,
+      "end_frame": 11851,
+      "keyframes": [
+        "011824.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "\"Cũng nhiều năm qua hồi năm 2016 cho đến giờ.\"",
+      "start": 474.04,
+      "end": 478.6,
+      "n_words": 10,
+      "start_frame": 11851,
+      "end_frame": 11965,
+      "keyframes": [
+        "011875.webp",
+        "011876.webp",
+        "011906.webp",
+        "011937.webp",
+        "011938.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "\"Vậy tính ra mấy chị ở đây là ai cũng gắn bó cũng nhiều năm rồi.\"",
+      "start": 478.6,
+      "end": 482.0,
+      "n_words": 16,
+      "start_frame": 11965,
+      "end_frame": 12050,
+      "keyframes": [
+        "011991.webp",
+        "012045.webp",
+        "012046.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Dạ chị ơi, không biết là chị gắn bó với câu lạc bộ mình bao nhiêu lâu rồi?\"",
+      "start": 482.0,
+      "end": 485.6,
+      "n_words": 18,
+      "start_frame": 12050,
+      "end_frame": 12140,
+      "keyframes": [
+        "012116.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "\"Năm 2016 tới nay.",
+      "start": 486.16,
+      "end": 488.04,
+      "n_words": 4,
+      "start_frame": 12154,
+      "end_frame": 12201,
+      "keyframes": [
+        "012187.webp",
+        "012188.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chiếc xe thì vô làm bông hoa vậy đó sau mới tới bên lục bình.",
+      "start": 488.04,
+      "end": 494.08,
+      "n_words": 15,
+      "start_frame": 12201,
+      "end_frame": 12352,
+      "keyframes": [
+        "012262.webp",
+        "012337.webp",
+        "012338.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tôi là bệnh tai biến tay chân này nè làm nó hơi yếu, bên lục bình này thì tôi chỉ lựa cắt này nè.",
+      "start": 494.08,
+      "end": 500.0,
+      "n_words": 24,
+      "start_frame": 12352,
+      "end_frame": 12500,
+      "keyframes": [
+        "012393.webp",
+        "012449.webp",
+        "012450.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chị hôm nay mới rả rác vậy đó, tôi chỉ làm chuyện nhẹ nhàng thôi.",
+      "start": 500.16,
+      "end": 504.88,
+      "n_words": 15,
+      "start_frame": 12504,
+      "end_frame": 12622,
+      "keyframes": [
+        "012553.webp",
+        "012554.webp",
+        "012592.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nhờ tới đây nè làm bông hoa như dịp Tết thì cũng có tính lời chút đỉnh, lúc nào rảnh thì tới đây làm lục bình.\"",
+      "start": 504.88,
+      "end": 513.4,
+      "n_words": 26,
+      "start_frame": 12622,
+      "end_frame": 12835,
+      "keyframes": [
+        "012631.webp",
+        "012632.webp",
+        "012690.webp",
+        "012748.webp",
+        "012749.webp",
+        "012790.webp",
+        "012831.webp",
+        "012832.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "\"Là mình bị liệt tay chân vậy nè bên vậy đó chị có đan được không?\"",
+      "start": 513.4,
+      "end": 519.6,
+      "n_words": 16,
+      "start_frame": 12835,
+      "end_frame": 12990,
+      "keyframes": [
+        "012857.webp",
+        "012882.webp",
+        "012883.webp",
+        "012922.webp",
+        "012962.webp",
+        "012963.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "\"Đan chút đỉnh được mà lưng chậm gì á, từ từ lúc nào khỏe thì hồi đan, lúc ngồi đây lúc nào mệt thì mình nghỉ.\"",
+      "start": 519.6,
+      "end": 525.84,
+      "n_words": 26,
+      "start_frame": 12990,
+      "end_frame": 13146,
+      "keyframes": [
+        "013002.webp",
+        "013041.webp",
+        "013042.webp",
+        "013090.webp",
+        "013138.webp",
+        "013139.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "\"Chị đang làm công đoạn gì?\"",
+      "start": 525.84,
+      "end": 527.68,
+      "n_words": 6,
+      "start_frame": 13146,
+      "end_frame": 13192,
+      "keyframes": [
+        "013190.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "\"Đưa mấy cái thùng này nè vậy nè rồi qua nè hết rồi.",
+      "start": 527.68,
+      "end": 530.72,
+      "n_words": 13,
+      "start_frame": 13192,
+      "end_frame": 13268,
+      "keyframes": [
+        "013242.webp",
+        "013243.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ tới thắt bính với cái này, ví dụ mình quấn dây tép á rồi cái mình mới đem cái cặp đó vô.",
+      "start": 530.72,
+      "end": 538.08,
+      "n_words": 24,
+      "start_frame": 13268,
+      "end_frame": 13452,
+      "keyframes": [
+        "013272.webp",
+        "013301.webp",
+        "013302.webp",
+        "013346.webp",
+        "013391.webp",
+        "013392.webp",
+        "013420.webp",
+        "013448.webp",
+        "013449.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Dạ ví dụ như cái này thì gọi là gì chị ha?\"",
+      "start": 538.08,
+      "end": 540.64,
+      "n_words": 12,
+      "start_frame": 13452,
+      "end_frame": 13516,
+      "keyframes": [
+        "013478.webp",
+        "013507.webp",
+        "013508.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "\"Như cái này kêu là cái rổ, như rổ cua vậy đó. Như cái rổ này là một ngày mình làm mấy cái?\"",
+      "start": 540.64,
+      "end": 548.84,
+      "n_words": 23,
+      "start_frame": 13516,
+      "end_frame": 13721,
+      "keyframes": [
+        "013634.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "\"Như mấy người nhanh tay thì làm ngày có cả chục cái cũng có, mà như tôi dở lắm tôi làm ngày 3-4 cái, 2-3 cái cũng chừng, cũng như là lúc nào rảnh rỗi thì làm chứ không có làm xuyên suốt.\"",
+      "start": 548.84,
+      "end": 560.24,
+      "n_words": 43,
+      "start_frame": 13721,
+      "end_frame": 14006,
+      "keyframes": [
+        "013760.webp",
+        "013761.webp",
+        "013839.webp",
+        "013917.webp",
+        "013918.webp",
+        "013963.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "\"Rồi hồi đó làm sao mà chị mới biết tới câu lạc bộ này?\"",
+      "start": 560.24,
+      "end": 562.96,
+      "n_words": 14,
+      "start_frame": 14006,
+      "end_frame": 14074,
+      "keyframes": [
+        "014008.webp",
+        "014037.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "này hồi đó hai cái bà chi hội phụ nữ này nè chị Phương nè viết chế phẩm á bả hỏi cái người hàng xóm á là ở trong kinh bảy có ai tật nguyền không rồi cái bà chị vợ của bà chi hội bà anh của tôi bả dẫn người ta vô tới nhà rồi chỉ chừng hẹn ra đây, cần hẹn ra đây nè là coi như mình làm công việc này.\"",
+      "start": 563.2,
+      "end": 585.12,
+      "n_words": 75,
+      "start_frame": 14080,
+      "end_frame": 14628,
+      "keyframes": [
+        "014081.webp",
+        "014126.webp",
+        "014127.webp",
+        "014176.webp",
+        "014225.webp",
+        "014226.webp",
+        "014262.webp",
+        "014299.webp",
+        "014300.webp",
+        "014325.webp",
+        "014350.webp",
+        "014351.webp",
+        "014375.webp",
+        "014399.webp",
+        "014400.webp",
+        "014415.webp",
+        "014431.webp",
+        "014432.webp",
+        "014466.webp",
+        "014501.webp",
+        "014502.webp",
+        "014547.webp",
+        "014592.webp",
+        "014593.webp"
+      ],
+      "keyframe_count": 24
+    },
+    {
+      "text": "\"Thì chính quyền địa phương với lại các đơn vị truyền thông rồi cũng quan tâm để hỗ trợ các chị em thêm đúng không?",
+      "start": 585.12,
+      "end": 590.88,
+      "n_words": 25,
+      "start_frame": 14628,
+      "end_frame": 14772,
+      "keyframes": [
+        "014657.webp",
+        "014722.webp",
+        "014723.webp",
+        "014753.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Rồi chị làm cái này là có thu nhập ổn không chị?\"",
+      "start": 590.88,
+      "end": 593.2,
+      "n_words": 12,
+      "start_frame": 14772,
+      "end_frame": 14830,
+      "keyframes": [
+        "014784.webp",
+        "014785.webp",
+        "014819.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "\"Thì cũng lay lắt cũng đủ sống được hàng ngày.\"",
+      "start": 593.2,
+      "end": 597.08,
+      "n_words": 10,
+      "start_frame": 14830,
+      "end_frame": 14927,
+      "keyframes": [
+        "014854.webp",
+        "014855.webp",
+        "014896.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "\"Dạ thời gian đầu mà lúc chị đến lớp chị học á là có khó khăn gì trong cái việc mà di chuyển đến đây không chị?\"",
+      "start": 597.08,
+      "end": 603.04,
+      "n_words": 27,
+      "start_frame": 14927,
+      "end_frame": 15076,
+      "keyframes": [
+        "014938.webp",
+        "014939.webp",
+        "014967.webp",
+        "014996.webp",
+        "014997.webp",
+        "015070.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "\"Khó chứ lúc đó lắm tôi bơi bằng chiếc xuồng bưng đi bằng về tôi bơi 12 cây số á dạ rồi cái bơi còn chừng mười mấy bữa nữa nói chị Phương ơi bây giờ tôi bơi hết nổi rồi, cái bà sợ tôi bỏ ngang tới bà nói thôi mày đừng ấy nghe để tao bây giờ đi rồi tao rước mày sáng bà chạy vô rước, chiều bà đưa về.",
+      "start": 603.04,
+      "end": 625.52,
+      "n_words": 73,
+      "start_frame": 15076,
+      "end_frame": 15638,
+      "keyframes": [
+        "015144.webp",
+        "015145.webp",
+        "015173.webp",
+        "015201.webp",
+        "015202.webp",
+        "015223.webp",
+        "015244.webp",
+        "015245.webp",
+        "015275.webp",
+        "015305.webp",
+        "015306.webp",
+        "015456.webp",
+        "015607.webp",
+        "015638.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "À sáng đưa về.\"",
+      "start": 625.52,
+      "end": 627.6,
+      "n_words": 4,
+      "start_frame": 15638,
+      "end_frame": 15690,
+      "keyframes": [
+        "015638.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "\"Em được biết là chị là nạn nhân của chất độc màu da cam?\"",
+      "start": 627.6,
+      "end": 632.4,
+      "n_words": 14,
+      "start_frame": 15690,
+      "end_frame": 15810,
+      "keyframes": [
+        "015691.webp",
+        "015744.webp",
+        "015745.webp",
+        "015787.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "\"Đúng rồi sức khỏe tôi thì yếu cũng dở lắm cũng như ăn em mét hoài như giọt sẵn thì đi đi cũng không có được thoải mái như người ta.",
+      "start": 632.4,
+      "end": 643.16,
+      "n_words": 31,
+      "start_frame": 15810,
+      "end_frame": 16079,
+      "keyframes": [
+        "015830.webp",
+        "015831.webp",
+        "015890.webp",
+        "015949.webp",
+        "015950.webp",
+        "015993.webp",
+        "016036.webp",
+        "016037.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Thì lúc đầu mình lúc đó mình cũng có mặc cảm, rồi cái hồi có chị Phương tới giờ rồi bả vô câu lạc bộ rồi bà chở cho đi chơi này nọ chỗ này chỗ kia rồi mình vô câu lạc bộ này chị Phương cũng xin cho được cái nhà sống giờ mà đan lục bình này thì cũng đắp đỡ qua ngày, cũng như là cũng đỡ nói chung là cũng nhờ chị Phương, nhờ câu lạc bộ này mình đến cái mình thấy là mọi người đều có một hoàn cảnh rồi lúc đó mình mới nghị lực hơn, mình mới kiểu như là chia sẻ rồi mình sống mình mạnh mẽ hơn đúng không chị ha?\"",
+      "start": 643.16,
+      "end": 679.36,
+      "n_words": 121,
+      "start_frame": 16079,
+      "end_frame": 16984,
+      "keyframes": [
+        "016136.webp",
+        "016235.webp",
+        "016236.webp",
+        "016298.webp",
+        "016360.webp",
+        "016361.webp",
+        "016446.webp",
+        "016532.webp",
+        "016533.webp",
+        "016594.webp",
+        "016655.webp",
+        "016656.webp",
+        "016724.webp",
+        "016792.webp",
+        "016793.webp",
+        "016818.webp",
+        "016843.webp",
+        "016844.webp",
+        "016879.webp",
+        "016915.webp",
+        "016916.webp",
+        "016933.webp",
+        "016951.webp",
+        "016952.webp"
+      ],
+      "keyframe_count": 24
+    },
+    {
+      "text": "\"Cảm ơn chị, biết đến nghề này bao lâu rồi không chị?\"",
+      "start": 679.36,
+      "end": 684.36,
+      "n_words": 12,
+      "start_frame": 16984,
+      "end_frame": 17109,
+      "keyframes": [
+        "016987.webp",
+        "017022.webp",
+        "017023.webp",
+        "017066.webp",
+        "017109.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "\"Tôi phụ nữ nghèo khó khăn thì nuôi con ăn học vậy đó thì chỉ trồng rau cải giá thôi, đời sống tôi là gì rồi cũng thấy chị em ta cũng đi người ta rảnh về nhà ta làm đó, người ta làm đó đâu biết đâu rồi hỏi thăm ta mới chỉ xuống đây nè.",
+      "start": 684.36,
+      "end": 702.88,
+      "n_words": 57,
+      "start_frame": 17109,
+      "end_frame": 17572,
+      "keyframes": [
+        "017109.webp",
+        "017110.webp",
+        "017165.webp",
+        "017221.webp",
+        "017222.webp",
+        "017254.webp",
+        "017287.webp",
+        "017288.webp",
+        "017321.webp",
+        "017354.webp",
+        "017355.webp",
+        "017404.webp",
+        "017454.webp",
+        "017455.webp",
+        "017491.webp",
+        "017527.webp",
+        "017528.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Cái mấy thì lúc đó thì cũng chưa có quyết định làm nữa thì thời gian rồi thôi đi làm cũng như mưa gió rồi thất thường mình trồng rau cải cũng không được có thu nhập gì mấy, quyết định xuống đây thì chị Phương hướng dẫn cho mà đưa lục bình này nè kiếm thêm thu nhập thấy nó cũng ổn định mà cũng thấy nó cũng nhàn gọn hơn.\"",
+      "start": 702.88,
+      "end": 733.24,
+      "n_words": 72,
+      "start_frame": 17572,
+      "end_frame": 18331,
+      "keyframes": [
+        "017596.webp",
+        "017665.webp",
+        "017666.webp",
+        "017701.webp",
+        "017737.webp",
+        "017738.webp",
+        "017781.webp",
+        "017825.webp",
+        "017855.webp",
+        "017940.webp",
+        "018025.webp",
+        "018026.webp",
+        "018079.webp",
+        "018133.webp",
+        "018134.webp",
+        "018203.webp",
+        "018272.webp",
+        "018273.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "\"Mấy chị này là đang học mà làm cái này, vậy có phải đây là cái công đoạn coi như là cơ bản nhất ở trong mình không chị?\" \"Đúng rồi cái này là cơ bản thôi.",
+      "start": 733.24,
+      "end": 740.64,
+      "n_words": 37,
+      "start_frame": 18331,
+      "end_frame": 18516,
+      "keyframes": [
+        "018334.webp",
+        "018396.webp",
+        "018397.webp",
+        "018437.webp",
+        "018477.webp",
+        "018478.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cái này là công đoạn đầu tiên cơ bản là mình làm xong rồi mình bó lại bó gì 5-10 ký vậy đó rồi mình giao cho công ty, công ty về người ta còn đóng vô ghế vô giỏ đồ nữa.\"",
+      "start": 740.64,
+      "end": 751.4,
+      "n_words": 42,
+      "start_frame": 18516,
+      "end_frame": 18785,
+      "keyframes": [
+        "018545.webp",
+        "018613.webp",
+        "018614.webp",
+        "018657.webp",
+        "018700.webp",
+        "018734.webp",
+        "018757.webp",
+        "018781.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "\"Em thấy ở đây có nhiều cái lục bình khô sẵn rồi nè là chị nhận lục bình khô hay là mình sẽ phơi ở chỗ nào cho nó khô?\"",
+      "start": 751.4,
+      "end": 758.4,
+      "n_words": 30,
+      "start_frame": 18785,
+      "end_frame": 18960,
+      "keyframes": [
+        "018810.webp",
+        "018896.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "\"Mình mua của người dân ở vùng nước ngọt á ta có lục bình dưới xong ta cắt lên người ta bán ta phơi khô rồi mình lấy khô sẵn.\"",
+      "start": 758.4,
+      "end": 766.8,
+      "n_words": 30,
+      "start_frame": 18960,
+      "end_frame": 19170,
+      "keyframes": [
+        "018982.webp",
+        "018983.webp",
+        "019038.webp",
+        "019093.webp",
+        "019094.webp",
+        "019130.webp",
+        "019166.webp",
+        "019167.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "\"Em cũng đang tò mò em muốn học chị có thể chỉ em cái nào mà cơ bản nhất dễ nhất luôn chị được không?\"",
+      "start": 766.8,
+      "end": 772.08,
+      "n_words": 25,
+      "start_frame": 19170,
+      "end_frame": 19302,
+      "keyframes": [
+        "019183.webp",
+        "019199.webp",
+        "019200.webp",
+        "019276.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "\"Để chị chỉ cho em rồi em cầm đây là em cầm đây đi rồi chị sẽ hướng dẫn em bện tóc cái gì đây.\"",
+      "start": 772.08,
+      "end": 780.28,
+      "n_words": 25,
+      "start_frame": 19302,
+      "end_frame": 19507,
+      "keyframes": [
+        "019352.webp",
+        "019353.webp",
+        "019400.webp",
+        "019448.webp",
+        "019449.webp",
+        "019465.webp",
+        "019481.webp",
+        "019482.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Công đoạn đầu nè ha, rồi tới em làm cái này em làm được thì đó mình cứ lật lên gì mình úp vậy nè chứ mình không có lật ngang là mình sẽ lật úp qua đó.",
+      "start": 780.28,
+      "end": 795.52,
+      "n_words": 38,
+      "start_frame": 19507,
+      "end_frame": 19888,
+      "keyframes": [
+        "019542.webp",
+        "019602.webp",
+        "019603.webp",
+        "019655.webp",
+        "019707.webp",
+        "019708.webp",
+        "019736.webp",
+        "019765.webp",
+        "019766.webp",
+        "019821.webp",
+        "019876.webp",
+        "019877.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Đúng đúng, hay quá đó, có nghề rồi đó vậy đó.\"",
+      "start": 795.52,
+      "end": 800.08,
+      "n_words": 11,
+      "start_frame": 19888,
+      "end_frame": 20002,
+      "keyframes": [
+        "019905.webp",
+        "019933.webp",
+        "019934.webp",
+        "019964.webp",
+        "019995.webp",
+        "019996.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "\"Một bính như vậy là 10 mét?\"",
+      "start": 800.08,
+      "end": 802.08,
+      "n_words": 7,
+      "start_frame": 20002,
+      "end_frame": 20052,
+      "keyframes": [
+        "020026.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "\"10 mét.\"",
+      "start": 802.08,
+      "end": 802.76,
+      "n_words": 2,
+      "start_frame": 20052,
+      "end_frame": 20069,
+      "keyframes": [
+        "020057.webp",
+        "020058.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Hiện nay mình bán cho công ty thì được 12.000 một bình mà nếu mình làm gia công thì được 5.000 tính nguyên liệu đầu ra nữa thì nói chung cũng không có lời gì nhiều mà như có công ăn việc làm.\"",
+      "start": 802.76,
+      "end": 814.64,
+      "n_words": 43,
+      "start_frame": 20069,
+      "end_frame": 20366,
+      "keyframes": [
+        "020094.webp",
+        "020131.webp",
+        "020132.webp",
+        "020151.webp",
+        "020170.webp",
+        "020171.webp",
+        "020187.webp",
+        "020203.webp",
+        "020204.webp",
+        "020234.webp",
+        "020265.webp",
+        "020266.webp",
+        "020321.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "\"Dạ ủa chị cái này khi mà mình bắt đầu thắt thì cái đầu này có sợ bung không chị hay là mình thắt bung đó khi mà ấy thì thắt lại?\"",
+      "start": 814.64,
+      "end": 822.64,
+      "n_words": 32,
+      "start_frame": 20366,
+      "end_frame": 20566,
+      "keyframes": [
+        "020377.webp",
+        "020378.webp",
+        "020388.webp",
+        "020399.webp",
+        "020400.webp",
+        "020450.webp",
+        "020501.webp",
+        "020502.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "\"Mình xét tới những cọng lục bình mà nó mình bỏ đi đó, mình cột như thế này cột nha, cột lại rồi mình lấy kéo mình tề cho nó đẹp lại vậy là xong.\"",
+      "start": 822.64,
+      "end": 831.68,
+      "n_words": 35,
+      "start_frame": 20566,
+      "end_frame": 20792,
+      "keyframes": [
+        "020656.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "\"À tới khi nào mà mình làm hết cái này thì làm sao để nó dài ra được 10 mét chị?\"",
+      "start": 831.68,
+      "end": 836.88,
+      "n_words": 21,
+      "start_frame": 20792,
+      "end_frame": 20922,
+      "keyframes": [
+        "020811.webp",
+        "020812.webp",
+        "020875.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "\"À khi mà em đang làm thì thấy cái này nó nhỏ rồi đúng không, thấy cái cọng này nó nhỏ thì em thấy chắp vô lấy một cái cọng bằng cách này chắp cho nó đi vậy nè nó xui với nhau chắc dây.",
+      "start": 836.88,
+      "end": 855.72,
+      "n_words": 45,
+      "start_frame": 20922,
+      "end_frame": 21393,
+      "keyframes": [
+        "020939.webp",
+        "020940.webp",
+        "020994.webp",
+        "021049.webp",
+        "021050.webp",
+        "021119.webp",
+        "021189.webp",
+        "021190.webp",
+        "021214.webp",
+        "021238.webp",
+        "021239.webp",
+        "021267.webp",
+        "021295.webp",
+        "021296.webp",
+        "021336.webp",
+        "021376.webp",
+        "021377.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Như vậy là mình phải canh cái khoảng của mấy cọng dây để không có nối ba dây cùng một lúc đúng rồi, chừa ra để giữ được cái độ chắc của cái cọng dây chung nè đúng rồi nhưng nó đều nữa.",
+      "start": 855.72,
+      "end": 868.12,
+      "n_words": 43,
+      "start_frame": 21393,
+      "end_frame": 21703,
+      "keyframes": [
+        "021427.webp",
+        "021478.webp",
+        "021479.webp",
+        "021526.webp",
+        "021573.webp",
+        "021574.webp",
+        "021606.webp",
+        "021639.webp",
+        "021640.webp",
+        "021671.webp",
+        "021703.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Rồi mình cứ làm như vậy đến hết khi nào mà được 10 mét thì mình rút lại đúng không chị?\" \"Đúng không chị?\"",
+      "start": 868.12,
+      "end": 871.92,
+      "n_words": 24,
+      "start_frame": 21703,
+      "end_frame": 21798,
+      "keyframes": [
+        "021703.webp",
+        "021704.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "\"Đúng rồi, em làm lần đầu cho nên khúc bự khúc nhỏ.\"",
+      "start": 871.92,
+      "end": 875.32,
+      "n_words": 12,
+      "start_frame": 21798,
+      "end_frame": 21883,
+      "keyframes": [
+        "021819.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "\"Vậy thưa quý vị, được tự tay trải nghiệm kết lục bình như thế này thì Phương Uyên mới thấy là quả thật dường như mình không có được khéo như mấy chị.",
+      "start": 875.32,
+      "end": 884.2,
+      "n_words": 33,
+      "start_frame": 21883,
+      "end_frame": 22105,
+      "keyframes": [
+        "021934.webp",
+        "021935.webp",
+        "022028.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cái này đòi hỏi phải có lực tay nè vừa đủ, không có quá mạnh, không có quá lỏng.",
+      "start": 884.2,
+      "end": 889.16,
+      "n_words": 19,
+      "start_frame": 22105,
+      "end_frame": 22229,
+      "keyframes": [
+        "022121.webp",
+        "022122.webp",
+        "022158.webp",
+        "022195.webp",
+        "022196.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cũng như là Phương Uyên nghĩ là mấy chị ở đây cũng phải có một sự khéo tay và tỉ mỉ nhất định rồi siêng năng nữa thì mới có thể tạo nên những sản phẩm mỹ nghệ bằng lục bình đan đẹp như vậy.\"",
+      "start": 889.16,
+      "end": 914.08,
+      "n_words": 45,
+      "start_frame": 22229,
+      "end_frame": 22852,
+      "keyframes": [
+        "022239.webp",
+        "022283.webp",
+        "022284.webp",
+        "022311.webp",
+        "022338.webp",
+        "022339.webp",
+        "022389.webp",
+        "022439.webp",
+        "022470.webp",
+        "022494.webp",
+        "022518.webp",
+        "022519.webp",
+        "022557.webp",
+        "022595.webp",
+        "022596.webp",
+        "022632.webp",
+        "022668.webp",
+        "022669.webp",
+        "022707.webp",
+        "022746.webp",
+        "022750.webp",
+        "022810.webp"
+      ],
+      "keyframe_count": 22
+    },
+    {
+      "text": "\"Chị ơi, em thấy không khí sản xuất bên xưởng của mình lúc nào cũng rộn ràng, khắp mấy chị em vui quá mà khéo tay nữa.",
+      "start": 914.08,
+      "end": 920.6,
+      "n_words": 27,
+      "start_frame": 22852,
+      "end_frame": 23015,
+      "keyframes": [
+        "022871.webp",
+        "022872.webp",
+        "022940.webp",
+        "023009.webp",
+        "023010.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Vậy không biết là mỗi lần mà có những cái giải thưởng kiểu như là để tổ chức cho các xưởng hoặc là các câu lạc bộ làm đồ thủ công mỹ nghệ thi với nhau ở địa phương á thì chị có cho mấy chị tham gia không ạ?\"",
+      "start": 920.6,
+      "end": 932.28,
+      "n_words": 50,
+      "start_frame": 23015,
+      "end_frame": 23307,
+      "keyframes": [
+        "023055.webp",
+        "023101.webp",
+        "023102.webp",
+        "023135.webp",
+        "023168.webp",
+        "023169.webp",
+        "023208.webp",
+        "023248.webp",
+        "023249.webp",
+        "023276.webp",
+        "023304.webp",
+        "023305.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "\"Từ khi mà thành lập cái câu lạc bộ phụ nữ khuyết tật thì mấy chị tham gia rất nhiều, nhiều nơi rồi khách rồi các công ty xuống rồi để mà tiếp xúc với nhau thì mấy chị rất là tự tin rồi mấy chị cũng rất là mạnh dạn để làm hàng.",
+      "start": 932.28,
+      "end": 946.56,
+      "n_words": 54,
+      "start_frame": 23307,
+      "end_frame": 23664,
+      "keyframes": [
+        "023373.webp",
+        "023442.webp",
+        "023443.webp",
+        "023511.webp",
+        "023580.webp",
+        "023581.webp",
+        "023652.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Rồi cũng có dịp hồi năm 2018 thì cũng có mời mấy chị tham gia ở Hà Nội một chuyến thì mấy chị cũng có đi tham gia trưng bày sản phẩm của mình tới đó rồi thì mấy chị rất là thích.",
+      "start": 946.56,
+      "end": 957.04,
+      "n_words": 43,
+      "start_frame": 23664,
+      "end_frame": 23926,
+      "keyframes": [
+        "023724.webp",
+        "023725.webp",
+        "023811.webp",
+        "023897.webp",
+        "023898.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chỗ đó bây giờ mấy chị rất là đam mê về cái thủ công mỹ nghệ, thành ra mấy chị làm mấy chị cũng có cái phần thu nhập để giúp cho gia đình mình cuộc sống ổn định hơn.\"",
+      "start": 957.28,
+      "end": 967.16,
+      "n_words": 40,
+      "start_frame": 23932,
+      "end_frame": 24179,
+      "keyframes": [
+        "023963.webp",
+        "024028.webp",
+        "024029.webp",
+        "024163.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "\"Không biết là sắp tới chị sẽ có những cái định hướng nào cho câu lạc bộ của mình để phát triển nhiều hơn hoặc là chị có mong muốn trăn trở gì không chị?\"",
+      "start": 967.16,
+      "end": 974.24,
+      "n_words": 35,
+      "start_frame": 24179,
+      "end_frame": 24356,
+      "keyframes": [
+        "024298.webp",
+        "024299.webp",
+        "024345.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "\"Nói chung cũng có định hướng cho câu lạc bộ cũng rất là muốn nhiều cái sản phẩm mình đưa ra để giới thiệu rộng rãi ra để cho có cái phần mà thu nhập cao hơn cho mấy chị trong cuộc sống cho nó ổn định hơn.\"",
+      "start": 974.24,
+      "end": 991.72,
+      "n_words": 48,
+      "start_frame": 24356,
+      "end_frame": 24793,
+      "keyframes": [
+        "024391.webp",
+        "024392.webp",
+        "024453.webp",
+        "024514.webp",
+        "024515.webp",
+        "024574.webp",
+        "024633.webp",
+        "024634.webp",
+        "024660.webp",
+        "024686.webp",
+        "024687.webp",
+        "024719.webp",
+        "024752.webp",
+        "024753.webp",
+        "024786.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Trước mắt là những chiếc túi xách thời trang, những chiếc nón xinh xinh nằm kề bên những cái bình, cái khay, cái rổ được tạo hình từ cây lục bình được xếp ngay ngắn trên kệ.",
+      "start": 991.72,
+      "end": 1005.6,
+      "n_words": 37,
+      "start_frame": 24793,
+      "end_frame": 25140,
+      "keyframes": [
+        "024820.webp",
+        "024821.webp",
+        "024878.webp",
+        "024935.webp",
+        "024965.webp",
+        "024993.webp",
+        "025022.webp",
+        "025051.webp",
+        "025069.webp",
+        "025088.webp",
+        "025117.webp",
+        "025138.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Có mấy ai biết được những sản phẩm đầy tính mỹ thuật ấy được tạo ra từ đôi bàn tay của chị em phụ nữ khuyết tật và có hoàn cảnh đặc biệt khó khăn.",
+      "start": 1005.6,
+      "end": 1017.32,
+      "n_words": 35,
+      "start_frame": 25140,
+      "end_frame": 25433,
+      "keyframes": [
+        "025160.webp",
+        "025190.webp",
+        "025222.webp",
+        "025254.webp",
+        "025283.webp",
+        "025316.webp",
+        "025349.webp",
+        "025380.webp",
+        "025397.webp",
+        "025415.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Họ đã vượt lên chính mình để gửi chút tinh hoa vào đời, những đóa hoa nở muộn như đời thường thật đáng trân quý và yêu thương.",
+      "start": 1017.32,
+      "end": 1026.52,
+      "n_words": 28,
+      "start_frame": 25433,
+      "end_frame": 25663,
+      "keyframes": [
+        "025444.webp",
+        "025464.webp",
+        "025485.webp",
+        "025514.webp",
+        "025538.webp",
+        "025562.webp",
+        "025563.webp",
+        "025630.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Nhân cho dịp mà chương trình \"Đôi mắt Mekong\" đến đây thì em cũng xin được thay lời cho quý vị khán giả chúc cho chị Phương sẽ luôn có thật nhiều sức khỏe, giữ vững được tâm huyết này để duy trì tiếng cười và duy trì sinh kế cho câu lạc bộ phụ nữ khuyết tật tại xã mình cũng như ngày một nhân rộng phát triển ra hơn nữa để ngành nghề đan lục bình này - một ngành nghề rất là đặc trưng của vùng đồng bằng sông Cửu Long mình được giới thiệu rộng rãi đến bạn bè khắp đất nước cũng như là bạn bè nước ngoài.",
+      "start": 1026.52,
+      "end": 1051.84,
+      "n_words": 113,
+      "start_frame": 25663,
+      "end_frame": 26296,
+      "keyframes": [
+        "025697.webp",
+        "025698.webp",
+        "025744.webp",
+        "025790.webp",
+        "025791.webp",
+        "025820.webp",
+        "025849.webp",
+        "025850.webp",
+        "025878.webp",
+        "025907.webp",
+        "025908.webp",
+        "025981.webp",
+        "026054.webp",
+        "026055.webp",
+        "026093.webp",
+        "026132.webp",
+        "026133.webp",
+        "026210.webp",
+        "026288.webp",
+        "026289.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "\"Cũng xin thay mặt câu lạc bộ phụ nữ khuyết tật của xã Tân Thuận cũng cảm ơn chương trình đến đây chia sẻ để câu lạc bộ có cái sự thu nhập ổn định hơn trước đây chút, cảm ơn chị.\"",
+      "start": 1051.84,
+      "end": 1067.16,
+      "n_words": 42,
+      "start_frame": 26296,
+      "end_frame": 26679,
+      "keyframes": [
+        "026342.webp",
+        "026396.webp",
+        "026397.webp",
+        "026438.webp",
+        "026479.webp",
+        "026480.webp",
+        "026532.webp",
+        "026584.webp",
+        "026585.webp",
+        "026636.webp"
+      ],
+      "keyframe_count": 10
+    }
+  ]
+}

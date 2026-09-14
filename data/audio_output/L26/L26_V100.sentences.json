@@ -1,0 +1,664 @@
+{
+  "video_id": "L26_V100",
+  "fps": 25.0,
+  "n_sentences": 37,
+  "total_words": 1009,
+  "sentences": [
+    {
+      "text": "Rất món ngon mỗi ngày: Tôm càng hấp sốt mayonnaise xoài chua ngọt, béo thơm, vàng tươi mát. Vui được gặp lại các bạn khán giả đang đến với chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành.",
+      "start": 0.04,
+      "end": 42.36,
+      "n_words": 39,
+      "start_frame": 1,
+      "end_frame": 1059,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000130.webp",
+        "000147.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp",
+        "000359.webp",
+        "000418.webp",
+        "000419.webp",
+        "000521.webp",
+        "000624.webp",
+        "000625.webp",
+        "000691.webp",
+        "000757.webp",
+        "000758.webp",
+        "000848.webp",
+        "000938.webp",
+        "000939.webp"
+      ],
+      "keyframe_count": 48
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Azino Việt Nam Phước Hưng.",
+      "start": 42.36,
+      "end": 46.92,
+      "n_words": 13,
+      "start_frame": 1059,
+      "end_frame": 1173,
+      "keyframes": [
+        "001084.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ơi ngày hôm nay thấy Phước Hưng đã chuẩn bị tôm càng nè và có nếp nữa, món gì vậy ta?",
+      "start": 46.92,
+      "end": 52.16,
+      "n_words": 21,
+      "start_frame": 1173,
+      "end_frame": 1304,
+      "keyframes": [
+        "001229.webp",
+        "001230.webp",
+        "001248.webp",
+        "001266.webp",
+        "001267.webp",
+        "001286.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Ngày hôm nay Phước Hưng sẽ hướng dẫn cho các bạn một cái món ăn có một cái sự kết hợp rất là độc đáo, đó chính là tôm càng hấp sốt mayonnaise xoài.",
+      "start": 52.16,
+      "end": 59.44,
+      "n_words": 34,
+      "start_frame": 1304,
+      "end_frame": 1486,
+      "keyframes": [
+        "001305.webp",
+        "001306.webp",
+        "001340.webp",
+        "001374.webp",
+        "001375.webp",
+        "001404.webp",
+        "001433.webp",
+        "001434.webp",
+        "001463.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Xoài, wow nghe hấp dẫn mà cũng có tò mò. Đúng rồi, làm liền đi nha.",
+      "start": 59.44,
+      "end": 63.56,
+      "n_words": 16,
+      "start_frame": 1486,
+      "end_frame": 1589,
+      "keyframes": [
+        "001493.webp",
+        "001494.webp",
+        "001542.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tôm càng thì ở đây Phước Hưng cũng đã sơ chế sẵn rồi.",
+      "start": 63.56,
+      "end": 66.0,
+      "n_words": 13,
+      "start_frame": 1589,
+      "end_frame": 1650,
+      "keyframes": [
+        "001590.webp",
+        "001591.webp",
+        "001630.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta chuẩn bị bốn con tôm càng và chúng ta để nguyên đầu và lột cái phần thân vỏ của nó đi, và chúng ta rửa sạch và để ráo.",
+      "start": 66.0,
+      "end": 73.92,
+      "n_words": 31,
+      "start_frame": 1650,
+      "end_frame": 1848,
+      "keyframes": [
+        "001669.webp",
+        "001670.webp",
+        "001706.webp",
+        "001742.webp",
+        "001743.webp",
+        "001793.webp",
+        "001844.webp",
+        "001845.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Còn phần xoài ở đây sẽ cắt hạt lựu để chúng ta làm sốt.",
+      "start": 73.92,
+      "end": 77.72,
+      "n_words": 14,
+      "start_frame": 1848,
+      "end_frame": 1943,
+      "keyframes": [
+        "001896.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đối với món ăn ngày hôm nay thì các bạn nên chọn xoài có cái độ chua nhẹ thì sẽ phù hợp với món ăn hơn.",
+      "start": 77.72,
+      "end": 86.92,
+      "n_words": 26,
+      "start_frame": 1943,
+      "end_frame": 2173,
+      "keyframes": [
+        "001947.webp",
+        "001948.webp",
+        "002062.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và bây giờ Phương sẽ đặt lên trên bếp một cái xửng hấp để chúng ta hấp xoài.",
+      "start": 86.92,
+      "end": 90.8,
+      "n_words": 18,
+      "start_frame": 2173,
+      "end_frame": 2270,
+      "keyframes": [
+        "002177.webp",
+        "002178.webp",
+        "002224.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Phước Hưng sẽ hướng dẫn cho các bạn ướp cái phần tôm càng này cho thấm vị.",
+      "start": 90.8,
+      "end": 94.6,
+      "n_words": 17,
+      "start_frame": 2270,
+      "end_frame": 2365,
+      "keyframes": [
+        "002271.webp",
+        "002272.webp",
+        "002352.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đầu tiên, Phước Hưng sẽ cho vào đây một muỗng canh bao gồm hành tím băm nè, đầu hành trắng băm nè và một ít ớt sừng băm, cho vào đây một ít tiêu, một phần ba muỗng cà phê hạt nêm Aji-ngon heo.",
+      "start": 94.6,
+      "end": 108.48,
+      "n_words": 44,
+      "start_frame": 2365,
+      "end_frame": 2712,
+      "keyframes": [
+        "002433.webp",
+        "002434.webp",
+        "002481.webp",
+        "002528.webp",
+        "002529.webp",
+        "002558.webp",
+        "002587.webp",
+        "002588.webp",
+        "002616.webp",
+        "002644.webp",
+        "002645.webp",
+        "002678.webp",
+        "002712.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ trộn cho cái phần tôm càng này được thấm vị.",
+      "start": 108.48,
+      "end": 111.68,
+      "n_words": 15,
+      "start_frame": 2712,
+      "end_frame": 2792,
+      "keyframes": [
+        "002712.webp",
+        "002713.webp",
+        "002752.webp",
+        "002791.webp",
+        "002792.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Tôm càng chúng ta đều biết rất là giàu canxi, tốt cho xương nhưng ngoài ra thì trong tôm càng có rất là nhiều omega-3 và omega-6 tốt cho trí não cũng như là hệ tim mạch.",
+      "start": 111.68,
+      "end": 121.44,
+      "n_words": 37,
+      "start_frame": 2792,
+      "end_frame": 3036,
+      "keyframes": [
+        "002792.webp",
+        "002842.webp",
+        "002893.webp",
+        "002894.webp",
+        "002927.webp",
+        "002960.webp",
+        "002961.webp",
+        "002999.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Và đối với món ăn ngày hôm nay thì các bạn nên lưu ý, chúng ta sẽ ngâm nếp với nước ấm giúp cho nếp nhanh nở hơn.",
+      "start": 121.44,
+      "end": 127.4,
+      "n_words": 28,
+      "start_frame": 3036,
+      "end_frame": 3185,
+      "keyframes": [
+        "003037.webp",
+        "003038.webp",
+        "003067.webp",
+        "003097.webp",
+        "003098.webp",
+        "003140.webp",
+        "003183.webp",
+        "003184.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Hưng sẽ cho vào đây nửa muỗng cà phê hạt nêm Aji-ngon heo và bây giờ chúng ta sẽ trộn nhẹ tay.",
+      "start": 127.4,
+      "end": 132.92,
+      "n_words": 22,
+      "start_frame": 3185,
+      "end_frame": 3323,
+      "keyframes": [
+        "003222.webp",
+        "003260.webp",
+        "003261.webp",
+        "003294.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cái phần nước cũng đã sôi rồi, bây giờ Phước Hưng sẽ cho trực tiếp phần nếp vào xửng hấp để chúng ta hấp xôi.",
+      "start": 132.92,
+      "end": 138.64,
+      "n_words": 25,
+      "start_frame": 3323,
+      "end_frame": 3466,
+      "keyframes": [
+        "003327.webp",
+        "003328.webp",
+        "003399.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và bây giờ Phước Hưng sẽ hướng dẫn cho các bạn chúng ta sẽ làm cái hỗn hợp sốt rất là đặc biệt để mà ăn kèm với phần xôi tôm.",
+      "start": 138.64,
+      "end": 145.76,
+      "n_words": 31,
+      "start_frame": 3466,
+      "end_frame": 3644,
+      "keyframes": [
+        "003471.webp",
+        "003472.webp",
+        "003561.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đầu tiên Hưng sẽ cho vào đây 100 gram xoài, một muỗng canh sữa tươi, bốn muỗng canh sốt mayonnaise vị nguyên bản, cho vào đây một ít muối và bây giờ chúng ta sẽ xay mịn cái hỗn hợp sốt này.",
+      "start": 145.76,
+      "end": 163.88,
+      "n_words": 42,
+      "start_frame": 3644,
+      "end_frame": 4097,
+      "keyframes": [
+        "003650.webp",
+        "003651.webp",
+        "003687.webp",
+        "003724.webp",
+        "003725.webp",
+        "003745.webp",
+        "003766.webp",
+        "003767.webp",
+        "003826.webp",
+        "003885.webp",
+        "003886.webp",
+        "003908.webp",
+        "003930.webp",
+        "003931.webp",
+        "003976.webp",
+        "004022.webp",
+        "004023.webp",
+        "004063.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Phần sốt cũng đã sánh mịn rất là đẹp, bây giờ Phước Hưng sẽ cho vào một cái tô, các bạn chúng ta sẽ để ngay vào ngăn mát của tủ lạnh khi nào ăn thì chúng ta đem ra và chúng ta sẽ rưới lên.",
+      "start": 163.88,
+      "end": 175.2,
+      "n_words": 46,
+      "start_frame": 4097,
+      "end_frame": 4380,
+      "keyframes": [
+        "004103.webp",
+        "004104.webp",
+        "004151.webp",
+        "004198.webp",
+        "004199.webp",
+        "004259.webp",
+        "004319.webp",
+        "004320.webp",
+        "004351.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Wow, cho vào đây một muỗng canh sốt mayonnaise vị nguyên bản và chúng ta đậy nắp lại hấp thêm năm phút nữa.",
+      "start": 176.12,
+      "end": 185.32,
+      "n_words": 23,
+      "start_frame": 4403,
+      "end_frame": 4633,
+      "keyframes": [
+        "004426.webp",
+        "004469.webp",
+        "004470.webp",
+        "004516.webp",
+        "004563.webp",
+        "004564.webp",
+        "004602.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ mở nắp ra kiểm tra thôi nào.",
+      "start": 185.32,
+      "end": 187.92,
+      "n_words": 12,
+      "start_frame": 4633,
+      "end_frame": 4698,
+      "keyframes": [
+        "004640.webp",
+        "004641.webp",
+        "004680.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Wow, Phước Hưng sẽ lần lượt sắp tôm vào.",
+      "start": 187.92,
+      "end": 190.92,
+      "n_words": 9,
+      "start_frame": 4698,
+      "end_frame": 4773,
+      "keyframes": [
+        "004720.webp",
+        "004721.webp",
+        "004746.webp",
+        "004771.webp",
+        "004772.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "À, mình đặt những con tôm càng ở trên phần xôi luôn hả?",
+      "start": 190.92,
+      "end": 193.88,
+      "n_words": 13,
+      "start_frame": 4773,
+      "end_frame": 4847,
+      "keyframes": [
+        "004815.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đúng rồi, chúng ta sẽ hấp tôm cùng với xôi để nước ngọt của tôm thấm vào xôi giúp cho món ăn thơm ngon hơn.",
+      "start": 193.88,
+      "end": 200.36,
+      "n_words": 25,
+      "start_frame": 4847,
+      "end_frame": 5009,
+      "keyframes": [
+        "004859.webp",
+        "004860.webp",
+        "004901.webp",
+        "004943.webp",
+        "004944.webp",
+        "004977.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sau khi mà các bạn chúng ta đã cho phần tôm vào rồi thì chúng ta sẽ hấp với lửa lớn khoảng từ năm tới 10 phút, tùy vào ngày hôm đó chúng ta sử dụng tôm lớn hay là tôm nhỏ.",
+      "start": 200.36,
+      "end": 209.28,
+      "n_words": 42,
+      "start_frame": 5009,
+      "end_frame": 5232,
+      "keyframes": [
+        "005010.webp",
+        "005011.webp",
+        "005061.webp",
+        "005111.webp",
+        "005112.webp",
+        "005172.webp",
+        "005232.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ mở nắp ra coi xôi chín chưa nào.",
+      "start": 209.28,
+      "end": 212.16,
+      "n_words": 13,
+      "start_frame": 5232,
+      "end_frame": 5304,
+      "keyframes": [
+        "005232.webp",
+        "005233.webp",
+        "005293.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Wow, chần chờ gì nữa các bạn hãy dùng điện thoại di động quét mã QR đang hiển thị trên màn hình để lưu lại công thức của món ăn ngày hôm nay nhé.",
+      "start": 212.16,
+      "end": 221.04,
+      "n_words": 34,
+      "start_frame": 5304,
+      "end_frame": 5526,
+      "keyframes": [
+        "005353.webp",
+        "005354.webp",
+        "005418.webp",
+        "005482.webp",
+        "005483.webp",
+        "005507.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ trình bày ra món ăn thôi.",
+      "start": 221.04,
+      "end": 224.68,
+      "n_words": 11,
+      "start_frame": 5526,
+      "end_frame": 5617,
+      "keyframes": [
+        "005532.webp",
+        "005533.webp",
+        "005568.webp",
+        "005603.webp",
+        "005604.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Phần xôi rất là thơm mà đặc biệt là cái hạt xôi không bị nát luôn.",
+      "start": 224.68,
+      "end": 229.6,
+      "n_words": 16,
+      "start_frame": 5617,
+      "end_frame": 5740,
+      "keyframes": [
+        "005680.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đúng rồi, và bây giờ chúng ta sẽ để xuống đĩa để chúng ta tạo hình, rồi rồi sẽ dùng cái hỗn hợp sốt chúng ta sẽ rưới lên bên trên, và đây cũng là cái phần sốt xoài khi nãy mà mình đã giữ trong tủ lạnh.",
+      "start": 229.6,
+      "end": 246.56,
+      "n_words": 48,
+      "start_frame": 5740,
+      "end_frame": 6164,
+      "keyframes": [
+        "005757.webp",
+        "005758.webp",
+        "005797.webp",
+        "005837.webp",
+        "005838.webp",
+        "005873.webp",
+        "005908.webp",
+        "005909.webp",
+        "005951.webp",
+        "005994.webp",
+        "005995.webp",
+        "006142.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Sau đó cho lên một ít đậu phộng rang nữa.",
+      "start": 246.56,
+      "end": 254.56,
+      "n_words": 10,
+      "start_frame": 6164,
+      "end_frame": 6364,
+      "keyframes": [
+        "006290.webp",
+        "006291.webp",
+        "006329.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Phước Hưng sẽ sử dụng lá húng để tăng thêm màu xanh cho món ăn và để tạo nên một bữa ăn đầy dinh dưỡng thì chúng ta có thể kết hợp với món salad mùa hè cũng sẽ đầy đủ dinh dưỡng luôn.",
+      "start": 254.56,
+      "end": 264.52,
+      "n_words": 44,
+      "start_frame": 6364,
+      "end_frame": 6613,
+      "keyframes": [
+        "006367.webp",
+        "006368.webp",
+        "006414.webp",
+        "006460.webp",
+        "006461.webp",
+        "006536.webp",
+        "006611.webp",
+        "006612.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Xoài cũng là một nguyên liệu rất là quen thuộc ở nước ta nè và có thể là tận dụng vào cái vị ngọt của xoài để làm nên rất là nhiều món ăn ngon, và trong xoài thì có rất là nhiều vitamin C và vitamin A, và đây là những cái vitamin mà tốt cho mắt cũng như là trí não và tăng cường sức đề kháng cho cả người lớn và trẻ nhỏ.",
+      "start": 264.52,
+      "end": 284.04,
+      "n_words": 76,
+      "start_frame": 6613,
+      "end_frame": 7101,
+      "keyframes": [
+        "006632.webp",
+        "006653.webp",
+        "006654.webp",
+        "006682.webp",
+        "006710.webp",
+        "006711.webp",
+        "006845.webp",
+        "006979.webp",
+        "006980.webp",
+        "007037.webp",
+        "007095.webp",
+        "007096.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Tôm càng chắc ngọt phủ một lớp sốt vàng tươi thơm ngát, hòa cùng xoài chua ngọt hấp dẫn, ăn cùng với xôi dẻo thơm, beo béo hài hòa đến lạ.",
+      "start": 284.04,
+      "end": 294.6,
+      "n_words": 31,
+      "start_frame": 7101,
+      "end_frame": 7365,
+      "keyframes": [
+        "007168.webp",
+        "007241.webp",
+        "007242.webp",
+        "007307.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bạn đang tìm một món ngon lạ miệng để chiêu đãi gia đình và bạn bè của mình, hãy làm ngay món tôm càng hấp sốt mayonnaise xoài.",
+      "start": 294.6,
+      "end": 302.08,
+      "n_words": 28,
+      "start_frame": 7365,
+      "end_frame": 7552,
+      "keyframes": [
+        "007372.webp",
+        "007373.webp",
+        "007462.webp",
+        "007552.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Ngoài ra thì chúng ta có thể xem thêm nhiều công thức của các món ăn ngon bằng cách truy cập vào kênh YouTube, website và fanpage của chương trình Món ngon mỗi ngày. Xin chào tạm biệt và hẹn gặp lại.",
+      "start": 302.08,
+      "end": 312.56,
+      "n_words": 42,
+      "start_frame": 7552,
+      "end_frame": 7814,
+      "keyframes": [
+        "007552.webp",
+        "007553.webp",
+        "007684.webp"
+      ],
+      "keyframe_count": 3
+    }
+  ]
+}

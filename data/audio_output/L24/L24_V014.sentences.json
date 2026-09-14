@@ -1,0 +1,24 @@
+{
+  "video_id": "L24_V014",
+  "fps": 25.0,
+  "n_sentences": 1,
+  "total_words": 13,
+  "sentences": [
+    {
+      "text": "Hồng Nhật tảo oánh Thiên Địa Kiến, bạc Kiên Giang khắp quỷ thần.",
+      "start": 507.0,
+      "end": 514.88,
+      "n_words": 13,
+      "start_frame": 12675,
+      "end_frame": 12872,
+      "keyframes": [
+        "012750.webp",
+        "012751.webp",
+        "012796.webp",
+        "012842.webp",
+        "012843.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

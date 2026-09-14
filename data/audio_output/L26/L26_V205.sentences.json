@@ -1,0 +1,829 @@
+{
+  "video_id": "L26_V205",
+  "fps": 25.0,
+  "n_sentences": 44,
+  "total_words": 966,
+  "sentences": [
+    {
+      "text": "Chào mừng quý khán giả quay trở lại với Món ngon mỗi ngày. Mềm béo thơm lừng với bò nướng lá cách.",
+      "start": 0.04,
+      "end": 28.28,
+      "n_words": 22,
+      "start_frame": 1,
+      "end_frame": 707,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000087.webp",
+        "000089.webp",
+        "000092.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000130.webp",
+        "000147.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp",
+        "000337.webp",
+        "000375.webp",
+        "000376.webp",
+        "000414.webp",
+        "000453.webp",
+        "000468.webp",
+        "000518.webp",
+        "000568.webp",
+        "000569.webp",
+        "000659.webp"
+      ],
+      "keyframe_count": 49
+    },
+    {
+      "text": "Chào mừng các bạn đang đến với chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành.",
+      "start": 28.28,
+      "end": 34.16,
+      "n_words": 17,
+      "start_frame": 707,
+      "end_frame": 854,
+      "keyframes": [
+        "000749.webp",
+        "000750.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Azino Việt Nam.",
+      "start": 34.16,
+      "end": 38.24,
+      "n_words": 11,
+      "start_frame": 854,
+      "end_frame": 956,
+      "keyframes": [
+        "000856.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và để thực hiện món ăn ngày hôm nay, thì Kim Thảo đã lựa chọn lá cách organic tươi ngon.",
+      "start": 38.24,
+      "end": 43.48,
+      "n_words": 20,
+      "start_frame": 956,
+      "end_frame": 1087,
+      "keyframes": [
+        "000962.webp",
+        "000963.webp",
+        "001008.webp",
+        "001053.webp",
+        "001054.webp",
+        "001076.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Với món ăn ngày hôm nay thì chúng ta sẽ lựa lá cách là bánh tẻ, tức là cái lá cách không có già lắm cũng không non lắm và đặc biệt là nó to như thế này.",
+      "start": 43.48,
+      "end": 51.56,
+      "n_words": 38,
+      "start_frame": 1087,
+      "end_frame": 1289,
+      "keyframes": [
+        "001098.webp",
+        "001099.webp",
+        "001148.webp",
+        "001197.webp",
+        "001198.webp",
+        "001243.webp",
+        "001288.webp",
+        "001289.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Với món ăn này chúng ta có thể dùng lá lốt nếu chúng ta không có lá cách.",
+      "start": 51.56,
+      "end": 55.32,
+      "n_words": 18,
+      "start_frame": 1289,
+      "end_frame": 1383,
+      "keyframes": [
+        "001289.webp",
+        "001335.webp",
+        "001382.webp",
+        "001383.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Lấy những lá nhỏ này em cuộn lại, cuộn lại cho dễ cắt thành sợi thôi.",
+      "start": 55.32,
+      "end": 61.16,
+      "n_words": 16,
+      "start_frame": 1383,
+      "end_frame": 1529,
+      "keyframes": [
+        "001383.webp",
+        "001406.webp",
+        "001429.webp",
+        "001430.webp",
+        "001458.webp",
+        "001486.webp",
+        "001487.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Mình sẽ trộn vô thịt bò.",
+      "start": 61.16,
+      "end": 63.16,
+      "n_words": 6,
+      "start_frame": 1529,
+      "end_frame": 1579,
+      "keyframes": [
+        "001562.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Dạ của chị biết không, em rất là thích ăn vị của lá cách, nó có vị hơi nhẫn nhẫn nhẹ.",
+      "start": 63.16,
+      "end": 71.0,
+      "n_words": 21,
+      "start_frame": 1579,
+      "end_frame": 1775,
+      "keyframes": [
+        "001638.webp",
+        "001639.webp",
+        "001672.webp",
+        "001706.webp",
+        "001707.webp",
+        "001740.webp",
+        "001773.webp",
+        "001774.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Theo dân gian thì lá cách rất là bổ gan và kết hợp với thịt bò nữa thì lại rất là nhiều chất dinh dưỡng nữa dạ.",
+      "start": 71.0,
+      "end": 78.72,
+      "n_words": 27,
+      "start_frame": 1775,
+      "end_frame": 1968,
+      "keyframes": [
+        "001813.webp",
+        "001853.webp",
+        "001854.webp",
+        "001910.webp",
+        "001966.webp",
+        "001967.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Tiếp theo là phần sả thì Kim Thảo đập dập phần gốc giùm cô.",
+      "start": 78.72,
+      "end": 82.0,
+      "n_words": 14,
+      "start_frame": 1968,
+      "end_frame": 2050,
+      "keyframes": [
+        "002006.webp",
+        "002046.webp",
+        "002047.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn lưu ý là chúng ta sẽ bỏ bớt lớp vỏ già bên ngoài và đập dập với cuộn sả để cuốn bò thơm và dễ ăn nha.",
+      "start": 82.0,
+      "end": 89.76,
+      "n_words": 29,
+      "start_frame": 2050,
+      "end_frame": 2244,
+      "keyframes": [
+        "002143.webp",
+        "002239.webp",
+        "002240.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tiếp theo thì chúng ta sẽ sơ chế phần thịt bò.",
+      "start": 89.76,
+      "end": 92.56,
+      "n_words": 11,
+      "start_frame": 2244,
+      "end_frame": 2314,
+      "keyframes": [
+        "002304.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thịt bò chúng ta sẽ sử dụng thịt bò phi lê, chúng ta sẽ cắt ngang sớ cái miếng thịt bò để có được những cái miếng thịt bò mà mỏng nè và có cái bề dài hơi dài như thế này.",
+      "start": 92.56,
+      "end": 102.88,
+      "n_words": 42,
+      "start_frame": 2314,
+      "end_frame": 2572,
+      "keyframes": [
+        "002369.webp",
+        "002370.webp",
+        "002404.webp",
+        "002439.webp",
+        "002440.webp",
+        "002477.webp",
+        "002515.webp",
+        "002516.webp",
+        "002543.webp",
+        "002571.webp",
+        "002572.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Khi mình dần thịt bò mà mình cho vô bịch như thế này thì miếng thịt bò nó sẽ không bị bể, rồi cứ như vậy chúng ta sẽ dần hết cái lượng thịt bò này.",
+      "start": 102.88,
+      "end": 120.04,
+      "n_words": 36,
+      "start_frame": 2572,
+      "end_frame": 3001,
+      "keyframes": [
+        "002572.webp",
+        "002629.webp",
+        "002687.webp",
+        "002688.webp",
+        "002722.webp",
+        "002756.webp",
+        "002757.webp",
+        "002807.webp",
+        "002857.webp",
+        "002858.webp",
+        "002885.webp",
+        "002912.webp",
+        "002913.webp",
+        "002942.webp",
+        "002971.webp",
+        "002972.webp",
+        "002989.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Xong rồi, tiếp theo là chúng ta sẽ ướp thịt bò.",
+      "start": 120.28,
+      "end": 122.96,
+      "n_words": 11,
+      "start_frame": 3007,
+      "end_frame": 3074,
+      "keyframes": [
+        "003007.webp",
+        "003038.webp",
+        "003070.webp",
+        "003071.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đầu tiên thì mình sẽ cho vào đây nửa muỗng cà phê đường, một muỗng cà phê muối ớt tôm, một muỗng canh sả xay.",
+      "start": 122.96,
+      "end": 129.6,
+      "n_words": 25,
+      "start_frame": 3074,
+      "end_frame": 3240,
+      "keyframes": [
+        "003089.webp",
+        "003107.webp",
+        "003108.webp",
+        "003124.webp",
+        "003141.webp",
+        "003142.webp",
+        "003168.webp",
+        "003195.webp",
+        "003196.webp",
+        "003223.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Ở đây cô sẽ sử dụng nửa muỗng canh tỏi băm, nửa muỗng canh hành băm.",
+      "start": 129.6,
+      "end": 133.6,
+      "n_words": 16,
+      "start_frame": 3240,
+      "end_frame": 3340,
+      "keyframes": [
+        "003251.webp",
+        "003252.webp",
+        "003278.webp",
+        "003305.webp",
+        "003306.webp",
+        "003323.webp",
+        "003340.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Các bạn lưu ý là chúng ta sẽ xay nhuyễn gia vị khi ướp để giúp bám đều vào thịt, thấm vị và không bị cháy khét khi nướng nha.",
+      "start": 133.6,
+      "end": 140.72,
+      "n_words": 30,
+      "start_frame": 3340,
+      "end_frame": 3518,
+      "keyframes": [
+        "003340.webp",
+        "003341.webp",
+        "003428.webp",
+        "003516.webp",
+        "003517.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta sẽ cho vào đây hai muỗng canh sả, tỏi, tôm, một muỗng canh sốt Maggi vị nguyên bản, mình sẽ trộn đều lên rồi cô trộn đều gia vị rồi một ít lá cách cắt sợi nè, mình trộn vô luôn.",
+      "start": 140.72,
+      "end": 154.12,
+      "n_words": 43,
+      "start_frame": 3518,
+      "end_frame": 3853,
+      "keyframes": [
+        "003539.webp",
+        "003561.webp",
+        "003562.webp",
+        "003590.webp",
+        "003618.webp",
+        "003619.webp",
+        "003660.webp",
+        "003701.webp",
+        "003702.webp",
+        "003721.webp",
+        "003741.webp",
+        "003742.webp",
+        "003765.webp",
+        "003789.webp",
+        "003790.webp",
+        "003820.webp",
+        "003851.webp",
+        "003852.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Thịt bò một khi mà mình đã đập ha và mình ướp gia vị như thế này thì rất là nhanh thấm.",
+      "start": 154.12,
+      "end": 159.52,
+      "n_words": 22,
+      "start_frame": 3853,
+      "end_frame": 3988,
+      "keyframes": [
+        "003917.webp",
+        "003982.webp",
+        "003983.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ thì chúng ta sẽ bắt đầu tạo hình nha.",
+      "start": 159.52,
+      "end": 161.88,
+      "n_words": 11,
+      "start_frame": 3988,
+      "end_frame": 4047,
+      "keyframes": [
+        "004013.webp",
+        "004044.webp",
+        "004045.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đầu tiên thì chúng ta sẽ cuộn thịt bò vào trong cây sả, nói chung là mình cũng quấn vừa đủ thôi, không cần phải quấn chặt quá.",
+      "start": 161.88,
+      "end": 167.8,
+      "n_words": 28,
+      "start_frame": 4047,
+      "end_frame": 4195,
+      "keyframes": [
+        "004078.webp",
+        "004111.webp",
+        "004112.webp",
+        "004153.webp",
+        "004194.webp",
+        "004195.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta sẽ có được cái cuộn bò như thế này.",
+      "start": 167.8,
+      "end": 170.0,
+      "n_words": 11,
+      "start_frame": 4195,
+      "end_frame": 4250,
+      "keyframes": [
+        "004195.webp",
+        "004220.webp",
+        "004245.webp",
+        "004246.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Sau đó là mình sẽ cuộn một cái lớp lá cách bên ngoài, sau đó thì mình sẽ dùng hai cái que xiên nè, mình xiên tiếp tục làm cái cây sả thứ hai, cho một ít lá cách cắt sợi lên nè cho nó thơm rồi đặt cây sả lên quấn nó lại.",
+      "start": 170.0,
+      "end": 187.4,
+      "n_words": 54,
+      "start_frame": 4250,
+      "end_frame": 4685,
+      "keyframes": [
+        "004270.webp",
+        "004294.webp",
+        "004295.webp",
+        "004327.webp",
+        "004359.webp",
+        "004360.webp",
+        "004379.webp",
+        "004399.webp",
+        "004400.webp",
+        "004423.webp",
+        "004446.webp",
+        "004447.webp",
+        "004476.webp",
+        "004506.webp",
+        "004507.webp",
+        "004521.webp",
+        "004536.webp",
+        "004537.webp",
+        "004568.webp",
+        "004600.webp",
+        "004601.webp",
+        "004619.webp",
+        "004637.webp",
+        "004638.webp",
+        "004660.webp",
+        "004682.webp",
+        "004683.webp"
+      ],
+      "keyframe_count": 27
+    },
+    {
+      "text": "Tiếp tục đặt một cái lá cách lên, tùy theo mình có lá cách nhỏ hay lớn, thí dụ như nó có nhỏ thì mình sẽ chắp nó lại với nhau ha và những cái mép lá này thì mình sẽ xiên nó vào bên trong cặp nhau để cho nó không có bị bung ra, cứ vậy thì mình sẽ cuốn lại ha.",
+      "start": 187.4,
+      "end": 203.12,
+      "n_words": 64,
+      "start_frame": 4685,
+      "end_frame": 5078,
+      "keyframes": [
+        "004711.webp",
+        "004740.webp",
+        "004741.webp",
+        "004804.webp",
+        "004868.webp",
+        "004869.webp",
+        "004918.webp",
+        "004968.webp",
+        "004969.webp",
+        "004997.webp",
+        "005026.webp",
+        "005027.webp",
+        "005048.webp",
+        "005069.webp",
+        "005070.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Rồi xong rồi, Kim Thảo ơi chuẩn bị bếp nướng đi em, phết dầu lên trước nha.",
+      "start": 203.12,
+      "end": 207.4,
+      "n_words": 17,
+      "start_frame": 5078,
+      "end_frame": 5185,
+      "keyframes": [
+        "005110.webp",
+        "005151.webp",
+        "005152.webp",
+        "005173.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đúng rồi em phết dầu lên trên bếp trước, cẩn thận nóng tay.",
+      "start": 207.4,
+      "end": 212.4,
+      "n_words": 13,
+      "start_frame": 5185,
+      "end_frame": 5310,
+      "keyframes": [
+        "005194.webp",
+        "005195.webp",
+        "005221.webp",
+        "005248.webp",
+        "005249.webp",
+        "005279.webp",
+        "005310.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Trong quá trình mà mình nướng thỉnh thoảng mình cũng phết một ít dầu lên trên mấy cái lá này đi.",
+      "start": 212.4,
+      "end": 226.92,
+      "n_words": 21,
+      "start_frame": 5310,
+      "end_frame": 5673,
+      "keyframes": [
+        "005310.webp",
+        "005311.webp",
+        "005332.webp",
+        "005354.webp",
+        "005355.webp",
+        "005388.webp",
+        "005421.webp",
+        "005422.webp",
+        "005449.webp",
+        "005477.webp",
+        "005478.webp",
+        "005538.webp",
+        "005598.webp",
+        "005599.webp",
+        "005635.webp",
+        "005671.webp",
+        "005672.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Thơm quá trời, nó thơm luôn!",
+      "start": 226.92,
+      "end": 228.44,
+      "n_words": 6,
+      "start_frame": 5673,
+      "end_frame": 5711,
+      "keyframes": [
+        "005690.webp",
+        "005709.webp",
+        "005710.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Khi mà cái mặt bên kia nó đều rồi là em có thể là em tuốt hai cái que xiên này ra được luôn rồi.",
+      "start": 228.44,
+      "end": 233.36,
+      "n_words": 25,
+      "start_frame": 5711,
+      "end_frame": 5834,
+      "keyframes": [
+        "005744.webp",
+        "005779.webp",
+        "005780.webp",
+        "005802.webp",
+        "005825.webp",
+        "005826.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Giờ mình sẽ lấy rồi giờ mình sẽ lăn trái cây cho nó tròn đều là nướng cái mặt bên kia luôn.",
+      "start": 233.36,
+      "end": 240.52,
+      "n_words": 22,
+      "start_frame": 5834,
+      "end_frame": 6013,
+      "keyframes": [
+        "005853.webp",
+        "005880.webp",
+        "005881.webp",
+        "005917.webp",
+        "005954.webp",
+        "005955.webp",
+        "005975.webp",
+        "005995.webp",
+        "005996.webp",
+        "006012.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Cô ơi bây giờ nó chín rồi, em lần lượt em gắp từng cuốn ra nha.",
+      "start": 243.12,
+      "end": 246.88,
+      "n_words": 16,
+      "start_frame": 6078,
+      "end_frame": 6172,
+      "keyframes": [
+        "006079.webp",
+        "006080.webp",
+        "006122.webp",
+        "006164.webp",
+        "006165.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thơm quá cô Hà ơi!",
+      "start": 246.88,
+      "end": 248.8,
+      "n_words": 5,
+      "start_frame": 6172,
+      "end_frame": 6220,
+      "keyframes": [
+        "006188.webp",
+        "006211.webp",
+        "006212.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi xong rồi đó, bây giờ chúng ta sẽ trình bày.",
+      "start": 248.8,
+      "end": 253.28,
+      "n_words": 11,
+      "start_frame": 6220,
+      "end_frame": 6332,
+      "keyframes": [
+        "006231.webp",
+        "006251.webp",
+        "006252.webp",
+        "006268.webp",
+        "006285.webp",
+        "006286.webp",
+        "006310.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Chúng ta sẽ đặt các cuộn bò nướng lên trên dĩa.",
+      "start": 253.28,
+      "end": 259.16,
+      "n_words": 11,
+      "start_frame": 6332,
+      "end_frame": 6479,
+      "keyframes": [
+        "006335.webp",
+        "006336.webp",
+        "006367.webp",
+        "006398.webp",
+        "006399.webp",
+        "006417.webp",
+        "006436.webp",
+        "006437.webp",
+        "006459.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Món ăn này chúng ta sẽ chấm kèm với lại sốt maza aze vị nguyên bản.",
+      "start": 259.16,
+      "end": 263.96,
+      "n_words": 16,
+      "start_frame": 6479,
+      "end_frame": 6599,
+      "keyframes": [
+        "006482.webp",
+        "006483.webp",
+        "006540.webp",
+        "006598.webp",
+        "006599.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và món ăn của ngày hôm nay đúng với châm ngôn là nấu chuẩn ăn lành.",
+      "start": 263.96,
+      "end": 267.84,
+      "n_words": 16,
+      "start_frame": 6599,
+      "end_frame": 6696,
+      "keyframes": [
+        "006599.webp",
+        "006646.webp",
+        "006693.webp",
+        "006694.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Để có thể ghi lại công thức của món ăn ngày hôm nay, quý vị và các bạn có thể quét mã QR trên màn hình của chúng tôi nhé.",
+      "start": 267.84,
+      "end": 274.52,
+      "n_words": 30,
+      "start_frame": 6696,
+      "end_frame": 6863,
+      "keyframes": [
+        "006779.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và để có một bữa ăn hoàn chỉnh thì chúng ta sẽ nên kết hợp với lại món canh chả tôm chum ngay nha các bạn.",
+      "start": 274.52,
+      "end": 279.92,
+      "n_words": 26,
+      "start_frame": 6863,
+      "end_frame": 6998,
+      "keyframes": [
+        "006864.webp",
+        "006865.webp",
+        "006892.webp",
+        "006920.webp",
+        "006921.webp",
+        "006957.webp",
+        "006994.webp",
+        "006995.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Thịt bò chín xém, mềm ngọt, thấm vị đậm đà, cay cay quyện cùng lá cách nhẫn nhẫn thơm thơm, món ngon không thể phớt lờ hương vị thơm ngon lại dễ thực hiện.",
+      "start": 279.92,
+      "end": 291.72,
+      "n_words": 34,
+      "start_frame": 6998,
+      "end_frame": 7293,
+      "keyframes": [
+        "007021.webp",
+        "007047.webp",
+        "007048.webp",
+        "007076.webp",
+        "007104.webp",
+        "007105.webp",
+        "007174.webp",
+        "007243.webp",
+        "007244.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Các bạn hãy thêm ngay món bò nướng lá cách vào thực đơn đãi khách của gia đình mình nhé.",
+      "start": 291.72,
+      "end": 296.36,
+      "n_words": 20,
+      "start_frame": 7293,
+      "end_frame": 7409,
+      "keyframes": [
+        "007326.webp",
+        "007409.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và để ghi chép lại công thức của ngày hôm nay, các bạn có thể truy cập vào YouTube, website, fanpage của chúng tôi.",
+      "start": 296.36,
+      "end": 302.52,
+      "n_words": 24,
+      "start_frame": 7409,
+      "end_frame": 7563,
+      "keyframes": [
+        "007409.webp",
+        "007410.webp",
+        "007497.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và đến đây thì xin chào và hẹn gặp lại.",
+      "start": 302.52,
+      "end": 306.28,
+      "n_words": 10,
+      "start_frame": 7563,
+      "end_frame": 7657,
+      "keyframes": [
+        "007584.webp",
+        "007585.webp",
+        "007619.webp",
+        "007653.webp",
+        "007654.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

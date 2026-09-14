@@ -1,0 +1,796 @@
+{
+  "video_id": "L26_V469",
+  "fps": 25.0,
+  "n_sentences": 43,
+  "total_words": 1054,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.56,
+      "end": 11.96,
+      "n_words": 4,
+      "start_frame": 264,
+      "end_frame": 299,
+      "keyframes": [
+        "000299.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Xin ơi làm gì đó?",
+      "start": 11.96,
+      "end": 13.72,
+      "n_words": 5,
+      "start_frame": 299,
+      "end_frame": 343,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000320.webp",
+        "000341.webp",
+        "000342.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Xin đang nghiên cứu lại một cái loại sốt sambal mà tự nhiên quên công thức, cho nên bây giờ phải đang nhớ lại nè.",
+      "start": 13.72,
+      "end": 19.36,
+      "n_words": 25,
+      "start_frame": 343,
+      "end_frame": 484,
+      "keyframes": [
+        "000377.webp",
+        "000412.webp",
+        "000413.webp",
+        "000446.webp",
+        "000479.webp",
+        "000480.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sambal nè nè, đừng có nghĩ tới điệu nhảy nha, một loại sốt đặc biệt của Indo.",
+      "start": 19.36,
+      "end": 23.88,
+      "n_words": 17,
+      "start_frame": 484,
+      "end_frame": 597,
+      "keyframes": [
+        "000510.webp",
+        "000541.webp",
+        "000542.webp",
+        "000569.webp",
+        "000597.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Trời ơi, sao biết hay vậy?",
+      "start": 23.88,
+      "end": 26.0,
+      "n_words": 6,
+      "start_frame": 597,
+      "end_frame": 650,
+      "keyframes": [
+        "000597.webp",
+        "000598.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cái sốt sambal này nó bị sao rồi, nó như thế nào và nó ăn với cái gì?",
+      "start": 26.0,
+      "end": 30.48,
+      "n_words": 18,
+      "start_frame": 650,
+      "end_frame": 762,
+      "keyframes": [
+        "000681.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thì thật ra cái sốt sambal này thì nó hơi đặc biệt bởi vì rất là nhiều cái gia vị mà nguyên vật liệu có mùi hòa vào nhau, nhưng mà đặc biệt cái sốt này thì nó sẽ có một cái vị cay là chính và rất là đậm vị.",
+      "start": 30.48,
+      "end": 42.92,
+      "n_words": 51,
+      "start_frame": 762,
+      "end_frame": 1073,
+      "keyframes": [
+        "000765.webp",
+        "000766.webp",
+        "000858.webp",
+        "000950.webp",
+        "000951.webp",
+        "001013.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hôm nay Xin sẽ nghiên cứu để làm ra một cái loại sốt mà chúng ta có thể ăn chay được, kết hợp với lại đậu hũ non tẩm với mè.",
+      "start": 42.92,
+      "end": 49.8,
+      "n_words": 31,
+      "start_frame": 1073,
+      "end_frame": 1245,
+      "keyframes": [
+        "001076.webp",
+        "001077.webp",
+        "001124.webp",
+        "001171.webp",
+        "001172.webp",
+        "001207.webp",
+        "001243.webp",
+        "001244.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Trời ơi nghe thôi là thấy kích thích khẩu vị rồi đó, chắc phải làm liền ha.",
+      "start": 49.8,
+      "end": 54.4,
+      "n_words": 17,
+      "start_frame": 1245,
+      "end_frame": 1360,
+      "keyframes": [
+        "001290.webp",
+        "001336.webp",
+        "001337.webp",
+        "001347.webp",
+        "001358.webp",
+        "001359.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Liền đi.",
+      "start": 54.6,
+      "end": 57.4,
+      "n_words": 2,
+      "start_frame": 1365,
+      "end_frame": 1435,
+      "keyframes": [
+        "001371.webp",
+        "001384.webp",
+        "001385.webp",
+        "001409.webp",
+        "001434.webp",
+        "001435.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đậu hũ áp chảo sốt sambal sánh, đậm đà lắm.",
+      "start": 57.4,
+      "end": 76.92,
+      "n_words": 10,
+      "start_frame": 1435,
+      "end_frame": 1923,
+      "keyframes": [
+        "001435.webp",
+        "001483.webp",
+        "001531.webp",
+        "001532.webp",
+        "001560.webp",
+        "001588.webp",
+        "001608.webp",
+        "001676.webp",
+        "001744.webp",
+        "001745.webp",
+        "001832.webp",
+        "001920.webp",
+        "001921.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Chào các bạn khán giả đến với chương trình Món ngon mỗi ngày, được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 76.92,
+      "end": 82.16,
+      "n_words": 22,
+      "start_frame": 1923,
+      "end_frame": 2054,
+      "keyframes": [
+        "001990.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bước đầu tiên, chúng ta sẽ chuẩn bị một cái tô nước nóng, cho nửa muỗng cà phê muối, nửa muỗng cà phê bột ngọt Ajinomoto, thêm nửa muỗng canh hạt nêm Aji-ngon từ nấm hương và hạt sen, khuấy đều cái hỗn hợp gia vị này lên.",
+      "start": 82.16,
+      "end": 96.24,
+      "n_words": 48,
+      "start_frame": 2054,
+      "end_frame": 2406,
+      "keyframes": [
+        "002059.webp",
+        "002060.webp",
+        "002088.webp",
+        "002116.webp",
+        "002117.webp",
+        "002142.webp",
+        "002168.webp",
+        "002169.webp",
+        "002207.webp",
+        "002245.webp",
+        "002246.webp",
+        "002270.webp",
+        "002294.webp",
+        "002295.webp",
+        "002321.webp",
+        "002348.webp",
+        "002349.webp",
+        "002377.webp",
+        "002406.webp"
+      ],
+      "keyframe_count": 19
+    },
+    {
+      "text": "Cái phần đậu hũ trắng chúng ta sẽ cắt làm tám miếng nhỏ và chúng ta sẽ ngâm vào cái phần nước ấm có gia vị khi nãy.",
+      "start": 96.24,
+      "end": 103.36,
+      "n_words": 28,
+      "start_frame": 2406,
+      "end_frame": 2584,
+      "keyframes": [
+        "002406.webp",
+        "002407.webp",
+        "002422.webp",
+        "002437.webp",
+        "002438.webp",
+        "002451.webp",
+        "002464.webp",
+        "002465.webp",
+        "002478.webp",
+        "002491.webp",
+        "002492.webp",
+        "002537.webp",
+        "002582.webp",
+        "002583.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Ngâm đậu hũ trong nước có gia vị để đậu hũ được thấm vị hơn.",
+      "start": 103.36,
+      "end": 106.8,
+      "n_words": 15,
+      "start_frame": 2584,
+      "end_frame": 2670,
+      "keyframes": [
+        "002609.webp",
+        "002635.webp",
+        "002636.webp",
+        "002654.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cắt hành tây hạt lựu nhỏ.",
+      "start": 106.8,
+      "end": 110.64,
+      "n_words": 6,
+      "start_frame": 2670,
+      "end_frame": 2766,
+      "keyframes": [
+        "002672.webp",
+        "002673.webp",
+        "002685.webp",
+        "002698.webp",
+        "002699.webp",
+        "002720.webp",
+        "002741.webp",
+        "002742.webp",
+        "002758.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Sau khi cắt hành tây xong thì chúng ta vẫn cắt cái hành boaro ra nhỏ cỡ bằng hành tây luôn.",
+      "start": 110.64,
+      "end": 117.84,
+      "n_words": 21,
+      "start_frame": 2766,
+      "end_frame": 2946,
+      "keyframes": [
+        "002775.webp",
+        "002776.webp",
+        "002802.webp",
+        "002829.webp",
+        "002830.webp",
+        "002877.webp",
+        "002924.webp",
+        "002925.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Nguyên vật liệu để làm cái sốt sambal hôm nay đã có trên bàn rồi thì bây giờ chúng ta sẽ nấu cái phần sốt trước nha.",
+      "start": 117.84,
+      "end": 122.84,
+      "n_words": 27,
+      "start_frame": 2946,
+      "end_frame": 3071,
+      "keyframes": [
+        "002957.webp",
+        "002990.webp",
+        "002991.webp",
+        "003009.webp",
+        "003028.webp",
+        "003029.webp",
+        "003050.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Chúng ta sẽ cần khoảng một muỗng canh dầu ăn.",
+      "start": 122.84,
+      "end": 125.0,
+      "n_words": 10,
+      "start_frame": 3071,
+      "end_frame": 3125,
+      "keyframes": [
+        "003072.webp",
+        "003073.webp",
+        "003099.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đầu tiên là chúng ta sẽ cho hành tây vào, tiếp theo là hành boaro.",
+      "start": 125.0,
+      "end": 128.16,
+      "n_words": 15,
+      "start_frame": 3125,
+      "end_frame": 3204,
+      "keyframes": [
+        "003126.webp",
+        "003127.webp",
+        "003170.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta sẽ xào hành tây và hành boaro trước để cho hành tây trong lại và ngả sang màu vàng cánh gián đậm một chút xíu thì món sốt sẽ ngon hơn.",
+      "start": 128.48,
+      "end": 136.16,
+      "n_words": 33,
+      "start_frame": 3212,
+      "end_frame": 3404,
+      "keyframes": [
+        "003213.webp",
+        "003214.webp",
+        "003247.webp",
+        "003281.webp",
+        "003282.webp",
+        "003314.webp",
+        "003347.webp",
+        "003348.webp",
+        "003377.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Và bây giờ hành tây cũng đã trong, hành boaro cũng trong và ngả sang màu vàng vừa ý mình rồi thì bây giờ chúng ta sẽ cho gừng băm nha, ớt.",
+      "start": 136.16,
+      "end": 144.16,
+      "n_words": 32,
+      "start_frame": 3404,
+      "end_frame": 3604,
+      "keyframes": [
+        "003406.webp",
+        "003407.webp",
+        "003461.webp",
+        "003516.webp",
+        "003517.webp",
+        "003550.webp",
+        "003583.webp",
+        "003584.webp",
+        "003599.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Chuyển sang một cái hương vị nó là thơm nồng rồi đó, thơm nồng.",
+      "start": 144.16,
+      "end": 147.84,
+      "n_words": 14,
+      "start_frame": 3604,
+      "end_frame": 3696,
+      "keyframes": [
+        "003614.webp",
+        "003615.webp",
+        "003656.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cho vào đây ba muỗng canh tương cà, nó đẹp hơn, màu đẹp và nó tạo được cái độ sệt sánh cho cái phần sốt.",
+      "start": 147.84,
+      "end": 154.44,
+      "n_words": 25,
+      "start_frame": 3696,
+      "end_frame": 3861,
+      "keyframes": [
+        "003698.webp",
+        "003699.webp",
+        "003722.webp",
+        "003746.webp",
+        "003747.webp",
+        "003811.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta cần một muỗng canh đường nữa, xào cái phần này lên cho tất cả những nguyên liệu hòa quyện với nhau và chúng ta còn một cái phần cà chua bằm nữa.",
+      "start": 154.44,
+      "end": 164.84,
+      "n_words": 34,
+      "start_frame": 3861,
+      "end_frame": 4121,
+      "keyframes": [
+        "003876.webp",
+        "003877.webp",
+        "003900.webp",
+        "003924.webp",
+        "003925.webp",
+        "003953.webp",
+        "003981.webp",
+        "003982.webp",
+        "004018.webp",
+        "004054.webp",
+        "004055.webp",
+        "004087.webp",
+        "004120.webp",
+        "004121.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Cho phần nước dừa vào, có nửa muỗng cà phê muối, thêm nửa muỗng cà phê bột ngọt Ajinomoto, nửa muỗng canh hạt nêm Aji-ngon từ nấm hương và hạt sen.",
+      "start": 164.84,
+      "end": 174.0,
+      "n_words": 31,
+      "start_frame": 4121,
+      "end_frame": 4350,
+      "keyframes": [
+        "004121.webp",
+        "004135.webp",
+        "004150.webp",
+        "004151.webp",
+        "004170.webp",
+        "004190.webp",
+        "004191.webp",
+        "004228.webp",
+        "004266.webp",
+        "004267.webp",
+        "004346.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Đối với món sốt này thì các bạn nhớ là chúng ta nên xào thật kỹ các nguyên liệu để tất cả nguyên liệu hòa vào với nhau để món sốt được trở nên ngon hơn nha.",
+      "start": 174.0,
+      "end": 181.8,
+      "n_words": 37,
+      "start_frame": 4350,
+      "end_frame": 4545,
+      "keyframes": [
+        "004425.webp",
+        "004426.webp",
+        "004485.webp",
+        "004545.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Trong thời gian chúng ta đợi cái phần sốt này được sánh sệt và đậm như ý muốn thì bây giờ chúng ta sẽ xiên que cái phần đậu hũ, gác cái phần mè này lên, chúng ta sẽ ấn nhẹ nhẹ xuống cái phần mè dưới dĩa để cho mè được dính chặt vào cái miếng đậu hũ mà để cho chúng ta áp chảo sẽ ít bị rớt ra ngoài hơn.",
+      "start": 181.8,
+      "end": 198.04,
+      "n_words": 73,
+      "start_frame": 4545,
+      "end_frame": 4951,
+      "keyframes": [
+        "004545.webp",
+        "004546.webp",
+        "004585.webp",
+        "004625.webp",
+        "004626.webp",
+        "004662.webp",
+        "004699.webp",
+        "004700.webp",
+        "004722.webp",
+        "004745.webp",
+        "004746.webp",
+        "004788.webp",
+        "004830.webp",
+        "004831.webp",
+        "004896.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Nhưng mà Xin ơi, dường như Phương thấy là cái phần sốt sambal này nó hơi nhiều so với lại đậu hũ của mình phải không?",
+      "start": 198.04,
+      "end": 203.08,
+      "n_words": 26,
+      "start_frame": 4951,
+      "end_frame": 5077,
+      "keyframes": [
+        "004961.webp",
+        "004962.webp",
+        "005005.webp",
+        "005048.webp",
+        "005049.webp",
+        "005077.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "À, cái phần sốt này chúng ta chuẩn bị và nấu hơi bị nhiều thời gian cho nên Xin muốn là mình nấu nhiều một xíu, có thể cất vào tủ lạnh hoặc là biếu cho Phương để đem về.",
+      "start": 203.08,
+      "end": 211.04,
+      "n_words": 40,
+      "start_frame": 5077,
+      "end_frame": 5276,
+      "keyframes": [
+        "005077.webp",
+        "005106.webp",
+        "005107.webp",
+        "005141.webp",
+        "005176.webp",
+        "005177.webp",
+        "005209.webp",
+        "005242.webp",
+        "005243.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Và ngoài cái việc mà chúng ta ăn với đậu hũ ngày hôm nay thì chúng ta có thể ăn với trứng chiên nè, xào với hải sản nè cũng rất là ngon.",
+      "start": 211.04,
+      "end": 216.72,
+      "n_words": 33,
+      "start_frame": 5276,
+      "end_frame": 5418,
+      "keyframes": [
+        "005278.webp",
+        "005313.webp",
+        "005314.webp",
+        "005346.webp",
+        "005378.webp",
+        "005379.webp",
+        "005398.webp",
+        "005417.webp",
+        "005418.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Nhưng mà cái phần sốt này mình để ở trong tủ lạnh được bao lâu?",
+      "start": 216.72,
+      "end": 219.8,
+      "n_words": 15,
+      "start_frame": 5418,
+      "end_frame": 5495,
+      "keyframes": [
+        "005418.webp",
+        "005455.webp",
+        "005492.webp",
+        "005493.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Nếu mà Phương muốn để lâu á, Phương chia nhỏ phần ăn ra, Phương để tủ đông thì để được cả tháng hoặc hơn, còn nếu mà chúng ta để trong tủ mát thì chúng ta sử dụng trong một tuần thôi.",
+      "start": 219.8,
+      "end": 229.52,
+      "n_words": 42,
+      "start_frame": 5495,
+      "end_frame": 5738,
+      "keyframes": [
+        "005563.webp",
+        "005634.webp",
+        "005635.webp",
+        "005689.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bởi vì chúng ta áp chảo và mình cũng không muốn món này là nhiều dầu mỡ quá cho nên chúng ta cần khoảng một muỗng cà phê dầu ăn là được rồi.",
+      "start": 229.52,
+      "end": 236.12,
+      "n_words": 33,
+      "start_frame": 5738,
+      "end_frame": 5903,
+      "keyframes": [
+        "005743.webp",
+        "005744.webp",
+        "005781.webp",
+        "005818.webp",
+        "005819.webp",
+        "005838.webp",
+        "005858.webp",
+        "005859.webp",
+        "005881.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Và bây giờ chúng ta sẽ cho những cái xiên đậu hũ vào để áp chảo và rán hết tất cả các mặt.",
+      "start": 236.12,
+      "end": 243.2,
+      "n_words": 23,
+      "start_frame": 5903,
+      "end_frame": 6080,
+      "keyframes": [
+        "005904.webp",
+        "005905.webp",
+        "005917.webp",
+        "005930.webp",
+        "005931.webp",
+        "005956.webp",
+        "005982.webp",
+        "005983.webp",
+        "006000.webp",
+        "006017.webp",
+        "006018.webp",
+        "006053.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Bây giờ Thanh Phương cũng thấy là nó vàng như vậy rồi, tất cả các mặt thì chúng ta được rồi.",
+      "start": 243.2,
+      "end": 247.12,
+      "n_words": 21,
+      "start_frame": 6080,
+      "end_frame": 6178,
+      "keyframes": [
+        "006088.webp",
+        "006089.webp",
+        "006111.webp",
+        "006134.webp",
+        "006135.webp",
+        "006159.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ gắp nó ra và cái phần sốt sánh sệt như vậy là cũng đã được luôn.",
+      "start": 247.12,
+      "end": 250.8,
+      "n_words": 21,
+      "start_frame": 6178,
+      "end_frame": 6270,
+      "keyframes": [
+        "006183.webp",
+        "006184.webp",
+        "006198.webp",
+        "006212.webp",
+        "006213.webp",
+        "006241.webp",
+        "006269.webp",
+        "006270.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Thì chúng ta sẽ cho cái phần Tabasco vào, thật ra nó là một cái sốt dầu ớt rồi nha, thêm hai muỗng cà phê dầu mè.",
+      "start": 250.8,
+      "end": 260.6,
+      "n_words": 27,
+      "start_frame": 6270,
+      "end_frame": 6515,
+      "keyframes": [
+        "006270.webp",
+        "006294.webp",
+        "006318.webp",
+        "006319.webp",
+        "006383.webp",
+        "006448.webp",
+        "006449.webp",
+        "006466.webp",
+        "006483.webp",
+        "006484.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Khi nấu chúng ta cho sốt Tabasco và dầu mè vào cuối cùng để giữ được hương vị cho sốt nha.",
+      "start": 260.6,
+      "end": 267.96,
+      "n_words": 21,
+      "start_frame": 6515,
+      "end_frame": 6699,
+      "keyframes": [
+        "006538.webp",
+        "006592.webp",
+        "006593.webp",
+        "006624.webp",
+        "006655.webp",
+        "006656.webp",
+        "006680.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Và bây giờ chúng ta sẽ múc cái phần sốt này để vào trái cà chua để trang trí luôn.",
+      "start": 267.96,
+      "end": 271.72,
+      "n_words": 20,
+      "start_frame": 6699,
+      "end_frame": 6793,
+      "keyframes": [
+        "006705.webp",
+        "006706.webp",
+        "006729.webp",
+        "006753.webp",
+        "006754.webp",
+        "006783.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Wow, đậu hũ ít gừng chiên để ăn kèm, ít xanh xanh của ngò nữa, màu sắc của món ăn cực kỳ bắt mắt luôn.",
+      "start": 271.72,
+      "end": 280.36,
+      "n_words": 25,
+      "start_frame": 6793,
+      "end_frame": 7009,
+      "keyframes": [
+        "006812.webp",
+        "006813.webp",
+        "006837.webp",
+        "006861.webp",
+        "006862.webp",
+        "006892.webp",
+        "006922.webp",
+        "006923.webp",
+        "006935.webp",
+        "006947.webp",
+        "006948.webp",
+        "006976.webp",
+        "007005.webp",
+        "007006.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Viên đậu hũ chín vàng bùi thơm, thơm mùi mè, kèm với sốt sambal chua ngọt, sánh sệt, cay thơm đậm đà, cả nhà ai cũng thích.",
+      "start": 280.36,
+      "end": 289.76,
+      "n_words": 27,
+      "start_frame": 7009,
+      "end_frame": 7244,
+      "keyframes": [
+        "007042.webp",
+        "007079.webp",
+        "007080.webp",
+        "007103.webp",
+        "007127.webp",
+        "007128.webp",
+        "007186.webp",
+        "007244.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Hãy cùng theo dõi chương trình Món ngon mỗi ngày để cập nhật những món chay vừa ngon vừa lạ các bạn nhé.",
+      "start": 289.76,
+      "end": 295.96,
+      "n_words": 23,
+      "start_frame": 7244,
+      "end_frame": 7399,
+      "keyframes": [
+        "007244.webp",
+        "007245.webp",
+        "007312.webp",
+        "007380.webp",
+        "007381.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

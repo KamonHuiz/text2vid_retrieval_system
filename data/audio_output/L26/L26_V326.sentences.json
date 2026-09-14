@@ -1,0 +1,857 @@
+{
+  "video_id": "L26_V326",
+  "fps": 25.0,
+  "n_sentences": 50,
+  "total_words": 1101,
+  "sentences": [
+    {
+      "text": "Món ôm mỗi ngày.",
+      "start": 10.6,
+      "end": 14.96,
+      "n_words": 4,
+      "start_frame": 265,
+      "end_frame": 374,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000328.webp",
+        "000357.webp",
+        "000358.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Vậy Tuấn không có mua được con vịt ngon hưng phấn liên quan gì nãy tết gì nữa hết?",
+      "start": 14.96,
+      "end": 20.96,
+      "n_words": 19,
+      "start_frame": 374,
+      "end_frame": 524,
+      "keyframes": [
+        "000377.webp",
+        "000396.webp",
+        "000397.webp",
+        "000436.webp",
+        "000475.webp",
+        "000476.webp",
+        "000508.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Tết rồi em mắc cười quá.",
+      "start": 20.96,
+      "end": 23.04,
+      "n_words": 6,
+      "start_frame": 524,
+      "end_frame": 576,
+      "keyframes": [
+        "000541.webp",
+        "000542.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cả cuộc đời của em cả một năm trời chỉ có một cái tết hả?",
+      "start": 23.04,
+      "end": 25.56,
+      "n_words": 15,
+      "start_frame": 576,
+      "end_frame": 639,
+      "keyframes": [
+        "000589.webp",
+        "000637.webp",
+        "000638.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tết nào có lì xì giờ em nhớ thôi.",
+      "start": 25.56,
+      "end": 26.88,
+      "n_words": 9,
+      "start_frame": 639,
+      "end_frame": 672,
+      "keyframes": [
+        "000654.webp",
+        "000670.webp",
+        "000671.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ủa em không mê ăn hả?",
+      "start": 26.88,
+      "end": 28.2,
+      "n_words": 6,
+      "start_frame": 672,
+      "end_frame": 705,
+      "keyframes": [
+        "000686.webp",
+        "000702.webp",
+        "000703.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mình đang trong Tết Đoan Ngọ này thấy chưa mà anh thấy nha, Tết Đoan Ngọ đặc biệt là mọi người rất là hay tổ chức tiệc.",
+      "start": 28.2,
+      "end": 33.48,
+      "n_words": 27,
+      "start_frame": 705,
+      "end_frame": 837,
+      "keyframes": [
+        "000733.webp",
+        "000764.webp",
+        "000765.webp",
+        "000800.webp",
+        "000836.webp",
+        "000837.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Anh có một cái điều anh thắc mắc là tại sao cứ đến Tết Đoan Ngọ thì người miền Trung người ta lại rất thích ăn thịt vịt?",
+      "start": 33.48,
+      "end": 38.12,
+      "n_words": 28,
+      "start_frame": 837,
+      "end_frame": 953,
+      "keyframes": [
+        "000837.webp",
+        "000892.webp",
+        "000948.webp",
+        "000949.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Anh biết sao không?",
+      "start": 38.12,
+      "end": 39.0,
+      "n_words": 4,
+      "start_frame": 953,
+      "end_frame": 975,
+      "keyframes": [
+        "000960.webp",
+        "000971.webp",
+        "000972.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tại vì tết Đoan Ngọ là nó nằm dao động từ tháng sáu tháng chín đúng không, nó nằm trong khoảng giữa đó mà thời gian này vịt rất là thơm béo ngọt.",
+      "start": 39.92,
+      "end": 46.72,
+      "n_words": 33,
+      "start_frame": 998,
+      "end_frame": 1168,
+      "keyframes": [
+        "001000.webp",
+        "001001.webp",
+        "001012.webp",
+        "001023.webp",
+        "001024.webp",
+        "001060.webp",
+        "001097.webp",
+        "001098.webp",
+        "001133.webp",
+        "001168.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Cái thứ hai nữa vịt có tính mát mà mùa này cực kỳ nóng ăn vịt hợp lý.",
+      "start": 46.72,
+      "end": 51.08,
+      "n_words": 18,
+      "start_frame": 1168,
+      "end_frame": 1277,
+      "keyframes": [
+        "001168.webp",
+        "001169.webp",
+        "001187.webp",
+        "001206.webp",
+        "001207.webp",
+        "001240.webp",
+        "001273.webp",
+        "001274.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Tặng em cái chuyện này, em biết em phải làm gì khi được tặng món vịt này rồi?",
+      "start": 51.08,
+      "end": 54.0,
+      "n_words": 18,
+      "start_frame": 1277,
+      "end_frame": 1350,
+      "keyframes": [
+        "001283.webp",
+        "001293.webp",
+        "001294.webp",
+        "001323.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Ừ chứ em đem về là có chuyện với anh đó.",
+      "start": 54.0,
+      "end": 55.72,
+      "n_words": 11,
+      "start_frame": 1350,
+      "end_frame": 1393,
+      "keyframes": [
+        "001353.webp",
+        "001354.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và bây giờ chúng ta sẽ vào bếp để làm một món ôm nha, om nước tương đậm đà.",
+      "start": 55.72,
+      "end": 62.64,
+      "n_words": 19,
+      "start_frame": 1393,
+      "end_frame": 1566,
+      "keyframes": [
+        "001401.webp",
+        "001448.webp",
+        "001449.webp",
+        "001473.webp",
+        "001498.webp",
+        "001499.webp",
+        "001546.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Vì vẫn Vương Mến chào các bạn khán giả đến với chương trình Món ngon mỗi ngày.",
+      "start": 62.64,
+      "end": 82.32,
+      "n_words": 17,
+      "start_frame": 1566,
+      "end_frame": 2058,
+      "keyframes": [
+        "001593.webp",
+        "001594.webp",
+        "001637.webp",
+        "001681.webp",
+        "001696.webp",
+        "001757.webp",
+        "001818.webp",
+        "001819.webp",
+        "001905.webp",
+        "001992.webp",
+        "001993.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 82.32,
+      "end": 85.92,
+      "n_words": 11,
+      "start_frame": 2058,
+      "end_frame": 2148,
+      "keyframes": [
+        "002073.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Anh Tuấn rất là giỏi nhìn là đã biết là đã được tẩm ướp với gừng với muối này nọ xong rồi.",
+      "start": 85.92,
+      "end": 91.08,
+      "n_words": 22,
+      "start_frame": 2148,
+      "end_frame": 2277,
+      "keyframes": [
+        "002154.webp",
+        "002155.webp",
+        "002186.webp",
+        "002217.webp",
+        "002218.webp",
+        "002247.webp",
+        "002277.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Vịt cũng đã thơm đã sạch rồi thì chúng ta sẽ tiến hành áp chảo không dầu để cho lấy bớt cái phần mỡ trong da vịt ra và chúng ta đợi cái chảo cho nóng nha và chúng ta chỉ áp chảo cái phần da vịt thôi.",
+      "start": 91.08,
+      "end": 101.28,
+      "n_words": 48,
+      "start_frame": 2277,
+      "end_frame": 2532,
+      "keyframes": [
+        "002277.webp",
+        "002278.webp",
+        "002304.webp",
+        "002331.webp",
+        "002332.webp",
+        "002372.webp",
+        "002413.webp",
+        "002414.webp",
+        "002435.webp",
+        "002456.webp",
+        "002457.webp",
+        "002495.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Đối với món này chúng ta nướng hoặc áp chảo phần da vịt để da vịt săn lại khi ăn sẽ ngon hơn nha nè nè nè nè nè.",
+      "start": 101.28,
+      "end": 107.84,
+      "n_words": 29,
+      "start_frame": 2532,
+      "end_frame": 2696,
+      "keyframes": [
+        "002533.webp",
+        "002534.webp",
+        "002551.webp",
+        "002568.webp",
+        "002569.webp",
+        "002616.webp",
+        "002663.webp",
+        "002664.webp",
+        "002691.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Xem ơi đây mỡ nó bắt đầu ra rồi đó.",
+      "start": 107.84,
+      "end": 112.64,
+      "n_words": 10,
+      "start_frame": 2696,
+      "end_frame": 2816,
+      "keyframes": [
+        "002718.webp",
+        "002719.webp",
+        "002780.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Công nhận ha mình nhìn con vịt mình đã lựa là nó ít mỡ rồi mà nó vẫn tiết nó vẫn tiết rất nhiều mỡ luôn.",
+      "start": 112.64,
+      "end": 118.84,
+      "n_words": 26,
+      "start_frame": 2816,
+      "end_frame": 2971,
+      "keyframes": [
+        "002842.webp",
+        "002843.webp",
+        "002881.webp",
+        "002920.webp",
+        "002921.webp",
+        "002945.webp",
+        "002970.webp",
+        "002971.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Cái phần da vịt thì anh Tuấn thấy nè nước Tuấn đã thơm như vậy rồi chúng ta đã tắt lửa nhưng mà trong thời gian này chúng ta vẫn để trong chảo nha nó còn giữ được cái nhiệt độ nóng và nó cũng sẽ lấy thêm được phần mỡ trong da vịt.",
+      "start": 118.84,
+      "end": 129.24,
+      "n_words": 54,
+      "start_frame": 2971,
+      "end_frame": 3231,
+      "keyframes": [
+        "002971.webp",
+        "003019.webp",
+        "003068.webp",
+        "003069.webp",
+        "003105.webp",
+        "003142.webp",
+        "003143.webp",
+        "003186.webp",
+        "003230.webp",
+        "003231.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Chúng ta sẽ pha cái phần nước gia vị đi.",
+      "start": 129.24,
+      "end": 130.96,
+      "n_words": 10,
+      "start_frame": 3231,
+      "end_frame": 3274,
+      "keyframes": [
+        "003231.webp",
+        "003267.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúng ta ướp cái phần vịt này xin sẽ có hai muỗng canh nước tương Phú Sĩ, đó nước tương lực là nó rất hợp với thịt vịt luôn nha, có nửa muỗng cà phê muối nha, một muỗng cà phê bột ngọt Ajinomoto, ta có một muỗng canh đường.",
+      "start": 130.96,
+      "end": 142.36,
+      "n_words": 50,
+      "start_frame": 3274,
+      "end_frame": 3559,
+      "keyframes": [
+        "003303.webp",
+        "003304.webp",
+        "003333.webp",
+        "003362.webp",
+        "003363.webp",
+        "003394.webp",
+        "003425.webp",
+        "003426.webp",
+        "003435.webp",
+        "003444.webp",
+        "003445.webp",
+        "003454.webp",
+        "003464.webp",
+        "003465.webp",
+        "003491.webp",
+        "003518.webp",
+        "003519.webp",
+        "003545.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Cho nốt rồi thì bây giờ chúng ta sẽ hòa tan cái hỗn hợp này nha.",
+      "start": 142.36,
+      "end": 146.0,
+      "n_words": 16,
+      "start_frame": 3559,
+      "end_frame": 3650,
+      "keyframes": [
+        "003571.webp",
+        "003572.webp",
+        "003591.webp",
+        "003611.webp",
+        "003612.webp",
+        "003628.webp",
+        "003644.webp",
+        "003645.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Cái phần vịt này cho vào đây nha đấy hấp dẫn quá xin ơi.",
+      "start": 146.0,
+      "end": 149.92,
+      "n_words": 14,
+      "start_frame": 3650,
+      "end_frame": 3748,
+      "keyframes": [
+        "003660.webp",
+        "003675.webp",
+        "003676.webp",
+        "003713.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và bây giờ thì chúng ta sẽ trộn cái phần vịt với cái phần gia vị mà xin đã trộn hồi nãy nha.",
+      "start": 149.92,
+      "end": 154.88,
+      "n_words": 23,
+      "start_frame": 3748,
+      "end_frame": 3872,
+      "keyframes": [
+        "003750.webp",
+        "003751.webp",
+        "003782.webp",
+        "003813.webp",
+        "003814.webp",
+        "003848.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi bây giờ để cái phần hỗn hợp này qua một bên và tiếp theo thì xin cũng chuẩn bị một cái nồi để chúng ta ôm vịt.",
+      "start": 154.88,
+      "end": 160.8,
+      "n_words": 28,
+      "start_frame": 3872,
+      "end_frame": 4020,
+      "keyframes": [
+        "003882.webp",
+        "003883.webp",
+        "003909.webp",
+        "003936.webp",
+        "003937.webp",
+        "003952.webp",
+        "003968.webp",
+        "003969.webp",
+        "003991.webp",
+        "004013.webp",
+        "004014.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Xin cần một chút xíu dầu ăn gần một muỗng canh thì bây giờ dầu nóng thì chúng ta cho cái phần gừng băm này vào nha đó nó kêu xèo xèo nhẹ nhẹ vậy được rồi.",
+      "start": 160.8,
+      "end": 167.6,
+      "n_words": 37,
+      "start_frame": 4020,
+      "end_frame": 4190,
+      "keyframes": [
+        "004042.webp",
+        "004071.webp",
+        "004072.webp",
+        "004104.webp",
+        "004136.webp",
+        "004137.webp",
+        "004160.webp",
+        "004184.webp",
+        "004185.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Tỏi nè, hành tím gừng đã nướng, đã nướng.",
+      "start": 167.6,
+      "end": 170.72,
+      "n_words": 9,
+      "start_frame": 4190,
+      "end_frame": 4268,
+      "keyframes": [
+        "004263.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta có thêm đại hồi nữa hay còn gọi đơn giản là hoa hồi.",
+      "start": 170.72,
+      "end": 173.68,
+      "n_words": 15,
+      "start_frame": 4268,
+      "end_frame": 4342,
+      "keyframes": [
+        "004342.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta cho hoa hồi, hành tỏi nướng tỏi nướng vào món ăn để tạo hương vị mới lạ cho món ôm nha và thêm một cái nguyên liệu nữa có tiêu giả bể nữa rồi đã thơm rồi.",
+      "start": 173.68,
+      "end": 183.6,
+      "n_words": 39,
+      "start_frame": 4342,
+      "end_frame": 4590,
+      "keyframes": [
+        "004342.webp",
+        "004343.webp",
+        "004404.webp",
+        "004465.webp",
+        "004466.webp",
+        "004487.webp",
+        "004509.webp",
+        "004510.webp",
+        "004524.webp",
+        "004539.webp",
+        "004540.webp",
+        "004565.webp",
+        "004590.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Và bây giờ chúng ta sẽ cho phần vịt đã tẩm ướp vào.",
+      "start": 183.6,
+      "end": 185.92,
+      "n_words": 13,
+      "start_frame": 4590,
+      "end_frame": 4648,
+      "keyframes": [
+        "004590.webp",
+        "004591.webp",
+        "004619.webp",
+        "004647.webp",
+        "004648.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Sau cái phần vịt đã được tẩm ướp cho săn lại rồi bây giờ anh Tuấn thấy nó thơm rồi nó săn rồi.",
+      "start": 185.92,
+      "end": 190.92,
+      "n_words": 23,
+      "start_frame": 4648,
+      "end_frame": 4773,
+      "keyframes": [
+        "004648.webp",
+        "004681.webp",
+        "004714.webp",
+        "004715.webp",
+        "004742.webp",
+        "004769.webp",
+        "004770.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Ở đây là xin sẽ xài khoảng một trái dừa, xin cũng cần một ít nước lọc nữa.",
+      "start": 190.92,
+      "end": 195.48,
+      "n_words": 18,
+      "start_frame": 4773,
+      "end_frame": 4887,
+      "keyframes": [
+        "004825.webp",
+        "004881.webp",
+        "004882.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Anh Tuấn biết sao không?",
+      "start": 195.48,
+      "end": 196.8,
+      "n_words": 5,
+      "start_frame": 4887,
+      "end_frame": 4920,
+      "keyframes": [
+        "004915.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Để cho cái phần đồ ăn chúng ta không bị quá ngọt.",
+      "start": 196.8,
+      "end": 199.24,
+      "n_words": 12,
+      "start_frame": 4920,
+      "end_frame": 4981,
+      "keyframes": [
+        "004949.webp",
+        "004950.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đúng rồi nó cân bằng lại cho.",
+      "start": 199.24,
+      "end": 201.0,
+      "n_words": 7,
+      "start_frame": 4981,
+      "end_frame": 5025,
+      "keyframes": [
+        "004985.webp",
+        "005021.webp",
+        "005022.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Luôn phần trứng vịt đã luộc và bóc vỏ vào nha.",
+      "start": 201.0,
+      "end": 203.2,
+      "n_words": 11,
+      "start_frame": 5025,
+      "end_frame": 5080,
+      "keyframes": [
+        "005049.webp",
+        "005076.webp",
+        "005077.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn nhớ là đậy nắp khi hầm để vịt được mau chín và giữ được vị ngọt.",
+      "start": 203.2,
+      "end": 206.92,
+      "n_words": 18,
+      "start_frame": 5080,
+      "end_frame": 5173,
+      "keyframes": [
+        "005093.webp",
+        "005110.webp",
+        "005111.webp",
+        "005143.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Thì bây giờ em sẽ kiểm tra cái phần vịt nha anh Tuấn nha.",
+      "start": 206.92,
+      "end": 209.04,
+      "n_words": 14,
+      "start_frame": 5173,
+      "end_frame": 5226,
+      "keyframes": [
+        "005175.webp",
+        "005176.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rồi wow màu rất là đẹp và cái sốt nè anh Tuấn thấy nó đã sánh kẹo như vậy quá thơm luôn là hoàn thành rồi nha.",
+      "start": 209.04,
+      "end": 216.4,
+      "n_words": 27,
+      "start_frame": 5226,
+      "end_frame": 5410,
+      "keyframes": [
+        "005291.webp",
+        "005407.webp",
+        "005408.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trước khi ra dĩa thì chúng ta sẽ cần thêm một muỗng canh nước tương Phú Sĩ nữa để cho nó đậm đà và thêm thơm hơn nha.",
+      "start": 216.4,
+      "end": 225.56,
+      "n_words": 28,
+      "start_frame": 5410,
+      "end_frame": 5639,
+      "keyframes": [
+        "005428.webp",
+        "005448.webp",
+        "005449.webp",
+        "005481.webp",
+        "005514.webp",
+        "005515.webp",
+        "005539.webp",
+        "005563.webp",
+        "005564.webp",
+        "005588.webp",
+        "005613.webp",
+        "005614.webp",
+        "005624.webp",
+        "005634.webp",
+        "005635.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Gắp từng miếng vịt nha và bây giờ rất là hấp dẫn rồi thì em sẽ có thêm nửa cái trứng mình cắt ra nữa cho nó đẹp nha và thêm một ít thêm một ít nước sốt nữa chúng ta sẽ rưới lên cái phần ngọ và bây giờ cuối cùng thì chúng ta sẽ điểm xuyết lên một ít ớt xắt nữa và một ít lá quế để có một cái tết Đoan Ngọ hoàn chỉnh.",
+      "start": 225.56,
+      "end": 248.72,
+      "n_words": 78,
+      "start_frame": 5639,
+      "end_frame": 6218,
+      "keyframes": [
+        "005657.webp",
+        "005680.webp",
+        "005681.webp",
+        "005702.webp",
+        "005724.webp",
+        "005725.webp",
+        "005798.webp",
+        "005871.webp",
+        "005872.webp",
+        "005911.webp",
+        "005950.webp",
+        "005951.webp",
+        "006028.webp",
+        "006105.webp",
+        "006106.webp",
+        "006135.webp",
+        "006165.webp",
+        "006166.webp",
+        "006201.webp"
+      ],
+      "keyframe_count": 19
+    },
+    {
+      "text": "Thì ngoài món vịt om này thì chúng ta cần thêm một món salad táo rau mầm nữa.",
+      "start": 248.72,
+      "end": 252.64,
+      "n_words": 18,
+      "start_frame": 6218,
+      "end_frame": 6316,
+      "keyframes": [
+        "006236.webp",
+        "006237.webp",
+        "006275.webp",
+        "006313.webp",
+        "006314.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Trời ơi một cái ngày tết Đoan Ngọ mà đậm đà hương vị và rất là ngon miệng nữa.",
+      "start": 252.64,
+      "end": 257.88,
+      "n_words": 19,
+      "start_frame": 6316,
+      "end_frame": 6447,
+      "keyframes": [
+        "006338.webp",
+        "006362.webp",
+        "006363.webp",
+        "006418.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cảm ơn xin rất nhiều vì đã làm ra một món ăn rất đặc biệt và cực kỳ hấp dẫn như ngày hôm nay.",
+      "start": 257.88,
+      "end": 262.04,
+      "n_words": 24,
+      "start_frame": 6447,
+      "end_frame": 6551,
+      "keyframes": [
+        "006474.webp",
+        "006475.webp",
+        "006512.webp",
+        "006550.webp",
+        "006551.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Phần thịt vịt om tới độ chín mềm, tắm mỡ mọng nước ngọt đậm đà, phần nước om sánh lại quyện với trứng vịt bùi bùi thơm, thơm từ nước tương Phú Sĩ cực kỳ bắt cơm.",
+      "start": 262.04,
+      "end": 274.0,
+      "n_words": 37,
+      "start_frame": 6551,
+      "end_frame": 6850,
+      "keyframes": [
+        "006551.webp",
+        "006595.webp",
+        "006640.webp",
+        "006655.webp",
+        "006695.webp",
+        "006735.webp",
+        "006736.webp",
+        "006792.webp",
+        "006848.webp",
+        "006849.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Như vậy là tết Đoan Ngọ năm nay mọi người lại có thêm một cái sự lựa chọn để làm phong phú hơn bữa ăn của mình cùng với lại món vịt om nước tương.",
+      "start": 274.0,
+      "end": 281.04,
+      "n_words": 35,
+      "start_frame": 6850,
+      "end_frame": 7026,
+      "keyframes": [
+        "006937.webp",
+        "007025.webp",
+        "007026.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thức của món ăn này thì luôn luôn sẵn sàng chia sẻ trên các trang của chương trình Món ngon mỗi ngày bao gồm là YouTube, website và cả fanpage của chương trình. Chúc các bạn thành công nhé.",
+      "start": 281.44,
+      "end": 291.04,
+      "n_words": 39,
+      "start_frame": 7036,
+      "end_frame": 7276,
+      "keyframes": [
+        "007093.webp",
+        "007161.webp",
+        "007162.webp",
+        "007223.webp"
+      ],
+      "keyframe_count": 4
+    }
+  ]
+}

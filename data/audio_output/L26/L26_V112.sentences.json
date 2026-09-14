@@ -1,0 +1,669 @@
+{
+  "video_id": "L26_V112",
+  "fps": 25.0,
+  "n_sentences": 32,
+  "total_words": 873,
+  "sentences": [
+    {
+      "text": "Chào món ngon mỗi ngày.",
+      "start": 0.04,
+      "end": 12.16,
+      "n_words": 5,
+      "start_frame": 1,
+      "end_frame": 304,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000130.webp",
+        "000147.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 36
+    },
+    {
+      "text": "Bê cuộn khìa nước dừa tươi giòn sần sật, thơm ngọt thích mê.",
+      "start": 12.16,
+      "end": 35.52,
+      "n_words": 13,
+      "start_frame": 304,
+      "end_frame": 888,
+      "keyframes": [
+        "000361.webp",
+        "000422.webp",
+        "000423.webp",
+        "000472.webp",
+        "000522.webp",
+        "000523.webp",
+        "000581.webp",
+        "000639.webp",
+        "000640.webp",
+        "000686.webp",
+        "000733.webp",
+        "000734.webp",
+        "000824.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Chào mừng các bạn đang đến với chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành.",
+      "start": 35.52,
+      "end": 41.04,
+      "n_words": 17,
+      "start_frame": 888,
+      "end_frame": 1026,
+      "keyframes": [
+        "000914.webp",
+        "000915.webp",
+        "001025.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 41.04,
+      "end": 45.4,
+      "n_words": 11,
+      "start_frame": 1026,
+      "end_frame": 1135,
+      "keyframes": [
+        "001135.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Em chào cô, hôm nay mình sẽ nấu món gì cô nhỉ?",
+      "start": 45.4,
+      "end": 48.2,
+      "n_words": 12,
+      "start_frame": 1135,
+      "end_frame": 1205,
+      "keyframes": [
+        "001135.webp",
+        "001136.webp",
+        "001147.webp",
+        "001159.webp",
+        "001160.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hôm nay chúng ta sẽ làm một món ăn mà cô nghĩ là cả người lớn cả trẻ con đều rất là thích với một nguyên liệu khá là mới, đó là thịt bê.",
+      "start": 48.2,
+      "end": 56.24,
+      "n_words": 34,
+      "start_frame": 1205,
+      "end_frame": 1406,
+      "keyframes": [
+        "001259.webp",
+        "001359.webp",
+        "001360.webp",
+        "001383.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Món ăn ngày hôm nay chúng ta sẽ làm đó là món bê cuộn khìa nước dừa tươi.",
+      "start": 56.24,
+      "end": 59.0,
+      "n_words": 18,
+      "start_frame": 1406,
+      "end_frame": 1475,
+      "keyframes": [
+        "001407.webp",
+        "001408.webp",
+        "001425.webp",
+        "001443.webp",
+        "001444.webp",
+        "001468.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Khi mua thịt bê thì chúng ta sẽ mua những cái miếng thịt bê mà nó có cái hình chữ nhật như thế này, nó tương đối phẳng vậy nè, để chút mình cuộn lại thì nó sẽ đẹp hơn.",
+      "start": 59.72,
+      "end": 69.28,
+      "n_words": 40,
+      "start_frame": 1493,
+      "end_frame": 1732,
+      "keyframes": [
+        "001493.webp",
+        "001494.webp",
+        "001544.webp",
+        "001594.webp",
+        "001595.webp",
+        "001665.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ chuẩn bị gia vị để ướp thịt bê: chúng ta sẽ có nửa muỗng cà phê ngũ vị hương, nửa muỗng cà phê tiêu, một muỗng cà phê hạt nêm Aji-ngon heo, nửa muỗng canh đường, hai muỗng canh nước tương Phú Sĩ, một muỗng canh màu dầu điều, nửa muỗng cà phê muối và cuối cùng là một muỗng canh hành tỏi băm.",
+      "start": 69.28,
+      "end": 92.84,
+      "n_words": 69,
+      "start_frame": 1732,
+      "end_frame": 2321,
+      "keyframes": [
+        "001735.webp",
+        "001736.webp",
+        "001772.webp",
+        "001808.webp",
+        "001809.webp",
+        "001820.webp",
+        "001832.webp",
+        "001833.webp",
+        "001855.webp",
+        "001877.webp",
+        "001878.webp",
+        "001888.webp",
+        "001898.webp",
+        "001899.webp",
+        "001912.webp",
+        "001926.webp",
+        "001927.webp",
+        "001940.webp",
+        "001954.webp",
+        "001955.webp",
+        "001974.webp",
+        "001993.webp",
+        "001994.webp",
+        "002008.webp",
+        "002023.webp",
+        "002024.webp",
+        "002034.webp",
+        "002045.webp",
+        "002046.webp",
+        "002060.webp",
+        "002075.webp",
+        "002076.webp",
+        "002094.webp",
+        "002112.webp",
+        "002113.webp",
+        "002127.webp",
+        "002141.webp",
+        "002142.webp",
+        "002163.webp",
+        "002185.webp",
+        "002186.webp",
+        "002202.webp",
+        "002218.webp",
+        "002219.webp",
+        "002232.webp",
+        "002246.webp",
+        "002247.webp",
+        "002283.webp",
+        "002320.webp",
+        "002321.webp"
+      ],
+      "keyframe_count": 50
+    },
+    {
+      "text": "Mình sẽ trộn đều lên, ở đây đã có tất cả đầy đủ gia vị để chúng ta sẽ ướp vào trong miếng thịt bê rồi đó.",
+      "start": 92.84,
+      "end": 99.92,
+      "n_words": 27,
+      "start_frame": 2321,
+      "end_frame": 2498,
+      "keyframes": [
+        "002321.webp",
+        "002343.webp",
+        "002365.webp",
+        "002366.webp",
+        "002431.webp",
+        "002496.webp",
+        "002497.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Sau khi chúng ta trộn đều thì bây giờ chúng ta sẽ ướp vào trong miếng thịt bê.",
+      "start": 99.92,
+      "end": 103.68,
+      "n_words": 18,
+      "start_frame": 2498,
+      "end_frame": 2592,
+      "keyframes": [
+        "002539.webp",
+        "002581.webp",
+        "002582.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn lưu ý là chúng ta ướp thịt xong rồi mới dùng chỉ để cuộn lại để giúp gia vị thấm vào thịt nhé.",
+      "start": 103.68,
+      "end": 111.56,
+      "n_words": 25,
+      "start_frame": 2592,
+      "end_frame": 2789,
+      "keyframes": [
+        "002614.webp",
+        "002646.webp",
+        "002647.webp",
+        "002698.webp",
+        "002750.webp",
+        "002751.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đơn giản thôi.",
+      "start": 111.56,
+      "end": 112.52,
+      "n_words": 3,
+      "start_frame": 2789,
+      "end_frame": 2813,
+      "keyframes": [
+        "002792.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tuấn ơi, ban đầu thì mình cuộn ở đây mình cột lại đó, thì mình sẽ cột thêm hai cái sợi giống hai cái đầu này lại nữa.",
+      "start": 112.52,
+      "end": 122.08,
+      "n_words": 28,
+      "start_frame": 2813,
+      "end_frame": 3052,
+      "keyframes": [
+        "002833.webp",
+        "002834.webp",
+        "002887.webp",
+        "002940.webp",
+        "002941.webp",
+        "002972.webp",
+        "003003.webp",
+        "003004.webp",
+        "003038.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đúng rồi, là chúng ta sẽ để cho cái thịt thấm gia vị.",
+      "start": 122.08,
+      "end": 125.8,
+      "n_words": 13,
+      "start_frame": 3052,
+      "end_frame": 3145,
+      "keyframes": [
+        "003073.webp",
+        "003074.webp",
+        "003113.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Minh Tuấn giúp cô hà là mình sẽ đập dập sả nè, cắt làm hai thôi và đập dập rồi cắt làm hai, tỏi đập dập rồi hành lá thì mình sẽ cắt khúc khoảng hai phân.",
+      "start": 125.8,
+      "end": 149.96,
+      "n_words": 37,
+      "start_frame": 3145,
+      "end_frame": 3749,
+      "keyframes": [
+        "003153.webp",
+        "003154.webp",
+        "003209.webp",
+        "003264.webp",
+        "003265.webp",
+        "003281.webp",
+        "003297.webp",
+        "003298.webp",
+        "003318.webp",
+        "003338.webp",
+        "003339.webp",
+        "003357.webp",
+        "003375.webp",
+        "003376.webp",
+        "003398.webp",
+        "003420.webp",
+        "003421.webp",
+        "003449.webp",
+        "003477.webp",
+        "003478.webp",
+        "003505.webp",
+        "003533.webp",
+        "003534.webp",
+        "003566.webp",
+        "003598.webp",
+        "003599.webp",
+        "003671.webp",
+        "003744.webp",
+        "003745.webp"
+      ],
+      "keyframe_count": 29
+    },
+    {
+      "text": "Tiếp theo thì chúng ta sẽ đặt một cái chảo lên trên bếp, cho một ít dầu ăn vào trong chảo, cho sả đập dập vào phi cho thơm nè.",
+      "start": 149.96,
+      "end": 159.2,
+      "n_words": 30,
+      "start_frame": 3749,
+      "end_frame": 3980,
+      "keyframes": [
+        "003771.webp",
+        "003797.webp",
+        "003798.webp",
+        "003811.webp",
+        "003824.webp",
+        "003825.webp",
+        "003842.webp",
+        "003859.webp",
+        "003860.webp",
+        "003889.webp",
+        "003919.webp",
+        "003920.webp",
+        "003923.webp",
+        "003927.webp",
+        "003928.webp",
+        "003962.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Dùng sả lót vào đáy chảo để cuộn thịt lên để cho cái phần thịt không bị dính vào trong đáy chảo cũng như là sẽ thơm mùi sả và mình cho tiếp tỏi nữa.",
+      "start": 159.2,
+      "end": 168.0,
+      "n_words": 35,
+      "start_frame": 3980,
+      "end_frame": 4200,
+      "keyframes": [
+        "003996.webp",
+        "003997.webp",
+        "004078.webp",
+        "004160.webp",
+        "004161.webp",
+        "004192.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Các bạn lưu ý là trước khi chiên thì chúng ta sẽ vuốt phần gia vị rơi khỏi cuộn thịt để sau khi chiên thì thịt không bị cháy, sẽ gạt hết mấy cái gia vị bên ngoài nó cho vô.",
+      "start": 168.0,
+      "end": 182.72,
+      "n_words": 41,
+      "start_frame": 4200,
+      "end_frame": 4568,
+      "keyframes": [
+        "004224.webp",
+        "004225.webp",
+        "004260.webp",
+        "004295.webp",
+        "004296.webp",
+        "004334.webp",
+        "004372.webp",
+        "004373.webp",
+        "004423.webp",
+        "004474.webp",
+        "004475.webp",
+        "004523.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Mình cho nước dừa tươi vô và nếu như mà lượng nước dừa tươi nó không có xăm xấp được cái cuộn bê thì chúng ta sẽ cho thêm nước vô để mình nấu cho cái cuộn bê nó mềm thôi, rồi mình sẽ đậy nắp lại ha cho nước nó cũng đừng có bốc hơi và cái cuộn thịt bê nó sẽ mau mềm.",
+      "start": 182.72,
+      "end": 205.24,
+      "n_words": 65,
+      "start_frame": 4568,
+      "end_frame": 5131,
+      "keyframes": [
+        "004572.webp",
+        "004573.webp",
+        "004680.webp",
+        "004788.webp",
+        "004789.webp",
+        "004844.webp",
+        "004899.webp",
+        "004900.webp",
+        "004944.webp",
+        "004988.webp",
+        "004989.webp",
+        "005016.webp",
+        "005043.webp",
+        "005044.webp",
+        "005085.webp",
+        "005127.webp",
+        "005128.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Trong thịt bê thì có rất là nhiều kẽm luôn, bên cạnh lượng protein đặc trưng của thịt bò, cho nên là chúng ta lâu lâu mình đổi sang thịt bê cả gia đình được ăn ngon nào, bên cạnh đó thì cũng có thể bổ sung kẽm để tăng sức đề kháng cũng như giúp cho cơ thể của mình có những khoáng chất cần thiết.",
+      "start": 205.24,
+      "end": 219.8,
+      "n_words": 67,
+      "start_frame": 5131,
+      "end_frame": 5495,
+      "keyframes": [
+        "005159.webp",
+        "005191.webp",
+        "005192.webp",
+        "005343.webp",
+        "005494.webp",
+        "005495.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sau thời gian mình nấu khoảng chừng 30 phút, nước đã cạn sánh lại rồi, cô Hà sẽ cho cái phần hành lá khúc vô đây để cho nó thơm.",
+      "start": 219.8,
+      "end": 228.12,
+      "n_words": 30,
+      "start_frame": 5495,
+      "end_frame": 5703,
+      "keyframes": [
+        "005495.webp",
+        "005521.webp",
+        "005548.webp",
+        "005549.webp",
+        "005570.webp",
+        "005591.webp",
+        "005592.webp",
+        "005627.webp",
+        "005662.webp",
+        "005663.webp",
+        "005680.webp",
+        "005698.webp",
+        "005699.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Và nếu như tất cả các bạn đang theo dõi chương trình cũng muốn làm món này ngay tại nhà của mình thì có một mã QR đang xuất hiện trên màn hình để tất cả các bạn có thể quét mã này, chúng ta có ngay công thức để thực hiện tại nhà nha.",
+      "start": 228.12,
+      "end": 242.24,
+      "n_words": 55,
+      "start_frame": 5703,
+      "end_frame": 6056,
+      "keyframes": [
+        "005713.webp",
+        "005728.webp",
+        "005729.webp",
+        "005736.webp",
+        "005744.webp",
+        "005782.webp",
+        "005818.webp",
+        "005855.webp",
+        "005856.webp",
+        "005933.webp",
+        "006010.webp",
+        "006011.webp",
+        "006035.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Chúng ta sẽ cắt thịt bê ra thành những lát dày khoảng 2 ly và chúng ta trình bày món ăn.",
+      "start": 242.24,
+      "end": 256.36,
+      "n_words": 21,
+      "start_frame": 6056,
+      "end_frame": 6409,
+      "keyframes": [
+        "006060.webp",
+        "006061.webp",
+        "006124.webp",
+        "006187.webp",
+        "006188.webp",
+        "006243.webp",
+        "006298.webp",
+        "006299.webp",
+        "006344.webp",
+        "006390.webp",
+        "006391.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Rồi ăn cái món này thì phải có thêm rau thơm và đồ chua nữa cô ha?",
+      "start": 256.36,
+      "end": 261.96,
+      "n_words": 17,
+      "start_frame": 6409,
+      "end_frame": 6549,
+      "keyframes": [
+        "006417.webp",
+        "006444.webp",
+        "006445.webp",
+        "006479.webp",
+        "006514.webp",
+        "006515.webp",
+        "006539.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Đúng rồi, có ớt nữa nè.",
+      "start": 261.96,
+      "end": 264.56,
+      "n_words": 6,
+      "start_frame": 6549,
+      "end_frame": 6614,
+      "keyframes": [
+        "006563.webp",
+        "006564.webp",
+        "006585.webp",
+        "006606.webp",
+        "006607.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Với món ăn này thì các bạn khán giả chúng ta có thể kết hợp thêm với lại món xà lách bắp nướng sẽ có một bữa ăn rất hoàn chỉnh.",
+      "start": 264.56,
+      "end": 272.2,
+      "n_words": 31,
+      "start_frame": 6614,
+      "end_frame": 6805,
+      "keyframes": [
+        "006643.webp",
+        "006679.webp",
+        "006680.webp",
+        "006741.webp",
+        "006802.webp",
+        "006803.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thịt bê thấm vị, dịu ngọt của nước dừa, nếm một miếng da bê giòn sần sật trong khoang miệng, mùi thơm của ngũ vị hương bung tỏa mỗi miếng mỗi mê.",
+      "start": 272.2,
+      "end": 284.32,
+      "n_words": 32,
+      "start_frame": 6805,
+      "end_frame": 7108,
+      "keyframes": [
+        "006855.webp",
+        "006907.webp",
+        "006922.webp",
+        "006964.webp",
+        "007006.webp",
+        "007007.webp",
+        "007058.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Lâu lâu vào dịp cuối tuần chuẩn bị một món ăn cho cả gia đình ăn cả ngày thì các bạn hãy nhớ lựa chọn món ăn của ngày hôm nay nhé.",
+      "start": 284.32,
+      "end": 291.6,
+      "n_words": 32,
+      "start_frame": 7108,
+      "end_frame": 7290,
+      "keyframes": [
+        "007110.webp",
+        "007111.webp",
+        "007201.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Công thức luôn có trên YouTube, website và fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 291.6,
+      "end": 295.84,
+      "n_words": 16,
+      "start_frame": 7290,
+      "end_frame": 7396,
+      "keyframes": [
+        "007291.webp",
+        "007292.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Truy cập vào lấy công thức và thực hiện ngay tại nhà nha.",
+      "start": 295.84,
+      "end": 298.16,
+      "n_words": 13,
+      "start_frame": 7396,
+      "end_frame": 7454,
+      "keyframes": [
+        "007401.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúc các bạn thành công với món ăn của ngày hôm nay.",
+      "start": 298.16,
+      "end": 301.16,
+      "n_words": 12,
+      "start_frame": 7454,
+      "end_frame": 7529,
+      "keyframes": [
+        "007511.webp",
+        "007512.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

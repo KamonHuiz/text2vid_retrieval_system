@@ -1,0 +1,659 @@
+1
+00:00:07,600 --> 00:00:13,680
+Xin chào tất cả các em, thầy rất vui được gặp lại các em trong chương trình ôn tập báo Thanh Niên tổ chức.
+
+2
+00:00:13,680 --> 00:00:19,200
+Chủ đề ngày hôm nay của chúng ta sẽ là chủ đề thứ sáu: góc, khoảng cách và thể tích.
+
+3
+00:00:19,200 --> 00:00:22,280
+Hãy cùng nhau đi vào bài học.
+
+4
+00:00:22,280 --> 00:00:36,400
+Để có được thành công như hôm nay, tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình bắt đầu từ trường Đại học Quốc tế Sài Gòn (SIU).
+
+5
+00:00:36,400 --> 00:00:43,200
+Đào tạo đa dạng đa lĩnh vực, SIU mở ra cho chúng tôi nhiều cơ hội lựa chọn nghề nghiệp trong tương lai.
+
+6
+00:00:43,200 --> 00:00:50,480
+Tất cả sinh viên đều có cơ hội để thể hiện và phát triển năng lực; Những ý tưởng luôn được khuyến khích và phát huy tối đa.
+
+7
+00:00:50,480 --> 00:00:56,560
+Chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin, chúng tôi được học cách học, cách nghĩ và cách sống.
+
+8
+00:00:56,560 --> 00:01:03,680
+Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.
+
+9
+00:01:03,680 --> 00:01:14,360
+Hiện đại, năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc, đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn (SIU) luôn hướng đến.
+
+10
+00:01:14,360 --> 00:01:22,400
+Đã đến lúc vươn xa hơn những gì đã học.
+
+11
+00:01:22,400 --> 00:01:27,320
+Đầu tiên, thầy sẽ ôn tập lại cho các em một số lý thuyết liên quan đến hình học không gian.
+
+12
+00:01:27,320 --> 00:01:32,080
+Một là: cách xác định góc giữa đường thẳng và mặt phẳng.
+
+13
+00:01:32,080 --> 00:01:47,320
+Bây giờ, giả sử chúng ta muốn xác định góc giữa một đường thẳng d và mặt phẳng alpha, thì cách làm là chúng ta phải tìm được hình chiếu của d là d' trên mặt phẳng alpha.
+
+14
+00:01:47,320 --> 00:01:59,560
+Khi đó, góc giữa đường thẳng d và mặt phẳng alpha chính là góc giữa d và hình chiếu của nó là d', và chính là góc phi trên hình vẽ.
+
+15
+00:01:59,560 --> 00:02:04,200
+Tiếp theo, chúng ta sẽ nói về góc giữa hai mặt phẳng.
+
+16
+00:02:04,200 --> 00:02:12,880
+Giả sử chúng ta cần xác định góc giữa hai mặt phẳng P và Q, thì đầu tiên là chúng ta phải tìm được giao tuyến của hai mặt đó.
+
+17
+00:02:12,880 --> 00:02:24,080
+Sau đó, chúng ta sẽ lần lượt tìm hai đường thẳng nằm trong hai mặt phẳng P và Q mà hai đường thẳng này cùng vuông góc với giao tuyến tại một điểm.
+
+18
+00:02:24,080 --> 00:02:35,200
+Giống như trên hình vẽ, thì bây giờ góc giữa hai mặt phẳng P và Q chính là góc giữa hai đường thẳng cùng vuông góc với giao tuyến.
+
+19
+00:02:35,200 --> 00:02:38,360
+Trên hình vẽ thì là góc giữa hai đường thẳng d1 và d2.
+
+20
+00:02:42,800 --> 00:02:46,760
+Ba (III), chúng ta nói về khoảng cách.
+
+21
+00:02:46,760 --> 00:02:59,160
+Khoảng cách từ một điểm M đến mặt phẳng P thì chính là độ dài của đoạn vuông góc MH, trong đó H là hình chiếu của M trên mặt phẳng P.
+
+22
+00:02:59,560 --> 00:03:09,040
+Đối với dạng khoảng cách này, chúng ta sẽ có một dạng đặc biệt là bài toán tính khoảng cách từ chân đường vuông góc của đỉnh đến một mặt bên.
+
+23
+00:03:09,040 --> 00:03:19,400
+Thì bây giờ ta sẽ xét ví dụ sau đây: giả sử có một hình chóp đỉnh là S, hình chiếu của đỉnh xuống mặt đáy là điểm A.
+
+24
+00:03:19,400 --> 00:03:31,040
+Bây giờ bài toán yêu cầu tính khoảng cách từ A đến SBC thì bắt buộc chúng ta phải dựng được cái đường vuông góc từ A vào mặt phẳng SBC.
+
+25
+00:03:31,040 --> 00:03:47,160
+Thì chúng ta sẽ dựng như sau: bước một là từ A chúng ta sẽ kẻ vuông góc với lại cái cạnh đáy BC, sau đó chúng ta sẽ kéo lên đỉnh, chúng ta được AH.
+
+26
+00:03:47,160 --> 00:04:04,960
+Và bước thứ hai là từ A chúng ta sẽ kẻ vuông góc với lại SH, giả sử là AY thì bằng cách chứng minh hình học, chúng ta dễ dàng chứng minh được là AY vuông góc với mặt phẳng SBC và do đó khoảng cách cần tìm là AY.
+
+27
+00:04:04,960 --> 00:04:23,880
+Thì sau khi xác định được khoảng cách là AY thì để tính được độ dài AY, chúng ta cần nhớ hệ thức lượng trong tam giác vuông như sau: xét tam giác SAH vuông tại A, đường cao là AY thì lúc này ta có 1/AY² sẽ bằng 1/SA² cộng cho 1/AH².
+
+28
+00:04:25,360 --> 00:04:29,920
+Từ đây chúng ta sẽ tính được AY.
+
+29
+00:04:29,920 --> 00:04:36,320
+IV, chúng ta sẽ nói về thể tích của các khối đa diện mà chúng ta đã học.
+
+30
+00:04:36,320 --> 00:04:46,920
+Đầu tiên là thể tích khối chóp: thể tích khối chóp sẽ tính bằng công thức 1/3 diện tích đáy nhân với chiều cao.
+
+31
+00:04:46,920 --> 00:04:52,680
+Thể tích khối lăng trụ sẽ bằng diện tích đáy nhân với chiều cao.
+
+32
+00:04:52,680 --> 00:04:58,400
+Thể tích khối lập phương là bằng cạnh mũ ba.
+
+33
+00:04:58,400 --> 00:05:07,920
+Thể tích khối hộp chữ nhật là bằng a nhân b nhân c với a, b, c lần lượt là các kích thước của hình hộp chữ nhật đó.
+
+34
+00:05:07,920 --> 00:05:12,720
+Thì trên đây là toàn bộ các lý thuyết chung về hình học không gian mà các em cần nắm.
+
+35
+00:05:12,720 --> 00:05:16,440
+Bây giờ chúng ta sẽ cùng nhau giải quyết một số ví dụ.
+
+36
+00:05:16,440 --> 00:05:21,800
+Đầu tiên câu thứ nhất: cho khối lăng trụ đứng ABC.
+
+37
+00:05:21,800 --> 00:05:34,520
+A'B'C' trong đó đáy ABC là tam giác vuông cân tại B, các em có thể quan sát hình vẽ, trong đó AB bằng a.
+
+38
+00:05:35,440 --> 00:05:45,440
+Đề bài cho biết khoảng cách từ điểm A đến mặt phẳng A'BC là bằng căn(6)/3 a.
+
+39
+00:05:45,440 --> 00:05:49,360
+Yêu cầu tính thể tích khối lăng trụ đã cho.
+
+40
+00:05:49,360 --> 00:06:02,280
+Đầu tiên chúng ta có thể thấy rằng tam giác ABC vuông cân tại B và chúng ta đã biết AB thì chắc chắn là chúng ta sẽ có thể dễ dàng tìm được cái diện tích đáy.
+
+41
+00:06:02,280 --> 00:06:07,680
+Vậy công việc của chúng ta là cần tìm ra được độ dài của chiều cao.
+
+42
+00:06:07,680 --> 00:06:21,880
+Bây giờ thầy sẽ cố gắng thầy dựng được cái khoảng cách từ A đến mặt phẳng A'BC thì cách dựng như sau: A' chúng ta được biết nó chính là cái hình chiếu vuông góc của A xuống mặt ABC.
+
+43
+00:06:21,880 --> 00:06:26,360
+Vậy thì bây giờ chúng ta sẽ dựng theo các bước mà thầy vừa nói lúc nãy đầu.
+
+44
+00:06:28,640 --> 00:06:39,880
+Với BC thì nó sẽ ngay điểm B, chúng ta kéo lên A' được A'B, và cuối cùng cái khoảng cách là từ A chúng ta sẽ kẻ AH vuông góc với lại A'B.
+
+45
+00:06:43,000 --> 00:06:50,200
+Thì lúc này khoảng cách từ A đến mặt phẳng A'BC chính là, chính là độ dài của đoạn AH và bằng $a\sqrt{6}/3$.
+
+46
+00:06:55,200 --> 00:07:09,840
+Bây giờ chúng ta sẽ xét cái tam giác A'AB, đây là một tam giác vuông tại A, đường cao là AH, do đó chúng ta sẽ có $1/AH^2$ sẽ bằng $1/A'A^2 + 1/AB^2$.
+
+47
+00:07:14,680 --> 00:07:26,720
+Trong đó A'A là chúng ta cần tính, chúng ta giữ nguyên $1/A'A^2$, chúng ta chuyển vế cái $1/AB^2$ qua vế trái.
+
+48
+00:07:26,720 --> 00:07:42,520
+Bây giờ AH là đề đã cho là $a\sqrt{6}/3$, AB đề đã cho là $a$, từ đây chúng ta dễ dàng tính được $1/A'A^2$ là bằng $1/2a^2$, suy ra được $A'A$ là bằng $a\sqrt{2}$.
+
+49
+00:07:43,240 --> 00:07:47,720
+Thì A'A chính là chiều cao của khối lăng trụ này.
+
+50
+00:07:47,720 --> 00:07:58,240
+Do đó thể tích của khối lăng trụ đã cho là bằng diện tích đáy nhân với chiều cao, tức là diện tích của tam giác vuông cân ABC nhân cho chiều cao AA'.
+
+51
+00:08:00,480 --> 00:08:13,760
+Tam giác ABC vuông tại B cho nên diện tích sẽ bằng một phần hai của tích hai cạnh góc vuông là một phần hai của $a \cdot a$, AA' là chiều cao là bằng $a\sqrt{2}$, kết quả ta có là $a^3\sqrt{2}/2$.
+
+52
+00:08:16,520 --> 00:08:21,680
+Ta chọn đáp án B.
+
+53
+00:08:21,680 --> 00:08:27,280
+Kết thúc câu số một.
+
+54
+00:08:27,280 --> 00:08:30,720
+Tiếp theo ta đến với câu hỏi số hai.
+
+55
+00:08:30,720 --> 00:08:47,720
+Bây giờ chúng ta cũng có một cái hình lăng trụ đứng A'B'C'A B C, đấy là tam giác vuông tại A, trong đó AC là bằng $a$, góc ACB là bằng 60 độ.
+
+56
+00:08:47,720 --> 00:08:59,160
+Bây giờ giả thiết cho chúng ta BC' tạo với mặt ACC'A' tức là mặt đằng sau một góc là 30 độ.
+
+57
+00:08:59,160 --> 00:09:04,280
+Yêu cầu tính thể tích khối lăng trụ đã cho.
+
+58
+00:09:04,280 --> 00:09:08,120
+Bây giờ chúng ta sẽ đi giải quyết từng giả thiết.
+
+59
+00:09:08,120 --> 00:09:14,840
+Bây giờ thầy sẽ đi xác định xem góc giữa BC' và cái mặt phẳng ACC'A' là góc nào.
+
+60
+00:09:14,840 --> 00:09:21,440
+Thì như thầy vừa trình bày ở phần lý thuyết, thì bắt buộc thầy phải tìm được hình chiếu của BC' xuống mặt đó.
+
+61
+00:09:21,440 --> 00:09:34,800
+Thì hình chiếu thì đầu tiên BC' nó sẽ cắt cái mặt ACC'A' tại điểm C', tiếp theo thầy sẽ dựng cái hình chiếu của B xuống mặt ACC'A'.
+
+62
+00:09:53,760 --> 00:10:01,280
+Hình chiếu của B là A, từ đó hình chiếu của BC' chính là AC'.
+
+63
+00:10:02,800 --> 00:10:14,880
+Và cái góc chúng ta cần xác định cũng chính là góc giữa BC' và AC', và là góc (BC'A) = 30 độ.
+
+64
+00:10:14,880 --> 00:10:20,720
+Bây giờ chúng ta sẽ đi tính diện tích đáy và chiều cao của cái lăng trụ này.
+
+65
+00:10:20,720 --> 00:10:29,600
+Đầu tiên, chúng ta xét trong cái tam giác ABC là một tam giác vuông tại A có góc C là 60 độ.
+
+66
+00:10:29,600 --> 00:10:36,360
+Ta dùng tan của góc C thì sẽ = AB / AC.
+
+67
+00:10:36,360 --> 00:10:43,840
+AC chúng ta đã có là = a, từ đây chúng ta tính được AB = a * tan 60° = a√3.
+
+68
+00:10:47,680 --> 00:11:01,720
+Tiếp theo, chúng ta xét trong tam giác ABC', thì dĩ nhiên chúng ta đã có được AB rồi, do đó chúng ta sẽ xài tan của 30 độ thì tan 30° = AB / AC'.
+
+69
+00:11:03,120 --> 00:11:08,480
+Với AB = a√3 chúng ta vừa tính, vậy thì chúng ta sẽ tính được AC' = 3a.
+
+70
+00:11:11,120 --> 00:11:22,080
+Sau khi có AC' và chúng ta cũng có AC, chúng ta sẽ tính được chiều cao CC' = định lý Pythagoras, CC' = √(AC'^2 - AC^2).
+
+71
+00:11:26,160 --> 00:11:28,440
+Thay vào chúng ta sẽ tính được CC' = 2a√2.
+
+72
+00:11:28,440 --> 00:11:35,520
+Thể tích khối lăng trụ = diện tích đáy * chiều cao.
+
+73
+00:11:35,520 --> 00:11:40,640
+Diện tích đáy = 1/2 * tích hai cạnh góc vuông, tức là 1/2 * AB * AC.
+
+74
+00:11:42,480 --> 00:11:44,080
+Chiều cao là CC' = 2a√2.
+
+75
+00:11:45,040 --> 00:11:48,840
+Chúng ta thay vào và tính được thể tích của khối lăng trụ = a³√6.
+
+76
+00:11:50,480 --> 00:11:54,080
+Ta chọn đáp án A.
+
+77
+00:11:54,080 --> 00:12:04,680
+Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.
+
+78
+00:12:04,680 --> 00:12:12,320
+Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện, cân bằng giữa học thuật và nghệ thuật, thể thao.
+
+79
+00:12:12,320 --> 00:12:22,960
+Hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, khơi nguồn cảm hứng độc lập để phát triển và hoàn thiện nhân cách.
+
+80
+00:12:22,960 --> 00:12:43,800
+Ngoài những giờ học trên lớp, học sinh Trường Quốc tế Á Châu còn được trải nghiệm, thử thách bản thân và phản biện các vấn đề để trưởng thành hơn.
+
+81
+00:12:43,800 --> 00:12:58,600
+Nơi đây với tôi còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.
+
+82
+00:12:58,600 --> 00:13:03,720
+Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là cuộc sống.
+
+83
+00:13:03,720 --> 00:13:17,120
+Từ môi trường giáo dục này, chúng tôi đã tự tin bước tiếp và viết nên câu chuyện tương lai của chính mình.
+
+84
+00:13:17,120 --> 00:13:20,800
+Tiếp theo, chúng ta đến với câu hỏi số ba.
+
+85
+00:13:20,800 --> 00:13:24,280
+Đây là một câu hỏi về hình chóp.
+
+86
+00:13:24,280 --> 00:13:26,240
+Cho hình chóp S.
+
+87
+00:13:26,240 --> 00:13:37,160
+ABCD có đáy ABCD là hình chữ nhật, mặt bên SAB là tam giác đều cạnh a và vuông góc với mặt phẳng đáy ABCD.
+
+88
+00:13:37,160 --> 00:13:42,120
+Đề bài cho mặt phẳng (SCD) tạo với đáy một góc 30 độ.
+
+89
+00:13:42,120 --> 00:13:45,880
+Tính thể tích của hình chóp này?
+
+90
+00:13:45,880 --> 00:13:50,160
+Thì sau khi đọc đề bài, chúng ta thấy là đề chưa cho chiều cao của hình chóp này.
+
+91
+00:13:50,160 --> 00:13:56,360
+Do đó, việc đầu tiên chúng ta cần làm là chúng ta sẽ xem coi là chiều cao của hình chóp này là đường nào.
+
+92
+00:13:56,360 --> 00:14:07,880
+Bây giờ chúng ta thấy đề cho mặt phẳng (SAB) vuông góc với mặt phẳng (ABCD) và giao tuyến của (SAB) và (ABCD) chính là đường AB.
+
+93
+00:14:07,880 --> 00:14:13,480
+Vậy thì đường cao sẽ là đường mà từ S kẻ vuông góc vô AB.
+
+94
+00:14:15,360 --> 00:14:24,720
+Chúng ta sử dụng tính chất: một đường thẳng nằm trong mặt này mà vuông góc với giao tuyến thì nó sẽ vuông góc với mặt còn lại.
+
+95
+00:14:24,720 --> 00:14:29,840
+Do đó, SM này cũng sẽ vuông góc với mặt phẳng (ABCD).
+
+96
+00:14:29,840 --> 00:14:35,840
+Do tam giác SAB là tam giác đều cho nên M cũng sẽ là trung điểm của đoạn AB.
+
+97
+00:14:37,680 --> 00:14:42,320
+Vậy thì chiều cao chính là SM.
+
+98
+00:14:42,320 --> 00:14:49,280
+Bây giờ thì thầy sẽ đi xác định xem là góc giữa (SCD) với mặt đáy là góc nào.
+
+99
+00:14:49,280 --> 00:14:57,880
+Vậy thì bây giờ xác định góc giữa hai mặt phẳng, thì đầu tiên chúng ta sẽ thấy là mặt (SCD) này với mặt đáy giao tuyến của nó là CD.
+
+100
+00:14:57,880 --> 00:15:05,600
+Vậy thì thầy phải kẻ hoặc là dựng được hai đường thẳng cùng vuông góc với giao tuyến CD.
+
+101
+00:15:05,600 --> 00:15:13,440
+Thì đầu tiên từ M, đường cao thầy sẽ kẻ vuông góc với CD tại N, sau đó từ N thầy kéo lên SN.
+
+102
+00:15:15,640 --> 00:15:25,200
+Thì rõ ràng chúng ta chứng minh được CD nó sẽ vuông góc với mặt phẳng (SMN) và do đó CD sẽ vuông góc với SN.
+
+103
+00:15:25,200 --> 00:15:29,000
+Do đó, hai đường MN với SN là hai đường vuông góc với giao tuyến.
+
+104
+00:15:30,760 --> 00:15:46,400
+Vậy thì góc giữa mặt (SCD) và mặt phẳng (ABCD) chính là góc giữa SN và MN, và là góc SNM bằng 30 độ.
+
+105
+00:15:46,400 --> 00:15:53,080
+Bây giờ chúng ta sẽ đi tính diện tích đáy và chiều cao.
+
+106
+00:15:53,080 --> 00:16:08,280
+Đầu tiên, tam giác SAB là tam giác đều cạnh là a, do đó dễ dàng hay nói cách khác là bằng a căn ba chia hai.
+
+107
+00:16:08,280 --> 00:16:13,160
+Chúng ta đã có được chiều cao, bây giờ chúng ta phải tính được diện tích đáy.
+
+108
+00:16:13,160 --> 00:16:20,000
+Diện tích đáy là hình chữ nhật, chúng ta mới chỉ có AB là bằng a, chúng ta cần phải tính được AD.
+
+109
+00:16:20,000 --> 00:16:36,200
+Bây giờ thầy sẽ xét cái tam giác SMN với góc N là 30 độ, thầy sẽ dùng tan, dùng tan của 30 độ thì sẽ bằng SM chia cho MN, thì thầy đã có rồi là bằng a căn ba phần hai.
+
+110
+00:16:36,200 --> 00:16:51,040
+Từ đây thầy suy ra được MN là thầy sẽ lấy SM chia cho tan 30 độ và tính được MN là ba a phần hai, và dĩ nhiên MN nó cũng sẽ bằng với AD và bằng ba a phần hai rồi.
+
+111
+00:16:51,040 --> 00:16:58,040
+Vậy tóm lại thể tích khối chóp SABCD bằng một phần ba diện tích đáy nhân với chiều cao.
+
+112
+00:16:58,040 --> 00:17:05,960
+Diện tích đáy là hình chữ nhật do đó tính bằng công thức AB nhân AD, chiều cao là SM.
+
+113
+00:17:05,960 --> 00:17:15,360
+Thay số vào chúng ta tính được V bằng a mũ ba căn ba chia bốn, ta chọn đáp án C.
+
+114
+00:17:15,640 --> 00:17:19,160
+Theo là câu số bốn, đây là một câu tương đối khó.
+
+115
+00:17:21,080 --> 00:17:31,080
+Cho hình lăng trụ đứng ABC A'B'C' trong đó ABC là tam giác cân tại A, góc B là góc nhọn.
+
+116
+00:17:31,080 --> 00:17:53,760
+Bây giờ người ta cho rất nhiều giả thiết, đầu tiên góc giữa A'C' và BC' là 30 độ, giả thiết tiếp theo khoảng cách giữa hai đường thẳng A'C' và BC' là a nhỏ, cuối cùng là góc giữa hai mặt bên A'B'B và mặt bên A'C'C là 60 độ.
+
+117
+00:17:53,760 --> 00:17:57,800
+Yêu cầu tính thể tích khối lăng trụ đã cho.
+
+118
+00:17:57,800 --> 00:18:41,960
+Bây giờ chúng ta sẽ bình tĩnh và giải quyết từng giả thiết, đầu tiên chúng ta sẽ xét góc giữa A'B và BC', thì các em nhìn vào hình vẽ, đây là hai cái đường thẳng chéo nhau, vậy thì bây giờ để xác định góc giữa hai đường này thì đầu tiên chúng ta có thể thấy là A'B song song với lại C'C, và do đó góc giữa A'B và BC' thầy sẽ chuyển nó thành góc giữa C'C và BC', thì lúc này góc chúng ta cần tìm chính là góc BC'C và góc này là 30 độ.
+
+119
+00:18:41,960 --> 00:18:45,520
+Chúng ta giải quyết xong giả thiết đầu tiên.
+
+120
+00:18:45,520 --> 00:19:23,800
+Tiếp theo là chúng ta giải quyết đến việc khoảng cách giữa A' và BC' là a nhỏ, thì bây giờ chúng ta thấy mặt phẳng BC'B' là một cái mặt phẳng mà chứa đường BC' và song song với A'B và nó sẽ bằng luôn khoảng cách từ một cái điểm A' đến mặt phẳng BC'B'.
+
+121
+00:19:27,200 --> 00:19:54,200
+Vậy thì bây giờ bài toán đưa về việc là chúng ta phải dựng cái khoảng cách từ A' vào cái mặt bên là BC'B', thì đơn giản là chúng ta chỉ việc kẻ A'M vuông góc với lại BC, chúng ta sẽ dễ dàng chứng minh được là A'M vuông góc với mặt BC'B', và do đó khoảng cách từ A' đến mặt BC'B' chính là độ dài đoạn A'M và bằng a nhỏ.
+
+122
+00:19:54,760 --> 00:20:04,880
+Ta đã giải quyết xong giả thiết thứ hai và cuối cùng chúng ta sẽ xác định góc giữa hai cái mặt bên A'B'B và A'C'C.
+
+123
+00:20:07,440 --> 00:20:47,560
+Bây giờ giao tuyến của hai mặt này chính là A'B', chúng ta sẽ xác định hai đường thẳng cùng vuông góc với giao tuyến và nằm trong hai mặt này thì rất là dễ thấy chúng ta sẽ thấy ngay là đường BA vuông góc với lại A'B', đường CA cũng vuông góc với lại A'B' và nằm trong hai mặt đó, cho nên góc giữa hai mặt phẳng này chính là góc giữa BA và AC, và do góc BAC là góc nhọn cho nên góc giữa hai mặt phẳng đó chính là góc BAC và bằng 60 độ.
+
+124
+00:20:47,560 --> 00:20:58,160
+Vậy thì bây giờ chúng ta đã giải quyết xong ba giả thiết của đề cho, chúng ta sẽ đi bắt đầu tính khối lăng trụ, thể tích của nó.
+
+125
+00:20:58,160 --> 00:21:10,080
+Đầu tiên chúng ta thấy góc BAC bằng 60 độ và tam giác ABC là cân tại A, do đó tam giác ABC sẽ là tam giác đều.
+
+126
+00:21:10,080 --> 00:21:18,920
+Vậy thì thầy đã có AM bằng a nhỏ chính là chiều cao tam giác đều đó thì chắc chắn thầy sẽ tính được cạnh của tam giác đều này.
+
+127
+00:21:18,920 --> 00:21:36,800
+Chúng ta có chiều cao tam giác đều là AM sẽ bằng AB nhân căn ba chia hai, mà AM bằng a nhỏ do đó AB chúng ta sẽ tính được bằng cách lấy hai nhân AM chia căn ba và bằng 2a phần căn ba.
+
+128
+00:21:36,800 --> 00:22:11,760
+Tiếp theo chúng ta sẽ đi tính chiều cao, bây giờ chúng ta sẽ xét trong cái tam giác là BCC' để chúng ta dùng cái góc 30 độ ở chỗ này thì bây giờ thầy sẽ sử dụng tan của góc 30 độ thì nó sẽ bằng BC chia cho CC', BC thì sẽ bằng với lại a đáy nhân với chiều cao.
+
+129
+00:22:11,760 --> 00:22:22,400
+Thì diện tích của tam giác đều ABC thì chúng ta có thể tính bằng cách là lấy một phần hai của BC nhân AM và nhân với chiều cao khối lăng trụ là CC'.
+
+130
+00:22:22,400 --> 00:22:29,880
+Phải thay số vào, chúng ta tính được V là bằng hai a mũ ba căn ba phần ba.
+
+131
+00:22:29,880 --> 00:22:32,200
+Ta chọn đáp án A.
+
+132
+00:22:32,200 --> 00:22:43,200
+Trường Đại học Quốc tế Sài Gòn SIU không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SIU nỗ lực tạo ra môi trường học tập tiên phong đa dạng và tôn trọng sự khác biệt.
+
+133
+00:22:43,200 --> 00:22:53,960
+SIU mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới, trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.
+
+134
+00:22:53,960 --> 00:23:02,560
+Năm 2024, tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng bốn phương thức tuyển sinh.
+
+135
+00:23:02,560 --> 00:23:29,120
+SI cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SI, 100 suất học bổng tiếp bước hành trình Quỹ Tài năng trẻ, học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa thể thao nghệ thuật, học bổng đồng hành xây dựng nhân lực chất lượng cao cho thành phố Thủ Đức, thành phố Hồ Chí Minh, học bổng doanh nghiệp tài trợ, học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.
+
+136
+00:23:29,120 --> 00:23:33,040
+"Sáng tâm hồn Việt Nam, giáo dục thế giới".
+
+137
+00:23:37,400 --> 00:23:46,400
+Thì đối với những bài toán này, các em cần bình tĩnh và giải quyết từng giả thiết một, từ đó chúng ta có thể dễ dàng giải quyết được bài toán này.
+
+138
+00:23:46,400 --> 00:23:50,480
+Chúng ta đến với câu hỏi cuối cùng trong chuyên đề ngày hôm nay.
+
+139
+00:23:50,480 --> 00:23:56,200
+Câu số năm: Cho hình chóp tứ giác đều SABCD có cạnh đáy bằng hai a.
+
+140
+00:23:56,680 --> 00:24:06,360
+Thì hình chóp tứ giác đều chính là hình chóp có đáy là hình vuông và SO chính là đường cao với O là tâm hình vuông.
+
+141
+00:24:06,360 --> 00:24:12,040
+Bây giờ đề cho góc giữa AC và mặt phẳng SBC bằng 30 độ.
+
+142
+00:24:12,040 --> 00:24:14,400
+Tính thể tích khối chóp.
+
+143
+00:24:14,400 --> 00:24:24,640
+Thì rõ ràng đối với câu này, chúng ta có thể thấy diện tích đáy chúng ta đã có rồi, bây giờ chúng ta chỉ cần việc tìm đường cao mà thôi.
+
+144
+00:24:24,640 --> 00:24:39,680
+Để tìm đường cao thì đầu tiên bắt buộc là kẻ tại điểm C, rất là dễ thấy.
+
+145
+00:24:39,680 --> 00:24:53,120
+Tiếp theo thầy sẽ tìm hình chiếu của một cái điểm nằm trên AC lên mặt (SBC), thì ở đây thầy sẽ chọn cái điểm O tại vì O là chân đường cao chúng ta sẽ rất dễ tìm hình chiếu.
+
+146
+00:24:53,120 --> 00:25:03,360
+Vậy thì bây giờ tìm hình chiếu của O lên mặt phẳng (SBC) thì chẳng khác nào chúng ta dựng cái khoảng cách từ O tới mặt (SBC).
+
+147
+00:25:03,360 --> 00:25:10,080
+Bây giờ chúng ta sẽ dựng như sau: đầu tiên là thầy sẽ kẻ OH vuông góc với cạnh đáy BC trước.
+
+148
+00:25:10,080 --> 00:25:25,840
+Chúng ta kéo lên đỉnh được SH và dĩ nhiên cái hình chiếu từ O vào mặt (SBC) là thầy sẽ kẻ OK vuông góc với lại SH theo như cách dựng ban đầu mà thầy đã nói.
+
+149
+00:25:26,240 --> 00:25:40,960
+Giờ bằng cách chứng minh hình học thông thường thì dễ dàng ta có thể chứng minh được OK này chính là cái khoảng cách từ O đến mặt (SBC), hay nói cách khác là OK vuông góc với lại mặt (SBC).
+
+150
+00:25:40,960 --> 00:25:51,040
+Vậy thì cái hình chiếu của OC xuống mặt (SBC) chính là KC.
+
+151
+00:25:51,040 --> 00:26:05,000
+Do đó góc giữa OC và mặt (SBC) chính là bằng góc giữa OC và KC, và đó chính là góc OCK, và theo như đề bài cho là bằng 30 độ.
+
+152
+00:26:05,000 --> 00:26:11,520
+Bây giờ chúng ta sẽ đi tính chiều cao thông qua cái góc OCK này.
+
+153
+00:26:11,520 --> 00:26:19,320
+Bây giờ OC thì bằng một phần hai của AC, chúng ta dễ dàng tính được OC là bằng a căn 2.
+
+154
+00:26:19,320 --> 00:26:30,720
+Bây giờ thầy sẽ xét trong cái tam giác OK là tam giác vuông tại K mà có góc OCK bằng 30 độ thì ta dùng sin.
+
+155
+00:26:30,720 --> 00:26:53,960
+Sin của góc OCK thì nó sẽ bằng OK chia cho OC, và do đó để tính được OK thì thầy sẽ lấy OC nhân cho sin của góc OCK, tức là lấy a căn 2 nhân sin 30 độ và thầy tính được OK là bằng a căn 2 chia 2.
+
+156
+00:26:53,960 --> 00:27:02,120
+Bây giờ để tính chiều cao SO thì thầy lại xét trong cái tam giác là SOH là một tam giác vuông tại O.
+
+157
+00:27:02,120 --> 00:27:07,760
+OH thì chúng ta có thể dễ dàng tính được là một nửa cạnh hình vuông là bằng a/2.
+
+158
+00:27:09,760 --> 00:27:15,920
+Vậy thì chúng ta sẽ có: 1/OK^2 sẽ bằng với lại 1/SO^2 cộng 1/OH^2.
+
+159
+00:27:15,920 --> 00:27:26,960
+Thay vào chúng ta sẽ có 2/a^2 bằng với lại 1/SO^2 cộng cho 1/a^2.
+
+160
+00:27:28,040 --> 00:27:33,840
+Đến đây ta dễ dàng tính được SO là bằng a căn 3 và cũng chính là chiều cao của khối chóp.
+
+161
+00:27:33,840 --> 00:27:37,480
+Vậy thì V của khối chóp S.
+
+162
+00:27:37,480 --> 00:27:59,120
+ABCD là bằng một phần ba của SO nhân cho diện tích đáy ABCD, chính là hình học không gian và thể tích.
+
+163
+00:27:59,120 --> 00:28:06,400
+Hy vọng các bài toán trong cái chuyên đề này có thể giúp cho các em phần nào ôn tập lại được các kiến thức về hình học không gian.
+
+164
+00:28:06,400 --> 00:28:08,960
+Hẹn gặp lại các em ở các chuyên đề tiếp theo.
+
+165
+00:28:08,960 --> 00:28:11,440
+Xin chào tạm biệt các em.

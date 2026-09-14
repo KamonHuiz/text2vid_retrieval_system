@@ -1,0 +1,639 @@
+{
+  "video_id": "L26_V064",
+  "fps": 25.0,
+  "n_sentences": 37,
+  "total_words": 892,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày: Ốc xào khế giòn ngọt chua cay. Chào quý khán giả đã quay trở lại với chương trình Món ngon mỗi ngày - Nấu chuẩn an lành.",
+      "start": 10.48,
+      "end": 36.32,
+      "n_words": 31,
+      "start_frame": 262,
+      "end_frame": 908,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000343.webp",
+        "000387.webp",
+        "000388.webp",
+        "000453.webp",
+        "000518.webp",
+        "000519.webp",
+        "000567.webp",
+        "000615.webp",
+        "000616.webp",
+        "000706.webp",
+        "000796.webp",
+        "000797.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 36.32,
+      "end": 40.96,
+      "n_words": 11,
+      "start_frame": 908,
+      "end_frame": 1024,
+      "keyframes": [
+        "000964.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Hôm nay, Hoàng Long sẽ hướng dẫn Kim Thảo làm một món ăn rất là dân dã và rất là hấp dẫn, đó là món ốc xào khế.",
+      "start": 40.96,
+      "end": 47.88,
+      "n_words": 28,
+      "start_frame": 1024,
+      "end_frame": 1197,
+      "keyframes": [
+        "001131.webp",
+        "001132.webp",
+        "001146.webp",
+        "001161.webp",
+        "001162.webp",
+        "001185.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Kim Thảo đặc biệt là thích khế chua nữa, tại vì khế chua là sẽ có vitamin A và vitamin B5 rất là tốt cho quá trình trao đổi chất trong cơ thể, và đặc biệt hơn nữa là còn có vitamin B6 nữa và sẽ tốt cho tim mạch, giảm cholesterol.",
+      "start": 47.88,
+      "end": 62.12,
+      "n_words": 52,
+      "start_frame": 1197,
+      "end_frame": 1553,
+      "keyframes": [
+        "001209.webp",
+        "001210.webp",
+        "001293.webp",
+        "001376.webp",
+        "001377.webp",
+        "001392.webp",
+        "001407.webp",
+        "001408.webp",
+        "001466.webp",
+        "001525.webp",
+        "001526.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Đó, bây giờ mình làm nhanh đi.",
+      "start": 62.12,
+      "end": 63.4,
+      "n_words": 7,
+      "start_frame": 1553,
+      "end_frame": 1585,
+      "keyframes": [
+        "001555.webp",
+        "001585.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rồi, đây là phần ốc bươu mà Long đã rửa với nước pha giấm, sau đó xả sạch giúp cho ốc được sạch nhớt.",
+      "start": 63.4,
+      "end": 68.28,
+      "n_words": 24,
+      "start_frame": 1585,
+      "end_frame": 1707,
+      "keyframes": [
+        "001585.webp",
+        "001586.webp",
+        "001618.webp",
+        "001651.webp",
+        "001652.webp",
+        "001678.webp",
+        "001704.webp",
+        "001705.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Long cho phần ốc vào nửa muỗng canh hành băm, nửa muỗng canh tỏi băm, hai muỗng canh nước nghệ, một muỗng canh giấm gạo lên men Ajinomoto, nửa muỗng cà phê muối, cà phê bột ngọt Ajinomoto, rồi mình sẽ trộn đều lên.",
+      "start": 68.28,
+      "end": 91.76,
+      "n_words": 44,
+      "start_frame": 1707,
+      "end_frame": 2294,
+      "keyframes": [
+        "001731.webp",
+        "001757.webp",
+        "001758.webp",
+        "001786.webp",
+        "001815.webp",
+        "001816.webp",
+        "001835.webp",
+        "001855.webp",
+        "001856.webp",
+        "001881.webp",
+        "001907.webp",
+        "001908.webp",
+        "001936.webp",
+        "001965.webp",
+        "001966.webp",
+        "001993.webp",
+        "002021.webp",
+        "002022.webp",
+        "002067.webp",
+        "002112.webp",
+        "002113.webp",
+        "002156.webp",
+        "002200.webp",
+        "002201.webp",
+        "002250.webp"
+      ],
+      "keyframe_count": 25
+    },
+    {
+      "text": "Bây giờ mình sẽ cắt khế, cắt lát khoảng tầm 0.3 cm.",
+      "start": 91.76,
+      "end": 96.24,
+      "n_words": 12,
+      "start_frame": 2294,
+      "end_frame": 2406,
+      "keyframes": [
+        "002300.webp",
+        "002301.webp",
+        "002330.webp",
+        "002359.webp",
+        "002360.webp",
+        "002366.webp",
+        "002372.webp",
+        "002373.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Rồi với phần tía tô thì chúng ta sẽ cắt là 5 mm.",
+      "start": 101.72,
+      "end": 108.72,
+      "n_words": 13,
+      "start_frame": 2543,
+      "end_frame": 2718,
+      "keyframes": [
+        "002544.webp",
+        "002545.webp",
+        "002676.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi được rồi Thảo ha, trộn lẹ.",
+      "start": 108.72,
+      "end": 112.36,
+      "n_words": 7,
+      "start_frame": 2718,
+      "end_frame": 2809,
+      "keyframes": [
+        "002808.webp",
+        "002809.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rồi hành lá thì mình cắt 3 cm nha.",
+      "start": 112.36,
+      "end": 119.72,
+      "n_words": 9,
+      "start_frame": 2809,
+      "end_frame": 2993,
+      "keyframes": [
+        "002809.webp",
+        "002874.webp",
+        "002940.webp",
+        "002941.webp",
+        "002942.webp",
+        "002943.webp",
+        "002944.webp",
+        "002967.webp",
+        "002991.webp",
+        "002992.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Phần khế này thì Long sẽ ướp vào đây là một muỗng cà phê đường.",
+      "start": 119.72,
+      "end": 123.32,
+      "n_words": 15,
+      "start_frame": 2993,
+      "end_frame": 3083,
+      "keyframes": [
+        "003037.webp",
+        "003082.webp",
+        "003083.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Sóc khế với đường giúp khế giảm vị chua, tăng thêm vị ngọt của khế, sau khi xào khế sẽ ngon hơn.",
+      "start": 123.32,
+      "end": 128.92,
+      "n_words": 22,
+      "start_frame": 3083,
+      "end_frame": 3223,
+      "keyframes": [
+        "003083.webp",
+        "003108.webp",
+        "003134.webp",
+        "003135.webp",
+        "003178.webp",
+        "003221.webp",
+        "003222.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Bật bếp lên nha.",
+      "start": 128.92,
+      "end": 130.88,
+      "n_words": 4,
+      "start_frame": 3223,
+      "end_frame": 3272,
+      "keyframes": [
+        "003249.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Khi mà chảo nóng, chúng ta phải cho vào đây là muỗng canh dầu ăn, cho vào đây là muỗng cà phê hành tỏi băm, thêm một phần đậu hành rồi và sau đó mình sẽ cho cái phần ốc vào.",
+      "start": 130.88,
+      "end": 143.44,
+      "n_words": 41,
+      "start_frame": 3272,
+      "end_frame": 3586,
+      "keyframes": [
+        "003276.webp",
+        "003277.webp",
+        "003331.webp",
+        "003386.webp",
+        "003387.webp",
+        "003426.webp",
+        "003466.webp",
+        "003467.webp",
+        "003486.webp",
+        "003505.webp",
+        "003506.webp",
+        "003566.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Xào ốc với lửa to, sau khi xào mới trộn chung với khế giúp cho khế và ốc chín giòn.",
+      "start": 143.44,
+      "end": 149.0,
+      "n_words": 20,
+      "start_frame": 3586,
+      "end_frame": 3725,
+      "keyframes": [
+        "003627.webp",
+        "003628.webp",
+        "003676.webp",
+        "003725.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Ốc bươu là một loại cung cấp protein rất là tốt cho cơ thể mà bên cạnh đó thì chất béo trong ốc bươu rất là thấp, cho nên chúng ta có thể bồi bổ thoải mái mà không lo bị béo đúng không ạ?",
+      "start": 149.0,
+      "end": 159.8,
+      "n_words": 45,
+      "start_frame": 3725,
+      "end_frame": 3995,
+      "keyframes": [
+        "003725.webp",
+        "003726.webp",
+        "003815.webp",
+        "003904.webp",
+        "003905.webp",
+        "003949.webp",
+        "003994.webp",
+        "003995.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Bây giờ mình sẽ cho phần ốc bươu mình ra dĩa, sau đó mình xào khế.",
+      "start": 159.8,
+      "end": 162.96,
+      "n_words": 16,
+      "start_frame": 3995,
+      "end_frame": 4074,
+      "keyframes": [
+        "003995.webp",
+        "004025.webp",
+        "004056.webp",
+        "004057.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Long sẽ ra một xíu dầu rồi mình cho phần khế vào và Long sẽ cho cái phần nước ốc này vào.",
+      "start": 162.96,
+      "end": 175.76,
+      "n_words": 22,
+      "start_frame": 4074,
+      "end_frame": 4394,
+      "keyframes": [
+        "004102.webp",
+        "004147.webp",
+        "004148.webp",
+        "004173.webp",
+        "004198.webp",
+        "004199.webp",
+        "004235.webp",
+        "004272.webp",
+        "004273.webp",
+        "004332.webp",
+        "004391.webp",
+        "004392.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Chúng ta đợi cho cái phần nước ốc nó rút hết vào trong phần thân khế đúng không, sau đó có thể là thấm vị và ngon hơn.",
+      "start": 175.76,
+      "end": 182.88,
+      "n_words": 28,
+      "start_frame": 4394,
+      "end_frame": 4572,
+      "keyframes": [
+        "004468.webp",
+        "004544.webp",
+        "004545.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng rồi, khi đó mình đổ ốc ngược trở lại đây, vào đây là nửa muỗng canh nước mắm.",
+      "start": 182.88,
+      "end": 188.64,
+      "n_words": 19,
+      "start_frame": 4572,
+      "end_frame": 4716,
+      "keyframes": [
+        "004587.webp",
+        "004629.webp",
+        "004630.webp",
+        "004673.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cho phần ốc sừng vào, wow, cái mùi nó bắt đầu có vẻ như là sắc lại và nó có cái hương thơm ngào ngạt.",
+      "start": 188.64,
+      "end": 196.8,
+      "n_words": 25,
+      "start_frame": 4716,
+      "end_frame": 4920,
+      "keyframes": [
+        "004717.webp",
+        "004718.webp",
+        "004720.webp",
+        "004723.webp",
+        "004724.webp",
+        "004739.webp",
+        "004755.webp",
+        "004756.webp",
+        "004884.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đúng rồi đó, và cuối cùng là mình sẽ cho cái phần hành lá và tiếp theo sau đó xóc đều là tắt bếp.",
+      "start": 196.8,
+      "end": 205.0,
+      "n_words": 24,
+      "start_frame": 4920,
+      "end_frame": 5125,
+      "keyframes": [
+        "005013.webp",
+        "005014.webp",
+        "005065.webp",
+        "005116.webp",
+        "005117.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Có hai loại ốc rất là giống nhau đó là ốc bươu và ốc lát.",
+      "start": 205.0,
+      "end": 208.64,
+      "n_words": 15,
+      "start_frame": 5125,
+      "end_frame": 5216,
+      "keyframes": [
+        "005146.webp",
+        "005175.webp",
+        "005176.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thực ra với món ăn ngày hôm nay thì mình làm ốc nào cũng được đúng không Long?",
+      "start": 208.64,
+      "end": 212.52,
+      "n_words": 18,
+      "start_frame": 5216,
+      "end_frame": 5313,
+      "keyframes": [
+        "005229.webp",
+        "005283.webp",
+        "005284.webp",
+        "005305.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Ốc bươu thì sẽ là con to hơn và ở cái phần đuôi thì nó nhọn, còn ốc lát thì là con nhỏ có màu nâu sáng, phần đuôi thì nó là người ta hay gọi là đít bằng đó.",
+      "start": 212.52,
+      "end": 222.52,
+      "n_words": 40,
+      "start_frame": 5313,
+      "end_frame": 5563,
+      "keyframes": [
+        "005326.webp",
+        "005327.webp",
+        "005445.webp",
+        "005563.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và món ăn của ngày hôm nay nhanh gọn lẹ đã được hoàn tất rồi.",
+      "start": 222.52,
+      "end": 226.04,
+      "n_words": 15,
+      "start_frame": 5563,
+      "end_frame": 5651,
+      "keyframes": [
+        "005563.webp",
+        "005564.webp",
+        "005607.webp",
+        "005650.webp",
+        "005651.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và để có thể xem lại trọn bộ công thức chuẩn bị dinh dưỡng của ngày hôm nay, quý vị và các bạn có thể quét mã QR trên màn hình của chúng tôi.",
+      "start": 226.04,
+      "end": 235.76,
+      "n_words": 34,
+      "start_frame": 5651,
+      "end_frame": 5894,
+      "keyframes": [
+        "005651.webp",
+        "005749.webp",
+        "005848.webp",
+        "005849.webp",
+        "005873.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Món ăn đã hoàn thành và Long sẽ dọn ra đĩa và mời mọi người cùng thưởng thức.",
+      "start": 235.76,
+      "end": 247.52,
+      "n_words": 18,
+      "start_frame": 5894,
+      "end_frame": 6188,
+      "keyframes": [
+        "005898.webp",
+        "005899.webp",
+        "005932.webp",
+        "005966.webp",
+        "005967.webp",
+        "006017.webp",
+        "006068.webp",
+        "006069.webp",
+        "006105.webp",
+        "006141.webp",
+        "006142.webp",
+        "006165.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Rồi mình điểm tô thêm một chút lá tía tô lên mặt.",
+      "start": 247.52,
+      "end": 251.2,
+      "n_words": 12,
+      "start_frame": 6188,
+      "end_frame": 6280,
+      "keyframes": [
+        "006189.webp",
+        "006190.webp",
+        "006226.webp",
+        "006263.webp",
+        "006264.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hấp dẫn quá, rất là thơm, màu sắc rất là đẹp đúng không ạ?",
+      "start": 251.2,
+      "end": 255.0,
+      "n_words": 14,
+      "start_frame": 6280,
+      "end_frame": 6375,
+      "keyframes": [
+        "006320.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Như vậy là món ăn của chúng ta cũng đã hoàn thành.",
+      "start": 255.0,
+      "end": 257.04,
+      "n_words": 12,
+      "start_frame": 6375,
+      "end_frame": 6426,
+      "keyframes": [
+        "006376.webp",
+        "006377.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và để tạo nên một bữa ăn hoàn chỉnh thì Long khuyến khích mọi người nên ăn kèm với món canh sườn củ sen Atiso.",
+      "start": 257.04,
+      "end": 262.92,
+      "n_words": 25,
+      "start_frame": 6426,
+      "end_frame": 6573,
+      "keyframes": [
+        "006514.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Wow, nghe thôi là đã rất là hấp dẫn rồi đúng không ạ?",
+      "start": 262.92,
+      "end": 266.24,
+      "n_words": 13,
+      "start_frame": 6573,
+      "end_frame": 6656,
+      "keyframes": [
+        "006651.webp",
+        "006652.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúng ta đã có một phần gợi ý cho bữa ăn hoàn chỉnh và Kim Thảo tin rằng là khi chúng ta sử dụng ốc để làm một món ăn chính cho cả gia đình thì sẽ thay đổi khẩu vị và bữa ăn sẽ ngon hơn rất là nhiều bởi vì các thành viên đều rất thích từng miếng ốc nóng hổi, cắn vào giòn ngọt thanh, thấm chút chua nhẹ từ khế và nồng thơm cay cay của gia vị ướp.",
+      "start": 266.24,
+      "end": 288.4,
+      "n_words": 83,
+      "start_frame": 6656,
+      "end_frame": 7210,
+      "keyframes": [
+        "006820.webp",
+        "006988.webp",
+        "006989.webp",
+        "007034.webp",
+        "007080.webp",
+        "007095.webp",
+        "007138.webp",
+        "007182.webp",
+        "007183.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Tuy dân dã nhưng khiến bao người mê ốc xào khế cho bữa cơm dân dã ấm áp bên gia đình, thật là thích đúng không ạ?",
+      "start": 288.76,
+      "end": 297.08,
+      "n_words": 27,
+      "start_frame": 7219,
+      "end_frame": 7427,
+      "keyframes": [
+        "007243.webp",
+        "007303.webp",
+        "007304.webp",
+        "007366.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và để xem lại món ăn ngày hôm nay cùng với rất nhiều những món ăn hấp dẫn khác nữa của chương trình Món ngon mỗi ngày, quý vị và các bạn chỉ cần truy cập vào YouTube, website, fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 297.08,
+      "end": 309.2,
+      "n_words": 47,
+      "start_frame": 7427,
+      "end_frame": 7730,
+      "keyframes": [
+        "007428.webp",
+        "007429.webp",
+        "007570.webp",
+        "007711.webp",
+        "007712.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

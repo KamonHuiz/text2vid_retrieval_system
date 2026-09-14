@@ -1,0 +1,963 @@
+{
+  "video_id": "L26_V485",
+  "fps": 25.0,
+  "n_sentences": 53,
+  "total_words": 1048,
+  "sentences": [
+    {
+      "text": "Canh món ngon mỗi ngày.",
+      "start": 0.04,
+      "end": 12.0,
+      "n_words": 5,
+      "start_frame": 1,
+      "end_frame": 300,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000152.webp",
+        "000158.webp",
+        "000164.webp",
+        "000165.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000240.webp",
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 30
+    },
+    {
+      "text": "Ủa, có mua giúp Quốc Nghi cái gia vị nêm sẵn?",
+      "start": 12.0,
+      "end": 14.68,
+      "n_words": 11,
+      "start_frame": 300,
+      "end_frame": 367,
+      "keyframes": [
+        "000300.webp",
+        "000341.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ai biết trong đó có lẩu Thái đúng không?",
+      "start": 14.68,
+      "end": 18.28,
+      "n_words": 9,
+      "start_frame": 367,
+      "end_frame": 457,
+      "keyframes": [
+        "000382.webp",
+        "000383.webp",
+        "000416.webp",
+        "000450.webp",
+        "000451.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nhưng mà có nấm nè, có rau, lại còn vị lẩu Thái nữa.",
+      "start": 18.28,
+      "end": 22.8,
+      "n_words": 13,
+      "start_frame": 457,
+      "end_frame": 570,
+      "keyframes": [
+        "000486.webp",
+        "000522.webp",
+        "000523.webp",
+        "000545.webp",
+        "000568.webp",
+        "000569.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Nấu lẩu đúng không?",
+      "start": 22.8,
+      "end": 24.24,
+      "n_words": 4,
+      "start_frame": 570,
+      "end_frame": 606,
+      "keyframes": [
+        "000583.webp",
+        "000597.webp",
+        "000598.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nấu một món canh chua vị chua cay kiểu Thái.",
+      "start": 24.8,
+      "end": 27.96,
+      "n_words": 10,
+      "start_frame": 620,
+      "end_frame": 699,
+      "keyframes": [
+        "000624.webp",
+        "000650.webp",
+        "000651.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Canh chua ai lại đi kết hợp với rau mồng tơi?",
+      "start": 27.96,
+      "end": 31.12,
+      "n_words": 11,
+      "start_frame": 699,
+      "end_frame": 778,
+      "keyframes": [
+        "000712.webp",
+        "000774.webp",
+        "000775.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thật ra cái việc dùng rau mồng tơi mà nấu canh chua rất là ít người dùng đúng không?",
+      "start": 31.12,
+      "end": 35.4,
+      "n_words": 19,
+      "start_frame": 778,
+      "end_frame": 885,
+      "keyframes": [
+        "000825.webp",
+        "000876.webp",
+        "000877.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thì cái tiêu chí của Bếp món mỗi ngày là sáng tạo, thì hôm nay Quốc Nghi sẽ sáng tạo một món canh chua bằng sự kết hợp giữa rau mồng tơi nè, nấm bào ngư nè, cà chua nè và gia vị nêm sẵn Ajinomoto Lẩu Thái.",
+      "start": 35.4,
+      "end": 48.84,
+      "n_words": 48,
+      "start_frame": 885,
+      "end_frame": 1221,
+      "keyframes": [
+        "000895.webp",
+        "000914.webp",
+        "000915.webp",
+        "000934.webp",
+        "000953.webp",
+        "000954.webp",
+        "001003.webp",
+        "001052.webp",
+        "001053.webp",
+        "001069.webp",
+        "001085.webp",
+        "001086.webp",
+        "001147.webp",
+        "001209.webp",
+        "001210.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Ôi la la, nghe như vậy thì chúng ta phải vào bếp làm liền thôi.",
+      "start": 48.84,
+      "end": 53.76,
+      "n_words": 15,
+      "start_frame": 1221,
+      "end_frame": 1344,
+      "keyframes": [
+        "001250.webp",
+        "001291.webp",
+        "001292.webp",
+        "001316.webp",
+        "001341.webp",
+        "001342.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Canh tôm nấm mồng tơi chua cay mà lạ miệng. Chào các bạn khán giả của chương trình Món ngon mỗi ngày.",
+      "start": 53.76,
+      "end": 75.72,
+      "n_words": 22,
+      "start_frame": 1344,
+      "end_frame": 1893,
+      "keyframes": [
+        "001385.webp",
+        "001429.webp",
+        "001430.webp",
+        "001473.webp",
+        "001517.webp",
+        "001547.webp",
+        "001573.webp",
+        "001599.webp",
+        "001600.webp",
+        "001714.webp",
+        "001828.webp",
+        "001829.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 75.72,
+      "end": 79.6,
+      "n_words": 11,
+      "start_frame": 1893,
+      "end_frame": 1990,
+      "keyframes": [
+        "001909.webp",
+        "001990.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Phần tôm, tôm khi chúng ta mua về rửa sạch, chúng ta cắt ngang cái phần đầu như thế này nè, còn cái phần thân tôm chúng ta sẽ lột vỏ, bỏ đuôi, sau đó lấy chỉ lưng.",
+      "start": 79.6,
+      "end": 90.68,
+      "n_words": 38,
+      "start_frame": 1990,
+      "end_frame": 2267,
+      "keyframes": [
+        "001990.webp",
+        "001991.webp",
+        "002032.webp",
+        "002073.webp",
+        "002074.webp",
+        "002098.webp",
+        "002122.webp",
+        "002123.webp",
+        "002154.webp",
+        "002186.webp",
+        "002187.webp",
+        "002214.webp",
+        "002241.webp",
+        "002242.webp",
+        "002254.webp",
+        "002266.webp",
+        "002267.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Tiếp theo, cái phần thân tôm, Quốc Nghi sẽ cắt ra làm ba.",
+      "start": 90.68,
+      "end": 93.28,
+      "n_words": 13,
+      "start_frame": 2267,
+      "end_frame": 2332,
+      "keyframes": [
+        "002267.webp",
+        "002280.webp",
+        "002293.webp",
+        "002294.webp",
+        "002303.webp",
+        "002313.webp",
+        "002314.webp",
+        "002323.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Thì Quốc Nghi cho vào đây một muỗng cà phê gia vị nêm sẵn Ajinomoto Lẩu Thái, sau đó chúng ta sẽ trộn đều.",
+      "start": 93.28,
+      "end": 98.12,
+      "n_words": 24,
+      "start_frame": 2332,
+      "end_frame": 2453,
+      "keyframes": [
+        "002333.webp",
+        "002334.webp",
+        "002354.webp",
+        "002374.webp",
+        "002375.webp",
+        "002394.webp",
+        "002413.webp",
+        "002414.webp",
+        "002433.webp",
+        "002452.webp",
+        "002453.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Ủa, bình thường mình ướp tôm thì thường ướp với muối thôi hay là nước mắm thôi là được rồi, chứ thì đây cũng là một cái bí quyết nhỏ trong món ăn ngày hôm nay.",
+      "start": 98.12,
+      "end": 105.2,
+      "n_words": 36,
+      "start_frame": 2453,
+      "end_frame": 2630,
+      "keyframes": [
+        "002453.webp",
+        "002506.webp",
+        "002559.webp",
+        "002560.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cái việc chúng ta ướp tôm với lại gia vị nêm sẵn Ajinomoto Lẩu Thái giúp tăng hương vị đặc trưng cho món ăn.",
+      "start": 105.2,
+      "end": 110.2,
+      "n_words": 24,
+      "start_frame": 2630,
+      "end_frame": 2755,
+      "keyframes": [
+        "002657.webp",
+        "002754.webp",
+        "002755.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tiếp đến, chúng ta sẽ sơ chế cái phần rau củ.",
+      "start": 110.2,
+      "end": 112.52,
+      "n_words": 11,
+      "start_frame": 2755,
+      "end_frame": 2813,
+      "keyframes": [
+        "002755.webp",
+        "002778.webp",
+        "002802.webp",
+        "002803.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Rau mồng tơi nè, cắt khúc khoảng 3 cm như thế này xong cái phần rau mồng tơi.",
+      "start": 112.52,
+      "end": 117.48,
+      "n_words": 18,
+      "start_frame": 2813,
+      "end_frame": 2937,
+      "keyframes": [
+        "002814.webp",
+        "002825.webp",
+        "002826.webp",
+        "002856.webp",
+        "002887.webp",
+        "002888.webp",
+        "002914.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Tiếp theo là phần cà chua, chúng ta sẽ cắt thành những miếng cau, xong cái phần cà chua chúng ta cho ra đĩa.",
+      "start": 117.52,
+      "end": 125.08,
+      "n_words": 24,
+      "start_frame": 2938,
+      "end_frame": 3127,
+      "keyframes": [
+        "002940.webp",
+        "002941.webp",
+        "002956.webp",
+        "002971.webp",
+        "002972.webp",
+        "002990.webp",
+        "003009.webp",
+        "003010.webp",
+        "003035.webp",
+        "003061.webp",
+        "003062.webp",
+        "003075.webp",
+        "003089.webp",
+        "003090.webp",
+        "003110.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Cuối cùng là nấm bào ngư, chúng ta sẽ xé đôi, cái to thì mình sẽ xé làm ba.",
+      "start": 125.08,
+      "end": 129.28,
+      "n_words": 19,
+      "start_frame": 3127,
+      "end_frame": 3232,
+      "keyframes": [
+        "003130.webp",
+        "003131.webp",
+        "003148.webp",
+        "003165.webp",
+        "003166.webp",
+        "003187.webp",
+        "003209.webp",
+        "003210.webp",
+        "003227.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Dung Hà nha, tiếp đến Quốc Nghi sẽ hướng dẫn các bạn khán giả cùng Dung Hà.",
+      "start": 129.28,
+      "end": 132.6,
+      "n_words": 17,
+      "start_frame": 3232,
+      "end_frame": 3315,
+      "keyframes": [
+        "003244.webp",
+        "003245.webp",
+        "003276.webp",
+        "003307.webp",
+        "003308.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta sẽ làm cái phần giò sống trộn cùng với tôm.",
+      "start": 132.6,
+      "end": 135.0,
+      "n_words": 12,
+      "start_frame": 3315,
+      "end_frame": 3375,
+      "keyframes": [
+        "003340.webp",
+        "003373.webp",
+        "003374.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta sẽ lấy ba cái phần đuôi tôm ra riêng nè, chúng ta sẽ làm thành cái viên cho nó đẹp đúng không?",
+      "start": 135.0,
+      "end": 140.4,
+      "n_words": 24,
+      "start_frame": 3375,
+      "end_frame": 3510,
+      "keyframes": [
+        "003395.webp",
+        "003416.webp",
+        "003417.webp",
+        "003438.webp",
+        "003459.webp",
+        "003460.webp",
+        "003489.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cho cái phần chả sống vào trong phần thịt tôm cắt này, chúng ta sẽ nêm vào đây một muỗng cà phê ngò băm, hai muỗng cà phê hành tím băm, một muỗng cà phê tiêu xanh, trộn đều cho cái phần chả và tôm nó hòa quyện cùng với gia vị.",
+      "start": 140.72,
+      "end": 152.36,
+      "n_words": 52,
+      "start_frame": 3518,
+      "end_frame": 3809,
+      "keyframes": [
+        "003518.webp",
+        "003519.webp",
+        "003554.webp",
+        "003589.webp",
+        "003590.webp",
+        "003621.webp",
+        "003653.webp",
+        "003654.webp",
+        "003669.webp",
+        "003685.webp",
+        "003686.webp",
+        "003696.webp",
+        "003707.webp",
+        "003708.webp",
+        "003728.webp",
+        "003748.webp",
+        "003749.webp",
+        "003778.webp",
+        "003808.webp",
+        "003809.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Chúng ta sẽ chia cái phần chả này thành chín phần để chúng ta làm chín viên.",
+      "start": 152.36,
+      "end": 156.64,
+      "n_words": 17,
+      "start_frame": 3809,
+      "end_frame": 3916,
+      "keyframes": [
+        "003809.webp",
+        "003826.webp",
+        "003844.webp",
+        "003845.webp",
+        "003878.webp",
+        "003912.webp",
+        "003913.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Dung Hà một viên và Quốc Nghi tám viên.",
+      "start": 156.64,
+      "end": 159.4,
+      "n_words": 9,
+      "start_frame": 3916,
+      "end_frame": 3985,
+      "keyframes": [
+        "003955.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đó, bây giờ chúng ta sẽ tạo hình thành những cái viên chả tôm.",
+      "start": 159.4,
+      "end": 163.12,
+      "n_words": 14,
+      "start_frame": 3985,
+      "end_frame": 4078,
+      "keyframes": [
+        "003998.webp",
+        "003999.webp",
+        "004027.webp",
+        "004056.webp",
+        "004057.webp",
+        "004067.webp",
+        "004078.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Chúng ta sẽ đặt cái phần đuôi tôm này và viên chả nè, chúng ta sẽ vo tròn lại nè.",
+      "start": 163.12,
+      "end": 167.68,
+      "n_words": 20,
+      "start_frame": 4078,
+      "end_frame": 4192,
+      "keyframes": [
+        "004078.webp",
+        "004079.webp",
+        "004115.webp",
+        "004151.webp",
+        "004152.webp",
+        "004172.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta sẽ cho những cái viên chả ra.",
+      "start": 167.68,
+      "end": 169.36,
+      "n_words": 9,
+      "start_frame": 4192,
+      "end_frame": 4234,
+      "keyframes": [
+        "004193.webp",
+        "004194.webp",
+        "004213.webp",
+        "004233.webp",
+        "004234.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ngày hôm nay trong cái chương trình Món ngon mỗi ngày, Quốc Nghi cũng muốn sáng tạo một món canh chua được nấu từ mồng tơi để gửi đến các bạn khán giả cũng như Dung Hà.",
+      "start": 169.36,
+      "end": 177.88,
+      "n_words": 37,
+      "start_frame": 4234,
+      "end_frame": 4447,
+      "keyframes": [
+        "004234.webp",
+        "004268.webp",
+        "004303.webp",
+        "004304.webp",
+        "004330.webp",
+        "004357.webp",
+        "004358.webp",
+        "004400.webp",
+        "004442.webp",
+        "004443.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Nghe cái sự kết hợp này rất là lạ đúng không?",
+      "start": 177.88,
+      "end": 180.72,
+      "n_words": 11,
+      "start_frame": 4447,
+      "end_frame": 4518,
+      "keyframes": [
+        "004508.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Lá mồng tơi vị lẩu Thái, thêm giò sống và vị tôm nữa, không biết là lát nữa chúng ta nếm thử sẽ như thế nào.",
+      "start": 180.72,
+      "end": 188.2,
+      "n_words": 26,
+      "start_frame": 4518,
+      "end_frame": 4705,
+      "keyframes": [
+        "004573.webp",
+        "004574.webp",
+        "004610.webp",
+        "004647.webp",
+        "004648.webp",
+        "004674.webp",
+        "004700.webp",
+        "004701.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Vậy là mọi thứ đã sẵn sàng, bây giờ chúng ta sẽ qua công đoạn nấu canh.",
+      "start": 188.2,
+      "end": 192.6,
+      "n_words": 17,
+      "start_frame": 4705,
+      "end_frame": 4815,
+      "keyframes": [
+        "004756.webp",
+        "004811.webp",
+        "004812.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Có rồi đây rồi, sau khi nồi nóng thì Quốc Nghi sẽ cho vào đây một ít dầu ăn.",
+      "start": 192.6,
+      "end": 197.08,
+      "n_words": 19,
+      "start_frame": 4815,
+      "end_frame": 4927,
+      "keyframes": [
+        "004833.webp",
+        "004855.webp",
+        "004856.webp",
+        "004891.webp",
+        "004926.webp",
+        "004927.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Phần dầu ăn nóng thì Quốc Nghi sẽ cho vào đây một ít hành tím và tỏi băm, chúng ta sẽ đảo đều rồi chúng ta sẽ cho đầu tôm vào xào.",
+      "start": 197.08,
+      "end": 203.12,
+      "n_words": 32,
+      "start_frame": 4927,
+      "end_frame": 5078,
+      "keyframes": [
+        "004927.webp",
+        "004968.webp",
+        "005010.webp",
+        "005011.webp",
+        "005023.webp",
+        "005036.webp",
+        "005037.webp",
+        "005057.webp",
+        "005077.webp",
+        "005078.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Vì chúng ta xào đầu tôm trước khi nấu canh giúp cho nước canh chúng ta tăng độ ngọt và tăng cái mùi thơm của tôm.",
+      "start": 203.12,
+      "end": 208.04,
+      "n_words": 26,
+      "start_frame": 5078,
+      "end_frame": 5201,
+      "keyframes": [
+        "005078.webp",
+        "005099.webp",
+        "005121.webp",
+        "005122.webp",
+        "005162.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Sau khi phần đầu tôm đã vàng đều thì chúng ta sẽ cho vào đây một lít nước lọc.",
+      "start": 208.04,
+      "end": 212.04,
+      "n_words": 19,
+      "start_frame": 5201,
+      "end_frame": 5301,
+      "keyframes": [
+        "005203.webp",
+        "005204.webp",
+        "005254.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nước canh chúng ta đã sôi thì Quốc Nghi sẽ nêm vào đây ba muỗng canh rưỡi gia vị nêm sẵn Ajinomoto Lẩu Thái.",
+      "start": 212.04,
+      "end": 217.68,
+      "n_words": 24,
+      "start_frame": 5301,
+      "end_frame": 5442,
+      "keyframes": [
+        "005304.webp",
+        "005305.webp",
+        "005319.webp",
+        "005334.webp",
+        "005335.webp",
+        "005363.webp",
+        "005391.webp",
+        "005392.webp",
+        "005427.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Thơm quá Dung ạ!",
+      "start": 217.68,
+      "end": 218.72,
+      "n_words": 4,
+      "start_frame": 5442,
+      "end_frame": 5468,
+      "keyframes": [
+        "005463.webp",
+        "005464.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rồi chúng ta sẽ đợi cho phần nước sôi lại.",
+      "start": 218.72,
+      "end": 220.8,
+      "n_words": 10,
+      "start_frame": 5468,
+      "end_frame": 5520,
+      "keyframes": [
+        "005492.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Sau khi nước canh chúng ta sôi lại thì Quốc Nghi sẽ cho vào đây phần nấm bào ngư, hấp dẫn quá!",
+      "start": 220.8,
+      "end": 225.28,
+      "n_words": 22,
+      "start_frame": 5520,
+      "end_frame": 5632,
+      "keyframes": [
+        "005521.webp",
+        "005522.webp",
+        "005541.webp",
+        "005561.webp",
+        "005562.webp",
+        "005583.webp",
+        "005605.webp",
+        "005606.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Tiếp đến là cà chua miếng cau, chả tôm từng viên xuống, những cái đuôi tôm rất là hấp dẫn.",
+      "start": 225.28,
+      "end": 233.08,
+      "n_words": 20,
+      "start_frame": 5632,
+      "end_frame": 5827,
+      "keyframes": [
+        "005642.webp",
+        "005679.webp",
+        "005680.webp",
+        "005702.webp",
+        "005724.webp",
+        "005725.webp",
+        "005740.webp",
+        "005755.webp",
+        "005756.webp",
+        "005804.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Cái phần chả tôm của chúng ta vừa chín tới thì Quốc Nghi sẽ cho rau mồng tơi vào, đảm bảo một món canh hương vị Thái cực kỳ ngon.",
+      "start": 233.88,
+      "end": 242.32,
+      "n_words": 30,
+      "start_frame": 5847,
+      "end_frame": 6058,
+      "keyframes": [
+        "005853.webp",
+        "005854.webp",
+        "005892.webp",
+        "005930.webp",
+        "005931.webp",
+        "005967.webp",
+        "006004.webp",
+        "006005.webp",
+        "006033.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cuối cùng Quốc Nghi sẽ thêm vào đây một muỗng canh nước mắm cho nó đậm đà cái món canh chúng ta, sau đó chúng ta sẽ tắt lửa.",
+      "start": 242.32,
+      "end": 249.64,
+      "n_words": 29,
+      "start_frame": 6058,
+      "end_frame": 6241,
+      "keyframes": [
+        "006062.webp",
+        "006063.webp",
+        "006072.webp",
+        "006082.webp",
+        "006083.webp",
+        "006099.webp",
+        "006115.webp",
+        "006116.webp",
+        "006133.webp",
+        "006150.webp",
+        "006151.webp",
+        "006175.webp",
+        "006199.webp",
+        "006200.webp",
+        "006220.webp",
+        "006240.webp",
+        "006241.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Chúng ta nấu canh vừa chín tới để rau giữ được màu tự nhiên và hương vị giòn ngọt.",
+      "start": 249.64,
+      "end": 255.16,
+      "n_words": 19,
+      "start_frame": 6241,
+      "end_frame": 6379,
+      "keyframes": [
+        "006241.webp",
+        "006288.webp",
+        "006336.webp",
+        "006337.webp",
+        "006361.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ Quốc Nghi sẽ cho món canh chúng ta ra tô.",
+      "start": 255.16,
+      "end": 258.56,
+      "n_words": 12,
+      "start_frame": 6379,
+      "end_frame": 6464,
+      "keyframes": [
+        "006386.webp",
+        "006387.webp",
+        "006420.webp",
+        "006453.webp",
+        "006454.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ta nóng lòng nãy giờ luôn rồi!",
+      "start": 258.56,
+      "end": 261.76,
+      "n_words": 7,
+      "start_frame": 6464,
+      "end_frame": 6544,
+      "keyframes": [
+        "006478.webp",
+        "006503.webp",
+        "006504.webp",
+        "006517.webp",
+        "006530.webp",
+        "006531.webp",
+        "006540.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cuối cùng Quốc Nghi sẽ trang trí thêm món canh của chúng ta một cọng ngò.",
+      "start": 261.76,
+      "end": 264.4,
+      "n_words": 16,
+      "start_frame": 6544,
+      "end_frame": 6610,
+      "keyframes": [
+        "006549.webp",
+        "006550.webp",
+        "006610.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ngon như vậy là món ăn của chúng ta ngày hôm nay đã hoàn thành.",
+      "start": 264.4,
+      "end": 266.8,
+      "n_words": 15,
+      "start_frame": 6610,
+      "end_frame": 6670,
+      "keyframes": [
+        "006610.webp",
+        "006670.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đây là một món canh mang cái hơi hướng sáng tạo, sự kết hợp giữa rau mồng tơi nấu theo kiểu canh chua và có hương vị chua cay của lẩu Thái.",
+      "start": 266.8,
+      "end": 274.92,
+      "n_words": 32,
+      "start_frame": 6670,
+      "end_frame": 6873,
+      "keyframes": [
+        "006670.webp",
+        "006671.webp",
+        "006700.webp",
+        "006730.webp",
+        "006731.webp",
+        "006773.webp",
+        "006815.webp",
+        "006816.webp",
+        "006843.webp",
+        "006870.webp",
+        "006871.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Canh thơm phức, nếm vị chua cay ngất ngây, ăn cùng rau mồng tơi giòn vị, nấm giòn ngọt, cắn thêm viên tôm thì dai dai là ngon nhớ mãi.",
+      "start": 275.16,
+      "end": 285.4,
+      "n_words": 30,
+      "start_frame": 6879,
+      "end_frame": 7135,
+      "keyframes": [
+        "006915.webp",
+        "006959.webp",
+        "006983.webp",
+        "007059.webp",
+        "007135.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Một món canh thật lạ miệng và đẹp mắt như thế này, còn chần chờ gì nữa mà không nấu cho gia đình thưởng thức trong những ngày hè oi bức nhé!",
+      "start": 285.4,
+      "end": 291.04,
+      "n_words": 32,
+      "start_frame": 7135,
+      "end_frame": 7276,
+      "keyframes": [
+        "007135.webp",
+        "007136.webp",
+        "007220.webp"
+      ],
+      "keyframe_count": 3
+    }
+  ]
+}

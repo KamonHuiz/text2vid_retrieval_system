@@ -1,0 +1,882 @@
+{
+  "video_id": "L26_V075",
+  "fps": 25.0,
+  "n_sentences": 51,
+  "total_words": 918,
+  "sentences": [
+    {
+      "text": "Rất món ngon mỗi ngày, gỏi cá kiểu Nhật ngọt thơm, vàng giòn, khéo vị đưa cơm.",
+      "start": 0.04,
+      "end": 33.6,
+      "n_words": 17,
+      "start_frame": 1,
+      "end_frame": 840,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000155.webp",
+        "000160.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp",
+        "000356.webp",
+        "000412.webp",
+        "000413.webp",
+        "000494.webp",
+        "000575.webp",
+        "000576.webp",
+        "000628.webp",
+        "000681.webp",
+        "000682.webp",
+        "000772.webp"
+      ],
+      "keyframe_count": 46
+    },
+    {
+      "text": "Rất vui được gặp lại các bạn khán giả trong chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành.",
+      "start": 33.6,
+      "end": 39.24,
+      "n_words": 20,
+      "start_frame": 840,
+      "end_frame": 981,
+      "keyframes": [
+        "000862.webp",
+        "000863.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 39.24,
+      "end": 43.44,
+      "n_words": 11,
+      "start_frame": 981,
+      "end_frame": 1086,
+      "keyframes": [
+        "000996.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Anh Long nè, hôm nay Tân Phương để ý thấy có tần ô.",
+      "start": 43.44,
+      "end": 46.04,
+      "n_words": 13,
+      "start_frame": 1086,
+      "end_frame": 1151,
+      "keyframes": [
+        "001129.webp",
+        "001130.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đây là món ruột của Tân Phương đấy ạ.",
+      "start": 46.28,
+      "end": 47.92,
+      "n_words": 9,
+      "start_frame": 1157,
+      "end_frame": 1198,
+      "keyframes": [
+        "001162.webp",
+        "001195.webp",
+        "001196.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trong tần ô có rất nhiều vitamin C giúp cho đẹp da nè, tăng cường sức đề kháng và đặc biệt là cải thiện trí nhớ nữa đấy.",
+      "start": 47.92,
+      "end": 54.0,
+      "n_words": 28,
+      "start_frame": 1198,
+      "end_frame": 1350,
+      "keyframes": [
+        "001244.webp",
+        "001292.webp",
+        "001293.webp",
+        "001321.webp",
+        "001350.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hôm nay Hoàng Long sẽ dùng tần ô mà Thanh Phương phân tích, kết hợp với lại cá ba sa để tạo nên món gỏi cá kiểu Nhật.",
+      "start": 54.0,
+      "end": 59.68,
+      "n_words": 28,
+      "start_frame": 1350,
+      "end_frame": 1492,
+      "keyframes": [
+        "001350.webp",
+        "001351.webp",
+        "001443.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nghe là đã thấy thích rồi đó, chúng ta thực hiện ngay thôi.",
+      "start": 59.68,
+      "end": 62.44,
+      "n_words": 13,
+      "start_frame": 1492,
+      "end_frame": 1561,
+      "keyframes": [
+        "001536.webp",
+        "001537.webp",
+        "001548.webp",
+        "001560.webp",
+        "001561.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Long sẽ chuẩn bị cho Thanh Phương một cái bộ dụng cụ để mình bào giúp Long cái phần củ cải trắng.",
+      "start": 62.44,
+      "end": 71.36,
+      "n_words": 22,
+      "start_frame": 1561,
+      "end_frame": 1784,
+      "keyframes": [
+        "001561.webp",
+        "001628.webp",
+        "001695.webp",
+        "001696.webp",
+        "001725.webp",
+        "001754.webp",
+        "001755.webp",
+        "001778.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Trắng sau khi bào xong thì Thanh Phương cũng đã vắt ráo, còn phần nước thì mình để lại như thế này ạ.",
+      "start": 71.84,
+      "end": 76.28,
+      "n_words": 23,
+      "start_frame": 1796,
+      "end_frame": 1907,
+      "keyframes": [
+        "001802.webp",
+        "001803.webp",
+        "001853.webp",
+        "001904.webp",
+        "001905.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Trời ơi, rau tần ô tươi ngon quá.",
+      "start": 76.28,
+      "end": 78.48,
+      "n_words": 8,
+      "start_frame": 1907,
+      "end_frame": 1962,
+      "keyframes": [
+        "001933.webp",
+        "001961.webp",
+        "001962.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ mình sẽ loại đoạn 5 cm, cái phần lá để riêng, cái phần thân để riêng nè.",
+      "start": 78.48,
+      "end": 87.76,
+      "n_words": 19,
+      "start_frame": 1962,
+      "end_frame": 2194,
+      "keyframes": [
+        "001962.webp",
+        "001993.webp",
+        "002024.webp",
+        "002025.webp",
+        "002063.webp",
+        "002101.webp",
+        "002102.webp",
+        "002151.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Ở đây Long có một miếng cá ba sa và mình sẽ cắt từng miếng cá ba sa.",
+      "start": 87.76,
+      "end": 94.32,
+      "n_words": 18,
+      "start_frame": 2194,
+      "end_frame": 2358,
+      "keyframes": [
+        "002200.webp",
+        "002201.webp",
+        "002228.webp",
+        "002256.webp",
+        "002257.webp",
+        "002274.webp",
+        "002292.webp",
+        "002293.webp",
+        "002323.webp",
+        "002353.webp",
+        "002354.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Thì các bạn biết là có rất là nhiều công dụng như là cung cấp omega nè hoặc là giảm lượng cholesterol cho cơ thể.",
+      "start": 94.32,
+      "end": 101.48,
+      "n_words": 25,
+      "start_frame": 2358,
+      "end_frame": 2537,
+      "keyframes": [
+        "002412.webp",
+        "002470.webp",
+        "002471.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi mình sẽ cắt những miếng vừa ăn thế này.",
+      "start": 101.48,
+      "end": 104.64,
+      "n_words": 10,
+      "start_frame": 2537,
+      "end_frame": 2616,
+      "keyframes": [
+        "002550.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đối với cá ba sa, chúng ta nên chọn cá có miếng to, trắng trong và dày thịt thì cá sẽ ngon hơn.",
+      "start": 104.64,
+      "end": 110.4,
+      "n_words": 23,
+      "start_frame": 2616,
+      "end_frame": 2760,
+      "keyframes": [
+        "002630.webp",
+        "002631.webp",
+        "002655.webp",
+        "002680.webp",
+        "002681.webp",
+        "002719.webp",
+        "002757.webp",
+        "002758.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Cần một ít phần đầu hành boa rô.",
+      "start": 110.56,
+      "end": 118.8,
+      "n_words": 8,
+      "start_frame": 2764,
+      "end_frame": 2970,
+      "keyframes": [
+        "002820.webp",
+        "002882.webp",
+        "002883.webp",
+        "002917.webp",
+        "002952.webp",
+        "002953.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ Long sẽ tiến hành ướp cá cho: đây là một muỗng cà phê nước cốt chanh, nửa muỗng cà phê tiêu, sau đó trộn đều lên.",
+      "start": 118.8,
+      "end": 132.04,
+      "n_words": 28,
+      "start_frame": 2970,
+      "end_frame": 3301,
+      "keyframes": [
+        "003000.webp",
+        "003048.webp",
+        "003049.webp",
+        "003087.webp",
+        "003125.webp",
+        "003126.webp",
+        "003160.webp",
+        "003194.webp",
+        "003195.webp",
+        "003218.webp",
+        "003242.webp",
+        "003243.webp",
+        "003293.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Bây giờ Long sẽ cắt hành tây thành từng lát.",
+      "start": 132.04,
+      "end": 138.56,
+      "n_words": 10,
+      "start_frame": 3301,
+      "end_frame": 3464,
+      "keyframes": [
+        "003344.webp",
+        "003345.webp",
+        "003404.webp",
+        "003464.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Long sẽ chuẩn bị cho Thanh Phương là nước sôi.",
+      "start": 138.56,
+      "end": 140.56,
+      "n_words": 10,
+      "start_frame": 3464,
+      "end_frame": 3514,
+      "keyframes": [
+        "003464.webp",
+        "003465.webp",
+        "003490.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Khi nước sôi thì Long sẽ nêm vào nồi nửa muỗng cà phê hạt nêm Ajinomoto ngon heo.",
+      "start": 140.56,
+      "end": 145.72,
+      "n_words": 18,
+      "start_frame": 3514,
+      "end_frame": 3643,
+      "keyframes": [
+        "003515.webp",
+        "003516.webp",
+        "003536.webp",
+        "003557.webp",
+        "003558.webp",
+        "003601.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thành phần giúp Long là mình chần cái phần rau tần ô, chần cái phần gốc trước sau đó tới phần lá, chần bao lâu thì mình lấy ra liền ạ, vừa tới là được rồi đó.",
+      "start": 145.72,
+      "end": 156.2,
+      "n_words": 37,
+      "start_frame": 3643,
+      "end_frame": 3905,
+      "keyframes": [
+        "003645.webp",
+        "003646.webp",
+        "003672.webp",
+        "003698.webp",
+        "003699.webp",
+        "003761.webp",
+        "003823.webp",
+        "003824.webp",
+        "003849.webp",
+        "003875.webp",
+        "003876.webp",
+        "003904.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Bây giờ em sẽ cho tiếp tục cái phần lá này.",
+      "start": 156.2,
+      "end": 161.6,
+      "n_words": 11,
+      "start_frame": 3905,
+      "end_frame": 4040,
+      "keyframes": [
+        "003932.webp",
+        "003933.webp",
+        "003970.webp",
+        "004008.webp",
+        "004009.webp",
+        "004027.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ Long sẽ tiến hành trộn cái phần sốt để trộn gỏi.",
+      "start": 161.6,
+      "end": 164.88,
+      "n_words": 13,
+      "start_frame": 4040,
+      "end_frame": 4122,
+      "keyframes": [
+        "004045.webp",
+        "004046.webp",
+        "004084.webp",
+        "004122.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Long cần hai muỗng canh đường, hai muỗng canh giấm gạo lên men Ajinomoto và cuối cùng là bốn muỗng canh nước tương Kikkoman.",
+      "start": 164.88,
+      "end": 172.64,
+      "n_words": 24,
+      "start_frame": 4122,
+      "end_frame": 4316,
+      "keyframes": [
+        "004122.webp",
+        "004123.webp",
+        "004140.webp",
+        "004158.webp",
+        "004159.webp",
+        "004171.webp",
+        "004184.webp",
+        "004185.webp",
+        "004206.webp",
+        "004228.webp",
+        "004229.webp",
+        "004245.webp",
+        "004261.webp",
+        "004262.webp",
+        "004281.webp",
+        "004300.webp",
+        "004301.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Và nước tương Kikkoman thì được lên men tự nhiên từ đậu nành và gạo.",
+      "start": 173.04,
+      "end": 176.8,
+      "n_words": 15,
+      "start_frame": 4326,
+      "end_frame": 4420,
+      "keyframes": [
+        "004345.webp",
+        "004346.webp",
+        "004396.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đây là một món ăn rất là đặc trưng của Nhật Bản vì vậy nước tương Kikkoman sẽ rất là phù hợp.",
+      "start": 176.8,
+      "end": 181.44,
+      "n_words": 22,
+      "start_frame": 4420,
+      "end_frame": 4536,
+      "keyframes": [
+        "004446.webp",
+        "004447.webp",
+        "004500.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Khi mà chế biến, chúng ta sẽ chiên cá.",
+      "start": 181.44,
+      "end": 183.84,
+      "n_words": 9,
+      "start_frame": 4536,
+      "end_frame": 4596,
+      "keyframes": [
+        "004553.webp",
+        "004554.webp",
+        "004578.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ở đây Long sử dụng lại gia vị nêm sẵn Ajinomoto bột tẩm khô chiên giòn và Long xài một phần ba gói.",
+      "start": 183.84,
+      "end": 194.4,
+      "n_words": 23,
+      "start_frame": 4596,
+      "end_frame": 4860,
+      "keyframes": [
+        "004602.webp",
+        "004603.webp",
+        "004657.webp",
+        "004712.webp",
+        "004713.webp",
+        "004728.webp",
+        "004743.webp",
+        "004744.webp",
+        "004816.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Chúng ta chiên cá ba sa với gia vị nêm sẵn Ajinomoto bột tẩm khô chiên giòn để cho cá giòn và thấm vị.",
+      "start": 194.4,
+      "end": 199.96,
+      "n_words": 24,
+      "start_frame": 4860,
+      "end_frame": 4999,
+      "keyframes": [
+        "004889.webp",
+        "004890.webp",
+        "004942.webp",
+        "004994.webp",
+        "004995.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Rồi bây giờ Long sẽ cho đồ chiên.",
+      "start": 199.96,
+      "end": 202.4,
+      "n_words": 8,
+      "start_frame": 4999,
+      "end_frame": 5060,
+      "keyframes": [
+        "005038.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Các bạn thấy là khi mà có tẩm qua một ít bột thì dường như là cá khi chiên nó không có bị bắn dầu.",
+      "start": 202.4,
+      "end": 210.48,
+      "n_words": 25,
+      "start_frame": 5060,
+      "end_frame": 5262,
+      "keyframes": [
+        "005082.webp",
+        "005083.webp",
+        "005119.webp",
+        "005156.webp",
+        "005157.webp",
+        "005207.webp",
+        "005258.webp",
+        "005259.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Cá đã bắt đầu dậy lên mùi thơm và vàng giòn trông rất là hấp dẫn, ôi thơm quá.",
+      "start": 210.48,
+      "end": 220.08,
+      "n_words": 19,
+      "start_frame": 5262,
+      "end_frame": 5502,
+      "keyframes": [
+        "005322.webp",
+        "005385.webp",
+        "005386.webp",
+        "005415.webp",
+        "005445.webp",
+        "005446.webp",
+        "005476.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Và để trộn gỏi thì chúng ta sẽ cho lần lượt từng loại nguyên liệu vào trong này.",
+      "start": 220.08,
+      "end": 223.72,
+      "n_words": 18,
+      "start_frame": 5502,
+      "end_frame": 5593,
+      "keyframes": [
+        "005507.webp",
+        "005508.webp",
+        "005528.webp",
+        "005549.webp",
+        "005550.webp",
+        "005571.webp",
+        "005593.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Đối với rau tần ô, sau khi chần qua thì mình sẽ vắt ráo rau để khi mà trộn rau sẽ thấm vị.",
+      "start": 223.72,
+      "end": 228.64,
+      "n_words": 23,
+      "start_frame": 5593,
+      "end_frame": 5716,
+      "keyframes": [
+        "005593.webp",
+        "005594.webp",
+        "005625.webp",
+        "005656.webp",
+        "005657.webp",
+        "005686.webp",
+        "005715.webp",
+        "005716.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Giờ Long cho phần hành tây này vào, hành lá, màu cam cà rốt, màu đỏ của ớt và đây là phần củ cải trắng mà Thanh Phương đã bào ra.",
+      "start": 228.64,
+      "end": 241.32,
+      "n_words": 31,
+      "start_frame": 5716,
+      "end_frame": 6033,
+      "keyframes": [
+        "005716.webp",
+        "005742.webp",
+        "005769.webp",
+        "005770.webp",
+        "005798.webp",
+        "005827.webp",
+        "005828.webp",
+        "005856.webp",
+        "005885.webp",
+        "005886.webp",
+        "005913.webp",
+        "005940.webp",
+        "005941.webp",
+        "005987.webp",
+        "006033.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Mình trộn đều lên.",
+      "start": 241.32,
+      "end": 242.96,
+      "n_words": 4,
+      "start_frame": 6033,
+      "end_frame": 6074,
+      "keyframes": [
+        "006033.webp",
+        "006034.webp",
+        "006061.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ mình cho sốt vào cho phần gỏi chúng ta thấm vị và tiếp tục trộn.",
+      "start": 242.96,
+      "end": 249.36,
+      "n_words": 17,
+      "start_frame": 6074,
+      "end_frame": 6234,
+      "keyframes": [
+        "006088.webp",
+        "006089.webp",
+        "006139.webp",
+        "006189.webp",
+        "006190.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và các bạn muốn xem lại công thức của món ăn này, vui lòng quét mã QR đang hiển thị trên màn hình.",
+      "start": 249.36,
+      "end": 257.16,
+      "n_words": 23,
+      "start_frame": 6234,
+      "end_frame": 6429,
+      "keyframes": [
+        "006251.webp",
+        "006312.webp",
+        "006313.webp",
+        "006349.webp",
+        "006385.webp",
+        "006386.webp",
+        "006410.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Sau khi mình trộn gỏi thì bây giờ mình sẽ xếp ra đĩa.",
+      "start": 257.16,
+      "end": 260.24,
+      "n_words": 13,
+      "start_frame": 6429,
+      "end_frame": 6506,
+      "keyframes": [
+        "006435.webp",
+        "006436.webp",
+        "006475.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trình bày cũng là một công đoạn rất là quan trọng của món ăn để tạo thêm phần bắt mắt và hấp dẫn hơn cho món ăn.",
+      "start": 260.24,
+      "end": 267.68,
+      "n_words": 27,
+      "start_frame": 6506,
+      "end_frame": 6692,
+      "keyframes": [
+        "006515.webp",
+        "006516.webp",
+        "006557.webp",
+        "006598.webp",
+        "006599.webp",
+        "006645.webp",
+        "006691.webp",
+        "006692.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Kế đến là cá.",
+      "start": 267.68,
+      "end": 272.72,
+      "n_words": 4,
+      "start_frame": 6692,
+      "end_frame": 6818,
+      "keyframes": [
+        "006692.webp",
+        "006727.webp",
+        "006763.webp",
+        "006764.webp",
+        "006792.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Công đoạn cuối là mình sẽ rắc mè lên.",
+      "start": 272.72,
+      "end": 275.12,
+      "n_words": 9,
+      "start_frame": 6818,
+      "end_frame": 6878,
+      "keyframes": [
+        "006821.webp",
+        "006822.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đây là phần mè rang đã Long đã chuẩn bị từ trước.",
+      "start": 275.12,
+      "end": 278.28,
+      "n_words": 12,
+      "start_frame": 6878,
+      "end_frame": 6957,
+      "keyframes": [
+        "006882.webp",
+        "006943.webp",
+        "006944.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thêm một tí mè rang nữa thì sẽ rất là thơm và có vị béo.",
+      "start": 278.28,
+      "end": 281.44,
+      "n_words": 15,
+      "start_frame": 6957,
+      "end_frame": 7036,
+      "keyframes": [
+        "006990.webp",
+        "007036.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Để tạo nên một bữa ăn hoàn chỉnh thì chúng ta sẽ kết hợp món gỏi cá kiểu Nhật này kèm với món canh sườn non rong biển.",
+      "start": 281.44,
+      "end": 289.16,
+      "n_words": 28,
+      "start_frame": 7036,
+      "end_frame": 7229,
+      "keyframes": [
+        "007036.webp",
+        "007037.webp",
+        "007128.webp",
+        "007219.webp",
+        "007220.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thịt cá ngoài vàng giòn, trong mềm ngọt cùng với màu đỏ tươi tắn của ớt trên nền tần ô xanh thấm trọn hương vị và vị mặn của nước tương đậm đà nịnh miệng.",
+      "start": 289.16,
+      "end": 301.16,
+      "n_words": 35,
+      "start_frame": 7229,
+      "end_frame": 7529,
+      "keyframes": [
+        "007258.webp",
+        "007296.webp",
+        "007311.webp",
+        "007346.webp",
+        "007382.webp",
+        "007383.webp",
+        "007456.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Gỏi cá Nhật đơn giản, dinh dưỡng, lạ miệng.",
+      "start": 301.16,
+      "end": 304.12,
+      "n_words": 9,
+      "start_frame": 7529,
+      "end_frame": 7603,
+      "keyframes": [
+        "007530.webp",
+        "007531.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Các bạn nhớ thực hiện cho những người thân yêu của mình thưởng thức nhé.",
+      "start": 304.12,
+      "end": 307.16,
+      "n_words": 15,
+      "start_frame": 7603,
+      "end_frame": 7679,
+      "keyframes": [
+        "007604.webp",
+        "007678.webp",
+        "007679.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ngoài ra, các bạn có thể truy cập vào kênh YouTube, website và fanpage của chương trình Món ngon mỗi ngày để tìm hiểu về công thức của những món ngon.",
+      "start": 307.16,
+      "end": 313.84,
+      "n_words": 31,
+      "start_frame": 7679,
+      "end_frame": 7846,
+      "keyframes": [
+        "007679.webp",
+        "007797.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Còn bây giờ xin được mến chào tạm biệt và hẹn gặp lại.",
+      "start": 313.84,
+      "end": 317.24,
+      "n_words": 13,
+      "start_frame": 7846,
+      "end_frame": 7931,
+      "keyframes": [
+        "007916.webp",
+        "007917.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+# PE-Core bigG fine-tune: 2 GPUs via torchrun, all-gathered negatives,
+# hard-negative batch plan (scripts/mine_hard_batches.py), in-loop validation
+# on data/splits/val_2k.jsonl with best.pt selection. Same data and LRs as
+# round 1 (train_ft1.yaml) so the comparison isolates the method changes.
+
+seed: 42
+
+epochs: 1
+per_device_batch_size: 128          # x 2 GPUs = 256 global; must equal the batch plan's row length
+grad_accum_steps: 1
+max_grad_norm: 1.0
+weight_decay: 0.05
+warmup_ratio: 0.05
+lr_scheduler: cosine
+
+learning_rate:
+  vision_encoder: 5.0e-6
+  text_encoder: 5.0e-6
+  projection: 2.0e-5                # includes the fully-trained attn_pool head
+  lora: 2.0e-4
+  logit_scale: 1.0e-4
+
+precision: bf16
+flash_attention: false
+grad_checkpointing: true
+compile: false
+
+save_every_steps: 100
+eval_every_steps: 100               # round-1 loss plateaued by ~20% of the epoch: select on val, not on "last"
+eval_at_start: true                 # pretrained reference point on the same val split
+log_every_steps: 10
+keep_last_n_checkpoints: 2
+
+num_workers: 8                      # per rank
+prefetch_factor: 4
+
+loss:
+  type: infonce
+  logit_scale_max: 4.6052

@@ -1,0 +1,19 @@
+{
+  "unfiltered": {
+    "text": "ờ hồng nhật tảo oánh thiên địa kiến bạc kiên giang khắp quỷ thần",
+    "word_count": 14
+  },
+  "flagged": {
+    "text": "ờ @not_in_dict(hồng nhật) tảo @not_in_dict(oánh) @not_in_dict(thiên địa kiến) bạc kiên giang khắp quỷ thần",
+    "word_count": 14
+  },
+  "refined": {
+    "text": "Hồng Nhật tảo oánh Thiên Địa Kiến, bạc Kiên Giang khắp quỷ thần.",
+    "word_count": 13,
+    "source": "flagged"
+  },
+  "proofread": {
+    "text": "Hồng Nhật tảo oánh Thiên Địa Kiến, bạc Kiên Giang khắp quỷ thần.",
+    "word_count": 13
+  }
+}

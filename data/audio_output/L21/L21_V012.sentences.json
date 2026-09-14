@@ -1,0 +1,1977 @@
+{
+  "video_id": "L21_V012",
+  "fps": 30.0,
+  "n_sentences": 109,
+  "total_words": 3352,
+  "sentences": [
+    {
+      "text": "Chào mừng quý vị đến với chương trình 60 giây sáng đầu tuần của Đài Truyền hình Thành phố Hồ Chí Minh.",
+      "start": 1.48,
+      "end": 8.32,
+      "n_words": 22,
+      "start_frame": 44,
+      "end_frame": 250,
+      "keyframes": [
+        "000052.webp",
+        "000238.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình sáng nay thứ hai ngày 12/08/2024 có những thông tin nổi bật sau: Thủ tướng ra công văn chỉ đạo 25 tỉnh, thành phố tập trung ứng phó lũ quét, sạt lở.",
+      "start": 8.32,
+      "end": 22.04,
+      "n_words": 34,
+      "start_frame": 250,
+      "end_frame": 661,
+      "keyframes": [
+        "000424.webp",
+        "000425.webp",
+        "000454.webp",
+        "000484.webp",
+        "000485.webp",
+        "000511.webp",
+        "000537.webp",
+        "000538.webp",
+        "000558.webp",
+        "000579.webp",
+        "000580.webp",
+        "000608.webp",
+        "000637.webp",
+        "000638.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Công ty Công viên Cây xanh Thành phố Hồ Chí Minh chi trả toàn bộ chi phí điều trị và hỗ trợ gia đình các nạn nhân.",
+      "start": 22.04,
+      "end": 28.68,
+      "n_words": 27,
+      "start_frame": 661,
+      "end_frame": 860,
+      "keyframes": [
+        "000664.webp",
+        "000690.webp",
+        "000691.webp",
+        "000716.webp",
+        "000741.webp",
+        "000742.webp",
+        "000764.webp",
+        "000786.webp",
+        "000787.webp",
+        "000814.webp",
+        "000841.webp",
+        "000842.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Mỹ cảnh báo Iran tấn công mạng chiến dịch tranh cử của ông Trump.",
+      "start": 28.68,
+      "end": 34.64,
+      "n_words": 14,
+      "start_frame": 860,
+      "end_frame": 1039,
+      "keyframes": [
+        "000866.webp",
+        "000891.webp",
+        "000892.webp",
+        "000927.webp",
+        "000963.webp",
+        "000964.webp",
+        "000965.webp",
+        "000966.webp",
+        "000967.webp",
+        "000995.webp",
+        "001023.webp",
+        "001024.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Từ đêm 11 tháng 8 đến 15 tháng 8, Bắc Bộ có khả năng xuất hiện đợt mưa lớn, nguy cơ rất cao xảy ra lũ quét, sạt lở đất tại một số khu vực.",
+      "start": 34.64,
+      "end": 42.92,
+      "n_words": 35,
+      "start_frame": 1039,
+      "end_frame": 1288,
+      "keyframes": [
+        "001232.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thủ tướng ra công văn chỉ đạo 25 tỉnh, thành phố tập trung ứng phó.",
+      "start": 42.92,
+      "end": 48.72,
+      "n_words": 15,
+      "start_frame": 1288,
+      "end_frame": 1462,
+      "keyframes": [
+        "001440.webp",
+        "001441.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Theo dự báo của Trung tâm Dự báo Khí tượng Thủy văn Quốc gia, từ đêm 11 tháng 8 đến 15 tháng 8, Bắc Bộ có khả năng xuất hiện đợt mưa lớn với tổng lượng mưa phổ biến từ 100 đến 200 mm, có nơi trên 400 mm.",
+      "start": 48.72,
+      "end": 60.64,
+      "n_words": 49,
+      "start_frame": 1462,
+      "end_frame": 1819,
+      "keyframes": [
+        "001493.webp",
+        "001545.webp",
+        "001546.webp",
+        "001584.webp",
+        "001623.webp",
+        "001624.webp",
+        "001650.webp",
+        "001676.webp",
+        "001677.webp",
+        "001698.webp",
+        "001720.webp",
+        "001721.webp",
+        "001768.webp",
+        "001815.webp",
+        "001816.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Do liên tục có mưa lớn kéo dài, đất đã bão hòa nước, nước trên các sông suối đang ở mức cao nên khả năng cao sẽ xuất hiện lũ trên các sông suối, đặc biệt nguy cơ rất cao xảy ra lũ quét, sạt lở đất tại khu vực miền núi, trung du và các vùng sườn dốc, ngập lụt sâu tại các khu vực thấp trũng đô thị.",
+      "start": 60.64,
+      "end": 77.76,
+      "n_words": 70,
+      "start_frame": 1819,
+      "end_frame": 2333,
+      "keyframes": [
+        "001892.webp",
+        "001968.webp",
+        "001969.webp",
+        "001982.webp",
+        "001995.webp",
+        "001996.webp",
+        "002029.webp",
+        "002062.webp",
+        "002063.webp",
+        "002101.webp",
+        "002139.webp",
+        "002140.webp",
+        "002172.webp",
+        "002205.webp",
+        "002206.webp",
+        "002231.webp",
+        "002256.webp",
+        "002257.webp",
+        "002285.webp",
+        "002313.webp",
+        "002314.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Để chủ động ứng phó với đợt mưa lũ lớn, sạt lở đất, lũ quét có thể xảy ra, Thủ tướng giao Phó Thủ tướng Chính phủ Trần Lưu Quang trực tiếp chỉ đạo các bộ, ngành, địa phương tiếp tục triển khai kịp thời, có hiệu quả công tác ứng phó, khắc phục hậu quả thiên tai.",
+      "start": 77.76,
+      "end": 94.12,
+      "n_words": 58,
+      "start_frame": 2333,
+      "end_frame": 2824,
+      "keyframes": [
+        "002344.webp",
+        "002374.webp",
+        "002375.webp",
+        "002415.webp",
+        "002456.webp",
+        "002457.webp",
+        "002464.webp",
+        "002472.webp",
+        "002473.webp",
+        "002494.webp",
+        "002515.webp",
+        "002516.webp",
+        "002608.webp",
+        "002701.webp",
+        "002702.webp",
+        "002722.webp",
+        "002743.webp",
+        "002744.webp",
+        "002767.webp",
+        "002790.webp",
+        "002791.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Liên quan đến vụ việc nhánh cây bị gãy đổ ở Công viên Tảo Đàn, Thành phố Hồ Chí Minh khiến hai người tử vong và ba người bị thương hôm qua, Công an Thành phố Hồ Chí Minh thông tin thêm về vụ việc.",
+      "start": 94.12,
+      "end": 104.96,
+      "n_words": 45,
+      "start_frame": 2824,
+      "end_frame": 3149,
+      "keyframes": [
+        "002962.webp",
+        "003133.webp",
+        "003134.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Theo đó, cơ quan Công an đã làm việc với Công ty Công viên Cây xanh Thành phố để xác định rõ trách nhiệm của tổ chức, cá nhân liên quan đến sự cố cây xanh gãy rơi làm thiệt hại tính mạng, sức khỏe của người dân.",
+      "start": 104.96,
+      "end": 115.72,
+      "n_words": 48,
+      "start_frame": 3149,
+      "end_frame": 3472,
+      "keyframes": [
+        "003184.webp",
+        "003234.webp",
+        "003235.webp",
+        "003292.webp",
+        "003350.webp",
+        "003351.webp",
+        "003366.webp",
+        "003381.webp",
+        "003382.webp",
+        "003392.webp",
+        "003402.webp",
+        "003403.webp",
+        "003433.webp",
+        "003464.webp",
+        "003465.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Công ty Công viên Cây xanh Thành phố Hồ Chí Minh đã tổ chức thăm hỏi, chia buồn cùng gia đình hai nạn nhân tử vong, hỗ trợ mỗi gia đình người bị nạn 30 triệu đồng để lo hậu sự.",
+      "start": 115.72,
+      "end": 124.04,
+      "n_words": 41,
+      "start_frame": 3472,
+      "end_frame": 3721,
+      "keyframes": [
+        "003496.webp",
+        "003528.webp",
+        "003529.webp",
+        "003571.webp",
+        "003613.webp",
+        "003614.webp",
+        "003652.webp",
+        "003690.webp",
+        "003691.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đối với ba người bị thương, công ty cũng đã tổ chức thăm hỏi, đồng thời phân công nhân viên trực 24/24 để kịp thời hỗ trợ người nhà nạn nhân chi trả toàn bộ chi phí điều trị tại bệnh viện.",
+      "start": 124.04,
+      "end": 134.6,
+      "n_words": 42,
+      "start_frame": 3721,
+      "end_frame": 4038,
+      "keyframes": [
+        "003751.webp",
+        "003812.webp",
+        "003813.webp",
+        "003831.webp",
+        "003849.webp",
+        "003850.webp",
+        "003937.webp",
+        "004024.webp",
+        "004025.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Hiện tình trạng ba nạn nhân đã ổn định và đang được các y bác sĩ tiếp tục theo dõi.",
+      "start": 134.6,
+      "end": 139.12,
+      "n_words": 20,
+      "start_frame": 4038,
+      "end_frame": 4174,
+      "keyframes": [
+        "004041.webp",
+        "004058.webp",
+        "004059.webp",
+        "004152.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Công ty cũng sẽ lập tổ chuyên gia dùng flycam để hỗ trợ kiểm tra đánh giá rủi ro cây xanh, tăng cường lực lượng lao động thực hiện thu gọn cành nhánh. Xin chuyển qua thông tin khác.",
+      "start": 139.12,
+      "end": 149.64,
+      "n_words": 39,
+      "start_frame": 4174,
+      "end_frame": 4489,
+      "keyframes": [
+        "004246.webp",
+        "004247.webp",
+        "004281.webp",
+        "004315.webp",
+        "004316.webp",
+        "004370.webp",
+        "004425.webp",
+        "004426.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Ngày khai giảng năm học mới đang tới gần, thời điểm này các quận, huyện đang gấp rút hoàn thành việc sửa chữa, nâng cấp trường lớp để sẵn sàng đón học sinh tựu trường.",
+      "start": 149.64,
+      "end": 157.8,
+      "n_words": 35,
+      "start_frame": 4489,
+      "end_frame": 4734,
+      "keyframes": [
+        "004490.webp",
+        "004554.webp",
+        "004555.webp",
+        "004607.webp",
+        "004659.webp",
+        "004660.webp",
+        "004672.webp",
+        "004684.webp",
+        "004685.webp",
+        "004704.webp",
+        "004724.webp",
+        "004725.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Nhiều ngôi trường mới xây, phòng học mới được chỉnh trang và hàng loạt trang thiết bị phục vụ dạy và học mới cũng đã được trang bị.",
+      "start": 157.8,
+      "end": 164.24,
+      "n_words": 28,
+      "start_frame": 4734,
+      "end_frame": 4927,
+      "keyframes": [
+        "004792.webp",
+        "004860.webp",
+        "004861.webp",
+        "004900.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Sau đây là ghi nhận tại Thành phố Hồ Chí Minh.",
+      "start": 164.24,
+      "end": 168.32,
+      "n_words": 11,
+      "start_frame": 4927,
+      "end_frame": 5050,
+      "keyframes": [
+        "004940.webp",
+        "004941.webp",
+        "004979.webp",
+        "005017.webp",
+        "005018.webp",
+        "005046.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hồ bơi, sân bóng mini, bàn ghế phong cách hiện đại là những hình ảnh của trường Tiểu học Lê Văn Phiên, huyện Hóc Môn.",
+      "start": 168.32,
+      "end": 175.36,
+      "n_words": 25,
+      "start_frame": 5050,
+      "end_frame": 5261,
+      "keyframes": [
+        "005074.webp",
+        "005075.webp",
+        "005152.webp",
+        "005229.webp",
+        "005230.webp",
+        "005232.webp",
+        "005234.webp",
+        "005235.webp",
+        "005247.webp",
+        "005259.webp",
+        "005260.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Trường có quy mô là 30 phòng học và các phòng chức năng.",
+      "start": 175.36,
+      "end": 178.76,
+      "n_words": 13,
+      "start_frame": 5261,
+      "end_frame": 5363,
+      "keyframes": [
+        "005309.webp",
+        "005359.webp",
+        "005360.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hiện tại thì trường đã chuẩn bị đầy đủ và chuẩn bị khánh thành đưa vào năm học mới với số lớp là bốn lớp một và 130 học sinh.",
+      "start": 178.76,
+      "end": 188.28,
+      "n_words": 30,
+      "start_frame": 5363,
+      "end_frame": 5648,
+      "keyframes": [
+        "005402.webp",
+        "005445.webp",
+        "005446.webp",
+        "005466.webp",
+        "005486.webp",
+        "005487.webp",
+        "005510.webp",
+        "005533.webp",
+        "005534.webp",
+        "005584.webp",
+        "005635.webp",
+        "005636.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Nhiều trường học khác trên địa bàn Thành phố Hồ Chí Minh cũng tiến hành sửa chữa, nâng cấp, trang bị thêm các thiết bị dạy và học, đồng thời phân bổ sĩ số lớp học phù hợp đảm bảo việc học hai buổi một ngày.",
+      "start": 188.28,
+      "end": 200.04,
+      "n_words": 46,
+      "start_frame": 5648,
+      "end_frame": 6001,
+      "keyframes": [
+        "005711.webp",
+        "005787.webp",
+        "005788.webp",
+        "005810.webp",
+        "005832.webp",
+        "005833.webp",
+        "005853.webp",
+        "005874.webp",
+        "005875.webp",
+        "005901.webp",
+        "005928.webp",
+        "005929.webp",
+        "005953.webp",
+        "005977.webp",
+        "005978.webp",
+        "005997.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Từ nay đến cuối năm, thành phố sẽ đưa vào sử dụng gần 500 phòng học mới xây dựng tại 7 trường mới cấp tiểu học.",
+      "start": 200.04,
+      "end": 207.68,
+      "n_words": 26,
+      "start_frame": 6001,
+      "end_frame": 6230,
+      "keyframes": [
+        "006016.webp",
+        "006017.webp",
+        "006037.webp",
+        "006058.webp",
+        "006059.webp",
+        "006108.webp",
+        "006158.webp",
+        "006159.webp",
+        "006180.webp",
+        "006202.webp",
+        "006203.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Hiện nay chúng tôi thực hiện chủ trương là dự án giảm sĩ số từ các trường mà xung quanh có số học sinh đông dồn qua các trường mới.",
+      "start": 207.92,
+      "end": 215.64,
+      "n_words": 30,
+      "start_frame": 6238,
+      "end_frame": 6469,
+      "keyframes": [
+        "006312.webp",
+        "006421.webp",
+        "006422.webp",
+        "006439.webp",
+        "006456.webp",
+        "006457.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Theo thống kê của Sở Giáo dục và Đào tạo Thành phố Hồ Chí Minh, năm học 2024-2025 dự kiến thành phố sẽ tăng 24.097 học sinh.",
+      "start": 215.64,
+      "end": 228.24,
+      "n_words": 27,
+      "start_frame": 6469,
+      "end_frame": 6847,
+      "keyframes": [
+        "006496.webp",
+        "006536.webp",
+        "006537.webp",
+        "006573.webp",
+        "006610.webp",
+        "006611.webp",
+        "006644.webp",
+        "006678.webp",
+        "006679.webp",
+        "006696.webp",
+        "006714.webp",
+        "006715.webp",
+        "006764.webp",
+        "006813.webp",
+        "006814.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Hôm qua tại huyện Gia Viễn, tỉnh Ninh Bình, do Hội Phật giáo Việt Nam tỉnh Ninh Bình tổ chức chương trình Pháp hội Vu lan báo hiếu Phật lịch 2568, dương lịch 2024 với chủ đề Đạo hiếu và Dân tộc tại chùa Bái Đính.",
+      "start": 228.24,
+      "end": 242.24,
+      "n_words": 46,
+      "start_frame": 6847,
+      "end_frame": 7267,
+      "keyframes": [
+        "007113.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Hàng nghìn tăng ni, phật tử, nhân dân và du khách thập phương về dự lễ Pháp hội Vu lan báo hiếu được tổ chức để con cháu tưởng nhớ đến công ơn sinh thành dưỡng dục của cha mẹ, tổ tiên; Các thế hệ sau nhớ về nghĩa nạn của chư vị tiền bối hữu công đã hy sinh vì sự bình an cho chúng sinh và vạn loài; Cũng là truyền thống tri ân và báo ân của dân tộc với đạo lý nghìn đời uống nước nhớ nguồn.",
+      "start": 242.24,
+      "end": 265.6,
+      "n_words": 91,
+      "start_frame": 7267,
+      "end_frame": 7968,
+      "keyframes": [
+        "007413.webp",
+        "007414.webp",
+        "007429.webp",
+        "007444.webp",
+        "007445.webp",
+        "007482.webp",
+        "007520.webp",
+        "007521.webp",
+        "007551.webp",
+        "007582.webp",
+        "007583.webp",
+        "007588.webp",
+        "007593.webp",
+        "007594.webp",
+        "007629.webp",
+        "007665.webp",
+        "007666.webp",
+        "007683.webp",
+        "007701.webp",
+        "007702.webp",
+        "007730.webp",
+        "007758.webp",
+        "007759.webp",
+        "007784.webp",
+        "007810.webp",
+        "007811.webp",
+        "007867.webp",
+        "007923.webp",
+        "007924.webp"
+      ],
+      "keyframe_count": 29
+    },
+    {
+      "text": "Tham dự Pháp hội Vu lan năm nay, ngoài việc kính thành tri ân công đức sinh thành của các bậc cha mẹ, sự biết ơn đối với các thế hệ đi trước đã có công xây dựng đất nước, các đại biểu, đông đảo tăng ni, phật tử, du khách thập phương cùng thực hiện các nghi lễ truyền thống của Phật giáo như Phật cầu gia bị, nghi thức bông hồng cài áo, nghi thức sáng Vu lan. Tình trạng bò sữa chết hàng loạt tại tỉnh Lâm Đồng khiến các hộ chăn nuôi ở đây lo lắng.",
+      "start": 265.6,
+      "end": 290.8,
+      "n_words": 100,
+      "start_frame": 7968,
+      "end_frame": 8724,
+      "keyframes": [
+        "007971.webp",
+        "008018.webp",
+        "008019.webp",
+        "008046.webp",
+        "008074.webp",
+        "008075.webp",
+        "008125.webp",
+        "008176.webp",
+        "008177.webp",
+        "008199.webp",
+        "008222.webp",
+        "008223.webp",
+        "008249.webp",
+        "008275.webp",
+        "008276.webp",
+        "008284.webp",
+        "008292.webp",
+        "008293.webp",
+        "008353.webp",
+        "008413.webp",
+        "008414.webp",
+        "008462.webp",
+        "008510.webp",
+        "008511.webp",
+        "008537.webp",
+        "008564.webp",
+        "008565.webp"
+      ],
+      "keyframe_count": 27
+    },
+    {
+      "text": "Nhiều ngày qua, Bộ Nông nghiệp và Phát triển Nông thôn đã chỉ đạo các cơ quan tiến hành điều tra dịch tễ, lấy mẫu xét nghiệm để xác định nguyên nhân.",
+      "start": 290.8,
+      "end": 297.8,
+      "n_words": 32,
+      "start_frame": 8724,
+      "end_frame": 8934,
+      "keyframes": [
+        "008799.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Kết quả ban đầu được công bố vào chiều qua, đến thời điểm này số lượng bò sữa bị chết do tiêu chảy đã lên tới 209 con.",
+      "start": 297.8,
+      "end": 307.56,
+      "n_words": 28,
+      "start_frame": 8934,
+      "end_frame": 9227,
+      "keyframes": [
+        "009033.webp",
+        "009034.webp",
+        "009081.webp",
+        "009129.webp",
+        "009130.webp",
+        "009179.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Qua kiểm tra, Bộ Nông nghiệp và Phát triển Nông thôn nhận định nguyên nhân khiến bò bị bệnh và chết có thể liên quan tới vaccine viêm da nổi cục vừa được tiêm cho đàn bò.",
+      "start": 307.56,
+      "end": 317.28,
+      "n_words": 37,
+      "start_frame": 9227,
+      "end_frame": 9518,
+      "keyframes": [
+        "009229.webp",
+        "009230.webp",
+        "009265.webp",
+        "009301.webp",
+        "009302.webp",
+        "009407.webp",
+        "009513.webp",
+        "009514.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Số lượng tiêm là gần 9.000 con, số bị bệnh trong số tiêm là 900 con.",
+      "start": 317.28,
+      "end": 323.96,
+      "n_words": 16,
+      "start_frame": 9518,
+      "end_frame": 9719,
+      "keyframes": [
+        "009589.webp",
+        "009664.webp",
+        "009665.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hôm qua, thay mặt Bộ Nông nghiệp, tôi đã khẳng định là tiêm vaccine, lấy mẫu xét nghiệm giải trình tự gen với độ chính xác cao để chúng ta kết luận nguyên nhân.",
+      "start": 323.96,
+      "end": 333.0,
+      "n_words": 34,
+      "start_frame": 9719,
+      "end_frame": 9990,
+      "keyframes": [
+        "009747.webp",
+        "009829.webp",
+        "009830.webp",
+        "009890.webp",
+        "009951.webp",
+        "009952.webp",
+        "009972.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Vùng chăn nuôi bò sữa trọng điểm của tỉnh Lâm Đồng có số lượng lớn với hơn 25.000 con.",
+      "start": 333.0,
+      "end": 338.84,
+      "n_words": 19,
+      "start_frame": 9990,
+      "end_frame": 10165,
+      "keyframes": [
+        "009993.webp",
+        "009994.webp",
+        "010007.webp",
+        "010021.webp",
+        "010022.webp",
+        "010082.webp",
+        "010142.webp",
+        "010143.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Trước đó có hai đợt tiêm vaccine viêm da nổi cục cho đàn bò vào ngày 17 tháng 7 và 2 tháng 8.",
+      "start": 338.84,
+      "end": 345.76,
+      "n_words": 23,
+      "start_frame": 10165,
+      "end_frame": 10373,
+      "keyframes": [
+        "010190.webp",
+        "010238.webp",
+        "010239.webp",
+        "010301.webp",
+        "010364.webp",
+        "010365.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Những con bò được tiêm vào ngày 2 tháng 8 đến nay vẫn tiếp tục xảy ra sự cố.",
+      "start": 345.76,
+      "end": 350.72,
+      "n_words": 19,
+      "start_frame": 10373,
+      "end_frame": 10522,
+      "keyframes": [
+        "010407.webp",
+        "010449.webp",
+        "010450.webp",
+        "010482.webp",
+        "010514.webp",
+        "010515.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cơ quan chuyên môn của Bộ Nông nghiệp và Phát triển Nông thôn cùng các chuyên gia thú y đã ra được phác đồ điều trị bệnh cho đàn bò với những tín hiệu tích cực bước đầu.",
+      "start": 350.72,
+      "end": 361.68,
+      "n_words": 38,
+      "start_frame": 10522,
+      "end_frame": 10850,
+      "keyframes": [
+        "010562.webp",
+        "010610.webp",
+        "010611.webp",
+        "010656.webp",
+        "010702.webp",
+        "010703.webp",
+        "010773.webp",
+        "010843.webp",
+        "010844.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Tối qua, trên đường Lộ Dây Thép, đoạn qua địa bàn xã Thân Cửu Nghĩa, huyện Châu Thành, Tiền Giang đã xảy ra vụ tai nạn giao thông giữa hai xe máy.",
+      "start": 361.68,
+      "end": 369.08,
+      "n_words": 32,
+      "start_frame": 10850,
+      "end_frame": 11072,
+      "keyframes": [
+        "011038.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Hậu quả vụ tai nạn làm ba người nhập viện cấp cứu, phương tiện bị hư hỏng.",
+      "start": 369.08,
+      "end": 374.88,
+      "n_words": 17,
+      "start_frame": 11072,
+      "end_frame": 11246,
+      "keyframes": [
+        "011233.webp",
+        "011234.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Theo người dân chứng kiến vụ tai nạn kể lại, vào khoảng 20:00 ngày 11 tháng 8, xe máy mang biển số tỉnh Tiền Giang do một người đàn ông hơn 40 tuổi điều khiển, chở theo một người đàn ông khác trên xe đang lưu thông trên đường Lộ Dây Thép hướng đi từ Quốc lộ 1A vào đường Huyện lộ 39B.",
+      "start": 374.88,
+      "end": 388.56,
+      "n_words": 63,
+      "start_frame": 11246,
+      "end_frame": 11657,
+      "keyframes": [
+        "011300.webp",
+        "011366.webp",
+        "011367.webp",
+        "011406.webp",
+        "011445.webp",
+        "011446.webp",
+        "011517.webp",
+        "011589.webp",
+        "011590.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Trong lúc xe đang đi qua đoạn thuộc địa bàn ấp Thân Đức, xã Thân Cửu Nghĩa, huyện Châu Thành thì bất ngờ va chạm với xe máy mang biển số tỉnh Tiền Giang khác do một nam thanh niên khoảng 19 tuổi điều khiển đang lưu thông theo hướng ngược lại.",
+      "start": 389.24,
+      "end": 402.0,
+      "n_words": 52,
+      "start_frame": 11677,
+      "end_frame": 12060,
+      "keyframes": [
+        "011749.webp",
+        "011750.webp",
+        "011785.webp",
+        "011820.webp",
+        "011821.webp",
+        "011860.webp",
+        "011900.webp",
+        "011901.webp",
+        "011964.webp",
+        "012028.webp",
+        "012029.webp",
+        "012060.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Cú va chạm làm cả ba người cùng phương tiện té ngã xuống đường.",
+      "start": 402.0,
+      "end": 405.24,
+      "n_words": 14,
+      "start_frame": 12060,
+      "end_frame": 12157,
+      "keyframes": [
+        "012060.webp",
+        "012091.webp",
+        "012092.webp",
+        "012151.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Sau tai nạn, cả ba người đều bị thương nên được người dân đưa đến bệnh viện để cấp cứu, trong đó hai người đàn ông may mắn chỉ bị xây xát nhẹ còn phương tiện bị hư hỏng.",
+      "start": 405.24,
+      "end": 413.88,
+      "n_words": 39,
+      "start_frame": 12157,
+      "end_frame": 12416,
+      "keyframes": [
+        "012211.webp",
+        "012212.webp",
+        "012340.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tại hiện trường, cả hai phương tiện văng xa nằm cách xa nhau hơn 15 mét.",
+      "start": 413.88,
+      "end": 418.12,
+      "n_words": 16,
+      "start_frame": 12416,
+      "end_frame": 12544,
+      "keyframes": [
+        "012468.webp",
+        "012469.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nhờ được tin báo, Đội Cảnh sát giao thông Công an huyện Châu Thành phối hợp Công an xã Thân Cửu Nghĩa điều tiết giao thông và điều tra nguyên nhân vụ tai nạn.",
+      "start": 418.12,
+      "end": 430.36,
+      "n_words": 34,
+      "start_frame": 12544,
+      "end_frame": 12911,
+      "keyframes": [
+        "012563.webp",
+        "012658.webp",
+        "012659.webp",
+        "012725.webp",
+        "012792.webp",
+        "012793.webp",
+        "012843.webp",
+        "012894.webp",
+        "012895.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Một tai nạn khác cũng xảy ra tối qua tại Bình Dương làm anh Nguyễn Trọng Vinh, 33 tuổi, quê Nghệ An tử vong.",
+      "start": 430.36,
+      "end": 436.16,
+      "n_words": 24,
+      "start_frame": 12911,
+      "end_frame": 13085,
+      "keyframes": [
+        "012953.webp",
+        "013012.webp",
+        "013013.webp",
+        "013046.webp",
+        "013080.webp",
+        "013081.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Khoảng hơn 19:00, anh Vinh chạy xe máy trên đường Huỳnh Thị Tươi hướng từ khu công nghiệp Tân Đông Hiệp B ra đường Nguyễn Thị Minh Khai thuộc phường Tân Bình, thành phố Dĩ An, tỉnh Bình Dương.",
+      "start": 436.16,
+      "end": 444.96,
+      "n_words": 39,
+      "start_frame": 13085,
+      "end_frame": 13349,
+      "keyframes": [
+        "013108.webp",
+        "013136.webp",
+        "013137.webp",
+        "013164.webp",
+        "013191.webp",
+        "013192.webp",
+        "013229.webp",
+        "013266.webp",
+        "013267.webp",
+        "013295.webp",
+        "013323.webp",
+        "013324.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Khi đến đoạn đường cong, Vinh ôm cua lấn qua trái lao lên vỉa hè tông vào cột điện.",
+      "start": 444.96,
+      "end": 449.76,
+      "n_words": 19,
+      "start_frame": 13349,
+      "end_frame": 13493,
+      "keyframes": [
+        "013354.webp",
+        "013384.webp",
+        "013385.webp",
+        "013422.webp",
+        "013460.webp",
+        "013461.webp",
+        "013491.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cú tông mạnh khiến người này bị thương, dù được đưa vào bệnh viện cấp cứu nhưng đã tử vong.",
+      "start": 449.76,
+      "end": 454.2,
+      "n_words": 20,
+      "start_frame": 13493,
+      "end_frame": 13626,
+      "keyframes": [
+        "013521.webp",
+        "013522.webp",
+        "013551.webp",
+        "013580.webp",
+        "013581.webp",
+        "013620.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sau đó nhận tin báo, Công an thành phố Dĩ An đã đến trích xuất camera, khám nghiệm hiện trường để điều tra.",
+      "start": 454.2,
+      "end": 459.96,
+      "n_words": 23,
+      "start_frame": 13626,
+      "end_frame": 13799,
+      "keyframes": [
+        "013660.webp",
+        "013661.webp",
+        "013724.webp",
+        "013788.webp",
+        "013789.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Người nhà cho hay anh Vinh có đi nhậu trước khi gặp tai nạn.",
+      "start": 459.96,
+      "end": 465.08,
+      "n_words": 14,
+      "start_frame": 13799,
+      "end_frame": 13952,
+      "keyframes": [
+        "013826.webp",
+        "013863.webp",
+        "013864.webp",
+        "013892.webp",
+        "013920.webp",
+        "013921.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Lực lượng chức năng huyện Trảng Bom, tỉnh Đồng Nai tiếp tục làm rõ nguyên nhân đám cháy xe đầu kéo khi đang lưu thông trên Quốc lộ 1, đoạn qua huyện Trảng Bom vào khuya ngày 10 tháng 8.",
+      "start": 465.08,
+      "end": 475.84,
+      "n_words": 40,
+      "start_frame": 13952,
+      "end_frame": 14275,
+      "keyframes": [
+        "014084.webp",
+        "014248.webp",
+        "014249.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Vào khoảng 21:10 ngày 10 tháng 8, tổ công tác của Phòng Cảnh sát giao thông Công an tỉnh Đồng Nai trong quá trình thực hiện nhiệm vụ trên Quốc lộ 1 đã phát hiện xe đầu kéo mang biển số 60C-44.N97 kéo theo rơ moóc 60R-043.93 đang bốc cháy khi di chuyển qua trạm thu phí Trảng Bom.",
+      "start": 475.84,
+      "end": 493.44,
+      "n_words": 59,
+      "start_frame": 14275,
+      "end_frame": 14803,
+      "keyframes": [
+        "014365.webp",
+        "014482.webp",
+        "014483.webp",
+        "014533.webp",
+        "014584.webp",
+        "014585.webp",
+        "014647.webp",
+        "014709.webp",
+        "014710.webp",
+        "014777.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Ngay lập tức, tổ công tác đã dùng bình chữa cháy trên xe tuần tra và cùng những người dân địa phương kéo vòi nước kịp thời dập tắt đám cháy trên xe đầu kéo nói trên.",
+      "start": 493.44,
+      "end": 502.16,
+      "n_words": 37,
+      "start_frame": 14803,
+      "end_frame": 15065,
+      "keyframes": [
+        "014844.webp",
+        "014845.webp",
+        "014853.webp",
+        "014862.webp",
+        "014863.webp",
+        "014923.webp",
+        "014983.webp",
+        "014984.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Ngay sau khi ngọn lửa được dập tắt, lực lượng Cảnh sát giao thông tiếp tục hướng dẫn điều tiết giao thông để không gây ảnh hưởng đến quá trình lưu thông của các phương tiện khác trước khi chiếc xe đầu kéo nói trên được di dời.",
+      "start": 502.16,
+      "end": 513.96,
+      "n_words": 48,
+      "start_frame": 15065,
+      "end_frame": 15419,
+      "keyframes": [
+        "015068.webp",
+        "015152.webp",
+        "015153.webp",
+        "015168.webp",
+        "015184.webp",
+        "015185.webp",
+        "015188.webp",
+        "015192.webp",
+        "015193.webp",
+        "015298.webp",
+        "015403.webp",
+        "015404.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Cầu đi bộ bắc qua kênh Nhiêu Lộc Thị Nghè nối Quận 1 với Quận Bình Thạnh, Thành phố Hồ Chí Minh vừa đưa vào sử dụng cách đây không lâu đã bị vẽ bậy, dán quảng cáo rác tại chân cầu.",
+      "start": 513.96,
+      "end": 525.76,
+      "n_words": 42,
+      "start_frame": 15419,
+      "end_frame": 15773,
+      "keyframes": [
+        "015558.webp",
+        "015712.webp",
+        "015713.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Phía bên đường Hoàng Sa, Quận 1 xuất hiện những hình vẽ graffiti nhếch nhác, xấu xí.",
+      "start": 525.76,
+      "end": 530.4,
+      "n_words": 17,
+      "start_frame": 15773,
+      "end_frame": 15912,
+      "keyframes": [
+        "015802.webp",
+        "015892.webp",
+        "015893.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hình vẽ này cho thấy màu sơn còn khá mới.",
+      "start": 530.4,
+      "end": 533.0,
+      "n_words": 10,
+      "start_frame": 15912,
+      "end_frame": 15990,
+      "keyframes": [
+        "015925.webp",
+        "015958.webp",
+        "015959.webp",
+        "015964.webp",
+        "015970.webp",
+        "015971.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Ngoài bị vẽ bậy, cầu cũng bị dán quảng cáo rao vặt trái phép tại một số vị trí.",
+      "start": 533.0,
+      "end": 537.28,
+      "n_words": 19,
+      "start_frame": 15990,
+      "end_frame": 16118,
+      "keyframes": [
+        "016018.webp",
+        "016065.webp",
+        "016066.webp",
+        "016109.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cầu đi bộ bắc qua kênh Nhiêu Lộc Thị Nghè dài 100 mét, rộng khoảng 3 mét với kinh phí xây dựng khoảng 10 tỷ đồng, vừa được đưa vào khai thác từ tháng 7 sau 7 tháng thi công.",
+      "start": 537.28,
+      "end": 546.08,
+      "n_words": 40,
+      "start_frame": 16118,
+      "end_frame": 16382,
+      "keyframes": [
+        "016153.webp",
+        "016154.webp",
+        "016199.webp",
+        "016245.webp",
+        "016246.webp",
+        "016292.webp",
+        "016339.webp",
+        "016340.webp",
+        "016367.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Công trình này là một hạng mục thuộc dự án cắt ngầm 220 kilovolt Tao Đàn Tân Cảng.",
+      "start": 546.08,
+      "end": 551.0,
+      "n_words": 18,
+      "start_frame": 16382,
+      "end_frame": 16530,
+      "keyframes": [
+        "016395.webp",
+        "016396.webp",
+        "016439.webp",
+        "016483.webp",
+        "016484.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Khi cầu giúp kết nối giữa hai bờ được người dân đánh giá cao và kỳ vọng tăng mỹ quan cho khu vực nhưng lại bị làm nhem nhuốt bởi nạn vẽ bậy.",
+      "start": 551.0,
+      "end": 560.0,
+      "n_words": 33,
+      "start_frame": 16530,
+      "end_frame": 16800,
+      "keyframes": [
+        "016531.webp",
+        "016579.webp",
+        "016580.webp",
+        "016613.webp",
+        "016647.webp",
+        "016648.webp",
+        "016681.webp",
+        "016714.webp",
+        "016715.webp",
+        "016744.webp",
+        "016773.webp",
+        "016774.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Thế giới có gì là nội dung chính trong phần tiếp theo: Thử nghiệm taxi bay có tên Volocity tại Ba Cậu Bé người Đức 2 tuổi gây ấn tượng với năng khiếu vẽ tranh.",
+      "start": 560.0,
+      "end": 579.68,
+      "n_words": 35,
+      "start_frame": 16800,
+      "end_frame": 17390,
+      "keyframes": [
+        "016807.webp",
+        "016840.webp",
+        "016841.webp",
+        "016871.webp",
+        "016902.webp",
+        "016903.webp",
+        "016925.webp",
+        "016947.webp",
+        "016948.webp",
+        "016976.webp",
+        "017005.webp",
+        "017006.webp",
+        "017031.webp",
+        "017056.webp",
+        "017057.webp",
+        "017087.webp",
+        "017118.webp",
+        "017119.webp",
+        "017146.webp",
+        "017173.webp",
+        "017174.webp",
+        "017207.webp",
+        "017240.webp",
+        "017241.webp",
+        "017304.webp",
+        "017368.webp",
+        "017369.webp"
+      ],
+      "keyframe_count": 27
+    },
+    {
+      "text": "Chiến dịch tranh cử của cựu Tổng thống Mỹ Donald Trump mới đây thông báo đã bị tấn công mạng và tố cáo chính phủ Iran đứng sau vụ việc.",
+      "start": 579.68,
+      "end": 588.56,
+      "n_words": 30,
+      "start_frame": 17390,
+      "end_frame": 17657,
+      "keyframes": [
+        "017506.webp",
+        "017644.webp",
+        "017645.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thông báo trên được đưa ra sau khi Politico tiết lộ từ tháng 7 đã được một nguồn tin nặc danh cam đoan cung cấp tài liệu về nội bộ của chiến dịch, trong đó có báo cáo về những nhược điểm tiềm tàng của người liên danh tranh cử với ông Trump là Thượng nghị sĩ J. D. Vance.",
+      "start": 588.56,
+      "end": 603.84,
+      "n_words": 60,
+      "start_frame": 17657,
+      "end_frame": 18115,
+      "keyframes": [
+        "017718.webp",
+        "017791.webp",
+        "017792.webp",
+        "017864.webp",
+        "017936.webp",
+        "017937.webp",
+        "017996.webp",
+        "018056.webp",
+        "018057.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Người phát ngôn chiến dịch tranh cử của cựu Tổng thống Mỹ nói rằng số tài liệu này đã bị các thế lực ác ý với Mỹ thu thập bất hợp pháp nhằm can thiệp vào cuộc bầu cử Tổng thống sắp tới và gieo rắc sự hỗn loạn trên mạng xã hội.",
+      "start": 603.84,
+      "end": 617.2,
+      "n_words": 53,
+      "start_frame": 18115,
+      "end_frame": 18516,
+      "keyframes": [
+        "018120.webp",
+        "018183.webp",
+        "018184.webp",
+        "018270.webp",
+        "018356.webp",
+        "018357.webp",
+        "018413.webp",
+        "018470.webp",
+        "018471.webp",
+        "018506.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Ông Trump đã đổ lỗi cho Iran trong khi phía Iran bác bỏ cáo buộc trên.",
+      "start": 617.84,
+      "end": 624.24,
+      "n_words": 16,
+      "start_frame": 18535,
+      "end_frame": 18727,
+      "keyframes": [
+        "018542.webp",
+        "018543.webp",
+        "018579.webp",
+        "018616.webp",
+        "018617.webp",
+        "018661.webp",
+        "018705.webp",
+        "018706.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Hôm qua, hãng Volocopter thực hiện chuyến bay thử nghiệm với taxi bay có tên Volocity trên bầu trời nước Pháp.",
+      "start": 624.24,
+      "end": 630.72,
+      "n_words": 21,
+      "start_frame": 18727,
+      "end_frame": 18922,
+      "keyframes": [
+        "018891.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đây là mẫu taxi bay từng được kỳ vọng đưa vào vận hành tại Thế vận hội năm nay.",
+      "start": 630.72,
+      "end": 636.64,
+      "n_words": 19,
+      "start_frame": 18922,
+      "end_frame": 19099,
+      "keyframes": [
+        "019076.webp",
+        "019077.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Volocity chạy bằng điện có hai chỗ ngồi, một chỗ cho phi công và một cho hành khách.",
+      "start": 636.64,
+      "end": 641.52,
+      "n_words": 18,
+      "start_frame": 19099,
+      "end_frame": 19246,
+      "keyframes": [
+        "019113.webp",
+        "019149.webp",
+        "019150.webp",
+        "019187.webp",
+        "019225.webp",
+        "019226.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Nó đã bay ngang qua cung điện Versailles ở thủ đô Paris trong buổi thử nghiệm mới nhất và đáp xuống một bãi đáp nổi trên sông.",
+      "start": 641.52,
+      "end": 648.4,
+      "n_words": 27,
+      "start_frame": 19246,
+      "end_frame": 19452,
+      "keyframes": [
+        "019256.webp",
+        "019286.webp",
+        "019287.webp",
+        "019337.webp",
+        "019388.webp",
+        "019389.webp",
+        "019414.webp",
+        "019440.webp",
+        "019441.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Trước đó đơn vị sản xuất và đối tác kỳ vọng có thể đưa phương tiện này vào chở khách cho dịp Olympic Paris nhưng lỡ hẹn do chưa được cấp phép động cơ bay.",
+      "start": 648.4,
+      "end": 657.04,
+      "n_words": 35,
+      "start_frame": 19452,
+      "end_frame": 19711,
+      "keyframes": [
+        "019484.webp",
+        "019528.webp",
+        "019529.webp",
+        "019573.webp",
+        "019617.webp",
+        "019618.webp",
+        "019641.webp",
+        "019664.webp",
+        "019665.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Sản phẩm cũng nhận nhiều ý kiến trái chiều khi những người phản đối cho rằng chiếc taxi bay này chỉ phục vụ cho giới siêu giàu và gây ô nhiễm tiếng ồn.",
+      "start": 657.04,
+      "end": 665.24,
+      "n_words": 33,
+      "start_frame": 19711,
+      "end_frame": 19957,
+      "keyframes": [
+        "019722.webp",
+        "019779.webp",
+        "019780.webp",
+        "019864.webp",
+        "019948.webp",
+        "019949.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Dù vậy, các quan chức Paris vẫn hy vọng có thể đưa Volocity cất cánh trên bầu trời Paris vào tháng 12 năm nay, trùng thời điểm Nhà thờ Đức Bà mở cửa trở lại đón công chúng.",
+      "start": 665.24,
+      "end": 676.4,
+      "n_words": 38,
+      "start_frame": 19957,
+      "end_frame": 20292,
+      "keyframes": [
+        "020113.webp",
+        "020278.webp",
+        "020279.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Một cậu bé người Đức dù chỉ mới 2 tuổi nhưng đã gây ấn tượng với năng khiếu vẽ tranh.",
+      "start": 676.4,
+      "end": 681.16,
+      "n_words": 20,
+      "start_frame": 20292,
+      "end_frame": 20435,
+      "keyframes": [
+        "020351.webp",
+        "020424.webp",
+        "020425.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các tác phẩm mang phong cách trừu tượng của cậu thậm chí còn xuất hiện trong các phiên đấu giá.",
+      "start": 681.16,
+      "end": 688.28,
+      "n_words": 20,
+      "start_frame": 20435,
+      "end_frame": 20648,
+      "keyframes": [
+        "020521.webp",
+        "020617.webp",
+        "020618.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cậu sinh sống tại bang Bavaria, bắt đầu vẽ tranh từ mùa thu năm ngoái.",
+      "start": 688.28,
+      "end": 693.16,
+      "n_words": 15,
+      "start_frame": 20648,
+      "end_frame": 20795,
+      "keyframes": [
+        "020676.webp",
+        "020734.webp",
+        "020735.webp",
+        "020768.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cậu bé thường vẽ một bức tranh mỗi tuần bằng sơn acrylic.",
+      "start": 693.16,
+      "end": 696.84,
+      "n_words": 12,
+      "start_frame": 20795,
+      "end_frame": 20905,
+      "keyframes": [
+        "020802.webp",
+        "020803.webp",
+        "020837.webp",
+        "020871.webp",
+        "020872.webp",
+        "020905.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sau khi hoàn thành, cậu thường thảo luận tác phẩm cùng với mẹ của mình.",
+      "start": 696.84,
+      "end": 701.92,
+      "n_words": 15,
+      "start_frame": 20905,
+      "end_frame": 21058,
+      "keyframes": [
+        "020905.webp",
+        "020938.webp",
+        "020939.webp",
+        "020960.webp",
+        "020982.webp",
+        "020983.webp",
+        "021016.webp",
+        "021050.webp",
+        "021051.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Trong một chuyến du lịch tới Italia: \"Con tôi đã không thể rời mắt khỏi phòng tranh của khách sạn dù kế bên có phòng vui chơi, sau đó cứ đòi vẽ.",
+      "start": 701.92,
+      "end": 711.92,
+      "n_words": 32,
+      "start_frame": 21058,
+      "end_frame": 21358,
+      "keyframes": [
+        "021153.webp",
+        "021255.webp",
+        "021256.webp",
+        "021307.webp",
+        "021358.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Tôi chỉ dám khẳng định đó là tài năng.",
+      "start": 711.92,
+      "end": 714.36,
+      "n_words": 9,
+      "start_frame": 21358,
+      "end_frame": 21431,
+      "keyframes": [
+        "021358.webp",
+        "021359.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Với tôi, Loran vẽ chỉ vì muốn tận hưởng niềm vui.\"",
+      "start": 714.36,
+      "end": 718.28,
+      "n_words": 11,
+      "start_frame": 21431,
+      "end_frame": 21548,
+      "keyframes": [
+        "021441.webp",
+        "021524.webp",
+        "021525.webp",
+        "021532.webp",
+        "021540.webp",
+        "021541.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bố mẹ của Loran còn tạo tài khoản trên Instagram và một trang web để giới thiệu các tác phẩm của cậu, thu hút hàng chục ngàn người theo dõi.",
+      "start": 718.28,
+      "end": 726.32,
+      "n_words": 30,
+      "start_frame": 21548,
+      "end_frame": 21790,
+      "keyframes": [
+        "021581.webp",
+        "021622.webp",
+        "021623.webp",
+        "021708.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Những người yêu thích nghệ thuật còn tham gia đấu giá các bức tranh của cậu bé với giá từ 10.000 đến 270.000 euro.",
+      "start": 726.32,
+      "end": 734.12,
+      "n_words": 24,
+      "start_frame": 21790,
+      "end_frame": 22024,
+      "keyframes": [
+        "021793.webp",
+        "021794.webp",
+        "021860.webp",
+        "021926.webp",
+        "021927.webp",
+        "021981.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Các tác phẩm của Loran đã được trưng bày tại hội chợ nghệ thuật lớn nhất thành phố Munich hồi tháng 4 vừa qua.",
+      "start": 734.12,
+      "end": 740.88,
+      "n_words": 24,
+      "start_frame": 22024,
+      "end_frame": 22226,
+      "keyframes": [
+        "022035.webp",
+        "022036.webp",
+        "022089.webp",
+        "022142.webp",
+        "022143.webp",
+        "022190.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Dự kiến Loran sẽ có cuộc triển lãm đầu tay vào tháng 9.",
+      "start": 740.88,
+      "end": 747.48,
+      "n_words": 13,
+      "start_frame": 22226,
+      "end_frame": 22424,
+      "keyframes": [
+        "022238.webp",
+        "022239.webp",
+        "022317.webp",
+        "022395.webp",
+        "022396.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Điểm thu hút khách du lịch mới nhất ở thủ đô Đức là chiếc xích đu cao nhất châu Âu, nằm trên nóc một khách sạn cách mặt đất 120 mét.",
+      "start": 747.48,
+      "end": 755.64,
+      "n_words": 31,
+      "start_frame": 22424,
+      "end_frame": 22669,
+      "keyframes": [
+        "022604.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đây cũng có thể xem là một cách mới lạ để khám phá Berlin.",
+      "start": 755.64,
+      "end": 761.36,
+      "n_words": 14,
+      "start_frame": 22669,
+      "end_frame": 22841,
+      "keyframes": [
+        "022813.webp",
+        "022814.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Sau khi được buộc vào dây đai, khách hàng ưa mạo hiểm sẽ được đẩy về khoảng không phía trước từ trên đỉnh tòa tháp 40 tầng.",
+      "start": 761.36,
+      "end": 768.6,
+      "n_words": 27,
+      "start_frame": 22841,
+      "end_frame": 23058,
+      "keyframes": [
+        "022925.webp",
+        "023037.webp",
+        "023038.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "\"Tôi muốn trải nghiệm điều gì đó đặc biệt trong ngày sinh nhật và tôi muốn thử thứ này, cảm giác hồi hộp một chút.\"",
+      "start": 768.6,
+      "end": 774.08,
+      "n_words": 25,
+      "start_frame": 23058,
+      "end_frame": 23222,
+      "keyframes": [
+        "023121.webp",
+        "023205.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thú tiêu khiển mới mang đến sự cạnh tranh cho tháp truyền hình cao 368 mét nằm kế cận, vốn là một biểu tượng nổi tiếng của Đông Đức với tầm nhìn bao quát khắp Berlin.",
+      "start": 774.08,
+      "end": 783.6,
+      "n_words": 36,
+      "start_frame": 23222,
+      "end_frame": 23508,
+      "keyframes": [
+        "023249.webp",
+        "023295.webp",
+        "023341.webp",
+        "023342.webp",
+        "023378.webp",
+        "023415.webp",
+        "023416.webp",
+        "023457.webp",
+        "023498.webp",
+        "023499.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "\"Chắc chắn là lúc đầu có chút e sợ rồi sau đó là ngắm nhìn toàn bộ thành phố ở độ cao 120 mét thật tuyệt vời.\"",
+      "start": 783.6,
+      "end": 790.24,
+      "n_words": 27,
+      "start_frame": 23508,
+      "end_frame": 23707,
+      "keyframes": [
+        "023594.webp",
+        "023690.webp",
+        "023691.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đơn vị vận hành xích đu từng cung cấp dịch vụ nhảy bungee từ đỉnh tòa nhà nhưng chỉ thu hút được sự quan tâm hạn chế, do đó họ đã quyết định thử làm gì đó dễ tiếp cận và rộng mở cho mọi người hơn.",
+      "start": 790.24,
+      "end": 801.68,
+      "n_words": 47,
+      "start_frame": 23707,
+      "end_frame": 24050,
+      "keyframes": [
+        "023723.webp",
+        "023755.webp",
+        "023756.webp",
+        "023788.webp",
+        "023820.webp",
+        "023821.webp",
+        "023855.webp",
+        "023889.webp",
+        "023890.webp",
+        "023930.webp",
+        "023971.webp",
+        "023972.webp",
+        "024009.webp",
+        "024046.webp",
+        "024047.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Đến nay, xích đu được quảng cáo là cao nhất ở châu Âu này đã thu hút hơn 100 du khách mỗi ngày kể từ khi mở cửa vào tháng 6.",
+      "start": 801.68,
+      "end": 808.32,
+      "n_words": 31,
+      "start_frame": 24050,
+      "end_frame": 24250,
+      "keyframes": [
+        "024073.webp",
+        "024100.webp",
+        "024101.webp",
+        "024136.webp",
+        "024172.webp",
+        "024173.webp",
+        "024214.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Mỗi vé chơi 5 phút với giá 20 euro.",
+      "start": 808.32,
+      "end": 812.72,
+      "n_words": 9,
+      "start_frame": 24250,
+      "end_frame": 24382,
+      "keyframes": [
+        "024256.webp",
+        "024257.webp",
+        "024279.webp",
+        "024302.webp",
+        "024303.webp",
+        "024333.webp",
+        "024363.webp",
+        "024364.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Những ngày qua, thác nước lớn nhất trên sông Hoàng Hà của Trung Quốc đã thu hút nhiều du khách đến chiêm ngưỡng vẻ đẹp thiên nhiên.",
+      "start": 812.72,
+      "end": 820.08,
+      "n_words": 27,
+      "start_frame": 24382,
+      "end_frame": 24602,
+      "keyframes": [
+        "024437.webp",
+        "024511.webp",
+        "024512.webp",
+        "024566.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Thác Hổ Khẩu chạy dài hàng trăm mét, trong những ngày gần đây lưu lượng dòng chảy tại đây đã tăng lên mức 1.500 mét khối mỗi giây.",
+      "start": 820.08,
+      "end": 827.84,
+      "n_words": 28,
+      "start_frame": 24602,
+      "end_frame": 24835,
+      "keyframes": [
+        "024620.webp",
+        "024621.webp",
+        "024681.webp",
+        "024741.webp",
+        "024742.webp",
+        "024804.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Nguyên nhân do mưa ở thượng nguồn và trung lưu trên sông Hoàng Hà, con sông dài thứ hai ở Trung Quốc sau sông Dương Tử.",
+      "start": 827.84,
+      "end": 833.96,
+      "n_words": 26,
+      "start_frame": 24835,
+      "end_frame": 25019,
+      "keyframes": [
+        "024866.webp",
+        "024867.webp",
+        "024937.webp",
+        "025008.webp",
+        "025009.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ngoài ra, mùa lũ ở Trung Quốc đạt đỉnh và việc điều chỉnh lượng nước tại các hồ chứa cũng làm gia tăng lưu lượng tại thác Hổ Khẩu nằm ở ranh giới giữa tỉnh Sơn Tây và tỉnh Thiểm Tây của Trung Quốc.",
+      "start": 833.96,
+      "end": 844.72,
+      "n_words": 44,
+      "start_frame": 25019,
+      "end_frame": 25342,
+      "keyframes": [
+        "025063.webp",
+        "025117.webp",
+        "025118.webp",
+        "025205.webp",
+        "025292.webp",
+        "025293.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thác Hổ Khẩu gây ấn tượng với vẻ đẹp hùng vĩ và sông chảy mạnh với âm thanh phát xa được ví như tiếng sấm.",
+      "start": 844.72,
+      "end": 851.72,
+      "n_words": 25,
+      "start_frame": 25342,
+      "end_frame": 25552,
+      "keyframes": [
+        "025353.webp",
+        "025414.webp",
+        "025415.webp",
+        "025494.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Rạng sáng nay, phía Nga và Ukraine đổ lỗi cho nhau gây ra hỏa hoạn tại khu vực nhà máy điện hạt nhân Zaporizhzhia hiện do Moskva kiểm soát.",
+      "start": 851.72,
+      "end": 860.88,
+      "n_words": 29,
+      "start_frame": 25552,
+      "end_frame": 25826,
+      "keyframes": [
+        "025573.webp",
+        "025574.webp",
+        "025799.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Phía Kyiv kêu gọi người dân bình tĩnh và cho biết hiện chưa có dấu hiệu nào cho thấy mức độ bức xạ tăng cao.",
+      "start": 860.88,
+      "end": 868.44,
+      "n_words": 25,
+      "start_frame": 25826,
+      "end_frame": 26053,
+      "keyframes": [
+        "026025.webp",
+        "026026.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tổng thống Ukraine Volodymyr Zelensky cáo buộc Nga gây ra vụ hỏa hoạn, đồng thời công bố đoạn video cho thấy khói đen bốc lên từ một tháp làm mát của nhà máy.",
+      "start": 868.44,
+      "end": 879.32,
+      "n_words": 33,
+      "start_frame": 26053,
+      "end_frame": 26380,
+      "keyframes": [
+        "026305.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trong khi đó, một quan chức Nga cho biết Ukraine chịu trách nhiệm cho vụ cháy khi các lực lượng nước này tấn công thành phố Energodar gần đó.",
+      "start": 879.32,
+      "end": 887.72,
+      "n_words": 29,
+      "start_frame": 26380,
+      "end_frame": 26632,
+      "keyframes": [
+        "026584.webp",
+        "026585.webp",
+        "026616.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thành phố này đã bị quân Nga kiểm soát không lâu sau khi cuộc xung đột bắt đầu năm 2022.",
+      "start": 887.72,
+      "end": 892.6,
+      "n_words": 20,
+      "start_frame": 26632,
+      "end_frame": 26778,
+      "keyframes": [
+        "026648.webp",
+        "026649.webp",
+        "026679.webp",
+        "026710.webp",
+        "026711.webp",
+        "026759.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Các chuyên gia của Cơ quan Năng lượng Nguyên tử Quốc tế (IAEA) đã nhìn thấy khói đen bốc mạnh từ nhà máy điện hạt nhân Zaporizhzhia sau nhiều tiếng nổ.",
+      "start": 893.88,
+      "end": 902.48,
+      "n_words": 31,
+      "start_frame": 26816,
+      "end_frame": 27074,
+      "keyframes": [
+        "026894.webp",
+        "026979.webp",
+        "026980.webp",
+        "027059.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cơ quan này hiện chưa có báo cáo về an toàn hạt nhân tại địa điểm này.",
+      "start": 902.48,
+      "end": 906.84,
+      "n_words": 17,
+      "start_frame": 27074,
+      "end_frame": 27205,
+      "keyframes": [
+        "027138.webp",
+        "027139.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Theo ban quản lý nhà máy do Nga kiểm soát, đám cháy hiện đã được khống chế. Những thông tin vừa rồi cũng đã kết thúc chương trình 60 giây sáng nay của chúng tôi.",
+      "start": 906.84,
+      "end": 916.64,
+      "n_words": 35,
+      "start_frame": 27205,
+      "end_frame": 27499,
+      "keyframes": [
+        "027209.webp",
+        "027279.webp",
+        "027280.webp",
+        "027324.webp",
+        "027369.webp",
+        "027370.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hẹn gặp lại quý vị trong chương trình 60 giây chiều nay vào lúc 18:30 trên cả hai kênh HTV9 và HTV7. Chúc quý vị tuần mới với nhiều thuận lợi, bình an và may mắn. Còn bây giờ xin kính chào tạm biệt.",
+      "start": 916.64,
+      "end": 927.32,
+      "n_words": 44,
+      "start_frame": 27499,
+      "end_frame": 27820,
+      "keyframes": [
+        "027619.webp"
+      ],
+      "keyframe_count": 1
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+1
+00:00:00,040 --> 00:00:09,560
+Chào mừng các em đến với chương trình tổng tập chuẩn bị cho kỳ thi trung học phổ thông năm 2024 do báo Thanh Niên tổ chức.
+
+2
+00:00:09,560 --> 00:00:14,400
+Hôm nay thầy sẽ hướng dẫn một chuyên đề thứ năm, đó là bài tập phả hệ.
+
+3
+00:00:14,400 --> 00:00:20,360
+Đây là một dạng bài tập thường xuyên gặp trong đề thi trung học phổ thông các năm qua.
+
+4
+00:00:20,360 --> 00:00:28,320
+Phả hệ đó là một sơ đồ theo dõi sự di truyền của một bệnh nào đó của những người có quan hệ huyết thống trong một gia đình.
+
+5
+00:00:28,320 --> 00:00:41,760
+Và để làm dạng bài tập phả hệ này, chúng ta cần phải xác định hai thông tin: thứ nhất đó là gen gây bệnh là trội hay là lặn, và thứ hai là gen này sẽ nằm trên nhiễm sắc thể thường hay là nhiễm sắc thể giới tính.
+
+6
+00:00:41,760 --> 00:00:57,760
+Đầu tiên, để xác định quan hệ trội lặn, các em nhớ rằng là nếu như bố mẹ có cùng kiểu hình mà con có kiểu hình khác, thì kiểu hình khác đó sẽ do gen lặn quy định, còn kiểu hình của bố mẹ sẽ là kiểu hình trội.
+
+7
+00:00:57,760 --> 00:01:16,200
+Vì vậy, nếu như mà bố mẹ đều mắc bệnh, con có người bình thường thì bệnh sẽ là do gen lặn quy định; Và ngược lại, nếu như bố mẹ cùng bình thường mà con có người bệnh thì bệnh sẽ do gen lặn quy định.
+
+8
+00:01:16,200 --> 00:01:21,080
+Thứ hai là xác định gen nằm trên nhiễm sắc thể nào.
+
+9
+00:01:21,080 --> 00:01:34,240
+Nếu như bệnh do gen lặn nằm trên vùng không tương đồng của nhiễm sắc thể X quy định thì lúc đó các em thấy rằng mẹ bị bệnh thì con trai sẽ bị bệnh, còn con gái bị bệnh thì bố chắc chắn sẽ bị bệnh.
+
+10
+00:01:34,240 --> 00:01:44,480
+Bởi vì lúc đó con gái bệnh, kiểu gen sẽ là $X^aX^a$ và một $X^a$ là từ bố cho nên bố sẽ là $X^aY$, cho nên bố chắc chắn sẽ bị bệnh.
+
+11
+00:01:44,480 --> 00:02:03,760
+Còn ngược lại, nếu bệnh do gen trội trên vùng không tương đồng của nhiễm sắc thể X quy định thì lúc đó bố bị bệnh, kiểu gen của bố sẽ là $X^AY$, bố sẽ truyền nhiễm sắc thể X cho con gái và truyền nhiễm sắc thể Y cho con trai, cho nên bố bị bệnh thì con gái chắc chắn sẽ bị bệnh.
+
+12
+00:02:03,760 --> 00:02:18,400
+Và nếu như con trai bị bệnh thì một nhiễm sắc thể X của con trai là do mẹ truyền và nhiễm sắc thể Y là do bố truyền lại, cho nên con trai bị bệnh thì mẹ sẽ bị bệnh.
+
+13
+00:02:18,400 --> 00:02:36,320
+Và nếu như có trường hợp ở trên bị sai thì chúng ta sẽ kết luận là gen nằm trên nhiễm sắc thể thường; Còn nếu như các trường hợp trên đều đúng thì gen sẽ nằm trên vùng không tương đồng của nhiễm sắc thể X hoặc là nằm trên nhiễm sắc thể thường cũng được.
+
+14
+00:02:36,320 --> 00:02:47,280
+Trường Đại học Quốc tế Sài Gòn SIU không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SIU nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt.
+
+15
+00:02:47,280 --> 00:02:58,040
+SIU mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới, trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.
+
+16
+00:02:58,040 --> 00:03:06,640
+Năm 2024, SIU tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng bốn phương thức tuyển sinh.
+
+17
+00:03:06,640 --> 00:03:33,160
+SIU cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SIU, 100 suất học bổng Tiếp bước hành trình Quỹ Tài năng trẻ, học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa thể thao nghệ thuật, học bổng Đồng hành xây dựng nhân lực chất lượng cao cho thành phố Thủ Đức, thành phố Hồ Chí Minh, học bổng doanh nghiệp tài trợ, học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.
+
+18
+00:03:33,160 --> 00:03:36,680
+SIU - Tâm hồn Việt Nam, giáo dục thế giới.
+
+19
+00:03:36,680 --> 00:03:43,520
+Bây giờ thầy sẽ sửa một số câu trong đề thi các năm qua.
+
+20
+00:03:43,520 --> 00:03:48,600
+Đề cho một phả hệ theo dõi sự di truyền của hai bệnh A và B.
+
+21
+00:03:48,600 --> 00:04:00,880
+Ký hiệu tô đen này là bị bệnh B, còn gạch ở phía bên trong là bệnh A; Và mỗi bệnh do một trong hai alen của một gen quy định.
+
+22
+00:04:00,880 --> 00:04:12,080
+Người số 10 mang alen gây bệnh A, người số 8 mang alen gây bệnh B và hai gen phân ly độc lập.
+
+23
+00:04:12,080 --> 00:04:21,560
+Bây giờ chúng ta cùng xác định gen gây bệnh là trội hay là lặn, nằm trên nhiễm sắc thể nào và kiểu gen của những người trong phả hệ này.
+
+24
+00:04:21,560 --> 00:04:40,280
+Các em thấy ở người số 5 và người số 6, người số 5 và người số 6 đều không mắc bệnh B, đều là bình thường không mắc bệnh B, nhưng mà con người số 11 bị bệnh B, cho nên bệnh B là do gen lặn quy định.
+
+25
+00:04:40,280 --> 00:04:46,160
+Ta quy ước b nhỏ quy định bệnh B, còn B lớn là bình thường không mắc bệnh B.
+
+26
+00:04:46,160 --> 00:05:01,120
+Bệnh do gen lặn thì nếu như con gái bị bệnh thì bố phải bị bệnh, nhưng mà ở đây bố lại bình thường, cho nên gen này sẽ nằm trên nhiễm sắc thể thường.
+
+27
+00:05:01,120 --> 00:05:06,560
+Bây giờ thầy xét tới bệnh A.
+
+28
+00:05:06,560 --> 00:05:10,920
+Thấy người số 9 và người số 10 bị bệnh A.
+
+29
+00:05:10,920 --> 00:05:16,480
+Người số 9 thì bị bệnh B nhưng mà không bị bệnh A.
+
+30
+00:05:16,480 --> 00:05:25,240
+Người số 10 bị bệnh A nhưng mà sinh ra người số 16 lại bị bệnh A, cho nên bệnh A cũng do gen lặn quy định.
+
+31
+00:05:25,240 --> 00:05:31,600
+Ta quy ước a nhỏ là bị bệnh A, còn A lớn là bình thường không mắc bệnh A.
+
+32
+00:05:31,600 --> 00:05:36,200
+Và đề cho mình là người số 10 mang alen gây bệnh A.
+
+33
+00:05:36,200 --> 00:05:55,840
+Nếu như mà gen gây bệnh A nằm trên nhiễm sắc thể thường thì lúc đó người số 16 sẽ có kiểu gen là $aa$, một $a$ sẽ từ bố và một $a$ là từ mẹ, thì lúc đó bố tức là người số 10 này sẽ có kiểu gen là $Aa$, tức là sẽ mang alen gây bệnh A.
+
+34
+00:05:55,840 --> 00:06:06,080
+Nhưng mà đề cho mình là người số 10 mang alen gây bệnh A thì từ đó mình suy ra là gen nằm trên vùng không tương đồng của nhiễm sắc thể X.
+
+35
+00:06:06,080 --> 00:06:12,480
+Như vậy bây giờ chúng ta đã xác định được gen gây bệnh là trội hay là lặn và nằm trên nhiễm sắc thể nào.
+
+36
+00:06:12,480 --> 00:06:18,120
+Bây giờ chúng ta cùng xác định kiểu gen của những người trong phả hệ này.
+
+37
+00:06:18,120 --> 00:06:25,840
+Người số 11 bị bệnh B, kiểu gen sẽ là $bb$, cho nên người số 5 và người số 6 sẽ là dị hợp $Bb$.
+
+38
+00:06:25,840 --> 00:06:32,920
+Và người số 1 và người số 2 mình không xác định được, mình chỉ biết là không bị bệnh B, cho nên kiểu gen sẽ là $B\_$.
+
+39
+00:06:34,240 --> 00:06:40,160
+Người số 12 cũng như vậy, tương tự như trên màn hình.
+
+40
+00:06:40,160 --> 00:06:58,080
+Em thấy theo đề người số 8 mang alen gây bệnh B, cho nên người số 8 sẽ có kiểu gen là $Bb$.
+
+41
+00:06:59,280 --> 00:07:10,240
+Người số 7 thì mình không xác định được, cho nên người số 13 và người số 14 mình đều không xác định được kiểu gen chính xác về bệnh B.
+
+42
+00:07:10,240 --> 00:07:18,960
+Tương tự ở bệnh A, người số 1 mắc bệnh A và là nam, cho nên người này sẽ có kiểu gen là $X^aY$.
+
+43
+00:07:20,960 --> 00:07:24,520
+Người số 5 là bình thường không mắc bệnh A, cho nên sẽ là $X^AY$.
+
+44
+00:07:25,440 --> 00:07:37,040
+Người số 2 này mình biết chắc là không bị bệnh A thì mình biết chắc là có alen là $X^A$, còn nhiễm sắc thể X còn lại thì mình không xác định được.
+
+45
+00:07:37,040 --> 00:07:44,160
+Tương tự cho những người còn lại, người số 12 là bình thường, cho nên kiểu gen sẽ là $X^AY$.
+
+46
+00:07:46,800 --> 00:07:57,800
+Những người nam bình thường trong gia đình còn lại thì sẽ có kiểu gen là $X^AY$, còn người nam bị bệnh tức là người số 16 này sẽ có kiểu gen là $X^aY$.
+
+47
+00:08:01,720 --> 00:08:22,400
+Ở người số 9, bởi vì con trai của người số 9 là $X^aY$, con trai sẽ nhận nhiễm sắc thể $X^a$ này từ mẹ, cho nên người mẹ số 9 này sẽ có $X^a$, nhưng người mẹ số 9 này không mắc bệnh A, vì vậy kiểu gen của người mẹ số 9 sẽ là $X^AX^a$.
+
+48
+00:08:27,760 --> 00:09:00,880
+Cũng tương tự, người phụ nữ số 9 này mang $X^a$ thì $X^a$ này là do từ mẹ của mình tức là người phụ nữ số 4, vì bố của người phụ nữ số 9 là bình thường, cho nên sẽ có kiểu gen là $X^AY$, cho nên chiếc $X^a$ nhỏ này sẽ được di truyền từ mẹ số 4, cho nên mẹ số 4 sẽ là $X^AX^a$, và những người còn lại thì sẽ không xác định được chính xác kiểu gen quy định bệnh A.
+
+49
+00:09:00,880 --> 00:09:09,800
+Thì như trên màn hình mấy em thấy, như vậy chúng ta đã xác định được kiểu gen của những người trong phả hệ này.
+
+50
+00:09:09,800 --> 00:09:12,360
+Bây giờ chúng ta cùng phân tích đáp án.
+
+51
+00:09:12,360 --> 00:09:18,440
+Thứ nhất, xác định được tối đa kiểu gen của tám người trong phả hệ.
+
+52
+00:09:18,440 --> 00:09:26,800
+Thấy là chúng ta xác định được kiểu gen chính xác của bảy người trong phả hệ này mà thôi, cho nên phát biểu này là chưa đúng.
+
+53
+00:09:26,800 --> 00:09:34,680
+Phát biểu số hai và số ba đòi yêu cầu mình tính xác suất sinh con của cặp vợ chồng 12-13.
+
+54
+00:09:36,560 --> 00:09:52,120
+Để tính được xác suất sinh con của cặp vợ chồng 12-13 có bệnh sinh con bệnh hay là không thì chúng ta cần phải xác định được khả năng mang gen của người số 12 và người số 13 ở cả hai gen này.
+
+55
+00:09:52,120 --> 00:09:55,320
+Đầu tiên hãy xác định khả năng mang gen B trước.
+
+56
+00:09:55,320 --> 00:10:06,600
+Bởi vì người số 5 và người số 6 là bình thường, có kiểu gen dị hợp $Bb$, cho nên đời con sẽ có khả năng mang gen là 1/4 $BB$, 2/4 $Bb$ và 1/4 $bb$.
+
+57
+00:10:07,560 --> 00:10:27,080
+Tuy nhiên người số 12 đã sinh ra và chúng ta đã biết chắc là không mắc bệnh B, vì vậy sẽ không thể nào mang kiểu gen $bb$ này được, cho nên người số 12 chỉ có thể mang kiểu gen $BB$ hoặc là $Bb$, và lúc đó xác suất sẽ là 1/3 $BB$ hoặc là 2/3 $Bb$.
+
+58
+00:10:30,240 --> 00:10:40,800
+Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.
+
+59
+00:10:40,800 --> 00:10:48,400
+Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện, cân bằng giữa học thuật và nghệ thuật thể thao.
+
+60
+00:10:48,400 --> 00:10:59,080
+Hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, khơi nguồn cảm hứng, độc lập để phát triển và hoàn thiện nhân cách.
+
+61
+00:10:59,080 --> 00:11:19,120
+Ngoài những giờ học trên lớp, học sinh Trường Quốc tế Á Châu còn được trải nghiệm, thử thách bản thân và phản biện các vấn đề để tự mình học hỏi, trưởng thành, độc lập hơn.
+
+62
+00:11:19,120 --> 00:11:34,720
+Nơi đây với tôi còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.
+
+63
+00:11:34,720 --> 00:11:39,880
+Giáo dục không phải là chuẩn bị cho cuộc sống, giáo dục chính là cuộc sống.
+
+64
+00:11:39,880 --> 00:11:56,920
+Từ môi trường giáo dục này, chúng tôi đã tự tin bước tiếp và viết nên câu chuyện tương lai của chính mình.
+
+65
+00:12:00,160 --> 00:12:07,240
+Do mẹ của người số 13 mình không xác định được chính xác kiểu gen, cho nên chúng ta phải dựa vào người số 3 và người số 4.
+
+66
+00:12:07,240 --> 00:12:11,560
+Cũng tương tự, người số 3 và người số 4 đều có kiểu gen dị hợp $Bb$.
+
+67
+00:12:12,320 --> 00:12:23,480
+Người số 7 đã sinh ra và biết chắc là bình thường, cho nên không thể nào có kiểu gen $bb$, vì vậy người số 7 khả năng mang gen sẽ là 1/3 $BB$ và 2/3 $Bb$.
+
+68
+00:12:27,360 --> 00:12:48,160
+Lúc đó khả năng người số 3 này tạo ra giao tử thì sẽ là $B$ lớn, $B$ nhỏ cho mình giao tử $b$ nhỏ là 1/2, chúng ta nhân với hệ số 2/3 vào thì khả năng sinh ra giao tử $b$ nhỏ sẽ là 1/3 $b$ nhỏ, cho nên khả năng mang giao tử $B$ lớn sẽ là 2/3.
+
+69
+00:12:49,280 --> 00:12:55,600
+Còn người chồng $Bb$ lúc đó sẽ sinh ra giao tử là 1/2 $B$ và 1/2 $b$.
+
+70
+00:12:58,960 --> 00:13:04,360
+Các giao tử kết hợp ngẫu nhiên lại với nhau thì sẽ tạo ra được người số 13.
+
+71
+00:13:04,760 --> 00:13:18,280
+Tuy nhiên người số 13 đã sinh ra và mình cũng đã biết chắc là bình thường, cho nên sẽ không thể nào mang kiểu gen $bb$, vì vậy chúng ta chỉ cần tính kiểu gen $BB$ và $Bb$ mà thôi.
+
+72
+00:13:18,280 --> 00:13:24,640
+Lúc đó khả năng mang gen của người số 13 sẽ là 2/5 $BB$ và 3/5 $Bb$.
+
+73
+00:13:31,200 --> 00:13:47,680
+Bây giờ chúng ta cũng tính giao tử của người số 12 ra: $B$ lớn, $B$ nhỏ cho mình giao tử $b$ nhỏ là 1/2, nhân với hệ số 2/3 vào, cho nên khả năng mang giao tử $b$ nhỏ sẽ là 1/3 và $B$ lớn sẽ là 2/3.
+
+74
+00:13:49,160 --> 00:14:02,960
+Lập luận tương tự ở người phụ nữ số 13, tỷ lệ giao tử $b$ nhỏ sẽ là 1/2 nhân với hệ số 3/5 thì sẽ được là 3/10, vì vậy tỷ lệ giao tử $B$ lớn sẽ là 7/10.
+
+75
+00:14:03,680 --> 00:14:16,320
+Và nhân phân phối lại, chúng ta sẽ được khả năng mang các loại kiểu gen ở đời con của cặp vợ chồng 12 và 13 về bệnh B.
+
+76
+00:14:16,320 --> 00:14:21,160
+Bây giờ thầy xác định về bệnh A.
+
+77
+00:14:21,160 --> 00:14:26,800
+Người chồng số 12 mình đã biết là không bị bệnh A, cho nên kiểu gen sẽ là $X^AY$.
+
+78
+00:14:27,880 --> 00:14:40,240
+Người phụ nữ số 13 mình chưa xác định được, nhưng mà mẹ số 7 của mẹ số 7 cũng không xác định được luôn, cho nên chúng ta phải dựa vào người số 3 và người số 4.
+
+79
+00:14:40,240 --> 00:14:46,800
+Người số 3 có kiểu gen là $X^AX^a$ thì khả năng sinh ra giao tử là 1/2 $X^A$ và 1/2 $X^a$.
+
+80
+00:14:47,880 --> 00:14:59,760
+Người số 7 mình đã biết chắc là nữ, cho nên chắc chắn sẽ nhận giao tử $X^A$ từ bố, tức là 100% sẽ nhận giao tử $X^A$ từ bố.
+
+81
+00:14:59,760 --> 00:15:13,560
+Còn người mẹ $X^AX^a$ cho ra giao tử là 1/2 $X^A$ và 1/2 $X^a$, cho nên người phụ nữ số 7 này khả năng mang gen sẽ là 1/2 $X^AX^A$ hoặc là 1/2 $X^AX^a$.
+
+82
+00:15:16,640 --> 00:15:20,680
+Người đàn ông số 8 này là bình thường, cho nên kiểu gen sẽ là $X^AY$.
+
+83
+00:15:20,680 --> 00:15:39,960
+Khi viết giao tử ra thì $X^AX^a$ cho mình giao tử $X^a$ là 1/2, nhân với hệ số 1/2 vào thì khả năng mang giao tử $X^a$ sẽ là 1/4, mà lấy 1 trừ đi 1/4 thì khả năng mang giao tử $X^A$ sẽ là 3/4.
+
+84
+00:15:42,080 --> 00:15:48,600
+Còn người số 8 này sinh ra giao tử là 1/2 $X^A$ và 1/2 $Y$.
+
+85
+00:15:49,360 --> 00:16:14,240
+Cũng tương tự như trên, người số 13 này đã sinh ra và mình biết chắc giới tính là nữ, tức là chắc chắn sẽ nhận giao tử $X^A$ của bố mình, vì vậy chắc chắn 100% sẽ nhận giao tử $X^A$ này và nhân với giao tử X của mẹ thì sẽ ra được khả năng mang gen của người số 13 là như thế này.
+
+86
+00:16:14,240 --> 00:16:27,560
+Và lại viết giao tử thêm một lần nữa theo nguyên tắc giống như là ở các thế hệ trước và nhân phân phối vào hệ sẽ được khả năng mang gen A ở đời con.
+
+87
+00:16:27,560 --> 00:16:34,720
+Sau khi xác định được khả năng mang gen A và mang gen B ở đời con thì chúng ta có thể phân tích tiếp các phát biểu.
+
+88
+00:16:34,720 --> 00:16:39,920
+Phát biểu thứ hai: xác suất sinh con trai đầu lòng không bị bệnh A.
+
+89
+00:16:39,920 --> 00:17:03,000
+Mấy anh thấy xác suất sinh con trai không bị bệnh A, tức là kiểu gen $X^AY$, xác suất là 7/16; Và không bị bệnh B của cặp vợ chồng 12-13 không bị bệnh B tức là sẽ có kiểu gen $BB$ hoặc là $Bb$, hệ đó xác suất sẽ là 14 + 13 là 27/30.
+
+90
+00:17:05,320 --> 00:17:22,480
+Và nhân lại là 7/16 $X^AY$, 27/30 là không bị bệnh B, nhân lại sẽ được là 63/160, cho nên phát biểu số hai này là đúng.
+
+91
+00:17:22,480 --> 00:17:31,280
+Phát biểu thứ ba: xác suất sinh con gái đầu lòng không mang alen gây bệnh A.
+
+92
+00:17:31,280 --> 00:17:50,160
+Con gái không mang alen gây bệnh A, tức là sẽ có kiểu gen $X^AX^A$, mình thấy tỷ lệ là 7/16; Và không mang alen gây bệnh B, tức là kiểu gen là $BB$, khả năng là 14/30.
+
+93
+00:17:51,920 --> 00:18:03,520
+Cho nên nhân lại là 7/16 nhân cho 14/30 thì sẽ được 49/240, cho nên phát biểu thứ ba này là đúng.
+
+94
+00:18:03,520 --> 00:18:10,760
+Phát biểu thứ tư: người số 4, số 6, 7, 13 và 14 chắc chắn có kiểu gen giống nhau.
+
+95
+00:18:11,120 --> 00:18:35,640
+Nhìn trên phả hệ, người số 4 thì chúng ta biết chắc có kiểu gen là $X^AX^aBb$, còn người số 6, người số 7, người số 13 và người số 14 kiểu gen là không xác định, vì vậy năm người này không chắc chắn sẽ có kiểu gen giống nhau được, cho nên phát biểu thứ tư này là chưa chính xác.
+
+96
+00:18:35,640 --> 00:18:44,480
+Như vậy anh thấy qua phân tích phả hệ, chỉ có phát biểu thứ hai và phát biểu thứ ba là đúng, cho nên đáp án sẽ là câu C.
+
+97
+00:18:44,480 --> 00:18:47,720
+Bây giờ thầy lấy một ví dụ thứ hai trong đề thi năm 2023.
+
+98
+00:18:49,440 --> 00:18:58,560
+Cho phả hệ như hình bên, đề cho mình biết là không xảy ra đột biến, hỏi có phát biểu nào dưới đây là đúng.
+
+99
+00:18:58,560 --> 00:19:02,200
+Bây giờ chúng ta cùng phân tích phả hệ.
+
+100
+00:19:02,200 --> 00:19:13,400
+Mấy anh thấy ở thế hệ thứ nhất, cặp bố mẹ này là bình thường nhưng mà sinh con bị bệnh, cho nên bệnh có thể là do gen lặn quy định.
+
+101
+00:19:13,400 --> 00:19:22,240
+Và nếu như bệnh do gen lặn quy định, cho nên chúng ta sẽ loại được đáp án B này.
+
+102
+00:19:22,240 --> 00:19:40,240
+Nhưng nếu như bệnh do gen lặn quy định thì lúc đó anh thấy là con gái bị bệnh nhưng bố lại bình thường; Nếu bệnh do gen lặn trên vùng không tương đồng của nhiễm sắc thể X thì con gái bị bệnh sẽ là $X^aX^a$ thì bố sẽ bị bệnh.
+
+103
+00:19:40,240 --> 00:19:45,040
+Vì vậy nếu bệnh do gen lặn thì gen đó sẽ nằm trên nhiễm sắc thể thường.
+
+104
+00:19:45,040 --> 00:20:02,560
+Nhưng nếu như bệnh do gen lặn nằm trên nhiễm sắc thể thường thì ở thế hệ thứ ba này, cặp bố mẹ đều bị bệnh thì tất cả con cũng đều phải bị bệnh, nhưng ở đây tất cả con đều bình thường, cho nên thấy câu C mình cũng sẽ loại được luôn.
+
+105
+00:20:02,560 --> 00:20:19,960
+Và nếu như bệnh do gen nằm trong tế bào chất quy định thì sẽ di truyền theo dòng mẹ, tức là mẹ bị bệnh thì tất cả con cũng sẽ đều bị bệnh; Và ở thế hệ thứ ba này, mấy anh thấy mẹ bị bệnh nhưng mà con đều bình thường, cho nên phát biểu thứ ba mình cũng sẽ loại, xin lỗi, phát biểu D mình cũng sẽ loại.
+
+106
+00:20:19,960 --> 00:20:31,200
+Vì vậy trong câu này chỉ có khả năng là phát biểu A, tức là bệnh do hai gen không alen nằm trên nhiễm sắc thể thường tương tác theo kiểu bổ sung.
+
+107
+00:20:31,200 --> 00:20:35,800
+Đây là một số lưu ý về dạng bài tập phả hệ.
+
+108
+00:20:35,800 --> 00:20:51,480
+Các em chỉ cần bài tập phả hệ mà em cần xác định hai thông tin đầu tiên là gen gây bệnh là trội hay là lặn và nằm trên nhiễm sắc thể nào, sau đó mang phân tích phả hệ để làm các yêu cầu của đề bài.
+
+109
+00:20:51,480 --> 00:20:59,040
+Cảm ơn các em đã dành thời gian theo dõi, chúc các em luôn nhiều sức khỏe, ôn tập thật tốt và đạt kết quả cao trong kỳ thi sắp tới.
+
+110
+00:20:59,040 --> 00:21:02,840
+Chào các em.
+
+111
+00:21:02,840 --> 00:21:15,800
+Để có được thành công như hôm nay, tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình bắt đầu từ trường Đại học Quốc tế Sài Gòn SIU.
+
+112
+00:21:15,800 --> 00:21:22,360
+Đào tạo đa dạng, đa lĩnh vực, SIU mở ra cho chúng tôi nhiều cơ hội lựa chọn nghề nghiệp trong tương lai.
+
+113
+00:21:22,360 --> 00:21:26,360
+Tất cả sinh viên đều có cơ hội để thể hiện và phát triển năng lực.
+
+114
+00:21:26,360 --> 00:21:29,640
+Những ý tưởng luôn được khuyến khích và phát huy tối đa.
+
+115
+00:21:29,640 --> 00:21:35,760
+Chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin, chúng tôi được học cách học, cách nghĩ và cách sống.
+
+116
+00:21:35,760 --> 00:21:42,840
+Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.
+
+117
+00:21:42,840 --> 00:21:53,400
+Hiện đại, năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc, đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn SIU luôn hướng đến.
+
+118
+00:21:53,400 --> 00:21:57,760
+Đã đến lúc vươn xa hơn những gì đã học.

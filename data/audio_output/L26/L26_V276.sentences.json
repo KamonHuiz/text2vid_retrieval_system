@@ -1,0 +1,817 @@
+{
+  "video_id": "L26_V276",
+  "fps": 25.0,
+  "n_sentences": 44,
+  "total_words": 1059,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.48,
+      "end": 13.56,
+      "n_words": 4,
+      "start_frame": 262,
+      "end_frame": 339,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000313.webp",
+        "000327.webp",
+        "000328.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Trời cơn gió nào mà bữa nay đẩy cái sự siêng năng của mình lên đột xuất vậy Phương?",
+      "start": 13.56,
+      "end": 18.0,
+      "n_words": 19,
+      "start_frame": 339,
+      "end_frame": 450,
+      "keyframes": [
+        "000340.webp",
+        "000352.webp",
+        "000353.webp",
+        "000397.webp",
+        "000442.webp",
+        "000443.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thì cũng không có siêng cho lắm, chỉ có điều là có ông mua thiệt nói đi, tự nhiên đến cái giấc này là bắt đầu đói bụng thèm ăn vặt, cái gì đó ăn kiểu xế luôn, nhưng phải hơi no một chút mới có sức làm gì.",
+      "start": 18.0,
+      "end": 31.8,
+      "n_words": 49,
+      "start_frame": 450,
+      "end_frame": 795,
+      "keyframes": [
+        "000496.webp",
+        "000550.webp",
+        "000551.webp",
+        "000562.webp",
+        "000573.webp",
+        "000574.webp",
+        "000608.webp",
+        "000642.webp",
+        "000643.webp",
+        "000676.webp",
+        "000710.webp",
+        "000711.webp",
+        "000749.webp",
+        "000788.webp",
+        "000789.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Nếu mà cái trí nhớ này không có bị lầm là trong tủ lạnh còn khoai tây nè, thịt heo băm nữa.",
+      "start": 31.8,
+      "end": 36.88,
+      "n_words": 22,
+      "start_frame": 795,
+      "end_frame": 922,
+      "keyframes": [
+        "000842.webp",
+        "000895.webp",
+        "000896.webp",
+        "000909.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Trong khoai tây có nhiều tinh bột rồi protein nữa đúng không?",
+      "start": 36.88,
+      "end": 39.88,
+      "n_words": 12,
+      "start_frame": 922,
+      "end_frame": 997,
+      "keyframes": [
+        "000923.webp",
+        "000924.webp",
+        "000939.webp",
+        "000955.webp",
+        "000956.webp",
+        "000982.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đúng rồi, bếp còn gì?",
+      "start": 39.88,
+      "end": 42.52,
+      "n_words": 5,
+      "start_frame": 997,
+      "end_frame": 1063,
+      "keyframes": [
+        "001008.webp",
+        "001009.webp",
+        "001037.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ là đi vô nấu liền đi cho nó sạch lắm rồi.",
+      "start": 43.36,
+      "end": 47.92,
+      "n_words": 13,
+      "start_frame": 1084,
+      "end_frame": 1198,
+      "keyframes": [
+        "001094.webp",
+        "001095.webp",
+        "001102.webp",
+        "001109.webp",
+        "001110.webp",
+        "001129.webp",
+        "001148.webp",
+        "001149.webp",
+        "001173.webp",
+        "001198.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Vừa ngắm vừa ăn tha hồ thích thú: khoai tây viên chiên xù nhé. Chào các bạn khán giả đến với chương trình Món ngon mỗi ngày.",
+      "start": 47.92,
+      "end": 70.92,
+      "n_words": 27,
+      "start_frame": 1198,
+      "end_frame": 1773,
+      "keyframes": [
+        "001198.webp",
+        "001199.webp",
+        "001254.webp",
+        "001309.webp",
+        "001310.webp",
+        "001382.webp",
+        "001454.webp",
+        "001469.webp",
+        "001497.webp",
+        "001525.webp",
+        "001526.webp",
+        "001616.webp",
+        "001706.webp",
+        "001707.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 70.92,
+      "end": 74.32,
+      "n_words": 11,
+      "start_frame": 1773,
+      "end_frame": 1858,
+      "keyframes": [
+        "001784.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đầu tiên với món này thì chúng ta sẽ mua khoai tây ở ngoài chợ nè Minh Phương về rửa sạch gọt, thì cắt cỡ như vậy là vừa.",
+      "start": 74.32,
+      "end": 82.84,
+      "n_words": 29,
+      "start_frame": 1858,
+      "end_frame": 2071,
+      "keyframes": [
+        "001861.webp",
+        "001862.webp",
+        "001925.webp",
+        "001988.webp",
+        "001989.webp",
+        "002001.webp",
+        "002014.webp",
+        "002015.webp",
+        "002027.webp",
+        "002039.webp",
+        "002040.webp",
+        "002056.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Chúng ta sẽ cho một tí muối vào, cho một ít nước vào, một muỗng canh bột thực phẩm lại bỏ vô lò vi sóng nha hai phút.",
+      "start": 82.84,
+      "end": 90.4,
+      "n_words": 28,
+      "start_frame": 2071,
+      "end_frame": 2260,
+      "keyframes": [
+        "002072.webp",
+        "002073.webp",
+        "002093.webp",
+        "002113.webp",
+        "002114.webp",
+        "002142.webp",
+        "002171.webp",
+        "002172.webp",
+        "002215.webp",
+        "002258.webp",
+        "002259.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Và tiếp theo thì xin sẽ cắt nhỏ cái phần hành tây này; Đối với món này thì chúng ta sẽ băm hơi nhỏ lại một chút xíu nữa.",
+      "start": 90.4,
+      "end": 99.52,
+      "n_words": 29,
+      "start_frame": 2260,
+      "end_frame": 2488,
+      "keyframes": [
+        "002262.webp",
+        "002266.webp",
+        "002267.webp",
+        "002307.webp",
+        "002348.webp",
+        "002349.webp",
+        "002372.webp",
+        "002395.webp",
+        "002396.webp",
+        "002431.webp",
+        "002467.webp",
+        "002468.webp",
+        "002481.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Minh Phương sẽ giúp xin nè, đập trứng gà và đánh tan.",
+      "start": 99.52,
+      "end": 105.88,
+      "n_words": 12,
+      "start_frame": 2488,
+      "end_frame": 2647,
+      "keyframes": [
+        "002494.webp",
+        "002495.webp",
+        "002506.webp",
+        "002517.webp",
+        "002518.webp",
+        "002540.webp",
+        "002562.webp",
+        "002563.webp",
+        "002603.webp",
+        "002643.webp",
+        "002644.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Công đoạn này khó lắm, không phải ai cũng làm được đâu.",
+      "start": 105.88,
+      "end": 110.64,
+      "n_words": 12,
+      "start_frame": 2647,
+      "end_frame": 2766,
+      "keyframes": [
+        "002674.webp",
+        "002704.webp",
+        "002705.webp",
+        "002760.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Xin nghĩ là nó được rồi đó.",
+      "start": 110.64,
+      "end": 113.28,
+      "n_words": 7,
+      "start_frame": 2766,
+      "end_frame": 2832,
+      "keyframes": [
+        "002816.webp",
+        "002817.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cần một cái chảo, một xíu dầu ăn và bây giờ chúng ta sẽ xào thơm cái phần tỏi khi nãy nha, còn hành tây trong lại là được rồi, cho phần thịt băm vào nha.",
+      "start": 113.28,
+      "end": 126.04,
+      "n_words": 36,
+      "start_frame": 2832,
+      "end_frame": 3151,
+      "keyframes": [
+        "002851.webp",
+        "002885.webp",
+        "002886.webp",
+        "002908.webp",
+        "002930.webp",
+        "002931.webp",
+        "002955.webp",
+        "002979.webp",
+        "002980.webp",
+        "003005.webp",
+        "003030.webp",
+        "003031.webp",
+        "003065.webp",
+        "003100.webp",
+        "003101.webp",
+        "003124.webp",
+        "003147.webp",
+        "003148.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Nên chọn cái loại thịt mà hơi xen lẫn một xíu mỡ đúng rồi để cho thịt không bị khô.",
+      "start": 126.04,
+      "end": 130.52,
+      "n_words": 20,
+      "start_frame": 3151,
+      "end_frame": 3263,
+      "keyframes": [
+        "003177.webp",
+        "003207.webp",
+        "003208.webp",
+        "003213.webp",
+        "003219.webp",
+        "003220.webp",
+        "003241.webp",
+        "003263.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta nêm vào đây một muỗng cà phê hạt nêm Ajinomoto ngon heo, nửa muỗng cà phê tiêu xay.",
+      "start": 130.52,
+      "end": 136.08,
+      "n_words": 20,
+      "start_frame": 3263,
+      "end_frame": 3402,
+      "keyframes": [
+        "003263.webp",
+        "003264.webp",
+        "003306.webp",
+        "003349.webp",
+        "003350.webp",
+        "003376.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi thì bây giờ chúng ta sẽ đảo lên, phần thịt đã thơm vừa chín tới thì chúng ta sẽ tắt bếp và trút ra một cái tô khác chờ nguội. Phần khoai tây Minh Phương nghĩ cũng được rồi đó.",
+      "start": 136.08,
+      "end": 144.64,
+      "n_words": 41,
+      "start_frame": 3402,
+      "end_frame": 3616,
+      "keyframes": [
+        "003403.webp",
+        "003404.webp",
+        "003424.webp",
+        "003444.webp",
+        "003445.webp",
+        "003481.webp",
+        "003518.webp",
+        "003519.webp",
+        "003568.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Xin Minh Phương thấy nhanh không?",
+      "start": 144.64,
+      "end": 146.4,
+      "n_words": 6,
+      "start_frame": 3616,
+      "end_frame": 3660,
+      "keyframes": [
+        "003617.webp",
+        "003618.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Vừa chín tới luôn.",
+      "start": 146.4,
+      "end": 147.68,
+      "n_words": 4,
+      "start_frame": 3660,
+      "end_frame": 3692,
+      "keyframes": [
+        "003661.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Oh, và mình sẽ sử dụng một cây nĩa để tán những phần khoai tây trong tô này luôn, cho cái phần thịt băm đã xào khi nãy vào để trộn đều lại nha.",
+      "start": 147.68,
+      "end": 156.0,
+      "n_words": 34,
+      "start_frame": 3692,
+      "end_frame": 3900,
+      "keyframes": [
+        "003704.webp",
+        "003705.webp",
+        "003750.webp",
+        "003795.webp",
+        "003796.webp",
+        "003822.webp",
+        "003848.webp",
+        "003849.webp",
+        "003883.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Khi hỗn hợp đồng nhất và dẻo như vậy nè, chúng ta cần thêm hai muỗng sốt Mayonnaise vô nữa.",
+      "start": 156.0,
+      "end": 160.92,
+      "n_words": 20,
+      "start_frame": 3900,
+      "end_frame": 4023,
+      "keyframes": [
+        "003917.webp",
+        "003918.webp",
+        "003937.webp",
+        "003956.webp",
+        "003957.webp",
+        "003972.webp",
+        "003988.webp",
+        "003989.webp",
+        "004003.webp",
+        "004018.webp",
+        "004019.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Chúng ta thêm sốt Mayonnaise vô vào hỗn hợp khoai tây để món ăn được thơm ngon hơn nha.",
+      "start": 160.92,
+      "end": 165.8,
+      "n_words": 19,
+      "start_frame": 4023,
+      "end_frame": 4145,
+      "keyframes": [
+        "004050.webp",
+        "004082.webp",
+        "004083.webp",
+        "004112.webp",
+        "004142.webp",
+        "004143.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ chúng ta chờ cái hỗn hợp thịt băm và khoai tây được lạnh để chúng ta dễ định hình và vò viên hơn.",
+      "start": 165.8,
+      "end": 171.6,
+      "n_words": 25,
+      "start_frame": 4145,
+      "end_frame": 4290,
+      "keyframes": [
+        "004239.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thì bây giờ xin hướng dẫn cho mọi người pha cái sốt: hai muỗng canh sốt Mayonnaise, một muỗng canh tương cà, quấy đều lên và giữ lạnh thôi sốt sẽ ngon và hấp dẫn hơn.",
+      "start": 171.6,
+      "end": 182.12,
+      "n_words": 36,
+      "start_frame": 4290,
+      "end_frame": 4553,
+      "keyframes": [
+        "004336.webp",
+        "004337.webp",
+        "004352.webp",
+        "004368.webp",
+        "004369.webp",
+        "004396.webp",
+        "004423.webp",
+        "004424.webp",
+        "004453.webp",
+        "004483.webp",
+        "004484.webp",
+        "004497.webp",
+        "004510.webp",
+        "004511.webp",
+        "004531.webp",
+        "004552.webp",
+        "004553.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Tất cả công đoạn đã chuẩn bị xong hết rồi, bây giờ chúng ta sẽ tạo hình viên khoai tây tầm khoảng hai phần ba muỗng rồi bây giờ mình sẽ làm cho nó tròn lại là được.",
+      "start": 182.12,
+      "end": 190.72,
+      "n_words": 38,
+      "start_frame": 4553,
+      "end_frame": 4768,
+      "keyframes": [
+        "004553.webp",
+        "004588.webp",
+        "004623.webp",
+        "004624.webp",
+        "004658.webp",
+        "004693.webp",
+        "004694.webp",
+        "004723.webp",
+        "004753.webp",
+        "004754.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "À, mình sẽ vo viên tròn đúng không?",
+      "start": 190.72,
+      "end": 192.36,
+      "n_words": 8,
+      "start_frame": 4768,
+      "end_frame": 4809,
+      "keyframes": [
+        "004778.webp",
+        "004803.webp",
+        "004804.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ mình sẽ làm những viên tiếp theo ha, mình lăn nhẹ nhẹ thôi, mình đừng có làm cho nó giống nhau tới viên cuối cùng đó.",
+      "start": 192.36,
+      "end": 199.4,
+      "n_words": 28,
+      "start_frame": 4809,
+      "end_frame": 4985,
+      "keyframes": [
+        "004833.webp",
+        "004862.webp",
+        "004863.webp",
+        "004882.webp",
+        "004901.webp",
+        "004902.webp",
+        "004919.webp",
+        "004937.webp",
+        "004938.webp",
+        "004956.webp",
+        "004975.webp",
+        "004976.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Mình sẽ cho qua bột mì khô nha, mình sẽ nhúng qua trứng, mình sẽ bỏ lên cái phần bột xù và chúng ta sẽ lấp lên, chúng ta cứ qua ba lớp như vậy.",
+      "start": 199.4,
+      "end": 210.24,
+      "n_words": 35,
+      "start_frame": 4985,
+      "end_frame": 5256,
+      "keyframes": [
+        "004999.webp",
+        "005022.webp",
+        "005023.webp",
+        "005045.webp",
+        "005068.webp",
+        "005069.webp",
+        "005100.webp",
+        "005132.webp",
+        "005133.webp",
+        "005153.webp",
+        "005173.webp",
+        "005174.webp",
+        "005210.webp",
+        "005247.webp",
+        "005248.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Đã chuẩn bị một cái chảo dầu sẵn rồi, mở lên cho sôi nha thôi và bây giờ dầu cũng đã vừa nóng tới, nhớ là đừng cho già quá nha.",
+      "start": 210.24,
+      "end": 217.52,
+      "n_words": 31,
+      "start_frame": 5256,
+      "end_frame": 5438,
+      "keyframes": [
+        "005270.webp",
+        "005292.webp",
+        "005293.webp",
+        "005316.webp",
+        "005340.webp",
+        "005341.webp",
+        "005387.webp",
+        "005434.webp",
+        "005435.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đó, khi mà mọi người chiên á, mọi người thấy mà cái mình đụng đũa giờ mình sẽ cảm giác được là cái phần mà bột xù này nó cứng cứng rồi thì bây giờ chúng ta sẽ lật trở nha.",
+      "start": 217.52,
+      "end": 225.4,
+      "n_words": 41,
+      "start_frame": 5438,
+      "end_frame": 5635,
+      "keyframes": [
+        "005466.webp",
+        "005498.webp",
+        "005499.webp",
+        "005593.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đó, cái phần tiếp xúc với cái chảo những cái viên khoai tây bây giờ bắt đầu chuyển sang một cái màu vàng rất là đẹp rồi đây, rất là giòn rồi.",
+      "start": 225.4,
+      "end": 237.04,
+      "n_words": 32,
+      "start_frame": 5635,
+      "end_frame": 5926,
+      "keyframes": [
+        "005688.webp",
+        "005689.webp",
+        "005740.webp",
+        "005791.webp",
+        "005792.webp",
+        "005823.webp",
+        "005854.webp",
+        "005855.webp",
+        "005890.webp",
+        "005925.webp",
+        "005926.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Bây giờ thì chúng ta sẽ cho ra dĩa có giấy thấm dầu.",
+      "start": 237.04,
+      "end": 240.72,
+      "n_words": 13,
+      "start_frame": 5926,
+      "end_frame": 6018,
+      "keyframes": [
+        "005926.webp",
+        "005971.webp",
+        "006016.webp",
+        "006017.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Nếu như các bạn bỏ lỡ một công đoạn nào đó thì không sao hết, chỉ cần chúng ta sử dụng điện thoại di động của mình quét mã QR code đang hiện lên trên màn hình để xem lại công thức của món ăn ngày hôm nay các bạn nha.",
+      "start": 240.72,
+      "end": 253.52,
+      "n_words": 51,
+      "start_frame": 6018,
+      "end_frame": 6338,
+      "keyframes": [
+        "006064.webp",
+        "006112.webp",
+        "006113.webp",
+        "006200.webp",
+        "006287.webp",
+        "006288.webp",
+        "006312.webp",
+        "006337.webp",
+        "006338.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Và chắc chắn đối với món ăn này thì chúng ta phải dọn ngay và ăn nóng thì mới ngon đúng không xin?",
+      "start": 253.52,
+      "end": 258.92,
+      "n_words": 23,
+      "start_frame": 6338,
+      "end_frame": 6473,
+      "keyframes": [
+        "006338.webp",
+        "006373.webp",
+        "006408.webp",
+        "006409.webp",
+        "006440.webp",
+        "006471.webp",
+        "006472.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Đúng rồi, món này là phải ăn khi còn nóng để chúng ta kết hợp với cái sốt mát lạnh chút xíu Mayonnaise vô nữa.",
+      "start": 258.92,
+      "end": 265.64,
+      "n_words": 25,
+      "start_frame": 6473,
+      "end_frame": 6641,
+      "keyframes": [
+        "006526.webp",
+        "006580.webp",
+        "006581.webp",
+        "006610.webp",
+        "006639.webp",
+        "006640.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi bây giờ chúng ta sẽ trang trí thêm một ít màu sắc lên đây nha, thêm một vài đọt rau cúng lủi nha. Chúng ta cũng sắp tới ngày Noel rồi đúng không nào?",
+      "start": 265.64,
+      "end": 273.76,
+      "n_words": 35,
+      "start_frame": 6641,
+      "end_frame": 6844,
+      "keyframes": [
+        "006677.webp",
+        "006714.webp",
+        "006715.webp",
+        "006729.webp",
+        "006744.webp",
+        "006745.webp",
+        "006763.webp",
+        "006782.webp",
+        "006783.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Có thể làm một cái món ăn gì đó mà biểu trưng của Noel chẳng hạn, và trong ngày Giáng sinh thì chúng ta có thể thực hiện món ăn này để cùng thưởng thức với những người mà chúng ta yêu quý.",
+      "start": 273.76,
+      "end": 282.72,
+      "n_words": 43,
+      "start_frame": 6844,
+      "end_frame": 7068,
+      "keyframes": [
+        "006851.webp",
+        "006920.webp",
+        "006921.webp",
+        "006957.webp",
+        "006993.webp",
+        "006994.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Để cho bữa cơm ngày Giáng sinh được hoàn hảo hơn thì chúng ta ăn kèm với lại bông cải xào tôm nữa.",
+      "start": 282.72,
+      "end": 287.92,
+      "n_words": 23,
+      "start_frame": 7068,
+      "end_frame": 7198,
+      "keyframes": [
+        "007092.webp",
+        "007191.webp",
+        "007192.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Viên khoai tây chín vàng bên ngoài giòn giòn lớp bột chiên xù, bên trong nhân thịt với khoai tây vừa ngọt vừa sốt nhẹ.",
+      "start": 287.92,
+      "end": 295.6,
+      "n_words": 25,
+      "start_frame": 7198,
+      "end_frame": 7390,
+      "keyframes": [
+        "007270.webp",
+        "007348.webp",
+        "007349.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thêm một chút sốt Mayonnaise pha tương cà ăn phà phà không hề chán.",
+      "start": 295.96,
+      "end": 301.32,
+      "n_words": 14,
+      "start_frame": 7399,
+      "end_frame": 7533,
+      "keyframes": [
+        "007442.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tha hồ thưởng thức các món ăn ngon chỉ cần nấu theo công thức của Món ngon mỗi ngày.",
+      "start": 301.32,
+      "end": 306.4,
+      "n_words": 19,
+      "start_frame": 7533,
+      "end_frame": 7660,
+      "keyframes": [
+        "007536.webp",
+        "007537.webp",
+        "007596.webp",
+        "007656.webp",
+        "007657.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Để xem lại công thức của món ăn ngày hôm nay và nhiều công thức của các món ngon khác, các bạn có thể truy cập vào kênh YouTube, website và fanpage của chương trình.",
+      "start": 306.4,
+      "end": 315.48,
+      "n_words": 35,
+      "start_frame": 7660,
+      "end_frame": 7887,
+      "keyframes": [
+        "007759.webp",
+        "007861.webp",
+        "007862.webp"
+      ],
+      "keyframe_count": 3
+    }
+  ]
+}

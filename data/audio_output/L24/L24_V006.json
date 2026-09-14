@@ -1,0 +1,19 @@
+{
+  "unfiltered": {
+    "text": "đây cái máy này quay mấy lấy được",
+    "word_count": 8
+  },
+  "flagged": {
+    "text": "đây cái máy này quay mấy lấy được",
+    "word_count": 8
+  },
+  "refined": {
+    "text": "Đây, cái máy này quay mấy lấy được?",
+    "word_count": 8,
+    "source": "flagged"
+  },
+  "proofread": {
+    "text": "Đây, cái máy này quay mấy lấy được?",
+    "word_count": 8
+  }
+}

@@ -1,0 +1,763 @@
+{
+  "video_id": "L26_V013",
+  "fps": 25.0,
+  "n_sentences": 40,
+  "total_words": 1024,
+  "sentences": [
+    {
+      "text": "Rất món ngon mỗi ngày, rau xanh mát làm nổi bật những miếng bơ mềm mịn và khoai tây bùi bùi, thêm chút bơ cần thơm đậm đà, tất cả được trộn đều cùng mayonnaise chua béo cho món ăn thêm tươi mát trọn vẹn.",
+      "start": 0.04,
+      "end": 42.56,
+      "n_words": 45,
+      "start_frame": 1,
+      "end_frame": 1064,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000087.webp",
+        "000089.webp",
+        "000092.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000155.webp",
+        "000160.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp",
+        "000330.webp",
+        "000360.webp",
+        "000361.webp",
+        "000399.webp",
+        "000437.webp",
+        "000438.webp",
+        "000488.webp",
+        "000539.webp",
+        "000540.webp",
+        "000580.webp",
+        "000621.webp",
+        "000622.webp",
+        "000642.webp",
+        "000662.webp",
+        "000663.webp",
+        "000692.webp",
+        "000721.webp",
+        "000722.webp",
+        "000779.webp",
+        "000837.webp",
+        "000838.webp",
+        "000930.webp",
+        "001022.webp",
+        "001023.webp",
+        "001046.webp"
+      ],
+      "keyframe_count": 64
+    },
+    {
+      "text": "Rất vui khi được gặp lại các bạn khán giả đang theo dõi chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành. Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 42.56,
+      "end": 52.12,
+      "n_words": 34,
+      "start_frame": 1064,
+      "end_frame": 1303,
+      "keyframes": [
+        "001070.webp",
+        "001071.webp",
+        "001189.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Anh Quốc Nghị ơi, mấy hôm nay anh có thấy nóng không?",
+      "start": 52.12,
+      "end": 55.2,
+      "n_words": 12,
+      "start_frame": 1303,
+      "end_frame": 1380,
+      "keyframes": [
+        "001307.webp",
+        "001308.webp",
+        "001321.webp",
+        "001334.webp",
+        "001335.webp",
+        "001363.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "- Cũng hơi hơi oai đúng không, cho nên là không biết là anh Quốc Nghị có một cái gợi ý, một món salad nào mới lạ nè, thanh mát để bổ sung vào thực đơn xanh của cả nhà không?",
+      "start": 55.2,
+      "end": 65.68,
+      "n_words": 41,
+      "start_frame": 1380,
+      "end_frame": 1642,
+      "keyframes": [
+        "001392.webp",
+        "001393.webp",
+        "001402.webp",
+        "001412.webp",
+        "001413.webp",
+        "001446.webp",
+        "001479.webp",
+        "001480.webp",
+        "001501.webp",
+        "001523.webp",
+        "001524.webp",
+        "001556.webp",
+        "001589.webp",
+        "001590.webp",
+        "001615.webp",
+        "001641.webp",
+        "001642.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Hôm nay Quốc Nghị sẽ hướng dẫn cho các bạn khán giả cùng Minh Phương làm món salad bơ cần tây nha.",
+      "start": 65.68,
+      "end": 71.4,
+      "n_words": 22,
+      "start_frame": 1642,
+      "end_frame": 1785,
+      "keyframes": [
+        "001642.webp",
+        "001668.webp",
+        "001695.webp",
+        "001696.webp",
+        "001718.webp",
+        "001740.webp",
+        "001741.webp",
+        "001761.webp",
+        "001782.webp",
+        "001783.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Và theo chuyên gia dinh dưỡng, món ăn này giúp hỗ trợ bổ máu nè và tăng cường nhiều chất dinh dưỡng khác luôn đó.",
+      "start": 71.4,
+      "end": 76.96,
+      "n_words": 25,
+      "start_frame": 1785,
+      "end_frame": 1924,
+      "keyframes": [
+        "001852.webp",
+        "001921.webp",
+        "001922.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và Quốc Nghị sẽ có một câu đố dành cho Minh Phương nè: đố Minh Phương cách lựa chọn bơ?",
+      "start": 76.96,
+      "end": 82.44,
+      "n_words": 20,
+      "start_frame": 1924,
+      "end_frame": 2061,
+      "keyframes": [
+        "001952.webp",
+        "001983.webp",
+        "001984.webp",
+        "002022.webp",
+        "002061.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "- Mình cầm vào trái bơ á, mình cảm giác nó nặng nè, nó chắc tay và nếu mà mua mà để ăn liền thì mình nhấn nhẹ cảm nhận được cái độ mềm đó là bơ ngon đó các bạn.",
+      "start": 82.44,
+      "end": 91.16,
+      "n_words": 41,
+      "start_frame": 2061,
+      "end_frame": 2279,
+      "keyframes": [
+        "002061.webp",
+        "002062.webp",
+        "002076.webp",
+        "002091.webp",
+        "002092.webp",
+        "002121.webp",
+        "002151.webp",
+        "002152.webp",
+        "002214.webp",
+        "002276.webp",
+        "002277.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Bơ thì mình sẽ dọc nửa quả bơ ra như thế này, mình tách ra, dùng dao nè bóc cái vỏ bơ.",
+      "start": 91.16,
+      "end": 100.88,
+      "n_words": 22,
+      "start_frame": 2279,
+      "end_frame": 2522,
+      "keyframes": [
+        "002320.webp",
+        "002364.webp",
+        "002365.webp",
+        "002390.webp",
+        "002415.webp",
+        "002416.webp",
+        "002472.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Sau khi lột vỏ bơ xong á thì chúng ta sẽ cắt lát nè, có độ dày khoảng 1 cm.",
+      "start": 100.88,
+      "end": 107.92,
+      "n_words": 20,
+      "start_frame": 2522,
+      "end_frame": 2698,
+      "keyframes": [
+        "002529.webp",
+        "002530.webp",
+        "002594.webp",
+        "002658.webp",
+        "002659.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và khi mà làm món salad thì chúng ta cũng nên chọn cái phần bơ vừa chín tới nó sẽ ngon hơn.",
+      "start": 107.92,
+      "end": 115.0,
+      "n_words": 22,
+      "start_frame": 2698,
+      "end_frame": 2875,
+      "keyframes": [
+        "002752.webp",
+        "002846.webp",
+        "002847.webp",
+        "002864.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Tiếp đến là rau thơm á thì các bạn sẽ cắt nhỏ.",
+      "start": 115.0,
+      "end": 117.76,
+      "n_words": 12,
+      "start_frame": 2875,
+      "end_frame": 2944,
+      "keyframes": [
+        "002881.webp",
+        "002882.webp",
+        "002912.webp",
+        "002943.webp",
+        "002944.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Phần khoai tây các bạn cắt lát có độ dày bằng bơ.",
+      "start": 117.76,
+      "end": 121.36,
+      "n_words": 12,
+      "start_frame": 2944,
+      "end_frame": 3034,
+      "keyframes": [
+        "002944.webp",
+        "002991.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rồi các bạn sẽ cho khoai tây vào tô, cho nước lọc vào xâm xấp khoai tây nè, rồi chúng ta dùng màng bọc bọc kín, dùng tăm xâm vài lỗ trên cái màng bọc như thế này.",
+      "start": 121.36,
+      "end": 133.08,
+      "n_words": 38,
+      "start_frame": 3034,
+      "end_frame": 3327,
+      "keyframes": [
+        "003038.webp",
+        "003039.webp",
+        "003045.webp",
+        "003051.webp",
+        "003092.webp",
+        "003093.webp",
+        "003095.webp",
+        "003096.webp",
+        "003135.webp",
+        "003174.webp",
+        "003175.webp",
+        "003207.webp",
+        "003240.webp",
+        "003241.webp",
+        "003287.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ cho cái tô khoai tây này vào lò vi sóng bật chế độ cao khoảng 5 phút để khoai tây nó vừa chín tới các bạn nha.",
+      "start": 133.08,
+      "end": 139.04,
+      "n_words": 32,
+      "start_frame": 3327,
+      "end_frame": 3476,
+      "keyframes": [
+        "003333.webp",
+        "003334.webp",
+        "003400.webp",
+        "003467.webp",
+        "003468.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cần tây các bạn cũng sẽ cắt lát ra, các bạn cho cái đó vào áp chảo.",
+      "start": 139.04,
+      "end": 144.64,
+      "n_words": 17,
+      "start_frame": 3476,
+      "end_frame": 3616,
+      "keyframes": [
+        "003506.webp",
+        "003545.webp",
+        "003546.webp",
+        "003583.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Có một lưu ý nhỏ, các bạn áp chảo bơ cần nè thơm vừa tới, không quá giòn để cho món salad nó có cái kết cấu tương đồng với nhau.",
+      "start": 144.64,
+      "end": 152.2,
+      "n_words": 31,
+      "start_frame": 3616,
+      "end_frame": 3805,
+      "keyframes": [
+        "003620.webp",
+        "003621.webp",
+        "003713.webp",
+        "003805.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Trong bơ thì có rất nhiều các vitamin nhóm B và một lượng lớn chất sắt sẽ giúp thúc đẩy quá trình chuyển hóa năng lượng, tăng trưởng cơ thể và ngăn ngừa bệnh thiếu máu.",
+      "start": 152.2,
+      "end": 160.96,
+      "n_words": 36,
+      "start_frame": 3805,
+      "end_frame": 4024,
+      "keyframes": [
+        "003805.webp",
+        "003806.webp",
+        "003858.webp",
+        "003910.webp",
+        "003911.webp",
+        "003966.webp",
+        "004022.webp",
+        "004023.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Các bạn sẽ cho cần áp chảo ra giấy thấm dầu này.",
+      "start": 160.96,
+      "end": 165.2,
+      "n_words": 12,
+      "start_frame": 4024,
+      "end_frame": 4130,
+      "keyframes": [
+        "004076.webp",
+        "004130.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Dưa leo thì các bạn sẽ xẻ dọc làm đôi nè, bỏ cái ruột đi rồi cắt lát có độ dài khoảng nửa centi mấy thôi.",
+      "start": 165.2,
+      "end": 172.8,
+      "n_words": 26,
+      "start_frame": 4130,
+      "end_frame": 4320,
+      "keyframes": [
+        "004130.webp",
+        "004131.webp",
+        "004154.webp",
+        "004178.webp",
+        "004179.webp",
+        "004210.webp",
+        "004242.webp",
+        "004243.webp",
+        "004281.webp",
+        "004319.webp",
+        "004320.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Dưa leo này các bạn sẽ trộn với một ít đường để giúp cho dưa được giòn và giúp món salad ngon hơn đó.",
+      "start": 172.8,
+      "end": 177.88,
+      "n_words": 24,
+      "start_frame": 4320,
+      "end_frame": 4447,
+      "keyframes": [
+        "004320.webp",
+        "004346.webp",
+        "004372.webp",
+        "004373.webp",
+        "004409.webp",
+        "004445.webp",
+        "004446.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Bây giờ Quốc Nghị sẽ hướng dẫn các bạn pha nước sốt salad nha.",
+      "start": 177.88,
+      "end": 180.36,
+      "n_words": 14,
+      "start_frame": 4447,
+      "end_frame": 4509,
+      "keyframes": [
+        "004476.webp",
+        "004507.webp",
+        "004508.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đầu tiên các bạn sẽ dùng 3 muỗng canh sốt mayonnaise vị nguyên bản, tiếp đến là một muỗng canh sữa tươi không đường, một muỗng cà phê mù tạt vàng, một muỗng canh nước cốt chanh vàng.",
+      "start": 180.36,
+      "end": 191.64,
+      "n_words": 38,
+      "start_frame": 4509,
+      "end_frame": 4791,
+      "keyframes": [
+        "004538.webp",
+        "004569.webp",
+        "004570.webp",
+        "004596.webp",
+        "004623.webp",
+        "004624.webp",
+        "004657.webp",
+        "004691.webp",
+        "004692.webp",
+        "004713.webp",
+        "004735.webp",
+        "004736.webp",
+        "004762.webp",
+        "004789.webp",
+        "004790.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Minh Phương xem nè, cái phần nước sốt nè màu rất là hấp dẫn luôn.",
+      "start": 191.64,
+      "end": 197.2,
+      "n_words": 15,
+      "start_frame": 4791,
+      "end_frame": 4930,
+      "keyframes": [
+        "004862.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Khoai tây các bạn vớt ra lọc bỏ nước để ráo để thiệt nguội trước khi chúng ta trộn salad nha.",
+      "start": 197.2,
+      "end": 202.84,
+      "n_words": 21,
+      "start_frame": 4930,
+      "end_frame": 5071,
+      "keyframes": [
+        "004934.webp",
+        "004935.webp",
+        "004947.webp",
+        "004959.webp",
+        "004960.webp",
+        "004986.webp",
+        "005013.webp",
+        "005014.webp",
+        "005041.webp",
+        "005068.webp",
+        "005069.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Trong khoai tây thì có rất là nhiều vitamin C hỗ trợ tăng cường hấp thu chất sắt hiệu quả.",
+      "start": 202.84,
+      "end": 208.0,
+      "n_words": 20,
+      "start_frame": 5071,
+      "end_frame": 5200,
+      "keyframes": [
+        "005134.webp",
+        "005200.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ cho lần lượt các nguyên liệu vào để trộn salad nè: khoai tây, dưa leo, cần tây, rau thơm hay còn gọi là rau húng lủi, trộn đều nhẹ tay cho tất cả nguyên liệu nó hòa quyện vào nhau. Nhẹ tay nha chứ không là rau nó bị dập đó.",
+      "start": 208.0,
+      "end": 224.8,
+      "n_words": 56,
+      "start_frame": 5200,
+      "end_frame": 5620,
+      "keyframes": [
+        "005200.webp",
+        "005201.webp",
+        "005238.webp",
+        "005275.webp",
+        "005276.webp",
+        "005295.webp",
+        "005314.webp",
+        "005315.webp",
+        "005334.webp",
+        "005354.webp",
+        "005355.webp",
+        "005373.webp",
+        "005391.webp",
+        "005392.webp",
+        "005418.webp",
+        "005444.webp",
+        "005445.webp",
+        "005567.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Minh Phương, các bạn sẽ cho vào đây một ít muối, một ít tiêu sậy, tiếp tục dùng vá nhựa trộn đều nhẹ tay, đều nhẹ tay.",
+      "start": 224.8,
+      "end": 235.56,
+      "n_words": 27,
+      "start_frame": 5620,
+      "end_frame": 5889,
+      "keyframes": [
+        "005689.webp",
+        "005690.webp",
+        "005712.webp",
+        "005734.webp",
+        "005735.webp",
+        "005764.webp",
+        "005794.webp",
+        "005795.webp",
+        "005843.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Rồi chúng ta sẽ cho hết cái phần nước sốt salad vào, tiếp tục trộn đều nhẹ tay.",
+      "start": 235.56,
+      "end": 239.96,
+      "n_words": 18,
+      "start_frame": 5889,
+      "end_frame": 5999,
+      "keyframes": [
+        "005891.webp",
+        "005892.webp",
+        "005923.webp",
+        "005954.webp",
+        "005955.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Mình trộn lần lượt như thế này nó sẽ đều hơn đó Minh Phương. - Dạ.",
+      "start": 239.96,
+      "end": 242.72,
+      "n_words": 16,
+      "start_frame": 5999,
+      "end_frame": 6068,
+      "keyframes": [
+        "006015.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Xong!",
+      "start": 242.72,
+      "end": 243.04,
+      "n_words": 1,
+      "start_frame": 6068,
+      "end_frame": 6076,
+      "keyframes": [
+        "006075.webp",
+        "006076.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thế nhưng đừng quên để lưu lại công thức của món salad xanh mát và hấp dẫn này thì các bạn có thể quét mã QR đang hiển thị trên màn hình nhé.",
+      "start": 243.04,
+      "end": 252.36,
+      "n_words": 33,
+      "start_frame": 6076,
+      "end_frame": 6309,
+      "keyframes": [
+        "006076.webp",
+        "006169.webp",
+        "006263.webp",
+        "006264.webp",
+        "006288.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ Quốc Nghị sẽ trình bày ra đĩa các bạn nha.",
+      "start": 252.36,
+      "end": 257.84,
+      "n_words": 12,
+      "start_frame": 6309,
+      "end_frame": 6446,
+      "keyframes": [
+        "006313.webp",
+        "006314.webp",
+        "006349.webp",
+        "006384.webp",
+        "006385.webp",
+        "006418.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cuối cùng Quốc Nghị sẽ cho lên đây một ít vỏ chanh vàng mài nhuyễn.",
+      "start": 257.84,
+      "end": 263.12,
+      "n_words": 15,
+      "start_frame": 6446,
+      "end_frame": 6578,
+      "keyframes": [
+        "006452.webp",
+        "006453.webp",
+        "006514.webp",
+        "006576.webp",
+        "006577.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Mời Minh Phương thưởng thức và cho nhận xét các bạn nhé. - Ngon quá anh Nghị ơi!",
+      "start": 263.12,
+      "end": 276.68,
+      "n_words": 18,
+      "start_frame": 6578,
+      "end_frame": 6917,
+      "keyframes": [
+        "006639.webp",
+        "006702.webp",
+        "006703.webp",
+        "006789.webp",
+        "006876.webp",
+        "006877.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Một sự kết hợp rất là độc đáo nha, béo béo đến từ bơ nè, bùi của khoai tây, lại có một chút giòn đến từ dưa leo nè, mặn của bơ cần, tất cả được hòa quyện sốt chua chua béo béo rất là dễ chịu và cuối cùng đó chính là hương thơm đến từ húng lủi và vỏ chanh vàng.",
+      "start": 276.68,
+      "end": 297.12,
+      "n_words": 63,
+      "start_frame": 6917,
+      "end_frame": 7428,
+      "keyframes": [
+        "006927.webp",
+        "006977.webp",
+        "006978.webp",
+        "007029.webp",
+        "007080.webp",
+        "007081.webp",
+        "007134.webp",
+        "007188.webp",
+        "007189.webp",
+        "007250.webp",
+        "007312.webp",
+        "007313.webp",
+        "007369.webp",
+        "007425.webp",
+        "007426.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Và để đạt được hiệu quả dinh dưỡng thì các bạn có thể áp dụng món ăn ngày hôm nay cùng với bản thực đơn tham khảo sau đây các bạn nhé.",
+      "start": 297.12,
+      "end": 307.24,
+      "n_words": 32,
+      "start_frame": 7428,
+      "end_frame": 7681,
+      "keyframes": [
+        "007494.webp",
+        "007563.webp",
+        "007564.webp",
+        "007626.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Một món ăn thanh mát giải nhiệt cho những ngày nắng nóng, lại bổ sung thêm rau cho bữa ăn.",
+      "start": 307.24,
+      "end": 312.28,
+      "n_words": 20,
+      "start_frame": 7681,
+      "end_frame": 7807,
+      "keyframes": [
+        "007688.webp",
+        "007689.webp",
+        "007769.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đừng bỏ lỡ công thức hôm nay các bạn nhé.",
+      "start": 312.28,
+      "end": 314.0,
+      "n_words": 10,
+      "start_frame": 7807,
+      "end_frame": 7850,
+      "keyframes": [
+        "007849.webp",
+        "007850.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ngoài ra thì các bạn khán giả cũng có thể xem thêm công thức nhiều món salad ngon hấp dẫn dễ làm trên website của Món ngon mỗi ngày và cũng đừng quên những kênh quen thuộc của chương trình để có thể thu thập thêm nhiều thông tin hữu ích.",
+      "start": 314.0,
+      "end": 326.88,
+      "n_words": 51,
+      "start_frame": 7850,
+      "end_frame": 8172,
+      "keyframes": [
+        "007850.webp",
+        "008000.webp",
+        "008150.webp",
+        "008151.webp"
+      ],
+      "keyframe_count": 4
+    }
+  ]
+}

@@ -1,0 +1,829 @@
+{
+  "video_id": "L26_V487",
+  "fps": 25.0,
+  "n_sentences": 42,
+  "total_words": 941,
+  "sentences": [
+    {
+      "text": "Gà món ngon mỗi ngày.",
+      "start": 0.04,
+      "end": 11.96,
+      "n_words": 5,
+      "start_frame": 1,
+      "end_frame": 299,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000130.webp",
+        "000155.webp",
+        "000181.webp",
+        "000182.webp",
+        "000202.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp"
+      ],
+      "keyframe_count": 29
+    },
+    {
+      "text": "- Cô Hà ơi, cô Hà ơi, em cầu cứu!",
+      "start": 11.96,
+      "end": 14.68,
+      "n_words": 10,
+      "start_frame": 299,
+      "end_frame": 367,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000323.webp",
+        "000346.webp",
+        "000347.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Vậy cuối tuần này nhà em có tiệc, bạn bè em đến đông lắm mà em phải làm một món gì đó độc đáo và đặc biệt để không hổ danh là trợ lý đặc biệt của cô Hà chứ!",
+      "start": 14.68,
+      "end": 25.44,
+      "n_words": 40,
+      "start_frame": 367,
+      "end_frame": 636,
+      "keyframes": [
+        "000451.webp",
+        "000555.webp",
+        "000556.webp",
+        "000570.webp",
+        "000584.webp",
+        "000585.webp",
+        "000607.webp",
+        "000629.webp",
+        "000630.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "- Mà em thấy rồi, chương trình Món ngon mỗi ngày luôn luôn có những món rất là đặc biệt luôn mà hôm nay cô cũng đang chuẩn bị rồi đây.",
+      "start": 25.44,
+      "end": 31.64,
+      "n_words": 31,
+      "start_frame": 636,
+      "end_frame": 791,
+      "keyframes": [
+        "000643.webp",
+        "000657.webp",
+        "000658.webp",
+        "000703.webp",
+        "000749.webp",
+        "000750.webp",
+        "000770.webp",
+        "000791.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Em có bao giờ nghe nói cỏ xạ hương chưa?",
+      "start": 31.64,
+      "end": 34.08,
+      "n_words": 10,
+      "start_frame": 791,
+      "end_frame": 852,
+      "keyframes": [
+        "000791.webp",
+        "000792.webp",
+        "000819.webp",
+        "000847.webp",
+        "000848.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "- Em chỉ mới nghe cỏ đuôi gà thôi ạ.",
+      "start": 34.08,
+      "end": 36.52,
+      "n_words": 10,
+      "start_frame": 852,
+      "end_frame": 913,
+      "keyframes": [
+        "000912.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "- Rồi, như vậy thì hôm nay cô sẽ giới thiệu cho em cỏ xạ hương nè.",
+      "start": 36.52,
+      "end": 39.88,
+      "n_words": 17,
+      "start_frame": 913,
+      "end_frame": 997,
+      "keyframes": [
+        "000976.webp",
+        "000977.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đây là một cái loại gia vị châu Âu, tiếng Anh gọi là thyme, tạo nên hương vị rất là đặc trưng trong các món Âu ha.",
+      "start": 39.88,
+      "end": 48.68,
+      "n_words": 27,
+      "start_frame": 997,
+      "end_frame": 1217,
+      "keyframes": [
+        "001011.webp",
+        "001046.webp",
+        "001047.webp",
+        "001078.webp",
+        "001109.webp",
+        "001110.webp",
+        "001163.webp",
+        "001216.webp",
+        "001217.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Vậy thì hôm nay, yên tâm nha, vậy thì mình làm ngay cho cô gà nướng cỏ xạ hương thơm lừng cả góc bếp.",
+      "start": 48.68,
+      "end": 70.68,
+      "n_words": 24,
+      "start_frame": 1217,
+      "end_frame": 1767,
+      "keyframes": [
+        "001217.webp",
+        "001237.webp",
+        "001257.webp",
+        "001258.webp",
+        "001274.webp",
+        "001291.webp",
+        "001292.webp",
+        "001316.webp",
+        "001341.webp",
+        "001342.webp",
+        "001382.webp",
+        "001422.webp",
+        "001423.webp",
+        "001447.webp",
+        "001471.webp",
+        "001501.webp",
+        "001546.webp",
+        "001592.webp",
+        "001593.webp",
+        "001707.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Chào mừng các bạn đang đến với chương trình Món ngon mỗi ngày.",
+      "start": 70.68,
+      "end": 75.84,
+      "n_words": 13,
+      "start_frame": 1767,
+      "end_frame": 1896,
+      "keyframes": [
+        "001821.webp",
+        "001822.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 75.84,
+      "end": 79.96,
+      "n_words": 11,
+      "start_frame": 1896,
+      "end_frame": 1999,
+      "keyframes": [
+        "001909.webp",
+        "001997.webp",
+        "001998.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và đầu tiên thì cô cho vô đây khoảng chừng hai nhánh cỏ xạ hương này nè ha, sẽ cho vào trong cái cối, mình lấy phần lá thôi, khoảng chừng hai muỗng canh lá băm nhuyễn nè, khoảng một nửa củ tỏi cô cho vào đây, nửa muỗng canh muối hột.",
+      "start": 79.96,
+      "end": 96.08,
+      "n_words": 52,
+      "start_frame": 1999,
+      "end_frame": 2402,
+      "keyframes": [
+        "002025.webp",
+        "002053.webp",
+        "002054.webp",
+        "002093.webp",
+        "002133.webp",
+        "002134.webp",
+        "002156.webp",
+        "002178.webp",
+        "002179.webp",
+        "002188.webp",
+        "002198.webp",
+        "002199.webp",
+        "002213.webp",
+        "002227.webp",
+        "002228.webp",
+        "002253.webp",
+        "002279.webp",
+        "002280.webp",
+        "002300.webp",
+        "002320.webp",
+        "002321.webp",
+        "002362.webp"
+      ],
+      "keyframe_count": 22
+    },
+    {
+      "text": "Tiếp theo, chúng ta cho vào nửa muỗng cà phê bột ngọt Ajinomoto.",
+      "start": 96.08,
+      "end": 98.52,
+      "n_words": 13,
+      "start_frame": 2402,
+      "end_frame": 2463,
+      "keyframes": [
+        "002403.webp",
+        "002404.webp",
+        "002419.webp",
+        "002434.webp",
+        "002435.webp",
+        "002458.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ thì Kim Thảo sẽ giúp cô mình giã nhuyễn hỗn hợp này.",
+      "start": 99.44,
+      "end": 102.88,
+      "n_words": 14,
+      "start_frame": 2486,
+      "end_frame": 2572,
+      "keyframes": [
+        "002530.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "- Dạ.",
+      "start": 102.88,
+      "end": 105.0,
+      "n_words": 2,
+      "start_frame": 2572,
+      "end_frame": 2625,
+      "keyframes": [
+        "002577.webp",
+        "002578.webp",
+        "002605.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "- Rồi, cô cảm ơn Kim Thảo nha.",
+      "start": 105.0,
+      "end": 106.64,
+      "n_words": 8,
+      "start_frame": 2625,
+      "end_frame": 2666,
+      "keyframes": [
+        "002632.webp",
+        "002633.webp",
+        "002649.webp",
+        "002666.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Tiếp theo thì mình sẽ cho vào hỗn hợp gia vị này một muỗng cà phê nước tương Phù Sĩ, một muỗng canh giấm gạo lên men Lisa, một muỗng canh dầu ô liu (cái màu của dầu ô liu đẹp ha cô Thảo), rồi và một muỗng canh mật ong.",
+      "start": 106.64,
+      "end": 120.68,
+      "n_words": 51,
+      "start_frame": 2666,
+      "end_frame": 3017,
+      "keyframes": [
+        "002666.webp",
+        "002667.webp",
+        "002689.webp",
+        "002712.webp",
+        "002713.webp",
+        "002740.webp",
+        "002767.webp",
+        "002768.webp",
+        "002800.webp",
+        "002833.webp",
+        "002834.webp",
+        "002855.webp",
+        "002876.webp",
+        "002877.webp",
+        "002906.webp",
+        "002936.webp",
+        "002937.webp",
+        "002975.webp",
+        "003014.webp",
+        "003015.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Trộn đều cái hỗn hợp gia vị này lên.",
+      "start": 120.68,
+      "end": 123.2,
+      "n_words": 9,
+      "start_frame": 3017,
+      "end_frame": 3080,
+      "keyframes": [
+        "003043.webp",
+        "003071.webp",
+        "003072.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn lưu ý là chúng ta sẽ sử dụng giấm gạo lên men Lisa ướp để khử mùi của nguyên liệu chính và đồng thời tăng hương vị cho món ăn nữa.",
+      "start": 123.2,
+      "end": 130.96,
+      "n_words": 33,
+      "start_frame": 3080,
+      "end_frame": 3274,
+      "keyframes": [
+        "003127.webp",
+        "003183.webp",
+        "003184.webp",
+        "003228.webp",
+        "003273.webp",
+        "003274.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta sẽ chọn phần thịt má đùi gà rút xương, vì cái phần thịt này nó nhiều thịt, ít xương và mỏng đều thì khi nướng dễ chín hơn.",
+      "start": 130.96,
+      "end": 138.28,
+      "n_words": 30,
+      "start_frame": 3274,
+      "end_frame": 3457,
+      "keyframes": [
+        "003274.webp",
+        "003302.webp",
+        "003331.webp",
+        "003332.webp",
+        "003393.webp",
+        "003454.webp",
+        "003455.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cô sẽ cho phần gia vị này vào trong thịt gà và mình sẽ ướp thịt gà.",
+      "start": 138.28,
+      "end": 143.2,
+      "n_words": 17,
+      "start_frame": 3457,
+      "end_frame": 3580,
+      "keyframes": [
+        "003481.webp",
+        "003508.webp",
+        "003509.webp",
+        "003535.webp",
+        "003562.webp",
+        "003563.webp",
+        "003577.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cái món nướng thì cái phần ướp gia vị nó rất là quan trọng.",
+      "start": 143.2,
+      "end": 146.44,
+      "n_words": 14,
+      "start_frame": 3580,
+      "end_frame": 3661,
+      "keyframes": [
+        "003591.webp",
+        "003592.webp",
+        "003608.webp",
+        "003624.webp",
+        "003625.webp",
+        "003642.webp",
+        "003659.webp",
+        "003660.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta sẽ để cho thịt gà này thấm gia vị trong vòng 15 đến 20 phút.",
+      "start": 146.44,
+      "end": 150.08,
+      "n_words": 17,
+      "start_frame": 3661,
+      "end_frame": 3752,
+      "keyframes": [
+        "003705.webp",
+        "003751.webp",
+        "003752.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đối với măng tây, sử dụng phần non thì chúng ta sẽ cắt nó dài khoảng chừng 12 đến 15 phân như thế này.",
+      "start": 150.08,
+      "end": 155.96,
+      "n_words": 24,
+      "start_frame": 3752,
+      "end_frame": 3899,
+      "keyframes": [
+        "003752.webp",
+        "003794.webp",
+        "003837.webp",
+        "003838.webp",
+        "003868.webp",
+        "003899.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cắt củ cà rốt thành những cái que rồi cô sẽ cho vào trong tô luôn.",
+      "start": 155.96,
+      "end": 160.76,
+      "n_words": 16,
+      "start_frame": 3899,
+      "end_frame": 4019,
+      "keyframes": [
+        "003899.webp",
+        "003900.webp",
+        "003926.webp",
+        "003953.webp",
+        "003954.webp",
+        "003984.webp",
+        "004014.webp",
+        "004015.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Hành tây thì mình sẽ cắt múi cau rồi mình sẽ cho vào trong tô luôn.",
+      "start": 160.76,
+      "end": 164.52,
+      "n_words": 16,
+      "start_frame": 4019,
+      "end_frame": 4113,
+      "keyframes": [
+        "004040.webp",
+        "004066.webp",
+        "004067.webp",
+        "004088.webp",
+        "004109.webp",
+        "004110.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Tiếp theo thì chúng ta sẽ cho gia vị vào trong cái phần rau củ quả này: một muỗng cà phê cỏ xạ hương mà mình đã băm nhỏ, cho khoảng chừng một phần tư muỗng cà phê muối thôi, một phần ba muỗng cà phê tiêu, ba muỗng canh dầu ô liu.",
+      "start": 164.52,
+      "end": 180.24,
+      "n_words": 53,
+      "start_frame": 4113,
+      "end_frame": 4506,
+      "keyframes": [
+        "004130.webp",
+        "004151.webp",
+        "004152.webp",
+        "004181.webp",
+        "004211.webp",
+        "004212.webp",
+        "004262.webp",
+        "004312.webp",
+        "004313.webp",
+        "004347.webp",
+        "004381.webp",
+        "004382.webp",
+        "004406.webp",
+        "004431.webp",
+        "004432.webp",
+        "004468.webp",
+        "004505.webp",
+        "004506.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Rồi bây giờ mình sẽ trộn đều.",
+      "start": 180.24,
+      "end": 182.44,
+      "n_words": 7,
+      "start_frame": 4506,
+      "end_frame": 4561,
+      "keyframes": [
+        "004506.webp",
+        "004528.webp",
+        "004551.webp",
+        "004552.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chút nữa thì mình sẽ cho cái phần rau củ này nướng cùng với thịt gà luôn.",
+      "start": 182.44,
+      "end": 186.52,
+      "n_words": 17,
+      "start_frame": 4561,
+      "end_frame": 4663,
+      "keyframes": [
+        "004608.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nếu như mà các bạn không tìm được lá cỏ xạ hương tươi thì chúng ta có thể là dùng cỏ xạ hương khô với số lượng tương đương, và cái cỏ xạ hương này chúng ta có thể mua được ở những cái nơi mà bán gia vị kiểu châu Âu hay là thậm chí các cái tiệm tạp hóa ở các chợ lớn lớn là đều có bán hết rồi.",
+      "start": 186.52,
+      "end": 204.04,
+      "n_words": 72,
+      "start_frame": 4663,
+      "end_frame": 5101,
+      "keyframes": [
+        "004664.webp",
+        "004665.webp",
+        "004750.webp",
+        "004836.webp",
+        "004837.webp",
+        "004860.webp",
+        "004883.webp",
+        "004884.webp",
+        "004922.webp",
+        "004961.webp",
+        "004962.webp",
+        "004980.webp",
+        "004998.webp",
+        "004999.webp",
+        "005044.webp",
+        "005089.webp",
+        "005090.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Cô sẽ để ra đây rồi mình sẽ cho vào đây là một đến hai cọng cỏ xạ hương vào gắp lại vậy thôi xong.",
+      "start": 204.04,
+      "end": 212.24,
+      "n_words": 25,
+      "start_frame": 5101,
+      "end_frame": 5306,
+      "keyframes": [
+        "005123.webp",
+        "005157.webp",
+        "005158.webp",
+        "005212.webp",
+        "005267.webp",
+        "005268.webp",
+        "005306.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Rồi mình đặt lên khay nướng, làm như vậy để cho một chút nữa mình nướng lên cái thịt gà nó sẽ rất là thơm cái mùi cỏ xạ hương và mình sẽ cho luôn cả cái phần rau củ quả lên trên này.",
+      "start": 212.24,
+      "end": 226.36,
+      "n_words": 44,
+      "start_frame": 5306,
+      "end_frame": 5659,
+      "keyframes": [
+        "005306.webp",
+        "005344.webp",
+        "005345.webp",
+        "005407.webp",
+        "005469.webp",
+        "005470.webp",
+        "005491.webp",
+        "005512.webp",
+        "005513.webp",
+        "005539.webp",
+        "005565.webp",
+        "005566.webp",
+        "005589.webp",
+        "005613.webp",
+        "005614.webp",
+        "005637.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Bây giờ thì mình sẽ bật lò nướng ở nhiệt độ 200 °C và mình cho cái phần thịt và rau củ này vào nướng khoảng chừng 30 phút.",
+      "start": 226.36,
+      "end": 234.16,
+      "n_words": 29,
+      "start_frame": 5659,
+      "end_frame": 5854,
+      "keyframes": [
+        "005661.webp",
+        "005662.webp",
+        "005686.webp",
+        "005711.webp",
+        "005712.webp",
+        "005744.webp",
+        "005777.webp",
+        "005778.webp",
+        "005815.webp",
+        "005853.webp",
+        "005854.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Trong lúc mà chờ thịt chín thì chúng ta sẽ pha sốt để ăn kèm: chúng ta sẽ có bốn muỗng canh sốt mayonnaise kèm với lại hai muỗng canh sốt tương cà, mình chỉ cần khuấy tan thôi là được rồi.",
+      "start": 234.16,
+      "end": 247.68,
+      "n_words": 42,
+      "start_frame": 5854,
+      "end_frame": 6192,
+      "keyframes": [
+        "005854.webp",
+        "005905.webp",
+        "005957.webp",
+        "005958.webp",
+        "005980.webp",
+        "006003.webp",
+        "006004.webp",
+        "006026.webp",
+        "006048.webp",
+        "006049.webp",
+        "006060.webp",
+        "006072.webp",
+        "006073.webp",
+        "006097.webp",
+        "006122.webp",
+        "006123.webp",
+        "006152.webp",
+        "006182.webp",
+        "006183.webp"
+      ],
+      "keyframe_count": 19
+    },
+    {
+      "text": "Bây giờ chúng ta chỉ cần đợi cho thịt chín là chúng ta sẽ có món để thưởng thức.",
+      "start": 247.68,
+      "end": 252.28,
+      "n_words": 19,
+      "start_frame": 6192,
+      "end_frame": 6307,
+      "keyframes": [
+        "006221.webp",
+        "006259.webp",
+        "006260.webp",
+        "006291.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "- Dạ.",
+      "start": 252.28,
+      "end": 252.96,
+      "n_words": 2,
+      "start_frame": 6307,
+      "end_frame": 6324,
+      "keyframes": [
+        "006323.webp",
+        "006324.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "- Rồi, bây giờ thời gian đủ rồi đó và em cũng cảm nhận được rất là thơm đúng không? - Dạ đúng rồi.",
+      "start": 252.96,
+      "end": 258.24,
+      "n_words": 24,
+      "start_frame": 6324,
+      "end_frame": 6456,
+      "keyframes": [
+        "006324.webp",
+        "006346.webp",
+        "006368.webp",
+        "006369.webp",
+        "006391.webp",
+        "006413.webp",
+        "006414.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "- Mình lấy ra, wow, cắt ra.",
+      "start": 258.24,
+      "end": 270.88,
+      "n_words": 7,
+      "start_frame": 6456,
+      "end_frame": 6772,
+      "keyframes": [
+        "006464.webp",
+        "006514.webp",
+        "006515.webp",
+        "006539.webp",
+        "006564.webp",
+        "006565.webp",
+        "006581.webp",
+        "006597.webp",
+        "006598.webp",
+        "006618.webp",
+        "006639.webp",
+        "006640.webp",
+        "006660.webp",
+        "006680.webp",
+        "006681.webp",
+        "006693.webp",
+        "006705.webp",
+        "006706.webp",
+        "006719.webp",
+        "006732.webp",
+        "006733.webp",
+        "006755.webp"
+      ],
+      "keyframe_count": 22
+    },
+    {
+      "text": "Bây giờ cô sẽ đặt lên đây măng tây rồi, như vậy là chúng ta đã hoàn thành món ăn rồi đó.",
+      "start": 270.88,
+      "end": 275.88,
+      "n_words": 22,
+      "start_frame": 6772,
+      "end_frame": 6897,
+      "keyframes": [
+        "006778.webp",
+        "006779.webp",
+        "006803.webp",
+        "006827.webp",
+        "006828.webp",
+        "006862.webp",
+        "006897.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Phần cô Hà vừa trình bày vừa trang trí cho món ăn đúng là chuẩn một MC.",
+      "start": 275.88,
+      "end": 280.76,
+      "n_words": 17,
+      "start_frame": 6897,
+      "end_frame": 7019,
+      "keyframes": [
+        "006897.webp",
+        "006898.webp",
+        "006919.webp",
+        "006941.webp",
+        "006942.webp",
+        "006980.webp",
+        "007018.webp",
+        "007019.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Miếng gà nướng xém vàng, đậm vị, thơm lừng mùi cỏ xạ hương với chút sốt béo cay cay ngon ngất ngây.",
+      "start": 280.76,
+      "end": 289.36,
+      "n_words": 22,
+      "start_frame": 7019,
+      "end_frame": 7234,
+      "keyframes": [
+        "007019.webp",
+        "007036.webp",
+        "007054.webp",
+        "007084.webp",
+        "007111.webp",
+        "007138.webp",
+        "007139.webp",
+        "007187.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Bí kíp nướng gà đơn giản, thao tác nhanh gọn, chờ chi mà không bỏ túi ngay bí kíp xịn sò này đúng không nào?",
+      "start": 289.36,
+      "end": 296.8,
+      "n_words": 25,
+      "start_frame": 7234,
+      "end_frame": 7420,
+      "keyframes": [
+        "007235.webp",
+        "007236.webp",
+        "007320.webp",
+        "007404.webp",
+        "007405.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

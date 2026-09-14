@@ -1,0 +1,755 @@
+{
+  "video_id": "L26_V116",
+  "fps": 25.0,
+  "n_sentences": 41,
+  "total_words": 942,
+  "sentences": [
+    {
+      "text": "Phút Món Ngon Mỗi Ngày: Sườn non kho dưa cải đậm đà.",
+      "start": 0.04,
+      "end": 14.64,
+      "n_words": 12,
+      "start_frame": 1,
+      "end_frame": 366,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000130.webp",
+        "000147.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp",
+        "000350.webp"
+      ],
+      "keyframe_count": 37
+    },
+    {
+      "text": "Chào mừng các bạn khán giả đang đến với chương trình Món Ngon Mỗi Ngày - nấu chuẩn ăn lành.",
+      "start": 14.64,
+      "end": 42.68,
+      "n_words": 20,
+      "start_frame": 366,
+      "end_frame": 1067,
+      "keyframes": [
+        "000400.webp",
+        "000401.webp",
+        "000454.webp",
+        "000508.webp",
+        "000523.webp",
+        "000569.webp",
+        "000616.webp",
+        "000617.webp",
+        "000684.webp",
+        "000752.webp",
+        "000753.webp",
+        "000843.webp",
+        "000933.webp",
+        "000934.webp",
+        "001060.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 42.68,
+      "end": 47.64,
+      "n_words": 11,
+      "start_frame": 1067,
+      "end_frame": 1191,
+      "keyframes": [
+        "001186.webp",
+        "001187.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Phước Hưng ơi, nguyên liệu đã sẵn sàng rồi.",
+      "start": 47.64,
+      "end": 50.32,
+      "n_words": 9,
+      "start_frame": 1191,
+      "end_frame": 1258,
+      "keyframes": [
+        "001218.webp",
+        "001250.webp",
+        "001251.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Minh Phương thấy có sườn non nè, đúng rồi có cả dưa nữa.",
+      "start": 50.32,
+      "end": 54.0,
+      "n_words": 13,
+      "start_frame": 1258,
+      "end_frame": 1350,
+      "keyframes": [
+        "001279.webp",
+        "001308.webp",
+        "001309.webp",
+        "001328.webp",
+        "001347.webp",
+        "001348.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hôm nay thì Phước Hưng cũng như là Minh Phương sẽ giới thiệu cho các bạn một món kho, đó chính là món sườn non kho dưa cải.",
+      "start": 54.0,
+      "end": 60.48,
+      "n_words": 28,
+      "start_frame": 1350,
+      "end_frame": 1512,
+      "keyframes": [
+        "001376.webp",
+        "001405.webp",
+        "001406.webp",
+        "001458.webp",
+        "001511.webp",
+        "001512.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chờ gì nữa, bắt tay vào ngay nha!",
+      "start": 60.76,
+      "end": 62.56,
+      "n_words": 8,
+      "start_frame": 1519,
+      "end_frame": 1564,
+      "keyframes": [
+        "001536.webp",
+        "001561.webp",
+        "001562.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và đối với món ăn ngày hôm nay thì chúng ta sẽ lựa những phần sườn non đầu mềm, có nhiều thịt và lẫn một ít gân sẽ ngon hơn.",
+      "start": 62.56,
+      "end": 71.04,
+      "n_words": 30,
+      "start_frame": 1564,
+      "end_frame": 1776,
+      "keyframes": [
+        "001598.webp",
+        "001635.webp",
+        "001636.webp",
+        "001670.webp",
+        "001705.webp",
+        "001706.webp",
+        "001742.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Hưng sẽ cho vào đây một muỗng rưỡi canh đường, nửa muỗng canh hạt nêm Aji-ngon heo, hai muỗng canh nước mắm, một muỗng canh hành tím và tỏi băm, nửa muỗng cà phê muối, 1/3 muỗng cà phê tiêu.",
+      "start": 71.04,
+      "end": 84.72,
+      "n_words": 40,
+      "start_frame": 1776,
+      "end_frame": 2118,
+      "keyframes": [
+        "001779.webp",
+        "001780.webp",
+        "001800.webp",
+        "001821.webp",
+        "001822.webp",
+        "001840.webp",
+        "001858.webp",
+        "001859.webp",
+        "001890.webp",
+        "001921.webp",
+        "001922.webp",
+        "001933.webp",
+        "001944.webp",
+        "001945.webp",
+        "001961.webp",
+        "001978.webp",
+        "001979.webp",
+        "002002.webp",
+        "002026.webp",
+        "002027.webp",
+        "002047.webp",
+        "002067.webp",
+        "002068.webp",
+        "002093.webp"
+      ],
+      "keyframe_count": 24
+    },
+    {
+      "text": "Và bây giờ, trong khi mà chúng ta đợi cái phần sườn được thấm gia vị thì bây giờ tiếp tục chúng ta sơ chế đến phần rau củ.",
+      "start": 84.72,
+      "end": 90.92,
+      "n_words": 29,
+      "start_frame": 2118,
+      "end_frame": 2273,
+      "keyframes": [
+        "002119.webp",
+        "002120.webp",
+        "002156.webp",
+        "002193.webp",
+        "002194.webp",
+        "002234.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và đây cũng là một cái lưu ý cho quý vị khán giả: chúng ta sẽ chọn phần dưa cải muối để phù hợp với món ăn hơn.",
+      "start": 90.92,
+      "end": 97.16,
+      "n_words": 28,
+      "start_frame": 2273,
+      "end_frame": 2429,
+      "keyframes": [
+        "002275.webp",
+        "002276.webp",
+        "002309.webp",
+        "002343.webp",
+        "002344.webp",
+        "002387.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Phần dưa cải này chúng ta sẽ cắt khúc vừa ăn để chúng ta cho vào kho.",
+      "start": 97.16,
+      "end": 106.04,
+      "n_words": 17,
+      "start_frame": 2429,
+      "end_frame": 2651,
+      "keyframes": [
+        "002430.webp",
+        "002431.webp",
+        "002478.webp",
+        "002526.webp",
+        "002527.webp",
+        "002566.webp",
+        "002605.webp",
+        "002606.webp",
+        "002632.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Còn phần cà chua thì chúng ta sẽ cắt miếng vừa ăn, phần ớt hiểm thì chúng ta sẽ đập dập.",
+      "start": 106.04,
+      "end": 118.08,
+      "n_words": 21,
+      "start_frame": 2651,
+      "end_frame": 2952,
+      "keyframes": [
+        "002658.webp",
+        "002659.webp",
+        "002733.webp",
+        "002808.webp",
+        "002809.webp",
+        "002833.webp",
+        "002857.webp",
+        "002858.webp",
+        "002903.webp",
+        "002948.webp",
+        "002949.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Phần ớt sừng thì bây giờ chúng ta sẽ cắt xéo nhưng mà chúng ta sẽ cắt có độ dày chút.",
+      "start": 118.08,
+      "end": 127.76,
+      "n_words": 21,
+      "start_frame": 2952,
+      "end_frame": 3194,
+      "keyframes": [
+        "003005.webp",
+        "003061.webp",
+        "003062.webp",
+        "003113.webp",
+        "003164.webp",
+        "003165.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cuối cùng thì phần hành ngò thì chúng ta sẽ cắt khúc vừa ăn để chúng ta làm rau nêm.",
+      "start": 127.76,
+      "end": 133.12,
+      "n_words": 20,
+      "start_frame": 3194,
+      "end_frame": 3328,
+      "keyframes": [
+        "003202.webp",
+        "003240.webp",
+        "003241.webp",
+        "003296.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Như vậy thì phần rau củ của chúng ta đã sơ chế xong.",
+      "start": 133.12,
+      "end": 137.12,
+      "n_words": 13,
+      "start_frame": 3328,
+      "end_frame": 3428,
+      "keyframes": [
+        "003351.webp",
+        "003352.webp",
+        "003390.webp",
+        "003428.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Tiếp tục Phương sẽ kho sườn non: cho vào đây khoảng hai muỗng canh dầu ăn để chúng ta thắng caramel màu.",
+      "start": 137.12,
+      "end": 143.04,
+      "n_words": 22,
+      "start_frame": 3428,
+      "end_frame": 3576,
+      "keyframes": [
+        "003428.webp",
+        "003429.webp",
+        "003450.webp",
+        "003471.webp",
+        "003472.webp",
+        "003520.webp",
+        "003569.webp",
+        "003570.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Vào đây một muỗng canh đường, phần caramel cũng đã được rồi.",
+      "start": 143.44,
+      "end": 146.56,
+      "n_words": 12,
+      "start_frame": 3586,
+      "end_frame": 3664,
+      "keyframes": [
+        "003597.webp",
+        "003624.webp",
+        "003625.webp",
+        "003651.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Hưng sẽ cho vào đây tỏi và hành tím băm để chúng ta phi thơm.",
+      "start": 146.56,
+      "end": 150.48,
+      "n_words": 15,
+      "start_frame": 3664,
+      "end_frame": 3762,
+      "keyframes": [
+        "003678.webp",
+        "003679.webp",
+        "003712.webp",
+        "003745.webp",
+        "003746.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Tiếp tục Quốc Hưng sẽ cho hết cái phần sườn non và chúng ta đã ướp vào, chúng ta sẽ xào đều lên.",
+      "start": 150.48,
+      "end": 158.56,
+      "n_words": 23,
+      "start_frame": 3762,
+      "end_frame": 3964,
+      "keyframes": [
+        "003770.webp",
+        "003795.webp",
+        "003796.webp",
+        "003829.webp",
+        "003863.webp",
+        "003864.webp",
+        "003885.webp",
+        "003906.webp",
+        "003907.webp",
+        "003953.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Đây là cái giai đoạn quyết định cho cái món sườn của chúng ta có cái màu đẹp hay không đúng không?",
+      "start": 158.56,
+      "end": 167.08,
+      "n_words": 22,
+      "start_frame": 3964,
+      "end_frame": 4177,
+      "keyframes": [
+        "004000.webp",
+        "004001.webp",
+        "004051.webp",
+        "004102.webp",
+        "004103.webp",
+        "004137.webp",
+        "004172.webp",
+        "004173.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Hương sẽ cho phần dưa cải chua vào, cho vào đây ớt hiểm đập dập nè.",
+      "start": 167.08,
+      "end": 173.56,
+      "n_words": 16,
+      "start_frame": 4177,
+      "end_frame": 4339,
+      "keyframes": [
+        "004199.webp",
+        "004225.webp",
+        "004226.webp",
+        "004251.webp",
+        "004277.webp",
+        "004278.webp",
+        "004309.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Bây giờ thì phần sườn cũng như là dưa cải thấm vị, dưa cải thấm vị rồi, Phước Hương sẽ cho vào đây một trái dừa tươi kho sườn với nước dừa để tăng thêm vị ngọt và thơm ngon cho món ăn, cho thêm phần nước lạnh để cho xăm xắp cái phần sườn non và dưa cải chua.",
+      "start": 173.56,
+      "end": 187.0,
+      "n_words": 60,
+      "start_frame": 4339,
+      "end_frame": 4675,
+      "keyframes": [
+        "004341.webp",
+        "004342.webp",
+        "004398.webp",
+        "004455.webp",
+        "004456.webp",
+        "004503.webp",
+        "004550.webp",
+        "004551.webp",
+        "004614.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Tiếp tục Phước Hương sẽ cho phần trứng cút và chúng ta đã luộc chín lột vỏ sẵn rồi, đem vào đây là một muỗng rưỡi cà phê hạt nêm Aji-ngon heo.",
+      "start": 187.0,
+      "end": 195.12,
+      "n_words": 32,
+      "start_frame": 4675,
+      "end_frame": 4878,
+      "keyframes": [
+        "004677.webp",
+        "004678.webp",
+        "004729.webp",
+        "004781.webp",
+        "004782.webp",
+        "004808.webp",
+        "004834.webp",
+        "004835.webp",
+        "004856.webp",
+        "004877.webp",
+        "004878.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Sẽ đậy nắp lại nè và bây giờ chúng ta sẽ kho với lửa vừa.",
+      "start": 195.12,
+      "end": 198.8,
+      "n_words": 15,
+      "start_frame": 4878,
+      "end_frame": 4970,
+      "keyframes": [
+        "004878.webp",
+        "004894.webp",
+        "004910.webp",
+        "004911.webp",
+        "004938.webp",
+        "004966.webp",
+        "004967.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Đối với món kho ngày hôm nay thì chúng ta sẽ kho đậy nắp kho với lửa nhỏ giúp cho sườn chín mềm.",
+      "start": 198.8,
+      "end": 204.16,
+      "n_words": 23,
+      "start_frame": 4970,
+      "end_frame": 5104,
+      "keyframes": [
+        "005047.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trong quá trình kho Phước có biết không, trong trứng cút thì có rất là nhiều vitamin nhóm B và người ta xác định là cái lượng vitamin nhóm B trong trứng cút còn nhiều hơn cả trứng gà nữa hay chưa?",
+      "start": 204.16,
+      "end": 215.84,
+      "n_words": 42,
+      "start_frame": 5104,
+      "end_frame": 5396,
+      "keyframes": [
+        "005127.webp",
+        "005128.webp",
+        "005174.webp",
+        "005220.webp",
+        "005221.webp",
+        "005272.webp",
+        "005324.webp",
+        "005325.webp",
+        "005346.webp",
+        "005367.webp",
+        "005368.webp",
+        "005385.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Và đối với vitamin nhóm B, đặc biệt là B2 thì sẽ giúp cho cơ thể trong quá trình phát triển, đặc biệt là trong giai đoạn lứa tuổi dậy thì.",
+      "start": 215.84,
+      "end": 224.16,
+      "n_words": 31,
+      "start_frame": 5396,
+      "end_frame": 5604,
+      "keyframes": [
+        "005402.webp",
+        "005403.webp",
+        "005459.webp",
+        "005516.webp",
+        "005517.webp",
+        "005547.webp",
+        "005577.webp",
+        "005578.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Wow!",
+      "start": 224.16,
+      "end": 225.2,
+      "n_words": 1,
+      "start_frame": 5604,
+      "end_frame": 5630,
+      "keyframes": [
+        "005606.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tiếp theo Phước Hương sẽ cho phần cà chua vào để chúng ta tiếp tục kho, cho phần ớt sừng chúng ta cắt lát vào nè, kho tiếp tục khoảng hai đến ba phút nữa là được rồi.",
+      "start": 225.2,
+      "end": 235.16,
+      "n_words": 38,
+      "start_frame": 5630,
+      "end_frame": 5879,
+      "keyframes": [
+        "005635.webp",
+        "005636.webp",
+        "005666.webp",
+        "005696.webp",
+        "005697.webp",
+        "005719.webp",
+        "005741.webp",
+        "005742.webp",
+        "005772.webp",
+        "005802.webp",
+        "005803.webp",
+        "005842.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Và các bạn ơi, có thể thấy là nguyên liệu sườn non rất là dễ mua và dễ tìm đúng không?",
+      "start": 235.16,
+      "end": 239.84,
+      "n_words": 21,
+      "start_frame": 5879,
+      "end_frame": 5996,
+      "keyframes": [
+        "005881.webp",
+        "005882.webp",
+        "005974.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đây là một loại thực phẩm rất là giàu protein và kali.",
+      "start": 239.84,
+      "end": 242.76,
+      "n_words": 12,
+      "start_frame": 5996,
+      "end_frame": 6069,
+      "keyframes": [
+        "006067.webp",
+        "006068.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Hương sẽ cho vào đây một ít hành và ngò.",
+      "start": 242.76,
+      "end": 245.24,
+      "n_words": 10,
+      "start_frame": 6069,
+      "end_frame": 6131,
+      "keyframes": [
+        "006114.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Để xem lại nguyên liệu cũng như cách nấu của món ăn này thì chúng ta có thể dùng điện thoại di động quẹt mã QR đang hiển thị trên màn hình nha.",
+      "start": 245.24,
+      "end": 253.56,
+      "n_words": 33,
+      "start_frame": 6131,
+      "end_frame": 6339,
+      "keyframes": [
+        "006160.webp",
+        "006161.webp",
+        "006227.webp",
+        "006293.webp",
+        "006294.webp",
+        "006318.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ múc món kho ra, cái phần nước sốt kho giữ nguyên được cái màu nâu nâu caramel trông rất là hấp dẫn ha.",
+      "start": 253.56,
+      "end": 261.88,
+      "n_words": 28,
+      "start_frame": 6339,
+      "end_frame": 6547,
+      "keyframes": [
+        "006343.webp",
+        "006344.webp",
+        "006387.webp",
+        "006430.webp",
+        "006431.webp",
+        "006497.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đúng rồi, cho thêm một ít hành ngò lên trên và bây giờ món sườn kho dưa cải của chúng ta đã hoàn tất rồi.",
+      "start": 261.88,
+      "end": 270.84,
+      "n_words": 25,
+      "start_frame": 6547,
+      "end_frame": 6771,
+      "keyframes": [
+        "006563.webp",
+        "006564.webp",
+        "006629.webp",
+        "006695.webp",
+        "006696.webp",
+        "006745.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và để tạo nên một bữa ăn đầy dinh dưỡng thì chúng ta có thể kết hợp với món gà xào măng tây sẽ rất là tuyệt vời.",
+      "start": 270.84,
+      "end": 277.16,
+      "n_words": 28,
+      "start_frame": 6771,
+      "end_frame": 6929,
+      "keyframes": [
+        "006795.webp",
+        "006796.webp",
+        "006854.webp",
+        "006913.webp",
+        "006914.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Sườn non chín mềm, tương mỡ chua cay ngọt mặn đậm đà, dưa cải giòn giòn thấm vị, nước kho nóng hổi ăn cùng cơm thì trời mưa nào cũng ấm áp vô cùng.",
+      "start": 277.16,
+      "end": 289.2,
+      "n_words": 34,
+      "start_frame": 6929,
+      "end_frame": 7230,
+      "keyframes": [
+        "006970.webp",
+        "007027.webp",
+        "007042.webp",
+        "007069.webp",
+        "007097.webp",
+        "007098.webp",
+        "007178.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Với những nguyên liệu dễ tìm, cách chế biến thì lại dễ làm, sườn non kho dưa cải hứa hẹn sẽ là một món ngon cho những bữa cơm tối của các bạn.",
+      "start": 289.2,
+      "end": 296.64,
+      "n_words": 33,
+      "start_frame": 7230,
+      "end_frame": 7416,
+      "keyframes": [
+        "007259.webp",
+        "007260.webp",
+        "007338.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và chúng ta cũng có thể xem lại công thức và nhiều món ngon hơn nữa của chương trình Món Ngon Mỗi Ngày bằng cách truy cập vào kênh YouTube, website và fanpage của chương trình.",
+      "start": 296.64,
+      "end": 304.92,
+      "n_words": 36,
+      "start_frame": 7416,
+      "end_frame": 7623,
+      "keyframes": [
+        "007417.webp",
+        "007418.webp",
+        "007558.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Còn bây giờ thì xin chào và hẹn gặp lại.",
+      "start": 304.92,
+      "end": 308.04,
+      "n_words": 10,
+      "start_frame": 7623,
+      "end_frame": 7701,
+      "keyframes": [
+        "007699.webp",
+        "007700.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

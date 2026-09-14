@@ -1,0 +1,797 @@
+{
+  "video_id": "L26_V246",
+  "fps": 25.0,
+  "n_sentences": 44,
+  "total_words": 1065,
+  "sentences": [
+    {
+      "text": "Giờ Món ngon mỗi ngày.",
+      "start": 0.0,
+      "end": 12.56,
+      "n_words": 5,
+      "start_frame": 0,
+      "end_frame": 314,
+      "keyframes": [
+        "000000.webp",
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 34
+    },
+    {
+      "text": "Cha mẹ thơm quá à!",
+      "start": 12.56,
+      "end": 13.92,
+      "n_words": 5,
+      "start_frame": 314,
+      "end_frame": 348,
+      "keyframes": [
+        "000323.webp",
+        "000347.webp",
+        "000348.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mà anh Vũ ơi, hôm nay em thấy anh nhìn giống như là thầy thuốc vậy đó nha, đang bốc thuốc cho một người đó mà.",
+      "start": 13.92,
+      "end": 19.6,
+      "n_words": 26,
+      "start_frame": 348,
+      "end_frame": 490,
+      "keyframes": [
+        "000348.webp",
+        "000376.webp",
+        "000404.webp",
+        "000405.webp",
+        "000419.webp",
+        "000433.webp",
+        "000434.webp",
+        "000457.webp",
+        "000480.webp",
+        "000481.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Một người này anh theo dõi trên Facebook mới đăng lên, á thích cái món gì hầm hầm, càng hầm càng ngon trời!",
+      "start": 19.6,
+      "end": 25.6,
+      "n_words": 23,
+      "start_frame": 490,
+      "end_frame": 640,
+      "keyframes": [
+        "000535.webp",
+        "000589.webp",
+        "000590.webp",
+        "000611.webp",
+        "000632.webp",
+        "000633.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Người ta đăng thần kinh như vậy cũng bị phát hiện.",
+      "start": 25.6,
+      "end": 27.68,
+      "n_words": 11,
+      "start_frame": 640,
+      "end_frame": 692,
+      "keyframes": [
+        "000661.webp",
+        "000689.webp",
+        "000690.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bạn em ở miền Trung nói là cái món hầm là thường là phải có sả nghệ, mà ở đây em thấy đủ rồi nè nhưng mà thiếu mỗi sả nghệ thôi đúng không ạ?",
+      "start": 27.68,
+      "end": 34.92,
+      "n_words": 35,
+      "start_frame": 692,
+      "end_frame": 873,
+      "keyframes": [
+        "000723.webp",
+        "000757.webp",
+        "000758.webp",
+        "000788.webp",
+        "000818.webp",
+        "000819.webp",
+        "000850.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Đúng rồi em, hầm ở miền Tây cũng có, đặc biệt Bến Tre quê anh á thường thì không dùng sả nghệ mà dùng những cái gia vị thuốc bắc như vậy, và trong món ăn ngày hôm nay là anh có biến tấu cho thêm dừa nước để nhai ôi đã quá!",
+      "start": 34.92,
+      "end": 49.12,
+      "n_words": 53,
+      "start_frame": 873,
+      "end_frame": 1228,
+      "keyframes": [
+        "000882.webp",
+        "000883.webp",
+        "000915.webp",
+        "000948.webp",
+        "000949.webp",
+        "000998.webp",
+        "001047.webp",
+        "001048.webp",
+        "001091.webp",
+        "001134.webp",
+        "001135.webp",
+        "001161.webp",
+        "001187.webp",
+        "001188.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Vậy thì cần chừng gì nữa mình thực hiện ngay thôi.",
+      "start": 49.12,
+      "end": 54.32,
+      "n_words": 11,
+      "start_frame": 1228,
+      "end_frame": 1358,
+      "keyframes": [
+        "001247.webp",
+        "001307.webp",
+        "001308.webp",
+        "001332.webp",
+        "001357.webp",
+        "001358.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Giò heo hầm nước thấm vị đậm đà, vừa lạ vừa quen.",
+      "start": 54.32,
+      "end": 72.28,
+      "n_words": 12,
+      "start_frame": 1358,
+      "end_frame": 1807,
+      "keyframes": [
+        "001358.webp",
+        "001411.webp",
+        "001465.webp",
+        "001466.webp",
+        "001495.webp",
+        "001525.webp",
+        "001550.webp",
+        "001604.webp",
+        "001658.webp",
+        "001659.webp",
+        "001749.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Hân hoan chào đón các bạn khán giả đang xem chương trình Món ngon mỗi ngày.",
+      "start": 72.28,
+      "end": 77.04,
+      "n_words": 16,
+      "start_frame": 1807,
+      "end_frame": 1926,
+      "keyframes": [
+        "001839.webp",
+        "001840.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 77.04,
+      "end": 82.64,
+      "n_words": 11,
+      "start_frame": 1926,
+      "end_frame": 2066,
+      "keyframes": [
+        "001933.webp",
+        "002027.webp",
+        "002028.webp",
+        "002063.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Thịt giò rất là bắt mắt, em có thích ăn phần thịt không? Dạ rất là thích luôn!",
+      "start": 82.64,
+      "end": 86.24,
+      "n_words": 18,
+      "start_frame": 2066,
+      "end_frame": 2156,
+      "keyframes": [
+        "002099.webp",
+        "002100.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Mà bên cạnh đó giò heo còn có nhiều chất dinh dưỡng nữa, vừa có vitamin A, vitamin B nè, chống lão hóa da dành cho các chị em phụ nữ nè.",
+      "start": 86.24,
+      "end": 93.96,
+      "n_words": 32,
+      "start_frame": 2156,
+      "end_frame": 2349,
+      "keyframes": [
+        "002185.webp",
+        "002270.webp",
+        "002271.webp",
+        "002306.webp",
+        "002341.webp",
+        "002342.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cảm ơn em đã quảng cáo cho giò heo.",
+      "start": 93.96,
+      "end": 96.04,
+      "n_words": 9,
+      "start_frame": 2349,
+      "end_frame": 2401,
+      "keyframes": [
+        "002371.webp",
+        "002400.webp",
+        "002401.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Giò heo này thì chúng ta mua về rửa sạch nha các bạn.",
+      "start": 96.04,
+      "end": 99.36,
+      "n_words": 13,
+      "start_frame": 2401,
+      "end_frame": 2484,
+      "keyframes": [
+        "002401.webp",
+        "002462.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ ướp giò heo trước.",
+      "start": 99.36,
+      "end": 101.12,
+      "n_words": 9,
+      "start_frame": 2484,
+      "end_frame": 2528,
+      "keyframes": [
+        "002523.webp",
+        "002524.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đầu tiên chúng ta ướp vào đây hai muỗng cà phê hạt nêm Aji-ngon heo, một muỗng cà phê bột ngọt Ajinomoto, một muỗng cà phê tiêu - cần nhiều nhiều tiêu tí xíu nha các bạn, một muỗng cà phê đường, một muỗng cà phê muối và một muỗng canh nước tương Phổ Sĩ.",
+      "start": 101.12,
+      "end": 116.84,
+      "n_words": 55,
+      "start_frame": 2528,
+      "end_frame": 2921,
+      "keyframes": [
+        "002562.webp",
+        "002600.webp",
+        "002601.webp",
+        "002616.webp",
+        "002631.webp",
+        "002632.webp",
+        "002667.webp",
+        "002703.webp",
+        "002704.webp",
+        "002728.webp",
+        "002753.webp",
+        "002754.webp",
+        "002768.webp",
+        "002783.webp",
+        "002784.webp",
+        "002798.webp",
+        "002812.webp",
+        "002813.webp",
+        "002839.webp",
+        "002866.webp",
+        "002867.webp",
+        "002905.webp"
+      ],
+      "keyframe_count": 22
+    },
+    {
+      "text": "Cho thêm vào đây một muỗng canh rượu trắng.",
+      "start": 116.84,
+      "end": 119.32,
+      "n_words": 9,
+      "start_frame": 2921,
+      "end_frame": 2983,
+      "keyframes": [
+        "002943.webp",
+        "002944.webp",
+        "002950.webp",
+        "002956.webp",
+        "002957.webp",
+        "002981.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta ướp đều để khoảng chừng 10 phút thôi các bạn thấm, tại vì món hầm á chúng ta có thời gian hầm rất là lâu.",
+      "start": 119.32,
+      "end": 126.56,
+      "n_words": 27,
+      "start_frame": 2983,
+      "end_frame": 3164,
+      "keyframes": [
+        "003006.webp",
+        "003007.webp",
+        "003026.webp",
+        "003046.webp",
+        "003047.webp",
+        "003105.webp",
+        "003164.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Khi chúng ta sử dụng các gia vị khô mà nặng mùi, ví dụ như là quế chi này thì chúng ta cho cái lượng vô vừa phải thôi, nếu chúng ta cho ít quá thì không có dậy mùi và chúng ta cho nhiều quá thì nó sẽ bị nhẫn nha.",
+      "start": 126.56,
+      "end": 138.16,
+      "n_words": 52,
+      "start_frame": 3164,
+      "end_frame": 3454,
+      "keyframes": [
+        "003164.webp",
+        "003165.webp",
+        "003177.webp",
+        "003189.webp",
+        "003190.webp",
+        "003208.webp",
+        "003227.webp",
+        "003228.webp",
+        "003340.webp",
+        "003452.webp",
+        "003453.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Với năm khoanh giò heo như vậy, chúng ta cho một khúc khoảng năm sáu cm như vậy.",
+      "start": 138.16,
+      "end": 141.84,
+      "n_words": 18,
+      "start_frame": 3454,
+      "end_frame": 3546,
+      "keyframes": [
+        "003498.webp",
+        "003543.webp",
+        "003544.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Còn tỏi vị thì chúng ta cho một tép nhỏ thôi, tép lớn thì chúng ta cho khoảng nửa tép.",
+      "start": 141.84,
+      "end": 146.08,
+      "n_words": 20,
+      "start_frame": 3546,
+      "end_frame": 3652,
+      "keyframes": [
+        "003574.webp",
+        "003604.webp",
+        "003605.webp",
+        "003627.webp",
+        "003650.webp",
+        "003651.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta dùng ớt hiểm khô sẽ ngon hơn nha các bạn nha.",
+      "start": 146.08,
+      "end": 149.32,
+      "n_words": 13,
+      "start_frame": 3652,
+      "end_frame": 3733,
+      "keyframes": [
+        "003691.webp",
+        "003731.webp",
+        "003732.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mà anh Vũ ơi, anh sơ chế cái phần giò heo như thế nào mà Thanh Phương thấy nước trong mà trông rất là ngon á?",
+      "start": 149.32,
+      "end": 153.52,
+      "n_words": 26,
+      "start_frame": 3733,
+      "end_frame": 3838,
+      "keyframes": [
+        "003802.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Anh quên dặn em nữa thưa các bạn, giò heo này chúng ta nên ngâm phèn chua để cho giò heo được thơm sạch và ngon hơn rất là nhiều nha các bạn.",
+      "start": 153.52,
+      "end": 161.36,
+      "n_words": 33,
+      "start_frame": 3838,
+      "end_frame": 4034,
+      "keyframes": [
+        "003873.webp",
+        "003874.webp",
+        "003952.webp",
+        "004031.webp",
+        "004032.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ngâm phèn chua nghĩa là mình sẽ xả với nước lạnh nhiều lần đúng không ạ? Đúng vậy.",
+      "start": 161.36,
+      "end": 164.96,
+      "n_words": 18,
+      "start_frame": 4034,
+      "end_frame": 4124,
+      "keyframes": [
+        "004081.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nhưng mà thưa các bạn, bây giờ thì chúng ta sẽ dùng một cái nồi đất để chúng ta hầm món ăn này.",
+      "start": 164.96,
+      "end": 170.56,
+      "n_words": 23,
+      "start_frame": 4124,
+      "end_frame": 4264,
+      "keyframes": [
+        "004130.webp",
+        "004131.webp",
+        "004198.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cho vào đây ít dầu, chúng ta cho mấy gia vị vô, kế tiếp chúng ta sẽ cho vô đó tỏi, hành tím để nguyên củ luôn, xào cho dậy mùi thơm nha.",
+      "start": 170.56,
+      "end": 181.76,
+      "n_words": 33,
+      "start_frame": 4264,
+      "end_frame": 4544,
+      "keyframes": [
+        "004266.webp",
+        "004267.webp",
+        "004280.webp",
+        "004294.webp",
+        "004295.webp",
+        "004311.webp",
+        "004328.webp",
+        "004329.webp",
+        "004362.webp",
+        "004395.webp",
+        "004396.webp",
+        "004419.webp",
+        "004442.webp",
+        "004443.webp",
+        "004468.webp",
+        "004494.webp",
+        "004495.webp",
+        "004517.webp",
+        "004540.webp",
+        "004541.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Những cái mà gia vị này kia chúng ta cho vô từ đầu khi mà dầu nó còn hơi ấm ấm để ra cái tinh dầu rồi chúng ta cho giò heo vô ha, chúng ta xào lên xào cho săn nha các bạn đó.",
+      "start": 181.76,
+      "end": 195.8,
+      "n_words": 45,
+      "start_frame": 4544,
+      "end_frame": 4895,
+      "keyframes": [
+        "004573.webp",
+        "004606.webp",
+        "004607.webp",
+        "004656.webp",
+        "004705.webp",
+        "004706.webp",
+        "004728.webp",
+        "004750.webp",
+        "004751.webp",
+        "004824.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Rồi khi chúng ta xào cho những cái khoanh giò heo săn lên như vậy, cho nước dừa vô sâm sấp mặt giò heo thôi các bạn.",
+      "start": 195.8,
+      "end": 203.4,
+      "n_words": 27,
+      "start_frame": 4895,
+      "end_frame": 5085,
+      "keyframes": [
+        "004897.webp",
+        "004898.webp",
+        "004937.webp",
+        "004976.webp",
+        "004977.webp",
+        "005029.webp",
+        "005082.webp",
+        "005083.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Ở đây cho khoảng nửa trái lê to hoặc một trái lê nhỏ, chúng ta mài ra như vậy và thưa các bạn, cho vào đây một ít lê mài để tạo vị ngọt dịu tự nhiên cho món ăn nha các bạn.",
+      "start": 203.4,
+      "end": 213.2,
+      "n_words": 43,
+      "start_frame": 5085,
+      "end_frame": 5330,
+      "keyframes": [
+        "005109.webp",
+        "005136.webp",
+        "005137.webp",
+        "005162.webp",
+        "005187.webp",
+        "005188.webp",
+        "005225.webp",
+        "005262.webp",
+        "005263.webp",
+        "005294.webp",
+        "005326.webp",
+        "005327.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Và chúng ta cho phần cơm dừa nước vào, chúng ta nên chọn cơm dừa nước dày nha các bạn, không quá non nha các bạn, như vậy thì món ăn này sẽ ngon và hấp dẫn hơn.",
+      "start": 213.2,
+      "end": 222.52,
+      "n_words": 38,
+      "start_frame": 5330,
+      "end_frame": 5563,
+      "keyframes": [
+        "005351.webp",
+        "005376.webp",
+        "005377.webp",
+        "005412.webp",
+        "005447.webp",
+        "005448.webp",
+        "005504.webp",
+        "005561.webp",
+        "005562.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Rồi chúng ta để nắp lại, chúng ta hầm nhỏ lửa từ từ khoảng một tiếng tới một tiếng 15 phút thì món ăn sẽ hoàn thành rồi.",
+      "start": 222.52,
+      "end": 229.4,
+      "n_words": 28,
+      "start_frame": 5563,
+      "end_frame": 5735,
+      "keyframes": [
+        "005599.webp",
+        "005637.webp",
+        "005638.webp",
+        "005677.webp",
+        "005717.webp",
+        "005718.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Anh kiểm tra xem nước sánh sệt luôn ạ.",
+      "start": 229.4,
+      "end": 231.84,
+      "n_words": 9,
+      "start_frame": 5735,
+      "end_frame": 5796,
+      "keyframes": [
+        "005739.webp",
+        "005760.webp",
+        "005761.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đó, giò heo bắt đầu mềm rồi đó. Rồi đó.",
+      "start": 231.84,
+      "end": 233.52,
+      "n_words": 10,
+      "start_frame": 5796,
+      "end_frame": 5838,
+      "keyframes": [
+        "005814.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Dạ và các bạn ơi, để thực hiện món ăn này các bạn nhớ quét mã QR đang hiển thị trên màn hình để chúng ta có thể tìm hiểu kỹ hơn về công thức món ăn nhé.",
+      "start": 233.52,
+      "end": 244.68,
+      "n_words": 38,
+      "start_frame": 5838,
+      "end_frame": 6117,
+      "keyframes": [
+        "005868.webp",
+        "005869.webp",
+        "005961.webp",
+        "006053.webp",
+        "006054.webp",
+        "006078.webp",
+        "006103.webp",
+        "006104.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Rất là thơm mùi quế chi nè, hồi, gừng làm dậy lên hương thơm nồng nàn cho món ăn và cái phần nước nó cứ sền sệt, nhìn thôi là đã cảm thấy rất là kích thích vị giác luôn đấy ạ.",
+      "start": 244.68,
+      "end": 255.84,
+      "n_words": 42,
+      "start_frame": 6117,
+      "end_frame": 6396,
+      "keyframes": [
+        "006133.webp",
+        "006163.webp",
+        "006164.webp",
+        "006208.webp",
+        "006253.webp",
+        "006254.webp",
+        "006324.webp",
+        "006394.webp",
+        "006395.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Vị ngọt sực của cơm dừa nước, thêm ít me rồi mình thả thêm ngò hành này kia ha hấp dẫn hơn, ớt pháo rồi lên.",
+      "start": 255.84,
+      "end": 266.08,
+      "n_words": 26,
+      "start_frame": 6396,
+      "end_frame": 6652,
+      "keyframes": [
+        "006427.webp",
+        "006459.webp",
+        "006460.webp",
+        "006485.webp",
+        "006510.webp",
+        "006511.webp",
+        "006541.webp",
+        "006571.webp",
+        "006572.webp",
+        "006593.webp",
+        "006615.webp",
+        "006616.webp",
+        "006633.webp",
+        "006651.webp",
+        "006652.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Là chúng ta đã hoàn thành xong một món rất là lạ đúng không các bạn.",
+      "start": 266.28,
+      "end": 269.68,
+      "n_words": 16,
+      "start_frame": 6657,
+      "end_frame": 6742,
+      "keyframes": [
+        "006701.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Món này chúng ta mà kết hợp cùng với món măng tây xào tỏi mực và canh gà lá giang thì chúng ta có ngay một bữa ăn vô cùng dinh dưỡng luôn.",
+      "start": 269.68,
+      "end": 277.84,
+      "n_words": 33,
+      "start_frame": 6742,
+      "end_frame": 6946,
+      "keyframes": [
+        "006751.webp",
+        "006752.webp",
+        "006846.webp",
+        "006941.webp",
+        "006942.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Món ngon thơm sực mùi quế, giò heo mềm từng thớ thịt thấm vị quyện vào dừa nước dẻo dẻo, ăn với cơm nóng là hết ý. Vừa quen vừa lạ lại bắt vị, ngon cơm.",
+      "start": 277.84,
+      "end": 292.16,
+      "n_words": 36,
+      "start_frame": 6946,
+      "end_frame": 7304,
+      "keyframes": [
+        "006979.webp",
+        "007016.webp",
+        "007031.webp",
+        "007059.webp",
+        "007088.webp",
+        "007089.webp",
+        "007161.webp",
+        "007234.webp",
+        "007235.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Hãy thực hiện ngay món giò heo dừa nước các bạn nhé!",
+      "start": 292.16,
+      "end": 295.28,
+      "n_words": 12,
+      "start_frame": 7304,
+      "end_frame": 7382,
+      "keyframes": [
+        "007308.webp",
+        "007382.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và nếu như các bạn có muốn tìm hiểu thêm về công thức các món ăn ngon hãy truy cập vào kênh YouTube, website và fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 295.28,
+      "end": 302.36,
+      "n_words": 33,
+      "start_frame": 7382,
+      "end_frame": 7559,
+      "keyframes": [
+        "007382.webp",
+        "007383.webp",
+        "007515.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Còn bây giờ xin được mến chào tạm biệt và hẹn gặp lại.",
+      "start": 302.36,
+      "end": 305.92,
+      "n_words": 13,
+      "start_frame": 7559,
+      "end_frame": 7648,
+      "keyframes": [
+        "007648.webp"
+      ],
+      "keyframe_count": 1
+    }
+  ]
+}

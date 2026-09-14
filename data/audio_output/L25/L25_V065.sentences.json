@@ -1,0 +1,1381 @@
+{
+  "video_id": "L25_V065",
+  "fps": 25.0,
+  "n_sentences": 80,
+  "total_words": 3443,
+  "sentences": [
+    {
+      "text": "Thầy rất vui khi được gặp lại các em trong chương trình ôn tập chuẩn bị cho kỳ thi trung học phổ thông năm 2024 do báo Thanh Niên tổ chức.",
+      "start": 0.0,
+      "end": 12.04,
+      "n_words": 31,
+      "start_frame": 0,
+      "end_frame": 301,
+      "keyframes": [
+        "000000.webp",
+        "000033.webp",
+        "000066.webp",
+        "000067.webp",
+        "000204.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hôm nay, thầy sẽ hướng dẫn em ôn tập chuyên đề thứ ba, đó là cách xác định số loại thể ba và thể tam bội khác nhau về kiểu gen. Thầy nhắc lại về thể ba và thể tam bội. Hãy lấy ví dụ như một loài có bộ nhiễm sắc thể 2n = 8. Ký hiệu như vầy tức là tế bào này có 8 nhiễm sắc thể, và 2n tức là nhiễm sắc thể nằm thành cặp tương đồng, cho nên chúng ta sẽ có 4 cặp nhiễm sắc thể tương đồng và tổng nhiễm sắc thể là 8 chiếc. Thể ba là một cặp nhiễm sắc thể nào đó có 3 chiếc, còn các cặp còn lại vẫn có 2 chiếc bình thường.",
+      "start": 12.04,
+      "end": 51.44,
+      "n_words": 127,
+      "start_frame": 301,
+      "end_frame": 1286,
+      "keyframes": [
+        "000341.webp",
+        "000342.webp",
+        "000436.webp",
+        "000531.webp",
+        "000532.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hãy lấy ví dụ như cặp nhiễm sắc thể số 1 này có 3 chiếc, các cặp còn lại có 2 chiếc bình thường thì sẽ là thể ba, sẽ ký hiệu là 2n + 1 = 9.",
+      "start": 51.44,
+      "end": 59.64,
+      "n_words": 38,
+      "start_frame": 1286,
+      "end_frame": 1491,
+      "keyframes": [
+        "001351.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Còn thể tam bội tức là tất cả các cặp nhiễm sắc thể đều có 3 chiếc, sẽ ký hiệu là 3n. Trong trường hợp này 3n sẽ = 12. Ở đây em lưu ý là nếu như đề hỏi số loại thể ba khác nhau về nhiễm sắc thể thì thể ba là một cặp nhiễm sắc thể nào đó có 3 chiếc, các cặp còn lại có 2 chiếc bình thường, thì số loại thể ba khác nhau về nhiễm sắc thể sẽ = n, tức là sẽ = với số cặp. Thì thể ba có thể ở cặp số 1, cặp số 2, vân vân cho tới cặp n, đó là khác nhau về nhiễm sắc thể.",
+      "start": 60.56,
+      "end": 99.12,
+      "n_words": 120,
+      "start_frame": 1514,
+      "end_frame": 2478,
+      "keyframes": [
+        "001583.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Còn bây giờ thầy sẽ phân tích cách xác định số loại kiểu gen của các loại thể ba khác nhau.",
+      "start": 99.12,
+      "end": 105.4,
+      "n_words": 21,
+      "start_frame": 2478,
+      "end_frame": 2635,
+      "keyframes": [
+        "002635.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trường Đại học Quốc tế Sài Gòn (SIU) không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SIU nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt.",
+      "start": 105.4,
+      "end": 116.24,
+      "n_words": 39,
+      "start_frame": 2635,
+      "end_frame": 2906,
+      "keyframes": [
+        "002635.webp",
+        "002636.webp",
+        "002649.webp",
+        "002663.webp",
+        "002664.webp",
+        "002679.webp",
+        "002695.webp",
+        "002696.webp",
+        "002718.webp",
+        "002740.webp",
+        "002741.webp",
+        "002749.webp",
+        "002758.webp",
+        "002759.webp",
+        "002767.webp",
+        "002775.webp",
+        "002776.webp",
+        "002784.webp",
+        "002792.webp",
+        "002793.webp",
+        "002805.webp",
+        "002817.webp",
+        "002818.webp",
+        "002826.webp",
+        "002835.webp",
+        "002857.webp",
+        "002860.webp",
+        "002863.webp",
+        "002864.webp",
+        "002881.webp",
+        "002898.webp",
+        "002899.webp"
+      ],
+      "keyframe_count": 32
+    },
+    {
+      "text": "Mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.",
+      "start": 117.12,
+      "end": 127.0,
+      "n_words": 38,
+      "start_frame": 2928,
+      "end_frame": 3175,
+      "keyframes": [
+        "002928.webp",
+        "002941.webp",
+        "002955.webp",
+        "002956.webp",
+        "002974.webp",
+        "002992.webp",
+        "002993.webp",
+        "003009.webp",
+        "003025.webp",
+        "003026.webp",
+        "003041.webp",
+        "003056.webp",
+        "003057.webp",
+        "003073.webp",
+        "003090.webp",
+        "003091.webp",
+        "003111.webp",
+        "003131.webp",
+        "003132.webp",
+        "003140.webp",
+        "003149.webp",
+        "003150.webp",
+        "003157.webp",
+        "003164.webp",
+        "003174.webp"
+      ],
+      "keyframe_count": 25
+    },
+    {
+      "text": "Năm 2024, SIU tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng 4 phương thức tuyển sinh.",
+      "start": 127.0,
+      "end": 135.6,
+      "n_words": 23,
+      "start_frame": 3175,
+      "end_frame": 3390,
+      "keyframes": [
+        "003187.webp",
+        "003200.webp",
+        "003201.webp",
+        "003216.webp",
+        "003231.webp",
+        "003232.webp",
+        "003247.webp",
+        "003263.webp",
+        "003264.webp",
+        "003282.webp",
+        "003300.webp",
+        "003301.webp",
+        "003315.webp",
+        "003330.webp",
+        "003356.webp",
+        "003371.webp",
+        "003387.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "SIU cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SIU, 100 suất học bổng Tiếp bước hành trình Quỹ tài năng trẻ, học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa, thể thao, nghệ thuật; Học bổng Đồng hành xây dựng nhân lực chất lượng cao cho thành phố Thủ Đức, thành phố Hồ Chí Minh; Học bổng doanh nghiệp tài trợ; Học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.",
+      "start": 135.6,
+      "end": 162.12,
+      "n_words": 106,
+      "start_frame": 3390,
+      "end_frame": 4053,
+      "keyframes": [
+        "003392.webp",
+        "003412.webp",
+        "003432.webp",
+        "003443.webp",
+        "003459.webp",
+        "003476.webp",
+        "003477.webp",
+        "003504.webp",
+        "003531.webp",
+        "003532.webp",
+        "003561.webp",
+        "003590.webp",
+        "003591.webp",
+        "003604.webp",
+        "003617.webp",
+        "003618.webp",
+        "003630.webp",
+        "003642.webp",
+        "003669.webp",
+        "003677.webp",
+        "003685.webp",
+        "003686.webp",
+        "003700.webp",
+        "003714.webp",
+        "003715.webp",
+        "003729.webp",
+        "003744.webp",
+        "003745.webp",
+        "003760.webp",
+        "003776.webp",
+        "003777.webp",
+        "003792.webp",
+        "003807.webp",
+        "003808.webp",
+        "003826.webp",
+        "003844.webp",
+        "003845.webp",
+        "003862.webp",
+        "003879.webp",
+        "003880.webp",
+        "003899.webp",
+        "003918.webp",
+        "003919.webp",
+        "003934.webp",
+        "003949.webp",
+        "003950.webp",
+        "003963.webp",
+        "003976.webp",
+        "003977.webp",
+        "003995.webp",
+        "004013.webp",
+        "004014.webp",
+        "004029.webp",
+        "004044.webp",
+        "004045.webp"
+      ],
+      "keyframe_count": 55
+    },
+    {
+      "text": "SIU - Tâm hồn Việt Nam, giáo dục thế giới.",
+      "start": 162.12,
+      "end": 166.04,
+      "n_words": 10,
+      "start_frame": 4053,
+      "end_frame": 4151,
+      "keyframes": [
+        "004055.webp",
+        "004065.webp",
+        "004080.webp",
+        "004107.webp",
+        "004134.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ trên một cặp nhiễm sắc thể thường, thầy xét một gen có 2 alen là A lớn, A nhỏ.",
+      "start": 166.04,
+      "end": 174.0,
+      "n_words": 21,
+      "start_frame": 4151,
+      "end_frame": 4350,
+      "keyframes": [
+        "004197.webp",
+        "004322.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và nếu như cặp nhiễm sắc thể này có 3 chiếc thì sẽ tạo ra bao nhiêu loại kiểu gen?",
+      "start": 174.0,
+      "end": 180.56,
+      "n_words": 20,
+      "start_frame": 4350,
+      "end_frame": 4514,
+      "keyframes": [
+        "004447.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Các em dễ dàng viết được đó là 3.",
+      "start": 180.56,
+      "end": 183.36,
+      "n_words": 9,
+      "start_frame": 4514,
+      "end_frame": 4584,
+      "keyframes": [
+        "004572.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cụ thể 3 chiếc đó có thể là 3 chiếc A lớn, hoặc là 3 chiếc A nhỏ, hoặc là 2 chiếc A lớn 1 chiếc A nhỏ, và ngược lại.",
+      "start": 183.36,
+      "end": 194.72,
+      "n_words": 31,
+      "start_frame": 4584,
+      "end_frame": 4868,
+      "keyframes": [
+        "004697.webp",
+        "004822.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và nếu như đều là 3 chiếc A lớn hoặc 3 chiếc A nhỏ thì đó là kiểu gen đồng hợp, còn trường hợp còn lại gọi là dị hợp.",
+      "start": 194.72,
+      "end": 203.6,
+      "n_words": 30,
+      "start_frame": 4868,
+      "end_frame": 5090,
+      "keyframes": [
+        "004947.webp",
+        "005072.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và mở rộng ra nếu như mà một gen có n alen thì sẽ tạo ra số loại kiểu gen là bao nhiêu?",
+      "start": 203.6,
+      "end": 211.48,
+      "n_words": 23,
+      "start_frame": 5090,
+      "end_frame": 5287,
+      "keyframes": [
+        "005197.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Các em thấy là nếu như một gen có n alen trên nhiễm sắc thể thường thì lúc đó cặp nhiễm sắc thể này có 3 chiếc, thì số loại kiểu gen đồng hợp sẽ là n, thì cứ một alen đồng hợp thì alen đó sẽ có 3 chiếc trên nhiễm sắc thể đều mang alen này, cho nên sẽ có n trường hợp.",
+      "start": 211.48,
+      "end": 231.76,
+      "n_words": 65,
+      "start_frame": 5287,
+      "end_frame": 5794,
+      "keyframes": [
+        "005322.webp",
+        "005447.webp",
+        "005572.webp",
+        "005697.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Còn kiểu gen dị hợp thì chúng ta chỉ cần chọn một alen, alen đó sẽ nằm trên 2 nhiễm sắc thể thì trên nhiễm sắc thể còn lại sẽ mang một alen khác, cho nên trên nhiễm sắc thể còn lại alen đó sẽ còn n - 1 trường hợp.",
+      "start": 231.76,
+      "end": 246.84,
+      "n_words": 51,
+      "start_frame": 5794,
+      "end_frame": 6171,
+      "keyframes": [
+        "005822.webp",
+        "005947.webp",
+        "006072.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các em nhân lại thì sẽ được số loại, thì các em nhân lại và cộng với kiểu gen đồng hợp thì sẽ được số loại kiểu gen là n bình phương.",
+      "start": 246.84,
+      "end": 256.64,
+      "n_words": 32,
+      "start_frame": 6171,
+      "end_frame": 6416,
+      "keyframes": [
+        "006197.webp",
+        "006322.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và nếu như n ≥ 3 thì lúc này kiểu gen dị hợp sẽ có một trường hợp nữa đó là cả 3 alen trên 3 nhiễm sắc thể đều khác nhau, thì lúc đó chúng ta sẽ cộng thêm trường hợp là tổ hợp chập 3 của n, tức là chúng ta chỉ cần chọn ngẫu nhiên không theo trật tự 3 alen trong n alen thì chúng ta sẽ được một loại kiểu gen dị hợp cả 3 alen này.",
+      "start": 256.64,
+      "end": 285.16,
+      "n_words": 82,
+      "start_frame": 6416,
+      "end_frame": 7129,
+      "keyframes": [
+        "006447.webp",
+        "006572.webp",
+        "006697.webp",
+        "006822.webp",
+        "006947.webp",
+        "007072.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cho nên nếu như mà n ≥ 3 thì số loại kiểu gen sẽ = n bình phương cộng thêm cho tổ hợp chập 3 của n.",
+      "start": 285.16,
+      "end": 295.32,
+      "n_words": 27,
+      "start_frame": 7129,
+      "end_frame": 7383,
+      "keyframes": [
+        "007197.webp",
+        "007322.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và mấy em nhớ là mình chỉ cộng cho tổ hợp chập 3 của n chỉ khi nào mà n ≥ 3.",
+      "start": 295.32,
+      "end": 300.92,
+      "n_words": 22,
+      "start_frame": 7383,
+      "end_frame": 7523,
+      "keyframes": [
+        "007447.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Còn n = 2 hoặc là = 1, thầy mấy em nhớ luôn nếu như mà n = 2 thì số loại kiểu gen sẽ = 4, tức là chúng ta không cộng cho tổ hợp chập 3 của n bởi vì điều kiện đó là n phải ≥ 3, cho nên khi mà n = 2 thì tổ hợp chập 3 của 2 sẽ bằng 0, đúng tức là sẽ không có loại kiểu gen này.",
+      "start": 301.88,
+      "end": 325.16,
+      "n_words": 77,
+      "start_frame": 7547,
+      "end_frame": 8129,
+      "keyframes": [
+        "007572.webp",
+        "007697.webp",
+        "007822.webp",
+        "007947.webp",
+        "008072.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Còn nếu như mà n = 1 thì số loại kiểu gen thể ba ở cặp này sẽ là chỉ có 1 mà thôi.",
+      "start": 326.88,
+      "end": 337.8,
+      "n_words": 24,
+      "start_frame": 8172,
+      "end_frame": 8445,
+      "keyframes": [
+        "008197.webp",
+        "008322.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và nếu như thầy xét thêm một gen thứ hai cũng trên cặp nhiễm sắc thể này có 2 alen là B lớn, B nhỏ.",
+      "start": 337.8,
+      "end": 344.84,
+      "n_words": 25,
+      "start_frame": 8445,
+      "end_frame": 8621,
+      "keyframes": [
+        "008447.webp",
+        "008572.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thì nếu như cặp này có 3 chiếc thì sẽ tạo ra bao nhiêu loại kiểu gen theo công thức ở trên?",
+      "start": 344.84,
+      "end": 349.2,
+      "n_words": 22,
+      "start_frame": 8621,
+      "end_frame": 8730,
+      "keyframes": [
+        "008697.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Công thức ở trên các em nhận xét n ở đây chính là số loại giao tử được tạo ra khi cặp nhiễm sắc thể này có 2 chiếc bình thường.",
+      "start": 349.2,
+      "end": 358.96,
+      "n_words": 31,
+      "start_frame": 8730,
+      "end_frame": 8974,
+      "keyframes": [
+        "008822.webp",
+        "008947.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Như vậy trên cặp nhiễm sắc thể này nếu như mà mình xét nhiều gen thì chúng ta cũng áp dụng công thức ở trên nhưng n ở đây là số loại giao tử, và số loại giao tử được tính bằng cách mấy em nhân số lượng alen của các gen nằm trên cùng một cặp nhiễm sắc thể thường lại thì sẽ ra được số loại giao tử.",
+      "start": 358.96,
+      "end": 381.68,
+      "n_words": 70,
+      "start_frame": 8974,
+      "end_frame": 9542,
+      "keyframes": [
+        "009072.webp",
+        "009197.webp",
+        "009322.webp",
+        "009447.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cụ thể trong trường hợp này khi mà xét hai gen A và B như trên màn hình mấy em thấy thì số loại giao tử tạo ra sẽ là 4 như trên màn hình mấy em thấy.",
+      "start": 381.68,
+      "end": 393.92,
+      "n_words": 38,
+      "start_frame": 9542,
+      "end_frame": 9848,
+      "keyframes": [
+        "009572.webp",
+        "009697.webp",
+        "009822.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cho nên mấy em lưu ý n trong công thức này đó chính là số loại giao tử được tạo ra khi mà cặp này có 2 chiếc bình thường, và số loại giao tử được tính bằng cách nhân số lượng alen của các gen lại, và em nhớ là các gen đó là nó nằm trên cùng một cặp nhiễm sắc thể thường.",
+      "start": 393.92,
+      "end": 418.48,
+      "n_words": 65,
+      "start_frame": 9848,
+      "end_frame": 10462,
+      "keyframes": [
+        "009947.webp",
+        "010072.webp",
+        "010197.webp",
+        "010322.webp",
+        "010447.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và khi mà chúng ta đã tính ra được số loại giao tử n thì chúng ta chỉ cần áp dụng công thức ở trên để mà ra được số loại kiểu gen.",
+      "start": 418.48,
+      "end": 429.92,
+      "n_words": 33,
+      "start_frame": 10462,
+      "end_frame": 10748,
+      "keyframes": [
+        "010572.webp",
+        "010697.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đó là công thức khi mà tính một nhiễm sắc thể nó có 3 chiếc.",
+      "start": 429.92,
+      "end": 434.64,
+      "n_words": 15,
+      "start_frame": 10748,
+      "end_frame": 10866,
+      "keyframes": [
+        "010822.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thể ba là một cặp có 3 chiếc còn các cặp còn lại có 2 chiếc, cho nên nếu như mà đề yêu cầu tính số loại thể ba khác nhau về kiểu gen thì lúc đó em phải tính lần lượt n cặp.",
+      "start": 434.64,
+      "end": 449.52,
+      "n_words": 44,
+      "start_frame": 10866,
+      "end_frame": 11238,
+      "keyframes": [
+        "010947.webp",
+        "011072.webp",
+        "011197.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nếu như mà cặp số 1 có 3 chiếc, các cặp còn lại có 2 chiếc tạo ra bao nhiêu loại kiểu gen; Cũng tương tự như vậy ở cặp số 2, ở cặp số 3 và các cặp khác tính lần lượt và mang cộng các kết quả lại.",
+      "start": 449.52,
+      "end": 461.72,
+      "n_words": 50,
+      "start_frame": 11238,
+      "end_frame": 11543,
+      "keyframes": [
+        "011322.webp",
+        "011447.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và nếu như các cặp khác có 2 chiếc thì số loại kiểu gen sẽ là bao nhiêu?",
+      "start": 461.72,
+      "end": 466.84,
+      "n_words": 18,
+      "start_frame": 11543,
+      "end_frame": 11671,
+      "keyframes": [
+        "011572.webp",
+        "011669.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ thầy sẽ hướng dẫn mấy em hình thành công thức. Bây giờ thầy xét một cặp nhiễm sắc thể khác có một gen có 2 alen là D lớn và d nhỏ. Và nếu như cặp này nó có 2 chiếc bình thường thì sẽ tạo ra bao nhiêu loại kiểu gen? Em sẽ thấy tạo ra được 3 loại. Mấy em liệt kê ra thì sẽ thấy cặp này có thể là D lớn D lớn, D nhỏ D nhỏ đó là đồng hợp, hoặc là D lớn D nhỏ đó là dị hợp.",
+      "start": 466.84,
+      "end": 494.52,
+      "n_words": 97,
+      "start_frame": 11671,
+      "end_frame": 12363,
+      "keyframes": [
+        "011705.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Vì vậy nếu như mà một gen có n alen trên nhiễm sắc thể thường thì số loại kiểu gen tạo ra sẽ là n đó là đồng hợp, còn kiểu gen dị hợp các em thấy là mình chỉ cần chọn ngẫu nhiên 2 alen trong n alen không theo trật tự thì chúng ta sẽ được một loại kiểu dị hợp, tức là tổ hợp chập 2 của n.",
+      "start": 494.52,
+      "end": 518.88,
+      "n_words": 71,
+      "start_frame": 12363,
+      "end_frame": 12972,
+      "keyframes": [
+        "012506.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và em lưu ý là điều kiện ở đây là n phải ≥ 2, còn n = 1 thầy sẽ không có kiểu gen dị hợp tức là chỉ có một loại kiểu gen mà thôi khi n = 1.",
+      "start": 518.88,
+      "end": 533.84,
+      "n_words": 40,
+      "start_frame": 12972,
+      "end_frame": 13346,
+      "keyframes": [
+        "013307.webp",
+        "013308.webp",
+        "013337.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến, hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.",
+      "start": 533.84,
+      "end": 544.4,
+      "n_words": 33,
+      "start_frame": 13346,
+      "end_frame": 13610,
+      "keyframes": [
+        "013366.webp",
+        "013384.webp",
+        "013430.webp",
+        "013476.webp",
+        "013477.webp",
+        "013497.webp",
+        "013518.webp",
+        "013519.webp",
+        "013540.webp",
+        "013561.webp",
+        "013562.webp",
+        "013570.webp",
+        "013579.webp",
+        "013592.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện, cân bằng giữa học thuật và nghệ thuật thể thao.",
+      "start": 544.4,
+      "end": 552.04,
+      "n_words": 23,
+      "start_frame": 13610,
+      "end_frame": 13801,
+      "keyframes": [
+        "013645.webp",
+        "013699.webp",
+        "013700.webp",
+        "013720.webp",
+        "013741.webp",
+        "013742.webp",
+        "013757.webp",
+        "013772.webp",
+        "013773.webp",
+        "013783.webp",
+        "013794.webp",
+        "013795.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, thêm nguồn cảm hứng, độc lập để phát triển và hoàn thiện nhân cách.",
+      "start": 552.04,
+      "end": 562.72,
+      "n_words": 34,
+      "start_frame": 13801,
+      "end_frame": 14068,
+      "keyframes": [
+        "013807.webp",
+        "013820.webp",
+        "013821.webp",
+        "013842.webp",
+        "013864.webp",
+        "013865.webp",
+        "013915.webp",
+        "013965.webp",
+        "013966.webp",
+        "013991.webp",
+        "014017.webp",
+        "014018.webp",
+        "014041.webp",
+        "014065.webp",
+        "014066.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Ngoài những giờ học trên lớp, học sinh Trường Quốc tế Á Châu còn được trải nghiệm, thử thách bản thân và phản biện các vấn đề để tự mình học hỏi, trưởng thành độc lập hơn.",
+      "start": 562.72,
+      "end": 584.28,
+      "n_words": 37,
+      "start_frame": 14068,
+      "end_frame": 14607,
+      "keyframes": [
+        "014075.webp",
+        "014084.webp",
+        "014085.webp",
+        "014101.webp",
+        "014118.webp",
+        "014119.webp",
+        "014146.webp",
+        "014173.webp",
+        "014174.webp",
+        "014183.webp",
+        "014193.webp",
+        "014194.webp",
+        "014257.webp",
+        "014320.webp",
+        "014321.webp",
+        "014336.webp",
+        "014351.webp",
+        "014361.webp",
+        "014367.webp",
+        "014373.webp",
+        "014390.webp",
+        "014399.webp",
+        "014409.webp",
+        "014410.webp",
+        "014438.webp",
+        "014466.webp",
+        "014467.webp",
+        "014481.webp",
+        "014496.webp",
+        "014497.webp",
+        "014509.webp",
+        "014521.webp",
+        "014522.webp",
+        "014540.webp",
+        "014559.webp",
+        "014570.webp"
+      ],
+      "keyframe_count": 36
+    },
+    {
+      "text": "Nơi đây với tôi còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.",
+      "start": 584.28,
+      "end": 598.36,
+      "n_words": 33,
+      "start_frame": 14607,
+      "end_frame": 14959,
+      "keyframes": [
+        "014632.webp",
+        "014695.webp",
+        "014696.webp",
+        "014722.webp",
+        "014749.webp",
+        "014750.webp",
+        "014794.webp",
+        "014839.webp",
+        "014840.webp",
+        "014847.webp",
+        "014854.webp",
+        "014886.webp",
+        "014894.webp",
+        "014903.webp",
+        "014904.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là cuộc sống.",
+      "start": 598.36,
+      "end": 603.44,
+      "n_words": 15,
+      "start_frame": 14959,
+      "end_frame": 15086,
+      "keyframes": [
+        "014960.webp",
+        "015017.webp",
+        "015018.webp",
+        "015026.webp",
+        "015034.webp",
+        "015035.webp",
+        "015048.webp",
+        "015061.webp",
+        "015062.webp",
+        "015067.webp",
+        "015073.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Từ môi trường giáo dục này chúng tôi đã từng tin bước tiếp và viết nên câu chuyện tương lai của chính mình. Câu số 1: Một loài thực vật có bộ nhiễm sắc thể 2n = 6. Trên mỗi cặp nhiễm sắc thể xét một gen có 2 alen.",
+      "start": 603.44,
+      "end": 633.84,
+      "n_words": 50,
+      "start_frame": 15086,
+      "end_frame": 15846,
+      "keyframes": [
+        "015092.webp",
+        "015105.webp",
+        "015118.webp",
+        "015136.webp",
+        "015137.webp",
+        "015138.webp",
+        "015163.webp",
+        "015169.webp",
+        "015175.webp",
+        "015200.webp",
+        "015218.webp",
+        "015237.webp",
+        "015260.webp",
+        "015281.webp",
+        "015302.webp",
+        "015303.webp",
+        "015307.webp",
+        "015312.webp",
+        "015332.webp",
+        "015374.webp",
+        "015416.webp",
+        "015417.webp",
+        "015451.webp",
+        "015486.webp",
+        "015487.webp"
+      ],
+      "keyframe_count": 25
+    },
+    {
+      "text": "Do đột biến trong loài đã xuất hiện 3 dạng thể ba tương ứng với các cặp nhiễm sắc thể. 2n = 6, n = 3 thì chúng ta sẽ có 3 cặp, cho nên sẽ có 3 dạng thể ba tương ứng với các cặp nhiễm sắc thể.",
+      "start": 633.84,
+      "end": 646.28,
+      "n_words": 49,
+      "start_frame": 15846,
+      "end_frame": 16157,
+      "keyframes": [
+        "015889.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Theo lý thuyết, các thể ba này có tối đa bao nhiêu loại kiểu gen về các gen đang xét? Bây giờ thầy ký hiệu 3 cặp nhiễm sắc thể này là 1, 2, 3 có các gen tương ứng là A, B như trên màn hình. Đề bài là xuất hiện các dạng thể ba cho nên sẽ có 3 trường hợp đó là thể ba ở cặp số 1, thể ba ở cặp số 2 và thể ba ở cặp số 3. Bình thường có 2 chiếc hoặc là thể ba cặp số 2 hoặc là thể ba cặp số 3 sẽ có 3 trường hợp như vậy. Nếu như thể ba sẽ ra ở cặp số 1, tức là cặp số 1 này có 3 chiếc thì số loại kiểu gen sẽ là 4.",
+      "start": 646.28,
+      "end": 684.76,
+      "n_words": 137,
+      "start_frame": 16157,
+      "end_frame": 17119,
+      "keyframes": [
+        "016291.webp",
+        "016292.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Giống như công thức lúc nãy thầy lưu ý giúp em cặp số 2 này có 2 chiếc thì số loại kiểu gen sẽ là 3, cặp số 3 này có 2 chiếc thì số loại kiểu gen sẽ là 3. Và khi mà chúng ta xét riêng từng cặp nhiễm sắc thể thì chúng ta sẽ nhân lại để ra được kết quả của khi xét chung cả 3 cặp này, cho nên mấy em nhân lại sẽ là 36. Các anh thấy rằng là 3 cặp này mỗi cặp đều mang một gen có 2 alen cho nên thể ba ở cặp số 2 và thể ba ở cặp số 3 cũng tương tự như ở cặp số 1, tức là 3 trường hợp này sẽ có kết quả như nhau. Cho nên để tính các dạng thể ba tối đa về các gen đang xét thì các em chỉ cần nhân lên cho 3 thì sẽ ra được kết quả là 108.",
+      "start": 684.76,
+      "end": 733.56,
+      "n_words": 165,
+      "start_frame": 17119,
+      "end_frame": 18339,
+      "keyframes": [
+        "017381.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cho nên đáp số sẽ là câu D. Bây giờ chúng ta xét ví dụ thứ hai: Một loài thực vật giao phấn ngẫu nhiên, xét 4 cặp gen A, B, D, E. Bốn cặp gen này nằm trên 4 cặp nhiễm sắc thể, tức là phân ly độc lập với nhau. Mỗi cặp gen quy định một tính trạng. Alen trội là hoàn toàn.",
+      "start": 734.52,
+      "end": 760.24,
+      "n_words": 65,
+      "start_frame": 18363,
+      "end_frame": 19006,
+      "keyframes": [
+        "018471.webp",
+        "018472.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Giả sử do đột biến trong loài đã xuất hiện các dạng thể ba tương ứng với các cặp nhiễm sắc thể đang xét. Các thể ba đều có khả năng sống và không phát sinh các dạng đột biến khác.",
+      "start": 760.24,
+      "end": 770.16,
+      "n_words": 41,
+      "start_frame": 19006,
+      "end_frame": 19254,
+      "keyframes": [
+        "019019.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Theo lý thuyết trong loài, các thể ba mang kiểu hình của cả 3 alen trội A lớn, B lớn, D lớn, E lớn và kiểu hình của alen lặn b nhỏ thì có tối đa bao nhiêu loại kiểu gen?",
+      "start": 770.16,
+      "end": 783.68,
+      "n_words": 41,
+      "start_frame": 19254,
+      "end_frame": 19592,
+      "keyframes": [
+        "019566.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ thầy viết ký hiệu của 4 cặp nhiễm sắc thể mang 4 cặp gen này như trên màn hình.",
+      "start": 783.68,
+      "end": 791.56,
+      "n_words": 21,
+      "start_frame": 19592,
+      "end_frame": 19789,
+      "keyframes": [
+        "019629.webp",
+        "019754.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và cũng tương tự thể ba thì có thể ở cặp số 1, số 2, số 3 hoặc là số 4.",
+      "start": 791.56,
+      "end": 797.2,
+      "n_words": 21,
+      "start_frame": 19789,
+      "end_frame": 19930,
+      "keyframes": [
+        "019879.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ nếu như thể ba ở cặp số 1 và đề yêu cầu là có kiểu hình A trội, b lặn, D trội, E trội, thầy sẽ tạo ra số loại kiểu gen là: Thể ba ở cặp số 1, tức là cặp số 1 này có 3 chiếc lúc đó sẽ tạo ra được 4 loại kiểu gen, nhưng số loại kiểu gen mang kiểu hình A trội thì mình sẽ lấy 4 trừ đi 1, đó là một loại kiểu gen mang kiểu hình A lặn tức là A nhỏ A nhỏ A nhỏ.",
+      "start": 797.2,
+      "end": 832.16,
+      "n_words": 97,
+      "start_frame": 19930,
+      "end_frame": 20804,
+      "keyframes": [
+        "020004.webp",
+        "020129.webp",
+        "020254.webp",
+        "020379.webp",
+        "020504.webp",
+        "020629.webp",
+        "020754.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Thì lúc đó sẽ có 3 loại kiểu gen.",
+      "start": 832.16,
+      "end": 835.2,
+      "n_words": 9,
+      "start_frame": 20804,
+      "end_frame": 20880,
+      "keyframes": [
+        "020879.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tương tự như vậy cặp B có 2 chiếc mang kiểu hình b lặn thì chỉ có 1 loại kiểu gen là b nhỏ b nhỏ.",
+      "start": 835.2,
+      "end": 844.08,
+      "n_words": 26,
+      "start_frame": 20880,
+      "end_frame": 21102,
+      "keyframes": [
+        "021004.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cặp số 3 có 2 chiếc mang kiểu hình của D trội, cặp số 3 này có 2 chiếc thì sẽ tạo ra 3 loại kiểu gen, tức là 2 cộng cho tổ hợp chập 2 của 2 là 3, và chúng ta chỉ cần trừ đi trường hợp mang kiểu hình của D lặn bởi vì đề yêu cầu mình tính số loại kiểu gen của kiểu hình D trội thì trừ đi số loại kiểu gen do D lặn quy định mà thôi, lúc đó chỉ có 1 loại kiểu gen là d nhỏ d nhỏ quy định kiểu hình lặn ở gen D này, cho nên số loại kiểu gen là 2. Tương tự ở E cũng là 2.",
+      "start": 844.08,
+      "end": 888.52,
+      "n_words": 122,
+      "start_frame": 21102,
+      "end_frame": 22213,
+      "keyframes": [
+        "021129.webp",
+        "021254.webp",
+        "021379.webp",
+        "021504.webp",
+        "021629.webp",
+        "021754.webp",
+        "021879.webp",
+        "022004.webp",
+        "022129.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Nhân lại thì sẽ được 12.",
+      "start": 888.88,
+      "end": 890.32,
+      "n_words": 6,
+      "start_frame": 22222,
+      "end_frame": 22258,
+      "keyframes": [
+        "022254.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và mai em thấy đề yêu cầu mình tính số loại kiểu gen mang kiểu hình A trội, D trội, E trội; 3 cặp này mỗi cặp đều mang một gen có 2 alen cho nên kết quả sẽ tương tự nhau, vì vậy mà em chỉ cần nhân lên cho 3 trường hợp kế tiếp là nếu như thể ba ở cặp số 2, thể ba ở cặp số 2 tức là mang gen B lớn B nhỏ này mà đề yêu cầu mình là phải có kiểu hình b lặn, thì lúc này chỉ có 1 loại kiểu gen ở cặp số 2 này đó là b nhỏ b nhỏ b nhỏ. Ở chỗ này là chỉ có 1 loại kiểu gen.",
+      "start": 891.68,
+      "end": 933.84,
+      "n_words": 124,
+      "start_frame": 22292,
+      "end_frame": 23346,
+      "keyframes": [
+        "022379.webp",
+        "022504.webp",
+        "022629.webp",
+        "022754.webp",
+        "022879.webp",
+        "023004.webp",
+        "023129.webp",
+        "023254.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Ở A có 2 chiếc mang kiểu hình của A trội thì có 2 loại kiểu gen đó là A lớn A lớn và A lớn A nhỏ.",
+      "start": 933.84,
+      "end": 941.36,
+      "n_words": 28,
+      "start_frame": 23346,
+      "end_frame": 23534,
+      "keyframes": [
+        "023379.webp",
+        "023504.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thì lúc nãy thì đã phân tích cho nên nhân lại thì sẽ có 8 loại kiểu gen.",
+      "start": 942.84,
+      "end": 948.88,
+      "n_words": 18,
+      "start_frame": 23571,
+      "end_frame": 23722,
+      "keyframes": [
+        "023629.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cộng kết quả này lại thì sẽ được 44 và chọn đáp án đó là B.",
+      "start": 948.88,
+      "end": 954.12,
+      "n_words": 16,
+      "start_frame": 23722,
+      "end_frame": 23853,
+      "keyframes": [
+        "023754.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Như vậy em thấy ở dạng bài tập này em chỉ cần nhớ công thức đó là nếu như một cặp nhiễm sắc thể thường có 3 chiếc thì số loại kiểu gen sẽ là n bình phương cộng cho tổ hợp chập 3 của n, và mình chỉ cộng cho tổ hợp chập 3 của n khi nào n ≥ 3.",
+      "start": 954.12,
+      "end": 973.76,
+      "n_words": 62,
+      "start_frame": 23853,
+      "end_frame": 24344,
+      "keyframes": [
+        "023879.webp",
+        "024004.webp",
+        "024129.webp",
+        "024254.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Còn nếu như n = 2 thì số loại kiểu gen nếu như cặp đó có 3 chiếc sẽ là 4.",
+      "start": 975.28,
+      "end": 982.56,
+      "n_words": 21,
+      "start_frame": 24382,
+      "end_frame": 24564,
+      "keyframes": [
+        "024504.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nếu như mà đề yêu cầu mình tính số loại kiểu gen quy định kiểu hình trội thì mình sẽ trừ đi một của trường hợp đó là kiểu gen lặn.",
+      "start": 982.56,
+      "end": 992.88,
+      "n_words": 31,
+      "start_frame": 24564,
+      "end_frame": 24822,
+      "keyframes": [
+        "024629.webp",
+        "024754.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Còn nếu như một cặp nhiễm sắc thể có 2 chiếc bình thường thì số loại kiểu gen sẽ là n cộng cho tổ hợp chập 2 của n, và điều kiện lúc đó là n ≥ 2.",
+      "start": 992.88,
+      "end": 1005.04,
+      "n_words": 38,
+      "start_frame": 24822,
+      "end_frame": 25126,
+      "keyframes": [
+        "024879.webp",
+        "025004.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Còn n = 1 thì chỉ tạo ra một loại kiểu gen khi mà cặp đó có 2 chiếc bình thường.",
+      "start": 1006.24,
+      "end": 1015.8,
+      "n_words": 21,
+      "start_frame": 25156,
+      "end_frame": 25395,
+      "keyframes": [
+        "025254.webp",
+        "025379.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đây là một số công thức trường hợp trong đề thi và mai em lưu ý là nếu như mà mình xét thể ba thì lúc đó mình sẽ xét n trường hợp khi mà tế bào, khi mà loài đó có bộ nhiễm sắc thể là 2n, và trong n trường hợp này mỗi trường hợp mình sẽ xét đó là một cặp n đó có 3 chiếc còn các cặp còn lại là có 2 chiếc bình thường.",
+      "start": 1015.8,
+      "end": 1043.56,
+      "n_words": 80,
+      "start_frame": 25395,
+      "end_frame": 26089,
+      "keyframes": [
+        "025504.webp",
+        "025629.webp",
+        "025754.webp",
+        "025879.webp",
+        "026004.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Còn nếu như đề yêu cầu mình tính số loại thể tam bội khác nhau về kiểu gen thì lúc đó chúng ta sẽ áp dụng công thức tất cả các cặp đều có 3 chiếc, và chúng ta áp dụng công thức trên từng cặp đều có 3 chiếc và chúng ta nhân kết quả lại với nhau.",
+      "start": 1043.56,
+      "end": 1063.96,
+      "n_words": 59,
+      "start_frame": 26089,
+      "end_frame": 26599,
+      "keyframes": [
+        "026129.webp",
+        "026254.webp",
+        "026379.webp",
+        "026504.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đây là một số vấn đề thầy muốn trao đổi với mấy em trong phần bài tập dạng này.",
+      "start": 1063.96,
+      "end": 1070.24,
+      "n_words": 19,
+      "start_frame": 26599,
+      "end_frame": 26756,
+      "keyframes": [
+        "026629.webp",
+        "026729.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cảm ơn các em đã dành thời gian theo dõi, chúc các em luôn nhiều sức khỏe, ôn tập thật tốt và đạt kết quả cao trong kỳ thi sắp tới.",
+      "start": 1070.24,
+      "end": 1078.48,
+      "n_words": 31,
+      "start_frame": 26756,
+      "end_frame": 26962,
+      "keyframes": [
+        "026767.webp",
+        "026887.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chào các em.",
+      "start": 1078.48,
+      "end": 1081.88,
+      "n_words": 3,
+      "start_frame": 26962,
+      "end_frame": 27047,
+      "keyframes": [
+        "027008.webp",
+        "027039.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Để có được thành công như hôm nay, tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình bắt đầu từ trường Đại học Quốc tế Sài Gòn (SIU).",
+      "start": 1081.88,
+      "end": 1094.8,
+      "n_words": 35,
+      "start_frame": 27047,
+      "end_frame": 27370,
+      "keyframes": [
+        "027067.webp",
+        "027095.webp",
+        "027096.webp",
+        "027127.webp",
+        "027158.webp",
+        "027188.webp",
+        "027235.webp",
+        "027283.webp",
+        "027295.webp",
+        "027308.webp",
+        "027322.webp",
+        "027336.webp",
+        "027355.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Đào tạo đa dạng đa lĩnh vực, SIU mở ra cho chúng tôi nhiều cơ hội lựa chọn nghề nghiệp trong tương lai.",
+      "start": 1094.8,
+      "end": 1101.44,
+      "n_words": 23,
+      "start_frame": 27370,
+      "end_frame": 27536,
+      "keyframes": [
+        "027374.webp",
+        "027375.webp",
+        "027394.webp",
+        "027413.webp",
+        "027414.webp",
+        "027432.webp",
+        "027451.webp",
+        "027452.webp",
+        "027469.webp",
+        "027487.webp",
+        "027488.webp",
+        "027505.webp",
+        "027522.webp",
+        "027523.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Tất cả sinh viên đều có cơ hội để thể hiện và phát triển năng lực.",
+      "start": 1101.44,
+      "end": 1105.4,
+      "n_words": 16,
+      "start_frame": 27536,
+      "end_frame": 27635,
+      "keyframes": [
+        "027540.webp",
+        "027557.webp",
+        "027558.webp",
+        "027568.webp",
+        "027578.webp",
+        "027604.webp",
+        "027614.webp",
+        "027625.webp",
+        "027626.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Những ý tưởng luôn được khuyến khích và phát huy tối đa.",
+      "start": 1105.4,
+      "end": 1108.68,
+      "n_words": 12,
+      "start_frame": 27635,
+      "end_frame": 27717,
+      "keyframes": [
+        "027642.webp",
+        "027659.webp",
+        "027660.webp",
+        "027687.webp",
+        "027714.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin, chúng tôi được học cách học, cách nghĩ và cách sống.",
+      "start": 1108.68,
+      "end": 1114.8,
+      "n_words": 23,
+      "start_frame": 27717,
+      "end_frame": 27870,
+      "keyframes": [
+        "027732.webp",
+        "027749.webp",
+        "027767.webp",
+        "027768.webp",
+        "027785.webp",
+        "027803.webp",
+        "027804.webp",
+        "027829.webp",
+        "027854.webp",
+        "027855.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.",
+      "start": 1114.8,
+      "end": 1121.88,
+      "n_words": 28,
+      "start_frame": 27870,
+      "end_frame": 28047,
+      "keyframes": [
+        "027874.webp",
+        "027894.webp",
+        "027895.webp",
+        "027913.webp",
+        "027931.webp",
+        "027942.webp",
+        "027980.webp",
+        "028019.webp",
+        "028031.webp",
+        "028044.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Hiện đại, năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc, đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn (SIU) luôn hướng đến.",
+      "start": 1121.88,
+      "end": 1132.44,
+      "n_words": 34,
+      "start_frame": 28047,
+      "end_frame": 28311,
+      "keyframes": [
+        "028057.webp",
+        "028061.webp",
+        "028075.webp",
+        "028090.webp",
+        "028104.webp",
+        "028115.webp",
+        "028126.webp",
+        "028151.webp",
+        "028161.webp",
+        "028171.webp",
+        "028172.webp",
+        "028183.webp",
+        "028194.webp",
+        "028212.webp",
+        "028219.webp",
+        "028226.webp",
+        "028256.webp",
+        "028273.webp",
+        "028291.webp"
+      ],
+      "keyframe_count": 19
+    },
+    {
+      "text": "Đã đến lúc vươn xa hơn những gì đã học.",
+      "start": 1132.44,
+      "end": 1136.8,
+      "n_words": 10,
+      "start_frame": 28311,
+      "end_frame": 28420,
+      "keyframes": [
+        "028339.webp",
+        "028353.webp",
+        "028368.webp",
+        "028391.webp"
+      ],
+      "keyframe_count": 4
+    }
+  ]
+}

@@ -1,0 +1,703 @@
+{
+  "video_id": "L26_V094",
+  "fps": 25.0,
+  "n_sentences": 40,
+  "total_words": 931,
+  "sentences": [
+    {
+      "text": "Rất món ngon mỗi ngày.",
+      "start": 0.04,
+      "end": 12.0,
+      "n_words": 5,
+      "start_frame": 1,
+      "end_frame": 300,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000130.webp",
+        "000147.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 36
+    },
+    {
+      "text": "Canh sườn non xuyên tiêu vị ngọt thanh và thơm nồng ấm.",
+      "start": 12.0,
+      "end": 32.12,
+      "n_words": 12,
+      "start_frame": 300,
+      "end_frame": 803,
+      "keyframes": [
+        "000300.webp",
+        "000348.webp",
+        "000397.webp",
+        "000398.webp",
+        "000464.webp",
+        "000530.webp",
+        "000545.webp",
+        "000593.webp",
+        "000642.webp",
+        "000643.webp",
+        "000733.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Rất vui khi được gặp lại các bạn khán giả đang theo dõi chương trình Món ngon mỗi ngày - Nấu chuẩn an lành.",
+      "start": 32.12,
+      "end": 38.24,
+      "n_words": 24,
+      "start_frame": 803,
+      "end_frame": 956,
+      "keyframes": [
+        "000823.webp",
+        "000824.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 38.24,
+      "end": 42.2,
+      "n_words": 11,
+      "start_frame": 956,
+      "end_frame": 1055,
+      "keyframes": [
+        "000965.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Anh Nghị ơi, tôi để ý trong phần nguyên liệu ngày hôm nay có rất là nhiều những cái nguyên liệu phải nói là ngon bổ luôn đó nha.",
+      "start": 42.2,
+      "end": 49.16,
+      "n_words": 29,
+      "start_frame": 1055,
+      "end_frame": 1229,
+      "keyframes": [
+        "001106.webp",
+        "001107.webp",
+        "001148.webp",
+        "001189.webp",
+        "001190.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đầu tiên đặc biệt nhất đó là đẳng sâm.",
+      "start": 49.16,
+      "end": 51.6,
+      "n_words": 9,
+      "start_frame": 1229,
+      "end_frame": 1290,
+      "keyframes": [
+        "001240.webp",
+        "001290.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đẳng sâm được xem là một bài thuốc Đông y rất là tốt cho sức khỏe, tốt cho hệ tiêu hóa, đường ruột nè và giúp cho cơ thể của chúng ta khỏe mạnh hơn.",
+      "start": 51.6,
+      "end": 59.0,
+      "n_words": 35,
+      "start_frame": 1290,
+      "end_frame": 1475,
+      "keyframes": [
+        "001290.webp",
+        "001291.webp",
+        "001394.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ngoài ra còn có nấm kim châm nè, nấm đông cô rồi còn kỷ tử và đặc biệt nguyên liệu rất là hấp dẫn đó là xuyên tiêu, cái mùi rất là thơm các bạn ạ.",
+      "start": 59.84,
+      "end": 68.16,
+      "n_words": 36,
+      "start_frame": 1496,
+      "end_frame": 1704,
+      "keyframes": [
+        "001497.webp",
+        "001498.webp",
+        "001535.webp",
+        "001573.webp",
+        "001574.webp",
+        "001608.webp",
+        "001643.webp",
+        "001644.webp",
+        "001674.webp",
+        "001704.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Vậy chắc là anh Nghị đang định nấu món canh đúng không ạ? Chính xác luôn.",
+      "start": 68.16,
+      "end": 71.28,
+      "n_words": 16,
+      "start_frame": 1704,
+      "end_frame": 1782,
+      "keyframes": [
+        "001704.webp",
+        "001705.webp",
+        "001744.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thì Thanh Phương đã giới thiệu hầu hết tất cả nguyên liệu rồi thì Quốc Nghị cũng bật mí luôn cho các bạn món ăn ngày hôm nay đó là canh sườn non xuyên tiêu cực kỳ thơm ngon bổ dưỡng luôn đó nha.",
+      "start": 71.28,
+      "end": 81.36,
+      "n_words": 44,
+      "start_frame": 1782,
+      "end_frame": 2034,
+      "keyframes": [
+        "001783.webp",
+        "001784.webp",
+        "001908.webp",
+        "002032.webp",
+        "002033.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Sườn non sau khi chặt miếng vừa ăn, ngâm phai tiếp, tức là ngâm qua nước lọc khoảng 30 phút giúp cho nước canh được trong nha các bạn.",
+      "start": 81.36,
+      "end": 89.92,
+      "n_words": 29,
+      "start_frame": 2034,
+      "end_frame": 2248,
+      "keyframes": [
+        "002069.webp",
+        "002106.webp",
+        "002107.webp",
+        "002155.webp",
+        "002203.webp",
+        "002204.webp",
+        "002225.webp",
+        "002247.webp",
+        "002248.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Bây giờ các bạn sẽ cho vào tô để ướp gia vị nè, các bạn chỉ cần ướp vào đây một muỗng cà phê hạt nêm Ajinomoto, mình sẽ trộn đều cho hạt nêm ngấm vào sườn.",
+      "start": 89.92,
+      "end": 102.4,
+      "n_words": 37,
+      "start_frame": 2248,
+      "end_frame": 2560,
+      "keyframes": [
+        "002248.webp",
+        "002281.webp",
+        "002315.webp",
+        "002316.webp",
+        "002355.webp",
+        "002395.webp",
+        "002396.webp",
+        "002432.webp",
+        "002468.webp",
+        "002469.webp",
+        "002525.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Nhiệm vụ cao cả nhờ Thanh Phương làm đó là cắt hành và ngò.",
+      "start": 102.4,
+      "end": 116.52,
+      "n_words": 14,
+      "start_frame": 2560,
+      "end_frame": 2913,
+      "keyframes": [
+        "002581.webp",
+        "002582.webp",
+        "002620.webp",
+        "002659.webp",
+        "002660.webp",
+        "002747.webp",
+        "002835.webp",
+        "002836.webp",
+        "002874.webp",
+        "002912.webp",
+        "002913.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Thanh Phương giúp Quốc Nghị cắt đôi cái đẳng sâm đây rồi.",
+      "start": 116.52,
+      "end": 121.04,
+      "n_words": 12,
+      "start_frame": 2913,
+      "end_frame": 3026,
+      "keyframes": [
+        "002913.webp",
+        "002949.webp",
+        "002985.webp",
+        "002986.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cảm ơn siêu phụ bếp.",
+      "start": 121.04,
+      "end": 123.0,
+      "n_words": 5,
+      "start_frame": 3026,
+      "end_frame": 3075,
+      "keyframes": [
+        "003033.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ chúng ta chuẩn bị một cái nồi để nấu canh, cho vào đây một muỗng canh dầu màu điều, một muỗng canh xuyên tiêu hay còn gọi là hoa tiêu đó Thanh Phương, và mình phi cho nó thơm cái mùi xuyên tiêu lên.",
+      "start": 123.0,
+      "end": 135.64,
+      "n_words": 46,
+      "start_frame": 3075,
+      "end_frame": 3391,
+      "keyframes": [
+        "003080.webp",
+        "003081.webp",
+        "003107.webp",
+        "003133.webp",
+        "003134.webp",
+        "003172.webp",
+        "003210.webp",
+        "003211.webp",
+        "003235.webp",
+        "003260.webp",
+        "003261.webp",
+        "003287.webp",
+        "003314.webp",
+        "003315.webp",
+        "003362.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Các bạn nên phi thơm xuyên tiêu với một ít dầu ăn trước khi nấu giúp cho tăng cái mùi thơm đặc trưng của xuyên tiêu nha.",
+      "start": 135.64,
+      "end": 141.52,
+      "n_words": 27,
+      "start_frame": 3391,
+      "end_frame": 3538,
+      "keyframes": [
+        "003410.webp",
+        "003411.webp",
+        "003472.webp",
+        "003533.webp",
+        "003534.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Sau khi nghe xuyên tiêu dậy mùi thơm á, các bạn sẽ cho sườn vào nè, đảo sườn nè, mình đảo sườn một lượt.",
+      "start": 141.52,
+      "end": 155.0,
+      "n_words": 24,
+      "start_frame": 3538,
+      "end_frame": 3875,
+      "keyframes": [
+        "003571.webp",
+        "003608.webp",
+        "003609.webp",
+        "003643.webp",
+        "003677.webp",
+        "003678.webp",
+        "003710.webp",
+        "003742.webp",
+        "003743.webp",
+        "003786.webp",
+        "003830.webp",
+        "003831.webp",
+        "003875.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Khi mà sườn non đã dậy lên mùi thơm thì chúng ta sẽ cho vào đây 1.5 lít nước, các bạn sẽ đậy nắp và nấu 10 phút.",
+      "start": 160.76,
+      "end": 168.64,
+      "n_words": 28,
+      "start_frame": 4019,
+      "end_frame": 4216,
+      "keyframes": [
+        "004030.webp",
+        "004139.webp",
+        "004140.webp",
+        "004179.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Các bạn nhìn thấy có quen thuộc không ạ? Đây là kỷ tử.",
+      "start": 168.64,
+      "end": 171.04,
+      "n_words": 13,
+      "start_frame": 4216,
+      "end_frame": 4276,
+      "keyframes": [
+        "004218.webp",
+        "004219.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thanh Phương rất là thích luôn bởi vì nó có vị ngọt nè, ngoài ra nó còn chứa vitamin A, vitamin C.",
+      "start": 171.04,
+      "end": 175.12,
+      "n_words": 22,
+      "start_frame": 4276,
+      "end_frame": 4378,
+      "keyframes": [
+        "004337.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Vitamin C giúp đẹp da mà còn bổ máu nữa ạ.",
+      "start": 175.12,
+      "end": 178.32,
+      "n_words": 11,
+      "start_frame": 4378,
+      "end_frame": 4458,
+      "keyframes": [
+        "004456.webp",
+        "004457.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Sau khi nấu sườn 10 phút, bây giờ chúng ta sẽ cho đẳng sâm, kỷ tử vào ninh cùng sườn nha.",
+      "start": 178.32,
+      "end": 183.56,
+      "n_words": 21,
+      "start_frame": 4458,
+      "end_frame": 4589,
+      "keyframes": [
+        "004505.webp",
+        "004553.webp",
+        "004554.webp",
+        "004568.webp",
+        "004583.webp",
+        "004584.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đầu tiên các bạn sẽ cho vào đây táo đỏ nè, theo sau táo đỏ đó là đẳng sâm rất bổ dưỡng và nấm đông cô.",
+      "start": 183.56,
+      "end": 192.08,
+      "n_words": 26,
+      "start_frame": 4589,
+      "end_frame": 4802,
+      "keyframes": [
+        "004614.webp",
+        "004644.webp",
+        "004645.webp",
+        "004663.webp",
+        "004682.webp",
+        "004683.webp",
+        "004711.webp",
+        "004739.webp",
+        "004740.webp",
+        "004769.webp",
+        "004799.webp",
+        "004800.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Đậy nắp tiếp tục các bạn nấu canh thêm 20 phút nữa.",
+      "start": 192.08,
+      "end": 196.2,
+      "n_words": 12,
+      "start_frame": 4802,
+      "end_frame": 4905,
+      "keyframes": [
+        "004854.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Như vậy là 20 phút đã trôi qua, bây giờ chúng ta sẽ cho nấm kim châm và kỷ tử vào.",
+      "start": 196.2,
+      "end": 206.4,
+      "n_words": 21,
+      "start_frame": 4905,
+      "end_frame": 5160,
+      "keyframes": [
+        "004908.webp",
+        "004909.webp",
+        "004971.webp",
+        "005033.webp",
+        "005034.webp",
+        "005059.webp",
+        "005084.webp",
+        "005085.webp",
+        "005125.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Nêm vào đây một phần ba muỗng cà phê muối, hai muỗng cà phê hạt nêm Ajinomoto, một muỗng cà phê đường cát, cuối cùng là một muỗng cà phê bột ngọt Ajinomoto.",
+      "start": 206.4,
+      "end": 216.72,
+      "n_words": 33,
+      "start_frame": 5160,
+      "end_frame": 5418,
+      "keyframes": [
+        "005165.webp",
+        "005166.webp",
+        "005191.webp",
+        "005216.webp",
+        "005217.webp",
+        "005252.webp",
+        "005287.webp",
+        "005288.webp",
+        "005316.webp",
+        "005345.webp",
+        "005346.webp",
+        "005381.webp",
+        "005417.webp",
+        "005418.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Khởi động một lần nữa nè.",
+      "start": 216.72,
+      "end": 218.32,
+      "n_words": 6,
+      "start_frame": 5418,
+      "end_frame": 5458,
+      "keyframes": [
+        "005418.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Vâng, quả thật là một món canh thanh mát và bổ dưỡng, đúng là nấu chuẩn an lành.",
+      "start": 218.32,
+      "end": 223.04,
+      "n_words": 18,
+      "start_frame": 5458,
+      "end_frame": 5576,
+      "keyframes": [
+        "005463.webp",
+        "005509.webp",
+        "005510.webp",
+        "005542.webp",
+        "005575.webp",
+        "005576.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ chúng ta chuẩn bị tô để thưởng thức món canh sườn xuyên tiêu đặc biệt ngày hôm nay nhé. Và để xem lại công thức của món ăn này, chúng ta có thể quét mã QR đang hiển thị trên màn hình.",
+      "start": 223.04,
+      "end": 233.08,
+      "n_words": 44,
+      "start_frame": 5576,
+      "end_frame": 5827,
+      "keyframes": [
+        "005576.webp",
+        "005707.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ trình bày món canh ra tô để thưởng thức cùng với cơm trắng, hấp dẫn quá luôn đấy ạ.",
+      "start": 235.04,
+      "end": 243.64,
+      "n_words": 24,
+      "start_frame": 5876,
+      "end_frame": 6091,
+      "keyframes": [
+        "005889.webp",
+        "005890.webp",
+        "005938.webp",
+        "005987.webp",
+        "005988.webp",
+        "006032.webp",
+        "006076.webp",
+        "006077.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Một bát canh rất nhiều màu sắc đúng không?",
+      "start": 243.64,
+      "end": 245.84,
+      "n_words": 9,
+      "start_frame": 6091,
+      "end_frame": 6146,
+      "keyframes": [
+        "006123.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Màu đen của nấm đông cô rồi màu đỏ của táo đỏ, và cuối cùng canh thì không thể thiếu một ít rau nêm đó là hành lá và ngò rí.",
+      "start": 247.44,
+      "end": 262.44,
+      "n_words": 31,
+      "start_frame": 6186,
+      "end_frame": 6561,
+      "keyframes": [
+        "006242.webp",
+        "006314.webp",
+        "006315.webp",
+        "006366.webp",
+        "006417.webp",
+        "006418.webp",
+        "006483.webp",
+        "006548.webp",
+        "006549.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Quốc Nghị sẽ cho lên nè, cuối cùng là màu xanh ngò, điểm xuyết thêm một tí hành lá và ngò rí nữa sẽ làm cho tô canh của chúng ta thêm phần hấp dẫn.",
+      "start": 262.44,
+      "end": 270.72,
+      "n_words": 35,
+      "start_frame": 6561,
+      "end_frame": 6768,
+      "keyframes": [
+        "006579.webp",
+        "006610.webp",
+        "006611.webp",
+        "006633.webp",
+        "006656.webp",
+        "006657.webp",
+        "006713.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Và anh Nghị ơi, món này chắc mình ăn kèm món xào là sẽ hấp dẫn lắm đúng không ạ?",
+      "start": 270.72,
+      "end": 274.4,
+      "n_words": 20,
+      "start_frame": 6768,
+      "end_frame": 6860,
+      "keyframes": [
+        "006770.webp",
+        "006771.webp",
+        "006789.webp",
+        "006808.webp",
+        "006809.webp",
+        "006833.webp",
+        "006857.webp",
+        "006858.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chính xác đó Thanh Phương, và Quốc Nghị đề xuất các bạn nên ăn kèm với món canh sườn non xuyên tiêu này là món hào xào bông cải cho bữa cơm thêm tròn vị các bạn nha.",
+      "start": 274.4,
+      "end": 283.16,
+      "n_words": 38,
+      "start_frame": 6860,
+      "end_frame": 7079,
+      "keyframes": [
+        "006963.webp",
+        "007069.webp",
+        "007070.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nước canh trong, điểm xuyết màu cam đỏ của kỷ tử và táo đỏ, xuyên tiêu thơm nồng và vị ngọt của đẳng sâm thấm trọn trong từng thớ thịt sườn non chắc, thật ấm lòng.",
+      "start": 283.16,
+      "end": 294.48,
+      "n_words": 36,
+      "start_frame": 7079,
+      "end_frame": 7362,
+      "keyframes": [
+        "007136.webp",
+        "007202.webp",
+        "007203.webp",
+        "007284.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Canh sườn non xuyên tiêu rất thích hợp để thưởng thức vào những ngày đông hay trời mưa se lạnh, các bạn hãy thử ngay nhé.",
+      "start": 294.48,
+      "end": 300.8,
+      "n_words": 26,
+      "start_frame": 7362,
+      "end_frame": 7520,
+      "keyframes": [
+        "007366.webp",
+        "007367.webp",
+        "007444.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và để xem lại công thức của món ăn này, các bạn có thể truy cập vào kênh YouTube, website và fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 300.8,
+      "end": 307.04,
+      "n_words": 29,
+      "start_frame": 7520,
+      "end_frame": 7676,
+      "keyframes": [
+        "007521.webp",
+        "007522.webp",
+        "007642.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Còn bây giờ xin được mến chào tạm biệt và hẹn gặp lại.",
+      "start": 307.04,
+      "end": 310.64,
+      "n_words": 13,
+      "start_frame": 7676,
+      "end_frame": 7766,
+      "keyframes": [
+        "007763.webp",
+        "007764.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

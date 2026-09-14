@@ -1,0 +1,857 @@
+{
+  "video_id": "L26_V392",
+  "fps": 25.0,
+  "n_sentences": 50,
+  "total_words": 984,
+  "sentences": [
+    {
+      "text": "Các món ngon mỗi ngày.",
+      "start": 0.04,
+      "end": 12.08,
+      "n_words": 5,
+      "start_frame": 1,
+      "end_frame": 302,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000155.webp",
+        "000160.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 36
+    },
+    {
+      "text": "Trời đất ơi, không lẽ anh Vũ anh biết mình cuối năm chạy show bận rộn cho nên đã chuẩn bị sẵn nước ép chanh dây cho mình, thiệt là cảm động quá đi.",
+      "start": 12.08,
+      "end": 22.24,
+      "n_words": 34,
+      "start_frame": 302,
+      "end_frame": 556,
+      "keyframes": [
+        "000425.webp",
+        "000550.webp",
+        "000551.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Khoan khoan khoan khoan, trời ơi chanh dây làm món ăn ngày hôm nay đó, xém nữa mà em ấn một cái là xong rồi.",
+      "start": 22.24,
+      "end": 28.28,
+      "n_words": 25,
+      "start_frame": 556,
+      "end_frame": 707,
+      "keyframes": [
+        "000581.webp",
+        "000611.webp",
+        "000612.webp",
+        "000628.webp",
+        "000644.webp",
+        "000645.webp",
+        "000675.webp",
+        "000706.webp",
+        "000707.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Nhưng mà ngày hôm nay làm cái món gì mà phải có nước cốt chanh dây này hả anh?",
+      "start": 28.28,
+      "end": 32.4,
+      "n_words": 19,
+      "start_frame": 707,
+      "end_frame": 810,
+      "keyframes": [
+        "000707.webp",
+        "000730.webp",
+        "000753.webp",
+        "000754.webp",
+        "000788.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Món này bảo đảm là lạ luôn các bạn: cá kèo chiên với lại sốt chanh dây.",
+      "start": 32.4,
+      "end": 36.64,
+      "n_words": 17,
+      "start_frame": 810,
+      "end_frame": 916,
+      "keyframes": [
+        "000823.webp",
+        "000824.webp",
+        "000868.webp",
+        "000912.webp",
+        "000913.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nghe lạ không?",
+      "start": 36.64,
+      "end": 37.96,
+      "n_words": 3,
+      "start_frame": 916,
+      "end_frame": 949,
+      "keyframes": [
+        "000926.webp",
+        "000940.webp",
+        "000941.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Phụ bếp đã sẵn sàng rồi.",
+      "start": 37.96,
+      "end": 41.36,
+      "n_words": 6,
+      "start_frame": 949,
+      "end_frame": 1034,
+      "keyframes": [
+        "000963.webp",
+        "000986.webp",
+        "000987.webp",
+        "001011.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cá kèo chiên sốt chanh dây điểm 10 cho bữa tiệc vân vân.",
+      "start": 41.36,
+      "end": 61.2,
+      "n_words": 13,
+      "start_frame": 1034,
+      "end_frame": 1530,
+      "keyframes": [
+        "001036.webp",
+        "001037.webp",
+        "001078.webp",
+        "001120.webp",
+        "001121.webp",
+        "001159.webp",
+        "001197.webp",
+        "001212.webp",
+        "001277.webp",
+        "001343.webp",
+        "001344.webp",
+        "001431.webp",
+        "001518.webp",
+        "001519.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Chào đón các bạn đang theo dõi chương trình Món ngon mỗi ngày, chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 61.2,
+      "end": 67.76,
+      "n_words": 24,
+      "start_frame": 1530,
+      "end_frame": 1694,
+      "keyframes": [
+        "001609.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cá kèo chúng ta mua về, chúng ta xử lý làm cho sạch nhớt, cho tí xíu muối với lại chanh sát sạch là được.",
+      "start": 67.76,
+      "end": 74.64,
+      "n_words": 25,
+      "start_frame": 1694,
+      "end_frame": 1866,
+      "keyframes": [
+        "001699.webp",
+        "001700.webp",
+        "001737.webp",
+        "001774.webp",
+        "001775.webp",
+        "001818.webp",
+        "001861.webp",
+        "001862.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Dùng những cây tre đó, chúng ta xiên như vậy cho cá kèo thẳng đuột luôn.",
+      "start": 74.64,
+      "end": 79.24,
+      "n_words": 16,
+      "start_frame": 1866,
+      "end_frame": 1981,
+      "keyframes": [
+        "001931.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Như vậy là hôm nay món là món chiên nhưng mà mình vẫn xiên que ha?",
+      "start": 79.24,
+      "end": 82.72,
+      "n_words": 16,
+      "start_frame": 1981,
+      "end_frame": 2068,
+      "keyframes": [
+        "002001.webp",
+        "002002.webp",
+        "002010.webp",
+        "002018.webp",
+        "002019.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đúng rồi, mình xiên que như vậy thì khi mình thưởng thức á là nó sẽ hấp dẫn, nó ngon hơn và cái hình thức nó cũng đẹp hơn.",
+      "start": 82.72,
+      "end": 88.96,
+      "n_words": 29,
+      "start_frame": 2068,
+      "end_frame": 2224,
+      "keyframes": [
+        "002076.webp",
+        "002134.webp",
+        "002135.webp",
+        "002176.webp",
+        "002218.webp",
+        "002219.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Nhưng mà anh biết không, lúc mà mình tuốt cái cây xiên ra nó bị dính vào thịt của cá.",
+      "start": 88.96,
+      "end": 94.24,
+      "n_words": 20,
+      "start_frame": 2224,
+      "end_frame": 2356,
+      "keyframes": [
+        "002255.webp",
+        "002291.webp",
+        "002292.webp",
+        "002303.webp",
+        "002315.webp",
+        "002316.webp",
+        "002324.webp",
+        "002333.webp",
+        "002334.webp",
+        "002350.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Đúng rồi, thưa các bạn, chúng ta chỉ cần ngâm xiên tre vào trong dầu, sau khi nướng xong hoặc chiên xong thì chúng ta dễ dàng rút cây xiên ra nghe các bạn, vô cùng đơn giản.",
+      "start": 94.24,
+      "end": 102.72,
+      "n_words": 38,
+      "start_frame": 2356,
+      "end_frame": 2568,
+      "keyframes": [
+        "002367.webp",
+        "002368.webp",
+        "002451.webp",
+        "002534.webp",
+        "002535.webp",
+        "002550.webp",
+        "002566.webp",
+        "002567.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta dùng rau răm, chúng ta lặt lấy cái phần lá như vậy.",
+      "start": 102.72,
+      "end": 105.92,
+      "n_words": 14,
+      "start_frame": 2568,
+      "end_frame": 2648,
+      "keyframes": [
+        "002585.webp",
+        "002604.webp",
+        "002605.webp",
+        "002626.webp",
+        "002648.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Còn một nhúm rau răm thôi mà các bạn nhớ là phải để cho ráo nước.",
+      "start": 105.92,
+      "end": 110.96,
+      "n_words": 16,
+      "start_frame": 2648,
+      "end_frame": 2774,
+      "keyframes": [
+        "002648.webp",
+        "002649.webp",
+        "002694.webp",
+        "002740.webp",
+        "002741.webp",
+        "002761.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Các bạn nhúm lại giữ chặt, đúng rồi, cắt nhỏ rồi, đúng rồi, mình cắt nhuyễn thì nó bám vào trong cá được nhiều hơn.",
+      "start": 110.96,
+      "end": 120.04,
+      "n_words": 25,
+      "start_frame": 2774,
+      "end_frame": 3001,
+      "keyframes": [
+        "002781.webp",
+        "002782.webp",
+        "002801.webp",
+        "002821.webp",
+        "002822.webp",
+        "002906.webp",
+        "002990.webp",
+        "002991.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Cho một cái dĩa rau răm thì phải có ớt, chúng ta cần ớt sừng, các bạn một trái thôi, chúng ta băm nhuyễn, chúng ta trộn vô.",
+      "start": 120.04,
+      "end": 128.0,
+      "n_words": 28,
+      "start_frame": 3001,
+      "end_frame": 3200,
+      "keyframes": [
+        "003036.webp",
+        "003082.webp",
+        "003083.webp",
+        "003106.webp",
+        "003129.webp",
+        "003130.webp",
+        "003155.webp",
+        "003180.webp",
+        "003181.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Món chiên hôm nay có vẻ hấp dẫn quá và thưa các bạn bây giờ các bạn sẽ đặt câu hỏi: cá kèo này ướp với gì không?",
+      "start": 128.0,
+      "end": 133.76,
+      "n_words": 28,
+      "start_frame": 3200,
+      "end_frame": 3344,
+      "keyframes": [
+        "003215.webp",
+        "003249.webp",
+        "003250.webp",
+        "003297.webp",
+        "003344.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta cần gia vị nêm sẵn Ajinomoto bột tẩm khô chiên giòn, chúng ta cho vào trong cái dĩa đó.",
+      "start": 133.76,
+      "end": 139.16,
+      "n_words": 21,
+      "start_frame": 3344,
+      "end_frame": 3479,
+      "keyframes": [
+        "003344.webp",
+        "003345.webp",
+        "003394.webp",
+        "003444.webp",
+        "003445.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đơn giản, có đầy đủ gia vị và có độ kết dính luôn ha.",
+      "start": 139.16,
+      "end": 142.04,
+      "n_words": 14,
+      "start_frame": 3479,
+      "end_frame": 3551,
+      "keyframes": [
+        "003497.webp",
+        "003549.webp",
+        "003550.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi bây giờ chúng ta sẽ tẩm lần lượt cá kèo qua rau răm và ớt trước, rồi đó, chúng ta tẩm qua cái phần bột khô.",
+      "start": 142.04,
+      "end": 150.96,
+      "n_words": 27,
+      "start_frame": 3551,
+      "end_frame": 3774,
+      "keyframes": [
+        "003579.webp",
+        "003609.webp",
+        "003610.webp",
+        "003652.webp",
+        "003695.webp",
+        "003696.webp",
+        "003720.webp",
+        "003744.webp",
+        "003745.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đúng rồi, như vậy các bạn nhớ nhé, chúng ta tẩm gia vị nêm sẵn Ajinomoto bột tẩm khô chiên giòn, sau đó để ít phút để bột nở ra, kết dính gia vị trong cá hơn nha các bạn.",
+      "start": 150.96,
+      "end": 160.96,
+      "n_words": 40,
+      "start_frame": 3774,
+      "end_frame": 4024,
+      "keyframes": [
+        "003787.webp",
+        "003830.webp",
+        "003891.webp",
+        "003956.webp",
+        "004022.webp",
+        "004023.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và đặc biệt sau khi tẩm chúng ta không có chồng lên nhau nha, chồng lên nhau thì nó bị dính bột.",
+      "start": 160.96,
+      "end": 167.92,
+      "n_words": 22,
+      "start_frame": 4024,
+      "end_frame": 4198,
+      "keyframes": [
+        "004064.webp",
+        "004105.webp",
+        "004106.webp",
+        "004177.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Rồi bây giờ cá kèo sau khi chúng ta tẩm xong, chúng ta bắc lên đây một cái chảo.",
+      "start": 167.92,
+      "end": 172.16,
+      "n_words": 19,
+      "start_frame": 4198,
+      "end_frame": 4304,
+      "keyframes": [
+        "004249.webp",
+        "004250.webp",
+        "004271.webp",
+        "004292.webp",
+        "004293.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thưa các bạn, đối với món này thì chúng ta chiên với một lớp mỡ dầu để sau khi chiên cá sẽ cứng hơn, món ăn chúng ta sẽ ngon hơn rất là nhiều.",
+      "start": 172.16,
+      "end": 179.52,
+      "n_words": 34,
+      "start_frame": 4304,
+      "end_frame": 4488,
+      "keyframes": [
+        "004331.webp",
+        "004370.webp",
+        "004371.webp",
+        "004428.webp",
+        "004486.webp",
+        "004487.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Dầu vừa nóng thôi, chúng ta thả vô là chiên như vậy đó.",
+      "start": 179.52,
+      "end": 183.52,
+      "n_words": 13,
+      "start_frame": 4488,
+      "end_frame": 4588,
+      "keyframes": [
+        "004517.webp",
+        "004547.webp",
+        "004548.webp",
+        "004566.webp",
+        "004585.webp",
+        "004586.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chiên như vậy thì cá kèo nó sẽ bề mặt sẽ cứng hơn.",
+      "start": 183.52,
+      "end": 188.96,
+      "n_words": 13,
+      "start_frame": 4588,
+      "end_frame": 4724,
+      "keyframes": [
+        "004620.webp",
+        "004655.webp",
+        "004656.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Gần cái bề mặt rồi, các bạn nhớ chúng ta mới thả cá vô chúng ta khoan di chuyển cá nha.",
+      "start": 188.96,
+      "end": 195.92,
+      "n_words": 21,
+      "start_frame": 4724,
+      "end_frame": 4898,
+      "keyframes": [
+        "004730.webp",
+        "004804.webp",
+        "004805.webp",
+        "004850.webp",
+        "004896.webp",
+        "004897.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Anh nhờ em một nhiệm vụ được không?",
+      "start": 195.92,
+      "end": 197.32,
+      "n_words": 8,
+      "start_frame": 4898,
+      "end_frame": 4933,
+      "keyframes": [
+        "004923.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Dạ được chứ.",
+      "start": 197.32,
+      "end": 198.04,
+      "n_words": 3,
+      "start_frame": 4933,
+      "end_frame": 4951,
+      "keyframes": [
+        "004949.webp",
+        "004950.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Em đứng em canh anh chờ nha.",
+      "start": 198.04,
+      "end": 200.0,
+      "n_words": 7,
+      "start_frame": 4951,
+      "end_frame": 5000,
+      "keyframes": [
+        "004979.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trong thời gian đó anh Vũ làm gì ạ?",
+      "start": 200.36,
+      "end": 202.2,
+      "n_words": 9,
+      "start_frame": 5009,
+      "end_frame": 5055,
+      "keyframes": [
+        "005009.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trong thời gian đó tôi sẽ pha sốt chanh dây, vô cùng dễ.",
+      "start": 202.2,
+      "end": 205.2,
+      "n_words": 13,
+      "start_frame": 5055,
+      "end_frame": 5130,
+      "keyframes": [
+        "005062.webp",
+        "005116.webp",
+        "005117.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn chúng ta cho vào đây khoảng bốn muỗng gì mà vô một muỗng cà phê nước cốt chanh dây thôi.",
+      "start": 205.2,
+      "end": 210.68,
+      "n_words": 22,
+      "start_frame": 5130,
+      "end_frame": 5267,
+      "keyframes": [
+        "005168.webp",
+        "005220.webp",
+        "005221.webp",
+        "005243.webp",
+        "005266.webp",
+        "005267.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đối với cá kèo chiên, nhắc đến thì mọi người thường hay nhắc đến mắm me đúng không anh?",
+      "start": 210.68,
+      "end": 215.12,
+      "n_words": 19,
+      "start_frame": 5267,
+      "end_frame": 5378,
+      "keyframes": [
+        "005267.webp",
+        "005314.webp",
+        "005361.webp",
+        "005362.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đúng đúng không ạ?",
+      "start": 215.12,
+      "end": 216.72,
+      "n_words": 4,
+      "start_frame": 5378,
+      "end_frame": 5418,
+      "keyframes": [
+        "005391.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nhưng mà ngày hôm nay em để ý là anh sẽ sử dụng cái độ chua từ chanh dây.",
+      "start": 216.72,
+      "end": 220.6,
+      "n_words": 19,
+      "start_frame": 5418,
+      "end_frame": 5515,
+      "keyframes": [
+        "005420.webp",
+        "005421.webp",
+        "005441.webp",
+        "005461.webp",
+        "005462.webp",
+        "005494.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đúng rồi, chanh dây nó có cái màu vàng óng nữa, thơm nữa.",
+      "start": 220.6,
+      "end": 225.68,
+      "n_words": 13,
+      "start_frame": 5515,
+      "end_frame": 5642,
+      "keyframes": [
+        "005527.webp",
+        "005528.webp",
+        "005599.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Dạ đó như vậy.",
+      "start": 225.68,
+      "end": 226.84,
+      "n_words": 4,
+      "start_frame": 5642,
+      "end_frame": 5671,
+      "keyframes": [
+        "005671.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ôi nhưng mà em rất là thích cái cách chiên ngày hôm nay đó là có cái phần rau răm cũng như là cái ớt sừng băm ở ngoài nè, cho nên là nhìn cái da nó vừa vàng vừa giòn mà vừa đẹp mắt nữa.",
+      "start": 226.84,
+      "end": 237.92,
+      "n_words": 46,
+      "start_frame": 5671,
+      "end_frame": 5948,
+      "keyframes": [
+        "005671.webp",
+        "005672.webp",
+        "005708.webp",
+        "005745.webp",
+        "005746.webp",
+        "005806.webp",
+        "005866.webp",
+        "005867.webp",
+        "005907.webp",
+        "005947.webp",
+        "005948.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Màu sắc hay đẹp nè mà cái độ giòn bằng mắt thôi là mình có thể cảm nhận được rồi.",
+      "start": 237.92,
+      "end": 245.44,
+      "n_words": 20,
+      "start_frame": 5948,
+      "end_frame": 6136,
+      "keyframes": [
+        "005948.webp",
+        "005991.webp",
+        "006034.webp",
+        "006035.webp",
+        "006062.webp",
+        "006090.webp",
+        "006091.webp",
+        "006115.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta để lên một cái chảo lót lớp giấy nha.",
+      "start": 245.44,
+      "end": 249.28,
+      "n_words": 11,
+      "start_frame": 6136,
+      "end_frame": 6232,
+      "keyframes": [
+        "006140.webp",
+        "006141.webp",
+        "006157.webp",
+        "006174.webp",
+        "006175.webp",
+        "006202.webp",
+        "006229.webp",
+        "006230.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Rồi bây giờ chúng ta sẽ rưới sốt chanh dây lên.",
+      "start": 249.28,
+      "end": 252.32,
+      "n_words": 11,
+      "start_frame": 6232,
+      "end_frame": 6308,
+      "keyframes": [
+        "006268.webp",
+        "006307.webp",
+        "006308.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thêm vào đây, một chút rau răm rủ rất là nhiều và sự biến tấu thú vị trong món cá kèo chiên ngày hôm nay.",
+      "start": 252.32,
+      "end": 260.08,
+      "n_words": 25,
+      "start_frame": 6308,
+      "end_frame": 6502,
+      "keyframes": [
+        "006308.webp",
+        "006370.webp",
+        "006433.webp",
+        "006434.webp",
+        "006467.webp",
+        "006500.webp",
+        "006501.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Và thưa các bạn, để có một bữa ăn hoàn chỉnh, món ăn này chúng ta kết hợp cùng với lại món gỏi gà nướng trái dừa nè, thêm cái món lẩu vịt tía tô nữa, một cái bữa tiệc hoàn chỉnh luôn.",
+      "start": 260.08,
+      "end": 270.08,
+      "n_words": 43,
+      "start_frame": 6502,
+      "end_frame": 6752,
+      "keyframes": [
+        "006525.webp",
+        "006549.webp",
+        "006550.webp",
+        "006562.webp",
+        "006574.webp",
+        "006575.webp",
+        "006612.webp",
+        "006650.webp",
+        "006651.webp",
+        "006707.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Cắn vào miếng cá giòn rụm, lớp vỏ bên ngoài ngọt từ thịt cá, thơm thơm từ rau răm, một ít sốt beo béo chua chua dậy mùi chanh dây, wow đỉnh của đỉnh.",
+      "start": 270.64,
+      "end": 282.48,
+      "n_words": 34,
+      "start_frame": 6766,
+      "end_frame": 7062,
+      "keyframes": [
+        "006801.webp",
+        "006838.webp",
+        "006863.webp",
+        "006885.webp",
+        "006907.webp",
+        "006908.webp",
+        "006982.webp",
+        "007057.webp",
+        "007058.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Hãy cùng Món ngon mỗi ngày tạo nên những món ăn ngon từ những nguyên liệu gần gũi các bạn nhé.",
+      "start": 282.48,
+      "end": 287.44,
+      "n_words": 21,
+      "start_frame": 7062,
+      "end_frame": 7186,
+      "keyframes": [
+        "007121.webp",
+        "007185.webp",
+        "007186.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và để tìm hiểu công thức của những món ăn khác, các bạn có thể truy cập vào kênh YouTube, website và fanpage của chương trình nhé.",
+      "start": 287.44,
+      "end": 295.08,
+      "n_words": 27,
+      "start_frame": 7186,
+      "end_frame": 7377,
+      "keyframes": [
+        "007186.webp",
+        "007216.webp",
+        "007246.webp",
+        "007247.webp",
+        "007300.webp",
+        "007353.webp",
+        "007354.webp"
+      ],
+      "keyframe_count": 7
+    }
+  ]
+}

@@ -1,0 +1,678 @@
+{
+  "video_id": "L26_V101",
+  "fps": 25.0,
+  "n_sentences": 38,
+  "total_words": 907,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày: má heo nướng táo.",
+      "start": 10.52,
+      "end": 13.56,
+      "n_words": 8,
+      "start_frame": 263,
+      "end_frame": 339,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Seo thơm lừng, giòn ngon, đậm đà.",
+      "start": 13.56,
+      "end": 35.08,
+      "n_words": 7,
+      "start_frame": 339,
+      "end_frame": 877,
+      "keyframes": [
+        "000364.webp",
+        "000429.webp",
+        "000430.webp",
+        "000483.webp",
+        "000537.webp",
+        "000538.webp",
+        "000579.webp",
+        "000621.webp",
+        "000622.webp",
+        "000662.webp",
+        "000703.webp",
+        "000704.webp",
+        "000794.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Chào các bạn khán giả đang xem chương trình Món ngon mỗi ngày - Nấu chuẩn an lành.",
+      "start": 35.4,
+      "end": 39.84,
+      "n_words": 18,
+      "start_frame": 885,
+      "end_frame": 996,
+      "keyframes": [
+        "000885.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 39.84,
+      "end": 44.0,
+      "n_words": 11,
+      "start_frame": 996,
+      "end_frame": 1100,
+      "keyframes": [
+        "001065.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và thưa các bạn, món ngày hôm nay là sử dụng một nguyên liệu đầu tiên trong suốt mấy năm của chương trình Món ngon mỗi ngày.",
+      "start": 44.0,
+      "end": 50.08,
+      "n_words": 27,
+      "start_frame": 1100,
+      "end_frame": 1252,
+      "keyframes": [
+        "001246.webp",
+        "001247.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đúng Minh Tuấn, đây là phần thịt gì?",
+      "start": 50.08,
+      "end": 53.36,
+      "n_words": 8,
+      "start_frame": 1252,
+      "end_frame": 1334,
+      "keyframes": [
+        "001289.webp",
+        "001331.webp",
+        "001332.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chắc chắn là em không biết.",
+      "start": 53.36,
+      "end": 55.28,
+      "n_words": 6,
+      "start_frame": 1334,
+      "end_frame": 1382,
+      "keyframes": [
+        "001367.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đúng rồi, đây là phần má heo đó các bạn, và đây là cái mà người ta hay dùng để nấu cháo hoặc nướng lên đó.",
+      "start": 55.28,
+      "end": 64.24,
+      "n_words": 26,
+      "start_frame": 1382,
+      "end_frame": 1606,
+      "keyframes": [
+        "001402.webp",
+        "001403.webp",
+        "001427.webp",
+        "001452.webp",
+        "001453.webp",
+        "001517.webp",
+        "001582.webp",
+        "001583.webp",
+        "001596.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Thưa các bạn, má heo chúng ta xát muối với lại rượu trắng để thịt thơm và được sạch hơn.",
+      "start": 64.24,
+      "end": 68.84,
+      "n_words": 20,
+      "start_frame": 1606,
+      "end_frame": 1721,
+      "keyframes": [
+        "001609.webp",
+        "001610.webp",
+        "001665.webp",
+        "001721.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ thì chúng ta sẽ ướp thịt nha.",
+      "start": 68.84,
+      "end": 71.68,
+      "n_words": 9,
+      "start_frame": 1721,
+      "end_frame": 1792,
+      "keyframes": [
+        "001721.webp",
+        "001722.webp",
+        "001756.webp",
+        "001791.webp",
+        "001792.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cái phần này thì các lát dày khoảng 5 ly.",
+      "start": 71.68,
+      "end": 78.24,
+      "n_words": 10,
+      "start_frame": 1792,
+      "end_frame": 1956,
+      "keyframes": [
+        "001792.webp",
+        "001859.webp",
+        "001926.webp",
+        "001927.webp",
+        "001943.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ ướp phần má heo này với lại hành tím băm nè, tỏi băm các bạn cho vào đây.",
+      "start": 78.24,
+      "end": 83.36,
+      "n_words": 23,
+      "start_frame": 1956,
+      "end_frame": 2084,
+      "keyframes": [
+        "001960.webp",
+        "001961.webp",
+        "001979.webp",
+        "001997.webp",
+        "001998.webp",
+        "002016.webp",
+        "002035.webp",
+        "002036.webp",
+        "002053.webp",
+        "002070.webp",
+        "002071.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Nước tương chúng ta cho vào nó vừa sâm sấp, cho xíu bột ớt Hàn Quốc 1/3 muỗng cà phê, bột ngũ vị hương Bắc Kinh soda khoảng một muỗng cà phê và chúng ta đem thêm 1/3 muỗng cà phê bột ngọt Ajinomoto, một muỗng cà phê hạt nêm Aji-ngon heo.",
+      "start": 83.36,
+      "end": 100.16,
+      "n_words": 52,
+      "start_frame": 2084,
+      "end_frame": 2504,
+      "keyframes": [
+        "002118.webp",
+        "002165.webp",
+        "002166.webp",
+        "002184.webp",
+        "002202.webp",
+        "002203.webp",
+        "002232.webp",
+        "002261.webp",
+        "002262.webp",
+        "002280.webp",
+        "002298.webp",
+        "002299.webp",
+        "002320.webp",
+        "002341.webp",
+        "002342.webp",
+        "002363.webp",
+        "002384.webp",
+        "002385.webp",
+        "002408.webp",
+        "002431.webp",
+        "002432.webp",
+        "002446.webp",
+        "002461.webp",
+        "002462.webp",
+        "002484.webp"
+      ],
+      "keyframe_count": 25
+    },
+    {
+      "text": "Các bạn, món này chúng ta nên ướp với lại nước táo để cắt axit trong nước táo sẽ giúp cho thịt mềm hơn nha các bạn.",
+      "start": 100.36,
+      "end": 106.12,
+      "n_words": 27,
+      "start_frame": 2509,
+      "end_frame": 2653,
+      "keyframes": [
+        "002578.webp",
+        "002649.webp",
+        "002650.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trộn đều lên, chúng ta ướp khoảng độ một tiếng rưỡi các bạn.",
+      "start": 106.12,
+      "end": 110.52,
+      "n_words": 13,
+      "start_frame": 2653,
+      "end_frame": 2763,
+      "keyframes": [
+        "002685.webp",
+        "002721.webp",
+        "002722.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và theo như Cục An toàn Thực phẩm khuyên thì là nếu mà chúng ta nướng, chúng ta dùng lại nước ướp thì nó sẽ giúp cho chúng ta làm giảm cái khả năng gây bệnh từ thực phẩm, có nghĩa là mình không có bị nướng cháy quá.",
+      "start": 110.52,
+      "end": 121.08,
+      "n_words": 49,
+      "start_frame": 2763,
+      "end_frame": 3027,
+      "keyframes": [
+        "002764.webp",
+        "002807.webp",
+        "002808.webp",
+        "002861.webp",
+        "002914.webp",
+        "002915.webp",
+        "002949.webp",
+        "002983.webp",
+        "002984.webp",
+        "003009.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Đúng rồi, chúng ta ướp với cái hỗn hợp mà nó loãng như vậy thì thứ nhất là thịt sẽ không bị khô sau khi nướng nè và thịt nó sẽ khó bị cháy hơn.",
+      "start": 121.08,
+      "end": 129.8,
+      "n_words": 35,
+      "start_frame": 3027,
+      "end_frame": 3245,
+      "keyframes": [
+        "003034.webp",
+        "003035.webp",
+        "003058.webp",
+        "003081.webp",
+        "003082.webp",
+        "003169.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và khi gia vị được hòa tan như vậy thì sau cùng chúng ta mới cho khoảng hai muỗng canh dầu ăn vào cho nó mau mượt hơn, nó giữ cái gia vị thấm vào bên trong từng lát cái má heo luôn như vậy xong.",
+      "start": 129.8,
+      "end": 143.08,
+      "n_words": 46,
+      "start_frame": 3245,
+      "end_frame": 3577,
+      "keyframes": [
+        "003256.webp",
+        "003257.webp",
+        "003314.webp",
+        "003371.webp",
+        "003372.webp",
+        "003417.webp",
+        "003463.webp",
+        "003464.webp",
+        "003521.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Và thưa các bạn, bây giờ sẽ hướng dẫn cho các bạn cách pha nước sốt nướng.",
+      "start": 143.08,
+      "end": 148.28,
+      "n_words": 17,
+      "start_frame": 3577,
+      "end_frame": 3707,
+      "keyframes": [
+        "003578.webp",
+        "003579.webp",
+        "003644.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta cho vào đây một muỗng canh tương ớt nè, bốn muỗng canh tương cà hoặc là một chén nhỏ tương cà, khoảng một muỗng canh whipping cream, sữa đặc có đường, một muỗng canh, chúng ta hòa đều luôn.",
+      "start": 148.28,
+      "end": 158.44,
+      "n_words": 41,
+      "start_frame": 3707,
+      "end_frame": 3961,
+      "keyframes": [
+        "003710.webp",
+        "003711.webp",
+        "003736.webp",
+        "003762.webp",
+        "003763.webp",
+        "003797.webp",
+        "003832.webp",
+        "003833.webp",
+        "003855.webp",
+        "003877.webp",
+        "003878.webp",
+        "003919.webp",
+        "003960.webp",
+        "003961.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Nêm vào đây nửa muỗng cà phê hạt nêm Aji-ngon heo, nửa muỗng cà phê bột ngọt Ajinomoto, chúng ta khuấy đều như vậy.",
+      "start": 158.44,
+      "end": 165.96,
+      "n_words": 24,
+      "start_frame": 3961,
+      "end_frame": 4149,
+      "keyframes": [
+        "003961.webp",
+        "003976.webp",
+        "003992.webp",
+        "003993.webp",
+        "004013.webp",
+        "004033.webp",
+        "004034.webp",
+        "004063.webp",
+        "004092.webp",
+        "004093.webp",
+        "004124.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Chúng ta bắt đem một cái chảo cho xíu dầu vô đây thôi, rồi chúng ta cho những miếng thịt này vào lửa hơi cao một chút.",
+      "start": 165.96,
+      "end": 179.08,
+      "n_words": 27,
+      "start_frame": 4149,
+      "end_frame": 4477,
+      "keyframes": [
+        "004155.webp",
+        "004156.webp",
+        "004175.webp",
+        "004195.webp",
+        "004196.webp",
+        "004221.webp",
+        "004246.webp",
+        "004247.webp",
+        "004296.webp",
+        "004345.webp",
+        "004346.webp",
+        "004374.webp",
+        "004402.webp",
+        "004403.webp",
+        "004435.webp",
+        "004468.webp",
+        "004469.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Đúng rồi đó, bắt đầu vàng rồi, chúng ta lấy cái dĩa ra, chúng ta chúc cái mẻ đầu tiên ra, chúng ta cho tiếp mẻ hai vào.",
+      "start": 179.08,
+      "end": 193.16,
+      "n_words": 28,
+      "start_frame": 4477,
+      "end_frame": 4829,
+      "keyframes": [
+        "004504.webp",
+        "004540.webp",
+        "004541.webp",
+        "004570.webp",
+        "004600.webp",
+        "004601.webp",
+        "004641.webp",
+        "004681.webp",
+        "004682.webp",
+        "004706.webp",
+        "004731.webp",
+        "004732.webp",
+        "004751.webp",
+        "004771.webp",
+        "004772.webp",
+        "004798.webp",
+        "004824.webp",
+        "004825.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Những cái thịt vừa chín, chúng ta chốt cái phần hồi nãy vô cùng luôn, chúng ta xào đều từ từ.",
+      "start": 193.16,
+      "end": 202.28,
+      "n_words": 21,
+      "start_frame": 4829,
+      "end_frame": 5057,
+      "keyframes": [
+        "004846.webp",
+        "004868.webp",
+        "004869.webp",
+        "004899.webp",
+        "004929.webp",
+        "004930.webp",
+        "004967.webp",
+        "005004.webp",
+        "005005.webp",
+        "005031.webp",
+        "005057.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Sau cùng chúng ta sẽ cho vào đây hành nướng.",
+      "start": 202.28,
+      "end": 206.88,
+      "n_words": 10,
+      "start_frame": 5057,
+      "end_frame": 5172,
+      "keyframes": [
+        "005057.webp",
+        "005058.webp",
+        "005117.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn, chúng ta áp chảo thịt trước, sau đó cho sả nướng vào như vậy thì thịt sẽ thấm vị mà không bị cháy nha các bạn.",
+      "start": 207.24,
+      "end": 213.76,
+      "n_words": 28,
+      "start_frame": 5181,
+      "end_frame": 5344,
+      "keyframes": [
+        "005257.webp",
+        "005337.webp",
+        "005338.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi, như vậy thì món ăn chúng ta đã hoàn tất.",
+      "start": 213.76,
+      "end": 216.12,
+      "n_words": 11,
+      "start_frame": 5344,
+      "end_frame": 5403,
+      "keyframes": [
+        "005375.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Các bạn thấy rất là thơm, cực kỳ hấp dẫn, cái này mà ăn kèm với đồ chua ngon anh ha? Đúng vậy luôn đó.",
+      "start": 216.12,
+      "end": 222.0,
+      "n_words": 25,
+      "start_frame": 5403,
+      "end_frame": 5550,
+      "keyframes": [
+        "005413.webp",
+        "005414.webp",
+        "005442.webp",
+        "005470.webp",
+        "005471.webp",
+        "005512.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và ngay bây giờ, bên cạnh một cái chảo đang nghi ngút khói là một mã QR để các bạn có thể quét mã này, chúng ta sẽ ngay lập tức có món ăn.",
+      "start": 222.0,
+      "end": 230.28,
+      "n_words": 34,
+      "start_frame": 5550,
+      "end_frame": 5757,
+      "keyframes": [
+        "005553.webp",
+        "005554.webp",
+        "005596.webp",
+        "005639.webp",
+        "005640.webp",
+        "005734.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hãy quét mã, chụp ảnh lại công thức và thực hiện nha.",
+      "start": 230.28,
+      "end": 235.2,
+      "n_words": 12,
+      "start_frame": 5757,
+      "end_frame": 5880,
+      "keyframes": [
+        "005829.webp",
+        "005830.webp",
+        "005854.webp",
+        "005879.webp",
+        "005880.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cho những cái miếng thịt này ra cái dĩa lót lá chuối, rắc mè xíu, ớt sợi.",
+      "start": 235.2,
+      "end": 252.6,
+      "n_words": 17,
+      "start_frame": 5880,
+      "end_frame": 6315,
+      "keyframes": [
+        "005880.webp",
+        "005919.webp",
+        "005958.webp",
+        "005959.webp",
+        "006003.webp",
+        "006048.webp",
+        "006049.webp",
+        "006099.webp",
+        "006149.webp",
+        "006150.webp",
+        "006197.webp",
+        "006244.webp",
+        "006245.webp",
+        "006281.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Thưa các bạn, chúng ta có một món nướng từ thịt heo rồi các bạn, chúng ta cần thêm một món tôm chua trộn gỏi xanh mang vô và món cà tím nhồi thịt áp chảo là chúng ta có ngay một bữa tiệc luôn, phải không, một bữa ăn luôn.",
+      "start": 252.6,
+      "end": 265.36,
+      "n_words": 51,
+      "start_frame": 6315,
+      "end_frame": 6634,
+      "keyframes": [
+        "006318.webp",
+        "006319.webp",
+        "006485.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng rồi, mà em nghĩ nha với một cái bữa tiệc như vậy các bé thích là chuyện đương nhiên vì cái món này nó chua chua ngọt rất là dễ thích ăn, các chị cũng thích mà đặc biệt là các anh rất thích nha đó, một món ăn ngon mà thích đã cho cả gia đình luôn.",
+      "start": 265.36,
+      "end": 279.0,
+      "n_words": 59,
+      "start_frame": 6634,
+      "end_frame": 6975,
+      "keyframes": [
+        "006651.webp",
+        "006652.webp",
+        "006698.webp",
+        "006745.webp",
+        "006746.webp",
+        "006875.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cảm ơn anh Vũ rất nhiều.",
+      "start": 279.0,
+      "end": 281.28,
+      "n_words": 6,
+      "start_frame": 6975,
+      "end_frame": 7032,
+      "keyframes": [
+        "007004.webp",
+        "007005.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Má heo nướng thơm lừng, thịt chín bóng mượt, óng lên màu nâu đỏ đẹp mắt, thịt bên ngoài giòn nhẹ, bên trong ngọt mềm nhờ nước táo ăn, đậm đà cực ngon.",
+      "start": 281.6,
+      "end": 293.76,
+      "n_words": 33,
+      "start_frame": 7040,
+      "end_frame": 7344,
+      "keyframes": [
+        "007064.webp",
+        "007123.webp",
+        "007124.webp",
+        "007180.webp",
+        "007236.webp",
+        "007237.webp",
+        "007293.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Nếu các bạn mời khách đến nhà và muốn gây ấn tượng với khách bằng một món ăn hãy lựa chọn món má heo nướng táo, đảm bảo mọi thực khách đều ưng.",
+      "start": 293.76,
+      "end": 302.08,
+      "n_words": 33,
+      "start_frame": 7344,
+      "end_frame": 7552,
+      "keyframes": [
+        "007350.webp",
+        "007351.webp",
+        "007451.webp",
+        "007551.webp",
+        "007552.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Công thức luôn có trên YouTube, website và fanpage của chương trình Món ngon mỗi ngày. Truy cập vào xem lại công thức và thết đãi bạn bè của mình.",
+      "start": 302.08,
+      "end": 309.68,
+      "n_words": 30,
+      "start_frame": 7552,
+      "end_frame": 7742,
+      "keyframes": [
+        "007552.webp",
+        "007661.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúc các bạn thành công!",
+      "start": 309.68,
+      "end": 311.56,
+      "n_words": 5,
+      "start_frame": 7742,
+      "end_frame": 7789,
+      "keyframes": [
+        "007771.webp",
+        "007772.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

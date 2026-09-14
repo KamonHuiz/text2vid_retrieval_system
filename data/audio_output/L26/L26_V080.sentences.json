@@ -1,0 +1,716 @@
+{
+  "video_id": "L26_V080",
+  "fps": 25.0,
+  "n_sentences": 43,
+  "total_words": 900,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày, xanh mát cho cơ thể khỏe mạnh với cải ngồng trộn gà xé.",
+      "start": 10.48,
+      "end": 37.52,
+      "n_words": 17,
+      "start_frame": 262,
+      "end_frame": 938,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000353.webp",
+        "000407.webp",
+        "000408.webp",
+        "000472.webp",
+        "000537.webp",
+        "000552.webp",
+        "000601.webp",
+        "000650.webp",
+        "000651.webp",
+        "000706.webp",
+        "000761.webp",
+        "000762.webp",
+        "000852.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Rất vui được gặp lại các bạn trong chương trình Món ngon mỗi ngày. Nấu chuẩn ăn ngon.",
+      "start": 37.52,
+      "end": 41.92,
+      "n_words": 18,
+      "start_frame": 938,
+      "end_frame": 1048,
+      "keyframes": [
+        "000942.webp",
+        "000943.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Asino Việt Nam hôm nay.",
+      "start": 41.92,
+      "end": 47.36,
+      "n_words": 13,
+      "start_frame": 1048,
+      "end_frame": 1184,
+      "keyframes": [
+        "001053.webp",
+        "001164.webp",
+        "001165.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nguyên liệu trông hấp dẫn quá!",
+      "start": 47.36,
+      "end": 48.76,
+      "n_words": 6,
+      "start_frame": 1184,
+      "end_frame": 1219,
+      "keyframes": [
+        "001190.webp",
+        "001215.webp",
+        "001216.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "- Thanh Phương thích nhất là món cải ngồng luôn đó anh Long.",
+      "start": 48.76,
+      "end": 51.12,
+      "n_words": 13,
+      "start_frame": 1219,
+      "end_frame": 1278,
+      "keyframes": [
+        "001245.webp",
+        "001274.webp",
+        "001275.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trước đây nếu mà ăn cải ngồng thì Thanh Phương làm món gì?",
+      "start": 51.12,
+      "end": 53.88,
+      "n_words": 13,
+      "start_frame": 1278,
+      "end_frame": 1347,
+      "keyframes": [
+        "001311.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "- Em hay làm cải ngồng xào thịt bò nè, hoặc làm luộc cũng ngon nữa nè.",
+      "start": 53.88,
+      "end": 57.8,
+      "n_words": 17,
+      "start_frame": 1347,
+      "end_frame": 1445,
+      "keyframes": [
+        "001348.webp",
+        "001349.webp",
+        "001371.webp",
+        "001394.webp",
+        "001395.webp",
+        "001443.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hôm nay chúng ta thay đổi một chút xíu, chút xíu nó hơi hiện đại chút xíu, mình sẽ làm món cải ngồng trộn gà xé.",
+      "start": 57.8,
+      "end": 64.48,
+      "n_words": 26,
+      "start_frame": 1445,
+      "end_frame": 1612,
+      "keyframes": [
+        "001491.webp",
+        "001492.webp",
+        "001511.webp",
+        "001530.webp",
+        "001531.webp",
+        "001571.webp",
+        "001612.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cải ngồng thì có quanh năm các bạn ơi, nhưng mà cải ngồng vào mùa thu là ngon nhất, bởi vì vào lúc đó thì cải ngồng rất là ưa cái độ ẩm nè, nên nó sẽ tươi ngon và hấp dẫn hơn.",
+      "start": 64.48,
+      "end": 73.88,
+      "n_words": 43,
+      "start_frame": 1612,
+      "end_frame": 1847,
+      "keyframes": [
+        "001612.webp",
+        "001613.webp",
+        "001639.webp",
+        "001666.webp",
+        "001667.webp",
+        "001727.webp",
+        "001788.webp",
+        "001789.webp",
+        "001818.webp",
+        "001847.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Thanh Phương chuẩn bị giúp Long nè, mình sẽ luộc phần ức gà trước.",
+      "start": 73.88,
+      "end": 78.36,
+      "n_words": 14,
+      "start_frame": 1847,
+      "end_frame": 1959,
+      "keyframes": [
+        "001847.webp",
+        "001848.webp",
+        "001882.webp",
+        "001916.webp",
+        "001917.webp",
+        "001936.webp",
+        "001956.webp",
+        "001957.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Bây giờ Long chuẩn bị một nồi nước sôi, Long phải cho vào nồi nước một muỗng cà phê muối.",
+      "start": 78.36,
+      "end": 82.48,
+      "n_words": 20,
+      "start_frame": 1959,
+      "end_frame": 2062,
+      "keyframes": [
+        "001982.webp",
+        "002007.webp",
+        "002008.webp",
+        "002049.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Trong khi Thanh Phương nước giúp Long luộc gà thì Long sẽ chuẩn bị cái phần rau củ quả ăn kèm.",
+      "start": 82.48,
+      "end": 87.52,
+      "n_words": 21,
+      "start_frame": 2062,
+      "end_frame": 2188,
+      "keyframes": [
+        "002091.webp",
+        "002092.webp",
+        "002141.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Với cà rốt thì Long sẽ cắt sợi.",
+      "start": 87.52,
+      "end": 95.12,
+      "n_words": 8,
+      "start_frame": 2188,
+      "end_frame": 2378,
+      "keyframes": [
+        "002190.webp",
+        "002191.webp",
+        "002237.webp",
+        "002284.webp",
+        "002285.webp",
+        "002334.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Nước đã sôi, Thanh Phương sẽ bỏ cái phần ức gà này vào luộc.",
+      "start": 95.12,
+      "end": 98.44,
+      "n_words": 14,
+      "start_frame": 2378,
+      "end_frame": 2461,
+      "keyframes": [
+        "002384.webp",
+        "002385.webp",
+        "002421.webp",
+        "002458.webp",
+        "002459.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Như các bạn cũng biết là ức gà có nhiều protein nè, đặc biệt là với những ai mà cần tăng cơ bắp nè thì sẽ hay thường ăn ức gà, bởi vì ăn ức gà sẽ giúp cho cơ bắp được tốt hơn.",
+      "start": 98.44,
+      "end": 110.2,
+      "n_words": 44,
+      "start_frame": 2461,
+      "end_frame": 2755,
+      "keyframes": [
+        "002606.webp",
+        "002754.webp",
+        "002755.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hành tây Long sẽ cắt sớ ngang.",
+      "start": 110.2,
+      "end": 115.28,
+      "n_words": 7,
+      "start_frame": 2755,
+      "end_frame": 2882,
+      "keyframes": [
+        "002755.webp",
+        "002808.webp",
+        "002861.webp",
+        "002862.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Hành tây chúng ta sẽ cắt ngang củ để hạn chế mùi hăng.",
+      "start": 115.28,
+      "end": 119.04,
+      "n_words": 13,
+      "start_frame": 2882,
+      "end_frame": 2976,
+      "keyframes": [
+        "002886.webp",
+        "002910.webp",
+        "002911.webp",
+        "002941.webp",
+        "002971.webp",
+        "002972.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sau khi cắt cái phần cà rốt và hành thì Long sẽ cho vào đây một muỗng rưỡi cà phê đường, trộn đều lên.",
+      "start": 119.04,
+      "end": 126.76,
+      "n_words": 24,
+      "start_frame": 2976,
+      "end_frame": 3169,
+      "keyframes": [
+        "003013.webp",
+        "003055.webp",
+        "003056.webp",
+        "003085.webp",
+        "003114.webp",
+        "003115.webp",
+        "003155.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Bây giờ Long sẽ tiến hành pha phần sốt để mình trộn kèm với lại gà và cải ngồng.",
+      "start": 126.76,
+      "end": 132.6,
+      "n_words": 19,
+      "start_frame": 3169,
+      "end_frame": 3315,
+      "keyframes": [
+        "003195.webp",
+        "003196.webp",
+        "003256.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Long sẽ cần ba muỗng canh mayonnaise vị ngọt dịu, một muỗng canh mè rang giã nhuyễn.",
+      "start": 132.6,
+      "end": 139.48,
+      "n_words": 17,
+      "start_frame": 3315,
+      "end_frame": 3487,
+      "keyframes": [
+        "003316.webp",
+        "003317.webp",
+        "003348.webp",
+        "003380.webp",
+        "003381.webp",
+        "003412.webp",
+        "003444.webp",
+        "003445.webp",
+        "003467.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Với mè trắng chúng ta đem rang sau đó giã nhuyễn để cái phần mè đặc trưng, một muỗng cà phê tương ớt, một muỗng cà phê dầu hào, một muỗng cà phê tương cà, một muỗng cà phê giấm gạo lên men Ajinomoto, một muỗng cà phê dầu mè và cuối cùng là một phần ba muỗng cà phê muối.",
+      "start": 139.48,
+      "end": 157.68,
+      "n_words": 61,
+      "start_frame": 3487,
+      "end_frame": 3942,
+      "keyframes": [
+        "003489.webp",
+        "003490.webp",
+        "003541.webp",
+        "003592.webp",
+        "003593.webp",
+        "003617.webp",
+        "003641.webp",
+        "003642.webp",
+        "003670.webp",
+        "003698.webp",
+        "003699.webp",
+        "003723.webp",
+        "003748.webp",
+        "003749.webp",
+        "003796.webp",
+        "003843.webp",
+        "003844.webp",
+        "003864.webp",
+        "003884.webp",
+        "003885.webp",
+        "003914.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Sau đó chúng ta sẽ trộn đều lên.",
+      "start": 157.68,
+      "end": 159.2,
+      "n_words": 8,
+      "start_frame": 3942,
+      "end_frame": 3980,
+      "keyframes": [
+        "003943.webp",
+        "003944.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Như vậy là gà chín rồi, Thanh Phương ơi!",
+      "start": 159.2,
+      "end": 160.8,
+      "n_words": 9,
+      "start_frame": 3980,
+      "end_frame": 4020,
+      "keyframes": [
+        "003981.webp",
+        "004018.webp",
+        "004019.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "- Rồi bây giờ em sẽ lấy gà ra nha và phần cải ngồng thì Thanh Phương cũng sẽ trộn vào, sau đó ngâm vào trong nước đá lạnh.",
+      "start": 160.8,
+      "end": 169.64,
+      "n_words": 29,
+      "start_frame": 4020,
+      "end_frame": 4241,
+      "keyframes": [
+        "004045.webp",
+        "004072.webp",
+        "004073.webp",
+        "004100.webp",
+        "004127.webp",
+        "004128.webp",
+        "004174.webp",
+        "004220.webp",
+        "004221.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Giờ Thanh Phương sẽ giúp Long là xé gà ra.",
+      "start": 171.28,
+      "end": 174.56,
+      "n_words": 10,
+      "start_frame": 4282,
+      "end_frame": 4364,
+      "keyframes": [
+        "004299.webp",
+        "004300.webp",
+        "004329.webp",
+        "004358.webp",
+        "004359.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Mình luộc vừa chín tới, vừa chín tới thôi, mình chần sơ qua nên cái miếng gà nó vẫn còn rất là dai nè và nó còn giữ được vị ngọt.",
+      "start": 174.56,
+      "end": 182.0,
+      "n_words": 31,
+      "start_frame": 4364,
+      "end_frame": 4550,
+      "keyframes": [
+        "004437.webp",
+        "004516.webp",
+        "004517.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Khi mà xé ra mình cảm thấy là cái nước ngọt của gà nó tiết ra trông rất là hấp dẫn luôn đấy ạ.",
+      "start": 182.0,
+      "end": 186.04,
+      "n_words": 24,
+      "start_frame": 4550,
+      "end_frame": 4651,
+      "keyframes": [
+        "004581.webp",
+        "004646.webp",
+        "004647.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trong khi Thanh Phương đang xé gà thì Long phải chuẩn bị cái phần cải ngồng để trộn vào.",
+      "start": 186.04,
+      "end": 190.8,
+      "n_words": 19,
+      "start_frame": 4651,
+      "end_frame": 4770,
+      "keyframes": [
+        "004708.webp",
+        "004769.webp",
+        "004770.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Sẽ cắt cải ngồng thành từng đoạn năm centimet và mình cho vào sau.",
+      "start": 190.8,
+      "end": 197.04,
+      "n_words": 14,
+      "start_frame": 4770,
+      "end_frame": 4926,
+      "keyframes": [
+        "004770.webp",
+        "004832.webp",
+        "004895.webp",
+        "004896.webp",
+        "004923.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cải ngồng thì mình sẽ cho cái phần cà rốt và hành tây mà chúng ta đã trộn với đường, sau đó mình rắc rau ớt sừng.",
+      "start": 197.04,
+      "end": 205.76,
+      "n_words": 27,
+      "start_frame": 4926,
+      "end_frame": 5144,
+      "keyframes": [
+        "004950.webp",
+        "004951.webp",
+        "004972.webp",
+        "004994.webp",
+        "004995.webp",
+        "005012.webp",
+        "005029.webp",
+        "005030.webp",
+        "005078.webp",
+        "005126.webp",
+        "005127.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Chúng ta thấy sợi, Long cho phần ức gà vào, kế đến là phần sốt, rồi trộn đều lên.",
+      "start": 205.76,
+      "end": 214.88,
+      "n_words": 19,
+      "start_frame": 5144,
+      "end_frame": 5372,
+      "keyframes": [
+        "005152.webp",
+        "005177.webp",
+        "005178.webp",
+        "005212.webp",
+        "005247.webp",
+        "005248.webp",
+        "005288.webp",
+        "005328.webp",
+        "005329.webp",
+        "005353.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Như vậy là món ăn của chúng ta cũng đã hoàn thành.",
+      "start": 214.88,
+      "end": 216.96,
+      "n_words": 12,
+      "start_frame": 5372,
+      "end_frame": 5424,
+      "keyframes": [
+        "005378.webp",
+        "005379.webp",
+        "005414.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn có thể quét mã QR để xem lại công thức của món ăn ngày hôm nay.",
+      "start": 216.96,
+      "end": 222.52,
+      "n_words": 18,
+      "start_frame": 5424,
+      "end_frame": 5563,
+      "keyframes": [
+        "005449.webp",
+        "005450.webp",
+        "005482.webp",
+        "005515.webp",
+        "005516.webp",
+        "005540.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Phương ơi, bây giờ mình lại vào công đoạn là trình bày.",
+      "start": 222.52,
+      "end": 228.6,
+      "n_words": 12,
+      "start_frame": 5563,
+      "end_frame": 5715,
+      "keyframes": [
+        "005565.webp",
+        "005566.webp",
+        "005622.webp",
+        "005678.webp",
+        "005679.webp",
+        "005715.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "- Thanh Phương rất là thích những cái món gỏi salad mà nhiều màu sắc như thế này, bởi vì mình biết được là nó sẽ có nhiều vitamin và khoáng chất, cung cấp nhiều giá trị dinh dưỡng cho cơ thể.",
+      "start": 228.6,
+      "end": 236.8,
+      "n_words": 42,
+      "start_frame": 5715,
+      "end_frame": 5920,
+      "keyframes": [
+        "005715.webp",
+        "005751.webp",
+        "005752.webp",
+        "005829.webp",
+        "005906.webp",
+        "005907.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cải ngồng thì có chứa vitamin C nè, và trong thịt gà, đặc biệt là ức gà thì có rất là nhiều protein.",
+      "start": 236.8,
+      "end": 242.76,
+      "n_words": 23,
+      "start_frame": 5920,
+      "end_frame": 6069,
+      "keyframes": [
+        "005986.webp",
+        "006066.webp",
+        "006067.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ Long sẽ thêm vào một chút hoa cải ngồng, thêm một chút xíu lá ngò rí nữa, thêm một tí mè rang để thơm béo nè.",
+      "start": 242.76,
+      "end": 251.8,
+      "n_words": 28,
+      "start_frame": 6069,
+      "end_frame": 6295,
+      "keyframes": [
+        "006105.webp",
+        "006144.webp",
+        "006145.webp",
+        "006175.webp",
+        "006206.webp",
+        "006207.webp",
+        "006228.webp",
+        "006250.webp",
+        "006251.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Một món ăn quả thật vừa ngon mắt lại ngon miệng. Món này thì mình sẽ kết hợp với những món nào khác ạ?",
+      "start": 251.8,
+      "end": 257.04,
+      "n_words": 24,
+      "start_frame": 6295,
+      "end_frame": 6426,
+      "keyframes": [
+        "006303.webp",
+        "006355.webp",
+        "006356.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "- Để tạo nên một bữa ăn hoàn thiện thì chúng ta sẽ ăn kèm với lại cá hồi nướng lá thơm.",
+      "start": 257.04,
+      "end": 261.92,
+      "n_words": 22,
+      "start_frame": 6426,
+      "end_frame": 6548,
+      "keyframes": [
+        "006447.webp",
+        "006538.webp",
+        "006539.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trộn đẹp mắt với màu vàng hoa cải điểm xuyết, cải ngồng giòn ngọt, thịt gà thấm sốt chua cay béo nhẹ, thêm chút mùi bùi của mè rang cân bằng lại tất cả rất lạ miệng.",
+      "start": 262.28,
+      "end": 276.12,
+      "n_words": 37,
+      "start_frame": 6557,
+      "end_frame": 6903,
+      "keyframes": [
+        "006595.webp",
+        "006651.webp",
+        "006666.webp",
+        "006725.webp",
+        "006784.webp",
+        "006785.webp",
+        "006845.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cải ngồng trộn gà xé vừa lạ miệng lại dễ làm, rất thích hợp cho những ngày thèm.",
+      "start": 276.12,
+      "end": 281.08,
+      "n_words": 18,
+      "start_frame": 6903,
+      "end_frame": 7027,
+      "keyframes": [
+        "006905.webp",
+        "006906.webp",
+        "006984.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn hãy thử nhé!",
+      "start": 281.4,
+      "end": 282.56,
+      "n_words": 5,
+      "start_frame": 7035,
+      "end_frame": 7064,
+      "keyframes": [
+        "007062.webp",
+        "007063.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ngoài ra chúng ta có thể truy cập vào kênh YouTube, website và fanpage của Món ngon mỗi ngày để tìm hiểu công thức của các món ngon. Còn bây giờ xin được mến chào tạm biệt và hẹn gặp lại.",
+      "start": 282.56,
+      "end": 291.12,
+      "n_words": 41,
+      "start_frame": 7064,
+      "end_frame": 7278,
+      "keyframes": [
+        "007179.webp"
+      ],
+      "keyframe_count": 1
+    }
+  ]
+}

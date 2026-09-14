@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+*.log
+.typesense_data/
+qdrant_storage/
+.env
+data/captions/

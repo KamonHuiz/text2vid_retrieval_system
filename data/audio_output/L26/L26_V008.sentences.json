@@ -1,0 +1,644 @@
+{
+  "video_id": "L26_V008",
+  "fps": 25.0,
+  "n_sentences": 33,
+  "total_words": 1011,
+  "sentences": [
+    {
+      "text": "Rất món ngon mỗi ngày.",
+      "start": 0.04,
+      "end": 12.12,
+      "n_words": 5,
+      "start_frame": 1,
+      "end_frame": 303,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000155.webp",
+        "000160.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 36
+    },
+    {
+      "text": "Sợi mì mềm dai thấm, vị sốt bò bằm đậm đà, thêm chút vị chua béo của sốt mayonnaise, giòn ngọt của rau củ nữa là miễn chê.",
+      "start": 12.12,
+      "end": 20.44,
+      "n_words": 28,
+      "start_frame": 303,
+      "end_frame": 511,
+      "keyframes": [
+        "000342.webp",
+        "000385.webp",
+        "000386.webp",
+        "000447.webp",
+        "000508.webp",
+        "000509.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Mì Ý bao ngon, thử là dính.",
+      "start": 20.44,
+      "end": 38.84,
+      "n_words": 7,
+      "start_frame": 511,
+      "end_frame": 971,
+      "keyframes": [
+        "000552.webp",
+        "000595.webp",
+        "000596.webp",
+        "000617.webp",
+        "000639.webp",
+        "000640.webp",
+        "000660.webp",
+        "000680.webp",
+        "000681.webp",
+        "000733.webp",
+        "000786.webp",
+        "000787.webp",
+        "000863.webp",
+        "000939.webp",
+        "000940.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Rất vui được gặp lại các bạn khán giả đang đến với chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành.",
+      "start": 38.84,
+      "end": 46.72,
+      "n_words": 22,
+      "start_frame": 971,
+      "end_frame": 1168,
+      "keyframes": [
+        "000984.webp",
+        "001029.webp",
+        "001030.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 46.72,
+      "end": 51.28,
+      "n_words": 11,
+      "start_frame": 1168,
+      "end_frame": 1282,
+      "keyframes": [
+        "001205.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Kim Thảo ơi ngày hôm nay thì Phước Hưng sẽ chiêu đãi cho Kim Thảo một món ăn rất là độc đáo nhưng mà chế biến lại rất là nhanh, luôn đó là món mì Ý bò, mì Ý bò bằm.",
+      "start": 51.28,
+      "end": 60.4,
+      "n_words": 41,
+      "start_frame": 1282,
+      "end_frame": 1510,
+      "keyframes": [
+        "001381.webp",
+        "001382.webp",
+        "001420.webp",
+        "001458.webp",
+        "001459.webp",
+        "001483.webp",
+        "001508.webp",
+        "001509.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Ủa món này quen quá mà tuy quen như vậy thôi nhưng mà sẽ hứa với Kim Thảo là một cái điều bất ngờ ở cuối món ăn.",
+      "start": 60.4,
+      "end": 66.8,
+      "n_words": 28,
+      "start_frame": 1510,
+      "end_frame": 1670,
+      "keyframes": [
+        "001529.webp",
+        "001549.webp",
+        "001550.webp",
+        "001609.webp",
+        "001669.webp",
+        "001670.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và cũng theo lời của chuyên gia dinh dưỡng thì món ăn ngày hôm nay hỗ trợ trí não làm việc rất là hiệu quả luôn.",
+      "start": 66.8,
+      "end": 72.2,
+      "n_words": 26,
+      "start_frame": 1670,
+      "end_frame": 1805,
+      "keyframes": [
+        "001670.webp",
+        "001733.webp",
+        "001796.webp",
+        "001797.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Sẽ hướng dẫn cho các bạn chúng ta sẽ ướp phần bò, cho vào đây 200 gram bò bằm, nửa muỗng cà phê tiêu, một muỗng cà phê hạt nêm Aji-ngon heo, một muỗng canh dầu hào, nửa muỗng canh nước tương Phú Sĩ, hai muỗng canh nước lọc.",
+      "start": 72.2,
+      "end": 87.84,
+      "n_words": 49,
+      "start_frame": 1805,
+      "end_frame": 2196,
+      "keyframes": [
+        "001828.webp",
+        "001859.webp",
+        "001860.webp",
+        "001888.webp",
+        "001917.webp",
+        "001918.webp",
+        "001935.webp",
+        "001952.webp",
+        "001953.webp",
+        "001964.webp",
+        "001975.webp",
+        "001976.webp",
+        "001994.webp",
+        "002012.webp",
+        "002013.webp",
+        "002045.webp",
+        "002078.webp",
+        "002079.webp",
+        "002091.webp",
+        "002104.webp",
+        "002105.webp",
+        "002124.webp",
+        "002144.webp",
+        "002145.webp",
+        "002176.webp"
+      ],
+      "keyframe_count": 25
+    },
+    {
+      "text": "Chúng ta sẽ thêm một ít nước vào khi ướp thịt bò giúp cho thịt bò không bị khô và sẽ tơi ra khi xào.",
+      "start": 87.84,
+      "end": 94.56,
+      "n_words": 25,
+      "start_frame": 2196,
+      "end_frame": 2364,
+      "keyframes": [
+        "002208.webp",
+        "002209.webp",
+        "002286.webp",
+        "002363.webp",
+        "002364.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ cho mì Ý vào, chúng ta luộc, chúng ta luộc đúng thời gian trên bao bì nha.",
+      "start": 94.56,
+      "end": 99.56,
+      "n_words": 22,
+      "start_frame": 2364,
+      "end_frame": 2489,
+      "keyframes": [
+        "002364.webp",
+        "002396.webp",
+        "002428.webp",
+        "002429.webp",
+        "002470.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Món mì Ý bò bằm thì chắc có lẽ là phải nói là món ruột của hai bạn nhỏ nhà Kim Thảo luôn, và Kim Thảo cũng đoán chắc là các bạn khán giả cũng vậy đúng không ạ, tại vì dễ ăn nè, hấp dẫn nè, lại tốt cho sức khỏe nữa.",
+      "start": 99.56,
+      "end": 111.88,
+      "n_words": 53,
+      "start_frame": 2489,
+      "end_frame": 2797,
+      "keyframes": [
+        "002511.webp",
+        "002512.webp",
+        "002642.webp",
+        "002772.webp",
+        "002773.webp",
+        "002785.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Các bạn khán giả thân mến, ngày hôm nay chúng ta có mì Ý bò bằm nhưng mà trong nguyên liệu thì có thịt bò và đậu Hà Lan, thì hai loại này sẽ cung cấp sắt rất là tốt cho cơ thể, mà sắt thì giúp bổ máu và khi chúng ta ăn món ăn này thì chắc chắn sẽ giúp cho bồi dưỡng trí não và làm việc tinh thần sẽ tỉnh táo hơn, hiệu quả hơn.",
+      "start": 111.88,
+      "end": 132.64,
+      "n_words": 79,
+      "start_frame": 2797,
+      "end_frame": 3316,
+      "keyframes": [
+        "002798.webp",
+        "002799.webp",
+        "002961.webp",
+        "003123.webp",
+        "003124.webp",
+        "003219.webp",
+        "003315.webp",
+        "003316.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Bây giờ thì Phước Hưng cũng đã thử cọng mì đã vừa chín tới rồi, Phước Hưng sẽ tắt bếp nè.",
+      "start": 132.64,
+      "end": 137.4,
+      "n_words": 21,
+      "start_frame": 3316,
+      "end_frame": 3435,
+      "keyframes": [
+        "003316.webp",
+        "003358.webp",
+        "003401.webp",
+        "003402.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ cho mì ra để kiểm tra cái độ chín của mì, thì chúng ta sẽ vớt lên một cọng mì bẻ gãy và thấy bên trong có một cái tim cỡ đầu tăm là mì đã được rồi.",
+      "start": 137.4,
+      "end": 148.0,
+      "n_words": 43,
+      "start_frame": 3435,
+      "end_frame": 3700,
+      "keyframes": [
+        "003436.webp",
+        "003470.webp",
+        "003471.webp",
+        "003530.webp",
+        "003589.webp",
+        "003590.webp",
+        "003645.webp",
+        "003700.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Mình vớt mì ra tô nước đá lạnh, như vậy có phải là để giữ được độ dai của mì không ta? Chính xác luôn.",
+      "start": 148.0,
+      "end": 153.44,
+      "n_words": 25,
+      "start_frame": 3700,
+      "end_frame": 3836,
+      "keyframes": [
+        "003700.webp",
+        "003701.webp",
+        "003723.webp",
+        "003745.webp",
+        "003746.webp",
+        "003759.webp",
+        "003772.webp",
+        "003773.webp",
+        "003805.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Phước Hưng sẽ đặt lên trên bếp một cái chảo để chúng ta xào mì, cho vào khoảng một muỗng canh bơ, cho hết cái phần hành tây cắt hạt lựu vào, tiếp tục cho vào đây một muỗng cà phê tỏi băm.",
+      "start": 153.44,
+      "end": 167.56,
+      "n_words": 43,
+      "start_frame": 3836,
+      "end_frame": 4189,
+      "keyframes": [
+        "003837.webp",
+        "003838.webp",
+        "003872.webp",
+        "003906.webp",
+        "003907.webp",
+        "003935.webp",
+        "003963.webp",
+        "003964.webp",
+        "003993.webp",
+        "004023.webp",
+        "004024.webp",
+        "004073.webp",
+        "004123.webp",
+        "004124.webp",
+        "004155.webp",
+        "004187.webp",
+        "004188.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Hưng sẽ cho phần bò vào, ít nước luộc mì, Hưng sẽ cho vào đây một muỗng rưỡi canh tương cà, một muỗng cà phê tương cà hộp, chúng ta sẽ trộn đều lên.",
+      "start": 167.56,
+      "end": 184.52,
+      "n_words": 34,
+      "start_frame": 4189,
+      "end_frame": 4613,
+      "keyframes": [
+        "004225.webp",
+        "004263.webp",
+        "004264.webp",
+        "004325.webp",
+        "004386.webp",
+        "004387.webp",
+        "004424.webp",
+        "004462.webp",
+        "004463.webp",
+        "004490.webp",
+        "004518.webp",
+        "004519.webp",
+        "004528.webp",
+        "004538.webp",
+        "004539.webp",
+        "004551.webp",
+        "004563.webp",
+        "004564.webp",
+        "004588.webp",
+        "004613.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Hưng sẽ cho phần đậu Hà Lan mà chúng ta đã luộc vào và cà rốt đầy đủ màu sắc rồi, rất là đẹp luôn.",
+      "start": 184.52,
+      "end": 193.56,
+      "n_words": 25,
+      "start_frame": 4613,
+      "end_frame": 4839,
+      "keyframes": [
+        "004613.webp",
+        "004614.webp",
+        "004655.webp",
+        "004696.webp",
+        "004697.webp",
+        "004725.webp",
+        "004753.webp",
+        "004754.webp",
+        "004797.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cuối cùng Phước Hưng sẽ cho phần mì Ý vào.",
+      "start": 193.56,
+      "end": 196.48,
+      "n_words": 10,
+      "start_frame": 4839,
+      "end_frame": 4912,
+      "keyframes": [
+        "004840.webp",
+        "004841.webp",
+        "004876.webp",
+        "004911.webp",
+        "004912.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đến bước này là các bạn khán giả cũng có thể đoán được là món ăn của chúng ta đã hoàn thành 99.9% rồi.",
+      "start": 196.48,
+      "end": 205.2,
+      "n_words": 24,
+      "start_frame": 4912,
+      "end_frame": 5130,
+      "keyframes": [
+        "004912.webp",
+        "005024.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cho vào đây một muỗng cà phê hạt nêm Aji-ngon heo, tăng lửa lớn lên và chúng ta sẽ xóc thật là đều tay cho mì áo đều phần bò bằm là được rồi.",
+      "start": 205.2,
+      "end": 214.96,
+      "n_words": 34,
+      "start_frame": 5130,
+      "end_frame": 5374,
+      "keyframes": [
+        "005137.webp",
+        "005138.webp",
+        "005153.webp",
+        "005168.webp",
+        "005169.webp",
+        "005193.webp",
+        "005218.webp",
+        "005219.webp",
+        "005269.webp",
+        "005319.webp",
+        "005320.webp",
+        "005360.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Như vậy đã xong rồi.",
+      "start": 214.96,
+      "end": 216.08,
+      "n_words": 5,
+      "start_frame": 5374,
+      "end_frame": 5402,
+      "keyframes": [
+        "005401.webp",
+        "005402.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nhờ có Phước Hưng ngày hôm nay mà Kim Thảo đã có thêm một số những bí kíp bỏ túi làm cho món mì Ý bò bằm trở nên hấp dẫn hơn và các bạn khán giả cũng vậy, chỉ cần quét mã QR trên màn hình của chúng tôi là có trọn vẹn công thức món ăn ngày hôm nay nhé.",
+      "start": 216.08,
+      "end": 230.84,
+      "n_words": 62,
+      "start_frame": 5402,
+      "end_frame": 5771,
+      "keyframes": [
+        "005402.webp",
+        "005565.webp",
+        "005728.webp",
+        "005729.webp",
+        "005753.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ở đây thì Phước Hưng cũng đã chuẩn bị sẵn một cái dĩa rất là đẹp, dĩa rất là đẹp luôn để chúng ta trình bày ra món ăn, cho lên bên trên một cái trứng ốp la.",
+      "start": 230.84,
+      "end": 240.88,
+      "n_words": 38,
+      "start_frame": 5771,
+      "end_frame": 6022,
+      "keyframes": [
+        "005778.webp",
+        "005779.webp",
+        "005798.webp",
+        "005818.webp",
+        "005819.webp",
+        "005856.webp",
+        "005893.webp",
+        "005894.webp",
+        "005961.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Điều bất ngờ cho cái món ăn này là cuối cùng thì chúng ta sẽ cho lên trên đây một ít sốt mayonnaise vị nguyên bản.",
+      "start": 241.2,
+      "end": 248.92,
+      "n_words": 26,
+      "start_frame": 6030,
+      "end_frame": 6223,
+      "keyframes": [
+        "006138.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Khi ăn thì chúng ta sẽ trộn đều lên thì giúp cho một cái món ăn có một cái độ béo đặc trưng.",
+      "start": 248.92,
+      "end": 255.28,
+      "n_words": 23,
+      "start_frame": 6223,
+      "end_frame": 6382,
+      "keyframes": [
+        "006248.webp",
+        "006249.webp",
+        "006318.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Khi ăn thì các bạn trộn đều lên sẽ rất là ngon, sợi mì thì vẫn giữ được độ dai nhưng mà đã có được độ mềm rất là thấm vị luôn.",
+      "start": 255.28,
+      "end": 271.44,
+      "n_words": 32,
+      "start_frame": 6382,
+      "end_frame": 6786,
+      "keyframes": [
+        "006388.webp",
+        "006389.webp",
+        "006423.webp",
+        "006457.webp",
+        "006458.webp",
+        "006540.webp",
+        "006623.webp",
+        "006624.webp",
+        "006665.webp",
+        "006707.webp",
+        "006708.webp",
+        "006773.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Sốt mayonnaise thì béo béo chua chua nhẹ nhẹ rất là kích thích vị giác, rau củ thì giòn ngọt, sự hòa quyện cùng với lại thịt bò bằm cà chua, tất cả tạo nên một cái hương vị mà Kim Thảo nghĩ rằng các bạn khán giả phải nên làm thử trong ngày hôm nay luôn ạ.",
+      "start": 271.44,
+      "end": 288.76,
+      "n_words": 58,
+      "start_frame": 6786,
+      "end_frame": 7219,
+      "keyframes": [
+        "006839.webp",
+        "006840.webp",
+        "006875.webp",
+        "006910.webp",
+        "006911.webp",
+        "006943.webp",
+        "006976.webp",
+        "006991.webp",
+        "007052.webp",
+        "007113.webp",
+        "007114.webp",
+        "007165.webp",
+        "007216.webp",
+        "007217.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Và để đạt được hiệu quả dinh dưỡng thì các bạn nên tham khảo món ăn ngày hôm nay cùng với bản thực đơn sau đây.",
+      "start": 288.76,
+      "end": 296.12,
+      "n_words": 26,
+      "start_frame": 7219,
+      "end_frame": 7403,
+      "keyframes": [
+        "007270.webp",
+        "007323.webp",
+        "007324.webp",
+        "007386.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Món mì Ý bò bằm ngày hôm nay rất ngon, nhanh gọn, dễ làm và chắc chắn các bạn nhỏ trong nhà sẽ rất là thích, hãy thử làm ngay nhé.",
+      "start": 296.12,
+      "end": 305.56,
+      "n_words": 31,
+      "start_frame": 7403,
+      "end_frame": 7639,
+      "keyframes": [
+        "007448.webp",
+        "007449.webp",
+        "007544.webp",
+        "007639.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và để xem lại công thức của món mì Ý bò bằm cũng như rất nhiều những món ăn hấp dẫn khác nữa, chỉ cần truy cập vào YouTube, website, fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 305.56,
+      "end": 315.36,
+      "n_words": 38,
+      "start_frame": 7639,
+      "end_frame": 7884,
+      "keyframes": [
+        "007639.webp",
+        "007640.webp",
+        "007819.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Website của chúng tôi đã có giao diện mới, rất nhiều tiện ích và dễ sử dụng.",
+      "start": 315.36,
+      "end": 320.84,
+      "n_words": 17,
+      "start_frame": 7884,
+      "end_frame": 8021,
+      "keyframes": [
+        "007998.webp",
+        "007999.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

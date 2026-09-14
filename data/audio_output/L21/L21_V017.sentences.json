@@ -1,0 +1,1870 @@
+{
+  "video_id": "L21_V017",
+  "fps": 25.0,
+  "n_sentences": 102,
+  "total_words": 3265,
+  "sentences": [
+    {
+      "text": "Chào mừng quý vị đến với chương trình 60 giây của Đài Truyền hình Thành phố Hồ Chí Minh.",
+      "start": 0.04,
+      "end": 9.8,
+      "n_words": 19,
+      "start_frame": 1,
+      "end_frame": 245,
+      "keyframes": [
+        "000003.webp",
+        "000007.webp",
+        "000020.webp",
+        "000169.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chương trình sáng nay sẽ có những thông tin nổi bật sau: Giảm 50% lệ phí trước bạ đối với ô tô sản xuất lắp ráp trong nước trong thời gian ba tháng.",
+      "start": 9.8,
+      "end": 21.52,
+      "n_words": 33,
+      "start_frame": 245,
+      "end_frame": 538,
+      "keyframes": [
+        "000318.webp",
+        "000319.webp",
+        "000354.webp",
+        "000390.webp",
+        "000391.webp",
+        "000403.webp",
+        "000416.webp",
+        "000417.webp",
+        "000436.webp",
+        "000455.webp",
+        "000456.webp",
+        "000468.webp",
+        "000481.webp",
+        "000482.webp",
+        "000500.webp",
+        "000518.webp",
+        "000519.webp",
+        "000538.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Hơn 750 ha rừng thông bị sâu róm xâm nhập cắn phá và có nguy cơ lan rộng.",
+      "start": 21.52,
+      "end": 26.48,
+      "n_words": 18,
+      "start_frame": 538,
+      "end_frame": 662,
+      "keyframes": [
+        "000538.webp",
+        "000558.webp",
+        "000559.webp",
+        "000572.webp",
+        "000586.webp",
+        "000587.webp",
+        "000601.webp",
+        "000616.webp",
+        "000617.webp",
+        "000630.webp",
+        "000644.webp",
+        "000645.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Bộ Nông nghiệp và Phát triển Nông thôn định giá mỗi tín chỉ carbon lúa cao hơn của World Bank.",
+      "start": 26.48,
+      "end": 33.28,
+      "n_words": 20,
+      "start_frame": 662,
+      "end_frame": 832,
+      "keyframes": [
+        "000669.webp",
+        "000693.webp",
+        "000694.webp",
+        "000714.webp",
+        "000735.webp",
+        "000736.webp",
+        "000750.webp",
+        "000765.webp",
+        "000766.webp",
+        "000793.webp",
+        "000820.webp",
+        "000821.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Thưa quý vị, theo Sở Giáo dục và Đào tạo Thành phố Hồ Chí Minh, trong nhiệm vụ năm học 2024-2025, Thành phố Hồ Chí Minh tiếp tục xác định tiếng Anh thành thế mạnh của học sinh thành phố.",
+      "start": 33.28,
+      "end": 44.64,
+      "n_words": 40,
+      "start_frame": 832,
+      "end_frame": 1116,
+      "keyframes": [
+        "001001.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thành tích học sinh giỏi quốc gia năm học 2023-2024, Thành phố Hồ Chí Minh có bốn giải nhất quốc gia đều ở môn tiếng Anh, đều là thủ khoa của kỳ thi tiếng Anh của cả nước.",
+      "start": 44.88,
+      "end": 54.88,
+      "n_words": 38,
+      "start_frame": 1122,
+      "end_frame": 1372,
+      "keyframes": [
+        "001181.webp",
+        "001208.webp",
+        "001234.webp",
+        "001261.webp",
+        "001262.webp",
+        "001306.webp",
+        "001351.webp",
+        "001352.webp",
+        "001363.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Kết quả tám kỳ thi tốt nghiệp trung học phổ thông, Thành phố Hồ Chí Minh xếp đầu cả nước về bộ môn tiếng Anh.",
+      "start": 54.88,
+      "end": 59.72,
+      "n_words": 25,
+      "start_frame": 1372,
+      "end_frame": 1493,
+      "keyframes": [
+        "001374.webp",
+        "001375.webp",
+        "001403.webp",
+        "001431.webp",
+        "001432.webp",
+        "001464.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sở yêu cầu các trường trung học coi dạy tiếng Anh là mở cánh cửa vào đời cho học sinh và Sở sẽ nghiên cứu trình dự thảo về phổ cập tiếng Anh cho học sinh thành phố.",
+      "start": 59.72,
+      "end": 67.6,
+      "n_words": 38,
+      "start_frame": 1493,
+      "end_frame": 1690,
+      "keyframes": [
+        "001497.webp",
+        "001498.webp",
+        "001533.webp",
+        "001569.webp",
+        "001570.webp",
+        "001604.webp",
+        "001639.webp",
+        "001640.webp",
+        "001678.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đây là một trong những yêu cầu trọng tâm nhiệm vụ năm học 2024-2025 đối với bậc phổ thông trong dạy và học ngoại ngữ.",
+      "start": 67.6,
+      "end": 77.68,
+      "n_words": 25,
+      "start_frame": 1690,
+      "end_frame": 1942,
+      "keyframes": [
+        "001716.webp",
+        "001717.webp",
+        "001752.webp",
+        "001788.webp",
+        "001789.webp",
+        "001828.webp",
+        "001868.webp",
+        "001869.webp",
+        "001894.webp",
+        "001920.webp",
+        "001921.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Thường trực Chính phủ vừa thống nhất kết luận thực hiện giảm 50% lệ phí trước bạ đối với ô tô sản xuất lắp ráp trong nước trong thời gian ba tháng thay vì giảm sáu tháng như đợt ưu đãi trước đây. Ưu đãi này không làm giảm giá xe mà là giảm chi phí lăn bánh.",
+      "start": 77.68,
+      "end": 93.4,
+      "n_words": 58,
+      "start_frame": 1942,
+      "end_frame": 2335,
+      "keyframes": [
+        "002149.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trước đó, thị trường ô tô Việt Nam từng ba lần được Chính phủ ưu đãi giảm 50% lệ phí trước bạ đối với ô tô sản xuất lắp ráp trong nước, mỗi lần có hiệu lực sáu tháng.",
+      "start": 93.4,
+      "end": 104.32,
+      "n_words": 39,
+      "start_frame": 2335,
+      "end_frame": 2608,
+      "keyframes": [
+        "002378.webp",
+        "002379.webp",
+        "002402.webp",
+        "002426.webp",
+        "002427.webp",
+        "002458.webp",
+        "002490.webp",
+        "002491.webp",
+        "002520.webp",
+        "002549.webp",
+        "002550.webp",
+        "002556.webp",
+        "002562.webp",
+        "002563.webp",
+        "002564.webp",
+        "002566.webp",
+        "002567.webp",
+        "002600.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Ước tính ngân sách sẽ giảm thu khoảng 5.200 tỷ đồng khi tiếp tục chính sách này.",
+      "start": 104.32,
+      "end": 109.44,
+      "n_words": 17,
+      "start_frame": 2608,
+      "end_frame": 2736,
+      "keyframes": [
+        "002633.webp",
+        "002634.webp",
+        "002658.webp",
+        "002682.webp",
+        "002683.webp",
+        "002690.webp",
+        "002698.webp",
+        "002699.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Đây được xem là chiêu kích cầu thị trường, giúp sức mua của người dân tăng lên.",
+      "start": 109.44,
+      "end": 113.72,
+      "n_words": 17,
+      "start_frame": 2736,
+      "end_frame": 2843,
+      "keyframes": [
+        "002740.webp",
+        "002781.webp",
+        "002782.webp",
+        "002821.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Khi thị trường gặp khó, hầu hết hãng xe và đại lý phân phối đều đang thực hiện nhiều biện pháp để kích cầu trong bối cảnh thanh khoản chậm của thị trường bằng cách giảm giá tiền mặt hoặc hỗ trợ lệ phí trước bạ 50% đến 100%.",
+      "start": 113.72,
+      "end": 125.76,
+      "n_words": 49,
+      "start_frame": 2843,
+      "end_frame": 3144,
+      "keyframes": [
+        "002861.webp",
+        "002862.webp",
+        "002952.webp",
+        "003043.webp",
+        "003044.webp",
+        "003082.webp",
+        "003121.webp",
+        "003122.webp",
+        "003135.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cũng như những lần trước, khi ưu đãi lệ phí trước bạ được triển khai, khuyến mãi của đại lý hoặc hãng nhiều khả năng giảm một phần hay toàn bộ tùy thuộc vào tình hình thực tế thị trường.",
+      "start": 126.64,
+      "end": 138.8,
+      "n_words": 40,
+      "start_frame": 3166,
+      "end_frame": 3470,
+      "keyframes": [
+        "003198.webp",
+        "003247.webp",
+        "003248.webp",
+        "003268.webp",
+        "003289.webp",
+        "003290.webp",
+        "003328.webp",
+        "003367.webp",
+        "003368.webp",
+        "003383.webp",
+        "003398.webp",
+        "003399.webp",
+        "003424.webp",
+        "003450.webp",
+        "003451.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Chiều qua, tại tỉnh Bình Dương, một cơn mưa lớn kéo dài khoảng 3 giờ đồng hồ đã khiến một số khu vực bị ngập nặng, nhiều phương tiện lưu thông trên đường bị chết máy và tình trạng kẹt xe.",
+      "start": 138.8,
+      "end": 150.48,
+      "n_words": 41,
+      "start_frame": 3470,
+      "end_frame": 3762,
+      "keyframes": [
+        "003592.webp",
+        "003733.webp",
+        "003762.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cụ thể, khu vực đường DT 743, phường An Phú và phường Bình Thuận, thành phố Thuận An, nhiều ô tô và xe máy cố băng qua vùng nước ngập khiến xe bị chết máy.",
+      "start": 150.48,
+      "end": 161.44,
+      "n_words": 35,
+      "start_frame": 3762,
+      "end_frame": 4036,
+      "keyframes": [
+        "003762.webp",
+        "003788.webp",
+        "003815.webp",
+        "003816.webp",
+        "003848.webp",
+        "003880.webp",
+        "003881.webp",
+        "003918.webp",
+        "003956.webp",
+        "003957.webp",
+        "004004.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Tại ngã sáu An Phú hướng từ thành phố Dĩ An đi thành phố Tân Uyên, một đoạn đường dài khoảng 300 m nước dâng hơn nửa bánh xe máy đã khiến nhiều phương tiện không thể di chuyển.",
+      "start": 161.44,
+      "end": 172.28,
+      "n_words": 39,
+      "start_frame": 4036,
+      "end_frame": 4307,
+      "keyframes": [
+        "004052.webp",
+        "004053.webp",
+        "004088.webp",
+        "004124.webp",
+        "004125.webp",
+        "004195.webp",
+        "004265.webp",
+        "004266.webp",
+        "004286.webp",
+        "004306.webp",
+        "004307.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Đến khoảng 19:30, dù cơn mưa ngớt, nước rút dần nhưng tại khu vực ngã tư Miếu Ông Cù lại bị kẹt xe kéo dài hơn 1 km hướng từ Bình Dương về Đồng Nai.",
+      "start": 172.28,
+      "end": 183.48,
+      "n_words": 35,
+      "start_frame": 4307,
+      "end_frame": 4587,
+      "keyframes": [
+        "004307.webp",
+        "004330.webp",
+        "004354.webp",
+        "004355.webp",
+        "004395.webp",
+        "004435.webp",
+        "004436.webp",
+        "004499.webp",
+        "004562.webp",
+        "004563.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Ngoài ra, tại ngã ba chợ Thông dụng, đoạn giáp ranh giữa thành phố Thuận An và thành phố Dĩ An cũng không thoát khỏi cảnh nước ngập đến xe.",
+      "start": 183.48,
+      "end": 194.16,
+      "n_words": 30,
+      "start_frame": 4587,
+      "end_frame": 4854,
+      "keyframes": [
+        "004606.webp",
+        "004650.webp",
+        "004651.webp",
+        "004697.webp",
+        "004743.webp",
+        "004744.webp",
+        "004787.webp",
+        "004830.webp",
+        "004831.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Khoảng một tháng qua, hơn 750 ha rừng thông trên địa bàn huyện Nghi Lộc, Nghệ An bất ngờ bị nạn sâu róm cắn phá và có nguy cơ lan rộng.",
+      "start": 194.16,
+      "end": 201.84,
+      "n_words": 31,
+      "start_frame": 4854,
+      "end_frame": 5046,
+      "keyframes": [
+        "005009.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nhiều khu vực thông đã bị sâu róm ăn trụi lá, ảnh hưởng nghiêm trọng đến quá trình sinh trưởng của rừng thông phòng hộ.",
+      "start": 201.84,
+      "end": 210.56,
+      "n_words": 25,
+      "start_frame": 5046,
+      "end_frame": 5264,
+      "keyframes": [
+        "005188.webp",
+        "005207.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tại các xã bị sâu cắn phá chủ yếu gồm các xã Nghi Yên, Nghi Tiến, Nghi Quang, Nghi Xá với mật độ sâu khoảng 350 đến 450 con trên một cây thông.",
+      "start": 210.56,
+      "end": 220.88,
+      "n_words": 33,
+      "start_frame": 5264,
+      "end_frame": 5522,
+      "keyframes": [
+        "005281.webp",
+        "005356.webp",
+        "005357.webp",
+        "005388.webp",
+        "005419.webp",
+        "005420.webp",
+        "005442.webp",
+        "005464.webp",
+        "005465.webp",
+        "005510.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Ngoài ra, khu vực rừng thông xã Nghi Đồng, Nghi Hưng, Nghi Lâm, Nghi Phương, Nghi Mỹ, Nghi Văn, Nghi Lộc cũng bị ảnh hưởng nhưng nhẹ hơn.",
+      "start": 220.88,
+      "end": 228.88,
+      "n_words": 28,
+      "start_frame": 5522,
+      "end_frame": 5722,
+      "keyframes": [
+        "005555.webp",
+        "005556.webp",
+        "005593.webp",
+        "005630.webp",
+        "005631.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nguyên nhân được xác định là do thời gian vừa qua thời tiết trên địa bàn xuất hiện nhiều sương mù, nắng mưa đan xen, độ ẩm cao tạo điều kiện lý tưởng cho sâu sinh trưởng nhanh và mạnh.",
+      "start": 228.88,
+      "end": 239.2,
+      "n_words": 40,
+      "start_frame": 5722,
+      "end_frame": 5980,
+      "keyframes": [
+        "005770.webp",
+        "005910.webp",
+        "005911.webp",
+        "005948.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Việc bị sâu cắn phá không chỉ ảnh hưởng đến quá trình sinh trưởng phát triển của cây thông mà còn tạo lớp thảm bị dày khiến nguy cơ cháy rừng rất cao.",
+      "start": 239.2,
+      "end": 247.6,
+      "n_words": 33,
+      "start_frame": 5980,
+      "end_frame": 6190,
+      "keyframes": [
+        "005985.webp",
+        "005986.webp",
+        "006022.webp",
+        "006059.webp",
+        "006060.webp",
+        "006091.webp",
+        "006122.webp",
+        "006123.webp",
+        "006159.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Ban quản lý rừng phòng hộ Nghi Lộc đã tiến hành phun chế phẩm sinh học VPT trên diện tích gần 200 ha rừng thông.",
+      "start": 247.6,
+      "end": 254.64,
+      "n_words": 25,
+      "start_frame": 6190,
+      "end_frame": 6366,
+      "keyframes": [
+        "006196.webp",
+        "006197.webp",
+        "006234.webp",
+        "006272.webp",
+        "006273.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Do sâu đã bắt đầu đóng kén chuẩn bị vòng đời mới nên cơ quan chức năng đã tạm dừng phun thuốc, đồng thời chuẩn bị đèn và các vật dụng làm các điểm đèn để bắt bướm. Tín chỉ carbon là chứng nhận phát thải khí carbon dioxide hoặc khí nhà kính khác được quy đổi tương đương sang CO2 td. Một tấn CO2 td được xem là một tín chỉ carbon.",
+      "start": 254.64,
+      "end": 281.64,
+      "n_words": 73,
+      "start_frame": 6366,
+      "end_frame": 7041,
+      "keyframes": [
+        "006384.webp",
+        "006496.webp",
+        "006497.webp",
+        "006534.webp",
+        "006571.webp",
+        "006572.webp",
+        "006608.webp",
+        "006644.webp",
+        "006660.webp",
+        "006695.webp",
+        "006731.webp",
+        "006746.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Đây cũng là đơn vị mua bán trên thị trường carbon hay thị trường tín chỉ carbon.",
+      "start": 281.64,
+      "end": 285.48,
+      "n_words": 17,
+      "start_frame": 7041,
+      "end_frame": 7137,
+      "keyframes": [
+        "007050.webp",
+        "007082.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bộ Nông nghiệp và Phát triển Nông thôn đang định giá mỗi tín chỉ carbon lúa ở mức 20 đô la Mỹ, cao hơn nhiều so với mức giá dự tính của World Bank.",
+      "start": 285.48,
+      "end": 295.12,
+      "n_words": 34,
+      "start_frame": 7137,
+      "end_frame": 7378,
+      "keyframes": [
+        "007355.webp",
+        "007356.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tín chỉ carbon lúa là loại thu được từ canh tác lúa chất lượng cao kết hợp giảm phát thải.",
+      "start": 295.12,
+      "end": 300.4,
+      "n_words": 20,
+      "start_frame": 7378,
+      "end_frame": 7510,
+      "keyframes": [
+        "007387.webp",
+        "007419.webp",
+        "007420.webp",
+        "007448.webp",
+        "007476.webp",
+        "007477.webp",
+        "007507.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Để bán được tín chỉ carbon lúa, người trồng không đốt rơm, tăng lượng phân bón sinh học, mục tiêu giảm lượng phát thải khí metan và tạo ra carbon thấp từ trồng lúa.",
+      "start": 300.4,
+      "end": 309.92,
+      "n_words": 34,
+      "start_frame": 7510,
+      "end_frame": 7748,
+      "keyframes": [
+        "007537.webp",
+        "007538.webp",
+        "007566.webp",
+        "007594.webp",
+        "007595.webp",
+        "007619.webp",
+        "007643.webp",
+        "007644.webp",
+        "007665.webp",
+        "007687.webp",
+        "007688.webp",
+        "007704.webp",
+        "007721.webp",
+        "007722.webp",
+        "007745.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Đặc biệt, nông dân phải thực hiện đúng quy trình về báo cáo đánh giá tín chỉ carbon.",
+      "start": 309.92,
+      "end": 314.24,
+      "n_words": 18,
+      "start_frame": 7748,
+      "end_frame": 7856,
+      "keyframes": [
+        "007769.webp",
+        "007770.webp",
+        "007807.webp",
+        "007844.webp",
+        "007845.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Năm qua, Việt Nam đã bán được 10,3 triệu tấn CO2 cho World Bank giá 5 đô la mỗi tấn, thu về gần 1.250 tỷ đồng.",
+      "start": 314.24,
+      "end": 323.08,
+      "n_words": 26,
+      "start_frame": 7856,
+      "end_frame": 8077,
+      "keyframes": [
+        "007876.webp",
+        "007908.webp",
+        "007909.webp",
+        "007918.webp",
+        "007928.webp",
+        "007929.webp",
+        "007954.webp",
+        "007980.webp",
+        "007981.webp",
+        "008008.webp",
+        "008036.webp",
+        "008037.webp",
+        "008058.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Với dự án 1 triệu ha lúa chất lượng cao, giá trị tín chỉ carbon có thể đạt tới 100 triệu đô la Mỹ mỗi năm nếu được bán với giá 10 đô la mỗi tín chỉ.",
+      "start": 323.08,
+      "end": 332.68,
+      "n_words": 37,
+      "start_frame": 8077,
+      "end_frame": 8317,
+      "keyframes": [
+        "008079.webp",
+        "008080.webp",
+        "008109.webp",
+        "008138.webp",
+        "008139.webp",
+        "008165.webp",
+        "008191.webp",
+        "008192.webp",
+        "008198.webp",
+        "008205.webp",
+        "008206.webp",
+        "008220.webp",
+        "008234.webp",
+        "008235.webp",
+        "008275.webp",
+        "008315.webp",
+        "008316.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Việt Nam là quốc gia đầu tiên triển khai tín chỉ carbon cho lúa.",
+      "start": 332.68,
+      "end": 335.96,
+      "n_words": 14,
+      "start_frame": 8317,
+      "end_frame": 8399,
+      "keyframes": [
+        "008348.webp",
+        "008381.webp",
+        "008382.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nếu được mua với giá cao đồng nghĩa nông dân có thêm thu nhập khi họ tuân thủ quy trình giảm phát thải theo Ecosystem Marketplace, một tổ chức phi lợi nhuận chuyên cung cấp thông tin về thị trường giá carbon.",
+      "start": 335.96,
+      "end": 347.52,
+      "n_words": 42,
+      "start_frame": 8399,
+      "end_frame": 8688,
+      "keyframes": [
+        "008411.webp",
+        "008440.webp",
+        "008441.webp",
+        "008476.webp",
+        "008511.webp",
+        "008512.webp",
+        "008538.webp",
+        "008564.webp",
+        "008565.webp",
+        "008595.webp",
+        "008626.webp",
+        "008627.webp",
+        "008639.webp",
+        "008652.webp",
+        "008653.webp",
+        "008673.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Năm 2022, trên thị trường thế giới, giá dao động 5.94 đến 11.58 đô la Mỹ một tấn.",
+      "start": 347.52,
+      "end": 357.2,
+      "n_words": 18,
+      "start_frame": 8688,
+      "end_frame": 8930,
+      "keyframes": [
+        "008693.webp",
+        "008694.webp",
+        "008728.webp",
+        "008763.webp",
+        "008764.webp",
+        "008789.webp",
+        "008815.webp",
+        "008816.webp",
+        "008855.webp",
+        "008894.webp",
+        "008906.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Trong phần sau của chương trình: Bắt đối tượng nghi ngờ hàng xóm có quan hệ bất chính với vợ mình xuống tay sát hại nạn nhân; Ô tô 7 chỗ tông trực diện xe ben, tài xế bị hất tung ra ngoài tử vong tại chỗ.",
+      "start": 357.2,
+      "end": 377.08,
+      "n_words": 47,
+      "start_frame": 8930,
+      "end_frame": 9427,
+      "keyframes": [
+        "008935.webp",
+        "008965.webp",
+        "008966.webp",
+        "008994.webp",
+        "009022.webp",
+        "009023.webp",
+        "009053.webp",
+        "009083.webp",
+        "009084.webp",
+        "009114.webp",
+        "009145.webp",
+        "009146.webp",
+        "009172.webp",
+        "009198.webp",
+        "009199.webp",
+        "009225.webp",
+        "009252.webp",
+        "009253.webp",
+        "009278.webp",
+        "009303.webp",
+        "009304.webp",
+        "009323.webp",
+        "009343.webp",
+        "009344.webp",
+        "009375.webp",
+        "009406.webp",
+        "009407.webp"
+      ],
+      "keyframe_count": 27
+    },
+    {
+      "text": "Quý vị, sau hai ngày xét xử, sáng qua Tòa án nhân dân tỉnh Khánh Hòa đã tuyên phạt Nguyễn Hữu Trường tám năm sáu tháng tù về tội nhận hối lộ và bảy năm tù về tội giả mạo trong công tác; Bị cáo Nguyễn Văn Phiêu bảy năm tù về tội nhận hối lộ.",
+      "start": 377.08,
+      "end": 390.72,
+      "n_words": 56,
+      "start_frame": 9427,
+      "end_frame": 9768,
+      "keyframes": [
+        "009642.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đây là hai bị cáo trong vụ án nhận hối lộ tại trung tâm đăng kiểm Khánh Hòa.",
+      "start": 390.72,
+      "end": 396.24,
+      "n_words": 18,
+      "start_frame": 9768,
+      "end_frame": 9906,
+      "keyframes": [
+        "009878.webp",
+        "009900.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Hội đồng xét xử cho rằng trong thời gian giữ cương vị phó giám đốc, đăng kiểm viên, tổ trưởng tổ đăng kiểm trung tâm đăng kiểm xe cơ giới tỉnh Khánh Hòa, bị cáo Trường đã nhận tiền của các chủ xe để làm hồ sơ đăng kiểm trái quy định.",
+      "start": 396.24,
+      "end": 408.96,
+      "n_words": 52,
+      "start_frame": 9906,
+      "end_frame": 10224,
+      "keyframes": [
+        "009945.webp",
+        "009990.webp",
+        "009991.webp",
+        "010005.webp",
+        "010019.webp",
+        "010020.webp",
+        "010065.webp",
+        "010111.webp",
+        "010112.webp",
+        "010155.webp",
+        "010198.webp",
+        "010199.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Mặt khác, dù biết hợp tác xã vận tải Hòa Bình ở thành phố Nha Trang do bị cáo Phiêu làm chủ nhiệm không có quyền cải tạo xe cơ giới nhưng Trường vẫn liên hệ nhờ cải tạo xe trái phép.",
+      "start": 408.96,
+      "end": 419.76,
+      "n_words": 42,
+      "start_frame": 10224,
+      "end_frame": 10494,
+      "keyframes": [
+        "010236.webp",
+        "010273.webp",
+        "010274.webp",
+        "010313.webp",
+        "010352.webp",
+        "010353.webp",
+        "010386.webp",
+        "010419.webp",
+        "010420.webp",
+        "010466.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Ngoài ra, bị cáo Trường còn trực tiếp làm hoàn thiện các hồ sơ để trình cấp trên ký duyệt, trong đó có giả chữ ký của bị cáo Phiêu và một đăng kiểm viên để hồ sơ được phê duyệt trái luật.",
+      "start": 419.76,
+      "end": 431.28,
+      "n_words": 43,
+      "start_frame": 10494,
+      "end_frame": 10782,
+      "keyframes": [
+        "010513.webp",
+        "010514.webp",
+        "010553.webp",
+        "010593.webp",
+        "010594.webp",
+        "010635.webp",
+        "010676.webp",
+        "010677.webp",
+        "010723.webp",
+        "010770.webp",
+        "010771.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Đối với bị cáo Phiêu, trong thời gian làm quản lý, vì lợi ích cá nhân đã cấu kết với Trường làm sai chủ trương chức năng của hoạt động cải tạo xe cơ giới, tiềm ẩn nguy cơ mất an toàn.",
+      "start": 431.28,
+      "end": 443.6,
+      "n_words": 42,
+      "start_frame": 10782,
+      "end_frame": 11090,
+      "keyframes": [
+        "010816.webp",
+        "010861.webp",
+        "010862.webp",
+        "010910.webp",
+        "010959.webp",
+        "010960.webp",
+        "010994.webp",
+        "011028.webp",
+        "011029.webp",
+        "011048.webp",
+        "011067.webp",
+        "011068.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Nghi ngờ hàng xóm có quan hệ bất chính với vợ mình nên đâm chết nạn nhân: Công an tỉnh Sơn La ngày 16 tháng 8 đã tiến hành bắt giữ khẩn cấp đối tượng Lều Văn Hải, 33 tuổi, ngụ huyện Sông Mã để điều tra về hành vi giết người.",
+      "start": 443.6,
+      "end": 457.76,
+      "n_words": 52,
+      "start_frame": 11090,
+      "end_frame": 11444,
+      "keyframes": [
+        "011252.webp",
+        "011436.webp",
+        "011437.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trước đó, trưa ngày 15 tháng 8, Hải sử dụng dao đâm chém nhiều nhát anh Phạm Văn Vĩ, 29 tuổi; Chị Đào Thị Phương, 31 tuổi và bà Hoàng Thị Xuân, 62 tuổi.",
+      "start": 457.76,
+      "end": 468.84,
+      "n_words": 34,
+      "start_frame": 11444,
+      "end_frame": 11721,
+      "keyframes": [
+        "011473.webp",
+        "011509.webp",
+        "011510.webp",
+        "011600.webp",
+        "011690.webp",
+        "011691.webp",
+        "011715.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cả ba cùng ngụ huyện Sông Mã.",
+      "start": 468.84,
+      "end": 470.72,
+      "n_words": 7,
+      "start_frame": 11721,
+      "end_frame": 11768,
+      "keyframes": [
+        "011740.webp",
+        "011741.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Hậu quả làm anh Vĩ tử vong, chị Phương và bà Xuân bị thương tích.",
+      "start": 470.72,
+      "end": 474.96,
+      "n_words": 15,
+      "start_frame": 11768,
+      "end_frame": 11874,
+      "keyframes": [
+        "011784.webp",
+        "011828.webp",
+        "011829.webp",
+        "011863.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bước đầu xác định do nghi ngờ vợ là chị Đào Thị Phương có quan hệ bất chính với Vĩ trong thời gian Hải đi xuất khẩu lao động ở Nhật Bản.",
+      "start": 474.96,
+      "end": 482.92,
+      "n_words": 32,
+      "start_frame": 11874,
+      "end_frame": 12073,
+      "keyframes": [
+        "011897.webp",
+        "011898.webp",
+        "011951.webp",
+        "012004.webp",
+        "012005.webp",
+        "012062.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Khi thấy anh Vĩ tử vong, Hải đi về nhà, trên đường về thấy bà Xuân nên Hải đã cầm dao chém nhiều nhát vào người bà Xuân do nghi ngờ bà Xuân thông đồng với chị Phương, anh Vĩ để giết Hải.",
+      "start": 482.92,
+      "end": 495.52,
+      "n_words": 43,
+      "start_frame": 12073,
+      "end_frame": 12388,
+      "keyframes": [
+        "012120.webp",
+        "012121.webp",
+        "012174.webp",
+        "012228.webp",
+        "012229.webp",
+        "012257.webp",
+        "012286.webp",
+        "012287.webp",
+        "012331.webp",
+        "012375.webp",
+        "012376.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Ô tô 7 chỗ đối đầu xe ben khiến tài xế bị hất tung ra ngoài tử vong tại chỗ ở Bà Rịa - Vũng Tàu.",
+      "start": 495.52,
+      "end": 501.08,
+      "n_words": 26,
+      "start_frame": 12388,
+      "end_frame": 12527,
+      "keyframes": [
+        "012494.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tai nạn chết người xảy ra vào chiều qua.",
+      "start": 501.08,
+      "end": 505.2,
+      "n_words": 9,
+      "start_frame": 12527,
+      "end_frame": 12630,
+      "keyframes": [
+        "012613.webp",
+        "012614.webp",
+        "012616.webp",
+        "012618.webp",
+        "012619.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Theo thông tin ban đầu, khoảng 15:45, xe ben lưu thông trên tỉnh lộ 765 từ hướng xã Lâm Sang, huyện Cẩm Mỹ, tỉnh Đồng Nai đi về xã Bình Trung, huyện Châu Đức.",
+      "start": 505.2,
+      "end": 516.4,
+      "n_words": 34,
+      "start_frame": 12630,
+      "end_frame": 12910,
+      "keyframes": [
+        "012668.webp",
+        "012718.webp",
+        "012719.webp",
+        "012778.webp",
+        "012838.webp",
+        "012839.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Xe ô tô 7 chỗ do tài xế 30 tuổi ngụ tỉnh Bình Thuận điều khiển lưu thông chiều ngược lại. Khi đến khu vực cánh đồng lúa thì hai xe xảy ra va chạm.",
+      "start": 516.4,
+      "end": 526.0,
+      "n_words": 35,
+      "start_frame": 12910,
+      "end_frame": 13150,
+      "keyframes": [
+        "012916.webp",
+        "013028.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Hậu quả xe ô tô 7 chỗ bị hư hỏng rất nặng, biến dạng và bay xuống ruộng bên đường cách khoảng 30 m so với vị trí va chạm, xe ben động cơ xe cũng bị bay rời khỏi xe.",
+      "start": 526.0,
+      "end": 537.16,
+      "n_words": 41,
+      "start_frame": 13150,
+      "end_frame": 13429,
+      "keyframes": [
+        "013218.webp",
+        "013219.webp",
+        "013373.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tài xế xe ô tô 7 chỗ bị văng ra khỏi xe và tử vong tại chỗ.",
+      "start": 537.16,
+      "end": 541.44,
+      "n_words": 17,
+      "start_frame": 13429,
+      "end_frame": 13536,
+      "keyframes": [
+        "013527.webp",
+        "013528.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cơ quan chức năng đang tiếp tục điều tra xác minh vụ việc.",
+      "start": 541.44,
+      "end": 547.44,
+      "n_words": 13,
+      "start_frame": 13536,
+      "end_frame": 13686,
+      "keyframes": [
+        "013589.webp",
+        "013650.webp",
+        "013668.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trong phần tiếp theo: Nghiên cứu mới về địa chất giúp nhìn rõ hơn về thời kỳ quả cầu tuyết Trái Đất; Phát hiện xác loài cá có xương dài nhất thế giới nổi lên trên mặt biển.",
+      "start": 547.44,
+      "end": 565.4,
+      "n_words": 38,
+      "start_frame": 13686,
+      "end_frame": 14135,
+      "keyframes": [
+        "013696.webp",
+        "013724.webp",
+        "013725.webp",
+        "013750.webp",
+        "013775.webp",
+        "013776.webp",
+        "013796.webp",
+        "013817.webp",
+        "013818.webp",
+        "013840.webp",
+        "013862.webp",
+        "013863.webp",
+        "013883.webp",
+        "013904.webp",
+        "013905.webp",
+        "013924.webp",
+        "013944.webp",
+        "013945.webp",
+        "013957.webp",
+        "013970.webp",
+        "013971.webp",
+        "013984.webp",
+        "013998.webp",
+        "013999.webp",
+        "014029.webp",
+        "014060.webp",
+        "014061.webp",
+        "014081.webp",
+        "014102.webp",
+        "014103.webp",
+        "014135.webp"
+      ],
+      "keyframe_count": 31
+    },
+    {
+      "text": "Thưa quý vị, ngày 16 tháng 8, Tổ chức Y tế Thế giới WHO và Hiệp hội Chữ thập đỏ quốc tế khẳng định không cần ban bố các biện pháp hạn chế đi lại và đóng cửa biên giới để ngăn sự lây lan của bệnh đậu mùa khỉ.",
+      "start": 565.4,
+      "end": 578.52,
+      "n_words": 50,
+      "start_frame": 14135,
+      "end_frame": 14463,
+      "keyframes": [
+        "014135.webp",
+        "014167.webp",
+        "014168.webp",
+        "014353.webp",
+        "014385.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Tuyên bố được đưa ra sau khi phát hiện các trường hợp mắc bệnh ở ngoài hai châu lục châu Phi.",
+      "start": 578.52,
+      "end": 584.72,
+      "n_words": 21,
+      "start_frame": 14463,
+      "end_frame": 14618,
+      "keyframes": [
+        "014603.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Theo hai cơ quan trên, khi có dịch xảy ra, việc đóng cửa biên giới là không cần thiết vì sẽ không có tác dụng bởi luôn luôn có những dòng người di cư trái phép.",
+      "start": 584.72,
+      "end": 594.08,
+      "n_words": 36,
+      "start_frame": 14618,
+      "end_frame": 14852,
+      "keyframes": [
+        "014622.webp",
+        "014660.webp",
+        "014699.webp",
+        "014700.webp",
+        "014764.webp",
+        "014829.webp",
+        "014830.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Khuyến cáo được đưa ra trong bối cảnh bệnh đậu mùa khỉ đã bắt đầu xuất hiện ở châu Á và châu Âu, khiến một số nước triển khai các biện pháp kiểm soát dịch bệnh như khuyến nghị người dân tiêm phòng vắc xin, cân nhắc đi lại tới châu Phi hay tăng cường kiểm tra với người và hàng hóa từ những nước có ca bệnh.",
+      "start": 594.08,
+      "end": 610.16,
+      "n_words": 68,
+      "start_frame": 14852,
+      "end_frame": 15254,
+      "keyframes": [
+        "014884.webp",
+        "014938.webp",
+        "014939.webp",
+        "015000.webp",
+        "015062.webp",
+        "015063.webp",
+        "015097.webp",
+        "015132.webp",
+        "015133.webp",
+        "015152.webp",
+        "015172.webp",
+        "015173.webp",
+        "015223.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh châu Âu đã nâng mức cảnh báo nguy cơ đối với bệnh đậu mùa khỉ từ thấp lên trung bình.",
+      "start": 610.16,
+      "end": 617.28,
+      "n_words": 29,
+      "start_frame": 15254,
+      "end_frame": 15432,
+      "keyframes": [
+        "015274.webp",
+        "015275.webp",
+        "015331.webp",
+        "015387.webp",
+        "015388.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Trong khi hãng dược phẩm Đan Mạch Bavarian Nordic đang xin giấy phép sử dụng vaccine cho trẻ em từ 12 đến 17 tuổi.",
+      "start": 617.28,
+      "end": 624.8,
+      "n_words": 24,
+      "start_frame": 15432,
+      "end_frame": 15620,
+      "keyframes": [
+        "015436.webp",
+        "015484.webp",
+        "015485.webp",
+        "015532.webp",
+        "015580.webp",
+        "015581.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "WHO đánh giá chủng đậu mùa khỉ mới ở châu Phi được gọi là Clade 1b đang lây lan nhanh và nguy hiểm, buộc cơ quan này phải ban bố tình trạng khẩn cấp về sức khỏe cộng đồng mức báo động cao nhất có thể đưa ra.",
+      "start": 624.8,
+      "end": 639.84,
+      "n_words": 48,
+      "start_frame": 15620,
+      "end_frame": 15996,
+      "keyframes": [
+        "015634.webp",
+        "015688.webp",
+        "015689.webp",
+        "015723.webp",
+        "015758.webp",
+        "015759.webp",
+        "015779.webp",
+        "015799.webp",
+        "015800.webp",
+        "015818.webp",
+        "015837.webp",
+        "015838.webp",
+        "015850.webp",
+        "015863.webp",
+        "015864.webp",
+        "015876.webp",
+        "015889.webp",
+        "015890.webp",
+        "015926.webp",
+        "015963.webp",
+        "015974.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Nghiên cứu mới về địa chất tại Đại học London vừa được công bố trên tạp chí của Hiệp hội Địa chất London giúp chúng ta có cái nhìn rõ hơn về thời kỳ quả cầu tuyết Trái Đất, thời kỳ băng hà dài nhất trong lịch sử.",
+      "start": 639.84,
+      "end": 650.52,
+      "n_words": 48,
+      "start_frame": 15996,
+      "end_frame": 16263,
+      "keyframes": [
+        "016125.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Các phát hiện này cũng giúp con người chuẩn bị tốt hơn cho các thay đổi khí hậu trong tương lai.",
+      "start": 650.52,
+      "end": 656.48,
+      "n_words": 21,
+      "start_frame": 16263,
+      "end_frame": 16412,
+      "keyframes": [
+        "016276.webp",
+        "016277.webp",
+        "016330.webp",
+        "016383.webp",
+        "016384.webp",
+        "016385.webp",
+        "016387.webp",
+        "016403.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Các nhà khoa học đã khảo sát nền tảng địa chất Port Aska, đây là lớp đất đá dày 1.1 km và trải dài khắp Scotland và Ireland.",
+      "start": 656.48,
+      "end": 666.8,
+      "n_words": 28,
+      "start_frame": 16412,
+      "end_frame": 16670,
+      "keyframes": [
+        "016488.webp",
+        "016573.webp",
+        "016574.webp",
+        "016622.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Lớp đất đá này để lộ dấu vết của quá trình Trái Đất chuyển đổi từ một hành tinh với nhiệt độ ấm sang một quả cầu tuyết.",
+      "start": 666.8,
+      "end": 673.92,
+      "n_words": 28,
+      "start_frame": 16670,
+      "end_frame": 16848,
+      "keyframes": [
+        "016671.webp",
+        "016672.webp",
+        "016715.webp",
+        "016758.webp",
+        "016759.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Một số nền tảng địa chất tương tự từng được phát hiện ở Bắc Mỹ và Namibia nhưng lại không lưu lại quá trình chuyển đổi.",
+      "start": 673.92,
+      "end": 681.92,
+      "n_words": 26,
+      "start_frame": 16848,
+      "end_frame": 17048,
+      "keyframes": [
+        "016857.webp",
+        "016955.webp",
+        "016956.webp",
+        "016996.webp",
+        "017036.webp",
+        "017037.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "\"Những phát hiện mới của chúng tôi phần nào xác định thời kỳ băng hà Cryogen kéo dài trong khoảng 717 đến 616 triệu năm trước.",
+      "start": 681.92,
+      "end": 690.72,
+      "n_words": 26,
+      "start_frame": 17048,
+      "end_frame": 17268,
+      "keyframes": [
+        "017092.webp",
+        "017147.webp",
+        "017148.webp",
+        "017171.webp",
+        "017194.webp",
+        "017195.webp",
+        "017228.webp",
+        "017262.webp",
+        "017263.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Trong thời kỳ quả cầu tuyết trên Trái Đất, các tảng băng chạm đến gần xích đạo.",
+      "start": 690.72,
+      "end": 695.44,
+      "n_words": 17,
+      "start_frame": 17268,
+      "end_frame": 17386,
+      "keyframes": [
+        "017331.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chính thời kỳ này giúp cho sự sống trên hành tinh xanh trở nên cực kỳ đa dạng\", theo nhóm nghiên cứu.",
+      "start": 695.44,
+      "end": 701.52,
+      "n_words": 22,
+      "start_frame": 17386,
+      "end_frame": 17538,
+      "keyframes": [
+        "017399.webp",
+        "017400.webp",
+        "017442.webp",
+        "017484.webp",
+        "017485.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Những phát hiện này giúp hiểu rõ quá trình thay đổi cực đoan của khí hậu, qua đó có thể dùng để phát triển các mô hình dự đoán khí hậu đặc biệt là trước những tác động của con người lên môi trường hiện nay, nhờ đó con người có thể phản ứng tốt hơn với các hiện tượng thiên nhiên cực đoan. Mới đây, các thợ lặn tại bang California của Mỹ vừa phát hiện xác một con cá mái chèo hiếm gặp.",
+      "start": 701.52,
+      "end": 724.88,
+      "n_words": 85,
+      "start_frame": 17538,
+      "end_frame": 18122,
+      "keyframes": [
+        "017554.webp",
+        "017623.webp",
+        "017624.webp",
+        "017683.webp",
+        "017743.webp",
+        "017744.webp",
+        "017793.webp",
+        "017842.webp",
+        "017843.webp",
+        "017897.webp",
+        "017951.webp",
+        "017952.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Theo các nhà hải dương học, cá mái chèo là loài cá có xương dài nhất thế giới, chỉ sống dưới lòng biển sâu và rất hiếm khi lên mặt nước.",
+      "start": 724.88,
+      "end": 733.4,
+      "n_words": 31,
+      "start_frame": 18122,
+      "end_frame": 18335,
+      "keyframes": [
+        "018133.webp",
+        "018315.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Người ta phát hiện xác con cá dài 3.6 m có màu bạc sáng ở vùng vịnh La Jolla, sau đó con cá được đưa đến viện hải dương học Scripps để tìm hiểu nguyên nhân cá chết.",
+      "start": 733.4,
+      "end": 743.52,
+      "n_words": 38,
+      "start_frame": 18335,
+      "end_frame": 18588,
+      "keyframes": [
+        "018337.webp",
+        "018374.webp",
+        "018412.webp",
+        "018413.webp",
+        "018468.webp",
+        "018524.webp",
+        "018525.webp",
+        "018548.webp",
+        "018571.webp",
+        "018572.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Thông thường cá mái chèo trưởng thành có thể dài hơn 6 m và thường sống ở vùng biển sâu nơi ánh mặt trời không thể chiếu tới.",
+      "start": 743.52,
+      "end": 750.44,
+      "n_words": 28,
+      "start_frame": 18588,
+      "end_frame": 18761,
+      "keyframes": [
+        "018751.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trong 123 năm qua tại California, người ta chỉ mới gặp và ghi nhận 20 lần cá mái chèo này nổi lên mặt nước.",
+      "start": 750.44,
+      "end": 757.84,
+      "n_words": 24,
+      "start_frame": 18761,
+      "end_frame": 18946,
+      "keyframes": [
+        "018931.webp",
+        "018932.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Người dân địa phương tin cá mái chèo có thể dự báo thiên tai, và nếu chúng xuất hiện số lượng lớn thì có thể sẽ có động đất xảy ra.",
+      "start": 757.84,
+      "end": 766.32,
+      "n_words": 31,
+      "start_frame": 18946,
+      "end_frame": 19158,
+      "keyframes": [
+        "018969.webp",
+        "019006.webp",
+        "019007.webp",
+        "019076.webp",
+        "019145.webp",
+        "019146.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Một họa sĩ nhí đang khiến nhiều người ở bang Florida, nước Mỹ thán phục bởi khả năng hội họa thiên phú dù chưa qua trường lớp nào.",
+      "start": 766.32,
+      "end": 773.68,
+      "n_words": 28,
+      "start_frame": 19158,
+      "end_frame": 19342,
+      "keyframes": [
+        "019216.webp",
+        "019287.webp",
+        "019288.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đặc biệt hơn, tài năng này sinh ra và lớn lên tại trung tâm bảo tồn động vật hoang dã, tinh tinh Libany sống tại trung tâm bảo tồn của Quỹ Động vật Hoang dã nằm tại Redlands.",
+      "start": 773.68,
+      "end": 786.32,
+      "n_words": 38,
+      "start_frame": 19342,
+      "end_frame": 19658,
+      "keyframes": [
+        "019377.webp",
+        "019466.webp",
+        "019467.webp",
+        "019472.webp",
+        "019477.webp",
+        "019496.webp",
+        "019573.webp",
+        "019650.webp",
+        "019651.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Nó gây chú ý trong một lần tình cờ thể hiện tài năng hội họa bằng những đường cọ sặc sỡ và đẹp mắt.",
+      "start": 787.04,
+      "end": 793.32,
+      "n_words": 24,
+      "start_frame": 19676,
+      "end_frame": 19833,
+      "keyframes": [
+        "019713.webp",
+        "019775.webp",
+        "019776.webp",
+        "019817.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "\"Vẽ là một hoạt động lý thú và quan trọng đối với Libany khi nó trưởng thành.",
+      "start": 793.32,
+      "end": 797.72,
+      "n_words": 17,
+      "start_frame": 19833,
+      "end_frame": 19943,
+      "keyframes": [
+        "019859.webp",
+        "019860.webp",
+        "019891.webp",
+        "019923.webp",
+        "019924.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Điều cần thiết là chúng tôi phải tạo cho nó một môi trường sống có nhiều kích thích sáng tạo nhất có thể.",
+      "start": 797.72,
+      "end": 802.6,
+      "n_words": 23,
+      "start_frame": 19943,
+      "end_frame": 20065,
+      "keyframes": [
+        "019972.webp",
+        "020020.webp",
+        "020021.webp",
+        "020042.webp",
+        "020064.webp",
+        "020065.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cậu bé tinh tinh này rất đặc biệt, chúng tôi đưa một tờ giấy, một tấm vải và thế là nó bắt đầu vẽ.",
+      "start": 802.6,
+      "end": 808.04,
+      "n_words": 24,
+      "start_frame": 20065,
+      "end_frame": 20201,
+      "keyframes": [
+        "020065.webp",
+        "020114.webp",
+        "020164.webp",
+        "020165.webp",
+        "020185.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Libany thực sự thích nghệ thuật và chúng tôi nghĩ tại sao không thử bán các bức tranh này để mọi người có thể chiêm ngưỡng và biết đến năng khiếu hội họa của Libany\", số tiền thu được từ bán tranh sẽ được dùng cho các hoạt động chăm sóc cũng như kế hoạch về một ngôi nhà mới dành cho chú tinh trong tương lai.",
+      "start": 808.04,
+      "end": 826.56,
+      "n_words": 67,
+      "start_frame": 20201,
+      "end_frame": 20664,
+      "keyframes": [
+        "020205.webp",
+        "020206.webp",
+        "020228.webp",
+        "020250.webp",
+        "020251.webp",
+        "020269.webp",
+        "020288.webp",
+        "020289.webp",
+        "020304.webp",
+        "020319.webp",
+        "020320.webp",
+        "020366.webp",
+        "020412.webp",
+        "020413.webp",
+        "020451.webp",
+        "020490.webp",
+        "020491.webp",
+        "020539.webp",
+        "020588.webp",
+        "020589.webp",
+        "020618.webp",
+        "020647.webp",
+        "020648.webp"
+      ],
+      "keyframe_count": 23
+    },
+    {
+      "text": "Chặng sáu giải đua xe đạp dành cho nữ đơn dài gần 160 km với địa hình gồm nhiều đồi núi, thứ hạng của các tay đua đã liên tục thay đổi.",
+      "start": 826.56,
+      "end": 837.84,
+      "n_words": 32,
+      "start_frame": 20664,
+      "end_frame": 20946,
+      "keyframes": [
+        "020732.webp",
+        "020816.webp",
+        "020817.webp",
+        "020841.webp",
+        "020865.webp",
+        "020866.webp",
+        "020889.webp",
+        "020912.webp",
+        "020940.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đường đua từ Remi Remon đến Moto đến km thứ 29, nhóm dẫn đầu tăng lên 14 người.",
+      "start": 837.84,
+      "end": 844.2,
+      "n_words": 18,
+      "start_frame": 20946,
+      "end_frame": 21105,
+      "keyframes": [
+        "020977.webp",
+        "021014.webp",
+        "021015.webp",
+        "021040.webp",
+        "021065.webp",
+        "021066.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Khoảng cách giữa nhóm này và các cua rơ khác được duy trì ở mức hơn hai phút.",
+      "start": 844.2,
+      "end": 848.08,
+      "n_words": 18,
+      "start_frame": 21105,
+      "end_frame": 21202,
+      "keyframes": [
+        "021109.webp",
+        "021152.webp",
+        "021153.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ở đoạn leo núi cuối cùng tại Col, tay đua Piate vươn lên dẫn đầu, bám theo sát là hai đối thủ Near Doma và Demi Won.",
+      "start": 848.08,
+      "end": 857.04,
+      "n_words": 27,
+      "start_frame": 21202,
+      "end_frame": 21426,
+      "keyframes": [
+        "021215.webp",
+        "021277.webp",
+        "021278.webp",
+        "021351.webp",
+        "021425.webp",
+        "021426.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Khi đến đỉnh núi Serin Capo, tăng tốc và giữ vững được phong độ cán đích đầu tiên, nhanh hơn Vost 21 giây.",
+      "start": 857.04,
+      "end": 863.84,
+      "n_words": 23,
+      "start_frame": 21426,
+      "end_frame": 21596,
+      "keyframes": [
+        "021426.webp",
+        "021450.webp",
+        "021474.webp",
+        "021475.webp",
+        "021506.webp",
+        "021537.webp",
+        "021538.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cán đích ở vị trí thứ ba là Lisan Liper.",
+      "start": 863.84,
+      "end": 866.64,
+      "n_words": 10,
+      "start_frame": 21596,
+      "end_frame": 21666,
+      "keyframes": [
+        "021600.webp",
+        "021662.webp",
+        "021663.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trên bảng tổng sắp, Casiawadoma dẫn đầu, cách ở vị trí thứ hai 16 giây và Cristen Funer ở vị trí thứ ba 19 giây.",
+      "start": 866.64,
+      "end": 875.8,
+      "n_words": 25,
+      "start_frame": 21666,
+      "end_frame": 21895,
+      "keyframes": [
+        "021727.webp",
+        "021791.webp",
+        "021792.webp",
+        "021879.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Marian Vus là người giành được 25 điểm tại đoạn chạy nước rút trung gian, qua đó giành áo xanh lá.",
+      "start": 875.8,
+      "end": 883.4,
+      "n_words": 21,
+      "start_frame": 21895,
+      "end_frame": 22085,
+      "keyframes": [
+        "021966.webp",
+        "021967.webp",
+        "021987.webp",
+        "022007.webp",
+        "022008.webp",
+        "022032.webp",
+        "022056.webp",
+        "022070.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Thưa quý vị, vào khoảng 18:30 tối qua, tại số 67 phố Đức Chính, quận Ba Đình, Hà Nội đã xảy ra vụ cháy tại một quán bar đang sửa chữa. Khu vực chứa các vật liệu dễ cháy nên ngọn lửa bùng phát mạnh lan rộng ra xung quanh, khói đen bốc lên cao hàng chục mét.",
+      "start": 883.4,
+      "end": 897.48,
+      "n_words": 58,
+      "start_frame": 22085,
+      "end_frame": 22437,
+      "keyframes": [
+        "022272.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nhận được thông tin, lực lượng phòng cháy chữa cháy và cứu nạn cứu hộ đã điều 10 xe chữa cháy, huy động cán bộ chiến sĩ đến hiện trường chữa cháy và cứu nạn.",
+      "start": 897.48,
+      "end": 905.4,
+      "n_words": 35,
+      "start_frame": 22437,
+      "end_frame": 22635,
+      "keyframes": [
+        "022475.webp",
+        "022502.webp",
+        "022558.webp",
+        "022614.webp",
+        "022615.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đến 21:00, mái tôn tầng hai đổ sập, hai chiến sĩ chữa cháy bị thương được đưa ra ngoài.",
+      "start": 905.4,
+      "end": 910.76,
+      "n_words": 19,
+      "start_frame": 22635,
+      "end_frame": 22769,
+      "keyframes": [
+        "022657.webp",
+        "022700.webp",
+        "022701.webp",
+        "022725.webp",
+        "022750.webp",
+        "022751.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sau khoảng bốn tiếng bốc cháy dữ dội, quán bar rộng khoảng 300 m2 cao hai tầng đổ sập, các thiết bị bị cháy rụi.",
+      "start": 910.76,
+      "end": 917.28,
+      "n_words": 25,
+      "start_frame": 22769,
+      "end_frame": 22932,
+      "keyframes": [
+        "022809.webp",
+        "022868.webp",
+        "022869.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đến 23:00 để dập tắt hoàn toàn những đám lửa nhỏ, máy xúc đã phá tường bao quanh quán và dọn các khung sắt đổ ngổn ngang để cảnh sát dẫn vòi rồng vào sau phun nước.",
+      "start": 917.28,
+      "end": 926.48,
+      "n_words": 37,
+      "start_frame": 22932,
+      "end_frame": 23162,
+      "keyframes": [
+        "022934.webp",
+        "023000.webp",
+        "023001.webp",
+        "023041.webp",
+        "023081.webp",
+        "023082.webp",
+        "023101.webp",
+        "023121.webp",
+        "023122.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Dự kiến việc phun nước làm mát ngăn lửa bùng phát còn kéo dài nhiều tiếng nữa. Và những thông tin vừa rồi cũng đã kết thúc chương trình 60 giây sáng nay của chúng tôi.",
+      "start": 926.48,
+      "end": 935.48,
+      "n_words": 36,
+      "start_frame": 23162,
+      "end_frame": 23387,
+      "keyframes": [
+        "023185.webp",
+        "023248.webp",
+        "023249.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hẹn gặp lại quý vị trong chương trình 60 giây chiều nay vào lúc 18:30 trên cả hai kênh HTV9 và HTV7. Còn bây giờ thì xin kính chào tạm biệt.",
+      "start": 935.48,
+      "end": 944.2,
+      "n_words": 31,
+      "start_frame": 23387,
+      "end_frame": 23605,
+      "keyframes": [
+        "023443.webp"
+      ],
+      "keyframe_count": 1
+    }
+  ]
+}

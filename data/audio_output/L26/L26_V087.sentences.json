@@ -1,0 +1,679 @@
+{
+  "video_id": "L26_V087",
+  "fps": 25.0,
+  "n_sentences": 40,
+  "total_words": 930,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày: Súp cua vị Thái, chút ngọt lạ miệng, ngon tê tái.",
+      "start": 10.48,
+      "end": 36.6,
+      "n_words": 15,
+      "start_frame": 262,
+      "end_frame": 915,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000348.webp",
+        "000397.webp",
+        "000398.webp",
+        "000455.webp",
+        "000513.webp",
+        "000528.webp",
+        "000586.webp",
+        "000644.webp",
+        "000645.webp",
+        "000690.webp",
+        "000735.webp",
+        "000736.webp",
+        "000826.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Rất vui được gặp lại quý vị khán giả đã quay trở lại với chương trình Món ngon mỗi ngày, chúc chuẩn an lành. Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 36.6,
+      "end": 46.48,
+      "n_words": 35,
+      "start_frame": 915,
+      "end_frame": 1162,
+      "keyframes": [
+        "000916.webp",
+        "000917.webp",
+        "001041.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Anh Long nè, hôm nay mình sẽ làm món gì mà Thanh Phương thấy hấp dẫn quá?",
+      "start": 46.48,
+      "end": 49.6,
+      "n_words": 17,
+      "start_frame": 1162,
+      "end_frame": 1240,
+      "keyframes": [
+        "001165.webp",
+        "001166.webp",
+        "001202.webp",
+        "001238.webp",
+        "001239.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Có thịt cua nè.",
+      "start": 49.6,
+      "end": 50.84,
+      "n_words": 4,
+      "start_frame": 1240,
+      "end_frame": 1271,
+      "keyframes": [
+        "001269.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rồi anh hỏi nha, em thích ăn cua không? Dạ thích.",
+      "start": 50.84,
+      "end": 53.6,
+      "n_words": 11,
+      "start_frame": 1271,
+      "end_frame": 1340,
+      "keyframes": [
+        "001299.webp",
+        "001300.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Em thích ăn súp không? Cũng thích luôn.",
+      "start": 53.6,
+      "end": 55.68,
+      "n_words": 8,
+      "start_frame": 1340,
+      "end_frame": 1392,
+      "keyframes": [
+        "001359.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Em thích ăn mùi Thái không? Món này là hết sảy luôn.",
+      "start": 55.68,
+      "end": 58.16,
+      "n_words": 12,
+      "start_frame": 1392,
+      "end_frame": 1454,
+      "keyframes": [
+        "001418.webp",
+        "001419.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Hôm nay anh sẽ nấu em ba món trong một, ba món trong một luôn.",
+      "start": 58.16,
+      "end": 61.8,
+      "n_words": 15,
+      "start_frame": 1454,
+      "end_frame": 1545,
+      "keyframes": [
+        "001458.webp",
+        "001498.webp",
+        "001499.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi hôm nay chúng ta thực hiện món súp cua vị Thái.",
+      "start": 61.8,
+      "end": 64.92,
+      "n_words": 12,
+      "start_frame": 1545,
+      "end_frame": 1623,
+      "keyframes": [
+        "001561.webp",
+        "001623.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rồi bây giờ mình chuẩn bị khâu chế biến nha, phần mà dễ nhất là cắt thái để chế biến rồi, Thanh Phương làm nha.",
+      "start": 64.92,
+      "end": 70.16,
+      "n_words": 25,
+      "start_frame": 1623,
+      "end_frame": 1754,
+      "keyframes": [
+        "001623.webp",
+        "001624.webp",
+        "001651.webp",
+        "001679.webp",
+        "001680.webp",
+        "001721.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Dạ.",
+      "start": 70.16,
+      "end": 70.56,
+      "n_words": 1,
+      "start_frame": 1754,
+      "end_frame": 1764,
+      "keyframes": [
+        "001763.webp",
+        "001764.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nấm thì mình sẽ nhặt ra xong mình cắt làm đôi.",
+      "start": 70.56,
+      "end": 73.12,
+      "n_words": 11,
+      "start_frame": 1764,
+      "end_frame": 1828,
+      "keyframes": [
+        "001764.webp",
+        "001793.webp",
+        "001823.webp",
+        "001824.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Trong nấm kim châm này thì có chứa vitamin B nè và có chất để kiểm soát cholesterol rất là tốt, vì vậy thì sẽ giúp cho cơ thể của chúng ta khỏe mạnh hơn và đặc biệt là phát triển trí não nữa.",
+      "start": 73.12,
+      "end": 85.6,
+      "n_words": 44,
+      "start_frame": 1828,
+      "end_frame": 2140,
+      "keyframes": [
+        "001841.webp",
+        "001859.webp",
+        "001860.webp",
+        "001983.webp",
+        "002107.webp",
+        "002108.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Với những cái món súp mà có phần nấm, nó ăn nó vừa ngọt nước mà nó vừa có cái cảm giác là nó sần sật á, rất là ngon.",
+      "start": 85.6,
+      "end": 92.08,
+      "n_words": 30,
+      "start_frame": 2140,
+      "end_frame": 2302,
+      "keyframes": [
+        "002151.webp",
+        "002194.webp",
+        "002195.webp",
+        "002246.webp",
+        "002298.webp",
+        "002299.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Nấm đông cô thì mình cắt lát, cà rốt loãng sẽ cắt thành những sợi nhỏ kệ.",
+      "start": 92.08,
+      "end": 105.12,
+      "n_words": 17,
+      "start_frame": 2302,
+      "end_frame": 2628,
+      "keyframes": [
+        "002348.webp",
+        "002397.webp",
+        "002398.webp",
+        "002438.webp",
+        "002478.webp",
+        "002479.webp",
+        "002535.webp",
+        "002591.webp",
+        "002592.webp",
+        "002626.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Đến mình sẽ chuẩn bị cái phần sơ chế cua, cho vào đây một xíu gừng cắt lát, một muỗng canh rượu trắng, nước sôi rồi mình sẽ chuẩn bị một cái rây để mình cho cua vào, rồi mình chần qua đây để cho cái phần cua của mình nó ngon hơn nữa và mình có phần mình sẽ ép cái phần nước ra cho nó ráo nước đi.",
+      "start": 105.12,
+      "end": 124.96,
+      "n_words": 70,
+      "start_frame": 2628,
+      "end_frame": 3124,
+      "keyframes": [
+        "002660.webp",
+        "002661.webp",
+        "002691.webp",
+        "002722.webp",
+        "002723.webp",
+        "002751.webp",
+        "002780.webp",
+        "002781.webp",
+        "002811.webp",
+        "002841.webp",
+        "002842.webp",
+        "002888.webp",
+        "002935.webp",
+        "002936.webp",
+        "002968.webp",
+        "003001.webp",
+        "003002.webp",
+        "003061.webp",
+        "003120.webp",
+        "003121.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Mình cho vào đây một xíu tiêu; Mùi thơm của gừng, của rượu hòa cùng với lại tiêu làm dậy lên cái mùi thịt cua đó thơm.",
+      "start": 124.96,
+      "end": 134.0,
+      "n_words": 27,
+      "start_frame": 3124,
+      "end_frame": 3350,
+      "keyframes": [
+        "003150.webp",
+        "003180.webp",
+        "003181.webp",
+        "003268.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Như vậy là vừa xong công đoạn sơ chế.",
+      "start": 134.0,
+      "end": 135.64,
+      "n_words": 9,
+      "start_frame": 3350,
+      "end_frame": 3391,
+      "keyframes": [
+        "003355.webp",
+        "003356.webp",
+        "003373.webp",
+        "003390.webp",
+        "003391.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta có một cái nồi nước dùng gà mà Long đã chuẩn bị từ trước rồi.",
+      "start": 135.64,
+      "end": 138.68,
+      "n_words": 17,
+      "start_frame": 3391,
+      "end_frame": 3467,
+      "keyframes": [
+        "003391.webp",
+        "003426.webp",
+        "003462.webp",
+        "003463.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Anh cho cà rốt vô nha, Thanh Phương dạ, đây là nấm nha, tới đây là nấm kim châm.",
+      "start": 138.68,
+      "end": 148.76,
+      "n_words": 19,
+      "start_frame": 3467,
+      "end_frame": 3719,
+      "keyframes": [
+        "003506.webp",
+        "003550.webp",
+        "003551.webp",
+        "003581.webp",
+        "003611.webp",
+        "003612.webp",
+        "003629.webp",
+        "003646.webp",
+        "003647.webp",
+        "003680.webp",
+        "003713.webp",
+        "003714.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Rồi bây giờ mình sẽ cho phần cua vào.",
+      "start": 148.76,
+      "end": 150.68,
+      "n_words": 9,
+      "start_frame": 3719,
+      "end_frame": 3767,
+      "keyframes": [
+        "003741.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Với một lít nước dùng thì Long sẽ nêm vào đây một muỗng canh rưỡi gia vị nêm sẵn Ajinomoto lẩu Thái.",
+      "start": 150.68,
+      "end": 156.52,
+      "n_words": 22,
+      "start_frame": 3767,
+      "end_frame": 3913,
+      "keyframes": [
+        "003768.webp",
+        "003769.webp",
+        "003788.webp",
+        "003808.webp",
+        "003809.webp",
+        "003833.webp",
+        "003858.webp",
+        "003859.webp",
+        "003886.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đối với bữa ăn này chúng ta sử dụng lại gia vị nêm sẵn Ajinomoto lẩu Thái để cho món ăn có hương vị mới lạ và thơm ngon hơn.",
+      "start": 156.52,
+      "end": 162.12,
+      "n_words": 30,
+      "start_frame": 3913,
+      "end_frame": 4053,
+      "keyframes": [
+        "003914.webp",
+        "003915.webp",
+        "003983.webp",
+        "004051.webp",
+        "004052.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hai muỗng cà phê đường, một muỗng cà phê bột ngọt Ajinomoto thường để có vị Thái đó.",
+      "start": 162.12,
+      "end": 170.4,
+      "n_words": 18,
+      "start_frame": 4053,
+      "end_frame": 4260,
+      "keyframes": [
+        "004102.webp",
+        "004153.webp",
+        "004154.webp",
+        "004191.webp",
+        "004229.webp",
+        "004230.webp",
+        "004249.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Anh Long, Thanh Phương thấy là phải có thêm chút chanh nè, rồi sả rồi riềng vân vân, rất là nhiều loại gia vị, nhưng chỉ cần một muỗng rưỡi cho vào trong cái phần súp này thôi, với lại mục đích nước dùng là đã có được một cái vị Thái đúng chuẩn rồi.",
+      "start": 170.4,
+      "end": 185.04,
+      "n_words": 55,
+      "start_frame": 4260,
+      "end_frame": 4626,
+      "keyframes": [
+        "004269.webp",
+        "004270.webp",
+        "004387.webp",
+        "004505.webp",
+        "004506.webp",
+        "004565.webp",
+        "004625.webp",
+        "004626.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Này cũng rất là dinh dưỡng luôn các bạn ạ, có nhiều nấm nè, có chứa protein và đặc biệt là trong thịt cua nha, thịt cua có chứa canxi và folate sẽ giúp cho cơ thể của chúng ta chống mệt mỏi, suy nhược cơ thể và chống thiếu máu nữa.",
+      "start": 185.52,
+      "end": 197.56,
+      "n_words": 52,
+      "start_frame": 4638,
+      "end_frame": 4939,
+      "keyframes": [
+        "004781.webp",
+        "004937.webp",
+        "004938.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và ba muỗng canh bột năng với lại một phần ba chén nước vào từ từ trong nồi súp của mình.",
+      "start": 197.56,
+      "end": 203.0,
+      "n_words": 21,
+      "start_frame": 4939,
+      "end_frame": 5075,
+      "keyframes": [
+        "004976.webp",
+        "005015.webp",
+        "005016.webp",
+        "005066.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ đánh trứng; Sau khi đánh trứng thì mình sẽ dùng rây cho trứng vào nồi để tạo vân mây.",
+      "start": 203.0,
+      "end": 214.56,
+      "n_words": 24,
+      "start_frame": 5075,
+      "end_frame": 5364,
+      "keyframes": [
+        "005117.webp",
+        "005118.webp",
+        "005134.webp",
+        "005150.webp",
+        "005151.webp",
+        "005171.webp",
+        "005192.webp",
+        "005193.webp",
+        "005250.webp",
+        "005308.webp",
+        "005309.webp",
+        "005336.webp",
+        "005364.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "À bây giờ là nồi súp đã trông rất là hấp dẫn và có màu sắc vô cùng bắt mắt luôn.",
+      "start": 214.56,
+      "end": 219.28,
+      "n_words": 21,
+      "start_frame": 5364,
+      "end_frame": 5482,
+      "keyframes": [
+        "005364.webp",
+        "005365.webp",
+        "005423.webp",
+        "005482.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Các bạn lưu ý là với món súp thì chúng ta hãy cho bột năng vào trước, sau đó chúng ta cho trứng vào để tạo vân mây được đẹp hơn.",
+      "start": 219.28,
+      "end": 226.12,
+      "n_words": 31,
+      "start_frame": 5482,
+      "end_frame": 5653,
+      "keyframes": [
+        "005482.webp",
+        "005483.webp",
+        "005566.webp",
+        "005649.webp",
+        "005650.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Rồi như vậy là mình đã hoàn thành xong món súp cua vị Thái của ngày hôm nay.",
+      "start": 226.12,
+      "end": 230.52,
+      "n_words": 18,
+      "start_frame": 5653,
+      "end_frame": 5763,
+      "keyframes": [
+        "005706.webp",
+        "005762.webp",
+        "005763.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn có thể xem lại công thức của món ăn ngày hôm nay bằng cách quét mã QR đang hiển thị trên màn hình và Long sẽ dọn ra và mời mọi người cùng thưởng thức.",
+      "start": 230.52,
+      "end": 239.72,
+      "n_words": 37,
+      "start_frame": 5763,
+      "end_frame": 5993,
+      "keyframes": [
+        "005763.webp",
+        "005822.webp",
+        "005881.webp",
+        "005882.webp",
+        "005906.webp",
+        "005931.webp",
+        "005932.webp",
+        "005979.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Nấm và rau củ quả vừa chín tới nên vẫn còn giữ được độ giòn và vị ngọt tự nhiên, còn thịt cua thì thơm lừng và từng thớ thịt cua trông rất là hấp dẫn luôn.",
+      "start": 239.72,
+      "end": 252.64,
+      "n_words": 37,
+      "start_frame": 5993,
+      "end_frame": 6316,
+      "keyframes": [
+        "006027.webp",
+        "006028.webp",
+        "006078.webp",
+        "006129.webp",
+        "006130.webp",
+        "006166.webp",
+        "006203.webp",
+        "006204.webp",
+        "006232.webp",
+        "006261.webp",
+        "006262.webp",
+        "006291.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Lại điểm tô thêm một chút ngò rí, chút tiêu, như vậy là chúng ta đã có được một món súp cua vị Thái rất là thơm ngon hấp dẫn cho buổi sáng rồi.",
+      "start": 252.96,
+      "end": 270.92,
+      "n_words": 34,
+      "start_frame": 6324,
+      "end_frame": 6773,
+      "keyframes": [
+        "006352.webp",
+        "006383.webp",
+        "006384.webp",
+        "006450.webp",
+        "006516.webp",
+        "006517.webp",
+        "006541.webp",
+        "006565.webp",
+        "006566.webp",
+        "006603.webp",
+        "006641.webp",
+        "006642.webp",
+        "006724.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Món này thì sẽ ăn kèm với những món nào khác ạ?",
+      "start": 270.92,
+      "end": 273.12,
+      "n_words": 12,
+      "start_frame": 6773,
+      "end_frame": 6828,
+      "keyframes": [
+        "006807.webp",
+        "006808.webp",
+        "006825.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Món ăn này thì chúng ta sẽ ăn kèm với món là ba rọi sả ớt tẩm bột chiên giòn.",
+      "start": 273.12,
+      "end": 277.88,
+      "n_words": 20,
+      "start_frame": 6828,
+      "end_frame": 6947,
+      "keyframes": [
+        "006842.webp",
+        "006843.webp",
+        "006884.webp",
+        "006925.webp",
+        "006926.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Súp cua sánh thơm, vân trứng vàng đều hấp dẫn, thịt cua ngọt, rau củ giòn, chua cay hài hòa, nồng thơm vị Thái, ấm bụng ngay từ muỗng đầu tiên.",
+      "start": 277.88,
+      "end": 292.0,
+      "n_words": 31,
+      "start_frame": 6947,
+      "end_frame": 7300,
+      "keyframes": [
+        "006975.webp",
+        "007024.webp",
+        "007039.webp",
+        "007082.webp",
+        "007126.webp",
+        "007127.webp",
+        "007207.webp",
+        "007287.webp",
+        "007288.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Ấm cơ thể với món súp cua vị Thái ngon nhất ngay thôi các bạn ơi.",
+      "start": 292.0,
+      "end": 296.36,
+      "n_words": 16,
+      "start_frame": 7300,
+      "end_frame": 7409,
+      "keyframes": [
+        "007349.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ngoài ra, các bạn có thể truy cập vào kênh YouTube, website và fanpage của Món ngon mỗi ngày để tìm hiểu về công thức nấu các món ăn ngon.",
+      "start": 296.36,
+      "end": 303.24,
+      "n_words": 30,
+      "start_frame": 7409,
+      "end_frame": 7581,
+      "keyframes": [
+        "007411.webp",
+        "007412.webp",
+        "007530.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Còn bây giờ xin được mến chào tạm biệt và hẹn gặp lại.",
+      "start": 303.24,
+      "end": 306.64,
+      "n_words": 13,
+      "start_frame": 7581,
+      "end_frame": 7666,
+      "keyframes": [
+        "007649.webp",
+        "007650.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

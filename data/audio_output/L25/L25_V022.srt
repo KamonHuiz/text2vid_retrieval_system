@@ -1,0 +1,647 @@
+1
+00:00:08,400 --> 00:00:14,280
+Chào mừng các em đến với buổi ôn tập thi tốt nghiệp trung học phổ thông bộ môn Vật lý năm 2024.
+
+2
+00:00:15,320 --> 00:00:18,880
+Chương trình do Báo Thanh Niên tổ chức.
+
+3
+00:00:18,880 --> 00:00:27,320
+Đến với buổi học ngày hôm nay, chúng ta sang chuyên đề số 8 là phần Sóng ánh sáng, rơi vào chương 5 của chương trình Vật lý 12.
+
+4
+00:00:28,960 --> 00:00:41,680
+Để có được thành công như hôm nay, tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình bắt đầu từ trường Đại học Quốc tế Sài Gòn SIU.
+
+5
+00:00:41,680 --> 00:00:48,480
+Đào tạo đa dạng đa lĩnh vực, SIU mở ra cho chúng tôi nhiều cơ hội lựa chọn nghề nghiệp trong tương lai.
+
+6
+00:00:48,480 --> 00:00:55,760
+Tất cả sinh viên đều có cơ hội để thể hiện và phát triển năng lực; Những ý tưởng luôn được khuyến khích và phát huy tối đa.
+
+7
+00:00:55,760 --> 00:01:01,880
+Chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin; Chúng tôi được học cách học, được học cách nghĩ và cách sống.
+
+8
+00:01:01,880 --> 00:01:09,000
+Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.
+
+9
+00:01:09,000 --> 00:01:19,600
+Hiện đại, năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc, đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn SIU luôn hướng đến.
+
+10
+00:01:19,600 --> 00:01:33,240
+Đã đến lúc vươn xa hơn những gì đã học, chúng ta cùng đi qua một số kiến thức trọng tâm của chuyên đề 8 này.
+
+11
+00:01:33,240 --> 00:01:37,040
+Thứ nhất, chúng ta cùng nói về tán sắc ánh sáng.
+
+12
+00:01:37,040 --> 00:01:43,560
+Định nghĩa: là sự phân tích chùm sáng phức tạp thành những chùm ánh sáng đơn sắc.
+
+13
+00:01:43,560 --> 00:01:48,520
+Ánh sáng đơn sắc là ánh sáng không bị tán sắc.
+
+14
+00:01:48,520 --> 00:01:58,360
+Ánh sáng đơn sắc thì có tần số xác định, có bước sóng khi truyền trong chân không là $\lambda = c/f$.
+
+15
+00:01:58,360 --> 00:02:14,120
+Khi đi vào môi trường trong suốt thì tần số của ánh sáng không thay đổi, tương ứng với các đại lượng tần số gốc và chu kỳ, vận tốc và bước sóng thì giảm theo tỷ lệ nghịch với chiết suất của môi trường.
+
+16
+00:02:14,120 --> 00:02:16,800
+Ta có biểu thức $v_1/v_2 = \lambda_1/\lambda_2 = n_2/n_1$.
+
+17
+00:02:22,560 --> 00:02:30,960
+Ánh sáng trắng là tập hợp của vô số ánh sáng đơn sắc có màu biến thiên liên tục từ đỏ đến tím.
+
+18
+00:02:30,960 --> 00:02:38,800
+Bước sóng của ánh sáng trắng đi từ màu tím đến màu đỏ là 0.4 $\mu$m cho đến 0.76 $\mu$m.
+
+19
+00:02:41,160 --> 00:02:54,320
+Đây là hình ảnh khi ánh sáng trắng đi qua lăng kính thì chúng ta thấy rằng tia đỏ lệch ít nhất và tia tím thì lệch nhiều nhất.
+
+20
+00:02:54,320 --> 00:03:09,600
+Như vậy thì do chiết suất của lăng kính đối với mỗi ánh sáng sẽ khác nhau, tương ứng là $n_{đỏ}$ là bé nhất cho đến $n_{tím}$ là lớn nhất.
+
+21
+00:03:09,600 --> 00:03:17,200
+Thứ tự là đỏ, cam, vàng, lục, lam, chàm, tím.
+
+22
+00:03:17,200 --> 00:03:21,360
+Ta sang phần 2 nhỏ: Giao thoa ánh sáng.
+
+23
+00:03:21,360 --> 00:03:34,000
+Định nghĩa của giao thoa là sự tổng hợp của hai hay nhiều sóng ánh sáng kết hợp trong không gian, trong đó xuất hiện những vạch sáng và những vạch tối xen kẽ nhau.
+
+24
+00:03:34,000 --> 00:03:53,200
+Đây là hình ảnh giao thoa khe Young được thực hiện, thì chúng ta thấy rằng trên màn trắng xuất hiện những vạch màu đỏ vì ánh sáng làm thí nghiệm của chúng ta là ánh sáng đỏ, và xen kẽ những vạch màu đỏ là những vân tối, chúng xen kẽ cách đều nhau.
+
+25
+00:03:58,480 --> 00:04:04,680
+Khoảng vân $y$ là khoảng cách giữa hai vân sáng hoặc hai vân tối liên tiếp.
+
+26
+00:04:04,680 --> 00:04:21,040
+$y = \lambda D/a$, trong đó $D$ là khoảng cách từ hai khe đến màn, $\lambda$ là bước sóng và $a$ là khoảng cách hai khe $S_1 S_2$ như hình vẽ.
+
+27
+00:04:21,040 --> 00:04:40,920
+Vị trí vân sáng $x_{sáng} = k y$, trong đó $k=0$ là vân sáng trung tâm, $k = \pm 1$ là vân sáng bậc 1, $k = \pm 2$ là vân sáng bậc 2.
+
+28
+00:04:40,920 --> 00:04:55,040
+Vị trí vân tối $x_{tối} = (k - 0.5) y$, trong đó $k=1$ là vân tối thứ nhất, $k=2$ là vân tối thứ hai và cứ thế.
+
+29
+00:04:55,040 --> 00:05:05,680
+Đối với chương 5, để nhận diện thì thường đề sẽ là "trong giao thoa khe Young" hoặc là bài giao thoa ánh sáng.
+
+30
+00:05:05,680 --> 00:05:18,960
+Thì chúng ta được phép sử dụng bộ đơn vị nhanh để không phải đổi đơn vị là: $\lambda$ là $\mu$m, $D$ lớn là mét và các đại lượng còn lại là mm.
+
+31
+00:05:18,960 --> 00:05:28,960
+Thì nhờ vậy chúng ta sẽ giải nhanh bài toán, tiết kiệm thời gian để giải quyết những bài khó hơn.
+
+32
+00:05:28,960 --> 00:05:40,320
+Phần 3 nhỏ là máy quang phổ: là dụng cụ dùng để phân tích một chùm ánh sáng phức tạp thành những thành phần đơn sắc.
+
+33
+00:05:40,320 --> 00:05:46,960
+Nguyên tắc hoạt động đó là dựa vào hiện tượng tán sắc ánh sáng.
+
+34
+00:05:46,960 --> 00:05:59,880
+Như vậy, cấu tạo bộ phận quan trọng nhất của máy quang phổ là chiếc lăng kính gọi là hệ tán sắc.
+
+35
+00:05:59,880 --> 00:06:09,280
+Thứ nhất là ống chuẩn trực gồm có thấu kính hội tụ $L_1$ tạo ra chùm sáng song song.
+
+36
+00:06:09,280 --> 00:06:17,720
+Thứ hai là hệ tán sắc của máy quang phổ gồm các lăng kính dùng để phân tích ánh sáng.
+
+37
+00:06:17,720 --> 00:06:39,640
+Thứ ba là buồng tối là một hộp kín gồm thấu kính hội tụ $L_2$, tấm phim ảnh hoặc là kính ảnh đặt ở mặt phẳng tiêu của $L_2$ để chúng ta hứng chùm quang phổ từ máy quang phổ.
+
+38
+00:06:39,640 --> 00:06:56,600
+Ta phân tích được các loại quang phổ, mỗi loại quang phổ thì các em nên nắm theo khung sườn sau: thứ nhất là định nghĩa, thứ hai là nguồn phát, thứ ba đặc điểm và cuối cùng là ứng dụng.
+
+39
+00:06:56,600 --> 00:07:18,360
+Ở đây chúng ta có ba loại quang phổ: thứ nhất là quang phổ liên tục, thứ hai là quang phổ vạch phát xạ, thứ ba là quang phổ vạch hấp thụ.
+
+40
+00:07:18,360 --> 00:07:27,520
+Trong chương trình ngày hôm nay thì ở chương 5 còn quan tâm đến lý thuyết của tia hồng ngoại, tia tử ngoại và tia X.
+
+41
+00:07:27,520 --> 00:07:36,800
+Chúng ta cũng nắm theo khung sườn: thứ nhất là dải bước sóng, thứ hai nguồn phát, thứ ba đặc điểm và thứ tư ứng dụng.
+
+42
+00:07:36,800 --> 00:07:39,360
+Ở đây chúng ta cùng đi đến từng tia.
+
+43
+00:07:39,360 --> 00:07:45,160
+Thứ nhất, tia hồng ngoại thì bước sóng đi từ 0.76 $\mu$m đến vài mm.
+
+44
+00:07:46,880 --> 00:07:52,240
+Về nguồn phát thì bất kỳ vật nào có nhiệt độ cao hơn nhiệt độ môi trường.
+
+45
+00:07:52,240 --> 00:08:17,840
+Đặc điểm của tia hồng ngoại: đặc điểm nổi bật là tác dụng nhiệt rất mạnh, gây ra hiện tượng quang điện trong ở chất bán dẫn, có khả năng gây ra một số phản ứng hóa học, có thể tác dụng lên phim ảnh, có thể biến điệu như sóng điện từ cao tần, gây ra hiện tượng quang điện trong với một số chất bán dẫn.
+
+46
+00:08:18,240 --> 00:08:44,320
+Ứng dụng thì tác dụng nhiệt rất mạnh cho nên ứng dụng chúng ta sấy khô, sưởi ấm và đun nấu; Chụp ảnh ban đêm, chụp ảnh của nhiều thiên thể, chụp ảnh Trái Đất từ vệ tinh; Sử dụng trong bộ điều khiển từ xa như là điều khiển tivi, điều hòa; Trong quân sự thì ống nhòm hồng ngoại, camera hồng ngoại, tên lửa tầm nhiệt.
+
+47
+00:08:44,320 --> 00:08:50,880
+Tia tử ngoại thì dải bước sóng đi từ $0.38$ đến cỡ $10^{-9}$ mét.
+
+48
+00:08:50,880 --> 00:08:58,840
+Như vậy ta có thể nhớ rằng bước sóng của tia tử ngoại thì nhỏ hơn tia tím.
+
+49
+00:08:58,840 --> 00:09:06,360
+Về nguồn phát thì vật có nhiệt độ lớn hơn 2.000 °C, ví dụ như là hồ quang điện, mặt trời.
+
+50
+00:09:06,360 --> 00:09:33,520
+Đặc điểm nổi bật là tia tử ngoại tác dụng lên phim ảnh và kích thích sự quang điện của nhiều chất, kích thích gây phản ứng hóa học, làm ion hóa không khí và nhiều chất khác, tác dụng sinh học hủy diệt tế bào, diệt khuẩn, là tiền đề tổng hợp vitamin D, gây ra hiện tượng quang điện, bị nước và thủy tinh hấp thụ rất mạnh.
+
+51
+00:09:33,520 --> 00:09:45,320
+Ngoài ra, tầng ozon hấp thụ hết các tia có bước sóng dưới 300 nm và là tấm áo giáp bảo vệ sinh vật trên Trái Đất.
+
+52
+00:09:45,320 --> 00:09:53,760
+Ứng dụng của tia tử ngoại thì có các ứng dụng trong y học, trong công nghiệp thực phẩm và trong công nghiệp cơ khí.
+
+53
+00:09:53,760 --> 00:10:08,600
+Trong y học thì dùng để tiệt trùng dụng cụ phẫu thuật, chữa bệnh còi xương; Trong công nghiệp thực phẩm thì để tiệt trùng thực phẩm; Trong công nghiệp cơ khí thì tìm vết nứt khuyết tật ở trên bề mặt sản phẩm.
+
+54
+00:10:08,600 --> 00:10:14,880
+Đối với tia X, có bước sóng từ $10^{-8}$ đến $10^{-11}$ mét.
+
+55
+00:10:14,880 --> 00:10:21,160
+Tia X này có bước sóng nhỏ hơn tia tử ngoại nhưng lớn hơn tia gamma.
+
+56
+00:10:22,800 --> 00:10:28,880
+Nguồn phát thì là ống Coolidge, ống Liser và trong phản ứng hạt nhân.
+
+57
+00:10:28,880 --> 00:10:40,000
+Đặc điểm tính chất nổi bật là khả năng đâm xuyên mạnh; Tia X có bước sóng càng ngắn thì năng lượng xuyên càng sâu hay càng cứng.
+
+58
+00:10:40,000 --> 00:11:02,200
+Có nghĩa chúng ta có thể phân loại ra hai loại tia X là tia X cứng và tia X mềm; Tác dụng mạnh lên kính ảnh, làm ion hóa không khí, làm phát quang một số chất, tác dụng sinh lý mạnh như là hủy diệt tế bào, diệt vi khuẩn, gây ra hiện tượng quang điện ở hầu hết các kim loại.
+
+59
+00:11:02,200 --> 00:11:12,920
+Về mặt ứng dụng của tia X trong y học rất nổi tiếng là sử dụng để chiếu điện, chụp điện, chữa bệnh ung thư, hay còn gọi là chụp X-quang.
+
+60
+00:11:16,480 --> 00:11:20,320
+Trong công nghiệp: kiểm tra chất lượng bên trong sản phẩm.
+
+61
+00:11:20,320 --> 00:11:23,760
+Trong giao thông: kiểm tra hành lý của hành khách.
+
+62
+00:11:23,760 --> 00:11:29,280
+Trong phòng thí nghiệm thì tiếp tục nghiên cứu cấu trúc của vật rắn.
+
+63
+00:11:29,280 --> 00:11:39,440
+Thì đó là nội dung về bốn đặc điểm của các loại tia các em cần nắm rõ.
+
+64
+00:11:39,440 --> 00:11:50,280
+Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến, hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.
+
+65
+00:11:50,280 --> 00:11:57,880
+Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện, cân bằng giữa học thuật và nghệ thuật thể thao.
+
+66
+00:11:57,880 --> 00:12:08,560
+Hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, thêm nguồn cảm hứng độc lập để phát triển và hoàn thiện nhân cách.
+
+67
+00:12:08,560 --> 00:12:28,120
+Ngoài những giờ học trên lớp, học sinh Trường Quốc tế Á Châu còn được trải nghiệm thử thách bản thân và phản biện các vấn đề để tự mình học hỏi, trưởng thành độc lập hơn.
+
+68
+00:12:28,120 --> 00:12:44,200
+Nơi đây với tôi còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.
+
+69
+00:12:44,200 --> 00:12:49,320
+Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là cuộc sống.
+
+70
+00:12:49,320 --> 00:13:00,960
+Từ môi trường giáo dục này, chúng tôi đã tự tin bước tiếp và viết nên câu chuyện tương lai của chính mình.
+
+71
+00:13:00,960 --> 00:13:11,000
+Sau đây là một số ví dụ minh họa cho phần kiến thức của phần Sóng ánh sáng này.
+
+72
+00:13:11,000 --> 00:13:18,720
+Câu số một: Trong thí nghiệm Young về giao thoa ánh sáng đơn sắc, khoảng vân trên màn quan sát là 1.2 mm.
+
+73
+00:13:20,440 --> 00:13:25,400
+Trên màn, vân sáng bậc 3 cách vân trung tâm bao nhiêu?
+
+74
+00:13:25,400 --> 00:13:28,400
+Thì chúng ta thấy rằng $x_{sáng 3} = 3y$.
+
+75
+00:13:28,400 --> 00:13:30,480
+$x_{sáng 10} = 10y$.
+
+76
+00:13:32,600 --> 00:13:35,000
+Thì ta thế vào biểu thức là 3.6 mm.
+
+77
+00:13:36,400 --> 00:13:38,480
+Đáp án là B.
+
+78
+00:13:38,480 --> 00:13:53,640
+Nhưng ở đây có một lưu ý nếu như đáp án D là $\pm 3.6$ mm thì chúng ta buộc lòng phải lấy đáp án D bởi vì vân sáng bậc 3 về nguyên tắc của chúng ta là bằng $\pm 3y$.
+
+79
+00:13:55,280 --> 00:14:03,680
+Thì ở đây có một sự chú ý về dấu để các bạn không bị mắc sai lầm khi chúng ta giải quyết bài toán.
+
+80
+00:14:03,680 --> 00:14:14,160
+Câu số hai: Tia UVB là bức xạ thuộc vùng tử ngoại có hại cho người vì có thể gây ung thư da.
+
+81
+00:14:14,160 --> 00:14:21,720
+Trong chân không, tia UVB có bước sóng nằm trong khoảng từ 0.28 $\mu$m đến 0.32 $\mu$m.
+
+82
+00:14:23,640 --> 00:14:25,560
+Lấy $c = 3 \cdot 10^8$ m/s.
+
+83
+00:14:26,960 --> 00:14:31,280
+Tia UVB có tần số nằm trong khoảng nào?
+
+84
+00:14:31,280 --> 00:14:37,240
+Ở đây chúng ta đã có giá trị bước sóng và trong chân không thì là $c = 3 \cdot 10^8$.
+
+85
+00:14:38,160 --> 00:14:52,080
+Mối quan hệ giữa $c$ và $f$ như sau: $c = f \cdot \lambda$ (đơn vị là mét).
+
+86
+00:14:52,080 --> 00:14:55,920
+Chúng ta thế số thì dễ dàng ra đáp án C.
+
+87
+00:14:55,920 --> 00:15:04,360
+Ta sang ví dụ số ba: Trong thí nghiệm Young về giao thoa ánh sáng, nguồn sáng phát ra ánh sáng đơn sắc có bước sóng 600 nm.
+
+88
+00:15:05,600 --> 00:15:10,520
+Khoảng cách từ mặt phẳng chứa hai khe đến màn quan sát là 2 mét.
+
+89
+00:15:10,520 --> 00:15:13,920
+Trên màn, khoảng vân đo được là 1.5 mm.
+
+90
+00:15:15,560 --> 00:15:19,120
+Khoảng cách giữa hai khe bằng bao nhiêu?
+
+91
+00:15:19,120 --> 00:15:21,120
+Ta có $y = \lambda D/a$.
+
+92
+00:15:23,240 --> 00:15:26,040
+Như vậy ta thế số $a = \lambda D/y$.
+
+93
+00:15:27,920 --> 00:15:51,280
+Ở đây $\lambda = 0.6\ \mu\text{m}$ (đề cho là 600 nano nhưng bản đơn vị của chúng ta $\lambda$ phải là $\mu\text{m}$ nên ta đổi), $D = 2\ \text{m}$ đã là đúng đơn vị của chương 5, khoảng vân $y = 1.5\ \text{mm}$ đã đúng đơn vị của chương 5.
+
+94
+00:15:51,280 --> 00:15:53,400
+Kết quả là $a = 0.8\ \text{mm}$.
+
+95
+00:15:54,560 --> 00:15:59,080
+Đáp án là D.
+
+96
+00:15:59,080 --> 00:16:11,080
+Ta sang ví dụ số bốn: Trong thí nghiệm Young về giao thoa ánh sáng, hai khe hẹp cách nhau 0.6 mm và cách màn quan sát 1.2 mét.
+
+97
+00:16:11,080 --> 00:16:21,320
+Chiếu sáng các khe bằng ánh sáng đơn sắc có bước sóng $\lambda$ sẽ nằm từ 380 nm đến 760 nm.
+
+98
+00:16:23,960 --> 00:16:31,360
+Màn, điểm M cách vân trung tâm 2.6 mm là vị trí của một vân tối.
+
+99
+00:16:31,360 --> 00:16:39,120
+Giá trị của $\lambda$ gần nhất với giá trị nào sau đây?
+
+100
+00:16:39,120 --> 00:16:52,880
+Chúng ta cùng giải quyết bài toán thì chúng ta thấy rằng vị trí vân tối thì $x_{tối} = 2.6 = (k - 0.5) \lambda D/a = (k - 0.5) y$.
+
+101
+00:16:54,200 --> 00:17:16,480
+Thì chúng ta thế số, $\lambda$ lúc này là đại lượng kẹp giữa vì vậy chúng ta sẽ rút $\lambda$: $\lambda = 2.6 \cdot 0.6 / [(k - 0.5) \cdot 1.2] = 1.3 / (k - 0.5)$.
+
+102
+00:17:18,080 --> 00:17:30,880
+Ở đây thầy nhắc lại bộ đơn vị: $\lambda$ là $\mu\text{m}$, $D$ lớn là mét, các đại lượng còn lại như $x, y, a, d$ nhỏ là mm.
+
+103
+00:17:30,880 --> 00:17:46,400
+Thì từ đây chúng ta sử dụng phương pháp mode 7 hoặc mode 8 (mode 7 đối với máy 570 và mode 8 đối với máy mới 580) để chúng ta ra được bảng giá trị.
+
+104
+00:17:46,400 --> 00:18:05,400
+Thì cách bấm chúng ta nhập hàm $f(x)$, lúc này là $\lambda$, bắt đầu từ 0 kết thúc từ 19 tùy máy, nếu máy mạnh thì chúng ta có thể kết thúc từ 29 vân vân và bước nhảy là bằng 1.
+
+105
+00:18:05,400 --> 00:18:23,160
+Thì khi ra bảng giá trị, chúng ta tra giá trị $\lambda$ tức là tra giá trị $f(x)$ sao cho nằm giữa 0.38 (tức là 380 nano) và 0.76 (tức là 760 nano) thì ta ra được $k=3$.
+
+106
+00:18:24,800 --> 00:18:26,960
+Lúc này $\lambda = 0.52\ \mu\text{m}$.
+
+107
+00:18:29,200 --> 00:18:41,360
+Thì bài toán trên giúp ta ôn lại một trong những phương pháp bấm máy mode 7, tức là lập ra bảng giá trị.
+
+108
+00:18:41,360 --> 00:18:51,080
+Chúng ta sang ví dụ số năm: Trong thí nghiệm Young về giao thoa ánh sáng, khoảng cách giữa hai khe là 1.2 mm.
+
+109
+00:18:52,800 --> 00:19:04,320
+Ban đầu thí nghiệm được tiến hành trong không khí, sau đó tiến hành thí nghiệm trong nước có chiết suất 4/3 đối với ánh sáng đơn sắc nói trên.
+
+110
+00:19:04,320 --> 00:19:15,240
+Để khoảng vân trên màn quan sát không đổi so với ban đầu, người ta thay đổi khoảng cách giữa hai khe hẹp và giữ nguyên các điều kiện khác.
+
+111
+00:19:15,240 --> 00:19:20,240
+Khoảng cách giữa hai khe lúc này bằng bao nhiêu?
+
+112
+00:19:20,240 --> 00:19:24,240
+Thì khi thí nghiệm trong nước, chúng ta sẽ có $\lambda' = \lambda/n$.
+
+113
+00:19:25,640 --> 00:19:33,400
+Khi đi vào môi trường thì bước sóng và vận tốc sẽ giảm theo chiết suất.
+
+114
+00:19:33,400 --> 00:19:35,120
+Thì $y = \lambda D/a$.
+
+115
+00:19:37,440 --> 00:19:43,360
+Ta thấy rằng khi $y$ không đổi thì $\lambda$ và $a$ sẽ tỷ lệ thuận.
+
+116
+00:19:43,360 --> 00:19:55,280
+Trong trường hợp cùng tử nhưng khác mẫu, tức là một đại lượng nằm trên tử, một đại lượng nằm dưới mẫu, như vậy ta sẽ lập được tỷ lệ $\lambda'/\lambda = a'/a$.
+
+117
+00:19:58,440 --> 00:20:04,880
+Theo tính chất của hai đại lượng tỷ lệ thuận, ta suy ra $a'/a = 1/n$.
+
+118
+00:20:09,760 --> 00:20:20,200
+Thì thay thế $n = 4/3$ vào biểu thức, và $a = 1.2\ \text{mm}$, chúng ta sẽ tính được $a' = 0.9\ \text{mm}$.
+
+119
+00:20:27,920 --> 00:20:42,800
+Ta sang ví dụ tiếp theo: Tiến hành thí nghiệm Young về giao thoa ánh sáng, nguồn sáng phát ra ánh sáng đơn sắc có bước sóng $\lambda$ chạy từ 380 nm đến 760 nm.
+
+120
+00:20:44,280 --> 00:20:51,680
+Khoảng cách giữa hai khe là 1 mm, khoảng cách từ mặt phẳng chứa hai khe đến màn là 1 mét.
+
+121
+00:20:51,680 --> 00:21:10,080
+Trên màn, hai điểm A và B là vị trí vân sáng đối xứng với nhau qua vân trung tâm O, cũng là vị trí vân sáng biết A, B, O cùng nằm trên một đường thẳng vuông góc với các vân giao thoa.
+
+122
+00:21:10,080 --> 00:21:13,760
+$AB = 6.6\ \text{mm}$, $BC = 4.4\ \text{mm}$.
+
+123
+00:21:16,040 --> 00:21:19,840
+Như vậy giá trị của $\lambda$ bằng bao nhiêu?
+
+124
+00:21:19,840 --> 00:21:32,680
+Ta cùng giải quyết bài toán: A và B là hai vân sáng đối xứng nhau qua trung tâm cho nên $OA = OB = 3.3\ \text{mm}$, tức là $x_A = x_B = 3.3\ \text{mm}$.
+
+125
+00:21:34,480 --> 00:21:38,960
+Trong khi đó, $OC = 4.4 - 3.3 = 1.1\ \text{mm}$.
+
+126
+00:21:42,760 --> 00:21:49,000
+Vị trí vân sáng là $x = k \lambda D/a$ hay nói cách khác là $k y$.
+
+127
+00:21:50,640 --> 00:21:56,320
+Như vậy $\lambda = (x_{sáng} \cdot a) / (k \cdot D)$.
+
+128
+00:21:56,320 --> 00:21:59,640
+Từ đó ta rút ra được $\lambda = 1.1 / k$.
+
+129
+00:22:01,760 --> 00:22:11,960
+Bất kỳ đại lượng nào kẹp giữa thì chúng ta sẽ có xu hướng cô lập đại lượng đó để bấm mode 7 hoặc mode 8.
+
+130
+00:22:11,960 --> 00:22:21,680
+Thì tương tự với câu phía trên, chúng ta dùng phương pháp mode 8 sẽ ra $k=2$ và giá trị $\lambda = 0.55\ \mu\text{m}$.
+
+131
+00:22:26,960 --> 00:22:29,120
+Đáp án của chúng ta là 550 nm.
+
+132
+00:22:32,120 --> 00:22:43,080
+Trường Đại học Quốc tế Sài Gòn SIU không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SIU nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt.
+
+133
+00:22:43,080 --> 00:22:53,880
+SIU mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới, trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.
+
+134
+00:22:53,880 --> 00:23:02,480
+Năm 2024, SIU tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng bốn phương thức tuyển sinh.
+
+135
+00:23:02,480 --> 00:23:29,000
+SIU cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SIU, 100 suất học bổng "Tiếp bước hành trình" quỹ tài năng trẻ, học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa, thể thao, nghệ thuật; Học bổng đồng hành xây dựng nhân lực chất lượng cao cho thành phố Thủ Đức, thành phố Hồ Chí Minh; Học bổng doanh nghiệp tài trợ, học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.
+
+136
+00:23:29,000 --> 00:23:33,040
+SIU: Tâm hồn Việt Nam, giáo dục thế giới.
+
+137
+00:23:33,040 --> 00:23:52,000
+Chúng ta bước sang câu số bảy: Trong thí nghiệm Young về giao thoa ánh sáng, hai khe được chiếu bằng ánh sáng gồm hai thành phần đơn sắc có bước sóng $\lambda_1 = 558\ \text{nm}$ và $\lambda_2$ nằm trong khoảng 395 đến 760.
+
+138
+00:23:53,040 --> 00:23:59,240
+Trên màn quan sát thu được vạch sáng là các quang phổ của hai bức xạ trên.
+
+139
+00:23:59,240 --> 00:24:04,040
+Hai quang phổ trùng nhau cũng là một vạch sáng trên màn.
+
+140
+00:24:04,040 --> 00:24:15,040
+Xét bốn vạch sáng liên tiếp là M, N, P, Q thì khoảng cách MN và NP, PQ lần lượt là 2, 4.5, 4.5.
+
+141
+00:24:16,640 --> 00:24:20,840
+Giá trị $\lambda_2$ gần nhất với giá trị nào?
+
+142
+00:24:20,840 --> 00:24:25,360
+Thì ở đây chúng ta thấy rằng $y = \lambda D/a$.
+
+143
+00:24:26,120 --> 00:24:32,360
+Như vậy $y$ và $\lambda$ thì tỷ lệ thuận, ta dễ dàng lập được biểu thức $y_2/y_1 = \lambda_2/\lambda_1$.
+
+144
+00:24:35,760 --> 00:24:46,560
+Để đơn giản bài toán, ta giả sử màu của $\lambda_1$ là màu đỏ, màu của $\lambda_2$ là màu vàng.
+
+145
+00:24:46,560 --> 00:25:01,520
+Thì ban đầu giả sử MN là vân sáng của bước sóng 1, PQ là vân sáng của bước sóng 2 vì đây là bốn vân sáng liên tiếp.
+
+146
+00:25:01,520 --> 00:25:07,320
+Như vậy ta thấy rằng $y_1 = 2\ \text{mm}$ và $y_2 = 4.5\ \text{mm}$.
+
+147
+00:25:09,200 --> 00:25:13,400
+Như vậy dễ dàng tính được rằng $\lambda_2 = 1255.5\ \text{nm}$.
+
+148
+00:25:16,760 --> 00:25:22,200
+Trường hợp này ta loại vì $\lambda_2$ chạy từ 395 cho đến 760 nm.
+
+149
+00:25:24,480 --> 00:25:34,040
+Trường hợp hai: ngược lại MN là vân sáng của $\lambda_2$, trong khi đó PQ là vân sáng của $\lambda_1$.
+
+150
+00:25:34,960 --> 00:25:41,160
+Như vậy ta sẽ có $y_1 = 4.5\ \text{mm}$, $y_2 = 2\ \text{mm}$.
+
+151
+00:25:45,280 --> 00:25:47,160
+Từ đó $\lambda_2 = 248\ \text{nm}$.
+
+152
+00:25:49,880 --> 00:25:53,800
+Thì chúng ta loại vì $\lambda_2 > 395\ \text{nm}$.
+
+153
+00:25:57,360 --> 00:26:07,120
+Trường hợp ba: M và P là vân sáng của $\lambda_1$, N và Q là vân sáng của $\lambda_2$.
+
+154
+00:26:09,000 --> 00:26:16,560
+Thì chúng ta có $y_1 = 6.5\ \text{mm}$, trong khi đó $y_2 = 9\ \text{mm}$.
+
+155
+00:26:18,480 --> 00:26:21,520
+Từ đây ta tính được $\lambda_2 = 772.6\ \text{nm}$.
+
+156
+00:26:24,560 --> 00:26:28,480
+Chúng ta cũng loại trường hợp này vì $\lambda_2 < 760\ \text{nm}$.
+
+157
+00:26:30,240 --> 00:26:41,320
+Như vậy trường hợp cuối cùng: M và P là vân sáng của $\lambda_2$, N và Q là vân sáng của $\lambda_1$.
+
+158
+00:26:42,200 --> 00:26:47,680
+Như vậy ta được $y_1 = 9\ \text{mm}$, trong khi đó $y_2 = 6.5\ \text{mm}$.
+
+159
+00:26:49,160 --> 00:26:59,200
+Từ đó ta xác định được $\lambda_2 = 403\ \text{nm}$ là thỏa điều kiện của bài toán.
+
+160
+00:26:59,200 --> 00:27:02,880
+Như vậy đáp án của chúng ta là D: 405 nm.
+
+161
+00:27:05,360 --> 00:27:10,160
+Bài tập ví dụ số bảy đã khép lại buổi chuyên đề ngày hôm nay.
+
+162
+00:27:10,160 --> 00:27:15,080
+Chúc các em học tốt và hẹn gặp lại các em ở chuyên đề sau.

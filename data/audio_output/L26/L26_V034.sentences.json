@@ -1,0 +1,746 @@
+{
+  "video_id": "L26_V034",
+  "fps": 25.0,
+  "n_sentences": 43,
+  "total_words": 966,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.48,
+      "end": 12.24,
+      "n_words": 4,
+      "start_frame": 262,
+      "end_frame": 306,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đầu tiên sẽ có mùi thơm đặc trưng của sả, cà ri và lá quế.",
+      "start": 12.24,
+      "end": 16.72,
+      "n_words": 15,
+      "start_frame": 306,
+      "end_frame": 418,
+      "keyframes": [
+        "000356.webp",
+        "000412.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thêm chút ngọt mùi của nước cốt dừa, chút béo béo của sốt Maggi Aji-no-moto.",
+      "start": 16.72,
+      "end": 20.52,
+      "n_words": 15,
+      "start_frame": 418,
+      "end_frame": 513,
+      "keyframes": [
+        "000427.webp",
+        "000445.webp",
+        "000464.webp",
+        "000465.webp",
+        "000484.webp",
+        "000503.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thịt bê mềm ngọt, nước xào xanh sánh, ăn kèm bánh mì ngon thích mê.",
+      "start": 20.52,
+      "end": 45.64,
+      "n_words": 15,
+      "start_frame": 513,
+      "end_frame": 1141,
+      "keyframes": [
+        "000518.webp",
+        "000554.webp",
+        "000590.webp",
+        "000591.webp",
+        "000633.webp",
+        "000676.webp",
+        "000677.webp",
+        "000798.webp",
+        "000919.webp",
+        "000920.webp",
+        "000967.webp",
+        "001015.webp",
+        "001016.webp",
+        "001052.webp",
+        "001089.webp",
+        "001090.webp",
+        "001117.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Rất vui mừng gặp lại các bạn trong chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành. Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 45.64,
+      "end": 54.72,
+      "n_words": 29,
+      "start_frame": 1141,
+      "end_frame": 1368,
+      "keyframes": [
+        "001144.webp",
+        "001145.webp",
+        "001257.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Em chào cô.",
+      "start": 54.72,
+      "end": 55.76,
+      "n_words": 3,
+      "start_frame": 1368,
+      "end_frame": 1394,
+      "keyframes": [
+        "001369.webp",
+        "001370.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Để Tuấn nói cho các bạn nghe, cô Thu Hà là người Tây Ninh đó.",
+      "start": 56.24,
+      "end": 59.08,
+      "n_words": 15,
+      "start_frame": 1406,
+      "end_frame": 1477,
+      "keyframes": [
+        "001459.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Người Tây Ninh mà lại làm đầu bếp nữa, nên là cái gì là món đặc sản của vùng đó mình phải trao lại cho chính chủ.",
+      "start": 59.08,
+      "end": 66.4,
+      "n_words": 27,
+      "start_frame": 1477,
+      "end_frame": 1660,
+      "keyframes": [
+        "001549.webp",
+        "001550.webp",
+        "001601.webp",
+        "001653.webp",
+        "001654.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nay em đem đến cho cô một miếng thịt bê đặc sản Tây Ninh luôn, em nhờ cô làm món gì đó mà gọi là \"lay động lòng người\" với món thịt bê.",
+      "start": 66.4,
+      "end": 73.88,
+      "n_words": 33,
+      "start_frame": 1660,
+      "end_frame": 1847,
+      "keyframes": [
+        "001681.webp",
+        "001708.webp",
+        "001709.webp",
+        "001747.webp",
+        "001785.webp",
+        "001786.webp",
+        "001813.webp",
+        "001840.webp",
+        "001841.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Hôm nay thì chúng ta sẽ làm món thịt bê xào lăn.",
+      "start": 73.88,
+      "end": 77.04,
+      "n_words": 12,
+      "start_frame": 1847,
+      "end_frame": 1926,
+      "keyframes": [
+        "001916.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và theo chuyên gia dinh dưỡng Tiến sĩ Đào Thị Yến Phi thì món ăn này sẽ có công dụng là giúp hỗ trợ xây dựng khối cơ xương rất là tốt.",
+      "start": 77.04,
+      "end": 84.76,
+      "n_words": 32,
+      "start_frame": 1926,
+      "end_frame": 2119,
+      "keyframes": [
+        "001991.webp",
+        "001992.webp",
+        "002054.webp",
+        "002117.webp",
+        "002118.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ thì cô sẽ cắt lát thịt bê dày khoảng 2 ly ha.",
+      "start": 84.76,
+      "end": 88.12,
+      "n_words": 14,
+      "start_frame": 2119,
+      "end_frame": 2203,
+      "keyframes": [
+        "002157.webp",
+        "002196.webp",
+        "002197.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thịt bê thì các bạn thấy rất là mềm ngon, thơm mọng, nước lại còn rất giàu protein, rất là phù hợp để cho tất cả các bạn có thể xây dựng khối cơ xương.",
+      "start": 88.12,
+      "end": 97.68,
+      "n_words": 35,
+      "start_frame": 2203,
+      "end_frame": 2442,
+      "keyframes": [
+        "002291.webp",
+        "002386.webp",
+        "002387.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ngoài ra thì còn bổ sung thêm kẽm và sắt, đây là những vi lượng cần thiết cho cơ thể của mình.",
+      "start": 97.68,
+      "end": 101.76,
+      "n_words": 22,
+      "start_frame": 2442,
+      "end_frame": 2544,
+      "keyframes": [
+        "002462.webp",
+        "002538.webp",
+        "002539.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta sẽ ướp gia vị vào trong thịt bê nha các bạn.",
+      "start": 101.76,
+      "end": 104.24,
+      "n_words": 13,
+      "start_frame": 2544,
+      "end_frame": 2606,
+      "keyframes": [
+        "002558.webp",
+        "002578.webp",
+        "002579.webp",
+        "002592.webp",
+        "002605.webp",
+        "002606.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Mình sẽ cho vào đây một muỗng cà phê hạt nêm Aji-no-moto heo, nửa muỗng cà phê đường, một muỗng canh bột cà ri, một muỗng canh hành và tỏi băm, một muỗng canh sốt Maggi Aji-no-moto vị nguyên bản.",
+      "start": 104.24,
+      "end": 118.72,
+      "n_words": 40,
+      "start_frame": 2606,
+      "end_frame": 2968,
+      "keyframes": [
+        "002606.webp",
+        "002681.webp",
+        "002756.webp",
+        "002757.webp",
+        "002781.webp",
+        "002806.webp",
+        "002807.webp",
+        "002843.webp",
+        "002879.webp",
+        "002880.webp",
+        "002900.webp",
+        "002921.webp",
+        "002922.webp",
+        "002946.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Trong món ăn này thì chúng ta sử dụng sốt Maggi Aji-no-moto vị nguyên bản ướp và sau đó nấu nữa để tăng hương vị cho món ăn.",
+      "start": 118.72,
+      "end": 127.52,
+      "n_words": 28,
+      "start_frame": 2968,
+      "end_frame": 3188,
+      "keyframes": [
+        "002970.webp",
+        "002971.webp",
+        "003028.webp",
+        "003086.webp",
+        "003087.webp",
+        "003144.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi bây giờ chúng ta sẽ sơ chế các nguyên liệu còn lại.",
+      "start": 127.52,
+      "end": 130.8,
+      "n_words": 13,
+      "start_frame": 3188,
+      "end_frame": 3270,
+      "keyframes": [
+        "003201.webp",
+        "003202.webp",
+        "003248.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nấm đông cô mình sẽ cắt sợi khoảng chừng 2 ly, nấm mèo cũng vậy, chúng ta cũng sẽ cắt sợi khoảng chừng dày 2 ly.",
+      "start": 130.8,
+      "end": 141.32,
+      "n_words": 26,
+      "start_frame": 3270,
+      "end_frame": 3533,
+      "keyframes": [
+        "003295.webp",
+        "003296.webp",
+        "003335.webp",
+        "003374.webp",
+        "003375.webp",
+        "003431.webp",
+        "003487.webp",
+        "003488.webp",
+        "003511.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Sả thì mình sẽ đập dập và cắt khúc.",
+      "start": 141.32,
+      "end": 149.76,
+      "n_words": 9,
+      "start_frame": 3533,
+      "end_frame": 3744,
+      "keyframes": [
+        "003534.webp",
+        "003535.webp",
+        "003581.webp",
+        "003628.webp",
+        "003629.webp",
+        "003667.webp",
+        "003705.webp",
+        "003706.webp",
+        "003726.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Ớt sừng thì chúng ta sẽ cắt lát xéo, hành tây thì chúng ta sẽ cắt múi cau.",
+      "start": 149.76,
+      "end": 163.12,
+      "n_words": 18,
+      "start_frame": 3744,
+      "end_frame": 4078,
+      "keyframes": [
+        "003747.webp",
+        "003748.webp",
+        "003800.webp",
+        "003852.webp",
+        "003853.webp",
+        "003876.webp",
+        "003899.webp",
+        "003900.webp",
+        "003927.webp",
+        "003954.webp",
+        "003955.webp",
+        "003987.webp",
+        "004020.webp",
+        "004021.webp",
+        "004051.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Cuối cùng là lá quế thì chúng ta sẽ lấy một nửa, mình sẽ cắt rối.",
+      "start": 163.12,
+      "end": 167.96,
+      "n_words": 16,
+      "start_frame": 4078,
+      "end_frame": 4199,
+      "keyframes": [
+        "004082.webp",
+        "004083.webp",
+        "004110.webp",
+        "004137.webp",
+        "004138.webp",
+        "004171.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta đã chuẩn bị sơ chế các phần nguyên liệu xong hết rồi, giờ thì chúng ta sẽ bắt đầu xào thịt bê.",
+      "start": 167.96,
+      "end": 173.52,
+      "n_words": 24,
+      "start_frame": 4199,
+      "end_frame": 4338,
+      "keyframes": [
+        "004205.webp",
+        "004206.webp",
+        "004233.webp",
+        "004260.webp",
+        "004261.webp",
+        "004298.webp",
+        "004336.webp",
+        "004337.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Bây giờ thì mình sẽ cho phần lá quế này vô, mình chiên phần lá quế này là phần lá quế mà để nguyên rồi nha, và mình lại lau khô nha các bạn nha.",
+      "start": 173.52,
+      "end": 181.28,
+      "n_words": 35,
+      "start_frame": 4338,
+      "end_frame": 4532,
+      "keyframes": [
+        "004372.webp",
+        "004407.webp",
+        "004408.webp",
+        "004444.webp",
+        "004481.webp",
+        "004482.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và lá quế mà nó chín thì nó sẽ rất là trong và đẹp mắt nữa.",
+      "start": 181.28,
+      "end": 185.48,
+      "n_words": 16,
+      "start_frame": 4532,
+      "end_frame": 4637,
+      "keyframes": [
+        "004586.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Sau đó thì mình sẽ chắt bớt dầu ở trong chảo ra, mình sẽ cho sả vô, cho một nửa cái phần ớt cắt lát rồi bây giờ mình sẽ cho cái phần thịt bê đã ướp vào đây.",
+      "start": 185.48,
+      "end": 197.64,
+      "n_words": 39,
+      "start_frame": 4637,
+      "end_frame": 4941,
+      "keyframes": [
+        "004690.webp",
+        "004691.webp",
+        "004709.webp",
+        "004728.webp",
+        "004729.webp",
+        "004764.webp",
+        "004799.webp",
+        "004800.webp",
+        "004834.webp",
+        "004868.webp",
+        "004869.webp",
+        "004905.webp",
+        "004941.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Các bạn lưu ý là chúng ta nên xào thịt bê với lửa to để thịt bê mềm và thấm vị nhé.",
+      "start": 197.64,
+      "end": 202.28,
+      "n_words": 22,
+      "start_frame": 4941,
+      "end_frame": 5057,
+      "keyframes": [
+        "004941.webp",
+        "004942.webp",
+        "004999.webp",
+        "005057.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Sau khi mà thịt bê đã xong rồi, bây giờ chúng ta sẽ cho nấm đông cô vào đảo đều và bây giờ chúng ta sẽ cho khoảng chừng hai chén nước dừa vào đây.",
+      "start": 202.28,
+      "end": 209.84,
+      "n_words": 35,
+      "start_frame": 5057,
+      "end_frame": 5246,
+      "keyframes": [
+        "005057.webp",
+        "005058.webp",
+        "005098.webp",
+        "005139.webp",
+        "005140.webp",
+        "005192.webp",
+        "005245.webp",
+        "005246.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta sẽ cho nước dừa vào nấu trước sau đó thì mới cho nước cốt dừa để nước cốt dừa không có bị vón cục nhé.",
+      "start": 209.84,
+      "end": 216.52,
+      "n_words": 27,
+      "start_frame": 5246,
+      "end_frame": 5413,
+      "keyframes": [
+        "005246.webp",
+        "005289.webp",
+        "005332.webp",
+        "005333.webp",
+        "005371.webp",
+        "005410.webp",
+        "005411.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Chúng ta sẽ nêm vào hai muỗng cà phê hạt nêm Aji-no-moto heo, nửa muỗng cà phê đường và một muỗng canh sốt Maggi Aji-no-moto vị nguyên bản, chút nó sẽ tan từ từ ra.",
+      "start": 216.52,
+      "end": 230.4,
+      "n_words": 35,
+      "start_frame": 5413,
+      "end_frame": 5760,
+      "keyframes": [
+        "005427.webp",
+        "005444.webp",
+        "005445.webp",
+        "005470.webp",
+        "005496.webp",
+        "005497.webp",
+        "005523.webp",
+        "005550.webp",
+        "005551.webp",
+        "005588.webp",
+        "005625.webp",
+        "005626.webp",
+        "005661.webp",
+        "005696.webp",
+        "005697.webp",
+        "005729.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Tiếp theo bây giờ cô sẽ cho hành tây và ớt còn lại vô nè nha, mộc nhĩ đó là nấm mèo, bún tàu luôn ạ.",
+      "start": 230.4,
+      "end": 239.4,
+      "n_words": 26,
+      "start_frame": 5760,
+      "end_frame": 5985,
+      "keyframes": [
+        "005762.webp",
+        "005763.webp",
+        "005823.webp",
+        "005883.webp",
+        "005884.webp",
+        "005913.webp",
+        "005942.webp",
+        "005943.webp",
+        "005969.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Rồi tiếp tục là mình sẽ cho vô là nước cốt dừa nha.",
+      "start": 239.4,
+      "end": 243.52,
+      "n_words": 13,
+      "start_frame": 5985,
+      "end_frame": 6088,
+      "keyframes": [
+        "005996.webp",
+        "005997.webp",
+        "006011.webp",
+        "006025.webp",
+        "006026.webp",
+        "006056.webp",
+        "006086.webp",
+        "006087.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta đợi cho cái phần nước cốt này đều ra rồi bây giờ em có thể tắt lửa giúp cô được rồi.",
+      "start": 243.52,
+      "end": 248.64,
+      "n_words": 23,
+      "start_frame": 6088,
+      "end_frame": 6216,
+      "keyframes": [
+        "006156.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ngay bên cạnh, một món ăn thơm lừng hấp dẫn thế này là một mã QR các bạn có thể quét mã này để có công thức nấu ăn để thực hiện tại nhà và cùng thưởng thức với Minh Tuấn và cô Thu Hà ha.",
+      "start": 248.64,
+      "end": 259.68,
+      "n_words": 46,
+      "start_frame": 6216,
+      "end_frame": 6492,
+      "keyframes": [
+        "006226.webp",
+        "006227.webp",
+        "006330.webp",
+        "006433.webp",
+        "006434.webp",
+        "006458.webp",
+        "006483.webp",
+        "006484.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Giờ nó thơm lừng luôn nguyên cái gian bếp mình rứa lên.",
+      "start": 259.68,
+      "end": 264.8,
+      "n_words": 12,
+      "start_frame": 6492,
+      "end_frame": 6620,
+      "keyframes": [
+        "006515.webp",
+        "006547.webp",
+        "006548.webp",
+        "006574.webp",
+        "006600.webp",
+        "006601.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Một ít nước sốt nha, rắc lên này là đậu phộng rang, cô sẽ cho lá húng quế lên đây.",
+      "start": 264.8,
+      "end": 272.6,
+      "n_words": 20,
+      "start_frame": 6620,
+      "end_frame": 6815,
+      "keyframes": [
+        "006638.webp",
+        "006675.webp",
+        "006676.webp",
+        "006699.webp",
+        "006723.webp",
+        "006724.webp",
+        "006752.webp",
+        "006780.webp",
+        "006781.webp",
+        "006809.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Bây giờ thì mời Minh Tuấn.",
+      "start": 272.6,
+      "end": 275.88,
+      "n_words": 6,
+      "start_frame": 6815,
+      "end_frame": 6897,
+      "keyframes": [
+        "006838.webp",
+        "006839.webp",
+        "006874.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Á em kiềm chế từ nãy đến giờ rồi mà cô không cho em thử.",
+      "start": 275.88,
+      "end": 279.52,
+      "n_words": 15,
+      "start_frame": 6897,
+      "end_frame": 6988,
+      "keyframes": [
+        "006910.webp",
+        "006911.webp",
+        "006959.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đây cái miếng thịt nó tưới nước rồi, ngọt thơm lừng béo ngậy, rất là thơm mọi người ạ.",
+      "start": 279.52,
+      "end": 296.8,
+      "n_words": 19,
+      "start_frame": 6988,
+      "end_frame": 7420,
+      "keyframes": [
+        "007008.webp",
+        "007009.webp",
+        "007100.webp",
+        "007192.webp",
+        "007193.webp",
+        "007242.webp",
+        "007291.webp",
+        "007292.webp",
+        "007332.webp",
+        "007373.webp",
+        "007374.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Mùi nấm nè, vị ngọt của thịt bê nè, chúng ta có một cái vị béo rất đặc trưng và cái vị béo này mình cảm nhận rất rõ luôn, vị béo của Maggi Ajinomoto rất là ngon.",
+      "start": 296.8,
+      "end": 307.2,
+      "n_words": 38,
+      "start_frame": 7420,
+      "end_frame": 7680,
+      "keyframes": [
+        "007466.webp",
+        "007559.webp",
+        "007560.webp",
+        "007620.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Để đạt hiệu quả dinh dưỡng thì ở dưới đây có một bản thực đơn trong một ngày, trong đó chúng ta có sử dụng món ăn ngày hôm nay các bạn hãy tham khảo nha, như là món ăn của ngày hôm nay: bê xào lăn, các bạn hãy thực hiện ngay tại nhà nhé.",
+      "start": 307.48,
+      "end": 322.44,
+      "n_words": 56,
+      "start_frame": 7687,
+      "end_frame": 8061,
+      "keyframes": [
+        "007765.webp",
+        "007849.webp",
+        "007854.webp",
+        "007913.webp",
+        "007973.webp",
+        "007974.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Công thức sẽ luôn có trên YouTube, website và fanpage của chương trình để mọi người có thể tham khảo.",
+      "start": 322.44,
+      "end": 326.72,
+      "n_words": 20,
+      "start_frame": 8061,
+      "end_frame": 8168,
+      "keyframes": [
+        "008083.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúc các bạn thành công!",
+      "start": 326.72,
+      "end": 328.56,
+      "n_words": 5,
+      "start_frame": 8168,
+      "end_frame": 8214,
+      "keyframes": [
+        "008193.webp",
+        "008194.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

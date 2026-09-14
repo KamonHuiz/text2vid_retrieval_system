@@ -1,0 +1,452 @@
+1
+00:00:07,760 --> 00:00:13,640
+Chào mừng các em đến với buổi ôn thi tốt nghiệp trung học phổ thông môn Vật lý năm 2024.
+
+2
+00:00:14,520 --> 00:00:16,840
+Chương trình do Báo Thanh Niên tổ chức.
+
+3
+00:00:16,840 --> 00:00:27,680
+Trường Đại học Quốc tế Sài Gòn (SIU) không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SIU nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt.
+
+4
+00:00:27,680 --> 00:00:39,000
+SIU mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới, trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu năm 2024.
+
+5
+00:00:40,400 --> 00:00:47,080
+SIU tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng 4 phương thức tuyển sinh.
+
+6
+00:00:47,080 --> 00:01:02,720
+SIU cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SIU, 100 suất học bổng Tiếp bước hành trình Quỹ tài năng trẻ, học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc, sinh viên có thành tích xuất sắc trong các hoạt động văn hóa, thể thao, nghệ thuật.
+
+7
+00:01:02,720 --> 00:01:13,600
+Học bổng Đồng hành xây dựng nhân lực chất lượng cao cho thành phố Thủ Đức, thành phố Hồ Chí Minh; Học bổng doanh nghiệp tài trợ; Học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.
+
+8
+00:01:13,600 --> 00:01:17,200
+"Sâu tâm hồn Việt Nam, giáo dục thế giới".
+
+9
+00:01:17,200 --> 00:01:25,320
+Đến với chuyên đề ngày hôm nay, chúng ta sẽ sang chuyên đề bài mạch dao động và sóng điện từ.
+
+10
+00:01:25,320 --> 00:01:31,920
+Chúng ta cũng sang một số kiến thức trọng tâm của mạch dao động và sóng điện từ.
+
+11
+00:01:31,920 --> 00:01:36,000
+Thứ nhất, ta làm quen với mạch dao động LC.
+
+12
+00:01:36,000 --> 00:01:51,160
+Phương trình điện tích tức thời $q = Q_0 \cos(\omega t + \phi)$, điện áp tức thời $u = q/C = (Q_0/C) \cos(\omega t + \phi) = U_0 \cos(\omega t + \phi)$.
+
+13
+00:01:51,160 --> 00:02:03,440
+Như vậy, chúng ta thấy rằng $q$ và $u$ là hai đại lượng cùng pha với nhau, trong đó $U_0 = Q_0/C$.
+
+14
+00:02:05,960 --> 00:02:13,560
+Dòng điện tức thời $i = dq/dt = I_0 \cos(\omega t + \phi + \pi/2)$.
+
+15
+00:02:14,880 --> 00:02:32,160
+Như vậy, ta thấy rằng dòng điện tức thời $i$ sớm pha hơn $u$ và sớm pha hơn $q$ một góc là $\pi/2$, tức là $i$ vuông pha với $u$ và $q$, trong đó $I_0 = \omega Q_0$.
+
+16
+00:02:35,840 --> 00:02:50,000
+Về tần số góc $\omega$, phụ thuộc vào cấu tạo của mạch điện có tụ điện dung là $C$ và cuộn cảm độ tự cảm là $L$.
+
+17
+00:02:50,000 --> 00:02:59,320
+$\omega = 1/\sqrt{LC}$, chu kỳ $T = 2\pi\sqrt{LC}$ và tần số $f = 1/(2\pi\sqrt{LC})$.
+
+18
+00:03:03,720 --> 00:03:09,400
+Biểu thức liên hệ hay còn gọi là biểu thức vuông pha là $(i/I_0)^2 + (u/U_0)^2 = 1$.
+
+19
+00:03:13,400 --> 00:03:18,920
+Tương tự như vậy, vì $i$ vuông pha với $q$ nên $(i/I_0)^2 + (q/Q_0)^2 = 1$.
+
+20
+00:03:24,160 --> 00:03:30,200
+Về năng lượng điện từ của mạch là gồm có năng lượng điện cộng năng lượng từ.
+
+21
+00:03:30,200 --> 00:03:46,120
+Năng lượng điện thì tập trung ở tụ điện, năng lượng từ thì tập trung ở cuộn cảm: $W = 1/2 C u^2 + 1/2 L i^2 = 1/2 C U_0^2 = 1/2 L I_0^2$.
+
+22
+00:03:52,880 --> 00:03:59,400
+Từ đó, chúng ta có từ mạch dao động ta sẽ có sóng điện từ.
+
+23
+00:03:59,400 --> 00:04:06,240
+Mạch dao động tạo ra sóng điện từ là điện từ trường lan truyền trong không gian.
+
+24
+00:04:06,560 --> 00:04:13,000
+Sóng điện từ có một số đặc điểm như sau: Tốc độ của sóng điện từ trong chân không là $3 \times 10^8$ m/s.
+
+25
+00:04:14,560 --> 00:04:18,160
+Bước sóng $\lambda = c/f = c \cdot T$.
+
+26
+00:04:19,520 --> 00:04:24,600
+Lúc này không phải là $v$ nữa mà trong chân không thì là $c$.
+
+27
+00:04:24,600 --> 00:04:34,000
+Sóng điện từ là sóng ngang, $E$ và $B$ cùng pha, vuông góc với nhau và vuông góc với vận tốc.
+
+28
+00:04:34,000 --> 00:04:41,600
+Sóng điện từ có tính chất phản xạ và khúc xạ, nhiễu xạ như ánh sáng.
+
+29
+00:04:41,600 --> 00:04:44,400
+Sóng điện từ mang năng lượng.
+
+30
+00:04:44,400 --> 00:04:53,960
+Sóng điện từ có bước sóng từ vài milimét đến vài km dùng trong thông tin liên lạc gọi là sóng vô tuyến.
+
+31
+00:04:53,960 --> 00:05:03,440
+Chúng ta chia sóng vô tuyến làm bốn loại: sóng cực ngắn, sóng ngắn, sóng trung và sóng dài.
+
+32
+00:05:03,440 --> 00:05:10,120
+Đối với mạch LC thì bước sóng sẽ là $\lambda = 2\pi c \sqrt{LC}$.
+
+33
+00:05:10,120 --> 00:05:11,760
+Ở đây là $3 \times 10^8$ nhân căn $LC$.
+
+34
+00:05:15,560 --> 00:05:27,040
+Và chúng ta nhận xét rằng là $\lambda$ thì tỷ lệ thuận với căn bậc hai của $C$, nhưng đồng thời $\lambda$ thì tỷ lệ nghịch với $f$.
+
+35
+00:05:27,040 --> 00:05:30,120
+Vì vậy ta được $\lambda_1/\lambda_2 = f_2/f_1 = \sqrt{C_1/C_2}$.
+
+36
+00:05:36,080 --> 00:05:42,040
+Tương tự như vậy, $\lambda$ tỷ lệ thuận với căn bậc hai của $L$: $\lambda_1/\lambda_2 = f_2/f_1 = \sqrt{L_1/L_2}$.
+
+37
+00:05:51,120 --> 00:06:04,560
+Nguyên tắc truyền thông tin liên lạc thì chúng ta thấy rằng nguyên tắc chung thì ta dùng sóng điện từ cao tần để tải thông tin gọi là sóng mang.
+
+38
+00:06:04,560 --> 00:06:09,640
+Biến điệu sóng mang là trộn sóng âm tần với sóng mang.
+
+39
+00:06:09,640 --> 00:06:18,240
+Ở nơi thu thì dùng mạch tách sóng âm tần ra khỏi sóng mang và cuối cùng là ta khuếch đại tín hiệu thu được.
+
+40
+00:06:18,240 --> 00:06:44,920
+Thì đây là sơ đồ khối của máy phát thanh: một là micro, hai là mạch phát sóng điện từ cao tần, ba là mạch biến điệu hay còn gọi là mạch trộn sóng âm tần với sóng mang, bốn là mạch khuếch đại và cuối cùng là anten phát.
+
+41
+00:06:44,920 --> 00:07:10,720
+Và đây là sơ đồ khối máy thu thanh: một là anten, hai là mạch khuếch đại, ba là mạch tách sóng, tách sóng âm tần ra khỏi sóng cao tần và cuối cùng bốn là mạch khuếch đại và cuối cùng là loa.
+
+42
+00:07:10,720 --> 00:07:21,320
+Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến, hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.
+
+43
+00:07:21,320 --> 00:07:28,960
+Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện, cân bằng giữa học thuật và nghệ thuật, thể thao.
+
+44
+00:07:28,960 --> 00:07:39,600
+Hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, khơi nguồn cảm hứng, độc lập để phát triển và hoàn thiện nhân cách.
+
+45
+00:07:39,600 --> 00:07:59,760
+Ngoài những giờ học trên lớp, học sinh Trường Quốc tế Á Châu còn được trải nghiệm, thử thách bản thân và phản biện các vấn đề để tự mình học hỏi, trưởng thành độc lập hơn.
+
+46
+00:07:59,760 --> 00:08:15,200
+Nơi đây với tôi còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.
+
+47
+00:08:15,200 --> 00:08:20,320
+Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là cuộc sống.
+
+48
+00:08:20,320 --> 00:08:33,960
+Từ môi trường giáo dục này, chúng tôi đã tự tin bước tiếp và viết nên câu chuyện tương lai của chính mình.
+
+49
+00:08:33,960 --> 00:08:49,040
+Như vậy, máy phát thanh thì phải có mạch trộn hay còn gọi là mạch biến điệu, còn máy thu thanh thì phải có mạch tách sóng.
+
+50
+00:08:49,040 --> 00:08:59,440
+Ta sang một số bài tập ví dụ:
+Câu số 1: Trong thông tin liên lạc bằng sóng vô tuyến, mạch tách sóng ở máy thu thanh có tác dụng gì?
+
+51
+00:08:59,440 --> 00:09:06,560
+Thì mạch tách sóng ở máy thu thanh thì có tác dụng là tách sóng âm tần ra khỏi sóng cao tần.
+
+52
+00:09:06,560 --> 00:09:09,720
+Câu số 2: Phát biểu nào là đúng?
+
+53
+00:09:09,720 --> 00:09:21,320
+Thì chúng ta thấy rằng sóng điện từ thì mang năng lượng, năng lượng đó là năng lượng điện từ.
+
+54
+00:09:21,320 --> 00:09:31,960
+Câu số 3: Một mạch dao động lý tưởng gồm cuộn cảm thuần có độ tự cảm $5 \text{ mH}$ và tụ điện có điện dung $12 \text{ nF}$.
+
+55
+00:09:32,920 --> 00:09:35,680
+Chu kỳ dao động riêng của mạch là bao nhiêu?
+
+56
+00:09:35,680 --> 00:09:51,920
+Ở đây chúng ta chỉ việc thế số $T = 2\pi\sqrt{LC}$ và đổi đơn vị: nano là $10^{-9}$, mili là $10^{-3}$ thì chúng ta sẽ ra được đáp án là $48.7 \mu\text{s}$.
+
+57
+00:10:05,520 --> 00:10:19,040
+Ta sang ví dụ số 4: Một mạch chọn sóng ở một máy thu thanh là mạch dao động gồm cuộn cảm và tụ điện có điện dung $C$ thay đổi được.
+
+58
+00:10:19,040 --> 00:10:26,440
+Khi $C = C_0$ thì bước sóng của sóng điện từ mà máy này thu được là $\lambda$.
+
+59
+00:10:26,440 --> 00:10:35,040
+Khi $C = 25C_0$ thì bước sóng của sóng điện từ mà máy này thu được là bao nhiêu?
+
+60
+00:10:35,040 --> 00:10:46,720
+Thì chúng ta đã xây dựng được $\lambda = 2\pi c \sqrt{LC}$ và thấy rằng $\lambda$ thì tỷ lệ thuận với căn bậc hai của $C$.
+
+61
+00:10:46,720 --> 00:10:48,520
+Như vậy ta có $\lambda_2/\lambda_1 = \sqrt{C_2/C_1}$.
+
+62
+00:10:53,800 --> 00:11:00,880
+Như vậy dễ dàng $C_2/C_1 = 25$, căn là bằng 5.
+
+63
+00:11:00,880 --> 00:11:04,360
+Như vậy $\lambda_2$ sẽ bằng 5 lần $\lambda_1$.
+
+64
+00:11:05,200 --> 00:11:08,720
+Đáp án là A.
+
+65
+00:11:08,720 --> 00:11:26,640
+Ta sang ví dụ số 5: Một mạch dao động $LC$ lý tưởng đang có dao động điện từ do cường độ dòng điện trong mạch có phương trình là $i = 50 \cos(4000t)$ đơn vị là $\text{mA}$, $t$ tính bằng giây.
+
+66
+00:11:26,640 --> 00:11:35,680
+Tại thời điểm cường độ dòng điện trong mạch là $40 \text{ mA}$, điện tích trên một bản tụ có độ lớn là bao nhiêu?
+
+67
+00:11:35,680 --> 00:11:46,240
+Các em lưu ý "tại thời điểm tức thời" tức là hỏi giá trị tức thời chứ không phải là giá trị hiệu dụng hay giá trị cực đại.
+
+68
+00:11:46,240 --> 00:11:48,640
+Ở đây ta có $I_0 = \omega Q_0$.
+
+69
+00:11:53,040 --> 00:11:57,160
+Như vậy ta sẽ tính được $Q_0 = 12.5 \times 10^{-6} \text{ C}$.
+
+70
+00:11:59,360 --> 00:12:06,560
+Biểu thức $i$ và $q$ vuông pha hay còn gọi là biểu thức liên hệ là $(i/I_0)^2 + (q/Q_0)^2 = 1$.
+
+71
+00:12:10,280 --> 00:12:33,600
+Ta thế số dễ dàng là $(40/50)^2$ (vì $i$ và $I_0$ cùng đơn vị là $\text{mA}$) cộng $(q / (12.5 \times 10^{-6}))^2 = 1$.
+
+72
+00:12:39,720 --> 00:12:44,600
+Thì chúng ta sẽ ra được giá trị $q$ là $7.5 \times 10^{-6} \text{ C}$.
+
+73
+00:12:48,280 --> 00:13:02,800
+Ta sang ví dụ số 6: Một mạch dao động lý tưởng gồm cuộn cảm thuần có độ tự cảm $2 \text{ mH}$ và tụ điện có điện dung là $8 \text{ nF}$.
+
+74
+00:13:02,800 --> 00:13:09,480
+Trong mạch đang có dao động điện từ tự do với hiệu điện thế cực đại giữa hai bản tụ điện là $6\text{V}$.
+
+75
+00:13:10,600 --> 00:13:14,320
+Cường độ dòng điện cực đại trong mạch là bao nhiêu?
+
+76
+00:13:14,320 --> 00:13:21,560
+Thì đây cũng là một bài toán khá đơn giản nhưng thầy muốn các bạn tiếp cận theo hướng năng lượng.
+
+77
+00:13:21,560 --> 00:13:29,680
+Năng lượng thì bằng năng lượng điện cực đại và bằng năng lượng từ cực đại.
+
+78
+00:13:29,680 --> 00:13:45,720
+Thế số ở đây thầy nhắc lại bản đổi đơn vị, đổi đơn vị vào thi buộc lòng các em phải thuộc lòng các bản đơn vị này: mili là $10^{-3}$, nano là $10^{-9}$.
+
+79
+00:13:47,440 --> 00:13:57,360
+Thì chúng ta sẽ được $1/2 \times 8 \times 10^{-9} \times 6^2 = 1/2 \times 2 \times 10^{-3} \times I_0^2$.
+
+80
+00:14:03,160 --> 00:14:08,320
+Như vậy ta sẽ dễ dàng xác định được $I_0 = 12 \times 10^{-3} \text{ A}$.
+
+81
+00:14:11,440 --> 00:14:42,800
+Bài này có rất nhiều cách tiếp cận, các bạn có thể tính $U_0$ thì bằng $\sqrt{L/C} \cdot I_0$, nhưng ở đây thầy muốn các bạn theo hướng về mặt năng lượng để mà nắm được cái biểu thức năng lượng điện cực đại bằng năng lượng từ cực đại.
+
+82
+00:14:42,800 --> 00:14:55,600
+Để có được thành công như hôm nay, tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình bắt đầu từ trường Đại học Quốc tế Sài Gòn (SIU).
+
+83
+00:14:55,600 --> 00:15:02,400
+Đào tạo đa dạng đa lĩnh vực, SIU mở ra cho chúng tôi nhiều cơ hội lựa chọn nghề nghiệp trong tương lai.
+
+84
+00:15:02,400 --> 00:15:06,400
+Tất cả sinh viên đều có cơ hội để thể hiện và phát triển năng lực.
+
+85
+00:15:06,400 --> 00:15:09,680
+Những ý tưởng luôn được khuyến khích và phát huy tối đa.
+
+86
+00:15:09,680 --> 00:15:15,800
+Chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin, chúng tôi được học cách học, cách nghĩ và cách sống.
+
+87
+00:15:15,800 --> 00:15:22,880
+Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.
+
+88
+00:15:22,880 --> 00:15:33,600
+Hiện đại, năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc, đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn (SIU) luôn hướng đến.
+
+89
+00:15:33,600 --> 00:15:42,240
+Đã đến lúc vươn xa hơn những gì đã hứa.
+
+90
+00:15:42,240 --> 00:15:52,320
+Sang ví dụ số 7: Dùng mạch điện như hình bên để tạo ra dao động điện từ ban đầu.
+
+91
+00:15:52,320 --> 00:16:09,040
+Ở đây chúng ta có hình gồm có nguồn điện một chiều và tụ điện cùng với cuộn cảm $L$.
+
+92
+00:16:09,040 --> 00:16:15,200
+Ban đầu khóa $K$ ở chốt A.
+
+93
+00:16:15,200 --> 00:16:21,600
+Khi dòng điện qua nguồn điện ổn định thì chuyển khóa $K$ đóng sang chốt B.
+
+94
+00:16:21,600 --> 00:16:44,360
+Thì ở đây chúng ta nhìn ban đầu ở chốt A thì xem như mạch này là một mạch kín tạo ra được dòng điện một chiều đi từ cực dương sang $R$ và tiếp tục về cực âm, và đồng thời trong quá trình đó là dòng điện đã tích điện cho tụ điện $C$ này.
+
+95
+00:16:44,360 --> 00:16:57,440
+Và khi tụ điện $C$ này được tích điện, khi mà khóa $K$ bật sang ở nút B thì tụ điện $C$ này sẽ xả điện và làm cho mạch dao động.
+
+96
+00:16:57,440 --> 00:17:00,240
+Đó là ý đồ của bài toán.
+
+97
+00:17:00,240 --> 00:17:10,960
+$E = 12\text{V}, R_1 = 2\Omega, R_2 = 5\Omega, L = 1/\pi \text{ mH}$ và $C = 9/10 \mu\text{F}$.
+
+98
+00:17:14,320 --> 00:17:16,320
+Lấy $e = 1.6 \times 10^{-19} \text{ C}$.
+
+99
+00:17:18,160 --> 00:17:32,840
+Trong khoảng thời gian $10 \mu\text{s}$ kể từ thời điểm đóng khóa $K$ với chốt B, có bao nhiêu electron đã chuyển đến bản tụ điện nối với khóa $K$?
+
+100
+00:17:32,840 --> 00:17:43,120
+Ta giải quyết bài toán thì theo định luật Ohm toàn mạch khi ở khóa A thì $i = E / (R_1 + R_2)$.
+
+101
+00:17:45,480 --> 00:18:01,920
+Bởi vì mạch lúc này gồm có hai $R$ nối tiếp nhau, dòng điện chỉ đi qua $R_1$ xuống $R_2$ rồi về cực âm, như vậy sẽ bằng $12/(2+5) \approx 1.7 \text{ A}$.
+
+102
+00:18:01,920 --> 00:18:17,520
+Như vậy $u_C = i \cdot R_2$ (vì tụ điện đang được tích điện, giá trị cực đại bấy nhiêu) là bằng $1.7 \times 5 \approx 8.5\text{V}$.
+
+103
+00:18:25,120 --> 00:18:35,240
+Vậy ta được $Q_0 = C \cdot U_0$ và thế số là $9/10 \times 10^{-6} \times 8.5 \approx 7.65 \times 10^{-6} \text{ C}$.
+
+104
+00:18:43,440 --> 00:18:50,960
+Khi khóa $K$ sang chốt B thì ta có mạch dao động $LC$ với chu kỳ là $T = 2\pi\sqrt{LC}$.
+
+105
+00:18:53,280 --> 00:19:02,760
+Ta thế số thì sẽ bằng $3/5 \times 10^{-4} \text{ s}$, $T = 10 \mu\text{s}$ tức là bằng $T/6$.
+
+106
+00:19:06,480 --> 00:19:20,720
+Như vậy ta xem lại cái trục thời gian của chúng ta, ban đầu là giá trị cực đại đi một đoạn $T/6$ thì đến vị trí nào.
+
+107
+00:19:21,040 --> 00:19:39,960
+Lưu ý rằng đối với trục thời gian thì thầy chỉ dạy các bạn từ 0 đi ra là $T/12$ là $a/2$, là $T/8$ khi đi đến vị trí $a\sqrt{2}/2$, nhưng ở đây chúng ta xuất phát ngược lại là xuất phát từ vị trí biên thì ta có thể làm phép cộng trừ.
+
+108
+00:19:40,280 --> 00:19:55,720
+Ở đây từ vị trí biên mà đi vào vị trí $a/2$ thì nó sẽ còn là $T/6$ vì nguyên đoạn này là $T/4$ từ 0 đến $a$ là $T/4$, ta trừ $T/12$ thì đoạn này là $T/6$.
+
+109
+00:20:01,640 --> 00:20:10,440
+Như vậy chúng ta thấy rằng $q$ giảm từ $Q_0$ cho đến $Q_0/2$.
+
+110
+00:20:11,760 --> 00:20:38,800
+Vậy số $e$ đã chuyển đi đó là $\Delta q$ chia cho điện tích mỗi hạt $e$: $\Delta q = 1/2 Q_0 = 1/2 \times 7.65 \times 10^{-6} / (1.6 \times 10^{-19}) = 2.39 \times 10^{13}$ hạt.
+
+111
+00:20:38,800 --> 00:20:47,760
+Như vậy đã có $10^{13}$ hạt chuyển qua khóa B khi mà cái khóa $K$ này chuyển sang khóa B.
+
+112
+00:20:47,760 --> 00:20:51,520
+Ví dụ số 7 vừa rồi đã kết thúc chuyên đề ngày hôm nay.
+
+113
+00:20:51,520 --> 00:20:56,560
+Chúc các em học tốt và hẹn gặp lại các em ở những chuyên đề sau.

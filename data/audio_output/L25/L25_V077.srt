@@ -1,0 +1,499 @@
+1
+00:00:08,040 --> 00:00:15,520
+Chào mừng quý khán giả quay trở lại với buổi ôn tập thứ hai bộ môn Vật lý.
+
+2
+00:00:15,840 --> 00:00:24,840
+Báo Thanh Niên tổ chức trong chuyên đề thứ hai này, thầy giới thiệu với các bạn các loại dao động và tổng hợp dao động.
+
+3
+00:00:24,840 --> 00:00:45,800
+Để có được thành công như hôm nay, tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình, bắt đầu từ trường Đại học Quốc tế Sài Gòn (SIU), đào tạo đa dạng đa lĩnh vực, SIU mở ra cho chúng tôi nhiều cơ hội lựa chọn nghề nghiệp trong tương lai.
+
+4
+00:00:45,800 --> 00:00:53,120
+Tất cả sinh viên đều có cơ hội để thể hiện và phát triển năng lực, những ý tưởng luôn được khuyến khích và phát huy tối đa.
+
+5
+00:00:53,120 --> 00:00:59,240
+Chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin; Chúng tôi được học cách học, cách nghĩ và cách sống.
+
+6
+00:00:59,200 --> 00:01:06,320
+Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.
+
+7
+00:01:06,320 --> 00:01:16,920
+Hiện đại, năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc, đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn (SIU) luôn hướng đến.
+
+8
+00:01:16,920 --> 00:01:23,720
+Đã đến lúc vươn xa hơn những gì đã học.
+
+9
+00:01:23,720 --> 00:01:28,920
+Trước tiên, chúng ta cũng đi qua kiến thức trọng tâm.
+
+10
+00:01:28,920 --> 00:01:41,080
+Thứ nhất, nói về dao động tắt dần là dao động có biên độ giảm dần theo thời gian, nguyên nhân là do ma sát và lực cản của môi trường.
+
+11
+00:01:41,080 --> 00:01:53,600
+Ta có tỷ số $\omega_2$ trên $\omega_1$ sẽ bằng $a_2$ trên $a_1$ bình phương.
+
+12
+00:01:53,600 --> 00:02:13,040
+Thì các bạn lưu ý rằng là chúng ta ngầm mặc định rằng trong quá trình dao động tắt dần thì chu kỳ, tần số, tần số góc của vật thì không đổi, chỉ có biên độ thay đổi và dẫn đến năng lượng cũng thay đổi và giảm dần cho đến khi dừng hẳn.
+
+13
+00:02:13,040 --> 00:02:26,680
+Thì năng lượng của con lắc lò xo khi dừng hẳn thì chúng ta nói rằng là nó đã chuyển hóa toàn bộ thành các dạng năng lượng khác như là nhiệt năng.
+
+14
+00:02:26,680 --> 00:02:37,840
+Thứ hai, là dao động duy trì là dao động được duy trì bằng cách giữ cho biên độ không đổi mà không làm thay đổi chu kỳ riêng của vật.
+
+15
+00:02:37,840 --> 00:03:10,200
+Thì để khắc phục cái dao động tắt dần này trong cuộc sống, thì người ta biến thành dao động duy trì, tức là mỗi chu kỳ hay là mỗi nửa chu kỳ sẽ cung cấp cái phần năng lượng bị mất mát để giúp cho vật được duy trì cái dao động riêng của mình, tức là chu kỳ không thay đổi, bộ ba chu kỳ, tần số và tần số góc không thay đổi.
+
+16
+00:03:10,200 --> 00:03:20,720
+Dao động cưỡng bức là dao động chịu tác dụng của một ngoại lực cưỡng bức tuần hoàn.
+
+17
+00:03:20,720 --> 00:03:43,840
+Thì vì chịu tác dụng của ngoại lực cưỡng bức tuần hoàn này, cho nên biên độ của vật sẽ phụ thuộc vào biên độ của ngoại lực là thứ nhất; Thứ hai là rất rõ ràng là phụ thuộc vào độ biến thiên tần số hay là $\Delta f$ này là bằng $f_{\text{ngoại lực}}$ trừ cho $f_0$.
+
+18
+00:03:43,840 --> 00:03:54,000
+$f_{\text{ngoại lực}}$ càng gần với $f_0$ thì ở đây nhìn đồ thị chúng ta thấy rằng là biên độ của vật càng lớn.
+
+19
+00:03:54,000 --> 00:04:01,400
+Ngoài ra, thì còn phụ thuộc biên độ của vật dao động cưỡng bức còn phụ thuộc vào lực ma sát.
+
+20
+00:04:02,240 --> 00:04:15,400
+Ở đây chúng ta thấy rằng lực ma sát lớn thì biên độ của vật nó chỉ đạt ở mức nhỏ, trong khi đó lực ma sát nhỏ thì biên độ của vật chịu tác dụng lực cưỡng bức rất là lớn.
+
+21
+00:04:15,400 --> 00:04:43,200
+Và khi mà tiến đến gần tần số riêng $f_0$, khi $f_{\text{cưỡng bức}}$ tiến đến gần tần số riêng thì chúng ta thấy rằng là biên độ của vật đạt giá trị cực đại và giá trị cực đại đó thì gọi là hiện tượng cộng hưởng khi $\Delta f = 0$, tức là $f_{\text{cưỡng bức}} = f_0$.
+
+22
+00:04:43,600 --> 00:05:04,360
+Hợp dao động: Khi một vật thực hiện đồng thời hai dao động $x_1 = a_1 \cos(\omega t + \phi_1)$ và $x_2 = a_2 \cos(\omega t + \phi_2)$ thì chúng ta có thể tổng hợp thành một phương trình là $x = a \cos(\omega t + \phi)$.
+
+23
+00:05:04,360 --> 00:05:32,000
+Thì trong đó $a$ (gọi là $a$ tổng hợp) sẽ có mối liên hệ với $a_1, \phi_1, a_2, \phi_2$, đồng thời $\phi$ là $\phi$ tổng hợp cũng có mối quan hệ tương tự bằng biểu thức dưới đây: $a^2 = a_1^2 + a_2^2 + 2a_1a_2 \cos(\phi_2 - \phi_1)$; $\tan \phi = \frac{a_1 \sin \phi_1 + a_2 \sin \phi_2}{a_1 \cos \phi_1 + a_2 \cos \phi_2}$.
+
+24
+00:05:41,200 --> 00:06:00,360
+Và trong các trường hợp đặc biệt, nếu như $a_1$ và $a_2$ (hay nói cách khác $x_1$ và $x_2$) là cùng pha, tức là $\Delta \phi = \phi_2 - \phi_1 = 2k\pi$ thì chúng ta sẽ có giá trị $a_{\max} = a_1 + a_2$.
+
+25
+00:06:02,160 --> 00:06:12,040
+Nếu $\Delta \phi = (2k+1)\pi$, tức là $x_1, x_2$ ngược pha thì ta sẽ có giá trị $a_{\min} = |a_1 - a_2|$.
+
+26
+00:06:12,760 --> 00:06:18,920
+Như vậy, giá trị $a$ tổng hợp sẽ chạy từ giá trị $\min$ đến giá trị $\max$.
+
+27
+00:06:18,920 --> 00:06:32,640
+Các em lưu ý ở dạng bài này thì chúng ta có phương pháp bấm máy để tìm nhanh ra giá trị $a$ tổng hợp và $\phi$ tổng hợp để đi làm bước tiếp theo.
+
+28
+00:06:32,640 --> 00:06:45,640
+Đó là lưu ý các bạn là chúng ta sẽ bấm giá trị là mode 2 đối với máy 570 và 580 là hai máy hiện đại nhất được đem vào phòng thi.
+
+29
+00:06:45,640 --> 00:06:54,720
+Bước hai, chúng ta sẽ bấm $a_1 \angle \phi_1 + a_2 \angle \phi_2$ và chúng ta bấm dấu bằng.
+
+30
+00:06:54,720 --> 00:07:03,760
+Đối với máy 570 thì chúng ta bấm shift 2 3 bằng để máy hiện ra giá trị $a$ tổng hợp và $\phi$ tổng hợp.
+
+31
+00:07:03,760 --> 00:07:06,640
+Vì sao thầy chỉ phương pháp nhanh này?
+
+32
+00:07:06,640 --> 00:07:22,880
+Bởi vì trong bài toán không chỉ người ta bảo tìm $a$ tổng hợp, $\phi$ tổng hợp mà sau khi tìm $a$ tổng hợp, $\phi$ tổng hợp, chúng ta lại làm một hai bước tiếp theo nữa mới ra được bài toán, thì đây là một phương pháp làm nhanh.
+
+33
+00:07:22,880 --> 00:07:42,080
+Đồng thời nếu như đề cho $a$ và $\phi$ tổng hợp, và cho $a_1, \phi_1$ chẳng hạn, chúng ta có thể bấm dấu trừ để chúng ta ra ngược lại $a_2$ và $\phi_2$, thì đó là một cái cách rất là nhanh.
+
+34
+00:07:42,080 --> 00:07:45,080
+Chúng ta sang một số câu bài tập vận dụng.
+
+35
+00:07:47,880 --> 00:08:03,600
+Câu số 1: Thực hiện thí nghiệm về dao động cưỡng bức như hình trên, năm con lắc 1, 2, 3, 4 và con lắc $M$ là con lắc điều khiển được treo trên một sợi dây.
+
+36
+00:08:03,600 --> 00:08:17,920
+Ban đầu hệ đang đứng yên ở vị trí cân bằng, kích thích $M$ dao động nhỏ trong mặt phẳng vuông góc với mặt phẳng hình vẽ thì các con lắc còn lại dao động theo.
+
+37
+00:08:17,920 --> 00:08:26,200
+Không kể $M$, con lắc dao động mạnh nhất là con lắc nào trong số bốn con lắc này?
+
+38
+00:08:26,200 --> 00:08:42,720
+Thì rõ ràng $M$ là con lắc điều khiển, thì bốn con lắc 1, 2, 3, 4 là bốn con lắc dao động cưỡng bức, tức là bị dao động theo bởi con lắc $M$.
+
+39
+00:08:42,720 --> 00:08:57,120
+Thì con lắc dao động cưỡng bức mạnh nhất sẽ là con lắc có chu kỳ dao động riêng gần bằng với con lắc $M$ nhất.
+
+40
+00:08:57,120 --> 00:09:06,800
+Mà ở đây chúng ta thấy rằng là con lắc đơn ở chuyên đề trước chúng ta biết là phụ thuộc vào chiều dài.
+
+41
+00:09:06,800 --> 00:09:25,880
+Bởi vì năm con lắc này chúng ta xem như là đặt ở cùng một vị trí, cho nên nó cùng gia tốc trọng trường, vì vậy muốn mà chu kỳ gần bằng con lắc $M$ nhất thì là chiều dài phải gần bằng con lắc $M$ nhất.
+
+42
+00:09:25,880 --> 00:09:46,400
+Đó, như vậy nhìn hình chúng ta cũng có thể thấy rằng là chiều dài của con lắc số 1 là gần bằng với con lắc $M$ nhất, vì vậy con lắc số 1 sẽ dao động mạnh nhất, tức là dao động với biên độ lớn nhất.
+
+43
+00:09:46,400 --> 00:10:04,120
+Thì qua bài này để chúng ta hiểu rõ hơn thế nào là dao động cưỡng bức và thế nào là gần với hiện tượng cộng hưởng; Tần số càng gần với tần số riêng thì biên độ càng lớn.
+
+44
+00:10:04,120 --> 00:10:19,360
+Các bạn thấy biên độ là một cái con dốc đi lên, biên độ càng lớn và đạt đỉnh ngay tại vị trí là tần số cưỡng bức bằng với tần số $f_0$.
+
+45
+00:10:33,800 --> 00:10:41,400
+Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện, cân bằng giữa học thuật và nghệ thuật, thể thao.
+
+46
+00:10:41,400 --> 00:10:52,080
+Hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, khơi nguồn cảm hứng, độc lập để phát triển và hoàn thiện nhân cách.
+
+47
+00:10:52,080 --> 00:11:11,640
+Ngoài những giờ học trên lớp, học sinh trường Quốc tế Á Châu còn được trải nghiệm thử thách bản thân và phản biện các vấn đề để tự mình học hỏi, trưởng thành độc lập hơn.
+
+48
+00:11:11,640 --> 00:11:27,680
+Nơi đây với tôi còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.
+
+49
+00:11:27,680 --> 00:11:32,760
+Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là cuộc sống.
+
+50
+00:11:32,760 --> 00:11:47,440
+Từ môi trường giáo dục này, chúng tôi đã tự tin bước tiếp và viết nên câu chuyện tương lai của chính mình.
+
+51
+00:11:47,440 --> 00:11:58,120
+Chúng ta bước sang câu số 21: Con lắc lò xo dao động tắt dần trên mặt phẳng nằm ngang, cứ sau mỗi chu kỳ thì biên độ giảm 2%.
+
+52
+00:11:58,120 --> 00:12:13,720
+Biết thế năng tại vị trí của vật mà lò xo không biến dạng, phần trăm cơ năng của con lắc bị mất đi trong hai dao động toàn phần liên tiếp có giá trị gần nhất với giá trị nào sau đây?
+
+53
+00:12:13,720 --> 00:12:32,720
+Thì ở đây lưu ý đề thì chỉ hỏi đơn giản là hai dao động toàn phần liên tiếp, nhưng thầy có thể xây dựng một cái biểu thức mà $n$ dao động toàn phần liên tiếp để cho chúng ta có thể uyển chuyển hơn trong áp dụng công thức.
+
+54
+00:12:32,720 --> 00:12:43,080
+Thì thầy gọi biên độ dao động ban đầu là $a_{\text{đầu}}$ là $a$ hoặc là $a_0$, thì sau chu kỳ thứ nhất rõ ràng là giảm 2%, tức là sẽ còn 98%.
+
+55
+00:12:44,240 --> 00:12:46,600
+Như vậy $a_1$ sẽ bằng 0.98 $a$.
+
+56
+00:12:48,480 --> 00:12:57,640
+Cứ thế hai chu kỳ thì giảm tiếp 2% nữa, như vậy $a_2$ sẽ bằng 0.98 $a_1$ và bằng $0.98^2 a$.
+
+57
+00:12:59,920 --> 00:13:14,400
+Như vậy bài toán nếu như hỏi là trong $n$ dao động liên tiếp thì ta có thể xây dựng là $a_n = 0.98^n \times a$ ban đầu.
+
+58
+00:13:14,400 --> 00:13:24,920
+Phần trăm cơ năng bị mất đi thì là biểu thức: cơ năng mất đi thì rõ ràng ta lấy là cơ năng ban đầu trừ cho cơ năng còn lại là $W_{k2}$.
+
+59
+00:13:25,600 --> 00:13:32,960
+Nếu để hỏi là $\Delta W/W$ thì các con xây dựng biểu thức là $(W - W_2) / W$.
+
+60
+00:13:34,000 --> 00:13:47,440
+Thì ở đây $W/W_k$ sẽ được là 1 trừ cho tỷ số $W_2/W$, mà ở kiến thức trọng tâm thầy đã hướng dẫn các bạn $W_2/W$ sẽ bằng $a_2/a_{\text{ban đầu}}$ bình phương.
+
+61
+00:13:48,240 --> 00:13:54,440
+Thì rõ ràng $a_2/a_{\text{ban đầu}}$ sẽ là 0.98 bình phương.
+
+62
+00:14:05,600 --> 00:14:18,200
+Nếu như đây là trong $n$ dao động liên tiếp thì ở đây sẽ là $0.98^n$ mũ hai, sẽ được chúng ta được là $0.98^{2n}$.
+
+63
+00:14:20,320 --> 00:14:22,560
+Như vậy sẽ bằng $1 - 0.98^{2n}$.
+
+64
+00:14:28,640 --> 00:14:42,040
+Thì chúng ta thế số, phần trăm năng lượng mất đi sẽ bằng $0.0776$, ta nhân 100 thì sẽ bằng 7.76%, là gần bằng 8%.
+
+65
+00:14:43,720 --> 00:15:06,960
+Ta sang câu ví dụ số 3: Dao động của một vật là tổng hợp của hai dao động cùng phương có phương trình lần lượt là $x_1 = 8 \cos(10\pi t - 0.5\pi)$ và $x_2 = a_2 \cos(10\pi t + \pi/4)$, $a_2 > 0$ và $t$ là tính bằng giây.
+
+66
+00:15:06,960 --> 00:15:18,440
+Lúc $t = 0$, gia tốc của vật có độ lớn là $800\text{ cm/s}^2$, xác định biên độ dao động của vật.
+
+67
+00:15:18,440 --> 00:15:29,000
+Ở đây ẩn của chúng ta là $a_2$ và phương trình $a$ tổng hợp thì chúng ta vào giải quyết bài.
+
+68
+00:15:29,960 --> 00:15:41,840
+Lúc thời điểm $t = 0$ thì $a = -\omega^2 x = 800$, như vậy khi thời điểm $t = 0$ thì $x$ sẽ bằng $\pm 8\text{ cm}$.
+
+69
+00:15:45,720 --> 00:15:50,880
+Thì lúc $x(t = 0)$ sẽ bằng $x_1(t = 0) + x_2(t = 0)$.
+
+70
+00:15:54,200 --> 00:16:13,480
+Đây là bài này rất hay nói về ý nghĩa của tổng hợp phương trình là các giá trị tức thời sẽ bằng tổng của nhau; Giá trị tức thời $x = \text{giá trị tức thời } x_1 + \text{giá trị tức thời } x_2$ tại cùng một thời điểm.
+
+71
+00:16:13,480 --> 00:16:18,800
+Như vậy dễ dàng chúng ta sẽ tính ra được giá trị $a_2 = 8\sqrt{2}$.
+
+72
+00:16:20,560 --> 00:17:11,480
+Lưu ý để cho $a$ là đại lượng dương thì nhanh chóng chúng ta đã có $a_1, \phi_1, a_2, \phi_2$ thì ta sử dụng phương pháp bấm máy mode 2 thì chúng ta sẽ được là $8 \angle -\pi/2 + 8\sqrt{2} \angle -\pi/4$ thì sẽ ra được, và lưu ý là đối với máy 570 thì ta bấm shift 2 3 bằng, đối với máy 580 thì các con phải chỉnh trước là shift 1 xuống 2 2 để trên màn hình máy tính hiện cái dấu $\angle$ trước cái đã, và đáp án cuối cùng của chúng ta sẽ được là $a = 8\text{ cm}$.
+
+73
+00:17:11,480 --> 00:17:22,560
+Ta hỏi số 4: Dao động của một vật là tổng hợp của hai dao động điều hòa cùng phương có ly độ lần lượt là $x_1$ và $x_2$.
+
+74
+00:17:23,560 --> 00:17:29,240
+Hình bên là đồ thị biểu diễn sự phụ thuộc của $x_1$ và $x_2$ theo thời gian.
+
+75
+00:17:30,440 --> 00:17:44,680
+Biết độ lớn lực kéo về tác dụng lên vật ở thời điểm $t = 0.2\text{ s}$ là $0.4\text{ N}$, tính động năng của vật ở thời điểm $t = 0.4\text{ s}$ là bao nhiêu?
+
+76
+00:17:44,680 --> 00:17:51,560
+Chúng ta cùng quan sát đồ thị và giải quyết nhanh bài toán.
+
+77
+00:17:51,560 --> 00:18:16,960
+Thì ở đây chúng ta thấy rằng là một nửa chu kỳ là ở đây là chúng ta có 6 ô, ví dụ chúng ta nhìn $x_2$ trước: một đồi đi từ ô số 5 và kết thúc ở ô số 11.
+
+78
+00:18:19,720 --> 00:18:23,160
+Như vậy là một đồi này gồm có 6 ô.
+
+79
+00:18:23,160 --> 00:18:30,240
+Có 6 ô mà một đồi như vậy thì chúng ta sẽ gọi là nửa chu kỳ.
+
+80
+00:18:30,240 --> 00:18:43,360
+Kỹ năng quan sát đồ thị là một trong những kỹ năng cơ bản: nhìn đồ thị chúng ta nhìn thấy một đồi là nửa chu kỳ, hai đồi là một chu kỳ, các bạn cần chú ý.
+
+81
+00:18:43,360 --> 00:18:59,960
+Tương tự như vậy, đồi phía dưới của $x_1$, chúng ta thấy rằng bắt đầu từ ô số 1 và kết thúc từ ô số 7, như vậy trừ ra cũng là 6 ô.
+
+82
+00:18:59,960 --> 00:19:05,480
+Như vậy cả hai đều là nửa chu kỳ bằng 6 ô, như vậy chu kỳ là $1.2\text{ s}$.
+
+83
+00:19:09,080 --> 00:19:12,160
+Một ô của chúng ta là $0.1\text{ s}$.
+
+84
+00:19:15,960 --> 00:19:22,800
+Dựa vào con số $0.2$ và $0.4$ này, $0.2$ là gồm có hai ô, như vậy một ô là $0.1\text{ s}$.
+
+85
+00:19:23,920 --> 00:19:25,520
+Ta được $\omega = 5\pi/3$.
+
+86
+00:19:27,680 --> 00:19:50,840
+Và nhìn nhanh đồ thị thì chúng ta viết được phương trình $x_1$; Biên độ sẽ là 2, đây là đỉnh âm của $x_1$ là 2 và tần số góc là $5\pi/3$ chúng ta đã thấy, và pha ban đầu là $+\pi/3$.
+
+87
+00:19:51,800 --> 00:20:03,000
+Pha ban đầu của $x_1$ là nằm ở vị trí $x_0 = 1$ thì ta tính ra bằng 1 và đang đi theo chiều âm.
+
+88
+00:20:03,000 --> 00:20:16,360
+Thầy lưu ý nhắc lại $x_0$ của phương trình một là bằng 1 và $v$ đi theo chiều âm, vì vậy ta tính ra được giá trị $\phi_1$ là bằng $\pi/3$.
+
+89
+00:20:17,560 --> 00:20:19,760
+Tương tự như vậy, biên độ của $x_2$ là 4.
+
+90
+00:20:24,920 --> 00:20:41,320
+Trong khi đó $x_2$ điểm xuất phát đó là bằng $-2$ và đi theo chiều âm, tức là về phía $-4$, như vậy ta sẽ viết được $x_2 = 4 \cos(5\pi/3 t + 2\pi/3)$.
+
+91
+00:20:43,800 --> 00:20:51,240
+Thì dùng phương pháp bấm máy thầy sẽ ra được $x = 2\sqrt{7} \cos(5\pi/3 t + 1.761)$.
+
+92
+00:20:53,200 --> 00:21:16,560
+Ta thế số lúc $t = 0.2\text{ s}$ thì sẽ bằng $-5$ và chúng ta cần đổi ra mét bởi vì đề hỏi động năng của vật; Động năng là năng lượng mà năng lượng thì các đơn vị phải đưa về chuẩn.
+
+93
+00:21:16,560 --> 00:21:33,760
+Tiếp tục một dữ kiện biết độ lớn lực kéo về tác dụng lên vật ở thời điểm $t = 0.2\text{ s}$ là $0.4\text{ N}$ thì ta có biểu thức $F_{\text{kéo về}} = -m\omega^2 x = 0.4\text{ N}$, như vậy $m$ của chúng ta sẽ tính được là $0.292\text{ kg}$.
+
+94
+00:21:37,320 --> 00:21:53,280
+Tại thời điểm $t = 0.4\text{ s}$ thì $x$ bằng $-4$, sang $t$ thế vào phương trình thì động năng của chúng ta sẽ bằng cơ năng trừ cho thế năng.
+
+95
+00:21:53,280 --> 00:21:59,120
+Thế năng là thầy đã tính $x$ xong và các bạn thế số thì sẽ ra được là $4.8 \times 10^{-3}\text{ J}$.
+
+96
+00:22:02,080 --> 00:22:27,080
+Thì khi chúng ta tính ra được khối lượng $m$, các bạn cũng có thể đi theo hướng động năng là bằng $1/2 mv^2$, chúng ta tính bằng công thức độc lập bởi vì tại thời điểm $t$ thì chúng ta có $x$, mà chúng ta tính giá trị $v^2$ để thế vào biểu thức động năng là bằng $1/2 mv^2$ thì cũng đúng.
+
+97
+00:22:27,080 --> 00:22:49,440
+Thì ở đây thầy làm nhanh và muốn cho các bạn có sự tự trải nghiệm và viết ra được các biểu thức và thế số tính toán, ở đây thầy chỉ cung cấp cái hướng đi để các em nắm, và đáp án là $4.8 \times 10^{-3}\text{ J}$.
+
+98
+00:22:50,640 --> 00:22:51,920
+Vì vậy là $4.8\text{ mJ}$.
+
+99
+00:22:54,160 --> 00:23:05,120
+Trường Đại học Quốc tế Sài Gòn (SIU) không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SIU nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt.
+
+100
+00:23:05,120 --> 00:23:15,840
+SIU mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới, trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.
+
+101
+00:23:15,840 --> 00:23:24,480
+Năm 2024, SIU tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng bốn phương thức tuyển sinh.
+
+102
+00:23:24,480 --> 00:23:51,000
+SIU cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SIU, 100 suất học bổng Tiếp bước hành trình Quỹ Tài năng trẻ, học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa, thể thao, nghệ thuật, học bổng Đồng hành xây dựng nhân lực chất lượng cao cho Thành phố Thủ Đức, Thành phố Hồ Chí Minh, học bổng doanh nghiệp tài trợ, học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.
+
+103
+00:23:51,000 --> 00:23:54,480
+SIU - Tâm hồn Việt Nam, Giáo dục thế giới.
+
+104
+00:23:54,480 --> 00:24:09,000
+Như thầy đã giới thiệu ở chuyên đề số một, ở các chuyên đề 2, 4, 6, 8 là những chuyên đề ngắn thì những phút cuối thầy sẽ dành thời gian để ôn tập kiến thức cơ bản lớp 11.
+
+105
+00:24:09,520 --> 00:24:29,560
+Bởi vì mọi năm thì kiến thức lớp 11 sẽ chiếm từ ba đến bốn câu trong đề thi trung học phổ thông, thì ngày hôm nay thầy sẽ ôn tập cho các bạn về từ trường trong các loại dây dẫn có hình dạng đặc biệt.
+
+106
+00:24:29,560 --> 00:25:00,080
+Thứ nhất là dây dẫn thẳng dài thì điểm đặt là tại điểm chúng ta đang xét, phương là tiếp tuyến với đường sức từ, chiều là quy tắc nắm tay phải và độ lớn là $B = 2 \times 10^{-7} I / r$, là giá trị cường độ dòng điện, $r$ nhỏ là khoảng cách từ điểm $M$ cho đến sợi dây thẳng.
+
+107
+00:25:00,080 --> 00:25:31,520
+Quy tắc nắm bàn tay phải là quy tắc phổ biến các bạn cần xem lại, ở đây thầy phát biểu nhanh là chúng ta đặt bàn tay phải sao cho ngón cái dọc theo chiều dòng điện thì các ngón tay nắm lại là chiều của đường sức từ, và vector cảm ứng từ sẽ là tiếp tuyến của chiều đường sức từ đó như trên hình vẽ.
+
+108
+00:25:31,520 --> 00:25:45,680
+Thứ hai nhỏ là phần dây dẫn có dạng đường tròn thì vector cảm ứng từ tại tâm vòng dây thì được xác định là nó là phương vuông góc với mặt phẳng vòng dây.
+
+109
+00:25:45,680 --> 00:25:59,200
+Ở đây các em có thể thấy rằng là đường đi qua tâm thì sẽ là một đường thẳng và nó là đường xuất từ, nó cũng chính là vector cảm ứng từ $B$ luôn.
+
+110
+00:25:59,200 --> 00:26:18,400
+Chiều thì khi ta khum bàn tay phải theo vòng dây sao cho chiều từ cổ tay đến ngón tay trùng với chiều dòng điện trong khung thì ngón tay chỏ ra chỉ chiều đường xuất từ xuyên qua mặt phẳng dòng điện.
+
+111
+00:26:18,400 --> 00:26:37,640
+Ở đây chúng ta có hai cách để xác định chiều cảm ứng từ, đây là thứ nhất là quy tắc này là quy tắc nắm bàn tay phải, quy tắc thứ hai là chúng ta có thể xác định là vào nam ra bắc, mặt nam là dòng điện cùng chiều kim đồng hồ, mặt bắc là dòng điện ngược chiều kim đồng hồ.
+
+112
+00:26:37,640 --> 00:27:05,520
+Thì ở đây các bạn cần xem lại kiến thức về độ lớn $B$ sẽ bằng $2\pi \times 10^{-7} nI / R$, lưu ý $R$ lớn sẽ khác $r$ nhỏ ở bên dây dẫn thẳng dài, $R$ lớn này là bán kính của khung, $I$ là cường độ dòng điện và $n$ là số vòng dây.
+
+113
+00:27:05,520 --> 00:27:09,680
+Một loại dây dẫn đặc biệt nữa đó là ống dây.
+
+114
+00:27:09,680 --> 00:27:28,080
+Thì ống dây thì từ trường trong ống dây các em lưu ý là từ trường đều, vector cảm ứng từ $B$ được xác định là song song với trục ống dây và chiều là chiều của đường sức từ và cũng theo quy tắc nắm tay phải.
+
+115
+00:27:28,080 --> 00:27:47,360
+Độ lớn $B$ sẽ bằng $4\pi \times 10^{-7} n_0 I$ với $n_0$ là bằng $N / L$, thì số vòng dây trên một mét hay còn gọi là mật độ vòng dây; $N$ lớn là tổng số vòng dây còn $L$ là chiều dài ống dây.
+
+116
+00:27:47,360 --> 00:27:56,360
+Thì ta sang câu vận dụng số 5 là một câu mang mức độ dễ trong đề thi trung học phổ thông năm 2023.
+
+117
+00:28:02,040 --> 00:28:24,920
+Thì sở dĩ chúng ta phải nắm lại một số kiến thức cơ bản của lớp 11 bởi vì ở phần câu 1 đến câu 24 thì có hai câu lớp 11, nếu như chúng ta nắm được kiến thức, nắm được biểu thức công thức thì làm rất là dễ dàng và nhẹ nhàng, nếu không thì ta phải bỏ cái câu đó thì rất là đáng tiếc.
+
+118
+00:28:24,920 --> 00:28:47,400
+Một đoạn dây dẫn uốn thành một vòng tròn tâm $O$, bán kính $5.8\text{ cm}$, khi cho dòng điện không đổi có cường độ $I$ chạy trong vòng dây thì dòng điện này gây tại $O$ cảm ứng từ có độ lớn $2.6 \times 10^{-5}\text{ T}$, giá trị của $I$ là?
+
+119
+00:28:47,400 --> 00:29:01,160
+Rõ ràng nếu như các bạn nắm được biểu thức $B$ trong vòng dây thì bài này rất dễ dàng để giải quyết, nhưng nếu như các bạn không xem lại thì bài này đành phải bỏ trống.
+
+120
+00:29:01,160 --> 00:29:16,000
+Bỏ trống thì ta thấy rằng là $B = 2\pi \times 10^{-7} nI / R$, thầy chuyển vế $I$ sẽ bằng $BR / (2\pi \times 10^{-7} n)$.
+
+121
+00:29:18,360 --> 00:29:23,560
+Thì lưu ý chúng ta cần đổi đơn vị $R$ về đơn vị mét nên nhân $10^{-2}$.
+
+122
+00:29:26,280 --> 00:29:40,040
+Ở đây nhiều bạn sẽ băn khoăn là $n$ bằng bao nhiêu, thì $n$ ở đây người ta đã cho là một đoạn dây dẫn uốn thành một vòng tròn, như vậy $n = 1$.
+
+123
+00:29:40,040 --> 00:29:42,080
+Ta thế số thì sẽ bằng $2.4\text{ A}$.
+
+124
+00:29:44,000 --> 00:29:54,400
+Đó là đáp án của bài toán rất dễ dàng.
+
+125
+00:29:54,400 --> 00:30:05,600
+Buổi ôn tập chuyên đề hai ngày hôm nay đã kết thúc, chúc các em có một buổi ôn thật là tốt và hẹn gặp lại các em ở những chuyên đề sau.

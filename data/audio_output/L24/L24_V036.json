@@ -1,0 +1,19 @@
+{
+  "unfiltered": {
+    "text": "lo hôm nay ta được nhận chiếu chỉ vô ban khai oan độc đào kinh ấp đường phát triển bảo vệ vùng đất tây nam đầy ở lâm sơn đưa lên vùng đất thanh sơn tìm những cái nhà làm tốt làm lên giúp dân làng đốt đào kinh vĩnh tế miếu với bà thành phố châu đốc tỉnh an giang không hoàn thành bài thi trọng tài không chấp nhận",
+    "word_count": 71
+  },
+  "flagged": {
+    "text": "lo @datetime(hôm nay) ta được nhận chiếu chỉ @not_in_dict(vô ban) khai @not_in_dict(oan độc) đào @not_in_dict(kinh ấp) đường phát triển bảo vệ vùng đất tây nam đầy ở lâm sơn đưa lên vùng đất thanh sơn tìm những cái nhà làm tốt làm lên giúp dân làng đốt đào kinh vĩnh tế miếu với bà thành phố châu đốc tỉnh an giang không hoàn thành bài @not_in_dict(thi trọng tài) không chấp nhận",
+    "word_count": 71
+  },
+  "refined": {
+    "text": "Lo hôm nay ta được nhận chiếu chỉ vô ban khai oan độc đào kinh ấp đường phát triển bảo vệ vùng đất tây nam đầy ở Lâm Sơn, đưa lên vùng đất Thanh Sơn tìm những cái nhà làm tốt làm lên giúp dân làng đốt đào kinh Vĩnh Tế miếu với bà thành phố Châu Đốc tỉnh An Giang, không hoàn thành bài thi trọng tài không chấp nhận.",
+    "word_count": 71,
+    "source": "flagged"
+  },
+  "proofread": {
+    "text": "Lo hôm nay ta được nhận chiếu chỉ về ban khai oan đào kinh ấp đường phát triển bảo vệ vùng đất tây nam dải ở Lâm Sơn, đưa lên vùng đất Thanh Sơn tìm những cái nhà làm tốt làm lên giúp dân làng đào kinh Vĩnh Tế nối với thành phố Châu Đốc tỉnh An Giang, không hoàn thành bài thi trọng tài không chấp nhận.",
+    "word_count": 68
+  }
+}

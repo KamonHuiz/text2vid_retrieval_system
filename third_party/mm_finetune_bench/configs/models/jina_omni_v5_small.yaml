@@ -1,0 +1,63 @@
+# jinaai/jina-embeddings-v5-omni-small-retrieval -- Jina AI's omni-modal
+# embedding model (custom modeling code, loaded with trust_remote_code).
+# Exposes task-conditioned `.encode_image(...)` / `.encode_text(...)`
+# convenience methods on top of a Qwen-family backbone; the mm_bench wrapper
+# calls into the underlying nn.Module directly during training so gradients
+# flow, and falls back to the convenience methods only in inference/dry-run
+# helpers.
+
+name: jina_omni
+wrapper: jina_omni
+backend: transformers
+transformers:
+  model_id: "jinaai/jina-embeddings-v5-omni-small-retrieval"
+  trust_remote_code: true
+  retrieval_task: "retrieval"        # task tag passed to encode_* per Jina's task-LoRA convention
+
+embed_dim: 1024
+image_size: 384
+# Captions in this corpus are 30-40 words (~60 tokens). The collate pads
+# dynamically to the longest item in the batch, so this is only a truncation
+# ceiling -- but keeping it tight avoids pathological batches.
+max_text_length: 128
+
+# Jina v5 omni already ships internal task-specific LoRA adapters ("task
+# LoRA"); the recommended adaptation strategy is to train a *new* LoRA
+# adapter stacked on top for this domain rather than full fine-tuning the
+# Qwen-family backbone.
+adaptation: lora
+quantization: null
+
+lora:
+  enabled: true
+  r: 16
+  alpha: 32
+  dropout: 0.05
+  bias: none
+  target_modules:
+    - "q_proj"
+    - "k_proj"
+    - "v_proj"
+    - "o_proj"
+    - "gate_proj"
+    - "up_proj"
+    - "down_proj"
+  target_module_depth_fraction: 0.3   # backbone is a decoder-style LM -- go lighter/shallower
+  modules_to_save:
+    - "multi_modal_projector"          # vision-to-LM-space projector, if present in checkpoint
+
+partial_unfreeze:
+  unfreeze_last_n_vision_blocks: 2
+  unfreeze_last_n_text_blocks: 0        # text side is the shared decoder backbone; keep frozen outside LoRA
+  always_unfreeze:
+    - "multi_modal_projector"
+
+loss:
+  type: infonce
+  learnable_logit_scale: true
+
+differential_lr_groups:
+  vision_encoder: "vision_tower.*"
+  text_encoder: "language_model.*"
+  projection: ".*(projector|proj)$"
+  logit_scale: "logit_scale"

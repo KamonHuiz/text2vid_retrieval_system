@@ -1,0 +1,576 @@
+{
+  "video_id": "L26_V026",
+  "fps": 25.0,
+  "n_sentences": 34,
+  "total_words": 839,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày: Salad có màu sắc bắt mắt từ trứng gà và các loại rau xanh với rong nho mọng nước, tươi giòn và sốt mè rang beo béo chua ngọt, tươi mát cho ngày hè oi ả.",
+      "start": 10.4,
+      "end": 37.24,
+      "n_words": 40,
+      "start_frame": 260,
+      "end_frame": 931,
+      "keyframes": [
+        "000261.webp",
+        "000299.webp",
+        "000300.webp",
+        "000350.webp",
+        "000400.webp",
+        "000401.webp",
+        "000468.webp",
+        "000536.webp",
+        "000537.webp",
+        "000578.webp",
+        "000619.webp",
+        "000620.webp",
+        "000654.webp",
+        "000689.webp",
+        "000690.webp",
+        "000713.webp",
+        "000736.webp",
+        "000737.webp",
+        "000821.webp",
+        "000906.webp",
+        "000907.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Rất vui khi được gặp lại các bạn khán giả đang theo dõi chương trình Món ngon mỗi ngày - nấu chuẩn ăn lành.",
+      "start": 37.24,
+      "end": 44.16,
+      "n_words": 24,
+      "start_frame": 931,
+      "end_frame": 1104,
+      "keyframes": [
+        "000936.webp",
+        "000965.webp",
+        "000966.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 44.16,
+      "end": 48.2,
+      "n_words": 11,
+      "start_frame": 1104,
+      "end_frame": 1205,
+      "keyframes": [
+        "001132.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Với thời tiết nóng như thế này, chúng ta có một tô salad ăn thì chắc chắn sẽ rất là ngon miệng.",
+      "start": 48.2,
+      "end": 53.32,
+      "n_words": 22,
+      "start_frame": 1205,
+      "end_frame": 1333,
+      "keyframes": [
+        "001299.webp",
+        "001300.webp",
+        "001316.webp",
+        "001333.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và hôm nay, Quốc Nghị sẽ hướng dẫn các bạn cùng Kim Thảo thực hiện món salad rong nho sốt mè rang.",
+      "start": 53.32,
+      "end": 59.2,
+      "n_words": 22,
+      "start_frame": 1333,
+      "end_frame": 1480,
+      "keyframes": [
+        "001333.webp",
+        "001334.webp",
+        "001375.webp",
+        "001416.webp",
+        "001417.webp",
+        "001448.webp",
+        "001479.webp",
+        "001480.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Và món ăn này, theo chuyên gia dinh dưỡng Tiến sĩ Đào Thị Yến Phi, sẽ giúp hỗ trợ giảm khối mỡ thừa trong cơ thể luôn đó.",
+      "start": 59.2,
+      "end": 65.76,
+      "n_words": 28,
+      "start_frame": 1480,
+      "end_frame": 1644,
+      "keyframes": [
+        "001480.webp",
+        "001524.webp",
+        "001569.webp",
+        "001570.webp",
+        "001606.webp",
+        "001642.webp",
+        "001643.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Trứng gà nè, các bạn luộc chín sau đó bóc vỏ cắt lát.",
+      "start": 65.76,
+      "end": 68.88,
+      "n_words": 13,
+      "start_frame": 1644,
+      "end_frame": 1722,
+      "keyframes": [
+        "001669.webp",
+        "001695.webp",
+        "001696.webp",
+        "001713.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Nhờ Kim Thảo bóc vỏ giùm.",
+      "start": 68.88,
+      "end": 75.56,
+      "n_words": 6,
+      "start_frame": 1722,
+      "end_frame": 1889,
+      "keyframes": [
+        "001731.webp",
+        "001732.webp",
+        "001755.webp",
+        "001779.webp",
+        "001780.webp",
+        "001806.webp",
+        "001833.webp",
+        "001834.webp",
+        "001873.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Về phần xà lách thì chúng ta sẽ cắt khúc và các bạn cho vào cái tô thủy tinh.",
+      "start": 75.56,
+      "end": 87.56,
+      "n_words": 19,
+      "start_frame": 1889,
+      "end_frame": 2189,
+      "keyframes": [
+        "001912.webp",
+        "001913.webp",
+        "001939.webp",
+        "001966.webp",
+        "001967.webp",
+        "002009.webp",
+        "002051.webp",
+        "002052.webp",
+        "002094.webp",
+        "002136.webp",
+        "002137.webp",
+        "002164.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Khi mà chúng ta luộc trứng gà thì cần lưu ý là luộc trứng từ khi nước còn nguội và khi mà trứng chín rồi chúng ta sẽ vớt ra cho vào trong thâu nước lạnh, như vậy thì trứng vừa giữ nguyên vẹn đẹp và dễ bóc vỏ.",
+      "start": 87.56,
+      "end": 99.28,
+      "n_words": 49,
+      "start_frame": 2189,
+      "end_frame": 2482,
+      "keyframes": [
+        "002191.webp",
+        "002192.webp",
+        "002323.webp",
+        "002455.webp",
+        "002456.webp",
+        "002469.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cà chua bi thì các bạn sẽ cắt đôi, bắp cải tím các bạn sẽ cắt sợi.",
+      "start": 99.28,
+      "end": 109.6,
+      "n_words": 17,
+      "start_frame": 2482,
+      "end_frame": 2740,
+      "keyframes": [
+        "002483.webp",
+        "002484.webp",
+        "002507.webp",
+        "002531.webp",
+        "002532.webp",
+        "002589.webp",
+        "002646.webp",
+        "002647.webp",
+        "002697.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Trong món ăn ngày hôm nay, chúng ta thấy là có rất là nhiều các loại rau củ khác nhau như là xà lách, bắp cải tím, cà chua, dưa leo, cho nên là sẽ cung cấp được thật nhiều chất xơ cộng với vitamin, khoáng chất cần thiết cho cơ thể.",
+      "start": 109.6,
+      "end": 121.68,
+      "n_words": 52,
+      "start_frame": 2740,
+      "end_frame": 3042,
+      "keyframes": [
+        "002748.webp",
+        "002749.webp",
+        "002895.webp",
+        "003042.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Về phần dưa leo, cắt lát mỏng.",
+      "start": 121.68,
+      "end": 125.48,
+      "n_words": 7,
+      "start_frame": 3042,
+      "end_frame": 3137,
+      "keyframes": [
+        "003042.webp",
+        "003043.webp",
+        "003091.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Lá rau nhé thì các bạn sẽ cắt đủ.",
+      "start": 125.48,
+      "end": 129.32,
+      "n_words": 9,
+      "start_frame": 3137,
+      "end_frame": 3233,
+      "keyframes": [
+        "003139.webp",
+        "003140.webp",
+        "003167.webp",
+        "003194.webp",
+        "003195.webp",
+        "003217.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta nên bảo quản rau củ trong tủ mát trước khi trộn giúp món salad chúng ta tươi ngon và giòn hơn đó.",
+      "start": 129.32,
+      "end": 135.12,
+      "n_words": 24,
+      "start_frame": 3233,
+      "end_frame": 3378,
+      "keyframes": [
+        "003240.webp",
+        "003241.webp",
+        "003308.webp",
+        "003375.webp",
+        "003376.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Tỉa ra các bạn sẽ cắt lát nè.",
+      "start": 135.12,
+      "end": 138.76,
+      "n_words": 8,
+      "start_frame": 3378,
+      "end_frame": 3469,
+      "keyframes": [
+        "003433.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Về phần rong nho thì các bạn sẽ ngâm với nước lạnh khoảng 2-3 phút thôi nha, đừng ngâm lâu rau nó sẽ bị mềm đấy.",
+      "start": 138.76,
+      "end": 145.4,
+      "n_words": 26,
+      "start_frame": 3469,
+      "end_frame": 3635,
+      "keyframes": [
+        "003490.webp",
+        "003491.webp",
+        "003517.webp",
+        "003544.webp",
+        "003545.webp",
+        "003590.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rong nho chúng ta không cần phải cho vào trong tủ lạnh, chúng ta phải giữ trong môi trường kín khí thì rong nho mới không bị tách nước.",
+      "start": 145.4,
+      "end": 152.72,
+      "n_words": 29,
+      "start_frame": 3635,
+      "end_frame": 3818,
+      "keyframes": [
+        "003636.webp",
+        "003637.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rồi bây giờ chúng ta sẽ trình bày một đĩa salad và thưởng thức thôi nào.",
+      "start": 152.72,
+      "end": 156.8,
+      "n_words": 16,
+      "start_frame": 3818,
+      "end_frame": 3920,
+      "keyframes": [
+        "003850.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Wow, nếu thế thì món ăn ngày hôm nay đúng là trong tích tắc chúng ta đã có thể thực hiện xong đúng không ạ?",
+      "start": 156.8,
+      "end": 162.68,
+      "n_words": 25,
+      "start_frame": 3920,
+      "end_frame": 4067,
+      "keyframes": [
+        "004063.webp",
+        "004064.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Các bạn có thể lấy điện thoại ra và quét mã QR trên màn hình của chúng tôi để chúng ta xem lại đầy đủ nguyên liệu cũng như là những bí quyết mà đầu bếp Quốc Nghị đã hướng dẫn cho chúng ta.",
+      "start": 162.68,
+      "end": 174.12,
+      "n_words": 44,
+      "start_frame": 4067,
+      "end_frame": 4353,
+      "keyframes": [
+        "004184.webp",
+        "004305.webp",
+        "004306.webp",
+        "004330.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Các bạn sẽ trộn đều nhẹ tay, đều nhẹ tay nè để tất cả các loại rau củ nó quyện vào nhau tạo ra một cái món ăn nhiều màu sắc, cho ra đĩa nè.",
+      "start": 174.12,
+      "end": 185.12,
+      "n_words": 35,
+      "start_frame": 4353,
+      "end_frame": 4628,
+      "keyframes": [
+        "004355.webp",
+        "004356.webp",
+        "004454.webp",
+        "004552.webp",
+        "004553.webp",
+        "004592.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Tiếp theo là trứng luộc tiếp đến là rong nho.",
+      "start": 185.12,
+      "end": 193.68,
+      "n_words": 10,
+      "start_frame": 4628,
+      "end_frame": 4842,
+      "keyframes": [
+        "004632.webp",
+        "004633.webp",
+        "004673.webp",
+        "004713.webp",
+        "004714.webp",
+        "004751.webp",
+        "004789.webp",
+        "004790.webp",
+        "004817.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Khi mà cho trứng gà và rong nho vào thì chúng ta có thể thấy là đĩa salad đã trở nên rất là tươi mát.",
+      "start": 193.68,
+      "end": 200.28,
+      "n_words": 25,
+      "start_frame": 4842,
+      "end_frame": 5007,
+      "keyframes": [
+        "004844.webp",
+        "004845.webp",
+        "004869.webp",
+        "004894.webp",
+        "004895.webp",
+        "005007.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ thì chúng ta đã hoàn thành xong rồi đúng không ạ?",
+      "start": 200.28,
+      "end": 202.56,
+      "n_words": 13,
+      "start_frame": 5007,
+      "end_frame": 5064,
+      "keyframes": [
+        "005007.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Còn một chút nữa đó là sốt mè rang Ajinomoto, lắc đều đây nè, cho lên trên đĩa salad.",
+      "start": 202.56,
+      "end": 209.52,
+      "n_words": 19,
+      "start_frame": 5064,
+      "end_frame": 5238,
+      "keyframes": [
+        "005120.webp",
+        "005121.webp",
+        "005138.webp",
+        "005155.webp",
+        "005156.webp",
+        "005171.webp",
+        "005187.webp",
+        "005188.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Wow, cái sốt nó sánh xịt và rất là thơm mùi mè luôn đó.",
+      "start": 209.52,
+      "end": 214.16,
+      "n_words": 14,
+      "start_frame": 5238,
+      "end_frame": 5354,
+      "keyframes": [
+        "005243.webp",
+        "005299.webp",
+        "005300.webp",
+        "005327.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Sử dụng sốt mè rang Ajinomoto giúp món salad thơm mè quyện sốt, rất là tiện lợi khi chúng ta sử dụng chai sốt như thế này và đã có một món salad là hoàn chỉnh rồi.",
+      "start": 214.16,
+      "end": 224.28,
+      "n_words": 37,
+      "start_frame": 5354,
+      "end_frame": 5607,
+      "keyframes": [
+        "005355.webp",
+        "005356.webp",
+        "005406.webp",
+        "005456.webp",
+        "005457.webp",
+        "005499.webp",
+        "005542.webp",
+        "005557.webp",
+        "005588.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Bây giờ chắc là mình phải xin phép được thưởng thức.",
+      "start": 224.28,
+      "end": 233.4,
+      "n_words": 11,
+      "start_frame": 5607,
+      "end_frame": 5835,
+      "keyframes": [
+        "005619.webp",
+        "005620.webp",
+        "005651.webp",
+        "005682.webp",
+        "005683.webp",
+        "005756.webp",
+        "005830.webp",
+        "005831.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Đây là một món salad đúng là kiểu truyền thống nhưng mà ăn lúc nào cũng cảm thấy là tươi mới, có một cái vị thơm nhẹ nhẹ beo béo của mè.",
+      "start": 233.4,
+      "end": 242.0,
+      "n_words": 32,
+      "start_frame": 5835,
+      "end_frame": 6050,
+      "keyframes": [
+        "005868.webp",
+        "005906.webp",
+        "005907.webp",
+        "005936.webp",
+        "005966.webp",
+        "005967.webp",
+        "006040.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Và đây là một món mà Kim Thảo nghĩ rằng chúng ta có thể nhanh gọn lẹ thực hiện cho cả nhà của mình thưởng thức, bổ sung đầy đủ chất đạm nè và bên cạnh đó là đầy đủ tất cả các loại rau củ rất là đúng điệu.",
+      "start": 242.0,
+      "end": 253.84,
+      "n_words": 50,
+      "start_frame": 6050,
+      "end_frame": 6346,
+      "keyframes": [
+        "006113.webp",
+        "006114.webp",
+        "006183.webp",
+        "006253.webp",
+        "006254.webp",
+        "006300.webp",
+        "006346.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Và để đạt được hiệu quả dinh dưỡng, các bạn có thể tham khảo món ăn này cùng với bản thực đơn một ngày sau đây các bạn nhé.",
+      "start": 253.84,
+      "end": 265.6,
+      "n_words": 29,
+      "start_frame": 6346,
+      "end_frame": 6640,
+      "keyframes": [
+        "006346.webp",
+        "006347.webp",
+        "006408.webp",
+        "006469.webp",
+        "006470.webp",
+        "006557.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Ngày hè tươi mát với salad rong nho sốt mè rang, vào bếp và làm ngay thôi!",
+      "start": 265.6,
+      "end": 270.44,
+      "n_words": 17,
+      "start_frame": 6640,
+      "end_frame": 6761,
+      "keyframes": [
+        "006644.webp",
+        "006645.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và để xem lại công thức của món ăn ngày hôm nay cũng như là chúng ta có thể ghép tất cả những món ăn hấp dẫn tạo nên những bữa cơm gia đình đầm ấm, quý vị và các bạn chỉ cần truy cập vào YouTube, website, fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 270.44,
+      "end": 284.52,
+      "n_words": 56,
+      "start_frame": 6761,
+      "end_frame": 7113,
+      "keyframes": [
+        "006866.webp",
+        "007088.webp",
+        "007089.webp"
+      ],
+      "keyframe_count": 3
+    }
+  ]
+}

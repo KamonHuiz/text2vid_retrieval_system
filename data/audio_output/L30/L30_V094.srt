@@ -1,0 +1,55 @@
+1
+00:00:00,000 --> 00:00:28,240
+Do chỉ sau một tháng nghiên cứu, hệ thống bơm nước IoT được điều khiển thông qua ứng dụng Era trên điện thoại di động đã được ba bạn sinh viên Lê Quang Định, Nguyễn Văn Thanh, Lê Vũ Minh Phong thuộc khoa Điện tử trường Cao đẳng Kỹ thuật Cao Thắng, Thành phố Hồ Chí Minh chế tạo thành công.
+
+2
+00:00:28,240 --> 00:00:49,880
+Do người nông dân thì chủ yếu lao động và tưới tiêu bằng sức người là chính, chưa áp dụng công nghệ khoa học kỹ thuật, vì vậy thì cái việc đó thì nó sẽ gây ảnh hưởng là năng suất tưới tiêu không đạt hiệu quả cao, gây tốn sức người, tiêu hao nguồn năng lượng điện và nước, và bên cạnh đó thì khó có thể mở rộng ở quy mô cao.
+
+3
+00:00:49,880 --> 00:00:56,880
+Thì cái hệ thống bơm nước IoT này chính là một trong những giải pháp thiết thực hỗ trợ người nông dân trong cái việc tưới tiêu.
+
+4
+00:00:56,880 --> 00:01:07,040
+Thì cái hệ thống này chúng em thiết kế có hai chế độ vận hành chính: một là chế độ vận hành manual thông qua internet, một chế độ tiếp theo đó là vận hành theo lịch trình.
+
+5
+00:01:07,040 --> 00:01:16,400
+Thì ở trên cái hệ thống này chúng em đã cài đặt nó thông qua cái app mobile, cái hệ thống này sẽ tự động tưới tiêu theo lịch trình của chúng em cài đặt 24/7.
+
+6
+00:01:16,800 --> 00:01:26,200
+Vào lúc 9:00 sáng thì năm phút đầu sẽ tưới van đầu tiên, năm phút sau sẽ tưới van thứ hai theo cái chế độ tưới luân phiên, và cái đó là chế độ tưới theo lịch trình.
+
+7
+00:01:26,200 --> 00:01:42,320
+Còn cái chế độ vận hành manual thông qua internet, nhờ vào cái app mobile thì người sử dụng có thể tùy chỉnh theo cái nhu cầu của mình, có thể tưới van này van thứ nhất hoặc là van thứ hai, và có thể điều khiển được cái tốc độ động cơ phù hợp với cái nhu cầu thực tế của người nông dân.
+
+8
+00:01:42,320 --> 00:02:01,920
+Thì bên cạnh đó thì hệ thống của chúng em thì có tích hợp tất cả các trường hợp lỗi trong cái điều kiện vận hành thực tế của người nông dân, thì bao gồm tuột nước hoặc là bơm đã bơm nhưng mà van không mở được; Thì hai cái trường hợp lỗi này thì thông thường nó sẽ xảy ra phổ biến trong cái quá trình vận hành của người nông dân.
+
+9
+00:02:01,920 --> 00:02:09,720
+Thì nhờ vào những cái tính năng của cái hệ thống của chúng em thì nó sẽ khắc phục được tất cả các nhược điểm đó.
+
+10
+00:02:09,720 --> 00:02:19,360
+Cấu tạo của hệ thống bơm nước IoT gồm có máy bơm ba pha, cảm biến dòng chảy, hai phao điện tử, tủ điện, đồng hồ đo điện năng với tổng khối lượng khoảng 20 kg.
+
+11
+00:02:21,320 --> 00:02:51,600
+Trong hệ thống của em thì em đã vận dụng những môn học của trường như là môn Lý thuyết mạch, Điện tử công suất, về Lý thuyết điều khiển tự động, môn Vi điều khiển và môn Mạng công nghiệp để sử dụng cho một hệ thống bơm nước IoT.
+
+12
+00:02:51,600 --> 00:03:04,360
+Thì dựa vào các thiết bị công nghiệp mà chúng em đã tích hợp trên cái hệ thống này, thì hệ thống này thì người nông dân có thể điều khiển cái động cơ phù hợp với cái nhu cầu thực tế, thì nhờ vào đó thì có thể tiết kiệm được 30 đến 50% lượng điện tiêu thụ so với các phương pháp tưới tiêu công nghiệp.
+
+13
+00:03:04,360 --> 00:03:13,960
+Và bên cạnh đó thì còn có thể tiết kiệm được cái nguồn nước nhờ vào cái việc có thể điều chỉnh được tốc độ động cơ phù hợp với các nhu cầu thực tế của người nông dân.
+
+14
+00:03:13,960 --> 00:03:27,280
+Với sáng chế này, nhóm đoạt giải Nhất cuộc thi Sáng tạo IoT MTTU 2024 và nhận được sự hợp tác từ vườn doanh nghiệp công nghệ cao STBIC một khu công nghệ cao Thành phố Hồ Chí Minh.

@@ -1,0 +1,562 @@
+{
+  "video_id": "L23_V021",
+  "fps": 25.0,
+  "n_sentences": 32,
+  "total_words": 1163,
+  "sentences": [
+    {
+      "text": "Một tinh thần thi đấu rất quân đội.",
+      "start": 0.0,
+      "end": 3.36,
+      "n_words": 8,
+      "start_frame": 0,
+      "end_frame": 84,
+      "keyframes": [
+        "000000.webp",
+        "000082.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ekip Đồng Tháp lúc này cũng đã chen được lên phía trên, vượt qua được những chiếc máy kéo của Vĩnh Long. 2 km cuối cùng của chặng đua ngày hôm nay.",
+      "start": 3.36,
+      "end": 15.28,
+      "n_words": 32,
+      "start_frame": 84,
+      "end_frame": 382,
+      "keyframes": [
+        "000164.webp",
+        "000165.webp",
+        "000169.webp",
+        "000173.webp",
+        "000174.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Như vậy là các tay đua của Vĩnh Long đã không còn duy trì đủ nền tảng thể lực để có thể duy trì được tốc độ ổn và họ đã chấp nhận phải nhường thế chủ động lại cho các đối thủ.",
+      "start": 15.28,
+      "end": 25.36,
+      "n_words": 43,
+      "start_frame": 382,
+      "end_frame": 634,
+      "keyframes": [
+        "000465.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Vẫn còn rất nhiều những mắt xích ở phía trên, trong khi những chân nước rút chủ lực như Martin Las, tay đua mặc áo xanh Trần Tuấn Kiệt, Lê Nguyệt Minh, Nguyễn Văn Bình đang nằm rất sát nhau.",
+      "start": 25.36,
+      "end": 44.52,
+      "n_words": 40,
+      "start_frame": 634,
+      "end_frame": 1113,
+      "keyframes": [
+        "000756.webp",
+        "000757.webp",
+        "000881.webp",
+        "001006.webp",
+        "001007.webp",
+        "001092.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Trần Tuấn Kiệt đang đi ngay kế bên Martin Lacey và ngay phía sau Mikail, trong khi vị trí lý tưởng của anh có lẽ là phải ngay phía sau chân rút lớn của đội hình của mình là Louis Desiart.",
+      "start": 44.52,
+      "end": 58.84,
+      "n_words": 41,
+      "start_frame": 1113,
+      "end_frame": 1471,
+      "keyframes": [
+        "001177.webp",
+        "001178.webp",
+        "001248.webp",
+        "001319.webp",
+        "001320.webp",
+        "001444.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Khi mà dược liệu, mà dược liệu Mesco Đồng Tháp đang ráp một tông thì Mikail và Martin Lacey lại đu theo tông của Đồng Tháp, trong khi Trần Tuấn Kiệt lại đu ở phía sau lưng của Martin Lacey thì rõ ràng đó không phải là một vị trí thuận lợi.",
+      "start": 58.84,
+      "end": 71.92,
+      "n_words": 52,
+      "start_frame": 1471,
+      "end_frame": 1798,
+      "keyframes": [
+        "001569.webp",
+        "001570.webp",
+        "001613.webp",
+        "001656.webp",
+        "001657.webp",
+        "001783.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Như đã chia sẻ thì bên cạnh việc triển khai đội hình mũi tên đưa về rút thì mỗi chân nước rút của các tập thể này cũng phải chọn được cho mình một vị trí đẹp, duy trì được nền tảng thể lực khi các đội đối phương tấn công để không bị ngợp và đặc biệt là canh tầm rút hiệu quả nhất ở trong những mét cuối cùng.",
+      "start": 71.92,
+      "end": 88.64,
+      "n_words": 71,
+      "start_frame": 1798,
+      "end_frame": 2216,
+      "keyframes": [
+        "001910.webp",
+        "001911.webp",
+        "002074.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ thì hãy chờ xem liệu các tay đua của Quân khu 7 và Quân đội có duy trì được tốc độ ổn định hay không khi mà Phạm Lê Xuân Lộc mặc áo trắng ở phía sau anh đó là Nguyễn Văn Nhã và cuối cùng là chân rút Hoàng Văn Cường.",
+      "start": 88.64,
+      "end": 100.24,
+      "n_words": 54,
+      "start_frame": 2216,
+      "end_frame": 2506,
+      "keyframes": [
+        "002238.webp",
+        "002239.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Quân khu 7 liên tục đẩy tốc độ lên cao và bây giờ thì họ chỉ còn ba mắt xích. Phạm Lê Xuân Lộc đang đẩy tốc độ rất cao và đưa được Nguyễn Văn Nhã cùng với Hoàng Văn Cường đã bị rơi lại phía sau.",
+      "start": 100.24,
+      "end": 111.04,
+      "n_words": 47,
+      "start_frame": 2506,
+      "end_frame": 2776,
+      "keyframes": [
+        "002529.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Có vẻ như Hoàng Văn Cường không đủ hơi và bây giờ thì Michael Rem đưa cho Martin Lath lên đu theo phía sau cùng Nguyễn Văn Nhã.",
+      "start": 111.04,
+      "end": 117.32,
+      "n_words": 28,
+      "start_frame": 2776,
+      "end_frame": 2933,
+      "keyframes": [
+        "002820.webp",
+        "002821.webp",
+        "002888.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bitter Richus thì đu theo ngay sau với Martin Lath và có cả Lê Nguyệt Minh và Nguyễn Văn Minh.",
+      "start": 117.32,
+      "end": 122.36,
+      "n_words": 20,
+      "start_frame": 2933,
+      "end_frame": 3059,
+      "keyframes": [
+        "002956.webp",
+        "002957.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Mikel đã mở ra được một tốc độ cao và đưa bạn một vị trí thuận lợi nhưng Martin có vẻ hụt hơi và áo vàng đang vươn lên.",
+      "start": 122.36,
+      "end": 131.32,
+      "n_words": 29,
+      "start_frame": 3059,
+      "end_frame": 3283,
+      "keyframes": [
+        "003184.webp",
+        "003220.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Có vẻ như chiến thắng thuộc về áo vàng Peter Richus.",
+      "start": 131.32,
+      "end": 137.88,
+      "n_words": 11,
+      "start_frame": 3283,
+      "end_frame": 3447,
+      "keyframes": [
+        "003411.webp",
+        "003412.webp",
+        "003447.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Một tình huống tăng tốc của Mikel đưa được Martin Laimas vào vị trí thuận lợi nhưng dường như là chân rút người Estonia của Martin Laimas bị hụt tầm.",
+      "start": 137.88,
+      "end": 148.24,
+      "n_words": 30,
+      "start_frame": 3447,
+      "end_frame": 3706,
+      "keyframes": [
+        "003447.webp",
+        "003483.webp",
+        "003484.webp",
+        "003519.webp",
+        "003554.webp",
+        "003555.webp",
+        "003627.webp",
+        "003700.webp",
+        "003701.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đó cũng không phải là lần đầu tiên ở trong cuộc đua năm nay mà Martin Laimas với những lợi thế nhất định của mình nhưng đã thiếu đi một chút tốc độ ở đoạn cuối và thất bại trước những đối thủ cạnh tranh trực tiếp của mình như Peter Richus, Trần Tuấn Kiệt hay Lê Nguyệt Minh.",
+      "start": 148.24,
+      "end": 180.92,
+      "n_words": 59,
+      "start_frame": 3706,
+      "end_frame": 4523,
+      "keyframes": [
+        "003842.webp",
+        "003983.webp",
+        "003984.webp",
+        "004050.webp",
+        "004117.webp",
+        "004118.webp",
+        "004181.webp",
+        "004245.webp",
+        "004246.webp",
+        "004309.webp",
+        "004372.webp",
+        "004373.webp",
+        "004444.webp",
+        "004515.webp",
+        "004516.webp",
+        "004523.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Chúng ta xem lại đoạn tranh chấp nước rút này: Phạm Lê Xuân Lộc đã làm nước lớn rất tốt cho Nguyễn Văn Nhã nhưng chân rút của họ Hoàng Văn Cường lại bị hụt hơi ở phía sau.",
+      "start": 180.92,
+      "end": 191.12,
+      "n_words": 39,
+      "start_frame": 4523,
+      "end_frame": 4778,
+      "keyframes": [
+        "004523.webp",
+        "004531.webp",
+        "004532.webp",
+        "004721.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Sau đó Mikeo Rem tăng tốc đẩy tốc độ đưa Martin Lay lên ở phía trên. Áo vàng Vitarikup đu sát ở phía sau Martin Lay và phía sau đó là Lê Nguyệt Minh của Thành phố Hồ Chí Minh.",
+      "start": 191.12,
+      "end": 204.96,
+      "n_words": 40,
+      "start_frame": 4778,
+      "end_frame": 5124,
+      "keyframes": [
+        "004911.webp",
+        "004912.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "New Group Nguyễn Văn Bình cũng đã cố gắng tràn lên bên cạnh người đồng đội Ivan Timophei của Thành phố Hồ Chí Minh Vinama và Martin Lay đã bị hụt tầm để cho Vitarikup vượt qua.",
+      "start": 204.96,
+      "end": 219.36,
+      "n_words": 37,
+      "start_frame": 5124,
+      "end_frame": 5484,
+      "keyframes": [
+        "005174.webp",
+        "005436.webp",
+        "005437.webp",
+        "005458.webp",
+        "005480.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Của 6.20 Châu Thới Vĩnh Long về hạng nhì, hạng ba là Lê Nguyệt Minh, hạng 4 Nguyễn Văn Bình.",
+      "start": 219.84,
+      "end": 275.76,
+      "n_words": 20,
+      "start_frame": 5496,
+      "end_frame": 6894,
+      "keyframes": [
+        "005502.webp",
+        "005542.webp",
+        "005583.webp",
+        "005584.webp",
+        "005784.webp",
+        "005984.webp",
+        "005985.webp",
+        "006103.webp",
+        "006221.webp",
+        "006222.webp",
+        "006326.webp",
+        "006430.webp",
+        "006431.webp",
+        "006446.webp",
+        "006462.webp",
+        "006463.webp",
+        "006471.webp",
+        "006480.webp",
+        "006481.webp",
+        "006608.webp",
+        "006736.webp",
+        "006737.webp"
+      ],
+      "keyframe_count": 22
+    },
+    {
+      "text": "Đoạn nước rút mà có vẻ như là Peter Richop vẫn còn chưa tung ra hết lực cũng đã đủ để giành chiến thắng.",
+      "start": 275.76,
+      "end": 285.6,
+      "n_words": 24,
+      "start_frame": 6894,
+      "end_frame": 7140,
+      "keyframes": [
+        "007016.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Năm có lẽ là Ivan Timofeev của Thành phố Hồ Chí Minh Vinama, sau đó có thêm tay đua Trần Trọng Phúc của Belio Canada Đồng Nai tấn công lên nhập vào top 1 với ba tay đua.",
+      "start": 285.6,
+      "end": 312.6,
+      "n_words": 38,
+      "start_frame": 7140,
+      "end_frame": 7815,
+      "keyframes": [
+        "007296.webp",
+        "007297.webp",
+        "007298.webp",
+        "007300.webp",
+        "007301.webp",
+        "007400.webp",
+        "007499.webp",
+        "007500.webp",
+        "007519.webp",
+        "007539.webp",
+        "007540.webp",
+        "007673.webp",
+        "007807.webp",
+        "007808.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Và trong diễn biến mà rất nhiều những tay đua cũng như những đội đua muốn tìm kiếm các giải thưởng cá nhân ở sprint cũng như giải thưởng nhất chặng thì một nhóm những tay đua khác cũng đã tấn công lên hòa vào top 1.",
+      "start": 312.6,
+      "end": 330.32,
+      "n_words": 47,
+      "start_frame": 7815,
+      "end_frame": 8258,
+      "keyframes": [
+        "007863.webp",
+        "007919.webp",
+        "007920.webp",
+        "007972.webp",
+        "008025.webp",
+        "008026.webp",
+        "008118.webp",
+        "008211.webp",
+        "008212.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Top 1 có đến 12 tay đua cùng đưa nhau về cạnh tranh ở điểm thưởng dọc đường đầu tiên.",
+      "start": 330.32,
+      "end": 388.4,
+      "n_words": 20,
+      "start_frame": 8258,
+      "end_frame": 9710,
+      "keyframes": [
+        "008308.webp",
+        "008405.webp",
+        "008406.webp",
+        "008500.webp",
+        "008594.webp",
+        "008595.webp",
+        "008747.webp",
+        "008899.webp",
+        "008900.webp",
+        "009086.webp",
+        "009273.webp",
+        "009274.webp",
+        "009383.webp",
+        "009493.webp",
+        "009494.webp",
+        "009636.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Hai tay đua hình thành top 1 đưa nhau về cạnh tranh ở giải thưởng dọc đường đầu tiên trong tình thế mà đoàn đông ở phía sau chỉ canh tầm với khoảng cách trên dưới ba phút.",
+      "start": 388.4,
+      "end": 431.6,
+      "n_words": 38,
+      "start_frame": 9710,
+      "end_frame": 10790,
+      "keyframes": [
+        "009778.webp",
+        "009779.webp",
+        "009958.webp",
+        "010137.webp",
+        "010138.webp",
+        "010249.webp",
+        "010360.webp",
+        "010361.webp",
+        "010530.webp",
+        "010699.webp",
+        "010700.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Miền Tây là cái nôi của xe đạp đường trường cả nước và trong chặng đua về miền Tây thì tình cảm của người hâm mộ dành cho đoàn đua Cúp truyền hình Thành phố Hồ Chí Minh là rất lớn.",
+      "start": 431.6,
+      "end": 442.8,
+      "n_words": 41,
+      "start_frame": 10790,
+      "end_frame": 11070,
+      "keyframes": [
+        "010799.webp",
+        "010898.webp",
+        "010899.webp",
+        "010959.webp",
+        "011019.webp",
+        "011020.webp",
+        "011056.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Ở trong thế lợi quân thì các tay đua của Quân đội đã tấn công và giành chiến thắng ở điểm thưởng dọc đường đầu tiên với chiến thắng của Trần Vương Lộc.",
+      "start": 442.8,
+      "end": 462.72,
+      "n_words": 33,
+      "start_frame": 11070,
+      "end_frame": 11568,
+      "keyframes": [
+        "011092.webp",
+        "011093.webp",
+        "011103.webp",
+        "011113.webp",
+        "011114.webp",
+        "011210.webp",
+        "011306.webp",
+        "011307.webp",
+        "011417.webp",
+        "011527.webp",
+        "011528.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Sau điểm thưởng dọc đường đầu tiên, hướng đến điểm thưởng dọc đường thứ hai với khoảng cách 22 km thì các tay đua ở nhóm đầu đã tổ chức những đợt tấn công để xé nhỏ ra nhóm 1 và ở đoạn tranh chấp nước rút xích sao thì Hà Kiều tấn đại của Nhựa Bình Minh Bình Dương đã giành chiến thắng trước Nguyễn Trúc Sinh ở vạch sprint 2.",
+      "start": 462.72,
+      "end": 487.52,
+      "n_words": 72,
+      "start_frame": 11568,
+      "end_frame": 12188,
+      "keyframes": [
+        "011618.webp",
+        "011709.webp",
+        "011710.webp",
+        "011781.webp",
+        "011852.webp",
+        "011853.webp",
+        "011868.webp",
+        "011883.webp",
+        "011884.webp",
+        "012009.webp",
+        "012134.webp",
+        "012135.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Sau điểm thưởng dọc đường thứ hai thì các tay đua của 6.20 Nông nghiệp Vĩnh Long và 6.20 Châu Thới Vĩnh Long đã tràn lên làm chủ nhịp độ đoàn đông để thể hiện tham vọng đưa mặt tinh lát về cạnh tranh nước rút ở đích đến.",
+      "start": 487.52,
+      "end": 500.0,
+      "n_words": 49,
+      "start_frame": 12188,
+      "end_frame": 12500,
+      "keyframes": [
+        "012217.webp",
+        "012299.webp",
+        "012300.webp",
+        "012380.webp",
+        "012460.webp",
+        "012461.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và khi còn cách đích tầm 5 km thì tông mũi tên đưa về rút của Quân khu 7 đã tràn lên ở phía trên, vượt qua cả tông của Vĩnh Long.",
+      "start": 500.0,
+      "end": 511.76,
+      "n_words": 32,
+      "start_frame": 12500,
+      "end_frame": 12794,
+      "keyframes": [
+        "012569.webp",
+        "012677.webp",
+        "012678.webp",
+        "012778.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Ở đoạn rút đích thì Phạm Lê Xuân Lộc đưa Nguyễn Văn Nhã về nhưng không đủ lực.",
+      "start": 511.76,
+      "end": 516.96,
+      "n_words": 18,
+      "start_frame": 12794,
+      "end_frame": 12924,
+      "keyframes": [
+        "012879.webp",
+        "012880.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Martin Lasek dẫn mặt tinh lát lên nhưng áo vàng Peter Richop đã đeo bám quá xuất sắc.",
+      "start": 516.96,
+      "end": 522.8,
+      "n_words": 18,
+      "start_frame": 12924,
+      "end_frame": 13070,
+      "keyframes": [
+        "013038.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trong tình thế mặt tin lát, thế Martin Lasek bị hụt tầm và Peter Richop đã có chiến thắng thứ chín tại Cúp truyền hình Thành phố Hồ Chí Minh năm nay.",
+      "start": 522.8,
+      "end": 530.8,
+      "n_words": 32,
+      "start_frame": 13070,
+      "end_frame": 13270,
+      "keyframes": [
+        "013197.webp",
+        "013216.webp",
+        "013217.webp",
+        "013218.webp",
+        "013219.webp",
+        "013226.webp",
+        "013234.webp",
+        "013235.webp"
+      ],
+      "keyframe_count": 8
+    }
+  ]
+}

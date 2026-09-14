@@ -1,0 +1,19 @@
+{
+  "unfiltered": {
+    "text": "mày làm sao mày ăn đi mày thích gì thích gì mày vào đi nhìn tôi thể hiện nhá",
+    "word_count": 19
+  },
+  "flagged": {
+    "text": "mày làm @symbol(sao) mày ăn đi mày thích gì thích gì mày vào đi nhìn tôi thể hiện nhá",
+    "word_count": 19
+  },
+  "refined": {
+    "text": "Mày làm sao? Mày ăn đi. Mày thích gì? Thích gì mày vào đi, nhìn tôi thể hiện nhá.",
+    "word_count": 19,
+    "source": "flagged"
+  },
+  "proofread": {
+    "text": "Mày làm sao? Mày ăn đi. Mày thích gì? Thích gì mày vào đi, nhìn tôi thể hiện nhá.",
+    "word_count": 19
+  }
+}

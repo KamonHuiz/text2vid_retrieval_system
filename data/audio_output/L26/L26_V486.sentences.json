@@ -1,0 +1,881 @@
+{
+  "video_id": "L26_V486",
+  "fps": 25.0,
+  "n_sentences": 51,
+  "total_words": 918,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.48,
+      "end": 11.96,
+      "n_words": 4,
+      "start_frame": 262,
+      "end_frame": 299,
+      "keyframes": [
+        "000299.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trà Thanh Phương, một rổ rau xanh tươi luôn nè.",
+      "start": 11.96,
+      "end": 14.64,
+      "n_words": 10,
+      "start_frame": 299,
+      "end_frame": 366,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000313.webp",
+        "000326.webp",
+        "000327.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cô rau rừng đó cô?",
+      "start": 14.64,
+      "end": 15.8,
+      "n_words": 5,
+      "start_frame": 366,
+      "end_frame": 395,
+      "keyframes": [
+        "000376.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ồ ngon quá hen!",
+      "start": 15.8,
+      "end": 17.36,
+      "n_words": 4,
+      "start_frame": 395,
+      "end_frame": 434,
+      "keyframes": [
+        "000426.webp",
+        "000427.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Mà rau là còn thịt đâu?",
+      "start": 17.72,
+      "end": 19.64,
+      "n_words": 6,
+      "start_frame": 443,
+      "end_frame": 491,
+      "keyframes": [
+        "000455.webp",
+        "000483.webp",
+        "000484.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thịt heo luộc quá hả?",
+      "start": 19.64,
+      "end": 22.04,
+      "n_words": 5,
+      "start_frame": 491,
+      "end_frame": 551,
+      "keyframes": [
+        "000519.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Em nghĩ cái món đó nó thường quá rồi, thôi bây giờ mình làm một cái món nào nó mới lạ đi, là chắc phải nhờ cô rồi đó.",
+      "start": 22.04,
+      "end": 28.68,
+      "n_words": 29,
+      "start_frame": 551,
+      "end_frame": 717,
+      "keyframes": [
+        "000554.webp",
+        "000555.webp",
+        "000573.webp",
+        "000592.webp",
+        "000593.webp",
+        "000655.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hay hải sản đi cô?",
+      "start": 28.68,
+      "end": 30.52,
+      "n_words": 5,
+      "start_frame": 717,
+      "end_frame": 763,
+      "keyframes": [
+        "000718.webp",
+        "000719.webp",
+        "000736.webp",
+        "000753.webp",
+        "000754.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Rồi cô nghĩ ra món gì rồi?",
+      "start": 30.52,
+      "end": 32.52,
+      "n_words": 7,
+      "start_frame": 763,
+      "end_frame": 813,
+      "keyframes": [
+        "000792.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đảm bảo là ăn với rau rừng này là sẽ rất là tuyệt vời luôn.",
+      "start": 32.52,
+      "end": 38.2,
+      "n_words": 15,
+      "start_frame": 813,
+      "end_frame": 955,
+      "keyframes": [
+        "000830.webp",
+        "000831.webp",
+        "000859.webp",
+        "000887.webp",
+        "000888.webp",
+        "000897.webp",
+        "000907.webp",
+        "000908.webp",
+        "000932.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Bánh xèo hải sản, giòn ngon, mỹ mãn.",
+      "start": 38.2,
+      "end": 56.84,
+      "n_words": 8,
+      "start_frame": 955,
+      "end_frame": 1421,
+      "keyframes": [
+        "000957.webp",
+        "000958.webp",
+        "000995.webp",
+        "001033.webp",
+        "001034.webp",
+        "001079.webp",
+        "001124.webp",
+        "001134.webp",
+        "001168.webp",
+        "001203.webp",
+        "001204.webp",
+        "001318.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Chào mừng các bạn đang đến với chương trình Món ngon mỗi ngày.",
+      "start": 56.84,
+      "end": 59.2,
+      "n_words": 13,
+      "start_frame": 1421,
+      "end_frame": 1480,
+      "keyframes": [
+        "001432.webp",
+        "001433.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ngon mỗi ngày được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 59.2,
+      "end": 63.52,
+      "n_words": 12,
+      "start_frame": 1480,
+      "end_frame": 1588,
+      "keyframes": [
+        "001510.webp",
+        "001588.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rồi đầu tiên thì mình sẽ pha bột ha.",
+      "start": 63.52,
+      "end": 65.72,
+      "n_words": 9,
+      "start_frame": 1588,
+      "end_frame": 1643,
+      "keyframes": [
+        "001588.webp",
+        "001589.webp",
+        "001616.webp",
+        "001643.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cô chuẩn bị là 200 gram bột bánh xèo, có 200 ml nước cốt dừa, cô cho thêm khoảng 250 ml nước nữa.",
+      "start": 65.72,
+      "end": 73.44,
+      "n_words": 23,
+      "start_frame": 1643,
+      "end_frame": 1836,
+      "keyframes": [
+        "001643.webp",
+        "001644.webp",
+        "001646.webp",
+        "001649.webp",
+        "001650.webp",
+        "001685.webp",
+        "001720.webp",
+        "001721.webp",
+        "001743.webp",
+        "001765.webp",
+        "001766.webp",
+        "001799.webp",
+        "001832.webp",
+        "001833.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Tiếp theo thì cô sẽ cho vào đây một quả trứng gà, trứng gà mình đã đánh tan qua cái rây và mình nêm vào đây một muỗng cà phê hạt nêm Ajinomoto ngon heo, cho vào đây một ít hành lá cắt nhỏ.",
+      "start": 73.44,
+      "end": 83.8,
+      "n_words": 44,
+      "start_frame": 1836,
+      "end_frame": 2095,
+      "keyframes": [
+        "001894.webp",
+        "001956.webp",
+        "001957.webp",
+        "001997.webp",
+        "002038.webp",
+        "002039.webp",
+        "002067.webp",
+        "002095.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Và các bạn cũng lưu ý là sau khi mà mình pha bột xong thì chúng ta sẽ để cho bột nghỉ khoảng chừng 30 phút đến một tiếng, bánh xèo sẽ phồng xốp ngon hơn.",
+      "start": 83.8,
+      "end": 92.44,
+      "n_words": 36,
+      "start_frame": 2095,
+      "end_frame": 2311,
+      "keyframes": [
+        "002095.webp",
+        "002096.webp",
+        "002175.webp",
+        "002254.webp",
+        "002255.webp",
+        "002282.webp",
+        "002309.webp",
+        "002310.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Tôm cô đã sơ chế sạch, mực cũng đã sơ chế sạch luôn.",
+      "start": 92.44,
+      "end": 95.04,
+      "n_words": 13,
+      "start_frame": 2311,
+      "end_frame": 2376,
+      "keyframes": [
+        "002342.webp",
+        "002374.webp",
+        "002375.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trong món ăn này thì các bạn lưu ý là chúng ta sẽ dùng tôm bạc hoặc là tôm đất thì món ăn sẽ ngon hơn.",
+      "start": 95.04,
+      "end": 100.08,
+      "n_words": 26,
+      "start_frame": 2376,
+      "end_frame": 2502,
+      "keyframes": [
+        "002437.webp",
+        "002499.webp",
+        "002500.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hải sản là mình phải cho chút xíu tiêu ha và nửa muỗng cà phê hạt nêm Ajinomoto ngon heo.",
+      "start": 100.08,
+      "end": 105.12,
+      "n_words": 20,
+      "start_frame": 2502,
+      "end_frame": 2628,
+      "keyframes": [
+        "002527.webp",
+        "002554.webp",
+        "002555.webp",
+        "002590.webp",
+        "002626.webp",
+        "002627.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Trong lúc mà chờ tôm và mực thấm gia vị thì chúng ta sẽ sơ chế đến cái phần rau củ.",
+      "start": 105.12,
+      "end": 110.24,
+      "n_words": 21,
+      "start_frame": 2628,
+      "end_frame": 2756,
+      "keyframes": [
+        "002668.webp",
+        "002710.webp",
+        "002711.webp",
+        "002746.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Trong món bánh xèo, mình sẽ trộn đều các rau củ với nhau.",
+      "start": 110.24,
+      "end": 113.44,
+      "n_words": 13,
+      "start_frame": 2756,
+      "end_frame": 2836,
+      "keyframes": [
+        "002781.webp",
+        "002782.webp",
+        "002820.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ở đây cô có giá, có hành tím cắt nhỏ mỏng như thế này rồi nè, rồi cà rốt, củ sắn, hành lá mình cắt khúc và mình trộn đều nó lên.",
+      "start": 113.44,
+      "end": 122.68,
+      "n_words": 32,
+      "start_frame": 2836,
+      "end_frame": 3067,
+      "keyframes": [
+        "002859.webp",
+        "002860.webp",
+        "002922.webp",
+        "002985.webp",
+        "002986.webp",
+        "003002.webp",
+        "003019.webp",
+        "003020.webp",
+        "003043.webp",
+        "003067.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Bánh xèo này chất lượng quá, tôm mực là tươi ngon luôn.",
+      "start": 122.68,
+      "end": 126.44,
+      "n_words": 12,
+      "start_frame": 3067,
+      "end_frame": 3161,
+      "keyframes": [
+        "003067.webp",
+        "003068.webp",
+        "003114.webp",
+        "003161.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Còn cái phần rau củ quả nè, trời ơi có củ sắn nữa.",
+      "start": 126.44,
+      "end": 129.72,
+      "n_words": 13,
+      "start_frame": 3161,
+      "end_frame": 3243,
+      "keyframes": [
+        "003161.webp",
+        "003162.webp",
+        "003200.webp",
+        "003238.webp",
+        "003239.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta sẽ cho vào đây khoảng chừng một chén dầu ăn, mình đun cho dầu vừa nóng thôi, không có đợi phải sôi thì mình sẽ cho vào đây là một ít cái hành và tỏi đập dập.",
+      "start": 129.72,
+      "end": 141.12,
+      "n_words": 39,
+      "start_frame": 3243,
+      "end_frame": 3528,
+      "keyframes": [
+        "003284.webp",
+        "003330.webp",
+        "003331.webp",
+        "003373.webp",
+        "003415.webp",
+        "003416.webp",
+        "003471.webp",
+        "003527.webp",
+        "003528.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Các bạn lưu ý là chúng ta sẽ phi hành tỏi với dầu ăn cho thơm rồi lấy dầu đó chiên bánh xèo để bánh được thơm ngon nha.",
+      "start": 141.12,
+      "end": 147.24,
+      "n_words": 29,
+      "start_frame": 3528,
+      "end_frame": 3681,
+      "keyframes": [
+        "003528.webp",
+        "003549.webp",
+        "003570.webp",
+        "003571.webp",
+        "003596.webp",
+        "003622.webp",
+        "003623.webp",
+        "003652.webp",
+        "003681.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Múc một ít dầu cho vô chảo rồi cô sẽ cho cái phần tôm vào đây, mình xào tôm.",
+      "start": 147.24,
+      "end": 152.72,
+      "n_words": 19,
+      "start_frame": 3681,
+      "end_frame": 3818,
+      "keyframes": [
+        "003681.webp",
+        "003682.webp",
+        "003696.webp",
+        "003710.webp",
+        "003711.webp",
+        "003723.webp",
+        "003736.webp",
+        "003737.webp",
+        "003763.webp",
+        "003790.webp",
+        "003791.webp",
+        "003804.webp",
+        "003818.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Bây giờ khi mà tôm vừa chín thôi thì bây giờ mình tắt lửa và cái chảo còn đang nóng như thế này nè, mình sẽ cho cái phần mực còn lại vào, mình chỉ đảo vậy thôi, mực nó chín sẵn rồi.",
+      "start": 152.72,
+      "end": 163.72,
+      "n_words": 43,
+      "start_frame": 3818,
+      "end_frame": 4093,
+      "keyframes": [
+        "003818.webp",
+        "003819.webp",
+        "003841.webp",
+        "003863.webp",
+        "003864.webp",
+        "003885.webp",
+        "003907.webp",
+        "003908.webp",
+        "004000.webp",
+        "004092.webp",
+        "004093.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Ồ thơm quá!",
+      "start": 163.72,
+      "end": 166.28,
+      "n_words": 3,
+      "start_frame": 4093,
+      "end_frame": 4157,
+      "keyframes": [
+        "004093.webp",
+        "004106.webp",
+        "004119.webp",
+        "004120.webp",
+        "004141.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Rồi xong rồi mình sẽ trút cái phần tôm mực này ra.",
+      "start": 166.28,
+      "end": 169.88,
+      "n_words": 12,
+      "start_frame": 4157,
+      "end_frame": 4247,
+      "keyframes": [
+        "004162.webp",
+        "004163.webp",
+        "004181.webp",
+        "004199.webp",
+        "004200.webp",
+        "004219.webp",
+        "004239.webp",
+        "004240.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Rồi bây giờ mới là tới công đoạn đổ bánh xèo nè.",
+      "start": 169.88,
+      "end": 172.6,
+      "n_words": 12,
+      "start_frame": 4247,
+      "end_frame": 4315,
+      "keyframes": [
+        "004275.webp",
+        "004311.webp",
+        "004312.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mở đưa giúp cô nha.",
+      "start": 172.6,
+      "end": 174.2,
+      "n_words": 5,
+      "start_frame": 4315,
+      "end_frame": 4355,
+      "keyframes": [
+        "004334.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rồi mình đợi cho cái chảo nóng lên xíu á, rồi cô sẽ cho lên đây dầu, láng dầu khắp chảo cho đều.",
+      "start": 174.2,
+      "end": 181.28,
+      "n_words": 23,
+      "start_frame": 4355,
+      "end_frame": 4532,
+      "keyframes": [
+        "004357.webp",
+        "004358.webp",
+        "004396.webp",
+        "004434.webp",
+        "004435.webp",
+        "004459.webp",
+        "004483.webp",
+        "004484.webp",
+        "004508.webp",
+        "004532.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Múc một gáo bột này thì mình đổ những cái bánh xèo nho nhỏ thôi nha, không có đổ bự nha, rồi tráng đều một cái lớp mỏng như vậy cũng công phu lắm cô ha.",
+      "start": 181.28,
+      "end": 190.56,
+      "n_words": 36,
+      "start_frame": 4532,
+      "end_frame": 4764,
+      "keyframes": [
+        "004532.webp",
+        "004533.webp",
+        "004548.webp",
+        "004564.webp",
+        "004724.webp",
+        "004757.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đúng rồi, tiếp theo cho vào đây tôm và mực, cho rau giá vào trong này.",
+      "start": 190.56,
+      "end": 196.2,
+      "n_words": 16,
+      "start_frame": 4764,
+      "end_frame": 4905,
+      "keyframes": [
+        "004791.webp",
+        "004792.webp",
+        "004803.webp",
+        "004815.webp",
+        "004816.webp",
+        "004827.webp",
+        "004839.webp",
+        "004840.webp",
+        "004872.webp",
+        "004904.webp",
+        "004905.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Bây giờ thì chúng ta sẽ đậy nắp lại và chúng ta nhớ là chúng ta chỉ cần giảm lửa vừa thôi, đừng có làm nhanh quá bởi vì bánh xèo đổ chậm chậm, chín từ từ thì mới giòn và ngon được.",
+      "start": 196.2,
+      "end": 206.16,
+      "n_words": 43,
+      "start_frame": 4905,
+      "end_frame": 5154,
+      "keyframes": [
+        "004905.webp",
+        "004930.webp",
+        "004955.webp",
+        "004956.webp",
+        "005059.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ha, nhân cũng chín rồi đó, mình sẽ mở nắp.",
+      "start": 206.16,
+      "end": 208.84,
+      "n_words": 10,
+      "start_frame": 5154,
+      "end_frame": 5221,
+      "keyframes": [
+        "005162.webp",
+        "005163.webp",
+        "005202.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn lưu ý là khi bánh vừa chín thì chúng ta sẽ mở nắp và đợi cho bốc hết hơi nước, bánh ráo, cái rìa thì chúng ta sẽ rưới thêm một ít dầu để bánh được giòn lâu nha.",
+      "start": 208.84,
+      "end": 218.8,
+      "n_words": 41,
+      "start_frame": 5221,
+      "end_frame": 5470,
+      "keyframes": [
+        "005241.webp",
+        "005242.webp",
+        "005304.webp",
+        "005366.webp",
+        "005367.webp",
+        "005415.webp",
+        "005463.webp",
+        "005464.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Rồi giờ chuẩn bị mình vớt ra.",
+      "start": 218.8,
+      "end": 222.8,
+      "n_words": 7,
+      "start_frame": 5470,
+      "end_frame": 5570,
+      "keyframes": [
+        "005484.webp",
+        "005505.webp",
+        "005506.webp",
+        "005553.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Ui giòn rụm, trông bắt mắt quá vô cùng các bạn ơi, dễ làm cực kỳ.",
+      "start": 222.8,
+      "end": 231.28,
+      "n_words": 16,
+      "start_frame": 5570,
+      "end_frame": 5782,
+      "keyframes": [
+        "005601.webp",
+        "005602.webp",
+        "005645.webp",
+        "005688.webp",
+        "005689.webp",
+        "005733.webp",
+        "005778.webp",
+        "005779.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Bột còn lại là của Thanh Phương, Thanh Đảo nha.",
+      "start": 231.28,
+      "end": 235.16,
+      "n_words": 10,
+      "start_frame": 5782,
+      "end_frame": 5879,
+      "keyframes": [
+        "005821.webp",
+        "005864.webp",
+        "005865.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cô tin tưởng là dữ vậy hả?",
+      "start": 235.16,
+      "end": 240.64,
+      "n_words": 7,
+      "start_frame": 5879,
+      "end_frame": 6016,
+      "keyframes": [
+        "005883.webp",
+        "005902.webp",
+        "005903.webp",
+        "005920.webp",
+        "005937.webp",
+        "005938.webp",
+        "005950.webp",
+        "005963.webp",
+        "005964.webp",
+        "005977.webp",
+        "005991.webp",
+        "005992.webp",
+        "006002.webp",
+        "006012.webp",
+        "006013.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Mình sẽ pha nước mắm.",
+      "start": 242.52,
+      "end": 244.0,
+      "n_words": 5,
+      "start_frame": 6063,
+      "end_frame": 6100,
+      "keyframes": [
+        "006066.webp",
+        "006067.webp",
+        "006083.webp",
+        "006099.webp",
+        "006100.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Sẽ lấy tỉ lệ đường, nước mắm, nước dừa tươi, ba vá như vậy là tỷ lệ đường, nước mắm và nước dừa của mình là 1:1:1.",
+      "start": 244.0,
+      "end": 256.24,
+      "n_words": 27,
+      "start_frame": 6100,
+      "end_frame": 6406,
+      "keyframes": [
+        "006100.webp",
+        "006135.webp",
+        "006171.webp",
+        "006172.webp",
+        "006197.webp",
+        "006223.webp",
+        "006224.webp",
+        "006236.webp",
+        "006249.webp",
+        "006250.webp",
+        "006264.webp",
+        "006278.webp",
+        "006279.webp",
+        "006293.webp",
+        "006307.webp",
+        "006308.webp",
+        "006364.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Cho sôi cho tan hết đường, chúng ta sẽ để nguội phần nước này.",
+      "start": 258.08,
+      "end": 261.56,
+      "n_words": 14,
+      "start_frame": 6452,
+      "end_frame": 6539,
+      "keyframes": [
+        "006458.webp",
+        "006495.webp",
+        "006496.webp",
+        "006527.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Khi ăn thì mình sẽ cho thêm là tỏi băm, ớt băm và đồ chua.",
+      "start": 261.56,
+      "end": 267.76,
+      "n_words": 15,
+      "start_frame": 6539,
+      "end_frame": 6694,
+      "keyframes": [
+        "006559.webp",
+        "006560.webp",
+        "006582.webp",
+        "006605.webp",
+        "006606.webp",
+        "006623.webp",
+        "006641.webp",
+        "006642.webp",
+        "006666.webp",
+        "006691.webp",
+        "006692.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Wow, một món ăn dân dã cực kỳ dễ làm, chúng ta hoàn toàn có thể thực hiện được tại nhà.",
+      "start": 267.76,
+      "end": 272.56,
+      "n_words": 21,
+      "start_frame": 6694,
+      "end_frame": 6814,
+      "keyframes": [
+        "006756.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cả nhà cùng nhau quây quần đổ bánh xèo và thưởng thức sẽ tạo nên một bầu không khí vô cùng vui nhộn.",
+      "start": 272.56,
+      "end": 278.32,
+      "n_words": 23,
+      "start_frame": 6814,
+      "end_frame": 6958,
+      "keyframes": [
+        "006820.webp",
+        "006821.webp",
+        "006837.webp",
+        "006854.webp",
+        "006855.webp",
+        "006905.webp",
+        "006956.webp",
+        "006957.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Vỏ bánh xèo tròn xốp thơm, thoang thoảng nước cốt dừa, tôm mực thì chín ngọt, ăn với rau rừng tươi mát, quyện thêm nước chấm chua ngọt, thực ngon khó cưỡng. Mời cả nhà cùng thưởng thức món bánh xèo thơm ngon chất lượng cả nhà ơi!",
+      "start": 278.32,
+      "end": 291.12,
+      "n_words": 48,
+      "start_frame": 6958,
+      "end_frame": 7278,
+      "keyframes": [
+        "006998.webp",
+        "007039.webp",
+        "007057.webp",
+        "007088.webp",
+        "007119.webp",
+        "007120.webp",
+        "007165.webp",
+        "007210.webp",
+        "007211.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đừng quên vào bếp với Món ngon mỗi ngày.",
+      "start": 291.68,
+      "end": 295.56,
+      "n_words": 9,
+      "start_frame": 7292,
+      "end_frame": 7389,
+      "keyframes": [
+        "007294.webp",
+        "007377.webp",
+        "007378.webp"
+      ],
+      "keyframe_count": 3
+    }
+  ]
+}

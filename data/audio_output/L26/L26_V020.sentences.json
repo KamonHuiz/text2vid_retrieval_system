@@ -1,0 +1,649 @@
+{
+  "video_id": "L26_V020",
+  "fps": 25.0,
+  "n_sentences": 38,
+  "total_words": 906,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.56,
+      "end": 12.16,
+      "n_words": 4,
+      "start_frame": 264,
+      "end_frame": 304,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Món ăn rất thơm, mùi ngũ vị hương, tim heo nướng dài sơn, sất vị ngọt ngọt béo nhẹ, một ý tưởng hay tuyệt vời cho buổi tụ tập cuối tuần.",
+      "start": 12.16,
+      "end": 38.56,
+      "n_words": 31,
+      "start_frame": 304,
+      "end_frame": 964,
+      "keyframes": [
+        "000339.webp",
+        "000378.webp",
+        "000379.webp",
+        "000422.webp",
+        "000466.webp",
+        "000467.webp",
+        "000497.webp",
+        "000527.webp",
+        "000528.webp",
+        "000563.webp",
+        "000599.webp",
+        "000600.webp",
+        "000601.webp",
+        "000602.webp",
+        "000603.webp",
+        "000632.webp",
+        "000661.webp",
+        "000662.webp",
+        "000690.webp",
+        "000719.webp",
+        "000720.webp",
+        "000818.webp",
+        "000916.webp",
+        "000917.webp",
+        "000959.webp"
+      ],
+      "keyframe_count": 25
+    },
+    {
+      "text": "Rất vui khi được gặp lại quý vị khán giả đang xem chương trình Món ngon mỗi ngày, nấu chỗ ăn lành.",
+      "start": 38.56,
+      "end": 44.88,
+      "n_words": 22,
+      "start_frame": 964,
+      "end_frame": 1122,
+      "keyframes": [
+        "001001.webp",
+        "001002.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Azino Việt Nam.",
+      "start": 44.88,
+      "end": 48.64,
+      "n_words": 11,
+      "start_frame": 1122,
+      "end_frame": 1216,
+      "keyframes": [
+        "001127.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Em chào anh Dũng, chào Minh Tuấn.",
+      "start": 48.64,
+      "end": 50.2,
+      "n_words": 7,
+      "start_frame": 1216,
+      "end_frame": 1255,
+      "keyframes": [
+        "001253.webp",
+        "001254.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Lâu lâu hai anh em, hai người đàn ông tụ họp trong một chương trình và vào dịp cuối tuần thì không ai như mình làm cái món gì đó để mình lai rai, mình lai rai nâng chén được không anh? Được chứ.",
+      "start": 50.2,
+      "end": 62.16,
+      "n_words": 44,
+      "start_frame": 1255,
+      "end_frame": 1554,
+      "keyframes": [
+        "001280.webp",
+        "001306.webp",
+        "001307.webp",
+        "001395.webp",
+        "001484.webp",
+        "001485.webp",
+        "001507.webp",
+        "001529.webp",
+        "001530.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Hôm nay nguyên liệu chúng ta là có tim heo nè, tim heo là thấy cái vẻ cũng bắt mồi nha, rồi chúng ta có đậu bắp nè.",
+      "start": 62.16,
+      "end": 71.0,
+      "n_words": 28,
+      "start_frame": 1554,
+      "end_frame": 1775,
+      "keyframes": [
+        "001593.webp",
+        "001657.webp",
+        "001658.webp",
+        "001677.webp",
+        "001696.webp",
+        "001697.webp",
+        "001756.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Và bắp thấy quen quen chưa, cái này là giống như là mình nướng chao phải không anh?",
+      "start": 71.0,
+      "end": 76.12,
+      "n_words": 18,
+      "start_frame": 1775,
+      "end_frame": 1903,
+      "keyframes": [
+        "001815.webp",
+        "001816.webp",
+        "001831.webp",
+        "001846.webp",
+        "001847.webp",
+        "001884.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đúng rồi, đây là một món nướng.",
+      "start": 76.12,
+      "end": 78.04,
+      "n_words": 7,
+      "start_frame": 1903,
+      "end_frame": 1951,
+      "keyframes": [
+        "001922.webp",
+        "001923.webp",
+        "001936.webp",
+        "001950.webp",
+        "001951.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và thưa các bạn, món ngày hôm nay có tên gọi là tim heo nướng ngũ vị.",
+      "start": 78.04,
+      "end": 81.44,
+      "n_words": 17,
+      "start_frame": 1951,
+      "end_frame": 2036,
+      "keyframes": [
+        "001951.webp",
+        "001993.webp",
+        "002036.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Theo các chuyên gia dinh dưỡng, món này toàn hỗ trợ giảm khối mỡ.",
+      "start": 81.44,
+      "end": 84.92,
+      "n_words": 14,
+      "start_frame": 2036,
+      "end_frame": 2123,
+      "keyframes": [
+        "002036.webp",
+        "002037.webp",
+        "002083.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thường tim heo này chúng ta cần mổ quả rồi bây giờ chúng ta cắt lát và chúng ta cắt dọc theo cái quả tim như vậy.",
+      "start": 84.92,
+      "end": 91.2,
+      "n_words": 27,
+      "start_frame": 2123,
+      "end_frame": 2280,
+      "keyframes": [
+        "002129.webp",
+        "002130.webp",
+        "002218.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Với lại cái món này mình dùng tim heo thì đây là một cái bộ phận mà có rất là nhiều đạm nhưng mà lại có rất là ít mỡ, rất phù hợp dành cho những bạn nào mà chúng ta muốn giảm mỡ thừa nè hay là tăng cơ dành cho cơ thể của mình.",
+      "start": 91.4,
+      "end": 104.2,
+      "n_words": 56,
+      "start_frame": 2285,
+      "end_frame": 2605,
+      "keyframes": [
+        "002307.webp",
+        "002308.webp",
+        "002384.webp",
+        "002461.webp",
+        "002462.webp",
+        "002530.webp",
+        "002598.webp",
+        "002599.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Và thưa các bạn, chúng ta ướp đầu tiên trong đây là hành tím với lại tỏi băm cho vào đây khoảng hai loại khoảng một muỗng canh, một muỗng canh, một muỗng cà phê, một muỗng cà phê dầu hào một muỗng canh sữa đặc có đường.",
+      "start": 104.2,
+      "end": 117.8,
+      "n_words": 48,
+      "start_frame": 2605,
+      "end_frame": 2945,
+      "keyframes": [
+        "002626.webp",
+        "002654.webp",
+        "002655.webp",
+        "002689.webp",
+        "002723.webp",
+        "002724.webp",
+        "002754.webp",
+        "002784.webp",
+        "002785.webp",
+        "002812.webp",
+        "002839.webp",
+        "002840.webp",
+        "002863.webp",
+        "002886.webp",
+        "002887.webp",
+        "002918.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Chúng ta nên ướp sữa đặc có đường thay vì ướp đường thì không những tạo vị ngọt thanh mà còn tạo thêm vị béo cho món nướng ngày hôm nay nữa.",
+      "start": 117.8,
+      "end": 125.44,
+      "n_words": 32,
+      "start_frame": 2945,
+      "end_frame": 3136,
+      "keyframes": [
+        "002950.webp",
+        "002951.webp",
+        "003043.webp",
+        "003135.webp",
+        "003136.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cho vào đây một muỗng canh dầu điều, chúng ta nên cho vào đây một chút xíu dầu điều để tạo màu sắc bắt mắt cho nó.",
+      "start": 125.44,
+      "end": 133.28,
+      "n_words": 27,
+      "start_frame": 3136,
+      "end_frame": 3332,
+      "keyframes": [
+        "003136.webp",
+        "003180.webp",
+        "003224.webp",
+        "003225.webp",
+        "003281.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Một muỗng cà phê hạt nêm A-ngon, khoảng 1/3 muỗng cà phê tiêu trắng xay và khoảng nửa muỗng cà phê bột năng.",
+      "start": 133.56,
+      "end": 141.52,
+      "n_words": 23,
+      "start_frame": 3339,
+      "end_frame": 3538,
+      "keyframes": [
+        "003354.webp",
+        "003370.webp",
+        "003371.webp",
+        "003387.webp",
+        "003404.webp",
+        "003405.webp",
+        "003438.webp",
+        "003471.webp",
+        "003472.webp",
+        "003505.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Chúng ta ướp tim heo với lại ít bột năng để giữ được vị ngọt cũng như tim heo sau khi nướng sẽ không bị khô.",
+      "start": 141.52,
+      "end": 147.56,
+      "n_words": 26,
+      "start_frame": 3538,
+      "end_frame": 3689,
+      "keyframes": [
+        "003539.webp",
+        "003540.webp",
+        "003613.webp",
+        "003686.webp",
+        "003687.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và bắp này thì chúng ta cũng luộc cho vừa chín rồi và chúng ta rắc lại tí xíu muối.",
+      "start": 147.56,
+      "end": 153.24,
+      "n_words": 20,
+      "start_frame": 3689,
+      "end_frame": 3831,
+      "keyframes": [
+        "003718.webp",
+        "003749.webp",
+        "003750.webp",
+        "003777.webp",
+        "003805.webp",
+        "003806.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Các bạn thấm gia vị, chúng ta điều chỉnh nhiệt độ khoảng 180 độ.",
+      "start": 153.24,
+      "end": 157.88,
+      "n_words": 14,
+      "start_frame": 3831,
+      "end_frame": 3947,
+      "keyframes": [
+        "003841.webp",
+        "003876.webp",
+        "003877.webp",
+        "003920.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Thôi Tuấn sẽ cho từng miếng, một miếng lên chúng ta chỉ cần áp chảo qua lại thôi, chúng ta bỏ thêm đậu bắp vô luôn ha mới thơm, nó dậy cái mùi thơm, mướn dư ngon quá, quá hấp dẫn quá.",
+      "start": 157.88,
+      "end": 178.2,
+      "n_words": 42,
+      "start_frame": 3947,
+      "end_frame": 4455,
+      "keyframes": [
+        "003963.webp",
+        "003964.webp",
+        "004004.webp",
+        "004044.webp",
+        "004045.webp",
+        "004071.webp",
+        "004098.webp",
+        "004099.webp",
+        "004135.webp",
+        "004171.webp",
+        "004172.webp",
+        "004197.webp",
+        "004223.webp",
+        "004224.webp",
+        "004306.webp",
+        "004388.webp",
+        "004389.webp",
+        "004420.webp",
+        "004451.webp",
+        "004452.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Đậu bắp cũng phải cháy xém xém xíu nè.",
+      "start": 178.2,
+      "end": 181.2,
+      "n_words": 9,
+      "start_frame": 4455,
+      "end_frame": 4530,
+      "keyframes": [
+        "004500.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đậu bắp thì thực ra mình đã luộc chín rồi nên là mình sẽ áp chảo cho thơm thôi, đó áp chảo cho nó thơm rồi nướng rồi những miếng như vậy là được.",
+      "start": 181.2,
+      "end": 188.6,
+      "n_words": 34,
+      "start_frame": 4530,
+      "end_frame": 4715,
+      "keyframes": [
+        "004549.webp",
+        "004550.webp",
+        "004613.webp",
+        "004677.webp",
+        "004678.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta gắp đây, đó quá ngon quá hấp dẫn rồi, đậu bắp chúng ta chín luôn nha, thơm quá trời thơm.",
+      "start": 188.6,
+      "end": 194.68,
+      "n_words": 22,
+      "start_frame": 4715,
+      "end_frame": 4867,
+      "keyframes": [
+        "004725.webp",
+        "004772.webp",
+        "004773.webp",
+        "004804.webp",
+        "004836.webp",
+        "004837.webp",
+        "004859.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Rồi đây mọi người có thấy dĩa thịt này không?",
+      "start": 194.68,
+      "end": 198.24,
+      "n_words": 10,
+      "start_frame": 4867,
+      "end_frame": 4956,
+      "keyframes": [
+        "004881.webp",
+        "004882.webp",
+        "004919.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Có thấy hấp dẫn không?",
+      "start": 198.24,
+      "end": 199.72,
+      "n_words": 5,
+      "start_frame": 4956,
+      "end_frame": 4993,
+      "keyframes": [
+        "004957.webp",
+        "004958.webp",
+        "004987.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Có muốn làm không?",
+      "start": 199.72,
+      "end": 200.76,
+      "n_words": 4,
+      "start_frame": 4993,
+      "end_frame": 5019,
+      "keyframes": [
+        "005017.webp",
+        "005018.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nếu có thì mọi người hãy lập tức lấy mấy điện thoại của mình ra quét mã QR đang xuất hiện trên màn hình, chúng ta sẽ có ngay công thức nấu ăn của ngày hôm nay.",
+      "start": 200.76,
+      "end": 209.4,
+      "n_words": 37,
+      "start_frame": 5019,
+      "end_frame": 5235,
+      "keyframes": [
+        "005102.webp",
+        "005186.webp",
+        "005187.webp",
+        "005211.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ cho món ăn ra dĩa đó rồi giờ em thưởng thức anh ha.",
+      "start": 209.4,
+      "end": 221.32,
+      "n_words": 18,
+      "start_frame": 5235,
+      "end_frame": 5533,
+      "keyframes": [
+        "005236.webp",
+        "005237.webp",
+        "005264.webp",
+        "005292.webp",
+        "005293.webp",
+        "005305.webp",
+        "005318.webp",
+        "005319.webp",
+        "005340.webp",
+        "005362.webp",
+        "005363.webp",
+        "005376.webp",
+        "005389.webp",
+        "005390.webp",
+        "005435.webp",
+        "005480.webp",
+        "005481.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Gắp một miếng tim vào đây nè, rồi mình cho thêm một ít đậu bắp đó.",
+      "start": 221.32,
+      "end": 229.0,
+      "n_words": 16,
+      "start_frame": 5533,
+      "end_frame": 5725,
+      "keyframes": [
+        "005544.webp",
+        "005608.webp",
+        "005609.webp",
+        "005658.webp",
+        "005707.webp",
+        "005708.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hấp dẫn cái phần tim, nó vẫn giòn giữ được cái độ mềm sần sật ở bên trong, rất là thấm vị, không bị khô, ăn rất là mướt mát và vừa miệng luôn.",
+      "start": 229.0,
+      "end": 242.56,
+      "n_words": 34,
+      "start_frame": 5725,
+      "end_frame": 6064,
+      "keyframes": [
+        "005760.webp",
+        "005812.webp",
+        "005813.webp",
+        "005924.webp",
+        "006036.webp",
+        "006051.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bên cạnh đó phần rau củ ăn kèm cực kỳ hợp.",
+      "start": 242.56,
+      "end": 245.28,
+      "n_words": 11,
+      "start_frame": 6064,
+      "end_frame": 6132,
+      "keyframes": [
+        "006091.webp",
+        "006131.webp",
+        "006132.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ mà với cái món này nha đảm bảo luôn là từ chủ đến khách đến tất cả các thành viên trong gia đình đều thích luôn, nên mọi người hãy chuẩn bị để thết đãi mọi người vào dịp cuối tuần nha.",
+      "start": 245.28,
+      "end": 254.2,
+      "n_words": 44,
+      "start_frame": 6132,
+      "end_frame": 6355,
+      "keyframes": [
+        "006132.webp",
+        "006186.webp",
+        "006241.webp",
+        "006242.webp",
+        "006307.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cảm ơn anh Vũ.",
+      "start": 254.2,
+      "end": 255.0,
+      "n_words": 4,
+      "start_frame": 6355,
+      "end_frame": 6375,
+      "keyframes": [
+        "006373.webp",
+        "006374.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và thưa các bạn, để đạt được hiệu quả dinh dưỡng hơn thì chúng ta có thể kết hợp món ăn này cùng với thực đơn tham khảo như sau.",
+      "start": 255.0,
+      "end": 264.48,
+      "n_words": 30,
+      "start_frame": 6375,
+      "end_frame": 6612,
+      "keyframes": [
+        "006434.webp",
+        "006494.webp",
+        "006495.webp",
+        "006557.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cuối tuần rồi mà vẫn còn loay hoay không biết nấu món gì để thết đãi gia đình và bạn bè của mình, mọi người hãy chọn ngay món ăn của ngày hôm nay: tim heo nướng ngũ vị, đảm bảo tất cả mọi người đều hài lòng. Công thức sẽ luôn có trên YouTube, website và fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 264.48,
+      "end": 281.04,
+      "n_words": 65,
+      "start_frame": 6612,
+      "end_frame": 7026,
+      "keyframes": [
+        "006619.webp",
+        "006620.webp",
+        "006755.webp",
+        "006891.webp",
+        "006892.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bất cứ lúc nào chúng ta có thể truy cập vào đây để tìm hiểu thêm thật nhiều những công thức nấu ăn ngon hấp dẫn tại nhà.",
+      "start": 281.04,
+      "end": 286.44,
+      "n_words": 28,
+      "start_frame": 7026,
+      "end_frame": 7161,
+      "keyframes": [
+        "007074.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúc các bạn thành công và luôn luôn có những món ngon với Món ngon mỗi ngày.",
+      "start": 286.44,
+      "end": 291.12,
+      "n_words": 17,
+      "start_frame": 7161,
+      "end_frame": 7278,
+      "keyframes": [
+        "007257.webp",
+        "007258.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

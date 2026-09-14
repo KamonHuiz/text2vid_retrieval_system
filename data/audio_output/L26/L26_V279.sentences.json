@@ -1,0 +1,838 @@
+{
+  "video_id": "L26_V279",
+  "fps": 25.0,
+  "n_sentences": 50,
+  "total_words": 1003,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày. Xin ơi!",
+      "start": 10.48,
+      "end": 12.84,
+      "n_words": 6,
+      "start_frame": 262,
+      "end_frame": 321,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rồi bà Tuyết cầm giỏ táo đi đâu vậy trời ơi?",
+      "start": 12.84,
+      "end": 15.04,
+      "n_words": 11,
+      "start_frame": 321,
+      "end_frame": 376,
+      "keyframes": [
+        "000332.webp",
+        "000365.webp",
+        "000366.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nhận ra ngay luôn, á hả, Bạch Tuyết mang táo đến cho chú lùn.",
+      "start": 15.04,
+      "end": 18.24,
+      "n_words": 14,
+      "start_frame": 376,
+      "end_frame": 456,
+      "keyframes": [
+        "000408.webp",
+        "000450.webp",
+        "000451.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chẳng hay là chú lùn đã uống cà phê sáng chưa?",
+      "start": 18.24,
+      "end": 20.24,
+      "n_words": 11,
+      "start_frame": 456,
+      "end_frame": 506,
+      "keyframes": [
+        "000477.webp",
+        "000504.webp",
+        "000505.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ủa rồi tự nhiên đưa táo mà cà phê rồi hai cái đó nó có liên quan với nhau không?",
+      "start": 20.24,
+      "end": 24.24,
+      "n_words": 20,
+      "start_frame": 506,
+      "end_frame": 606,
+      "keyframes": [
+        "000555.webp",
+        "000606.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Khi người ta hỏi là phải có lý do, tại vì theo thực tế thì mọi người cứ nghĩ là buổi sáng cần tỉnh táo nên uống ly cà phê, nhưng khoa học đã chứng minh chỉ cần ăn một quả táo thôi thì hiệu quả còn gấp bội lần so với một ly cà phê. Nhưng mà để gặp đầu bếp thì có âm mưu rồi.",
+      "start": 24.24,
+      "end": 40.32,
+      "n_words": 67,
+      "start_frame": 606,
+      "end_frame": 1008,
+      "keyframes": [
+        "000606.webp",
+        "000607.webp",
+        "000681.webp",
+        "000756.webp",
+        "000757.webp",
+        "000798.webp",
+        "000839.webp",
+        "000840.webp",
+        "000897.webp",
+        "000954.webp",
+        "000955.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Bây giờ là không ăn táo mà ăn sáng có táo được nữa.",
+      "start": 40.32,
+      "end": 43.36,
+      "n_words": 13,
+      "start_frame": 1008,
+      "end_frame": 1084,
+      "keyframes": [
+        "001014.webp",
+        "001074.webp",
+        "001075.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Quá hay, chần chờ gì nữa vào bếp thôi!",
+      "start": 43.36,
+      "end": 48.0,
+      "n_words": 9,
+      "start_frame": 1084,
+      "end_frame": 1200,
+      "keyframes": [
+        "001098.webp",
+        "001121.webp",
+        "001122.webp",
+        "001136.webp",
+        "001151.webp",
+        "001152.webp",
+        "001176.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Hấp dẫn lạ kỳ với bánh rán sô cô la sốt táo mới. Chào các bạn khán giả đến với chương trình Món ngon mỗi ngày.",
+      "start": 48.0,
+      "end": 70.56,
+      "n_words": 26,
+      "start_frame": 1200,
+      "end_frame": 1764,
+      "keyframes": [
+        "001201.webp",
+        "001202.webp",
+        "001250.webp",
+        "001299.webp",
+        "001300.webp",
+        "001354.webp",
+        "001408.webp",
+        "001423.webp",
+        "001472.webp",
+        "001522.webp",
+        "001523.webp",
+        "001609.webp",
+        "001696.webp",
+        "001697.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Azino Việt Nam.",
+      "start": 70.56,
+      "end": 74.12,
+      "n_words": 11,
+      "start_frame": 1764,
+      "end_frame": 1853,
+      "keyframes": [
+        "001775.webp",
+        "001853.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Phương sẽ cắt ra dùng nửa trái chanh để vắt vô nước rồi táo bây giờ sẽ nhớ là bỏ vỏ nha.",
+      "start": 74.12,
+      "end": 92.96,
+      "n_words": 22,
+      "start_frame": 1853,
+      "end_frame": 2324,
+      "keyframes": [
+        "001853.webp",
+        "001854.webp",
+        "001869.webp",
+        "001884.webp",
+        "001885.webp",
+        "001899.webp",
+        "001914.webp",
+        "001915.webp",
+        "001943.webp",
+        "001972.webp",
+        "001973.webp",
+        "002004.webp",
+        "002035.webp",
+        "002036.webp",
+        "002057.webp",
+        "002079.webp",
+        "002080.webp",
+        "002117.webp",
+        "002155.webp",
+        "002156.webp",
+        "002187.webp",
+        "002218.webp",
+        "002219.webp",
+        "002271.webp",
+        "002324.webp"
+      ],
+      "keyframe_count": 25
+    },
+    {
+      "text": "Bây giờ mình sẽ cho vào phần tô nước có chanh để cho cái phần táo đục trắng và không có bị thâm.",
+      "start": 92.96,
+      "end": 100.2,
+      "n_words": 23,
+      "start_frame": 2324,
+      "end_frame": 2505,
+      "keyframes": [
+        "002324.webp",
+        "002325.webp",
+        "002386.webp",
+        "002448.webp",
+        "002449.webp",
+        "002478.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Phần táo đã xong rồi, kế đến dâu tây thì cắt lát và chừa một trái ra để chúng ta cắt làm đôi để trang trí ở trên cùng cho đẹp và nhớ bỏ cuống nha.",
+      "start": 100.2,
+      "end": 110.76,
+      "n_words": 36,
+      "start_frame": 2505,
+      "end_frame": 2769,
+      "keyframes": [
+        "002507.webp",
+        "002508.webp",
+        "002527.webp",
+        "002547.webp",
+        "002548.webp",
+        "002590.webp",
+        "002633.webp",
+        "002634.webp",
+        "002650.webp",
+        "002666.webp",
+        "002667.webp",
+        "002718.webp",
+        "002769.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Mình sẽ cho ra dĩa.",
+      "start": 110.76,
+      "end": 112.68,
+      "n_words": 5,
+      "start_frame": 2769,
+      "end_frame": 2817,
+      "keyframes": [
+        "002769.webp",
+        "002770.webp",
+        "002788.webp",
+        "002807.webp",
+        "002808.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Các bạn nên nhớ là ngâm táo vào nước có pha nước cốt chanh để táo không bị thâm.",
+      "start": 112.68,
+      "end": 117.56,
+      "n_words": 19,
+      "start_frame": 2817,
+      "end_frame": 2939,
+      "keyframes": [
+        "002822.webp",
+        "002836.webp",
+        "002837.webp",
+        "002859.webp",
+        "002882.webp",
+        "002883.webp",
+        "002910.webp",
+        "002938.webp",
+        "002939.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Rồi, bây giờ mình sẽ có một cái chảo để mình làm cái phần táo rim để mình ăn kèm với lại bánh rán vị sô cô la nha.",
+      "start": 117.56,
+      "end": 122.72,
+      "n_words": 29,
+      "start_frame": 2939,
+      "end_frame": 3068,
+      "keyframes": [
+        "002939.webp",
+        "003006.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rồi ở đây mình có một muỗng canh đường, ba muỗng canh nước.",
+      "start": 122.72,
+      "end": 126.68,
+      "n_words": 13,
+      "start_frame": 3068,
+      "end_frame": 3167,
+      "keyframes": [
+        "003074.webp",
+        "003075.webp",
+        "003105.webp",
+        "003135.webp",
+        "003136.webp",
+        "003162.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thời gian rim bắt đầu từ khi mà nước đường sôi lên, chúng ta bỏ táo vào, chúng ta rim khoảng ba phút là được.",
+      "start": 127.0,
+      "end": 131.52,
+      "n_words": 25,
+      "start_frame": 3175,
+      "end_frame": 3288,
+      "keyframes": [
+        "003189.webp",
+        "003190.webp",
+        "003209.webp",
+        "003228.webp",
+        "003229.webp",
+        "003258.webp",
+        "003288.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cái món táo rim này thì nó gần giống như là mứt táo nhưng mình ăn thì cảm giác nó sẽ tươi hơn.",
+      "start": 131.52,
+      "end": 136.16,
+      "n_words": 23,
+      "start_frame": 3288,
+      "end_frame": 3404,
+      "keyframes": [
+        "003288.webp",
+        "003289.webp",
+        "003351.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "À rồi bây giờ Minh Phương thấy là nó khô như vậy thì chúng ta sẽ tắt bếp và chúng ta sẽ cho ra một cái tô khác nha.",
+      "start": 136.16,
+      "end": 145.12,
+      "n_words": 29,
+      "start_frame": 3404,
+      "end_frame": 3628,
+      "keyframes": [
+        "003414.webp",
+        "003415.webp",
+        "003450.webp",
+        "003486.webp",
+        "003487.webp",
+        "003525.webp",
+        "003563.webp",
+        "003564.webp",
+        "003600.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Bây giờ chúng ta pha bột và đổ bánh.",
+      "start": 145.12,
+      "end": 147.16,
+      "n_words": 9,
+      "start_frame": 3628,
+      "end_frame": 3679,
+      "keyframes": [
+        "003636.webp",
+        "003637.webp",
+        "003657.webp",
+        "003677.webp",
+        "003678.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Định lượng hôm nay xin có một gói bột bánh rán pha sẵn vị sô cô la và xin sẽ dùng 140 ml nước giống như công thức đã ghi trên gói bột nha. Quá tiện và nhanh luôn!",
+      "start": 147.16,
+      "end": 157.0,
+      "n_words": 39,
+      "start_frame": 3679,
+      "end_frame": 3925,
+      "keyframes": [
+        "003725.webp",
+        "003773.webp",
+        "003774.webp",
+        "003830.webp",
+        "003886.webp",
+        "003887.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Từ khi biết cách sử dụng bột bánh rán pha sẵn thì có nghĩa là cái khâu pha bột không còn là vấn đề với Minh Phương nữa. Quá nhanh đúng không?",
+      "start": 157.0,
+      "end": 164.96,
+      "n_words": 32,
+      "start_frame": 3925,
+      "end_frame": 4124,
+      "keyframes": [
+        "003927.webp",
+        "003968.webp",
+        "003969.webp",
+        "003999.webp",
+        "004030.webp",
+        "004031.webp",
+        "004083.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Đúng rồi.",
+      "start": 164.96,
+      "end": 165.56,
+      "n_words": 2,
+      "start_frame": 4124,
+      "end_frame": 4139,
+      "keyframes": [
+        "004135.webp",
+        "004136.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và trong thời gian mà xin hòa tan cái bột này, xin mời Minh Phương giúp chuẩn bị một cái chảo để chúng ta chuẩn bị rán bánh nha.",
+      "start": 165.56,
+      "end": 171.04,
+      "n_words": 29,
+      "start_frame": 4139,
+      "end_frame": 4276,
+      "keyframes": [
+        "004157.webp",
+        "004178.webp",
+        "004179.webp",
+        "004202.webp",
+        "004225.webp",
+        "004226.webp",
+        "004255.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Có ngay!",
+      "start": 171.04,
+      "end": 171.68,
+      "n_words": 2,
+      "start_frame": 4276,
+      "end_frame": 4292,
+      "keyframes": [
+        "004284.webp",
+        "004285.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúng ta sẽ mở lửa lên để cho chảo nóng.",
+      "start": 171.68,
+      "end": 174.16,
+      "n_words": 10,
+      "start_frame": 4292,
+      "end_frame": 4354,
+      "keyframes": [
+        "004318.webp",
+        "004351.webp",
+        "004352.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn nên nhớ là chúng ta dùng khăn ướt để làm hạ nhiệt độ của chảo để bánh rán được chín đều và không bị cháy nha.",
+      "start": 174.16,
+      "end": 179.64,
+      "n_words": 28,
+      "start_frame": 4354,
+      "end_frame": 4491,
+      "keyframes": [
+        "004421.webp",
+        "004491.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Hay, chảo đã nóng rồi chúng ta sẽ để lên cái phần khăn ướt để giảm nhiệt độ của chảo xuống.",
+      "start": 179.64,
+      "end": 184.72,
+      "n_words": 21,
+      "start_frame": 4491,
+      "end_frame": 4618,
+      "keyframes": [
+        "004491.webp",
+        "004492.webp",
+        "004518.webp",
+        "004545.webp",
+        "004546.webp",
+        "004583.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đó, nghe cái xèo, nghe cái tiếng xèo đúng không?",
+      "start": 184.72,
+      "end": 187.08,
+      "n_words": 10,
+      "start_frame": 4618,
+      "end_frame": 4677,
+      "keyframes": [
+        "004620.webp",
+        "004621.webp",
+        "004673.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta sẽ để lên, chúng ta sẽ hạ lửa xuống rồi chúng ta sẽ nghiêng giá từ trên cao và phải cố định cái tay đúng không, xin để cho cái bánh nó tròn phải không?",
+      "start": 187.08,
+      "end": 196.92,
+      "n_words": 37,
+      "start_frame": 4677,
+      "end_frame": 4923,
+      "keyframes": [
+        "004725.webp",
+        "004726.webp",
+        "004818.webp",
+        "004911.webp",
+        "004912.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cái bánh đang tròn nha.",
+      "start": 196.92,
+      "end": 198.6,
+      "n_words": 5,
+      "start_frame": 4923,
+      "end_frame": 4965,
+      "keyframes": [
+        "004939.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thời gian này là lửa chúng ta phải để rất là nhỏ và chờ cho cái phần mặt bánh nó đã nổi bọt lên đúng không?",
+      "start": 198.6,
+      "end": 203.84,
+      "n_words": 26,
+      "start_frame": 4965,
+      "end_frame": 5096,
+      "keyframes": [
+        "004967.webp",
+        "004968.webp",
+        "005016.webp",
+        "005064.webp",
+        "005065.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đúng rồi.",
+      "start": 203.84,
+      "end": 204.2,
+      "n_words": 2,
+      "start_frame": 5096,
+      "end_frame": 5105,
+      "keyframes": [
+        "005101.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trên bề mặt đã chín, xung quanh cái bánh nó cũng đã khô ráo thì chúng ta sẽ nhẹ nhàng lật qua và nhớ là đừng đè nha.",
+      "start": 204.2,
+      "end": 211.0,
+      "n_words": 28,
+      "start_frame": 5105,
+      "end_frame": 5275,
+      "keyframes": [
+        "005138.webp",
+        "005139.webp",
+        "005167.webp",
+        "005195.webp",
+        "005196.webp",
+        "005231.webp",
+        "005266.webp",
+        "005267.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Bánh đã chín rồi cho ra dĩa thôi.",
+      "start": 211.0,
+      "end": 221.84,
+      "n_words": 8,
+      "start_frame": 5275,
+      "end_frame": 5546,
+      "keyframes": [
+        "005279.webp",
+        "005292.webp",
+        "005293.webp",
+        "005324.webp",
+        "005355.webp",
+        "005356.webp",
+        "005379.webp",
+        "005403.webp",
+        "005404.webp",
+        "005447.webp",
+        "005490.webp",
+        "005491.webp",
+        "005520.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Và bây giờ bánh cũng đã được rồi, chúng ta lật lại nha.",
+      "start": 221.84,
+      "end": 225.96,
+      "n_words": 13,
+      "start_frame": 5546,
+      "end_frame": 5649,
+      "keyframes": [
+        "005550.webp",
+        "005551.webp",
+        "005583.webp",
+        "005615.webp",
+        "005616.webp",
+        "005634.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi bây giờ bánh đã được rồi, bây giờ chúng ta lấy ra ha.",
+      "start": 225.96,
+      "end": 228.96,
+      "n_words": 14,
+      "start_frame": 5649,
+      "end_frame": 5724,
+      "keyframes": [
+        "005653.webp",
+        "005654.webp",
+        "005698.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn ơi, trong quá trình xem nếu như các bạn bỏ lỡ một công đoạn nào thì cũng đừng lo lắng, các bạn hãy sử dụng điện thoại di động để quét mã QR code đang hiển thị trên màn hình đây để xem lại công thức của món bánh ngày hôm nay nhé.",
+      "start": 228.96,
+      "end": 242.2,
+      "n_words": 55,
+      "start_frame": 5724,
+      "end_frame": 6055,
+      "keyframes": [
+        "005742.webp",
+        "005743.webp",
+        "005874.webp",
+        "006006.webp",
+        "006007.webp",
+        "006031.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đầu tiên thì chúng ta sẽ cho một cái lên trước cho cái phần mứt lên, phần sốt táo dẻo và trông rất là đẹp mắt.",
+      "start": 242.2,
+      "end": 249.64,
+      "n_words": 26,
+      "start_frame": 6055,
+      "end_frame": 6241,
+      "keyframes": [
+        "006056.webp",
+        "006057.webp",
+        "006089.webp",
+        "006121.webp",
+        "006122.webp",
+        "006149.webp",
+        "006177.webp",
+        "006178.webp",
+        "006216.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Từ đường cho cái thứ hai lên nha.",
+      "start": 249.64,
+      "end": 251.6,
+      "n_words": 8,
+      "start_frame": 6241,
+      "end_frame": 6290,
+      "keyframes": [
+        "006255.webp",
+        "006256.webp",
+        "006290.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi hấp dẫn quá xíu ơi!",
+      "start": 251.6,
+      "end": 255.04,
+      "n_words": 6,
+      "start_frame": 6290,
+      "end_frame": 6376,
+      "keyframes": [
+        "006290.webp",
+        "006324.webp",
+        "006325.webp",
+        "006355.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và bây giờ là cái cuối cùng nha.",
+      "start": 255.04,
+      "end": 256.72,
+      "n_words": 8,
+      "start_frame": 6376,
+      "end_frame": 6418,
+      "keyframes": [
+        "006386.webp",
+        "006387.webp",
+        "006411.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi cái phần tạo hình này dễ thương quá xíu ơi! Cùng thì chúng ta cho thêm nửa trái dâu tây lên trên nữa nha.",
+      "start": 256.72,
+      "end": 262.44,
+      "n_words": 25,
+      "start_frame": 6418,
+      "end_frame": 6561,
+      "keyframes": [
+        "006436.webp",
+        "006437.webp",
+        "006460.webp",
+        "006484.webp",
+        "006485.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Rồi món ăn đã hoàn thành.",
+      "start": 262.44,
+      "end": 263.96,
+      "n_words": 6,
+      "start_frame": 6561,
+      "end_frame": 6599,
+      "keyframes": [
+        "006599.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Với một cái dĩa bánh hấp dẫn và đẹp mắt như thế này thì chắc chắn sẽ giúp cho chúng ta không những tỉnh táo mà có năng lượng để làm việc một ngày dài đó các bạn.",
+      "start": 264.28,
+      "end": 273.44,
+      "n_words": 38,
+      "start_frame": 6607,
+      "end_frame": 6836,
+      "keyframes": [
+        "006714.webp",
+        "006715.webp",
+        "006751.webp",
+        "006787.webp",
+        "006788.webp",
+        "006815.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta kết hợp với trà sữa oolong và trước khi ăn loại bánh này chúng ta có thể rưới một ít mật ong lên bên trên để món ăn được hấp dẫn hơn.",
+      "start": 273.44,
+      "end": 280.8,
+      "n_words": 34,
+      "start_frame": 6836,
+      "end_frame": 7020,
+      "keyframes": [
+        "006842.webp",
+        "006843.webp",
+        "006880.webp",
+        "006918.webp",
+        "006919.webp",
+        "006961.webp",
+        "007003.webp",
+        "007004.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Bánh mềm sốt thơm mùi sô cô la, ngọt ngào từ sốt táo, mật ong chua chua từ dâu tây vị mê say.",
+      "start": 280.8,
+      "end": 290.16,
+      "n_words": 23,
+      "start_frame": 7020,
+      "end_frame": 7254,
+      "keyframes": [
+        "007037.webp",
+        "007070.webp",
+        "007084.webp",
+        "007111.webp",
+        "007138.webp",
+        "007139.webp",
+        "007197.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Món bánh rán sô cô la sốt táo thật dễ làm phải không nào? Thử ngay các bạn ơi!",
+      "start": 290.16,
+      "end": 295.0,
+      "n_words": 19,
+      "start_frame": 7254,
+      "end_frame": 7375,
+      "keyframes": [
+        "007256.webp",
+        "007257.webp",
+        "007316.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và các bạn có thể truy cập vào kênh YouTube, website và fanpage của chương trình để xem lại công thức của món bánh ngày hôm nay nhé.",
+      "start": 295.0,
+      "end": 302.64,
+      "n_words": 28,
+      "start_frame": 7375,
+      "end_frame": 7566,
+      "keyframes": [
+        "007376.webp",
+        "007377.webp",
+        "007460.webp",
+        "007543.webp",
+        "007544.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

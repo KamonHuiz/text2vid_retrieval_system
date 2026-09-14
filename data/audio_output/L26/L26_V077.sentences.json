@@ -1,0 +1,784 @@
+{
+  "video_id": "L26_V077",
+  "fps": 25.0,
+  "n_sentences": 44,
+  "total_words": 943,
+  "sentences": [
+    {
+      "text": "Và món ngon mỗi ngày: Gà xào chẩm chéo, mê ngay hương núi rừng.",
+      "start": 0.0,
+      "end": 32.68,
+      "n_words": 14,
+      "start_frame": 0,
+      "end_frame": 817,
+      "keyframes": [
+        "000000.webp",
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp",
+        "000353.webp",
+        "000406.webp",
+        "000407.webp",
+        "000456.webp",
+        "000505.webp",
+        "000520.webp",
+        "000563.webp",
+        "000606.webp",
+        "000607.webp",
+        "000645.webp",
+        "000683.webp",
+        "000684.webp",
+        "000774.webp"
+      ],
+      "keyframe_count": 47
+    },
+    {
+      "text": "Hân hoan chào đón quý vị khán giả đã quay lại chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành.",
+      "start": 32.68,
+      "end": 40.6,
+      "n_words": 21,
+      "start_frame": 817,
+      "end_frame": 1015,
+      "keyframes": [
+        "000864.webp",
+        "000865.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam. Và thưa các bạn, món ăn ngày hôm nay, chúng ta nguyên liệu chính là thịt gà.",
+      "start": 40.6,
+      "end": 49.28,
+      "n_words": 28,
+      "start_frame": 1015,
+      "end_frame": 1232,
+      "keyframes": [
+        "001049.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và thịt gà này phải là thịt gà da giòn nha.",
+      "start": 49.28,
+      "end": 52.28,
+      "n_words": 11,
+      "start_frame": 1232,
+      "end_frame": 1307,
+      "keyframes": [
+        "001234.webp",
+        "001235.webp",
+        "001270.webp",
+        "001305.webp",
+        "001306.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và một nguyên liệu nữa để tạo nên mùi vị đặc trưng của món ăn ngày hôm nay thì đó là chẩm chéo.",
+      "start": 52.28,
+      "end": 57.44,
+      "n_words": 23,
+      "start_frame": 1307,
+      "end_frame": 1436,
+      "keyframes": [
+        "001357.webp",
+        "001408.webp",
+        "001409.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đây là những hạt gia vị gì?",
+      "start": 57.44,
+      "end": 59.08,
+      "n_words": 7,
+      "start_frame": 1436,
+      "end_frame": 1477,
+      "keyframes": [
+        "001446.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Gì?",
+      "start": 59.08,
+      "end": 61.44,
+      "n_words": 1,
+      "start_frame": 1477,
+      "end_frame": 1536,
+      "keyframes": [
+        "001484.webp",
+        "001485.webp",
+        "001536.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cái này là hạt dổi nè.",
+      "start": 61.44,
+      "end": 62.88,
+      "n_words": 6,
+      "start_frame": 1536,
+      "end_frame": 1572,
+      "keyframes": [
+        "001536.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Hay vậy ta!",
+      "start": 62.88,
+      "end": 63.84,
+      "n_words": 3,
+      "start_frame": 1572,
+      "end_frame": 1596,
+      "keyframes": [
+        "001588.webp",
+        "001589.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Còn cái này là mắc khén.",
+      "start": 63.84,
+      "end": 67.64,
+      "n_words": 6,
+      "start_frame": 1596,
+      "end_frame": 1691,
+      "keyframes": [
+        "001619.webp",
+        "001649.webp",
+        "001650.webp",
+        "001671.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Mắc khén đúng rồi.",
+      "start": 67.64,
+      "end": 69.24,
+      "n_words": 4,
+      "start_frame": 1691,
+      "end_frame": 1731,
+      "keyframes": [
+        "001692.webp",
+        "001693.webp",
+        "001712.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thưa các bạn, bây giờ chúng ta cùng thực hiện món gà xào chẩm chéo.",
+      "start": 69.24,
+      "end": 73.04,
+      "n_words": 15,
+      "start_frame": 1731,
+      "end_frame": 1826,
+      "keyframes": [
+        "001732.webp",
+        "001733.webp",
+        "001778.webp",
+        "001823.webp",
+        "001824.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ở đây có nghĩa là \"chẩm\" những cái món chấm đi ạ, còn \"chéo\" nghĩa là các loại rau gia vị.",
+      "start": 73.28,
+      "end": 78.0,
+      "n_words": 21,
+      "start_frame": 1832,
+      "end_frame": 1950,
+      "keyframes": [
+        "001853.webp",
+        "001882.webp",
+        "001883.webp",
+        "001915.webp",
+        "001948.webp",
+        "001949.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thưa các bạn, ngoài ngò rí và ngò gai, chúng ta còn có thêm húng lủi nha.",
+      "start": 78.0,
+      "end": 83.04,
+      "n_words": 17,
+      "start_frame": 1950,
+      "end_frame": 2076,
+      "keyframes": [
+        "002012.webp",
+        "002076.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Xíu em cắt nhỏ húng lủi giùm anh luôn nha và sả đây, chúng ta khoảng hai cây thôi, sau đó chúng ta sẽ cắt nhỏ khoảng ba lát gừng thôi, chúng ta muốn cắt nhỏ sáu tép tỏi.",
+      "start": 83.04,
+      "end": 105.12,
+      "n_words": 39,
+      "start_frame": 2076,
+      "end_frame": 2628,
+      "keyframes": [
+        "002076.webp",
+        "002077.webp",
+        "002106.webp",
+        "002136.webp",
+        "002137.webp",
+        "002163.webp",
+        "002189.webp",
+        "002190.webp",
+        "002229.webp",
+        "002269.webp",
+        "002270.webp",
+        "002312.webp",
+        "002354.webp",
+        "002355.webp",
+        "002422.webp",
+        "002490.webp",
+        "002491.webp",
+        "002514.webp",
+        "002537.webp",
+        "002538.webp",
+        "002581.webp",
+        "002625.webp",
+        "002626.webp"
+      ],
+      "keyframe_count": 23
+    },
+    {
+      "text": "Đây, cắt lá xong chúng ta cho vô chúng ta giã luôn.",
+      "start": 105.12,
+      "end": 112.16,
+      "n_words": 12,
+      "start_frame": 2628,
+      "end_frame": 2804,
+      "keyframes": [
+        "002662.webp",
+        "002699.webp",
+        "002700.webp",
+        "002750.webp",
+        "002801.webp",
+        "002802.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Các bạn chúng ta cũng nên nhớ nha, chúng ta nên cắt nhỏ sả, gừng và các loại rau thơm để khi giã được mau hơn và đặc biệt không còn sót cái sợi xơ của sả nha các bạn.",
+      "start": 112.16,
+      "end": 121.4,
+      "n_words": 40,
+      "start_frame": 2804,
+      "end_frame": 3035,
+      "keyframes": [
+        "002828.webp",
+        "002855.webp",
+        "002856.webp",
+        "002944.webp",
+        "003033.webp",
+        "003034.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ thì chúng ta bắt chảo lên sẽ rang năm hạt dỗi và khoảng một muỗng cà phê mắc khén này.",
+      "start": 121.4,
+      "end": 127.84,
+      "n_words": 22,
+      "start_frame": 3035,
+      "end_frame": 3196,
+      "keyframes": [
+        "003061.webp",
+        "003089.webp",
+        "003090.webp",
+        "003142.webp",
+        "003194.webp",
+        "003195.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Trong hạt dỗi và mắc khén thì có chứa một hợp chất giúp kháng khuẩn và kích thích hệ tiêu hóa rất là tốt cho sức khỏe đấy ạ.",
+      "start": 127.84,
+      "end": 133.92,
+      "n_words": 29,
+      "start_frame": 3196,
+      "end_frame": 3348,
+      "keyframes": [
+        "003270.webp",
+        "003345.webp",
+        "003346.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ta rang cho dậy mùi thơm ha.",
+      "start": 133.92,
+      "end": 135.72,
+      "n_words": 7,
+      "start_frame": 3348,
+      "end_frame": 3393,
+      "keyframes": [
+        "003369.webp",
+        "003392.webp",
+        "003393.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cho vào trong cối, thường là người ta sẽ dùng cái ớt thóc, tức là những ớt xanh bé bé người ta sẽ nướng, còn mình ở gia đình thì chúng ta có thể cho vào chảo chúng ta rang không dầu nha các bạn.",
+      "start": 135.72,
+      "end": 152.08,
+      "n_words": 45,
+      "start_frame": 3393,
+      "end_frame": 3802,
+      "keyframes": [
+        "003393.webp",
+        "003418.webp",
+        "003444.webp",
+        "003445.webp",
+        "003485.webp",
+        "003526.webp",
+        "003527.webp",
+        "003556.webp",
+        "003585.webp",
+        "003586.webp",
+        "003601.webp",
+        "003617.webp",
+        "003618.webp",
+        "003647.webp",
+        "003676.webp",
+        "003677.webp",
+        "003694.webp",
+        "003712.webp",
+        "003713.webp",
+        "003758.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Chúng ta cho vào trong cối, bây giờ thì chúng ta sẽ giã cho nhuyễn trước.",
+      "start": 152.08,
+      "end": 159.28,
+      "n_words": 16,
+      "start_frame": 3802,
+      "end_frame": 3982,
+      "keyframes": [
+        "003804.webp",
+        "003805.webp",
+        "003824.webp",
+        "003844.webp",
+        "003845.webp",
+        "003873.webp",
+        "003901.webp",
+        "003902.webp",
+        "003943.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cho đây khoảng một muỗng canh hạt nêm Ajinomoto ngon gà, một muỗng cà phê bột ngọt Ajinomoto, một muỗng cà phê đường, một muỗng cà phê muối, một muỗng cà phê tiêu và chúng ta cho vào đây một muỗng cà phê giấm gạo lên men Ajinomoto để cho cái muối chẩm chéo này được cân bằng gia vị.",
+      "start": 159.28,
+      "end": 178.32,
+      "n_words": 60,
+      "start_frame": 3982,
+      "end_frame": 4458,
+      "keyframes": [
+        "003985.webp",
+        "003986.webp",
+        "004026.webp",
+        "004066.webp",
+        "004067.webp",
+        "004099.webp",
+        "004131.webp",
+        "004132.webp",
+        "004152.webp",
+        "004172.webp",
+        "004173.webp",
+        "004196.webp",
+        "004219.webp",
+        "004220.webp",
+        "004245.webp",
+        "004271.webp",
+        "004272.webp",
+        "004299.webp",
+        "004326.webp",
+        "004327.webp",
+        "004350.webp",
+        "004374.webp",
+        "004375.webp"
+      ],
+      "keyframe_count": 23
+    },
+    {
+      "text": "Chúng ta chỉ cần cho vào đây một chút xíu giấm là chúng ta sẽ có trọn vị.",
+      "start": 178.32,
+      "end": 182.4,
+      "n_words": 18,
+      "start_frame": 4458,
+      "end_frame": 4560,
+      "keyframes": [
+        "004467.webp",
+        "004559.webp",
+        "004560.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trộn đều lên.",
+      "start": 182.4,
+      "end": 183.52,
+      "n_words": 3,
+      "start_frame": 4560,
+      "end_frame": 4588,
+      "keyframes": [
+        "004560.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Món này mà lên Tây Bắc thường là thấy là những cái món thịt nướng chấm với lại chẩm chéo này rất là ngon luôn đó anh Vũ ơi.",
+      "start": 183.52,
+      "end": 189.44,
+      "n_words": 29,
+      "start_frame": 4588,
+      "end_frame": 4736,
+      "keyframes": [
+        "004600.webp",
+        "004640.webp",
+        "004641.webp",
+        "004674.webp",
+        "004707.webp",
+        "004708.webp",
+        "004732.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Đúng vậy, thịt gà chúng ta mua về làm sạch cho vào trong cái tô.",
+      "start": 189.44,
+      "end": 194.24,
+      "n_words": 15,
+      "start_frame": 4736,
+      "end_frame": 4856,
+      "keyframes": [
+        "004757.webp",
+        "004758.webp",
+        "004781.webp",
+        "004804.webp",
+        "004805.webp",
+        "004837.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đối với món này thì chúng ta nên dùng gà giòn thì sẽ rất là ngon hơn nhiều.",
+      "start": 194.24,
+      "end": 199.0,
+      "n_words": 18,
+      "start_frame": 4856,
+      "end_frame": 4975,
+      "keyframes": [
+        "004870.webp",
+        "004871.webp",
+        "004922.webp",
+        "004974.webp",
+        "004975.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đây khoảng bốn muỗng canh muối chẩm chéo, trộn đều lên.",
+      "start": 199.48,
+      "end": 203.6,
+      "n_words": 11,
+      "start_frame": 4987,
+      "end_frame": 5090,
+      "keyframes": [
+        "005017.webp",
+        "005060.webp",
+        "005061.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn thân mến, trong thịt gà thì có chứa nhiều protein nè mà lại ít mỡ nạc nhiều, chính vì vậy khi mà chúng ta thưởng thức thịt gà sẽ giúp cho cơ thể được tăng cơ bắp đấy ạ.",
+      "start": 203.6,
+      "end": 212.2,
+      "n_words": 41,
+      "start_frame": 5090,
+      "end_frame": 5305,
+      "keyframes": [
+        "005098.webp",
+        "005136.webp",
+        "005137.webp",
+        "005219.webp",
+        "005301.webp",
+        "005302.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ bắc lên đây một cái chảo để chúng ta xào thịt gà, cho vào đây tí xíu rồi bây giờ chúng ta chỉ cho thịt gà vô xào xào cho thịt gà săn lên, nó rút cái gia vị vô nha các bạn.",
+      "start": 212.2,
+      "end": 226.6,
+      "n_words": 48,
+      "start_frame": 5305,
+      "end_frame": 5665,
+      "keyframes": [
+        "005320.webp",
+        "005339.webp",
+        "005340.webp",
+        "005366.webp",
+        "005393.webp",
+        "005394.webp",
+        "005420.webp",
+        "005447.webp",
+        "005448.webp",
+        "005508.webp",
+        "005568.webp",
+        "005569.webp",
+        "005624.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Đó, chúng ta cho nước dừa vô.",
+      "start": 226.6,
+      "end": 229.64,
+      "n_words": 7,
+      "start_frame": 5665,
+      "end_frame": 5741,
+      "keyframes": [
+        "005679.webp",
+        "005680.webp",
+        "005738.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn từ từ thôi nha, nước dừa rút, chúng ta sẽ cho nước dừa vô tiếp, cái nước xốt rút lại như vậy, miếng gà khô ráo là được.",
+      "start": 229.64,
+      "end": 240.48,
+      "n_words": 30,
+      "start_frame": 5741,
+      "end_frame": 6012,
+      "keyframes": [
+        "005797.webp",
+        "005798.webp",
+        "005856.webp",
+        "005915.webp",
+        "005916.webp",
+        "005964.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cái phần chẩm chéo thì hơi công phu một chút xíu trong việc là chúng ta sẽ chọn nhiều gia vị, nhưng mà xào gà thì rất là nhanh rồi, chúng ta sóc đều lại cho ráo luôn nha.",
+      "start": 240.48,
+      "end": 250.16,
+      "n_words": 39,
+      "start_frame": 6012,
+      "end_frame": 6254,
+      "keyframes": [
+        "006013.webp",
+        "006014.webp",
+        "006054.webp",
+        "006095.webp",
+        "006096.webp",
+        "006139.webp",
+        "006183.webp",
+        "006184.webp",
+        "006237.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đó, khô ráo rồi xong.",
+      "start": 250.16,
+      "end": 251.64,
+      "n_words": 5,
+      "start_frame": 6254,
+      "end_frame": 6291,
+      "keyframes": [
+        "006291.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Các bạn có thể xem lại công thức của món ăn hấp dẫn ngày hôm nay bằng cách quét mã QR đang hiển thị trên màn hình.",
+      "start": 251.64,
+      "end": 259.28,
+      "n_words": 27,
+      "start_frame": 6291,
+      "end_frame": 6482,
+      "keyframes": [
+        "006291.webp",
+        "006292.webp",
+        "006356.webp",
+        "006421.webp",
+        "006422.webp",
+        "006446.webp",
+        "006471.webp",
+        "006472.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Sẽ cho ra một cái đĩa, cái này thưởng thức là rất là bắt cơm luôn đấy ạ.",
+      "start": 259.28,
+      "end": 264.96,
+      "n_words": 18,
+      "start_frame": 6482,
+      "end_frame": 6624,
+      "keyframes": [
+        "006511.webp",
+        "006550.webp",
+        "006551.webp",
+        "006596.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đúng rồi, trang trí thêm ít ngò gai rồi ớt sừng cắt sợi.",
+      "start": 264.96,
+      "end": 272.6,
+      "n_words": 13,
+      "start_frame": 6624,
+      "end_frame": 6815,
+      "keyframes": [
+        "006642.webp",
+        "006643.webp",
+        "006668.webp",
+        "006693.webp",
+        "006694.webp",
+        "006736.webp",
+        "006779.webp",
+        "006780.webp",
+        "006799.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Một món ăn lạ miệng, rất là thơm và kích thích khẩu vị vô cùng.",
+      "start": 272.6,
+      "end": 276.12,
+      "n_words": 15,
+      "start_frame": 6815,
+      "end_frame": 6903,
+      "keyframes": [
+        "006819.webp",
+        "006820.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Món này thì mình nên ăn kèm với lại món canh hoặc là món rau nào nữa ạ tức các bạn, món này chúng ta kết hợp cùng với lại món canh chua cá dứa bông súng và củ hũ dừa xào ba chỉ là chúng ta có một bữa ăn hoàn chỉnh.",
+      "start": 276.12,
+      "end": 288.12,
+      "n_words": 53,
+      "start_frame": 6903,
+      "end_frame": 7203,
+      "keyframes": [
+        "006908.webp",
+        "006996.webp",
+        "006997.webp",
+        "007093.webp",
+        "007189.webp",
+        "007190.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Da gà vàng óng lẫn cùng màu xanh củ, chẩm chéo xào thịt gà chín xoắn, giòn ngọt béo của nước dừa lại cay the nơi đầu lưỡi, chuẩn vị đặc trưng của núi rừng Tây Bắc.",
+      "start": 288.12,
+      "end": 300.56,
+      "n_words": 37,
+      "start_frame": 7203,
+      "end_frame": 7514,
+      "keyframes": [
+        "007235.webp",
+        "007280.webp",
+        "007295.webp",
+        "007333.webp",
+        "007371.webp",
+        "007372.webp",
+        "007444.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Mùi hương núi rừng Tây Bắc gói gọn trong món gà xào chẩm chéo, các bạn nhớ thực hiện ngay vào dịp cuối tuần nhé.",
+      "start": 300.56,
+      "end": 306.52,
+      "n_words": 25,
+      "start_frame": 7514,
+      "end_frame": 7663,
+      "keyframes": [
+        "007517.webp",
+        "007518.webp",
+        "007590.webp",
+        "007662.webp",
+        "007663.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ngoài ra chúng ta có thể truy cập vào kênh YouTube, website và fanpage của chương trình Món ngon mỗi ngày để cập nhật công thức của các món ăn ngon.",
+      "start": 306.52,
+      "end": 313.16,
+      "n_words": 31,
+      "start_frame": 7663,
+      "end_frame": 7829,
+      "keyframes": [
+        "007663.webp",
+        "007783.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Còn bây giờ xin được mến chào tạm biệt và hẹn gặp lại.",
+      "start": 313.16,
+      "end": 316.56,
+      "n_words": 13,
+      "start_frame": 7829,
+      "end_frame": 7914,
+      "keyframes": [
+        "007903.webp",
+        "007904.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

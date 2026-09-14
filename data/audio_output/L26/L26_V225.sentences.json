@@ -1,0 +1,792 @@
+{
+  "video_id": "L26_V225",
+  "fps": 25.0,
+  "n_sentences": 46,
+  "total_words": 1075,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày, ăn tới đâu đã tới đó với sườn nướng tiêu.",
+      "start": 10.52,
+      "end": 30.24,
+      "n_words": 14,
+      "start_frame": 263,
+      "end_frame": 756,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000342.webp",
+        "000384.webp",
+        "000385.webp",
+        "000423.webp",
+        "000462.webp",
+        "000477.webp",
+        "000527.webp",
+        "000577.webp",
+        "000578.webp",
+        "000668.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Rất vui khi được gặp lại các bạn khán giả đang theo dõi chương trình Món ngon mỗi ngày.",
+      "start": 30.24,
+      "end": 34.08,
+      "n_words": 19,
+      "start_frame": 756,
+      "end_frame": 852,
+      "keyframes": [
+        "000758.webp",
+        "000759.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 34.08,
+      "end": 37.84,
+      "n_words": 11,
+      "start_frame": 852,
+      "end_frame": 946,
+      "keyframes": [
+        "000862.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ngày hôm nay, Quốc Nghị sẽ có một câu đố dành cho Thanh Phương cũng như các bạn khán giả: Trong ẩm thực Việt Nam, có một cái nguyên liệu chỉ như thế này thôi nhưng mà hầu như món nào cũng có, nó kích thích vị giác và đặc biệt nó kích thích cái hệ tiêu hóa của chúng ta, đó là tiêu đúng không ạ? Vâng ạ.",
+      "start": 37.84,
+      "end": 53.44,
+      "n_words": 69,
+      "start_frame": 946,
+      "end_frame": 1336,
+      "keyframes": [
+        "000965.webp",
+        "000966.webp",
+        "000999.webp",
+        "001032.webp",
+        "001033.webp",
+        "001162.webp",
+        "001291.webp",
+        "001292.webp",
+        "001315.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Và trong ẩm thực Việt Nam thì có đến ba loại tiêu đó là tiêu xanh, tiêu đen và tiêu trắng.",
+      "start": 53.44,
+      "end": 58.08,
+      "n_words": 21,
+      "start_frame": 1336,
+      "end_frame": 1452,
+      "keyframes": [
+        "001338.webp",
+        "001339.webp",
+        "001450.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Vì vậy hôm nay chúng ta sẽ cùng nhau thực hiện một món ăn mà kết hợp với cả ba loại tiêu đó luôn nhé.",
+      "start": 58.08,
+      "end": 62.52,
+      "n_words": 25,
+      "start_frame": 1452,
+      "end_frame": 1563,
+      "keyframes": [
+        "001562.webp",
+        "001563.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và đặc biệt, sự kết hợp giữa ba loại tiêu nó sẽ tạo ra cái mùi thơm đặc trưng cho món nướng của chúng ta đó.",
+      "start": 62.52,
+      "end": 68.04,
+      "n_words": 26,
+      "start_frame": 1563,
+      "end_frame": 1701,
+      "keyframes": [
+        "001563.webp",
+        "001600.webp",
+        "001637.webp",
+        "001638.webp",
+        "001668.webp",
+        "001698.webp",
+        "001699.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Và nguyên liệu chính cho món ăn ngày hôm nay Quốc Nghị sẽ chọn là sườn non.",
+      "start": 68.04,
+      "end": 71.4,
+      "n_words": 17,
+      "start_frame": 1701,
+      "end_frame": 1785,
+      "keyframes": [
+        "001754.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Các bạn sẽ chặt khoảng khúc khoảng 10 cm như thế này.",
+      "start": 72.12,
+      "end": 75.76,
+      "n_words": 12,
+      "start_frame": 1803,
+      "end_frame": 1894,
+      "keyframes": [
+        "001809.webp",
+        "001810.webp",
+        "001849.webp",
+        "001889.webp",
+        "001890.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Sau đó chúng ta dùng mũi dao nè, cái phần mỏng của sườn này chúng ta dùng mũi dao chúng ta sẽ khía một đường dọc cái sườn như thế này này.",
+      "start": 75.76,
+      "end": 82.96,
+      "n_words": 32,
+      "start_frame": 1894,
+      "end_frame": 2074,
+      "keyframes": [
+        "001912.webp",
+        "001935.webp",
+        "001936.webp",
+        "002020.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đó, việc Quốc Nghị khía dọc miếng sườn giúp khi thưởng thức nó sẽ dễ dàng hơn đó.",
+      "start": 82.96,
+      "end": 88.4,
+      "n_words": 18,
+      "start_frame": 2074,
+      "end_frame": 2210,
+      "keyframes": [
+        "002104.webp",
+        "002105.webp",
+        "002157.webp",
+        "002209.webp",
+        "002210.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và trong thịt sườn thì có đến 70% là lượng protein, ngoài ra còn có thêm một số những cái dinh dưỡng khác như là canxi, magie, kali và cả vitamin B, vì vậy rất là tốt cho sức khỏe đấy ạ.",
+      "start": 88.4,
+      "end": 101.32,
+      "n_words": 42,
+      "start_frame": 2210,
+      "end_frame": 2533,
+      "keyframes": [
+        "002210.webp",
+        "002260.webp",
+        "002311.webp",
+        "002312.webp",
+        "002349.webp",
+        "002387.webp",
+        "002388.webp",
+        "002421.webp",
+        "002454.webp",
+        "002455.webp",
+        "002456.webp",
+        "002458.webp",
+        "002459.webp",
+        "002509.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Xong cái phần sườn, và với món sườn nướng này thì chúng ta ăn kèm với khoai tây là hết ý.",
+      "start": 101.32,
+      "end": 105.96,
+      "n_words": 21,
+      "start_frame": 2533,
+      "end_frame": 2649,
+      "keyframes": [
+        "002560.webp",
+        "002561.webp",
+        "002616.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Khoai tây chiên, trong khoai tây thì có lượng protein thấp nè, bên cạnh đó là khi để nguội thì sẽ làm giảm được các chỉ số đường huyết, vì vậy sẽ rất là phù hợp khi kết hợp với lại sườn nướng.",
+      "start": 105.96,
+      "end": 117.6,
+      "n_words": 43,
+      "start_frame": 2649,
+      "end_frame": 2940,
+      "keyframes": [
+        "002671.webp",
+        "002672.webp",
+        "002718.webp",
+        "002764.webp",
+        "002765.webp",
+        "002835.webp",
+        "002906.webp",
+        "002907.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Xắt ra thành từng miếng như thế này, rồi sau đó Thanh Phương sẽ cho vào trong nước muối pha loãng để cho khoai tây không bị thâm.",
+      "start": 117.6,
+      "end": 126.16,
+      "n_words": 28,
+      "start_frame": 2940,
+      "end_frame": 3154,
+      "keyframes": [
+        "002961.webp",
+        "003016.webp",
+        "003017.webp",
+        "003084.webp",
+        "003152.webp",
+        "003153.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Để thực hiện sốt nướng tiêu, chúng ta cần có đầu tiên đó là 1/3 muỗng cà phê baking soda nè, baking soda có tác dụng mềm sườn.",
+      "start": 126.16,
+      "end": 133.44,
+      "n_words": 28,
+      "start_frame": 3154,
+      "end_frame": 3336,
+      "keyframes": [
+        "003179.webp",
+        "003206.webp",
+        "003207.webp",
+        "003241.webp",
+        "003276.webp",
+        "003277.webp",
+        "003305.webp",
+        "003333.webp",
+        "003334.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Nửa hũ sữa chua có đường giúp sườn chúng ta mềm, béo và ngon hơn.",
+      "start": 133.44,
+      "end": 137.64,
+      "n_words": 15,
+      "start_frame": 3336,
+      "end_frame": 3441,
+      "keyframes": [
+        "003362.webp",
+        "003391.webp",
+        "003392.webp",
+        "003414.webp",
+        "003437.webp",
+        "003438.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Một muỗng cà phê bột hành, một muỗng cà phê bột tỏi.",
+      "start": 137.64,
+      "end": 140.76,
+      "n_words": 12,
+      "start_frame": 3441,
+      "end_frame": 3519,
+      "keyframes": [
+        "003460.webp",
+        "003482.webp",
+        "003483.webp",
+        "003504.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Tiếp đến là một muỗng cà phê hạt nêm Ajinomoto, một muỗng canh tiêu xanh đập dập, một muỗng canh tiêu đen bể, hai muỗng canh dầu hào, hai muỗng canh nước tương Phú Sĩ.",
+      "start": 140.76,
+      "end": 150.44,
+      "n_words": 35,
+      "start_frame": 3519,
+      "end_frame": 3761,
+      "keyframes": [
+        "003525.webp",
+        "003526.webp",
+        "003541.webp",
+        "003556.webp",
+        "003557.webp",
+        "003573.webp",
+        "003589.webp",
+        "003590.webp",
+        "003612.webp",
+        "003634.webp",
+        "003635.webp",
+        "003652.webp",
+        "003669.webp",
+        "003670.webp",
+        "003683.webp",
+        "003697.webp",
+        "003698.webp",
+        "003710.webp",
+        "003722.webp",
+        "003723.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Có nước tương vào thơm lắm, kết hợp với tiêu rồi đó Thanh Phương.",
+      "start": 150.44,
+      "end": 153.84,
+      "n_words": 14,
+      "start_frame": 3761,
+      "end_frame": 3846,
+      "keyframes": [
+        "003785.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ba muỗng canh mật ong, mật ong giúp cho sườn nướng lên màu đẹp, và cuối cùng là một muỗng canh dầu màu điều.",
+      "start": 153.84,
+      "end": 161.88,
+      "n_words": 24,
+      "start_frame": 3846,
+      "end_frame": 4047,
+      "keyframes": [
+        "003848.webp",
+        "003849.webp",
+        "003875.webp",
+        "003901.webp",
+        "003902.webp",
+        "003939.webp",
+        "003977.webp",
+        "003978.webp",
+        "004010.webp",
+        "004042.webp",
+        "004043.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Rồi chúng ta sẽ dùng muỗng khuấy đều cho tất cả gia vị này nó tan vào nhau.",
+      "start": 161.88,
+      "end": 167.56,
+      "n_words": 18,
+      "start_frame": 4047,
+      "end_frame": 4189,
+      "keyframes": [
+        "004112.webp",
+        "004182.webp",
+        "004183.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ cho sườn vào ướp với sốt luôn.",
+      "start": 167.56,
+      "end": 170.36,
+      "n_words": 12,
+      "start_frame": 4189,
+      "end_frame": 4259,
+      "keyframes": [
+        "004219.webp",
+        "004256.webp",
+        "004257.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và để món sườn nướng ngon nhất thì các bạn nên ướp sốt nướng, sau đó chúng ta sẽ bọc kín sườn và cho vào tủ mát qua một đêm, sau nướng ăn rất là ngon.",
+      "start": 170.36,
+      "end": 179.52,
+      "n_words": 36,
+      "start_frame": 4259,
+      "end_frame": 4488,
+      "keyframes": [
+        "004293.webp",
+        "004330.webp",
+        "004331.webp",
+        "004393.webp",
+        "004455.webp",
+        "004456.webp",
+        "004470.webp",
+        "004485.webp",
+        "004486.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Xếp những cái que sườn lên trên vỉ nướng này, hấp dẫn chưa?",
+      "start": 179.52,
+      "end": 183.08,
+      "n_words": 13,
+      "start_frame": 4488,
+      "end_frame": 4577,
+      "keyframes": [
+        "004519.webp",
+        "004552.webp",
+        "004553.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cái phần sốt nó sánh sệt và nó bám chặt vào từng que sườn cực kỳ hấp dẫn luôn.",
+      "start": 183.08,
+      "end": 188.04,
+      "n_words": 19,
+      "start_frame": 4577,
+      "end_frame": 4701,
+      "keyframes": [
+        "004642.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ nướng sườn ở nhiệt độ là 180 độ, thời gian nướng là 20 phút.",
+      "start": 188.04,
+      "end": 192.4,
+      "n_words": 19,
+      "start_frame": 4701,
+      "end_frame": 4810,
+      "keyframes": [
+        "004731.webp",
+        "004732.webp",
+        "004770.webp",
+        "004809.webp",
+        "004810.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và các bạn lưu ý, chúng ta phải làm nóng lò trước khoảng 10 phút để chúng ta đạt được nhiệt độ nướng.",
+      "start": 192.4,
+      "end": 196.92,
+      "n_words": 23,
+      "start_frame": 4810,
+      "end_frame": 4923,
+      "keyframes": [
+        "004810.webp",
+        "004828.webp",
+        "004847.webp",
+        "004848.webp",
+        "004886.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Trong thời gian chờ nướng sườn á, các bạn sẽ chiên khoai tây.",
+      "start": 196.92,
+      "end": 199.76,
+      "n_words": 13,
+      "start_frame": 4923,
+      "end_frame": 4994,
+      "keyframes": [
+        "004924.webp",
+        "004925.webp",
+        "004940.webp",
+        "004956.webp",
+        "004957.webp",
+        "004975.webp",
+        "004993.webp",
+        "004994.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Khoai tây thì Thanh Phương cũng đã để ráo rồi để khi mà chúng ta chiên không bị bắn dầu nhé.",
+      "start": 199.76,
+      "end": 204.0,
+      "n_words": 21,
+      "start_frame": 4994,
+      "end_frame": 5100,
+      "keyframes": [
+        "004994.webp",
+        "005012.webp",
+        "005031.webp",
+        "005032.webp",
+        "005056.webp",
+        "005080.webp",
+        "005081.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Và để khoai tây chiên được giòn ngon hơn thì các bạn nhớ là chúng ta phải chiên hai lần nhé.",
+      "start": 204.0,
+      "end": 208.52,
+      "n_words": 21,
+      "start_frame": 5100,
+      "end_frame": 5213,
+      "keyframes": [
+        "005125.webp",
+        "005170.webp",
+        "005171.webp",
+        "005190.webp",
+        "005210.webp",
+        "005211.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Khoai tây vàng giòn trông rất là hấp dẫn các bạn ơi, chúng ta sẽ vớt ra và để lên giấy thấm dầu nhé.",
+      "start": 208.52,
+      "end": 214.0,
+      "n_words": 24,
+      "start_frame": 5213,
+      "end_frame": 5350,
+      "keyframes": [
+        "005244.webp",
+        "005278.webp",
+        "005279.webp",
+        "005314.webp",
+        "005350.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Tiếp đến, Quốc Nghị sẽ hướng dẫn các bạn làm cái sốt chấm của món sườn nướng tiêu nha.",
+      "start": 214.0,
+      "end": 218.04,
+      "n_words": 19,
+      "start_frame": 5350,
+      "end_frame": 5451,
+      "keyframes": [
+        "005350.webp",
+        "005351.webp",
+        "005400.webp",
+        "005449.webp",
+        "005450.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta cần có là ba muỗng canh sốt mayonnaise Ajinomoto vị nguyên bản, một muỗng canh mù tạt vàng, một ít tiêu xanh băm nhuyễn nè, một ít tiêu trắng.",
+      "start": 218.04,
+      "end": 227.72,
+      "n_words": 31,
+      "start_frame": 5451,
+      "end_frame": 5693,
+      "keyframes": [
+        "005472.webp",
+        "005494.webp",
+        "005495.webp",
+        "005527.webp",
+        "005559.webp",
+        "005560.webp",
+        "005583.webp",
+        "005606.webp",
+        "005607.webp",
+        "005633.webp",
+        "005660.webp",
+        "005661.webp",
+        "005688.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Tiêu là gia vị đặc trưng của món ăn ngày hôm nay, vì vậy trong món sốt thì cũng không thể nào thiếu tiêu được, sẽ giúp kích thích vị giác, kích thích tiêu hóa và giúp hấp thụ protein được tốt hơn.",
+      "start": 228.56,
+      "end": 239.08,
+      "n_words": 43,
+      "start_frame": 5714,
+      "end_frame": 5977,
+      "keyframes": [
+        "005715.webp",
+        "005716.webp",
+        "005762.webp",
+        "005809.webp",
+        "005810.webp",
+        "005890.webp",
+        "005970.webp",
+        "005971.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Wow, một cái màu vàng bắt mắt đẹp quá luôn anh Nghị ơi!",
+      "start": 239.08,
+      "end": 242.56,
+      "n_words": 13,
+      "start_frame": 5977,
+      "end_frame": 6064,
+      "keyframes": [
+        "006017.webp",
+        "006064.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Như vậy là thời gian nướng sườn đã đạt, bây giờ Quốc Nghị sẽ cho sườn ra trình bày trong đĩa vâng.",
+      "start": 242.56,
+      "end": 247.28,
+      "n_words": 22,
+      "start_frame": 6064,
+      "end_frame": 6182,
+      "keyframes": [
+        "006064.webp",
+        "006065.webp",
+        "006085.webp",
+        "006106.webp",
+        "006107.webp",
+        "006148.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Trong khoảng thời gian này Thanh Phương sẽ chiên lại khoai tây lần hai nhé.",
+      "start": 247.28,
+      "end": 251.84,
+      "n_words": 15,
+      "start_frame": 6182,
+      "end_frame": 6296,
+      "keyframes": [
+        "006189.webp",
+        "006190.webp",
+        "006294.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Sườn nướng trông rất là hấp dẫn luôn, cái màu sườn nướng cực kỳ hấp dẫn luôn đó Thanh Phương.",
+      "start": 251.84,
+      "end": 259.92,
+      "n_words": 20,
+      "start_frame": 6296,
+      "end_frame": 6498,
+      "keyframes": [
+        "006398.webp",
+        "006399.webp",
+        "006447.webp",
+        "006496.webp",
+        "006497.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta sẽ cho tiêu trắng rắc lên trên sườn.",
+      "start": 259.92,
+      "end": 263.12,
+      "n_words": 10,
+      "start_frame": 6498,
+      "end_frame": 6578,
+      "keyframes": [
+        "006535.webp",
+        "006573.webp",
+        "006574.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Vâng, phần khoai tây chiên cũng đã vàng giòn rồi, món ăn cũng đã hoàn tất rồi.",
+      "start": 263.12,
+      "end": 267.72,
+      "n_words": 17,
+      "start_frame": 6578,
+      "end_frame": 6693,
+      "keyframes": [
+        "006611.webp",
+        "006649.webp",
+        "006650.webp",
+        "006686.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và các bạn muốn xem lại công thức vui lòng quét mã QR đang hiển thị trên màn hình đó.",
+      "start": 267.72,
+      "end": 274.08,
+      "n_words": 20,
+      "start_frame": 6693,
+      "end_frame": 6852,
+      "keyframes": [
+        "006723.webp",
+        "006724.webp",
+        "006761.webp",
+        "006798.webp",
+        "006799.webp",
+        "006823.webp",
+        "006848.webp",
+        "006849.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ trình bày những miếng sườn ra, với cái mùi thơm cực kỳ hấp dẫn của sườn nướng tiêu luôn nè, màu sắc thì vô cùng bắt mắt.",
+      "start": 274.08,
+      "end": 282.44,
+      "n_words": 32,
+      "start_frame": 6852,
+      "end_frame": 7061,
+      "keyframes": [
+        "006880.webp",
+        "006912.webp",
+        "006913.webp",
+        "006936.webp",
+        "006959.webp",
+        "006960.webp",
+        "006984.webp",
+        "007008.webp",
+        "007009.webp",
+        "007032.webp",
+        "007056.webp",
+        "007057.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Món này tròn vị hơn khi các bạn ăn kèm cùng món salad xanh các bạn nhé.",
+      "start": 282.44,
+      "end": 286.8,
+      "n_words": 17,
+      "start_frame": 7061,
+      "end_frame": 7170,
+      "keyframes": [
+        "007085.webp",
+        "007114.webp",
+        "007115.webp",
+        "007139.webp",
+        "007164.webp",
+        "007165.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sườn nướng tiêu thơm lừng, cắn vào là cảm nhận ngay độ béo mềm của thịt, vị tiêu cay ấm nồng tan ra hòa trong nước sốt đậm đà, ăn tới đâu ngất ngây tới đó.",
+      "start": 286.8,
+      "end": 301.0,
+      "n_words": 36,
+      "start_frame": 7170,
+      "end_frame": 7525,
+      "keyframes": [
+        "007185.webp",
+        "007205.webp",
+        "007220.webp",
+        "007251.webp",
+        "007283.webp",
+        "007284.webp",
+        "007361.webp",
+        "007438.webp",
+        "007439.webp",
+        "007512.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Các bạn hãy thực hiện ngay món sườn nướng tiêu và nếu như có lỡ quên công thức, đừng lo, hãy truy cập vào kênh YouTube và fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 301.0,
+      "end": 311.04,
+      "n_words": 35,
+      "start_frame": 7525,
+      "end_frame": 7776,
+      "keyframes": [
+        "007585.webp",
+        "007586.webp",
+        "007670.webp",
+        "007754.webp",
+        "007755.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

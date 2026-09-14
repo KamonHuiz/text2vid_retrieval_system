@@ -1,0 +1,738 @@
+{
+  "video_id": "L26_V158",
+  "fps": 25.0,
+  "n_sentences": 42,
+  "total_words": 1107,
+  "sentences": [
+    {
+      "text": "Các món ngon mỗi ngày: giòn thơm đậm đà chua ngọt, xuýt xoa với cá kèo chiên mè.",
+      "start": 0.0,
+      "end": 35.48,
+      "n_words": 18,
+      "start_frame": 0,
+      "end_frame": 887,
+      "keyframes": [
+        "000000.webp",
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000130.webp",
+        "000147.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp",
+        "000364.webp",
+        "000428.webp",
+        "000429.webp",
+        "000570.webp",
+        "000711.webp",
+        "000712.webp",
+        "000802.webp"
+      ],
+      "keyframe_count": 44
+    },
+    {
+      "text": "Rất vui khi được gặp lại các bạn khán giả đang theo dõi chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành.",
+      "start": 35.48,
+      "end": 41.2,
+      "n_words": 23,
+      "start_frame": 887,
+      "end_frame": 1030,
+      "keyframes": [
+        "000892.webp",
+        "000893.webp",
+        "001012.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 41.2,
+      "end": 45.28,
+      "n_words": 11,
+      "start_frame": 1030,
+      "end_frame": 1132,
+      "keyframes": [
+        "001132.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cá kèo là một loài cá sống trong vùng nước giàu phù sa cho nên là giàu dinh dưỡng và bên cạnh đó còn ăn rất là ngon nữa, thành ra Kim Thảo nghĩ rằng là khi chế biến cá kèo đó thì làm món gì cũng ngon luôn.",
+      "start": 45.28,
+      "end": 57.24,
+      "n_words": 49,
+      "start_frame": 1132,
+      "end_frame": 1431,
+      "keyframes": [
+        "001132.webp",
+        "001133.webp",
+        "001281.webp",
+        "001429.webp",
+        "001430.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chính xác đó Kim Thảo, cá kèo thì nó rất là thơm ngon và ngọt.",
+      "start": 57.24,
+      "end": 61.44,
+      "n_words": 15,
+      "start_frame": 1431,
+      "end_frame": 1536,
+      "keyframes": [
+        "001482.webp",
+        "001535.webp",
+        "001536.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hôm nay Quốc Nghị sẽ thử làm món cá kèo chiên mè để xem vị nó như thế nào các bạn nhé.",
+      "start": 61.44,
+      "end": 67.04,
+      "n_words": 22,
+      "start_frame": 1536,
+      "end_frame": 1676,
+      "keyframes": [
+        "001536.webp",
+        "001578.webp",
+        "001621.webp",
+        "001622.webp",
+        "001650.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta nên chọn những con cá kèo nó đều con với nhau, xương mềm có thể ăn được, mình sẽ cảm nhận được cái vị béo bùi và khi món ăn trình bày ra nó sẽ đồng đều và đẹp hơn đó các bạn.",
+      "start": 67.04,
+      "end": 77.8,
+      "n_words": 45,
+      "start_frame": 1676,
+      "end_frame": 1945,
+      "keyframes": [
+        "001679.webp",
+        "001680.webp",
+        "001812.webp",
+        "001944.webp",
+        "001945.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thịt cá kèo á thì chúng ta sẽ cắt phần đuôi nè, phần đầu nè, rửa một ít nước muối cho nó sạch rồi bây giờ chúng ta sẽ ướp với hai muỗng canh gia vị nem sẵn Ajinomoto, bột chiên giòn.",
+      "start": 77.8,
+      "end": 88.72,
+      "n_words": 42,
+      "start_frame": 1945,
+      "end_frame": 2218,
+      "keyframes": [
+        "001945.webp",
+        "002009.webp",
+        "002073.webp",
+        "002074.webp",
+        "002113.webp",
+        "002153.webp",
+        "002154.webp",
+        "002182.webp",
+        "002210.webp",
+        "002211.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Sau đó trộn đều, cái gia vị nem sẵn Ajinomoto bột chiên giòn này đã có cái hương vị rồi nên chúng ta sẽ không cần ướp bất kỳ gia vị gì vào nữa, rất là tiện ích luôn.",
+      "start": 88.72,
+      "end": 98.56,
+      "n_words": 39,
+      "start_frame": 2218,
+      "end_frame": 2464,
+      "keyframes": [
+        "002237.webp",
+        "002264.webp",
+        "002265.webp",
+        "002309.webp",
+        "002353.webp",
+        "002354.webp",
+        "002416.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Thì Quốc Nghị sẽ hướng dẫn các bạn chúng ta sẽ pha bột lỏng để chiên cá kèo.",
+      "start": 98.56,
+      "end": 102.48,
+      "n_words": 18,
+      "start_frame": 2464,
+      "end_frame": 2562,
+      "keyframes": [
+        "002479.webp",
+        "002480.webp",
+        "002520.webp",
+        "002560.webp",
+        "002561.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta dùng gia vị nem sẵn Ajinomoto bột chiên giòn, tiếp đó các bạn sẽ cho vào đây 75 ml nước lọc.",
+      "start": 102.48,
+      "end": 109.64,
+      "n_words": 23,
+      "start_frame": 2562,
+      "end_frame": 2741,
+      "keyframes": [
+        "002605.webp",
+        "002650.webp",
+        "002651.webp",
+        "002690.webp",
+        "002730.webp",
+        "002731.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cái bột này là chúng ta sẽ nhúng cá để chiên.",
+      "start": 109.64,
+      "end": 112.2,
+      "n_words": 11,
+      "start_frame": 2741,
+      "end_frame": 2805,
+      "keyframes": [
+        "002766.webp",
+        "002801.webp",
+        "002802.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Quốc Nghị sử dụng mè trắng và mè đen trong món ăn này.",
+      "start": 112.2,
+      "end": 116.52,
+      "n_words": 13,
+      "start_frame": 2805,
+      "end_frame": 2913,
+      "keyframes": [
+        "002823.webp",
+        "002844.webp",
+        "002845.webp",
+        "002869.webp",
+        "002893.webp",
+        "002894.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Quốc Nghị đã sử dụng hai loại mè, sử dụng hai loại mè thưa quý vị đó là mè trắng và mè đen.",
+      "start": 116.52,
+      "end": 120.24,
+      "n_words": 23,
+      "start_frame": 2913,
+      "end_frame": 3006,
+      "keyframes": [
+        "002935.webp",
+        "002977.webp",
+        "002978.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mè đen nó có vị hơi đắng cho nên là khi chúng ta kết hợp với mè trắng có vị ngọt thì nó sẽ rất thú vị cho món ăn, đồng thời là trong mè có chất kháng khuẩn và rất là tốt cho tim và thận ạ.",
+      "start": 120.24,
+      "end": 130.72,
+      "n_words": 48,
+      "start_frame": 3006,
+      "end_frame": 3268,
+      "keyframes": [
+        "003037.webp",
+        "003096.webp",
+        "003097.webp",
+        "003123.webp",
+        "003150.webp",
+        "003151.webp",
+        "003207.webp",
+        "003264.webp",
+        "003265.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Bây giờ Quốc Nghị sẽ pha cái hỗn hợp nước mắm me trước.",
+      "start": 130.72,
+      "end": 133.72,
+      "n_words": 13,
+      "start_frame": 3268,
+      "end_frame": 3343,
+      "keyframes": [
+        "003287.webp",
+        "003309.webp",
+        "003310.webp",
+        "003325.webp",
+        "003340.webp",
+        "003341.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Các bạn sẽ cho vào đây hai muỗng canh nước cốt me, tiếp đến là một muỗng canh nước lọc.",
+      "start": 133.72,
+      "end": 138.8,
+      "n_words": 20,
+      "start_frame": 3343,
+      "end_frame": 3470,
+      "keyframes": [
+        "003381.webp",
+        "003421.webp",
+        "003422.webp",
+        "003446.webp",
+        "003470.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta sẽ cho me và nước lọc vào hòa tan sau đó cho vào lò vi sóng quay hai phút thôi các bạn sẽ lấy được nước cốt me rất là dễ dàng luôn.",
+      "start": 138.8,
+      "end": 146.96,
+      "n_words": 35,
+      "start_frame": 3470,
+      "end_frame": 3674,
+      "keyframes": [
+        "003470.webp",
+        "003471.webp",
+        "003572.webp",
+        "003673.webp",
+        "003674.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Một muỗng canh nước mắm và cuối cùng là hai muỗng canh đường thốt nốt, khuấy đều cho nó tan hết cái gia vị vào nhau, rất là thơm mắm và me luôn, thơm ơi là thơm luôn.",
+      "start": 146.96,
+      "end": 156.36,
+      "n_words": 38,
+      "start_frame": 3674,
+      "end_frame": 3909,
+      "keyframes": [
+        "003674.webp",
+        "003692.webp",
+        "003710.webp",
+        "003711.webp",
+        "003743.webp",
+        "003775.webp",
+        "003776.webp",
+        "003804.webp",
+        "003833.webp",
+        "003834.webp",
+        "003870.webp",
+        "003907.webp",
+        "003908.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ sử dụng chảo, các bạn cho vào đây một ít dầu ăn, một muỗng cà phê sả băm, một muỗng cà phê tỏi băm và một muỗng cà phê ớt sừng băm.",
+      "start": 156.36,
+      "end": 166.08,
+      "n_words": 37,
+      "start_frame": 3909,
+      "end_frame": 4152,
+      "keyframes": [
+        "003934.webp",
+        "003961.webp",
+        "003962.webp",
+        "003984.webp",
+        "004007.webp",
+        "004008.webp",
+        "004029.webp",
+        "004050.webp",
+        "004051.webp",
+        "004074.webp",
+        "004097.webp",
+        "004098.webp",
+        "004125.webp",
+        "004152.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Rồi bây giờ chúng ta sẽ xào cho nó thơm cái mùi sả tỏi và ớt sừng.",
+      "start": 166.08,
+      "end": 170.24,
+      "n_words": 17,
+      "start_frame": 4152,
+      "end_frame": 4256,
+      "keyframes": [
+        "004152.webp",
+        "004153.webp",
+        "004201.webp",
+        "004250.webp",
+        "004251.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Sau khi các bạn cảm nhận được cái mùi thơm rồi á thì chúng ta sẽ cho hết cái phần sốt mắm me mà chúng ta đã pha.",
+      "start": 170.24,
+      "end": 176.6,
+      "n_words": 28,
+      "start_frame": 4256,
+      "end_frame": 4415,
+      "keyframes": [
+        "004278.webp",
+        "004306.webp",
+        "004307.webp",
+        "004360.webp",
+        "004414.webp",
+        "004415.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Như vậy là đã xong rồi, bây giờ Quốc Nghị sẽ tắt lửa và sẽ cho nó ra chén để cho nó nguội.",
+      "start": 176.6,
+      "end": 182.44,
+      "n_words": 23,
+      "start_frame": 4415,
+      "end_frame": 4561,
+      "keyframes": [
+        "004415.webp",
+        "004430.webp",
+        "004445.webp",
+        "004446.webp",
+        "004477.webp",
+        "004508.webp",
+        "004509.webp",
+        "004536.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ qua công đoạn cuối cùng đó là chiên cá.",
+      "start": 182.44,
+      "end": 185.6,
+      "n_words": 14,
+      "start_frame": 4561,
+      "end_frame": 4640,
+      "keyframes": [
+        "004563.webp",
+        "004564.webp",
+        "004601.webp",
+        "004638.webp",
+        "004639.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nhúng cá vào bột loãng và chiên.",
+      "start": 185.6,
+      "end": 187.56,
+      "n_words": 7,
+      "start_frame": 4640,
+      "end_frame": 4689,
+      "keyframes": [
+        "004658.webp",
+        "004677.webp",
+        "004678.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ cho vào cái bột loãng này cho nó áo đều luôn nha Kim Thảo, sau đó chúng ta sẽ đặt vào từ từ, thẳng con cá ra nha và các bạn lưu ý nha nhiệt độ lửa vừa phải thôi, món này các bé nhà mình sẽ rất là thích luôn nha Thảo.",
+      "start": 187.56,
+      "end": 203.32,
+      "n_words": 58,
+      "start_frame": 4689,
+      "end_frame": 5083,
+      "keyframes": [
+        "004738.webp",
+        "004799.webp",
+        "004800.webp",
+        "004838.webp",
+        "004876.webp",
+        "004877.webp",
+        "004913.webp",
+        "004949.webp",
+        "004950.webp",
+        "005014.webp",
+        "005079.webp",
+        "005080.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Rồi bây giờ phần còn lại cho Kim Thảo đầu bếp chính của chương trình.",
+      "start": 203.32,
+      "end": 207.76,
+      "n_words": 15,
+      "start_frame": 5083,
+      "end_frame": 5194,
+      "keyframes": [
+        "005138.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Các bạn phải trở đều liên tục để cho cái lớp bột ngoài á nó vàng giòn mà nó không có bị sẫm màu các bạn nha.",
+      "start": 207.76,
+      "end": 214.16,
+      "n_words": 27,
+      "start_frame": 5194,
+      "end_frame": 5354,
+      "keyframes": [
+        "005196.webp",
+        "005197.webp",
+        "005198.webp",
+        "005199.webp",
+        "005200.webp",
+        "005276.webp",
+        "005353.webp",
+        "005354.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Bí quyết của đầu bếp Quốc Nghị rất là hay đúng không ạ?",
+      "start": 214.16,
+      "end": 216.72,
+      "n_words": 13,
+      "start_frame": 5354,
+      "end_frame": 5418,
+      "keyframes": [
+        "005354.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bởi vì khi chúng ta sử dụng hai lần bột như thế này thì lần bột khô thì áo đều quanh cá kèo giúp cho cá kèo đầu tiên là thấm vị nè, thứ hai là sẽ có thể bám chắc được với cái lớp bột ướt mà khi chúng ta thấm cá kèo vào trước khi chiên đúng không ạ.",
+      "start": 216.72,
+      "end": 231.32,
+      "n_words": 61,
+      "start_frame": 5418,
+      "end_frame": 5783,
+      "keyframes": [
+        "005518.webp",
+        "005683.webp",
+        "005684.webp",
+        "005732.webp",
+        "005780.webp",
+        "005781.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cái lớp bột ngoài của cá kèo á nó vàng, nó vàng giòn và đều như thế này á thì các bạn sẽ gắp ra và đặt ra giá thấm dầu cho nó thật ráo vào.",
+      "start": 231.32,
+      "end": 239.28,
+      "n_words": 36,
+      "start_frame": 5783,
+      "end_frame": 5982,
+      "keyframes": [
+        "005814.webp",
+        "005847.webp",
+        "005848.webp",
+        "005872.webp",
+        "005897.webp",
+        "005898.webp",
+        "005940.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ tiến hành trình bày và thưởng thức các bạn nhé.",
+      "start": 239.28,
+      "end": 243.44,
+      "n_words": 15,
+      "start_frame": 5982,
+      "end_frame": 6086,
+      "keyframes": [
+        "005983.webp",
+        "005984.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Món ăn của ngày hôm nay rất đơn giản đúng không ạ?",
+      "start": 243.44,
+      "end": 245.72,
+      "n_words": 12,
+      "start_frame": 6086,
+      "end_frame": 6143,
+      "keyframes": [
+        "006128.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta chỉ cần quét mã QR trên màn hình để lưu lại công thức của món ăn nhanh gọn lẹ này nha.",
+      "start": 245.72,
+      "end": 252.72,
+      "n_words": 23,
+      "start_frame": 6143,
+      "end_frame": 6318,
+      "keyframes": [
+        "006273.webp",
+        "006274.webp",
+        "006298.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và công đoạn mà Quốc Nghị chắc chắn rằng Kim Thảo và các bạn chờ đợi nhất đó là trình bày, thưởng thức, cảm nhận cái món này.",
+      "start": 252.72,
+      "end": 260.0,
+      "n_words": 28,
+      "start_frame": 6318,
+      "end_frame": 6500,
+      "keyframes": [
+        "006323.webp",
+        "006324.webp",
+        "006410.webp",
+        "006497.webp",
+        "006498.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Quốc Nghị chuẩn bị một cái đĩa nè, một chén sốt me.",
+      "start": 260.0,
+      "end": 262.72,
+      "n_words": 12,
+      "start_frame": 6500,
+      "end_frame": 6568,
+      "keyframes": [
+        "006535.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ gắp những con cá kèo chiên ra đĩa.",
+      "start": 262.72,
+      "end": 269.08,
+      "n_words": 13,
+      "start_frame": 6568,
+      "end_frame": 6727,
+      "keyframes": [
+        "006573.webp",
+        "006574.webp",
+        "006605.webp",
+        "006636.webp",
+        "006637.webp",
+        "006683.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Quốc Nghị cố tình cắt đôi một con để các bạn cảm nhận được cái thịt cá kèo ở trong nè, có thể ăn luôn được xương luôn đó.",
+      "start": 269.08,
+      "end": 276.24,
+      "n_words": 29,
+      "start_frame": 6727,
+      "end_frame": 6906,
+      "keyframes": [
+        "006730.webp",
+        "006731.webp",
+        "006756.webp",
+        "006782.webp",
+        "006783.webp",
+        "006815.webp",
+        "006847.webp",
+        "006848.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Và Quốc Nghị đề xuất các bạn nên nấu thêm món cồi sò điệp xào hoa thiên lý để ăn kèm món cá kèo chiên mè này nữa thì thơm ngon tròn vị cho bữa ăn các bạn luôn.",
+      "start": 276.24,
+      "end": 287.04,
+      "n_words": 39,
+      "start_frame": 6906,
+      "end_frame": 7176,
+      "keyframes": [
+        "006922.webp",
+        "006996.webp",
+        "006997.webp",
+        "007078.webp",
+        "007160.webp",
+        "007161.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bọc bên ngoài là lớp bột giòn tan lắm, tấm mè đen bùi nhậy miệng, thịt cá bên trong ngọt tươi. Mắm me chua cay là chuẩn cá kèo đệ nhất.",
+      "start": 287.04,
+      "end": 296.92,
+      "n_words": 31,
+      "start_frame": 7176,
+      "end_frame": 7423,
+      "keyframes": [
+        "007199.webp",
+        "007238.webp",
+        "007253.webp",
+        "007298.webp",
+        "007343.webp",
+        "007344.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Món cá kèo là một món quà quý của sông nước miền Tây, làm món ăn gì cũng đi vào lòng người.",
+      "start": 296.92,
+      "end": 305.04,
+      "n_words": 22,
+      "start_frame": 7423,
+      "end_frame": 7626,
+      "keyframes": [
+        "007425.webp",
+        "007506.webp",
+        "007507.webp",
+        "007566.webp",
+        "007626.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và để xem lại món ăn của ngày hôm nay cùng với nhiều những món ăn hấp dẫn khác nữa thì quý vị và các bạn có thể truy cập vào YouTube, website, fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 305.04,
+      "end": 315.92,
+      "n_words": 41,
+      "start_frame": 7626,
+      "end_frame": 7898,
+      "keyframes": [
+        "007626.webp",
+        "007627.webp",
+        "007752.webp",
+        "007878.webp",
+        "007879.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

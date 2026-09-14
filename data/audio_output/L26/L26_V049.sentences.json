@@ -1,0 +1,646 @@
+{
+  "video_id": "L26_V049",
+  "fps": 25.0,
+  "n_sentences": 36,
+  "total_words": 986,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày: Bún riêu cua bắp bò chua ngọt, mềm thơm riêu cua, tròn vị.",
+      "start": 10.48,
+      "end": 33.76,
+      "n_words": 17,
+      "start_frame": 262,
+      "end_frame": 844,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000360.webp",
+        "000420.webp",
+        "000421.webp",
+        "000496.webp",
+        "000572.webp",
+        "000573.webp",
+        "000621.webp",
+        "000669.webp",
+        "000670.webp",
+        "000760.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Rất vui được gặp lại các bạn khán giả đang đến với chương trình Món ngon mỗi ngày \"Nấu chuẩn ăn lành\". Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 33.76,
+      "end": 44.12,
+      "n_words": 33,
+      "start_frame": 844,
+      "end_frame": 1103,
+      "keyframes": [
+        "000850.webp",
+        "000851.webp",
+        "000979.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ngày hôm nay thì không biết chúng ta sẽ nấu món gì hả Phước Hưng?",
+      "start": 44.12,
+      "end": 46.76,
+      "n_words": 15,
+      "start_frame": 1103,
+      "end_frame": 1169,
+      "keyframes": [
+        "001107.webp",
+        "001108.webp",
+        "001140.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ngày hôm nay thì Phước Hưng cũng như Minh Phương sẽ hướng dẫn cho các bạn một cái món điểm tâm sáng không chỉ nhanh, tiện lợi mà rất là quen thuộc luôn.",
+      "start": 46.76,
+      "end": 54.28,
+      "n_words": 33,
+      "start_frame": 1169,
+      "end_frame": 1357,
+      "keyframes": [
+        "001173.webp",
+        "001174.webp",
+        "001206.webp",
+        "001239.webp",
+        "001240.webp",
+        "001260.webp",
+        "001280.webp",
+        "001281.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Nhưng ngày hôm nay thì có một cái điều đặc biệt là chúng ta sẽ theo lời chuyên gia dinh dưỡng Tiến sĩ Đào Thị Yến.",
+      "start": 54.28,
+      "end": 59.28,
+      "n_words": 26,
+      "start_frame": 1357,
+      "end_frame": 1482,
+      "keyframes": [
+        "001394.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bữa sáng ngày hôm nay không chỉ nhanh, gọn lẹ mà rất là phù hợp với lại các bạn học sinh trong mùa thi cử nè và rất là phù hợp với những người phải hoạt động trí óc.",
+      "start": 60.72,
+      "end": 70.52,
+      "n_words": 39,
+      "start_frame": 1518,
+      "end_frame": 1763,
+      "keyframes": [
+        "001551.webp",
+        "001595.webp",
+        "001596.webp",
+        "001627.webp",
+        "001658.webp",
+        "001659.webp",
+        "001680.webp",
+        "001702.webp",
+        "001703.webp",
+        "001732.webp",
+        "001762.webp",
+        "001763.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Và ngày hôm nay món ăn có tên gọi là bún riêu cua bắp bò.",
+      "start": 70.52,
+      "end": 74.08,
+      "n_words": 15,
+      "start_frame": 1763,
+      "end_frame": 1852,
+      "keyframes": [
+        "001763.webp",
+        "001807.webp",
+        "001851.webp",
+        "001852.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và đối với món ăn ngày hôm nay thì Phước Hưng kết hợp với chả lụa bò luôn.",
+      "start": 74.08,
+      "end": 77.76,
+      "n_words": 18,
+      "start_frame": 1852,
+      "end_frame": 1944,
+      "keyframes": [
+        "001852.webp",
+        "001876.webp",
+        "001900.webp",
+        "001901.webp",
+        "001922.webp",
+        "001944.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Phần chả lụa bò này Phước Hưng sẽ cắt ra thành từng lát vừa ăn.",
+      "start": 77.76,
+      "end": 84.0,
+      "n_words": 15,
+      "start_frame": 1944,
+      "end_frame": 2100,
+      "keyframes": [
+        "001944.webp",
+        "001945.webp",
+        "002003.webp",
+        "002062.webp",
+        "002063.webp",
+        "002084.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Tiếp theo thì chúng ta sẽ cắt bắp bò, Phước Hưng sẽ cắt bắp bò theo sớ ngang để khi ăn mềm hơn và ngon hơn.",
+      "start": 84.0,
+      "end": 92.76,
+      "n_words": 26,
+      "start_frame": 2100,
+      "end_frame": 2319,
+      "keyframes": [
+        "002105.webp",
+        "002106.webp",
+        "002136.webp",
+        "002166.webp",
+        "002167.webp",
+        "002246.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Trong bắp bò thì rất giàu chất choline và đây là một chất giúp cho tăng cường trí nhớ cũng như là tốt cho não bộ, ngoài ra thì còn rất giàu vitamin B12 nữa.",
+      "start": 92.76,
+      "end": 102.2,
+      "n_words": 35,
+      "start_frame": 2319,
+      "end_frame": 2555,
+      "keyframes": [
+        "002325.webp",
+        "002326.webp",
+        "002366.webp",
+        "002407.webp",
+        "002408.webp",
+        "002431.webp",
+        "002455.webp",
+        "002456.webp",
+        "002483.webp",
+        "002510.webp",
+        "002511.webp",
+        "002532.webp",
+        "002554.webp",
+        "002555.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Và bây giờ sang bên đây sẽ nhờ Minh Phương sơ chế đến cái phần rau củ, phần cà chua.",
+      "start": 102.2,
+      "end": 106.56,
+      "n_words": 20,
+      "start_frame": 2555,
+      "end_frame": 2664,
+      "keyframes": [
+        "002555.webp",
+        "002599.webp",
+        "002644.webp",
+        "002645.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ nhờ Minh Phương, chúng ta sẽ cắt làm từ ớt sừng thì bây giờ chúng ta sẽ cắt lát xéo, hành tây thì chúng ta sẽ cắt lát mỏng ngang để chúng ta sẽ làm rau nêm, phần ngò gai thì bây giờ chúng ta sẽ cắt nhỏ rồi.",
+      "start": 106.56,
+      "end": 140.08,
+      "n_words": 51,
+      "start_frame": 2664,
+      "end_frame": 3502,
+      "keyframes": [
+        "002682.webp",
+        "002720.webp",
+        "002721.webp",
+        "002741.webp",
+        "002761.webp",
+        "002762.webp",
+        "002802.webp",
+        "002842.webp",
+        "002843.webp",
+        "002924.webp",
+        "003006.webp",
+        "003007.webp",
+        "003053.webp",
+        "003100.webp",
+        "003101.webp",
+        "003180.webp",
+        "003259.webp",
+        "003260.webp",
+        "003339.webp",
+        "003419.webp",
+        "003420.webp",
+        "003464.webp"
+      ],
+      "keyframe_count": 22
+    },
+    {
+      "text": "Và bây giờ tiếp theo thì Phước Hưng sẽ đặt lên trên bếp một cái nồi để chúng ta xào cà chua nấu bún riêu.",
+      "start": 140.08,
+      "end": 145.76,
+      "n_words": 25,
+      "start_frame": 3502,
+      "end_frame": 3644,
+      "keyframes": [
+        "003509.webp",
+        "003510.webp",
+        "003539.webp",
+        "003569.webp",
+        "003570.webp",
+        "003605.webp",
+        "003641.webp",
+        "003642.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Đầu tiên thì Hưng sẽ cho vào đây hai muỗng canh dầu điều, cho một muỗng canh tỏi băm và hành tím băm để chúng ta phi thơm.",
+      "start": 145.76,
+      "end": 153.36,
+      "n_words": 28,
+      "start_frame": 3644,
+      "end_frame": 3834,
+      "keyframes": [
+        "003690.webp",
+        "003739.webp",
+        "003740.webp",
+        "003788.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ Phước Hưng sẽ cho phần cà chua một trái chúng ta sẽ cắt hạt lựu ở đây Phước Hưng cũng đã cắt sẵn rồi, chúng ta xào cho nhừ.",
+      "start": 153.36,
+      "end": 161.12,
+      "n_words": 31,
+      "start_frame": 3834,
+      "end_frame": 4028,
+      "keyframes": [
+        "003836.webp",
+        "003837.webp",
+        "003893.webp",
+        "003949.webp",
+        "003950.webp",
+        "003989.webp",
+        "004028.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Hưng sẽ nêm vào đây một muỗng canh nước mắm, một lít rưỡi nước.",
+      "start": 161.12,
+      "end": 168.48,
+      "n_words": 14,
+      "start_frame": 4028,
+      "end_frame": 4212,
+      "keyframes": [
+        "004028.webp",
+        "004029.webp",
+        "004069.webp",
+        "004109.webp",
+        "004110.webp",
+        "004135.webp",
+        "004160.webp",
+        "004161.webp",
+        "004189.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Ngày hôm nay Phước Hưng sẽ sử dụng một gói gia vị nêm sẵn Aji-Quick bún riêu cua, Hưng sẽ cho hết vào.",
+      "start": 168.48,
+      "end": 174.8,
+      "n_words": 23,
+      "start_frame": 4212,
+      "end_frame": 4370,
+      "keyframes": [
+        "004218.webp",
+        "004219.webp",
+        "004250.webp",
+        "004282.webp",
+        "004283.webp",
+        "004325.webp",
+        "004367.webp",
+        "004368.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Sử dụng gia vị nêm sẵn Aji-Quick bún riêu cua để cho vị bún riêu chuẩn vị nè và nhanh gọn hơn, cho một trái cà chua chúng ta cắt làm tư vào đây luôn.",
+      "start": 174.8,
+      "end": 184.2,
+      "n_words": 35,
+      "start_frame": 4370,
+      "end_frame": 4605,
+      "keyframes": [
+        "004448.webp",
+        "004529.webp",
+        "004530.webp",
+        "004572.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và đối với món ăn ngày hôm nay thì Phước Hưng sẽ sử dụng thêm hai muỗng canh giấm gạo lên men Ajinomoto.",
+      "start": 184.2,
+      "end": 189.44,
+      "n_words": 23,
+      "start_frame": 4605,
+      "end_frame": 4736,
+      "keyframes": [
+        "004615.webp",
+        "004616.webp",
+        "004645.webp",
+        "004675.webp",
+        "004676.webp",
+        "004714.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và đây cũng là một cái lưu ý cho quý vị khán giả, tùy theo sở thích, món ăn ngày hôm nay chúng ta có thể thêm giấm vào để giúp cho món ăn có vị chua thanh, thơm ngon hơn.",
+      "start": 189.68,
+      "end": 198.76,
+      "n_words": 41,
+      "start_frame": 4742,
+      "end_frame": 4969,
+      "keyframes": [
+        "004753.webp",
+        "004754.webp",
+        "004793.webp",
+        "004832.webp",
+        "004833.webp",
+        "004900.webp",
+        "004967.webp",
+        "004968.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Và cuối cùng Phương sẽ nêm vào đây một muỗng canh nước mắm.",
+      "start": 198.76,
+      "end": 202.08,
+      "n_words": 13,
+      "start_frame": 4969,
+      "end_frame": 5052,
+      "keyframes": [
+        "005010.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Khi mà chúng ta dùng gia vị nêm sẵn Aji-Quick bún riêu cua thì rất là nhanh chóng và tiện lợi đúng không nào, nhưng mà sẽ ra một cái mùi thơm bún riêu cua rất là đặc trưng luôn.",
+      "start": 202.08,
+      "end": 211.68,
+      "n_words": 40,
+      "start_frame": 5052,
+      "end_frame": 5292,
+      "keyframes": [
+        "005053.webp",
+        "005054.webp",
+        "005100.webp",
+        "005147.webp",
+        "005148.webp",
+        "005172.webp",
+        "005196.webp",
+        "005197.webp",
+        "005244.webp",
+        "005292.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Vậy là phần nước dùng của chúng ta đã xong.",
+      "start": 211.68,
+      "end": 213.64,
+      "n_words": 10,
+      "start_frame": 5292,
+      "end_frame": 5341,
+      "keyframes": [
+        "005292.webp",
+        "005293.webp",
+        "005320.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Khi ăn thì chúng ta sẽ trụng bắp bò vừa chín tới giúp cho thịt bò có độ mềm ngọt, khi ăn sẽ thơm ngon hơn.",
+      "start": 213.64,
+      "end": 220.16,
+      "n_words": 26,
+      "start_frame": 5341,
+      "end_frame": 5504,
+      "keyframes": [
+        "005348.webp",
+        "005349.webp",
+        "005391.webp",
+        "005433.webp",
+        "005434.webp",
+        "005467.webp",
+        "005501.webp",
+        "005502.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Rồi như vậy là đã được rồi, bây giờ Hưng sẽ cho ra cái gì.",
+      "start": 220.16,
+      "end": 226.44,
+      "n_words": 15,
+      "start_frame": 5504,
+      "end_frame": 5661,
+      "keyframes": [
+        "005520.webp",
+        "005539.webp",
+        "005540.webp",
+        "005602.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và quý vị khán giả thân mến, để lưu lại món ăn ngày hôm nay \"Nấu chuẩn ăn lành\" với bún riêu cua bắp bò thì quý vị khán giả có thể dùng điện thoại di động quét mã QR đang hiển thị trên màn hình để lưu lại công thức nhé.",
+      "start": 226.44,
+      "end": 239.16,
+      "n_words": 52,
+      "start_frame": 5661,
+      "end_frame": 5979,
+      "keyframes": [
+        "005664.webp",
+        "005665.webp",
+        "005798.webp",
+        "005932.webp",
+        "005933.webp",
+        "005957.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ Phước Hưng sẽ sắp đồ ăn lên.",
+      "start": 239.16,
+      "end": 241.56,
+      "n_words": 9,
+      "start_frame": 5979,
+      "end_frame": 6039,
+      "keyframes": [
+        "005982.webp",
+        "005983.webp",
+        "006010.webp",
+        "006038.webp",
+        "006039.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta sẽ cho phần cà chua cho vào, chả lụa bò, cuối cùng không thể thiếu là bắp bò, cho nước lèo vào, cho lên đây vài lát ớt, một ít ngò gai nè và một ít hành tây.",
+      "start": 241.56,
+      "end": 259.04,
+      "n_words": 40,
+      "start_frame": 6039,
+      "end_frame": 6476,
+      "keyframes": [
+        "006039.webp",
+        "006071.webp",
+        "006103.webp",
+        "006104.webp",
+        "006134.webp",
+        "006165.webp",
+        "006166.webp",
+        "006208.webp",
+        "006250.webp",
+        "006251.webp",
+        "006302.webp",
+        "006353.webp",
+        "006354.webp",
+        "006376.webp",
+        "006399.webp",
+        "006400.webp",
+        "006438.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Vậy là bây giờ món bún riêu cua bắp bò chúng ta đã hoàn tất rồi, rất là nhanh chóng luôn.",
+      "start": 259.04,
+      "end": 264.16,
+      "n_words": 21,
+      "start_frame": 6476,
+      "end_frame": 6604,
+      "keyframes": [
+        "006477.webp",
+        "006478.webp",
+        "006539.webp",
+        "006601.webp",
+        "006602.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Khi ăn thì các bạn có thể kết hợp với rau sống nè và cho vào một ít mắm tôm sẽ rất là tuyệt vời cho món ăn luôn.",
+      "start": 264.16,
+      "end": 270.88,
+      "n_words": 29,
+      "start_frame": 6604,
+      "end_frame": 6772,
+      "keyframes": [
+        "006752.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Một gợi ý rất là hấp dẫn, ngon miệng và lại giàu chất dinh dưỡng cho bữa sáng của quý vị mỗi ngày để giúp cho trí não hoạt động hiệu quả hơn thì các bạn nên tham khảo món ăn này và cùng với bản thực đơn cho một ngày sau đây.",
+      "start": 270.88,
+      "end": 287.36,
+      "n_words": 53,
+      "start_frame": 6772,
+      "end_frame": 7184,
+      "keyframes": [
+        "006903.webp",
+        "006904.webp",
+        "006985.webp",
+        "007066.webp",
+        "007067.webp",
+        "007129.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và quý vị và các bạn cũng có thể xem lại đầy đủ thông tin của bản thực đơn này bằng cách truy cập vào website của Món ngon mỗi ngày.",
+      "start": 287.36,
+      "end": 295.56,
+      "n_words": 31,
+      "start_frame": 7184,
+      "end_frame": 7389,
+      "keyframes": [
+        "007191.webp",
+        "007192.webp",
+        "007284.webp",
+        "007377.webp",
+        "007378.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nước có màu cam đỏ bắt mắt, mộc mạc hương cua đồng cùng với thịt bò chín mềm và vị ngọt của nước dùng tất cả làm nên vị ngon đậm đà chất quê.",
+      "start": 295.56,
+      "end": 305.88,
+      "n_words": 34,
+      "start_frame": 7389,
+      "end_frame": 7647,
+      "keyframes": [
+        "007450.webp",
+        "007523.webp",
+        "007524.webp",
+        "007541.webp",
+        "007559.webp",
+        "007560.webp",
+        "007605.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Bún riêu cua bắp bò với phương pháp chế biến cực đơn giản và chuẩn bị, các bạn hãy làm thử ngay nhé.",
+      "start": 305.88,
+      "end": 310.92,
+      "n_words": 23,
+      "start_frame": 7647,
+      "end_frame": 7773,
+      "keyframes": [
+        "007650.webp",
+        "007651.webp",
+        "007711.webp",
+        "007772.webp",
+        "007773.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ngoài ra đừng quên những địa chỉ quen thuộc của chương trình Món ngon mỗi ngày đó chính là kênh YouTube, website và fanpage của chương trình.",
+      "start": 310.92,
+      "end": 318.16,
+      "n_words": 27,
+      "start_frame": 7773,
+      "end_frame": 7954,
+      "keyframes": [
+        "007773.webp",
+        "007849.webp",
+        "007926.webp",
+        "007927.webp"
+      ],
+      "keyframe_count": 4
+    }
+  ]
+}

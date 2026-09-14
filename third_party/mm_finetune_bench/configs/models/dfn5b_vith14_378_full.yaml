@@ -1,0 +1,29 @@
+# ViT-H-14-378-quickgelu, Apple DFN-5B pretraining (open_clip tag 'dfn5b').
+# Round-3 variant: TRUE full-parameter fine-tune (adaptation: full unfreezes
+# every parameter -- LoRA/partial_unfreeze sections below are unused, kept
+# only so differential_lr_groups/loss stay identical to the LoRA config for
+# reference). Copied from dfn5b_vith14_378.yaml.
+
+name: dfn5b_vith14_378_ft3
+wrapper: open_clip
+backend: open_clip
+open_clip:
+  model_name: "ViT-H-14-378-quickgelu"
+  pretrained: "dfn5b"
+
+embed_dim: 1024
+image_size: 378
+context_length: 77
+
+adaptation: full
+quantization: null
+
+loss:
+  type: infonce
+  learnable_logit_scale: true
+
+differential_lr_groups:
+  vision_encoder: "visual.*"
+  text_encoder: "^(?!visual).*transformer.*"
+  projection: ".*(proj|projection)$"
+  logit_scale: "logit_scale"

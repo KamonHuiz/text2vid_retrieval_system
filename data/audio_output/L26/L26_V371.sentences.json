@@ -1,0 +1,902 @@
+{
+  "video_id": "L26_V371",
+  "fps": 25.0,
+  "n_sentences": 55,
+  "total_words": 1021,
+  "sentences": [
+    {
+      "text": "Món thơm mỗi ngày. Phương đang làm cái gì?",
+      "start": 10.52,
+      "end": 13.52,
+      "n_words": 9,
+      "start_frame": 263,
+      "end_frame": 338,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ái chà, bông đẹp nhắm.",
+      "start": 13.52,
+      "end": 16.68,
+      "n_words": 5,
+      "start_frame": 338,
+      "end_frame": 417,
+      "keyframes": [
+        "000347.webp",
+        "000395.webp",
+        "000396.webp",
+        "000413.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Lại đi, có gì cho Phương hả?",
+      "start": 16.92,
+      "end": 18.6,
+      "n_words": 7,
+      "start_frame": 423,
+      "end_frame": 465,
+      "keyframes": [
+        "000431.webp",
+        "000432.webp",
+        "000445.webp",
+        "000459.webp",
+        "000460.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Trời, thử cái này đồ ăn đúng không?",
+      "start": 18.6,
+      "end": 20.6,
+      "n_words": 8,
+      "start_frame": 465,
+      "end_frame": 515,
+      "keyframes": [
+        "000471.webp",
+        "000483.webp",
+        "000484.webp",
+        "000496.webp",
+        "000509.webp",
+        "000510.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Được được, nhắm mắt lại ăn.",
+      "start": 20.6,
+      "end": 28.72,
+      "n_words": 6,
+      "start_frame": 515,
+      "end_frame": 718,
+      "keyframes": [
+        "000525.webp",
+        "000541.webp",
+        "000542.webp",
+        "000628.webp",
+        "000714.webp",
+        "000715.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Biết cái gì không?",
+      "start": 28.72,
+      "end": 30.0,
+      "n_words": 4,
+      "start_frame": 718,
+      "end_frame": 750,
+      "keyframes": [
+        "000743.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Giòn giòn, thơm thơm béo.",
+      "start": 30.0,
+      "end": 33.72,
+      "n_words": 5,
+      "start_frame": 750,
+      "end_frame": 843,
+      "keyframes": [
+        "000772.webp",
+        "000773.webp",
+        "000807.webp",
+        "000842.webp",
+        "000843.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Có cái này quen lắm nè, hạnh nhân!",
+      "start": 33.72,
+      "end": 37.2,
+      "n_words": 8,
+      "start_frame": 843,
+      "end_frame": 930,
+      "keyframes": [
+        "000843.webp",
+        "000855.webp",
+        "000867.webp",
+        "000868.webp",
+        "000900.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đúng rồi, nhưng mà ăn hết miếng hạnh nhân người ta mới biết nè.",
+      "start": 37.2,
+      "end": 41.28,
+      "n_words": 14,
+      "start_frame": 930,
+      "end_frame": 1032,
+      "keyframes": [
+        "000932.webp",
+        "000933.webp",
+        "000963.webp",
+        "000993.webp",
+        "000994.webp",
+        "001013.webp",
+        "001032.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Hôm nay làm bánh đúng không?",
+      "start": 41.28,
+      "end": 42.88,
+      "n_words": 6,
+      "start_frame": 1032,
+      "end_frame": 1072,
+      "keyframes": [
+        "001032.webp",
+        "001033.webp",
+        "001072.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hạnh nhân mà nhắc tới bánh thì ai cũng biết. Xui quá rồi hả?",
+      "start": 42.88,
+      "end": 45.44,
+      "n_words": 14,
+      "start_frame": 1072,
+      "end_frame": 1136,
+      "keyframes": [
+        "001072.webp",
+        "001111.webp",
+        "001112.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng rồi, giờ hôm nay sẽ kết hợp hạnh nhân với cái gì?",
+      "start": 45.44,
+      "end": 47.72,
+      "n_words": 13,
+      "start_frame": 1136,
+      "end_frame": 1193,
+      "keyframes": [
+        "001150.webp",
+        "001189.webp",
+        "001190.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hôm nay nguyên liệu hạnh nhân sẽ làm một món mặn, nhưng mà nếu muốn biết thì chị vào bếp.",
+      "start": 47.72,
+      "end": 52.84,
+      "n_words": 20,
+      "start_frame": 1193,
+      "end_frame": 1321,
+      "keyframes": [
+        "001218.webp",
+        "001246.webp",
+        "001247.webp",
+        "001270.webp",
+        "001294.webp",
+        "001295.webp",
+        "001315.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Đồng ý!",
+      "start": 52.84,
+      "end": 55.44,
+      "n_words": 2,
+      "start_frame": 1321,
+      "end_frame": 1386,
+      "keyframes": [
+        "001335.webp",
+        "001336.webp",
+        "001360.webp",
+        "001385.webp",
+        "001386.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cá chiên hạnh nhân, nhìn là mê, ăn là ghiền. Chào các bạn khán giả đến với chương trình Món ngon mỗi ngày.",
+      "start": 55.44,
+      "end": 78.08,
+      "n_words": 23,
+      "start_frame": 1386,
+      "end_frame": 1952,
+      "keyframes": [
+        "001386.webp",
+        "001436.webp",
+        "001487.webp",
+        "001488.webp",
+        "001539.webp",
+        "001590.webp",
+        "001605.webp",
+        "001658.webp",
+        "001711.webp",
+        "001712.webp",
+        "001798.webp",
+        "001885.webp",
+        "001886.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 78.08,
+      "end": 81.88,
+      "n_words": 11,
+      "start_frame": 1952,
+      "end_frame": 2047,
+      "keyframes": [
+        "002008.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bước đầu tiên để làm món này thì chúng ta sẽ mua cá phi lê.",
+      "start": 81.88,
+      "end": 85.32,
+      "n_words": 15,
+      "start_frame": 2047,
+      "end_frame": 2133,
+      "keyframes": [
+        "002131.webp",
+        "002132.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ở đây mình đã có một miếng cá phi lê rất là ngon rồi thì chúng ta sẽ cắt con chì độ dài khoảng 5 centimet nha.",
+      "start": 85.32,
+      "end": 90.88,
+      "n_words": 27,
+      "start_frame": 2133,
+      "end_frame": 2272,
+      "keyframes": [
+        "002158.webp",
+        "002184.webp",
+        "002185.webp",
+        "002204.webp",
+        "002224.webp",
+        "002225.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đối với món cá chẽm này thì hàm lượng omega-3 và omega-6 rất là cao, rất là tốt cho sức khỏe và bên cạnh đó mình cũng biết còn có rất là nhiều các khoáng chất cần thiết cho sức khỏe của chúng ta nữa, ví dụ như là canxi nè cũng có trong đây.",
+      "start": 90.88,
+      "end": 104.56,
+      "n_words": 55,
+      "start_frame": 2272,
+      "end_frame": 2614,
+      "keyframes": [
+        "002283.webp",
+        "002341.webp",
+        "002342.webp",
+        "002376.webp",
+        "002410.webp",
+        "002411.webp",
+        "002471.webp",
+        "002532.webp",
+        "002533.webp",
+        "002553.webp",
+        "002574.webp",
+        "002575.webp",
+        "002601.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Đúng rồi, thì bây giờ xin sẽ cho vào cái tô để cái phần tẩm ướp được dễ hơn nha.",
+      "start": 104.56,
+      "end": 108.24,
+      "n_words": 20,
+      "start_frame": 2614,
+      "end_frame": 2706,
+      "keyframes": [
+        "002627.webp",
+        "002628.webp",
+        "002666.webp",
+        "002705.webp",
+        "002706.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cho vỏ chanh vào khoảng tầm một muỗng cà phê, cho thêm một muỗng canh hạt nêm Ajinomoto nữa nha.",
+      "start": 108.24,
+      "end": 113.84,
+      "n_words": 20,
+      "start_frame": 2706,
+      "end_frame": 2846,
+      "keyframes": [
+        "002706.webp",
+        "002743.webp",
+        "002781.webp",
+        "002782.webp",
+        "002795.webp",
+        "002809.webp",
+        "002810.webp",
+        "002828.webp",
+        "002846.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cho vào đây nửa muỗng cà phê tiêu xay nha, thêm một muỗng cà phê bột ngọt, bột ngọt Ajinomoto nữa, cũng cần một muỗng cà phê ớt bột paprika nữa nha để làm cho cái phần cá có cái màu sắc ngon hơn đúng không?",
+      "start": 113.84,
+      "end": 126.08,
+      "n_words": 46,
+      "start_frame": 2846,
+      "end_frame": 3152,
+      "keyframes": [
+        "002846.webp",
+        "002847.webp",
+        "002853.webp",
+        "002860.webp",
+        "002861.webp",
+        "002886.webp",
+        "002911.webp",
+        "002912.webp",
+        "002943.webp",
+        "002974.webp",
+        "002975.webp",
+        "003041.webp",
+        "003108.webp",
+        "003109.webp",
+        "003132.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Rồi và cũng át đi mùi tanh vốn có của hải sản.",
+      "start": 126.08,
+      "end": 128.8,
+      "n_words": 12,
+      "start_frame": 3152,
+      "end_frame": 3220,
+      "keyframes": [
+        "003155.webp",
+        "003156.webp",
+        "003187.webp",
+        "003219.webp",
+        "003220.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ở đây thì chúng ta sẽ sử dụng hạnh nhân cắt lát, đó chúng ta sẽ bóp nhỏ ra như vậy.",
+      "start": 128.8,
+      "end": 133.56,
+      "n_words": 21,
+      "start_frame": 3220,
+      "end_frame": 3339,
+      "keyframes": [
+        "003220.webp",
+        "003251.webp",
+        "003282.webp",
+        "003283.webp",
+        "003322.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bóp nhỏ hạnh nhân để hạnh nhân dễ bám vào cá hơn nha.",
+      "start": 133.56,
+      "end": 136.68,
+      "n_words": 13,
+      "start_frame": 3339,
+      "end_frame": 3417,
+      "keyframes": [
+        "003362.webp",
+        "003363.webp",
+        "003388.webp",
+        "003413.webp",
+        "003414.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta sẽ bóp vừa thôi để khi mà chúng ta chiên, cái phần hạnh nhân còn dính miếng miếng trên cái khúc cá rất là đẹp.",
+      "start": 136.68,
+      "end": 142.56,
+      "n_words": 27,
+      "start_frame": 3417,
+      "end_frame": 3564,
+      "keyframes": [
+        "003436.webp",
+        "003458.webp",
+        "003459.webp",
+        "003509.webp",
+        "003559.webp",
+        "003560.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Trộn cái phần bột xù chung với hạnh nhân để chúng ta lăn qua cá nha.",
+      "start": 142.56,
+      "end": 146.12,
+      "n_words": 16,
+      "start_frame": 3564,
+      "end_frame": 3653,
+      "keyframes": [
+        "003604.webp",
+        "003649.webp",
+        "003650.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và bây giờ chúng ta sẽ trộn hỗn hợp này lên.",
+      "start": 146.12,
+      "end": 148.2,
+      "n_words": 11,
+      "start_frame": 3653,
+      "end_frame": 3705,
+      "keyframes": [
+        "003675.webp",
+        "003700.webp",
+        "003701.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hạnh nhân bột xù đã có, bột khô chúng ta cũng đã có, cá cũng đã hoàn thành và sẽ sử dụng hai trứng gà.",
+      "start": 148.2,
+      "end": 155.16,
+      "n_words": 25,
+      "start_frame": 3705,
+      "end_frame": 3879,
+      "keyframes": [
+        "003724.webp",
+        "003748.webp",
+        "003749.webp",
+        "003776.webp",
+        "003803.webp",
+        "003804.webp",
+        "003820.webp",
+        "003837.webp",
+        "003838.webp",
+        "003860.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Và món này là món chiên cho nên phải cần một cái chảo dầu đúng không nào?",
+      "start": 155.16,
+      "end": 158.4,
+      "n_words": 17,
+      "start_frame": 3879,
+      "end_frame": 3960,
+      "keyframes": [
+        "003882.webp",
+        "003883.webp",
+        "003904.webp",
+        "003926.webp",
+        "003927.webp",
+        "003946.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đúng rồi.",
+      "start": 158.4,
+      "end": 159.2,
+      "n_words": 2,
+      "start_frame": 3960,
+      "end_frame": 3980,
+      "keyframes": [
+        "003966.webp",
+        "003967.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rồi trong thời gian đó thì Minh Phương sẽ bật lên đây một cái chảo dầu nha.",
+      "start": 159.2,
+      "end": 162.6,
+      "n_words": 17,
+      "start_frame": 3980,
+      "end_frame": 4065,
+      "keyframes": [
+        "004010.webp",
+        "004053.webp",
+        "004054.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng rồi, chúng ta mở lửa luôn để đợi dầu nóng trong thời gian chúng ta lăn qua phần bột nha.",
+      "start": 162.6,
+      "end": 166.92,
+      "n_words": 21,
+      "start_frame": 4065,
+      "end_frame": 4173,
+      "keyframes": [
+        "004112.webp",
+        "004171.webp",
+        "004172.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và chúng ta sẽ sử dụng phần bột năng để áo đều hết một lượt cái phần cá đã được tẩm ướp để tiết kiệm được thời gian nha.",
+      "start": 166.92,
+      "end": 173.24,
+      "n_words": 29,
+      "start_frame": 4173,
+      "end_frame": 4331,
+      "keyframes": [
+        "004214.webp",
+        "004257.webp",
+        "004258.webp",
+        "004296.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Thì bây giờ xin sẽ tiến hành lăn qua phần trứng, trứng rồi chúng ta sẽ lăn qua phần bột xù.",
+      "start": 173.24,
+      "end": 179.64,
+      "n_words": 21,
+      "start_frame": 4331,
+      "end_frame": 4491,
+      "keyframes": [
+        "004334.webp",
+        "004335.webp",
+        "004407.webp",
+        "004480.webp",
+        "004481.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Trứng sẽ giúp cho bột xù cũng như là hạnh nhân bám vào cái miếng cá của chúng ta đúng không?",
+      "start": 179.64,
+      "end": 183.96,
+      "n_words": 21,
+      "start_frame": 4491,
+      "end_frame": 4599,
+      "keyframes": [
+        "004537.webp",
+        "004593.webp",
+        "004594.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đó như mọi người cũng đã thấy thì chúng ta bóp hạnh nhân ra thì miếng hạnh nhân sẽ dính lấm tấm trên miếng cá nhìn rất là hấp dẫn.",
+      "start": 183.96,
+      "end": 188.92,
+      "n_words": 30,
+      "start_frame": 4599,
+      "end_frame": 4723,
+      "keyframes": [
+        "004660.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ xin sẽ thả vào nha.",
+      "start": 188.92,
+      "end": 191.12,
+      "n_words": 7,
+      "start_frame": 4723,
+      "end_frame": 4778,
+      "keyframes": [
+        "004727.webp",
+        "004728.webp",
+        "004754.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tẩm cá qua hỗn hợp bột xù và hạnh nhân giúp món ăn được béo và giòn hơn.",
+      "start": 191.12,
+      "end": 195.64,
+      "n_words": 18,
+      "start_frame": 4778,
+      "end_frame": 4891,
+      "keyframes": [
+        "004780.webp",
+        "004781.webp",
+        "004835.webp",
+        "004890.webp",
+        "004891.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Minh Phương thấy là cái phần hạnh nhân cũng như là bột xù chín cũng khá là nhanh đó đúng không xin?",
+      "start": 195.64,
+      "end": 201.48,
+      "n_words": 22,
+      "start_frame": 4891,
+      "end_frame": 5037,
+      "keyframes": [
+        "004891.webp",
+        "004912.webp",
+        "004934.webp",
+        "004935.webp",
+        "004963.webp",
+        "004992.webp",
+        "004993.webp",
+        "005018.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Đúng rồi, phần cá đã bắt đầu chuyển sang màu vàng rồi.",
+      "start": 201.48,
+      "end": 209.36,
+      "n_words": 12,
+      "start_frame": 5037,
+      "end_frame": 5234,
+      "keyframes": [
+        "005044.webp",
+        "005045.webp",
+        "005095.webp",
+        "005146.webp",
+        "005147.webp",
+        "005187.webp",
+        "005228.webp",
+        "005229.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Với cái cách làm này thì Minh Phương thấy rất là thú vị khi mà chúng ta tích hợp thêm hạnh nhân nè, không những là giúp cho món ăn thơm hơn, béo hơn mà còn lại cái tạo hình của món ăn sau khi hoàn tất rất là đẹp nữa.",
+      "start": 209.36,
+      "end": 220.44,
+      "n_words": 51,
+      "start_frame": 5234,
+      "end_frame": 5511,
+      "keyframes": [
+        "005282.webp",
+        "005336.webp",
+        "005337.webp",
+        "005370.webp",
+        "005404.webp",
+        "005405.webp",
+        "005458.webp",
+        "005511.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Với món này, cá chẽm chúng ta chiên nhanh qua lửa lớn để cá không bị khô và mềm bên trong nha.",
+      "start": 220.44,
+      "end": 225.16,
+      "n_words": 22,
+      "start_frame": 5511,
+      "end_frame": 5629,
+      "keyframes": [
+        "005511.webp",
+        "005512.webp",
+        "005571.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thì trong thời gian mà chờ Minh Phương chiên xong cái phần cá này, xin sẽ hướng dẫn mọi người pha sốt để chấm cái phần cá chiên này nha.",
+      "start": 225.16,
+      "end": 231.88,
+      "n_words": 30,
+      "start_frame": 5629,
+      "end_frame": 5797,
+      "keyframes": [
+        "005630.webp",
+        "005631.webp",
+        "005678.webp",
+        "005725.webp",
+        "005726.webp",
+        "005760.webp",
+        "005795.webp",
+        "005796.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta chỉ cần có hai muỗng canh sốt mayonnaise, có một muỗng canh tương ớt.",
+      "start": 231.88,
+      "end": 236.48,
+      "n_words": 16,
+      "start_frame": 5797,
+      "end_frame": 5912,
+      "keyframes": [
+        "005816.webp",
+        "005836.webp",
+        "005837.webp",
+        "005856.webp",
+        "005875.webp",
+        "005876.webp",
+        "005909.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Trộn cái phần sốt này lên sẽ có một màu cam rất là đẹp và đối với món này thì rất là nhanh và dễ chuẩn bị đúng không các bạn?",
+      "start": 236.48,
+      "end": 242.92,
+      "n_words": 31,
+      "start_frame": 5912,
+      "end_frame": 6073,
+      "keyframes": [
+        "005943.webp",
+        "005944.webp",
+        "005973.webp",
+        "006003.webp",
+        "006004.webp",
+        "006037.webp",
+        "006071.webp",
+        "006072.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta có thể chuẩn bị sẵn ở trong tủ mát và khi ăn thì chúng ta chiên lên.",
+      "start": 242.92,
+      "end": 248.6,
+      "n_words": 19,
+      "start_frame": 6073,
+      "end_frame": 6215,
+      "keyframes": [
+        "006090.webp",
+        "006108.webp",
+        "006109.webp",
+        "006133.webp",
+        "006158.webp",
+        "006159.webp",
+        "006183.webp",
+        "006208.webp",
+        "006209.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Sao thấy trình độ chiên của Phương có được không?",
+      "start": 248.6,
+      "end": 251.68,
+      "n_words": 10,
+      "start_frame": 6215,
+      "end_frame": 6292,
+      "keyframes": [
+        "006239.webp",
+        "006269.webp",
+        "006270.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Quá đỉnh, miếng cá vàng rất là đều, gấp mà mình nghe được cái tiếng giòn của nó luôn á.",
+      "start": 251.68,
+      "end": 257.16,
+      "n_words": 20,
+      "start_frame": 6292,
+      "end_frame": 6429,
+      "keyframes": [
+        "006341.webp",
+        "006413.webp",
+        "006414.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng rồi, trang trí thêm một cái màu xanh xanh của lá ngò tây lên nữa, chúng ta đã hoàn thành món cá chẽm chiên hạnh nhân.",
+      "start": 257.16,
+      "end": 263.32,
+      "n_words": 27,
+      "start_frame": 6429,
+      "end_frame": 6583,
+      "keyframes": [
+        "006436.webp",
+        "006458.webp",
+        "006473.webp",
+        "006522.webp",
+        "006571.webp",
+        "006572.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Để món ăn này được hoàn chỉnh hơn thì chúng ta nên ăn kèm với salad dầu giấm nữa.",
+      "start": 263.32,
+      "end": 267.36,
+      "n_words": 19,
+      "start_frame": 6583,
+      "end_frame": 6684,
+      "keyframes": [
+        "006634.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nha, miếng cá vàng giòn rụm, thêm hạnh nhân bùi thơm, cắn một miếng giòn rụm bên ngoài, ngọt mềm của cá bên trong, quyện với sốt béo béo, khéo tròn vị.",
+      "start": 267.36,
+      "end": 278.28,
+      "n_words": 32,
+      "start_frame": 6684,
+      "end_frame": 6957,
+      "keyframes": [
+        "006697.webp",
+        "006698.webp",
+        "006763.webp",
+        "006828.webp",
+        "006829.webp",
+        "006898.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Ngon!",
+      "start": 278.28,
+      "end": 278.68,
+      "n_words": 1,
+      "start_frame": 6957,
+      "end_frame": 6967,
+      "keyframes": [
+        "006967.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Vào bếp cùng Món ngon mỗi ngày để những bữa cơm gia đình không chỉ ngon mà còn đong đầy yêu thương và sự sẻ chia các bạn nha.",
+      "start": 278.68,
+      "end": 285.44,
+      "n_words": 29,
+      "start_frame": 6967,
+      "end_frame": 7136,
+      "keyframes": [
+        "006967.webp",
+        "006968.webp",
+        "007051.webp",
+        "007135.webp",
+        "007136.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Các bạn ơi, chúng ta có thể xem lại công thức của những món ngon hoặc những thông tin hữu ích bằng cách truy cập vào kênh YouTube, website và fanpage của chương trình.",
+      "start": 285.44,
+      "end": 294.96,
+      "n_words": 34,
+      "start_frame": 7136,
+      "end_frame": 7374,
+      "keyframes": [
+        "007136.webp",
+        "007188.webp",
+        "007240.webp",
+        "007241.webp",
+        "007296.webp",
+        "007351.webp",
+        "007352.webp"
+      ],
+      "keyframe_count": 7
+    }
+  ]
+}

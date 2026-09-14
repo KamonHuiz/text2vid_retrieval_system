@@ -1,0 +1,19 @@
+{
+  "unfiltered": {
+    "text": "lớn tỷ lệ ông già bà già",
+    "word_count": 7
+  },
+  "flagged": {
+    "text": "lớn tỷ lệ ông già bà già",
+    "word_count": 7
+  },
+  "refined": {
+    "text": "Lớn tỷ lệ ông già bà già.",
+    "word_count": 7,
+    "source": "flagged"
+  },
+  "proofread": {
+    "text": "Lớn tỷ lệ người già.",
+    "word_count": 5
+  }
+}

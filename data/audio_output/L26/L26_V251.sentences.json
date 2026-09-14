@@ -1,0 +1,749 @@
+{
+  "video_id": "L26_V251",
+  "fps": 25.0,
+  "n_sentences": 41,
+  "total_words": 1047,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.48,
+      "end": 13.04,
+      "n_words": 4,
+      "start_frame": 262,
+      "end_frame": 326,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000325.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chào bạn Phước Hương, trà Phước Hương cha làm cái gì mà quá trời đồ chơi luôn xin ông đốt hưng nha?",
+      "start": 13.04,
+      "end": 18.6,
+      "n_words": 22,
+      "start_frame": 326,
+      "end_frame": 465,
+      "keyframes": [
+        "000350.webp",
+        "000351.webp",
+        "000360.webp",
+        "000370.webp",
+        "000371.webp",
+        "000402.webp",
+        "000433.webp",
+        "000434.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Nhìn những cái vật dụng này Phước Hương liên tưởng đến đồ ăn gì?",
+      "start": 18.6,
+      "end": 23.24,
+      "n_words": 14,
+      "start_frame": 465,
+      "end_frame": 581,
+      "keyframes": [
+        "000487.webp",
+        "000540.webp",
+        "000541.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nhìn là biết ngay là sushi rồi đúng không?",
+      "start": 23.24,
+      "end": 25.68,
+      "n_words": 9,
+      "start_frame": 581,
+      "end_frame": 642,
+      "keyframes": [
+        "000592.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đồ Nhật đúng không?",
+      "start": 25.68,
+      "end": 26.88,
+      "n_words": 4,
+      "start_frame": 642,
+      "end_frame": 672,
+      "keyframes": [
+        "000643.webp",
+        "000644.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rồi chính xác, và phần thưởng sẽ dành cho Phước Hương đó là làm sushi, đồng ý không?",
+      "start": 26.88,
+      "end": 31.8,
+      "n_words": 18,
+      "start_frame": 672,
+      "end_frame": 795,
+      "keyframes": [
+        "000693.webp",
+        "000743.webp",
+        "000744.webp",
+        "000759.webp",
+        "000774.webp",
+        "000775.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đây là một cái mành để làm sushi, nhưng mà ngày hôm nay Phước Hương sẽ không làm sushi mà sẽ biến tấu từ sushi ra một cái món chiên sẽ rất là ngon mà lại lạ miệng nữa.",
+      "start": 31.8,
+      "end": 41.8,
+      "n_words": 39,
+      "start_frame": 795,
+      "end_frame": 1045,
+      "keyframes": [
+        "000834.webp",
+        "000893.webp",
+        "000894.webp",
+        "000955.webp",
+        "001017.webp",
+        "001018.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hấp dẫn quá, vào bếp và làm ngay nha!",
+      "start": 41.8,
+      "end": 43.92,
+      "n_words": 9,
+      "start_frame": 1045,
+      "end_frame": 1098,
+      "keyframes": [
+        "001064.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Được luôn.",
+      "start": 43.92,
+      "end": 46.48,
+      "n_words": 2,
+      "start_frame": 1098,
+      "end_frame": 1162,
+      "keyframes": [
+        "001110.webp",
+        "001111.webp",
+        "001135.webp",
+        "001160.webp",
+        "001161.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ngọt vị cá, thanh vị cua với cuộn rong biển chiên giòn rùm. Chào các bạn đang đến với chương trình Món ngon mỗi ngày.",
+      "start": 46.48,
+      "end": 68.72,
+      "n_words": 25,
+      "start_frame": 1162,
+      "end_frame": 1718,
+      "keyframes": [
+        "001216.webp",
+        "001271.webp",
+        "001272.webp",
+        "001321.webp",
+        "001370.webp",
+        "001385.webp",
+        "001424.webp",
+        "001464.webp",
+        "001465.webp",
+        "001555.webp",
+        "001645.webp",
+        "001646.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam. Đối với món ăn ngày hôm nay thì Phước Hương sẽ hướng dẫn cho quý vị.",
+      "start": 68.72,
+      "end": 75.72,
+      "n_words": 27,
+      "start_frame": 1718,
+      "end_frame": 1893,
+      "keyframes": [
+        "001802.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta sẽ ướp gia vị vào chả cá basa thường thì chả cá basa chúng ta mua ở ngoài thị trường thì đã có nêm gia vị rồi thì chúng ta sẽ không nêm gia vị quá nhiều vào đây.",
+      "start": 75.72,
+      "end": 85.68,
+      "n_words": 41,
+      "start_frame": 1893,
+      "end_frame": 2142,
+      "keyframes": [
+        "001958.webp",
+        "001959.webp",
+        "001980.webp",
+        "002001.webp",
+        "002002.webp",
+        "002035.webp",
+        "002069.webp",
+        "002070.webp",
+        "002105.webp",
+        "002140.webp",
+        "002141.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Hương sẽ cho vào đây một muỗng cà phê bột ngọt Ajinomoto, một muỗng cà phê tiêu, hai muỗng canh đầu hành băm, một muỗng canh ngò rí băm và một ít ớt sừng băm để tạo màu sắc cũng như là hương vị cho cái phần nhân.",
+      "start": 85.68,
+      "end": 99.64,
+      "n_words": 48,
+      "start_frame": 2142,
+      "end_frame": 2491,
+      "keyframes": [
+        "002161.webp",
+        "002181.webp",
+        "002182.webp",
+        "002204.webp",
+        "002226.webp",
+        "002227.webp",
+        "002244.webp",
+        "002261.webp",
+        "002262.webp",
+        "002284.webp",
+        "002306.webp",
+        "002307.webp",
+        "002333.webp",
+        "002359.webp",
+        "002360.webp",
+        "002404.webp",
+        "002449.webp",
+        "002450.webp",
+        "002491.webp"
+      ],
+      "keyframe_count": 19
+    },
+    {
+      "text": "Sẽ trộn đều cái phần nhân lên.",
+      "start": 99.64,
+      "end": 101.32,
+      "n_words": 7,
+      "start_frame": 2491,
+      "end_frame": 2533,
+      "keyframes": [
+        "002491.webp",
+        "002533.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đối với những món chả cá thì thông thường chúng ta sẽ cần quết thời gian lâu hơn để lát nữa khi mà chế biến xong cái phần chả sẽ được ngon và dai hơn, có đúng không Phước Hương?",
+      "start": 101.32,
+      "end": 110.24,
+      "n_words": 40,
+      "start_frame": 2533,
+      "end_frame": 2756,
+      "keyframes": [
+        "002533.webp",
+        "002534.webp",
+        "002595.webp",
+        "002657.webp",
+        "002658.webp",
+        "002690.webp",
+        "002723.webp",
+        "002724.webp",
+        "002754.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đúng rồi đó Minh Phương.",
+      "start": 110.24,
+      "end": 111.44,
+      "n_words": 5,
+      "start_frame": 2756,
+      "end_frame": 2786,
+      "keyframes": [
+        "002784.webp",
+        "002785.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúng ta sẽ lấy một tờ rong biển đặt mặt láng ở bên dưới, cái mặt nhám lên bên trên, lấy phần nhân này cho vào, phết phần chả cá ba sa một phần hai tờ lá rong biển thôi, cho thanh cua vào, cho vào hai thanh để tương đương với chiều dài của lá rong biển luôn rồi và bây giờ chúng ta sẽ cuốn chặt tay lại.",
+      "start": 111.44,
+      "end": 130.96,
+      "n_words": 70,
+      "start_frame": 2786,
+      "end_frame": 3274,
+      "keyframes": [
+        "002807.webp",
+        "002829.webp",
+        "002830.webp",
+        "002848.webp",
+        "002867.webp",
+        "002868.webp",
+        "002883.webp",
+        "002899.webp",
+        "002900.webp",
+        "002923.webp",
+        "002947.webp",
+        "002948.webp",
+        "002988.webp",
+        "003028.webp",
+        "003029.webp",
+        "003061.webp",
+        "003094.webp",
+        "003095.webp",
+        "003116.webp",
+        "003138.webp",
+        "003139.webp",
+        "003173.webp",
+        "003207.webp",
+        "003208.webp",
+        "003221.webp",
+        "003234.webp",
+        "003235.webp",
+        "003253.webp",
+        "003271.webp",
+        "003272.webp"
+      ],
+      "keyframe_count": 30
+    },
+    {
+      "text": "Và đây cũng là một cái lưu ý cho quý vị nha, chúng ta sẽ cuộn chặt tay để phần nhân được kết dính với rong biển tốt hơn.",
+      "start": 130.96,
+      "end": 137.2,
+      "n_words": 29,
+      "start_frame": 3274,
+      "end_frame": 3430,
+      "keyframes": [
+        "003321.webp",
+        "003371.webp",
+        "003372.webp",
+        "003400.webp",
+        "003429.webp",
+        "003430.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cho qua một cái dĩa, tiếp tục cái thứ hai cho phần thanh cua vào cuộn chặt tay lại.",
+      "start": 137.2,
+      "end": 143.2,
+      "n_words": 19,
+      "start_frame": 3430,
+      "end_frame": 3580,
+      "keyframes": [
+        "003430.webp",
+        "003444.webp",
+        "003459.webp",
+        "003460.webp",
+        "003475.webp",
+        "003490.webp",
+        "003491.webp",
+        "003514.webp",
+        "003537.webp",
+        "003538.webp",
+        "003558.webp",
+        "003579.webp",
+        "003580.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Lá rong biển thì rất là quen thuộc đối với ẩm thực Nhật Bản, Phương rất là thích lá rong biển tại vì trong lá rong biển có rất là nhiều omega-3 và đặc biệt rất là nhiều canxi, còn nhiều canxi hơn ở trong sữa nữa đó, cho nên là không những là cho người lớn mà còn đối với trẻ nhỏ nữa rất là tốt.",
+      "start": 143.2,
+      "end": 161.88,
+      "n_words": 67,
+      "start_frame": 3580,
+      "end_frame": 4047,
+      "keyframes": [
+        "003580.webp",
+        "003645.webp",
+        "003711.webp",
+        "003712.webp",
+        "003752.webp",
+        "003792.webp",
+        "003793.webp",
+        "003802.webp",
+        "003812.webp",
+        "003813.webp",
+        "003876.webp",
+        "003940.webp",
+        "003941.webp",
+        "003993.webp",
+        "004046.webp",
+        "004047.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Thanh cua cũng là một nguyên liệu của ẩm thực Nhật Bản nữa, rất là quen thuộc.",
+      "start": 161.88,
+      "end": 166.64,
+      "n_words": 17,
+      "start_frame": 4047,
+      "end_frame": 4166,
+      "keyframes": [
+        "004047.webp",
+        "004110.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Sau khi mà các bạn cuốn xong thì chúng ta sẽ để lá rong biển được thấm mềm khoảng 10 phút thì chúng ta sẽ đem nhúng bột, làm như vậy thì giúp cho cuộn rong biển sẽ định hình tốt hơn.",
+      "start": 166.64,
+      "end": 175.6,
+      "n_words": 42,
+      "start_frame": 4166,
+      "end_frame": 4390,
+      "keyframes": [
+        "004174.webp",
+        "004175.webp",
+        "004281.webp",
+        "004387.webp",
+        "004388.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta sẽ pha cái hỗn hợp sốt, cho vào đây hai muỗng canh sốt mayonnaise, một muỗng canh tương ớt, nửa muỗng cà phê cọng ngò rí băm và nửa muỗng cà phê ớt sừng băm và bây giờ chúng ta sẽ khuấy đều lên.",
+      "start": 175.6,
+      "end": 188.64,
+      "n_words": 46,
+      "start_frame": 4390,
+      "end_frame": 4716,
+      "keyframes": [
+        "004417.webp",
+        "004447.webp",
+        "004448.webp",
+        "004490.webp",
+        "004532.webp",
+        "004533.webp",
+        "004551.webp",
+        "004569.webp",
+        "004570.webp",
+        "004591.webp",
+        "004613.webp",
+        "004614.webp",
+        "004643.webp",
+        "004672.webp",
+        "004673.webp",
+        "004693.webp",
+        "004713.webp",
+        "004714.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Nếu như mà ở nhà chúng ta có trẻ nhỏ thì chúng ta có thể thay thế tương ớt bằng tương cà đúng không Phước Hương?",
+      "start": 188.64,
+      "end": 193.28,
+      "n_words": 26,
+      "start_frame": 4716,
+      "end_frame": 4832,
+      "keyframes": [
+        "004777.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đúng luôn mà món sốt cũng vẫn ngon.",
+      "start": 193.28,
+      "end": 195.08,
+      "n_words": 8,
+      "start_frame": 4832,
+      "end_frame": 4877,
+      "keyframes": [
+        "004841.webp",
+        "004842.webp",
+        "004861.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tiếp tục Phước Hương sẽ hướng dẫn cho quý vị chúng ta pha bột để chiên cuộn rong biển.",
+      "start": 195.08,
+      "end": 198.84,
+      "n_words": 19,
+      "start_frame": 4877,
+      "end_frame": 4971,
+      "keyframes": [
+        "004881.webp",
+        "004882.webp",
+        "004926.webp",
+        "004971.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Phước Hương sẽ sử dụng một phần hai gói gia vị nêm sẵn Ajinomoto bột chiên giòn, cho phần nước vào theo tỷ lệ trên bao bì, sẽ khuấy đều.",
+      "start": 198.84,
+      "end": 206.48,
+      "n_words": 30,
+      "start_frame": 4971,
+      "end_frame": 5162,
+      "keyframes": [
+        "004971.webp",
+        "004972.webp",
+        "004999.webp",
+        "005026.webp",
+        "005027.webp",
+        "005052.webp",
+        "005077.webp",
+        "005078.webp",
+        "005108.webp",
+        "005138.webp",
+        "005139.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Phước Hương sẽ đặt lên trên bếp một cái chảo dầu để chúng ta chiên cuộn rong biển.",
+      "start": 206.48,
+      "end": 210.24,
+      "n_words": 18,
+      "start_frame": 5162,
+      "end_frame": 5256,
+      "keyframes": [
+        "005173.webp",
+        "005208.webp",
+        "005209.webp",
+        "005232.webp",
+        "005255.webp",
+        "005256.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ Phước Hương sẽ cắt cái cuộn rong biển này ra làm ba và chúng ta nhúng vào bột, chúng ta đem đi chiên.",
+      "start": 210.24,
+      "end": 215.36,
+      "n_words": 25,
+      "start_frame": 5256,
+      "end_frame": 5384,
+      "keyframes": [
+        "005256.webp",
+        "005279.webp",
+        "005303.webp",
+        "005304.webp",
+        "005318.webp",
+        "005333.webp",
+        "005334.webp",
+        "005344.webp",
+        "005354.webp",
+        "005355.webp",
+        "005374.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Sẽ lấy cuộn rong biển nè, lăn qua bột nè, cho vào chảo và món ăn này thì chúng ta sẽ chiên ngập dầu đúng không?",
+      "start": 215.36,
+      "end": 222.2,
+      "n_words": 26,
+      "start_frame": 5384,
+      "end_frame": 5555,
+      "keyframes": [
+        "005394.webp",
+        "005395.webp",
+        "005405.webp",
+        "005415.webp",
+        "005416.webp",
+        "005430.webp",
+        "005445.webp",
+        "005446.webp",
+        "005465.webp",
+        "005484.webp",
+        "005485.webp",
+        "005526.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Đúng rồi và chúng ta sẽ chiên lửa vừa để phần chả cá bên trong được chín đều hơn.",
+      "start": 222.2,
+      "end": 235.36,
+      "n_words": 19,
+      "start_frame": 5555,
+      "end_frame": 5884,
+      "keyframes": [
+        "005567.webp",
+        "005568.webp",
+        "005630.webp",
+        "005693.webp",
+        "005694.webp",
+        "005710.webp",
+        "005727.webp",
+        "005728.webp",
+        "005800.webp",
+        "005872.webp",
+        "005873.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Thì cuộn rong biển cũng vừa vàng tới rồi, Phước Hương sẽ tắt bếp nè.",
+      "start": 235.36,
+      "end": 238.76,
+      "n_words": 15,
+      "start_frame": 5884,
+      "end_frame": 5969,
+      "keyframes": [
+        "005919.webp",
+        "005965.webp",
+        "005966.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta sẽ lấy ra ở đây Phước Hương cũng đã chuẩn bị sẵn một cái giấy thấm dầu.",
+      "start": 238.76,
+      "end": 242.52,
+      "n_words": 19,
+      "start_frame": 5969,
+      "end_frame": 6063,
+      "keyframes": [
+        "006025.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta sẽ cho vào trong cái lớp vỏ ở ngoài rất là giòn luôn Phước Hương ơi, cho nên bây giờ món ăn cũng đã hoàn thành rồi, quá là hấp dẫn luôn Phước Hương ơi!",
+      "start": 242.52,
+      "end": 251.08,
+      "n_words": 37,
+      "start_frame": 6063,
+      "end_frame": 6277,
+      "keyframes": [
+        "006085.webp",
+        "006086.webp",
+        "006123.webp",
+        "006160.webp",
+        "006161.webp",
+        "006218.webp",
+        "006275.webp",
+        "006276.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Và trong quá trình thực hiện món ăn này nếu như chúng ta bỏ lỡ một giai đoạn nào hay một lưu ý nào đó thì có thể sử dụng điện thoại để quét mã QR đang hiển thị ở màn hình đây để xem lại quý vị nhé.",
+      "start": 251.08,
+      "end": 263.52,
+      "n_words": 49,
+      "start_frame": 6277,
+      "end_frame": 6588,
+      "keyframes": [
+        "006409.webp",
+        "006543.webp",
+        "006544.webp",
+        "006568.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng ta sẽ cắt làm đôi nữa đúng không nào để khi ăn cho vừa miệng, với sốt mayonnaise cũng sẽ dễ hơn, rất là hấp dẫn.",
+      "start": 263.52,
+      "end": 271.72,
+      "n_words": 27,
+      "start_frame": 6588,
+      "end_frame": 6793,
+      "keyframes": [
+        "006593.webp",
+        "006594.webp",
+        "006609.webp",
+        "006625.webp",
+        "006626.webp",
+        "006689.webp",
+        "006753.webp",
+        "006754.webp",
+        "006778.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cuối cùng Phước Hương sẽ bắt lên đây một ít sốt mayonnaise.",
+      "start": 271.72,
+      "end": 274.32,
+      "n_words": 12,
+      "start_frame": 6793,
+      "end_frame": 6858,
+      "keyframes": [
+        "006802.webp",
+        "006803.webp",
+        "006824.webp",
+        "006845.webp",
+        "006846.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Món cuộn rong biển của chúng ta cũng đã xong và để tạo nên một bữa ăn dinh dưỡng thì chúng ta có thể kết hợp với món salad bí đỏ cũng rất là tuyệt vời.",
+      "start": 275.16,
+      "end": 282.32,
+      "n_words": 36,
+      "start_frame": 6879,
+      "end_frame": 7058,
+      "keyframes": [
+        "006901.webp",
+        "006957.webp",
+        "006958.webp",
+        "007003.webp",
+        "007049.webp",
+        "007050.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cuốn rong biển chiên vàng giòn, ngọt vị cá ba sa và thanh cua, cùng chút sốt béo béo, thơm thơm.",
+      "start": 282.32,
+      "end": 289.12,
+      "n_words": 21,
+      "start_frame": 7058,
+      "end_frame": 7228,
+      "keyframes": [
+        "007077.webp",
+        "007104.webp",
+        "007119.webp",
+        "007145.webp",
+        "007171.webp",
+        "007172.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đến hôm sau vẫn thèm hãy đón xem chương trình Món ngon mỗi ngày để cập nhật nhiều công thức vừa ngon vừa nhanh gọn các bạn nhé.",
+      "start": 289.12,
+      "end": 298.04,
+      "n_words": 28,
+      "start_frame": 7228,
+      "end_frame": 7451,
+      "keyframes": [
+        "007243.webp",
+        "007314.webp",
+        "007315.webp",
+        "007382.webp",
+        "007450.webp",
+        "007451.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và đừng quên địa chỉ quen thuộc của chương trình đó chính là kênh YouTube, website và fanpage. Còn bây giờ thì xin chào và hẹn gặp lại.",
+      "start": 298.04,
+      "end": 305.84,
+      "n_words": 28,
+      "start_frame": 7451,
+      "end_frame": 7646,
+      "keyframes": [
+        "007451.webp",
+        "007551.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

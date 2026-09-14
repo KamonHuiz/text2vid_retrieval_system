@@ -1,0 +1,55 @@
+# MetaCLIP 2 (worldwide, multilingual) -- CLIP-style dual encoder trained on
+# Meta's globally-sourced CommonCrawl pipeline. Loaded via open_clip_torch.
+
+name: metaclip2
+wrapper: metaclip2
+backend: open_clip
+open_clip:
+  # Verified against open_clip 3.3.0: ('ViT-bigG-14-worldwide-378',
+  # 'metaclip2_worldwide'). This is the giant/378px MetaCLIP2 tier, chosen to
+  # match the other three models' top-tier sizing (PE-Core bigG, SigLIP2
+  # giant-opt). transformers also ships MetaClip2Model for
+  # facebook/metaclip-2-worldwide-giant-378, but open_clip keeps this model
+  # on the same wrapper as PE-Core.
+  model_name: "ViT-bigG-14-worldwide-378"
+  pretrained: "metaclip2_worldwide"
+
+embed_dim: 1280
+image_size: 378
+context_length: 77
+
+adaptation: lora
+quantization: null
+
+lora:
+  enabled: true
+  r: 16
+  alpha: 32
+  dropout: 0.05
+  bias: none
+  target_modules:
+    - "attn.out_proj"
+    - "mlp.c_fc"
+    - "mlp.c_proj"
+  target_module_depth_fraction: 0.5
+  modules_to_save:
+    - "visual.proj"
+    - "text_projection"
+
+partial_unfreeze:
+  unfreeze_last_n_vision_blocks: 4
+  unfreeze_last_n_text_blocks: 2
+  always_unfreeze:
+    - "visual.proj"
+    - "text_projection"
+    - "logit_scale"
+
+loss:
+  type: infonce
+  learnable_logit_scale: true
+
+differential_lr_groups:
+  vision_encoder: "visual.*"
+  text_encoder: "^(?!visual).*transformer.*"
+  projection: ".*(proj|projection)$"
+  logit_scale: "logit_scale"

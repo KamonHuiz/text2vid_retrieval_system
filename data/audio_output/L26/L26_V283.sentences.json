@@ -1,0 +1,902 @@
+{
+  "video_id": "L26_V283",
+  "fps": 25.0,
+  "n_sentences": 55,
+  "total_words": 1141,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.48,
+      "end": 12.0,
+      "n_words": 4,
+      "start_frame": 262,
+      "end_frame": 300,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Sườn cốt lết ngon vậy trời ơi, lật đật chạy vô nè!",
+      "start": 12.0,
+      "end": 17.8,
+      "n_words": 12,
+      "start_frame": 300,
+      "end_frame": 445,
+      "keyframes": [
+        "000300.webp",
+        "000369.webp",
+        "000439.webp",
+        "000440.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Gần nhà của Minh Phương mới khai trương một cửa hàng bán thịt heo hôm nay, người ta khuyến mãi cốt lết, mua ngay và mang đến đây cho xin rồi luôn, hiểu ý luôn.",
+      "start": 17.8,
+      "end": 26.84,
+      "n_words": 35,
+      "start_frame": 445,
+      "end_frame": 671,
+      "keyframes": [
+        "000495.webp",
+        "000550.webp",
+        "000551.webp",
+        "000570.webp",
+        "000590.webp",
+        "000591.webp",
+        "000616.webp",
+        "000641.webp",
+        "000642.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Bây giờ là có công thức đến thì cho được, cái đặc biệt là muốn chế biến sao nói làm luôn à.",
+      "start": 26.84,
+      "end": 32.16,
+      "n_words": 22,
+      "start_frame": 671,
+      "end_frame": 804,
+      "keyframes": [
+        "000687.webp",
+        "000732.webp",
+        "000733.webp",
+        "000761.webp",
+        "000790.webp",
+        "000791.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thông thường nha, ở nhà mà cốt lết thì Phương hay làm mặn ngọt ngọt ủa?",
+      "start": 32.16,
+      "end": 37.28,
+      "n_words": 16,
+      "start_frame": 804,
+      "end_frame": 932,
+      "keyframes": [
+        "000876.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cốt lết chiên được không?",
+      "start": 37.28,
+      "end": 38.84,
+      "n_words": 5,
+      "start_frame": 932,
+      "end_frame": 971,
+      "keyframes": [
+        "000962.webp",
+        "000963.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Được, được hết á cái gì cũng được hết hả?",
+      "start": 38.84,
+      "end": 41.56,
+      "n_words": 10,
+      "start_frame": 971,
+      "end_frame": 1039,
+      "keyframes": [
+        "000994.webp",
+        "001025.webp",
+        "001026.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Được hết, rồi bây giờ vào bếp đi.",
+      "start": 41.56,
+      "end": 43.8,
+      "n_words": 8,
+      "start_frame": 1039,
+      "end_frame": 1095,
+      "keyframes": [
+        "001058.webp",
+        "001090.webp",
+        "001091.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đồng ý, cốt lết chiên sả ớt thơm quên lối, ngon miễn bàn luôn. Chào các bạn khán giả đến với chương trình Món ngon mỗi ngày.",
+      "start": 43.8,
+      "end": 69.84,
+      "n_words": 27,
+      "start_frame": 1095,
+      "end_frame": 1746,
+      "keyframes": [
+        "001106.webp",
+        "001122.webp",
+        "001123.webp",
+        "001147.webp",
+        "001172.webp",
+        "001173.webp",
+        "001228.webp",
+        "001284.webp",
+        "001285.webp",
+        "001353.webp",
+        "001421.webp",
+        "001436.webp",
+        "001471.webp",
+        "001507.webp",
+        "001508.webp",
+        "001594.webp",
+        "001681.webp",
+        "001682.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Azino Việt Nam.",
+      "start": 69.84,
+      "end": 73.28,
+      "n_words": 11,
+      "start_frame": 1746,
+      "end_frame": 1832,
+      "keyframes": [
+        "001766.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rồi, cái gì cũng được, cái gì cũng được.",
+      "start": 73.28,
+      "end": 75.12,
+      "n_words": 9,
+      "start_frame": 1832,
+      "end_frame": 1878,
+      "keyframes": [
+        "001851.webp",
+        "001852.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ làm sườn chiên sả ớt nha.",
+      "start": 75.12,
+      "end": 78.0,
+      "n_words": 11,
+      "start_frame": 1878,
+      "end_frame": 1950,
+      "keyframes": [
+        "001913.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Công đoạn đầu tiên á thì mình sẽ có hành tím nè, tỏi nè, tỏi nè, hai trái ớt nữa.",
+      "start": 78.0,
+      "end": 84.4,
+      "n_words": 20,
+      "start_frame": 1950,
+      "end_frame": 2110,
+      "keyframes": [
+        "001974.webp",
+        "001975.webp",
+        "001986.webp",
+        "001998.webp",
+        "001999.webp",
+        "002019.webp",
+        "002039.webp",
+        "002040.webp",
+        "002059.webp",
+        "002079.webp",
+        "002080.webp",
+        "002093.webp",
+        "002107.webp",
+        "002108.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Phần sả này thì chúng ta cho một nửa để xay để lấy mùi thơm, ba muỗng canh nước lọc vào cái phần hỗn hợp này rồi chúng ta xay ra.",
+      "start": 84.4,
+      "end": 95.8,
+      "n_words": 31,
+      "start_frame": 2110,
+      "end_frame": 2395,
+      "keyframes": [
+        "002146.webp",
+        "002185.webp",
+        "002186.webp",
+        "002224.webp",
+        "002262.webp",
+        "002263.webp",
+        "002311.webp",
+        "002359.webp",
+        "002360.webp",
+        "002393.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Rồi mình thấy mình sẽ không cần phải nhuyễn mà nước sả nó ở vừa vừa vậy là được rồi.",
+      "start": 95.8,
+      "end": 100.28,
+      "n_words": 20,
+      "start_frame": 2395,
+      "end_frame": 2507,
+      "keyframes": [
+        "002426.webp",
+        "002427.webp",
+        "002459.webp",
+        "002491.webp",
+        "002492.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ là đợi xíu chút xíu nha, mình sẽ đi lượt cái phần xác và phần nước ra.",
+      "start": 100.28,
+      "end": 104.24,
+      "n_words": 19,
+      "start_frame": 2507,
+      "end_frame": 2606,
+      "keyframes": [
+        "002548.webp",
+        "002605.webp",
+        "002606.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta sẽ tiến hành tới phần tẩm ướp nha.",
+      "start": 104.24,
+      "end": 106.16,
+      "n_words": 10,
+      "start_frame": 2606,
+      "end_frame": 2654,
+      "keyframes": [
+        "002606.webp",
+        "002628.webp",
+        "002651.webp",
+        "002652.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Mà trời ơi thật sự luôn á sao mà lựa được miếng sườn cốt lết mà đúng cái ý của xin mà ngon, nó có bí quyết hết.",
+      "start": 106.16,
+      "end": 112.76,
+      "n_words": 28,
+      "start_frame": 2654,
+      "end_frame": 2819,
+      "keyframes": [
+        "002673.webp",
+        "002694.webp",
+        "002695.webp",
+        "002732.webp",
+        "002769.webp",
+        "002770.webp",
+        "002792.webp",
+        "002814.webp",
+        "002815.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Mình phải ngoại giao với chị bán thịt là bữa nay lựa chọn giùm đúng không?",
+      "start": 112.76,
+      "end": 116.32,
+      "n_words": 16,
+      "start_frame": 2819,
+      "end_frame": 2908,
+      "keyframes": [
+        "002837.webp",
+        "002859.webp",
+        "002860.webp",
+        "002881.webp",
+        "002902.webp",
+        "002903.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đúng rồi.",
+      "start": 116.32,
+      "end": 116.84,
+      "n_words": 2,
+      "start_frame": 2908,
+      "end_frame": 2921,
+      "keyframes": [
+        "002915.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đó các bạn nên nhớ là khi chọn sườn cốt lết thì chúng ta nên chọn cốt lết đầu mềm, làm phần thịt ở phía đầu của cốt lết để thịt được mềm và ngon hơn nha.",
+      "start": 116.84,
+      "end": 124.24,
+      "n_words": 37,
+      "start_frame": 2921,
+      "end_frame": 3106,
+      "keyframes": [
+        "002927.webp",
+        "002928.webp",
+        "003017.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn lưu ý là chúng ta khía cái phần viền trắng ở bên ngoài của thịt cốt lết để khi chiên miếng thịt được phẳng và đẹp nha.",
+      "start": 124.24,
+      "end": 129.64,
+      "n_words": 29,
+      "start_frame": 3106,
+      "end_frame": 3241,
+      "keyframes": [
+        "003107.webp",
+        "003108.webp",
+        "003139.webp",
+        "003171.webp",
+        "003172.webp",
+        "003206.webp",
+        "003241.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Chúng ta không cần phải đập cho miếng thịt nó to ra mà chúng ta đập cho miếng thịt nó hơi dẹt một tí để cho dễ thấm gia vị và cũng như miếng thịt mềm hơn nha.",
+      "start": 129.64,
+      "end": 136.96,
+      "n_words": 38,
+      "start_frame": 3241,
+      "end_frame": 3424,
+      "keyframes": [
+        "003241.webp",
+        "003242.webp",
+        "003331.webp",
+        "003421.webp",
+        "003422.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đầu tiên thì chúng ta sẽ có hai muỗng cà phê hạt nêm Ajinomoto heo, có nửa muỗng cà phê bột ngọt Ajinomoto, nửa muỗng cà phê tiêu nha, hai muỗng canh nước tương Phú Sĩ nữa nha.",
+      "start": 136.96,
+      "end": 145.64,
+      "n_words": 38,
+      "start_frame": 3424,
+      "end_frame": 3641,
+      "keyframes": [
+        "003433.webp",
+        "003445.webp",
+        "003446.webp",
+        "003462.webp",
+        "003479.webp",
+        "003480.webp",
+        "003495.webp",
+        "003510.webp",
+        "003511.webp",
+        "003536.webp",
+        "003562.webp",
+        "003563.webp",
+        "003577.webp",
+        "003591.webp",
+        "003592.webp",
+        "003594.webp",
+        "003596.webp",
+        "003597.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Chỉ thơm và đậm đà thì nước tương Phú Sĩ có giúp thịt cốt lết của chúng ta khi chiên có cái màu đẹp.",
+      "start": 145.84,
+      "end": 150.76,
+      "n_words": 24,
+      "start_frame": 3646,
+      "end_frame": 3769,
+      "keyframes": [
+        "003683.webp",
+        "003769.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chính xác, ba muỗng canh hành tỏi sả ớt mà chúng ta đã xay và vắt nước khi nãy nha.",
+      "start": 150.76,
+      "end": 155.12,
+      "n_words": 20,
+      "start_frame": 3769,
+      "end_frame": 3878,
+      "keyframes": [
+        "003769.webp",
+        "003770.webp",
+        "003844.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn nên nhớ chúng ta tẩm ướp nước cốt hành tỏi sả ớt vào thịt cốt lết trước khi áp chảo hoặc chiên để thịt không bị cháy nha.",
+      "start": 155.12,
+      "end": 162.08,
+      "n_words": 30,
+      "start_frame": 3878,
+      "end_frame": 4052,
+      "keyframes": [
+        "003918.webp",
+        "003919.webp",
+        "003986.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hai muỗng canh nước soda, Minh Phương có biết nước soda để làm gì không?",
+      "start": 162.08,
+      "end": 165.68,
+      "n_words": 15,
+      "start_frame": 4052,
+      "end_frame": 4142,
+      "keyframes": [
+        "004053.webp",
+        "004054.webp",
+        "004094.webp",
+        "004134.webp",
+        "004135.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cho thịt nó mềm, cho thịt nó mềm và mình ăn miếng thịt nó sẽ xốp hơn, nó không bị xơ cứng.",
+      "start": 165.68,
+      "end": 171.48,
+      "n_words": 22,
+      "start_frame": 4142,
+      "end_frame": 4287,
+      "keyframes": [
+        "004150.webp",
+        "004166.webp",
+        "004167.webp",
+        "004190.webp",
+        "004213.webp",
+        "004214.webp",
+        "004262.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "À hay quá!",
+      "start": 171.48,
+      "end": 172.56,
+      "n_words": 3,
+      "start_frame": 4287,
+      "end_frame": 4314,
+      "keyframes": [
+        "004310.webp",
+        "004311.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và tiếp theo chúng ta sẽ có thêm một muỗng canh sữa đặc, cái phần sữa tạo nên cái vị ngọt và độ béo hơn cho miếng sườn.",
+      "start": 172.56,
+      "end": 178.8,
+      "n_words": 28,
+      "start_frame": 4314,
+      "end_frame": 4470,
+      "keyframes": [
+        "004344.webp",
+        "004377.webp",
+        "004378.webp",
+        "004413.webp",
+        "004449.webp",
+        "004450.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Hai muỗng canh dầu ăn trộn đều cái phần này lên nha.",
+      "start": 178.8,
+      "end": 182.72,
+      "n_words": 12,
+      "start_frame": 4470,
+      "end_frame": 4568,
+      "keyframes": [
+        "004488.webp",
+        "004527.webp",
+        "004528.webp",
+        "004550.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Rồi, như vậy thì chúng ta sẽ ướp thịt trong khoảng thời gian bao lâu hả xin?",
+      "start": 182.72,
+      "end": 187.24,
+      "n_words": 17,
+      "start_frame": 4568,
+      "end_frame": 4681,
+      "keyframes": [
+        "004573.webp",
+        "004574.webp",
+        "004596.webp",
+        "004618.webp",
+        "004619.webp",
+        "004651.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Từ 15 tới 20 phút là thịt sẽ thấm và chúng ta có thể đi áp chảo được nha.",
+      "start": 187.24,
+      "end": 191.12,
+      "n_words": 19,
+      "start_frame": 4681,
+      "end_frame": 4778,
+      "keyframes": [
+        "004683.webp",
+        "004684.webp",
+        "004710.webp",
+        "004736.webp",
+        "004737.webp",
+        "004760.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi rồi, bây giờ xin sẽ nhờ Phương làm cái công đoạn mà cái phần ăn kèm với lại trang trí từ hành tỏi sả ớt này nha.",
+      "start": 191.12,
+      "end": 196.56,
+      "n_words": 28,
+      "start_frame": 4778,
+      "end_frame": 4914,
+      "keyframes": [
+        "004783.webp",
+        "004784.webp",
+        "004823.webp",
+        "004863.webp",
+        "004864.webp",
+        "004886.webp",
+        "004909.webp",
+        "004910.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Rồi cái chảo dầu, bây giờ thì Phương sẽ cho cái phần sả này vào, cái tinh dầu sả nó đang thoát rất là thơm, vớt ra được ha.",
+      "start": 196.56,
+      "end": 206.56,
+      "n_words": 29,
+      "start_frame": 4914,
+      "end_frame": 5164,
+      "keyframes": [
+        "004928.webp",
+        "004947.webp",
+        "004948.webp",
+        "004987.webp",
+        "005026.webp",
+        "005027.webp",
+        "005082.webp",
+        "005137.webp",
+        "005138.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Khi mà bên Phương đảo đi cảm nhận được cái độ giòn rồi sẽ cho ra dĩa.",
+      "start": 206.56,
+      "end": 211.48,
+      "n_words": 17,
+      "start_frame": 5164,
+      "end_frame": 5287,
+      "keyframes": [
+        "005198.webp",
+        "005258.webp",
+        "005259.webp",
+        "005269.webp",
+        "005280.webp",
+        "005281.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi bây giờ tiếp tục mình sẽ phi luôn cái phần xác hành tỏi ớt này vào, quá thơm luôn rồi.",
+      "start": 211.48,
+      "end": 218.76,
+      "n_words": 21,
+      "start_frame": 5287,
+      "end_frame": 5469,
+      "keyframes": [
+        "005297.webp",
+        "005313.webp",
+        "005314.webp",
+        "005355.webp",
+        "005396.webp",
+        "005397.webp",
+        "005427.webp",
+        "005458.webp",
+        "005459.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Như vậy là được rồi đúng không xin? Đúng rồi.",
+      "start": 218.76,
+      "end": 220.44,
+      "n_words": 10,
+      "start_frame": 5469,
+      "end_frame": 5511,
+      "keyframes": [
+        "005498.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ vớt ra và bây giờ cái phần sườn cốt lết sau khi tẩm ướp cũng đã rất là thấm rồi, bây giờ chúng ta sẽ tiến hành đi áp chảo nha.",
+      "start": 220.44,
+      "end": 226.72,
+      "n_words": 36,
+      "start_frame": 5511,
+      "end_frame": 5668,
+      "keyframes": [
+        "005537.webp",
+        "005538.webp",
+        "005550.webp",
+        "005562.webp",
+        "005563.webp",
+        "005592.webp",
+        "005622.webp",
+        "005623.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chắc chắn là cần một cái chảo đúng không hay là Phương?",
+      "start": 226.72,
+      "end": 229.0,
+      "n_words": 12,
+      "start_frame": 5668,
+      "end_frame": 5725,
+      "keyframes": [
+        "005676.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rồi, và chúng ta tận dụng luôn cái phần dầu mà sau khi chúng ta phi sả và hỗn hợp hành tỏi ớt.",
+      "start": 229.0,
+      "end": 233.16,
+      "n_words": 23,
+      "start_frame": 5725,
+      "end_frame": 5829,
+      "keyframes": [
+        "005729.webp",
+        "005730.webp",
+        "005784.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tỏi ớt wow vẫn là mùi của hành tỏi sả và ớt hòa quyện với nhau.",
+      "start": 233.16,
+      "end": 240.32,
+      "n_words": 16,
+      "start_frame": 5829,
+      "end_frame": 6008,
+      "keyframes": [
+        "005839.webp",
+        "005840.webp",
+        "005870.webp",
+        "005901.webp",
+        "005902.webp",
+        "005956.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đối với những món áp chảo như vậy á thì các bạn nhớ là chúng ta sẽ không trở thịt liên tục mà chúng ta để vào và đợi một lúc thì miếng thịt mới có màu đẹp nha.",
+      "start": 240.32,
+      "end": 247.8,
+      "n_words": 39,
+      "start_frame": 6008,
+      "end_frame": 6195,
+      "keyframes": [
+        "006010.webp",
+        "006011.webp",
+        "006028.webp",
+        "006046.webp",
+        "006047.webp",
+        "006118.webp",
+        "006190.webp",
+        "006191.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta sẽ sử dụng mã QR code đang hiển thị trên màn hình đây để xem lại công thức của món ăn ngày hôm nay các bạn nha.",
+      "start": 247.8,
+      "end": 254.32,
+      "n_words": 29,
+      "start_frame": 6195,
+      "end_frame": 6358,
+      "keyframes": [
+        "006248.webp",
+        "006305.webp",
+        "006306.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Wow hấp dẫn quá xin ơi!",
+      "start": 254.32,
+      "end": 255.92,
+      "n_words": 6,
+      "start_frame": 6358,
+      "end_frame": 6398,
+      "keyframes": [
+        "006379.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rồi bây giờ thịt cũng đã chín và vàng đều rồi, chúng ta sẽ lấy thịt ra ngoài và chuẩn bị trang trí thưởng thức nha.",
+      "start": 255.92,
+      "end": 263.16,
+      "n_words": 26,
+      "start_frame": 6398,
+      "end_frame": 6579,
+      "keyframes": [
+        "006452.webp",
+        "006453.webp",
+        "006468.webp",
+        "006483.webp",
+        "006484.webp",
+        "006505.webp",
+        "006527.webp",
+        "006528.webp",
+        "006552.webp",
+        "006577.webp",
+        "006578.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Món ăn cũng đã hoàn thành, bây giờ chúng ta sẽ tiến hành trang trí cho dĩa cơm của mình thôi nha.",
+      "start": 263.16,
+      "end": 267.24,
+      "n_words": 22,
+      "start_frame": 6579,
+      "end_frame": 6681,
+      "keyframes": [
+        "006601.webp",
+        "006625.webp",
+        "006626.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thấy chưa Minh Phương nè, đã cất công chuẩn bị một cái nắm cơm hình chú gấu rất là dễ thương trang trí xung quanh những cái miếng sườn ha.",
+      "start": 267.24,
+      "end": 275.8,
+      "n_words": 30,
+      "start_frame": 6681,
+      "end_frame": 6895,
+      "keyframes": [
+        "006721.webp",
+        "006816.webp",
+        "006817.webp",
+        "006857.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và chúng ta sẽ dùng phần sả chiên giòn cộng với lại hành tỏi ớt chiên khi nãy nha, kế đến là một cái phần sả sợi rất là thơm và bắt miệng.",
+      "start": 275.8,
+      "end": 283.68,
+      "n_words": 33,
+      "start_frame": 6895,
+      "end_frame": 7092,
+      "keyframes": [
+        "006898.webp",
+        "006899.webp",
+        "006957.webp",
+        "007015.webp",
+        "007016.webp",
+        "007055.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và chúng ta sẽ cho sốt mayonnaise vô vào chén luôn để khi ăn chúng ta sẽ chấm cùng.",
+      "start": 283.68,
+      "end": 288.04,
+      "n_words": 19,
+      "start_frame": 7092,
+      "end_frame": 7201,
+      "keyframes": [
+        "007095.webp",
+        "007096.webp",
+        "007149.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Để bữa cơm được hoàn hảo hơn, chúng ta nên kết hợp món này với lại canh tôm nấu rau ngót tươi, tôm nấu rau ngót tươi nha.",
+      "start": 288.04,
+      "end": 293.24,
+      "n_words": 28,
+      "start_frame": 7201,
+      "end_frame": 7331,
+      "keyframes": [
+        "007202.webp",
+        "007203.webp",
+        "007259.webp",
+        "007316.webp",
+        "007317.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Miếng sườn chiên hơi xém thơm mùi sả ớt, thịt mềm đậm đà vừa miệng cực đưa cơm.",
+      "start": 293.24,
+      "end": 300.96,
+      "n_words": 18,
+      "start_frame": 7331,
+      "end_frame": 7524,
+      "keyframes": [
+        "007389.webp",
+        "007462.webp",
+        "007463.webp",
+        "007499.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Còn chần chờ gì nữa các bạn ơi, vào bếp ngay và thực hiện món cốt lết chiên sả ớt.",
+      "start": 300.96,
+      "end": 306.4,
+      "n_words": 20,
+      "start_frame": 7524,
+      "end_frame": 7660,
+      "keyframes": [
+        "007535.webp",
+        "007536.webp",
+        "007598.webp",
+        "007660.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Các bạn cũng có thể truy cập vào kênh YouTube, website và fanpage của chương trình để xem thật nhiều công thức món ăn ngon của chương trình các bạn nhé.",
+      "start": 306.4,
+      "end": 315.04,
+      "n_words": 31,
+      "start_frame": 7660,
+      "end_frame": 7876,
+      "keyframes": [
+        "007660.webp",
+        "007661.webp",
+        "007757.webp",
+        "007853.webp",
+        "007854.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

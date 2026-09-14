@@ -1,0 +1,635 @@
+1
+00:00:07,520 --> 00:00:15,400
+Chào mừng các em đến với buổi ôn thi tốt nghiệp trung học phổ thông năm 2024 bộ môn Vật lý, chương trình do Báo Thanh Niên tổ chức.
+
+2
+00:00:15,400 --> 00:00:26,240
+Trường Đại học Quốc tế Sài Gòn SIU không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SIU nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt.
+
+3
+00:00:26,240 --> 00:00:37,000
+SIU mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới, trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.
+
+4
+00:00:37,000 --> 00:00:45,600
+Năm 2024, SIU tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng bốn phương thức tuyển sinh.
+
+5
+00:00:45,600 --> 00:01:12,160
+SIU cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SIU, 100 suất học bổng Tiếp bước hành trình, Quỹ tài năng trẻ, học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa, thể thao, nghệ thuật; Học bổng Đồng hành xây dựng nhân lực chất lượng cao cho Thành phố Thủ Đức, Thành phố Hồ Chí Minh; Học bổng doanh nghiệp tài trợ; Học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.
+
+6
+00:01:12,160 --> 00:01:29,280
+Sau tâm hồn Việt Nam, giáo dục thế giới, đến với chuyên đề ngày hôm nay, chúng ta sang chuyên đề năm: Mạch RLC và công suất của mạch RLC.
+
+7
+00:01:29,280 --> 00:01:32,840
+Chúng ta cùng qua một số kiến thức trọng tâm.
+
+8
+00:01:32,840 --> 00:01:37,400
+Thứ nhất, ta nghiên cứu về mạch RLC nối tiếp.
+
+9
+00:01:37,400 --> 00:02:02,320
+Thì đối với mạch RLC nối tiếp, về giá trị tức thời Uab, tức là điện áp ở hai đầu mạch, sẽ bằng Ur + Ul + Uc, và Uc và Ul là hai giá trị trái dấu nhau bởi vì Uc và Ul trong phương trình dao động điều hòa thì ngược pha với nhau.
+
+10
+00:02:02,320 --> 00:02:09,720
+Về giá trị hiệu dụng thì Uab = căn(Ur bình + (Ul - Uc) bình).
+
+11
+00:02:12,240 --> 00:02:21,680
+Định luật Ôm đối với mạch RLC nối tiếp là I = Uab / Z, này là Z tổng, gọi là tổng trở của đoạn mạch.
+
+12
+00:02:21,680 --> 00:02:27,480
+Và I thì bằng U của đại lượng nào chia Z của đại lượng đó.
+
+13
+00:02:27,480 --> 00:02:40,120
+Ví dụ: bằng Ul thì chia Zl, chia Zc, Ur thì chia R và có thể là Urc thì là Zrc vân vân.
+
+14
+00:02:40,120 --> 00:02:53,440
+Chỉ cần các bạn nhớ rằng là I trong mạch nối tiếp thì bằng nhau và I thì bằng U của đại lượng nào chia Z của đại lượng đó.
+
+15
+00:02:53,440 --> 00:03:05,600
+Và tổng trở đoạn mạch AB, chúng ta xây dựng được biểu thức Z = căn(R bình + (Zl - Zc) bình).
+
+16
+00:03:05,600 --> 00:03:20,680
+Độ lệch pha giữa điện áp và cường độ dòng điện trong mạch sẽ bằng (Zl - Zc) / R và bằng (Ul - Uc) / Ur.
+
+17
+00:03:20,680 --> 00:03:30,160
+Về mạch công suất điện, thì công suất tiêu thụ của mạch là P = U I cos phi = I bình nhân R.
+
+18
+00:03:30,160 --> 00:03:41,360
+Thì I bình nhân R này là đúng đối với dòng điện một chiều cũng như xoay chiều và lưu ý rằng giá trị I này là giá trị hiệu dụng.
+
+19
+00:03:41,360 --> 00:04:37,120
+Ngoài ra trị cực đại, cực tiểu thì ở đây ta xét cái giá trị cực đại của công suất trong đoạn mạch RLC nối tiếp thì ở đây nếu như R không thay đổi thì là xảy ra cộng hưởng điện, tức là các đại lượng như là L, C và tần số thay đổi để công suất đạt cực đại thì ta đều đưa về cộng hưởng điện.
+
+20
+00:04:37,120 --> 00:04:50,480
+Cộng hưởng điện ở đây là gì là ZL = ZC, Zmin = R, Imax = U/R và độ lệch pha φ(UI) thì bằng 0.
+
+21
+00:04:50,480 --> 00:05:09,280
+Các em lưu ý rằng, lưu ý rằng cộng hưởng điện thì ta đều sử dụng được các dấu hiệu dưới đây, ngược lại chỉ cần có dấu hiệu 1 trong 4 dấu hiệu này thì sẽ xảy ra hiện tượng cộng hưởng điện nhưng đoạn mạch sẽ phức tạp hơn.
+
+22
+00:05:09,280 --> 00:05:39,040
+Nếu như là R thay đổi để công suất mạch đạt cực đại thì chúng ta có tương ứng với cộng hưởng điện thì R thay đổi để Pmax thì lúc này R sẽ bằng |ZL-ZC| thì lúc này Pmax = R = √2(UI/R√2), độ lệch pha φ lúc này là ±π/4 và Pmax = U²/2R.
+
+23
+00:05:43,400 --> 00:06:06,720
+Lưu ý ở hai trường hợp này và tránh sự nhầm lẫn không phải lúc nào cũng đưa về cộng hưởng điện và đối với trường hợp R thay đổi thì chúng ta nhớ biểu thức đầu tiên đó là R = |ZL-ZC| và ta ngồi tự chứng minh lại các biểu thức phía dưới thì sẽ ghi nhớ được kiến thức.
+
+24
+00:06:06,720 --> 00:06:14,400
+Chúng ta sẽ qua một số bài tập vận dụng để nắm được kiến thức của phần này.
+
+25
+00:06:14,400 --> 00:06:30,400
+Bài số 1: Để xác định điện dung C của một tụ điện, một học sinh mắc nối tiếp tụ này với một điện trở 30 Ω rồi mắc hai đầu đoạn mạch vào một nguồn điện xoay chiều có tần số thay đổi được.
+
+26
+00:06:30,400 --> 00:06:43,920
+Dùng dao động ký điện tử để hiển thị đồng thời đồ thị điện áp giữa hai đầu điện trở và điện áp giữa hai đầu tụ điện, nó là các đường hình sin như sau.
+
+27
+00:06:43,920 --> 00:07:03,960
+Thay đổi tần số của nguồn điện đến khi độ cao của hai đường hình sin trên màn hình dao động ký bằng nhau như hình bên thì ở đây là đề yêu cầu là thay đổi tần số để cho độ cao của hai đường màu xanh, màu đỏ này bằng nhau tức là biên của chúng bằng nhau.
+
+28
+00:07:08,560 --> 00:07:16,120
+Vuông trên màn hình, cạnh nằm ngang là 0.1 giây và cạnh đứng là 5 V.
+
+29
+00:07:16,120 --> 00:07:27,680
+Như vậy một cạnh ngang này là trục t là 0.01 giây, còn trục đứng này là trục v là bằng 5 V.
+
+30
+00:07:27,680 --> 00:07:38,600
+Thì người ta hỏi giá trị của điện dung C là bao nhiêu?
+
+31
+00:07:38,600 --> 00:07:49,520
+Thì nhìn theo đồ thị chúng ta thấy rằng là chu kỳ là bằng 8 nhân 0.01 tức là bằng 0.08 giây.
+
+32
+00:07:49,520 --> 00:07:52,400
+Tại sao chu kỳ bằng 8?
+
+33
+00:07:52,400 --> 00:08:04,880
+Thì ở đây chúng ta thấy rằng ở đường màu đỏ xuất phát từ ô số 1 và kết thúc ở ô số 5 là một chu kỳ.
+
+34
+00:08:04,880 --> 00:08:25,120
+Ở phương pháp này, ở chương 1 thầy đã hướng dẫn các bạn về cách nhìn chu kỳ của đồ thị thì ở đây một chu kỳ là 1, 2, 3, 4 ô, như vậy 4 ô là nửa chu kỳ, như vậy một chu kỳ sẽ là 8 ô.
+
+35
+00:08:25,120 --> 00:08:28,880
+8 ô mỗi ô là 0.01, như vậy chu kỳ là 0.08.
+
+36
+00:08:31,000 --> 00:08:54,800
+Tương tự với đường màu xanh thì các bạn sẽ nhận ra là nửa ở ngay điểm đặc biệt này từ ô số 3 cho đến ô số 8 thì theo đề điều chỉnh dao động ký điện tử sao cho cái độ cao của hai đường hình sin thì bằng nhau.
+
+37
+00:08:54,800 --> 00:09:04,640
+Như vậy thì độ cao hai đường bằng nhau, như vậy thì rõ ràng là giá trị cực đại của C và giá trị cực đại của R sẽ bằng nhau.
+
+38
+00:09:04,640 --> 00:09:31,200
+Như vậy chúng ta sẽ biến đổi ZC sẽ bằng R và ZC là một phần 2 pi f chính là T chia 2 pi, ZC sẽ bằng R và ở đây R đề đã cho là 30 ôm.
+
+39
+00:09:31,920 --> 00:09:42,560
+Ta thế số có thể tính được giá trị của C bằng 4.24 nhân 10^-5 và đáp án của chúng ta là.
+
+40
+00:09:42,560 --> 00:09:51,320
+À, thì bài toán giúp chúng ta nhớ lại kỹ năng nhìn đồ thị và phân tích đồ thị.
+
+41
+00:09:51,320 --> 00:10:03,040
+Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.
+
+42
+00:10:03,040 --> 00:10:10,640
+Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện, cân bằng giữa học thuật và nghệ thuật thể thao.
+
+43
+00:10:10,640 --> 00:10:21,320
+Hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, thêm nguồn cảm hứng độc lập để phát triển và hoàn thiện nhân cách.
+
+44
+00:10:21,320 --> 00:10:40,800
+Ngoài những giờ học trên lớp, học sinh trường Quốc tế Á Châu còn được trải nghiệm thử thách bản thân và phản biện các vấn đề để tự mình học hỏi, trưởng thành độc lập hơn.
+
+45
+00:10:40,800 --> 00:10:44,160
+Nơi đây với tôi.
+
+46
+00:10:46,960 --> 00:10:56,960
+Nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.
+
+47
+00:10:56,960 --> 00:11:02,080
+Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là cuộc sống.
+
+48
+00:11:02,080 --> 00:11:16,040
+Từ môi trường giáo dục này, chúng tôi đã tự tin bước tiếp và viết nên câu chuyện tương lai của chính mình.
+
+49
+00:11:16,040 --> 00:11:36,560
+Chúng ta sang ví dụ số hai: Đặt điện áp $u = 60\sqrt{2}\cos(300t + \phi/3)$ vào hai đầu mạch AB như hình bên, hình bên này, trong đó $R = 180\Omega$ và điện dung $C$ của tụ điện thay đổi được.
+
+50
+00:11:36,560 --> 00:11:45,640
+Khi $C = C_1$ thì điện tích của bản tụ nối vào $N$ là $q = 5\sqrt{2 \cdot 10^{-4}}\cos(300t + \phi/6)$.
+
+51
+00:11:49,000 --> 00:11:56,280
+Khi $C = C_2$ thì điện áp hiệu dụng giữa hai đầu $R$ đạt giá trị cực đại.
+
+52
+00:11:56,280 --> 00:12:04,600
+Thì ở đây $C$ thay đổi để $u_R$ đạt giá trị cực đại, thì xác định giá trị cực đại đó.
+
+53
+00:12:04,600 --> 00:12:08,560
+Chúng ta cùng đi vào giải quyết.
+
+54
+00:12:08,560 --> 00:12:12,080
+Thì phương trình $i$ là đạo hàm của phương trình $q$.
+
+55
+00:12:12,080 --> 00:12:17,000
+Như vậy ta viết được phương trình $i$ là $-0.15\sqrt{2}\sin(300t + \phi/6)$.
+
+56
+00:12:22,240 --> 00:12:30,280
+Như vậy ta chuyển về phương trình chính quy là hàm $\cos$, từ $-\sin$ chuyển sang $\cos$ là chúng ta cộng $\pi/2$.
+
+57
+00:12:30,880 --> 00:12:33,880
+Vì vậy ta sẽ ra được là $0.15\sqrt{2}\cos(300t + 2\phi/3)$.
+
+58
+00:12:39,960 --> 00:12:47,480
+Như vậy ta đã được phương trình cường độ dòng điện trong mạch.
+
+59
+00:12:47,480 --> 00:13:06,760
+Thì lúc này chúng ta tính được $Z_{tổng}$ của mạch là $\sqrt{(R_{lớn} + R_{nhỏ})^2 + (Z_L - Z_{C1})^2}$ và ta đã có $U_0 = 60\sqrt{2}$ và $I_0 = 0.15\sqrt{2}$.
+
+60
+00:13:08,680 --> 00:13:10,400
+Như vậy $Z = 400$.
+
+61
+00:13:11,960 --> 00:13:24,000
+Đồng thời $\tan \phi$, tức là độ lệch pha của $u$ và $i$ thì bằng $(Z_L - Z_{C1}) / (R_{lớn} + R_{nhỏ})$ và $\tan \phi_i$ là bằng $\phi_u$.
+
+62
+00:13:24,000 --> 00:13:27,400
+$\phi_u$ là $\phi/3$, $\phi_i$ là $2\phi/3$.
+
+63
+00:13:28,520 --> 00:13:32,160
+Như vậy là bằng $\tan(-\phi/3)$ và bằng $-\sqrt{3}$.
+
+64
+00:13:35,240 --> 00:13:44,480
+Từ hai phương trình này đã có các đại lượng ta dùng phương pháp thế, chúng ta sẽ tính được giá trị $R_{nhỏ} = 20\Omega$.
+
+65
+00:13:48,600 --> 00:14:04,880
+Khi $C = C_2$, điện áp giữa hai đầu $R$ đạt giá trị cực đại thì lúc này mạch có cộng hưởng điện bởi vì $u_R$ đạt max tức là $u_R = i \cdot R$, $i \cdot R$ max.
+
+66
+00:14:04,880 --> 00:14:09,480
+Như vậy $i$ max mà $i$ max thì là cộng hưởng điện.
+
+67
+00:14:09,480 --> 00:14:19,040
+Như vậy lúc này ta sẽ được $u_R = i \cdot R$, $i \cdot R$, lúc này $i$ max.
+
+68
+00:14:19,040 --> 00:14:42,520
+$u_R$ max thì là cộng hưởng điện.
+
+69
+00:14:42,520 --> 00:14:59,680
+Chúng ta sang ví dụ số 3: Đặt điện áp $U = 30 \text{ V}$ có $f = 100 \text{ Hz}$ vào hai đầu đoạn mạch mắc nối tiếp theo thứ tự gồm điện trở $R$, cuộn cảm thuần $L$ và tụ điện có điện dung $C$ thay đổi.
+
+70
+00:15:00,320 --> 00:15:08,720
+Biết điện áp giữa hai đầu đoạn mạch chứa $R$ và $L$ sớm pha $\pi/6$ so với cường độ dòng điện trong mạch.
+
+71
+00:15:08,720 --> 00:15:16,320
+Điều chỉnh giá trị của $C$ để điện áp hiệu dụng giữa hai đầu tụ điện có giá trị cực đại.
+
+72
+00:15:16,320 --> 00:15:24,760
+$C$ thay đổi để $U_C$ max, biểu thức điện áp giữa hai đầu đoạn mạch chứa $R$ và $L$ là bao nhiêu?
+
+73
+00:15:24,760 --> 00:15:30,800
+Thì đây là bốn đáp án, chúng ta cùng vào làm cụ thể bài toán.
+
+74
+00:15:30,800 --> 00:15:35,880
+Ta có $\tan(\phi_{URL})$ đối với $I$ là $= Z_L / R$.
+
+75
+00:15:36,520 --> 00:15:38,480
+Đề cho là $\pi/6 = 1/\sqrt{3}$.
+
+76
+00:15:40,280 --> 00:15:43,680
+Như vậy $Z_L$ sẽ $= R / \sqrt{3}$.
+
+77
+00:15:45,840 --> 00:16:03,000
+Khi $C$ thay đổi để $U_C$ max thì ở đây các bạn đọc thêm về phần bổ đề về vấn đề cực đại cực tiểu: $C$ thay đổi để $U_C$ max thì $Z_C = (R^2 + Z_L^2) / Z_L = 4 / \sqrt{3} \cdot R$.
+
+78
+00:16:08,240 --> 00:16:20,680
+Chúng ta có một phương pháp rất hay, có nghĩa là không mất tính tổng quát thì chúng ta sẽ cho $R$ là một con số để tìm ra được $Z_L$ và $Z_C$.
+
+79
+00:16:23,200 --> 00:16:32,800
+Chúng ta cho $R$ là một con số $\sqrt{3}$ để dễ dàng chia cho $\sqrt{3}$, thì $Z_L = 1$, đồng thời $Z_C = 4$.
+
+80
+00:16:33,200 --> 00:16:39,680
+Thì đây là một phương pháp rất hay, tức là không mất đi tính tổng quát của bài toán.
+
+81
+00:16:39,680 --> 00:16:47,280
+Như vậy từ đó chúng ta có được tất cả các đại lượng $R, Z_L, Z_C$.
+
+82
+00:16:47,760 --> 00:16:56,240
+Thì chúng ta sẽ dùng phương pháp bấm máy số phức để tìm ra phương trình $U_{RL} = I \cdot Z_{RL}$.
+
+83
+00:16:57,760 --> 00:17:01,200
+Trong khi đó $I = U_{ab} / Z_{ab} \cdot Z_{RL}$.
+
+84
+00:17:04,160 --> 00:17:12,200
+Như vậy ta triển khai là $= U_0 \angle \phi_u / (R + Z_L - Z_C) \cdot I$.
+
+85
+00:17:13,760 --> 00:17:21,320
+Ở đây là con số phức, tức là nút bấm chứ không phải là giá trị $I$ cường độ dòng điện.
+
+86
+00:17:21,320 --> 00:17:25,120
+Các bạn lưu ý nhân cho $R + Z_L \cdot Z_L$.
+
+87
+00:17:26,600 --> 00:17:35,400
+Ở đây cũng là nút thì các em cần có kiến thức về kỹ năng bấm máy số phức.
+
+88
+00:17:36,400 --> 00:17:45,600
+Từ đây tất cả các đại lượng chúng ta đều có, ta thế số là: $30 \angle 0 / (\sqrt{3} + 1 - 4) \cdot \sqrt{3}$.
+
+89
+00:17:45,600 --> 00:18:04,560
+100 bt cộng b trên hai.
+
+90
+00:18:04,560 --> 00:18:23,080
+Thì ở bài toán thứ nhất chúng ta có kỹ năng gọi là đưa về giá trị cụ thể để chúng ta không mất đi tính tổng quát của bài toán, đồng thời để mình có số và mình sử dụng được phương pháp bấm số phức.
+
+91
+00:18:23,080 --> 00:18:38,480
+Bấm số phức sẽ rất nhanh nếu như ở đây chúng ta vẫn để giá trị R mà chúng ta làm tay từng các phương trình thì bài toán sẽ trở nên rất phức tạp và lâu, mất thời gian của các bạn.
+
+92
+00:18:38,480 --> 00:18:55,200
+Chúng ta sang ví dụ tiếp theo: đặt một điện áp xoay chiều vào hai đầu đoạn mạch gồm cuộn cảm có độ tự cảm L bằng 1/2 pi mH nối tiếp với điện trở R bằng 50 ôm.
+
+93
+00:18:55,200 --> 00:19:02,760
+Hình bên là đồ thị biểu diễn sự phụ thuộc của cường độ dòng điện i trong đoạn mạch theo thời gian t.
+
+94
+00:19:02,760 --> 00:19:08,520
+Biểu thức điện áp giữa hai đầu đoạn mạch theo thời gian t là bao nhiêu?
+
+95
+00:19:08,520 --> 00:19:19,120
+Thì ở đây là chúng ta có hình vẽ biểu diễn sự phụ thuộc của i theo thời gian t và t là mili giây.
+
+96
+00:19:19,120 --> 00:19:25,480
+Các bạn lưu ý là 10 mũ trừ 3 giây.
+
+97
+00:19:25,480 --> 00:19:34,680
+Thì dễ dàng khi nhìn đồ thị chúng ta thấy đỉnh của i là bằng 2 A và đáy là trừ 2 A.
+
+98
+00:19:35,160 --> 00:20:04,040
+Như vậy i0 là bằng 2 Am, còn phi i là xuất phát từ vị trí 1 Am và theo chiều dương, như vậy phi i sẽ bằng trừ pi trên 3 bởi vì cos phi i là bằng 1/2 nhưng mà theo chiều tăng i thì phi âm, theo chiều giảm i thì phi dương.
+
+99
+00:20:04,040 --> 00:20:15,840
+Ở đây chúng ta thấy một đang đi lên phía hai là i đang tăng, i đang tăng thì phi âm.
+
+100
+00:20:15,840 --> 00:20:28,560
+Tự chúng ta nhìn ở đỉnh là đang ở vị trí ở vị trí 1 ô đang ở biên dương đi xuống biên âm là trừ 2.
+
+101
+00:20:28,560 --> 00:20:33,080
+Là từ biên dương xuống biên âm chúng ta thấy rằng là mất 3 ô.
+
+102
+00:20:33,080 --> 00:20:38,680
+Biên dương xuống biên âm là nửa chu kỳ, như vậy một chu kỳ sẽ là 6 ô.
+
+103
+00:20:38,680 --> 00:20:50,240
+Như vậy chu kỳ của chúng ta sẽ là 6 ô, như vậy là bằng 3 ô là bằng 10, như vậy 6 ô sẽ là 20.
+
+104
+00:20:51,520 --> 00:21:05,280
+Ở đây không cho cụ thể một ô bởi vì khi chúng ta chia ra nó sẽ bị lẻ, vì vậy là chúng ta thấy là 3 ô là bằng 10, như vậy một chu kỳ là 6 ô thì T sẽ bằng 20 và đơn vị là mili giây.
+
+105
+00:21:05,280 --> 00:21:13,600
+Ta đổi ra được giá trị omega bằng 2 pi chia T là bằng 100 pi rad trên giây.
+
+106
+00:21:13,600 --> 00:21:14,280
+Như vậy.
+
+107
+00:21:14,280 --> 00:21:14,560
+12.
+
+108
+00:21:32,880 --> 00:21:45,920
+Ở đây là các bạn lưu ý là Z này gồm có R và L cho nên là 50 cộng 50i và phương trình I chúng ta đã xây dựng được rồi là 2 và trừ pi trên 3.
+
+109
+00:21:45,920 --> 00:21:54,720
+Như vậy chúng ta sẽ ra được phương trình U bằng 100 mốc trừ pi trên 12 và ta nhìn đáp án, đó là đáp án A.
+
+110
+00:21:54,720 --> 00:21:58,480
+A.
+
+111
+00:21:58,480 --> 00:22:07,880
+Để có được thành công như hôm nay, tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình bắt đầu từ trường Đại học Quốc tế Sài Gòn SIU.
+
+112
+00:22:11,360 --> 00:22:18,000
+Đào tạo đa dạng đa lĩnh vực, SIU mở ra cho chúng tôi nhiều cơ hội lựa chọn nghề nghiệp trong tương lai.
+
+113
+00:22:18,000 --> 00:22:22,000
+Tất cả sinh viên đều có cơ hội để thể hiện và phát triển năng lực.
+
+114
+00:22:22,000 --> 00:22:25,280
+Những ý tưởng luôn được khuyến khích và phát huy tối đa.
+
+115
+00:22:25,280 --> 00:22:31,360
+Chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin, chúng tôi được học cách học, cách nghĩ và cách sống.
+
+116
+00:22:31,360 --> 00:22:38,480
+Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.
+
+117
+00:22:38,480 --> 00:22:49,040
+Hiện đại, năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc, đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn SIU luôn hướng đến.
+
+118
+00:22:49,040 --> 00:22:57,520
+Đã đến lúc vươn xa hơn những gì đã học.
+
+119
+00:22:59,240 --> 00:23:10,280
+Đặt điện áp xoay chiều có giá trị hiệu dụng 100 V vào hai đầu đoạn mạch AB như hình bên, dòng điện qua mạch có cường độ là phương trình I = 2 căn 2 cos(omega t).
+
+120
+00:23:11,840 --> 00:23:21,080
+Biết điện áp hiệu dụng ở hai đầu MN và NB là 30 V và 100 V.
+
+121
+00:23:21,840 --> 00:23:26,000
+Công suất tiêu thụ của đoạn mạch AB lúc này là bao nhiêu?
+
+122
+00:23:26,000 --> 00:23:40,520
+Thì chúng ta thấy rằng là UR chính là UA bằng 30 V, UM chính là UL và bằng 30 V, còn UNB chính là UC và bằng 100 V.
+
+123
+00:23:40,520 --> 00:23:41,880
+Và bằng 100 V.
+
+124
+00:23:41,880 --> 00:23:52,720
+Như vậy chúng ta thấy được là $U_{RL}$ bằng 30 thì $U_R$ bình cộng $U_L$ bình sẽ bằng 30 bình.
+
+125
+00:23:52,720 --> 00:24:03,160
+Bên cạnh đó $U_{AB}$ thì bằng $U_R$ bình cộng $U_L$ bình cộng $U_C$ bình tất cả bình và bằng 100.
+
+126
+00:24:03,680 --> 00:24:13,680
+Ta thế vào biểu thức 100 bình sẽ bằng 30 cộng $U_R$ bình cộng $U_L$ trừ 100 tất cả bình.
+
+127
+00:24:13,680 --> 00:24:21,600
+Ở đây ta phá hằng đẳng thức ra ta sẽ được 100 bình cộng bằng 30 bình cộng 60.
+
+128
+00:25:04,200 --> 00:25:14,480
+Thế một cách dễ dàng, như vậy cos $\phi$ sẽ bằng $U_R$ lớn cộng $U_R$ nhỏ chia cho $U$ và bằng 0.55.
+
+129
+00:25:17,520 --> 00:25:29,480
+Tại sao chúng ta đi tính cos $\phi$ bởi vì đề yêu cầu xác định công suất tiêu thụ của mạch, ta sẽ đi theo hướng là $P$ bằng $U \cdot I \cdot \cos \phi$.
+
+130
+00:25:29,480 --> 00:25:32,920
+$U$ đã có rồi, $I$ đã có rồi, $\cos \phi$ bằng 0.55.
+
+131
+00:25:34,040 --> 00:25:35,880
+Chúng ta thế số bằng 110 W.
+
+132
+00:25:35,880 --> 00:25:43,800
+$I$ ở đây là giá trị hiệu dụng là bằng 2 và $U_{AB}$ giá trị hiệu dụng là 100V.
+
+133
+00:25:44,800 --> 00:26:07,840
+Các bạn lưu ý sang ví dụ số 6, điện áp xoay chiều có tần số góc omega vào hai đầu đoạn mạch AB như hình 1, hình 2 là đồ thị biểu diễn sự phụ thuộc $U_{AB}$ giữa hai điểm A, B và $U_{MN}$ giữa hai điểm M, N theo thời gian t.
+
+134
+00:26:07,840 --> 00:26:14,720
+Biết $63 \cdot R \cdot C \cdot \omega$ bằng 16 và $R$ nhỏ bằng 15.
+
+135
+00:26:15,400 --> 00:26:19,480
+Công suất tiêu thụ của mạch AB là bao nhiêu?
+
+136
+00:26:19,480 --> 00:26:36,160
+Thì chúng ta có một nhận xét là $U_{MN}$ là $U_{RL}$ thì luôn sớm pha hơn $U_{AB}$ là $U_{RLC}$ bởi vì $U_{AB}$ có thêm thành phần C cho nên không thể nào sớm pha hơn được $U_{RL}$.
+
+137
+00:26:36,160 --> 00:26:57,000
+Nhìn đồ thị thì chúng ta thấy rằng đường màu đỏ sớm pha hơn đường màu xanh, vì vậy $U_{MN}$ đường màu đỏ sẽ là $U_{RL}$, tức là $U_{MN}$, đường màu xanh là $U_{AB}$.
+
+138
+00:26:57,000 --> 00:27:04,200
+Thì ta thấy đường màu xanh đỉnh là bằng 39V, đường màu đỏ đỉnh là 52V.
+
+139
+00:27:05,120 --> 00:27:12,000
+Như vậy ta có $U_0(AB)$ bằng 39V, $U_{MN}$ bằng 52V.
+
+140
+00:27:16,320 --> 00:27:24,480
+Thì ta có $63 \cdot R \cdot \omega$ bằng 16 dẫn đến $Z_C$ bằng 63 phần 16.
+
+141
+00:27:24,480 --> 00:27:28,960
+$R \cdot \omega \cdot C$ sẽ bằng 63 phần 16.
+
+142
+00:27:28,960 --> 00:27:38,640
+$U_R$ $U_{AB}$ thì bằng $U_{MN}$ cộng cho $U_{RC}$.
+
+143
+00:27:39,520 --> 00:27:43,080
+Như vậy $U_{RC}$ sẽ bằng $U_{AB}$ trừ cho $U_{MN}$.
+
+144
+00:27:45,600 --> 00:28:13,240
+Đồng thời ở đây chúng ta thấy rằng khi đường màu xanh đạt giá trị cực đại thì đường màu đỏ đạt giá trị bằng 0, mà hai đại lượng như vậy thì gọi là hai đại lượng vuông pha nhau, cho nên $U_{0R}$ sẽ bằng căn của $U_{0(AB)}$ bình cộng $U_{0(MN)}$ bình.
+
+145
+00:28:13,240 --> 00:28:19,280
+Tức là $U_{AB}$ đã vuông pha với $U_{MN}$, tức là lệch pha là 90 độ.
+
+146
+00:28:19,280 --> 00:28:28,160
+V và $u_{0R}$ = 16 V.
+
+147
+00:28:54,760 --> 00:29:26,440
+Từ đó chúng ta sẽ có $52^2 = (u_{0R}')^2 + (u_{0L})^2$, đây là $u_{RL}$ và $39^2 = 16^2 + (u_L - u_C)^2$, thì đây là $39^2$ này, tức là $u_{0AB} = u_R \text{ lớn} + u_R \text{ nhỏ} + u_L - u_C$.
+
+148
+00:29:26,840 --> 00:29:34,560
+Tất cả bình uC ở đây chúng ta đã tính được là 63, u0R chúng ta đã tính được là 16.
+
+149
+00:29:36,240 --> 00:29:43,560
+Như vậy từ hai phương trình trên thì biến đổi chúng ta sẽ tính được u0R' sẽ = 10√2.
+
+150
+00:29:44,880 --> 00:29:55,920
+Như vậy ta đã có uR nhỏ và r nhỏ = 15 thì y sẽ = uR nhỏ chia r nhỏ = 2√2 chia 3.
+
+151
+00:29:57,600 --> 00:30:03,280
+Như vậy eR lớn sẽ = uR lớn chi y và = 12.
+
+152
+00:30:03,280 --> 00:30:09,800
+12.
+
+153
+00:30:09,800 --> 00:30:21,960
+Từ đó chúng ta xác định được công suất tiêu thụ của mạch là $P = (R_1 + R_2) * i^2$ và tất cả đại lượng chúng ta đã xác định được và = 24 W.
+
+154
+00:30:23,400 --> 00:30:36,920
+Thì đây là một bài toán khó của kỳ thi Trung học phổ thông quốc gia mỗi năm, thì các bài toán điện thì đều rơi vào những bài toán khó ở mức từ 8 điểm đến 10 điểm.
+
+155
+00:30:36,920 --> 00:30:43,600
+Vì vậy các em cần nắm kỹ kiến thức về công suất và các hướng đi của công suất.
+
+156
+00:30:43,600 --> 00:30:55,000
+Ở bài năm và sáu thì cũng là tính công suất nhưng công suất ở bài này lại đi theo hướng là $(R_1 + R_2) * i^2$, nhưng ở bài số năm thì lại là $u \cdot i$.
+
+157
+00:30:55,000 --> 00:31:00,200
+Vì vậy tùy bài mà chúng ta uyển chuyển.
+
+158
+00:31:00,200 --> 00:31:06,000
+Ví dụ số sáu đã kết thúc và cũng đã kết thúc chuyên đề ngày hôm nay.
+
+159
+00:31:06,000 --> 00:31:11,040
+Chúc các em học tốt và hẹn gặp lại các em ở chuyên đề sau.

@@ -1,0 +1,51 @@
+# BAAI/BGE-VL-large -- CLIP ViT-L/14 retriever (MegaPairs). Loaded as a
+# stock transformers CLIPModel; see mm_bench/models/bge_vl.py for why the
+# repo's remote code is intentionally not executed.
+
+name: bge_vl_large
+wrapper: bge_vl
+backend: transformers
+transformers:
+  model_id: "BAAI/BGE-VL-large"
+  trust_remote_code: false
+
+embed_dim: 768
+image_size: 224
+max_text_length: 77                 # CLIP text tower hard limit
+
+adaptation: lora
+quantization: null
+
+lora:
+  enabled: true
+  r: 16
+  alpha: 32
+  dropout: 0.05
+  bias: none
+  target_modules:
+    - "self_attn.q_proj"
+    - "self_attn.k_proj"
+    - "self_attn.v_proj"
+    - "self_attn.out_proj"
+  target_module_depth_fraction: 0.5
+  modules_to_save:
+    - "visual_projection"
+    - "text_projection"
+
+partial_unfreeze:
+  unfreeze_last_n_vision_blocks: 4
+  unfreeze_last_n_text_blocks: 2
+  always_unfreeze:
+    - "visual_projection"
+    - "text_projection"
+    - "logit_scale"
+
+loss:
+  type: infonce
+  learnable_logit_scale: true
+
+differential_lr_groups:
+  vision_encoder: "vision_model.*"
+  text_encoder: "text_model.*"
+  projection: "(visual_projection|text_projection)"
+  logit_scale: "logit_scale"

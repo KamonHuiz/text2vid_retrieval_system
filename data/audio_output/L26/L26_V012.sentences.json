@@ -1,0 +1,761 @@
+{
+  "video_id": "L26_V012",
+  "fps": 25.0,
+  "n_sentences": 44,
+  "total_words": 1152,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày, món ăn bắt mắt và hấp dẫn.",
+      "start": 10.52,
+      "end": 13.92,
+      "n_words": 11,
+      "start_frame": 263,
+      "end_frame": 348,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Củ năng và các loại rau củ thấm vị đậm đà, nước sốt xanh sánh, thơm nồng mùi sả và cà ri, thêm chút béo béo của nước cốt dừa và cay nhè nhẹ của ớt, ăn với bánh mì là hết sẩy.",
+      "start": 13.92,
+      "end": 46.52,
+      "n_words": 43,
+      "start_frame": 348,
+      "end_frame": 1163,
+      "keyframes": [
+        "000359.webp",
+        "000418.webp",
+        "000419.webp",
+        "000461.webp",
+        "000503.webp",
+        "000504.webp",
+        "000551.webp",
+        "000598.webp",
+        "000599.webp",
+        "000650.webp",
+        "000702.webp",
+        "000703.webp",
+        "000724.webp",
+        "000746.webp",
+        "000747.webp",
+        "000775.webp",
+        "000804.webp",
+        "000805.webp",
+        "000897.webp",
+        "000989.webp",
+        "000990.webp",
+        "001046.webp",
+        "001102.webp",
+        "001103.webp",
+        "001136.webp"
+      ],
+      "keyframe_count": 25
+    },
+    {
+      "text": "Rất vui mừng gặp lại các bạn khán giả trong chương trình Món ngon mỗi ngày, món ăn an lành.",
+      "start": 46.52,
+      "end": 51.44,
+      "n_words": 20,
+      "start_frame": 1163,
+      "end_frame": 1286,
+      "keyframes": [
+        "001169.webp",
+        "001170.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 51.44,
+      "end": 55.28,
+      "n_words": 11,
+      "start_frame": 1286,
+      "end_frame": 1382,
+      "keyframes": [
+        "001288.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Em chào cô Hà.",
+      "start": 55.28,
+      "end": 56.32,
+      "n_words": 4,
+      "start_frame": 1382,
+      "end_frame": 1408,
+      "keyframes": [
+        "001406.webp",
+        "001407.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chào Minh Tuấn.",
+      "start": 56.32,
+      "end": 57.0,
+      "n_words": 3,
+      "start_frame": 1408,
+      "end_frame": 1425,
+      "keyframes": [
+        "001424.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cô có biết không là chương trình của mình là một trong những cứu cánh dành cho những bạn mà họ đang có cái nhu cầu gọi là chuyển sang ăn thực vật, thôi ăn chay.",
+      "start": 57.0,
+      "end": 65.12,
+      "n_words": 36,
+      "start_frame": 1425,
+      "end_frame": 1628,
+      "keyframes": [
+        "001441.webp",
+        "001442.webp",
+        "001494.webp",
+        "001546.webp",
+        "001547.webp",
+        "001593.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Á cô!",
+      "start": 65.12,
+      "end": 65.6,
+      "n_words": 2,
+      "start_frame": 1628,
+      "end_frame": 1640,
+      "keyframes": [
+        "001640.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ mình lại tiếp tục, em nhờ cô làm thêm món mới để mà vào những cái dịp đặc biệt như là rằm nè hay là mùng một để cho mọi người có những cái món mới để mình trải nghiệm trong việc ăn chay.",
+      "start": 65.6,
+      "end": 74.4,
+      "n_words": 46,
+      "start_frame": 1640,
+      "end_frame": 1860,
+      "keyframes": [
+        "001640.webp",
+        "001641.webp",
+        "001715.webp",
+        "001790.webp",
+        "001791.webp",
+        "001824.webp",
+        "001858.webp",
+        "001859.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chương trình sẽ giới thiệu một món chay có tên gọi là củ năng ôm nấm chay.",
+      "start": 74.4,
+      "end": 79.6,
+      "n_words": 17,
+      "start_frame": 1860,
+      "end_frame": 1990,
+      "keyframes": [
+        "001923.webp",
+        "001987.webp",
+        "001988.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Theo chuyên gia dinh dưỡng, sẽ là một món ăn hỗ trợ cho tim mạch và giảm mỡ thừa.",
+      "start": 79.6,
+      "end": 84.12,
+      "n_words": 19,
+      "start_frame": 1990,
+      "end_frame": 2103,
+      "keyframes": [
+        "002045.webp",
+        "002103.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Để chọn củ năng ngon á thì chúng ta sẽ chọn những cái củ năng mà nó không có bị mùi chua nè, và phía bên ngoài thì nó láng bóng, không sần sùi và đồng thời nó cũng không có đổ nhớt, như vậy là củ năng sẽ ngon đó.",
+      "start": 84.12,
+      "end": 96.08,
+      "n_words": 51,
+      "start_frame": 2103,
+      "end_frame": 2402,
+      "keyframes": [
+        "002103.webp",
+        "002104.webp",
+        "002121.webp",
+        "002138.webp",
+        "002139.webp",
+        "002196.webp",
+        "002253.webp",
+        "002254.webp",
+        "002288.webp",
+        "002323.webp",
+        "002324.webp",
+        "002363.webp",
+        "002402.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ cắt đôi, nếu mà củ nào nhỏ thì chúng ta có thể là mình sẽ để nguyên củ.",
+      "start": 96.08,
+      "end": 100.6,
+      "n_words": 23,
+      "start_frame": 2402,
+      "end_frame": 2515,
+      "keyframes": [
+        "002402.webp",
+        "002403.webp",
+        "002458.webp",
+        "002513.webp",
+        "002514.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Củ cải trắng chúng ta mua về mình sẽ gọt vỏ ra và mình cắt như thế này nè, ta hay gọi là cắt móng ngựa đó.",
+      "start": 100.6,
+      "end": 106.8,
+      "n_words": 27,
+      "start_frame": 2515,
+      "end_frame": 2670,
+      "keyframes": [
+        "002592.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Củ cà rốt cũng vậy, ta cũng sẽ cắt móng ngựa.",
+      "start": 106.8,
+      "end": 111.04,
+      "n_words": 11,
+      "start_frame": 2670,
+      "end_frame": 2776,
+      "keyframes": [
+        "002671.webp",
+        "002672.webp",
+        "002723.webp",
+        "002775.webp",
+        "002776.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Sả đập dập, cắt khúc, ta cắt làm ba khúc.",
+      "start": 111.04,
+      "end": 115.36,
+      "n_words": 10,
+      "start_frame": 2776,
+      "end_frame": 2884,
+      "keyframes": [
+        "002776.webp",
+        "002805.webp",
+        "002834.webp",
+        "002835.webp",
+        "002859.webp",
+        "002883.webp",
+        "002884.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Tiếp theo là nấm mèo thì chúng ta sẽ cắt miếng khoảng chừng 2 phân, còn nấm hương cắt sợi.",
+      "start": 115.36,
+      "end": 121.8,
+      "n_words": 20,
+      "start_frame": 2884,
+      "end_frame": 3045,
+      "keyframes": [
+        "002884.webp",
+        "002935.webp",
+        "002986.webp",
+        "002987.webp",
+        "003017.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Củ hành tây thì chúng ta sẽ cắt miếng hình tam giác, xong sau đó mình cắt đôi.",
+      "start": 121.8,
+      "end": 127.76,
+      "n_words": 18,
+      "start_frame": 3045,
+      "end_frame": 3194,
+      "keyframes": [
+        "003048.webp",
+        "003049.webp",
+        "003123.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ớt sừng thì chúng ta sẽ cắt lát.",
+      "start": 127.76,
+      "end": 131.28,
+      "n_words": 8,
+      "start_frame": 3194,
+      "end_frame": 3282,
+      "keyframes": [
+        "003197.webp",
+        "003198.webp",
+        "003244.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cuối cùng là rau ôm và ngò gai chúng ta cắt nhỏ.",
+      "start": 131.28,
+      "end": 135.36,
+      "n_words": 12,
+      "start_frame": 3282,
+      "end_frame": 3384,
+      "keyframes": [
+        "003290.webp",
+        "003291.webp",
+        "003341.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Còn bây giờ thì xong xuôi hết rồi, mình nấu vô ha.",
+      "start": 135.36,
+      "end": 137.76,
+      "n_words": 12,
+      "start_frame": 3384,
+      "end_frame": 3444,
+      "keyframes": [
+        "003391.webp",
+        "003392.webp",
+        "003423.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng rồi đó, đầu tiên thì chúng ta sẽ cho vào đây hai muỗng canh dầu điều, đợi dầu nóng vừa vừa thôi chúng ta sẽ cho sả vào, tiếp theo chúng ta sẽ cho vào đây là bo rồ cắt lát.",
+      "start": 137.76,
+      "end": 146.96,
+      "n_words": 42,
+      "start_frame": 3444,
+      "end_frame": 3674,
+      "keyframes": [
+        "003455.webp",
+        "003456.webp",
+        "003494.webp",
+        "003532.webp",
+        "003533.webp",
+        "003570.webp",
+        "003607.webp",
+        "003608.webp",
+        "003641.webp",
+        "003674.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ cho củ năng vô, củ cải trắng và cà rốt vô.",
+      "start": 146.96,
+      "end": 150.96,
+      "n_words": 16,
+      "start_frame": 3674,
+      "end_frame": 3774,
+      "keyframes": [
+        "003674.webp",
+        "003675.webp",
+        "003700.webp",
+        "003725.webp",
+        "003726.webp",
+        "003750.webp",
+        "003774.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Các bạn lưu ý là chúng ta sẽ xào trước củ năng, củ cải trắng và củ cà rốt cho đến gần chín, sau đó thì chúng ta mới cho các nguyên liệu khác, tức là các nguyên liệu chính vô ha.",
+      "start": 150.96,
+      "end": 160.08,
+      "n_words": 42,
+      "start_frame": 3774,
+      "end_frame": 4002,
+      "keyframes": [
+        "003774.webp",
+        "003775.webp",
+        "003888.webp",
+        "004001.webp",
+        "004002.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đậu phộng này, chúng ta sẽ mua đậu phộng về luộc chín hoặc là chúng ta có thể là mua đậu phộng luộc sẵn.",
+      "start": 160.08,
+      "end": 167.68,
+      "n_words": 24,
+      "start_frame": 4002,
+      "end_frame": 4192,
+      "keyframes": [
+        "004002.webp",
+        "004052.webp",
+        "004102.webp",
+        "004103.webp",
+        "004116.webp",
+        "004130.webp",
+        "004131.webp",
+        "004168.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Tất cả những cái thành phần nguyên liệu rất là thơm luôn và đặc biệt là trong đây có hai cái thành phần giúp cho chúng ta có thể là cân bằng được huyết áp cũng như là ổn định nhịp tim, đó chính là củ năng cũng như là củ cải trắng bởi vì trong đây có rất là nhiều kali, các bạn hãy nhớ bổ sung thêm hai thành phần này ha.",
+      "start": 167.68,
+      "end": 181.2,
+      "n_words": 74,
+      "start_frame": 4192,
+      "end_frame": 4530,
+      "keyframes": [
+        "004206.webp",
+        "004207.webp",
+        "004299.webp",
+        "004391.webp",
+        "004392.webp",
+        "004457.webp",
+        "004523.webp",
+        "004524.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chúng ta sẽ nêm vào đây là một muỗng canh bột cà ri hòa với nước, một muỗng canh hạt nêm Aji-ngon nấm, nửa muỗng canh đường, một muỗng cà phê bột ngọt Ajinomoto, chúng ta sẽ đảo đều.",
+      "start": 181.2,
+      "end": 195.48,
+      "n_words": 39,
+      "start_frame": 4530,
+      "end_frame": 4887,
+      "keyframes": [
+        "004538.webp",
+        "004552.webp",
+        "004553.webp",
+        "004590.webp",
+        "004628.webp",
+        "004629.webp",
+        "004636.webp",
+        "004644.webp",
+        "004645.webp",
+        "004674.webp",
+        "004703.webp",
+        "004704.webp",
+        "004726.webp",
+        "004749.webp",
+        "004750.webp",
+        "004762.webp",
+        "004774.webp",
+        "004775.webp",
+        "004803.webp",
+        "004832.webp",
+        "004833.webp",
+        "004860.webp",
+        "004887.webp"
+      ],
+      "keyframe_count": 23
+    },
+    {
+      "text": "Bây giờ thì mình sẽ cho nấm hương vô trước nha.",
+      "start": 195.48,
+      "end": 198.0,
+      "n_words": 11,
+      "start_frame": 4887,
+      "end_frame": 4950,
+      "keyframes": [
+        "004887.webp",
+        "004888.webp",
+        "004917.webp",
+        "004947.webp",
+        "004948.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta sẽ cho vào đây là nước cốt dừa, mình cho khoảng chừng một tô như thế này rồi.",
+      "start": 198.0,
+      "end": 206.24,
+      "n_words": 20,
+      "start_frame": 4950,
+      "end_frame": 5156,
+      "keyframes": [
+        "004979.webp",
+        "005011.webp",
+        "005012.webp",
+        "005056.webp",
+        "005100.webp",
+        "005101.webp",
+        "005125.webp",
+        "005149.webp",
+        "005150.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "10 phút rồi đó Tuấn, bây giờ mở ra nè đó.",
+      "start": 206.24,
+      "end": 209.92,
+      "n_words": 11,
+      "start_frame": 5156,
+      "end_frame": 5248,
+      "keyframes": [
+        "005178.webp",
+        "005207.webp",
+        "005208.webp",
+        "005230.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Tiếp theo thì chúng ta sẽ cho đậu hủ chiên vô đây và tiêu xanh.",
+      "start": 209.92,
+      "end": 213.84,
+      "n_words": 15,
+      "start_frame": 5248,
+      "end_frame": 5346,
+      "keyframes": [
+        "005252.webp",
+        "005253.webp",
+        "005280.webp",
+        "005307.webp",
+        "005308.webp",
+        "005328.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sau khi mà mình cho đậu hủ vô thì chúng ta sẽ nấu tiếp khoảng chừng ba phút.",
+      "start": 213.84,
+      "end": 217.6,
+      "n_words": 18,
+      "start_frame": 5346,
+      "end_frame": 5440,
+      "keyframes": [
+        "005348.webp",
+        "005349.webp",
+        "005393.webp",
+        "005437.webp",
+        "005438.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cuối cùng thì mình sẽ cho vô gồm có nấm mèo nè, hành tây và ớt.",
+      "start": 217.6,
+      "end": 222.52,
+      "n_words": 16,
+      "start_frame": 5440,
+      "end_frame": 5563,
+      "keyframes": [
+        "005499.webp",
+        "005561.webp",
+        "005562.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cuối cùng thì mình sẽ nêm vào đây thêm nửa muỗng canh nước tương Phú Sĩ, mình sẽ cho phần nước cốt dừa khoảng một chén nước cốt dừa mình cho vô, mình đảo đều và đến khi mà phần nước nó sôi lại thì mình sẽ tắt lửa nha các bạn.",
+      "start": 222.52,
+      "end": 241.6,
+      "n_words": 52,
+      "start_frame": 5563,
+      "end_frame": 6040,
+      "keyframes": [
+        "005573.webp",
+        "005584.webp",
+        "005585.webp",
+        "005620.webp",
+        "005655.webp",
+        "005656.webp",
+        "005681.webp",
+        "005707.webp",
+        "005708.webp",
+        "005877.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Với nước cốt dừa thì chúng ta nấu gần xong mới cho vô để tránh trường hợp bị vón cục nhé.",
+      "start": 241.6,
+      "end": 246.44,
+      "n_words": 21,
+      "start_frame": 6040,
+      "end_frame": 6161,
+      "keyframes": [
+        "006047.webp",
+        "006048.webp",
+        "006104.webp",
+        "006161.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Trước khi tắt lửa thì chúng ta sẽ cho một ít rau nêm vô ha.",
+      "start": 246.44,
+      "end": 250.64,
+      "n_words": 15,
+      "start_frame": 6161,
+      "end_frame": 6266,
+      "keyframes": [
+        "006161.webp",
+        "006162.webp",
+        "006215.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ngay bây giờ trên màn hình có một mã QR, các bạn có thể quét mã này, chúng ta sẽ có ngay công thức nấu ăn của món chay ngày hôm nay để thực hiện tại nhà ha.",
+      "start": 250.64,
+      "end": 259.44,
+      "n_words": 38,
+      "start_frame": 6266,
+      "end_frame": 6486,
+      "keyframes": [
+        "006268.webp",
+        "006269.webp",
+        "006355.webp",
+        "006441.webp",
+        "006442.webp",
+        "006466.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ thì chúng ta sẽ trình bày món ăn này nha, các bạn sẽ thêm vào đây một ít đậu hũ ki chiên mình bóp vụn ra mình rắc lên rồi mình sẽ cho thêm rau thơm, rắc đậu phộng lên nè, sẽ đặt lên đây một cọng đọt của rau ôm cho nó đẹp.",
+      "start": 259.44,
+      "end": 278.56,
+      "n_words": 56,
+      "start_frame": 6486,
+      "end_frame": 6964,
+      "keyframes": [
+        "006491.webp",
+        "006492.webp",
+        "006529.webp",
+        "006567.webp",
+        "006568.webp",
+        "006606.webp",
+        "006644.webp",
+        "006645.webp",
+        "006707.webp",
+        "006769.webp",
+        "006770.webp",
+        "006796.webp",
+        "006822.webp",
+        "006823.webp",
+        "006846.webp",
+        "006869.webp",
+        "006870.webp",
+        "006916.webp",
+        "006963.webp",
+        "006964.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Với ngày hôm nay thì các bạn có thể ăn kèm với lại bánh mì nè và muối tiêu chanh, rất là thơm rồi.",
+      "start": 278.56,
+      "end": 285.44,
+      "n_words": 24,
+      "start_frame": 6964,
+      "end_frame": 7136,
+      "keyframes": [
+        "006964.webp",
+        "007036.webp",
+        "007109.webp",
+        "007110.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Em ăn thử cũng ăn nè, tất cả các thành phần rau củ thì nó mềm ăn, đến nấm mèo thì nó giòn giòn, ăn đến củ năng thì nó còn giòn hơn nữa, trắng chút một chút, đậu phộng thì nó béo, nước dùng thì thơm lừng béo ngậy luôn, nói chung là rất là bắt luôn.",
+      "start": 285.44,
+      "end": 306.48,
+      "n_words": 58,
+      "start_frame": 7136,
+      "end_frame": 7662,
+      "keyframes": [
+        "007205.webp",
+        "007300.webp",
+        "007301.webp",
+        "007339.webp",
+        "007377.webp",
+        "007378.webp",
+        "007438.webp",
+        "007498.webp",
+        "007499.webp",
+        "007580.webp",
+        "007661.webp",
+        "007662.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Và món ăn củ năng ôm nấm chay ngày hôm nay các bạn có thể áp dụng theo thực đơn như gợi ý.",
+      "start": 306.48,
+      "end": 315.64,
+      "n_words": 23,
+      "start_frame": 7662,
+      "end_frame": 7891,
+      "keyframes": [
+        "007662.webp",
+        "007717.webp",
+        "007772.webp",
+        "007773.webp",
+        "007835.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Như vậy là chúng ta lại có thêm một công thức món ăn mới cho mỗi dịp ngày rằm hay là ngày đầu tháng, các bạn hãy nhớ thực hiện ngay món ăn này tại nhà bởi vì đây là một món ăn có thể đáp ứng được mọi nhu cầu của mọi thành viên trong gia đình: ai ăn cơm cũng được, ăn bánh mì cũng được hay thậm chí ăn với bún cũng được luôn.",
+      "start": 315.64,
+      "end": 331.0,
+      "n_words": 77,
+      "start_frame": 7891,
+      "end_frame": 8275,
+      "keyframes": [
+        "007897.webp",
+        "007898.webp",
+        "008084.webp",
+        "008271.webp",
+        "008272.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và công thức thì sẽ có trên những kênh rất quen thuộc của Món ngon mỗi ngày, đặc biệt là website mới của Món ngon mỗi ngày: monngon. Com.",
+      "start": 331.0,
+      "end": 338.64,
+      "n_words": 29,
+      "start_frame": 8275,
+      "end_frame": 8466,
+      "keyframes": [
+        "008432.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Các bạn có thể truy cập vào đây để có thêm nhiều công thức chay khác hấp dẫn hơn các bạn nhé, chúc các bạn thành công.",
+      "start": 338.64,
+      "end": 349.52,
+      "n_words": 27,
+      "start_frame": 8466,
+      "end_frame": 8738,
+      "keyframes": [
+        "008593.webp",
+        "008594.webp",
+        "008654.webp",
+        "008714.webp",
+        "008722.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

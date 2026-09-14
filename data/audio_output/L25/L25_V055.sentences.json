@@ -1,0 +1,974 @@
+{
+  "video_id": "L25_V055",
+  "fps": 25.0,
+  "n_sentences": 50,
+  "total_words": 3366,
+  "sentences": [
+    {
+      "text": "Để chào mừng các em đã quay trở lại với phần ôn tập bộ môn Lịch sử của báo Thanh Niên cho kỳ thi tốt nghiệp trung học phổ thông sắp tới.",
+      "start": 0.0,
+      "end": 9.8,
+      "n_words": 32,
+      "start_frame": 0,
+      "end_frame": 245,
+      "keyframes": [
+        "000000.webp",
+        "000033.webp",
+        "000067.webp",
+        "000068.webp",
+        "000157.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Các em học sinh thân mến, như vậy chúng ta vừa mới ôn tập một chuyên đề trong nội dung kháng chiến chống Mỹ từ năm 1954 cho đến 1975.",
+      "start": 9.8,
+      "end": 18.96,
+      "n_words": 30,
+      "start_frame": 245,
+      "end_frame": 474,
+      "keyframes": [
+        "000247.webp",
+        "000248.webp",
+        "000322.webp",
+        "000397.webp",
+        "000398.webp",
+        "000439.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Trong nội dung ôn tập trước, chúng ta đã tìm hiểu về các chiến lược quân sự của Mỹ tại miền Nam Việt Nam từ 1961 cho đến 1973.",
+      "start": 21.0,
+      "end": 27.52,
+      "n_words": 29,
+      "start_frame": 525,
+      "end_frame": 688,
+      "keyframes": [
+        "000567.webp",
+        "000568.webp",
+        "000662.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thì trong buổi ôn tập ngày hôm nay, chúng ta tiếp tục tìm hiểu những thắng lợi quân sự của ta trong suốt cuộc kháng chiến chống Mỹ bắt đầu từ phong trào Đồng khởi 1960 cho đến cuộc tổng tiến công xuân 1975.",
+      "start": 29.44,
+      "end": 41.32,
+      "n_words": 44,
+      "start_frame": 736,
+      "end_frame": 1033,
+      "keyframes": [
+        "000757.webp",
+        "000758.webp",
+        "000784.webp",
+        "000811.webp",
+        "000812.webp",
+        "000941.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Để có được thành công như hôm nay, tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình bắt đầu từ trường Đại học Quốc tế Sài Gòn.",
+      "start": 44.4,
+      "end": 53.6,
+      "n_words": 34,
+      "start_frame": 1110,
+      "end_frame": 1340,
+      "keyframes": [
+        "001129.webp",
+        "001157.webp",
+        "001158.webp",
+        "001189.webp",
+        "001220.webp",
+        "001250.webp",
+        "001297.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Sau đào tạo đa dạng đa lĩnh vực, SIU mở ra cho chúng tôi nhiều cơ hội lựa chọn nghề nghiệp trong tương lai.",
+      "start": 53.6,
+      "end": 63.88,
+      "n_words": 24,
+      "start_frame": 1340,
+      "end_frame": 1597,
+      "keyframes": [
+        "001345.webp",
+        "001357.webp",
+        "001370.webp",
+        "001384.webp",
+        "001397.webp",
+        "001416.webp",
+        "001436.webp",
+        "001437.webp",
+        "001456.webp",
+        "001475.webp",
+        "001476.webp",
+        "001494.webp",
+        "001513.webp",
+        "001514.webp",
+        "001531.webp",
+        "001549.webp",
+        "001550.webp",
+        "001567.webp",
+        "001584.webp",
+        "001585.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Tất cả sinh viên đều có cơ hội để thể hiện và phát triển năng lực, những ý tưởng luôn được khuyến khích và phát huy tối đa.",
+      "start": 63.88,
+      "end": 71.16,
+      "n_words": 28,
+      "start_frame": 1597,
+      "end_frame": 1779,
+      "keyframes": [
+        "001602.webp",
+        "001619.webp",
+        "001620.webp",
+        "001630.webp",
+        "001640.webp",
+        "001666.webp",
+        "001676.webp",
+        "001687.webp",
+        "001688.webp",
+        "001697.webp",
+        "001707.webp",
+        "001708.webp",
+        "001714.webp",
+        "001721.webp",
+        "001722.webp",
+        "001749.webp",
+        "001777.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin; Chúng tôi được học cách học, cách nghĩ và cách sống.",
+      "start": 71.16,
+      "end": 77.28,
+      "n_words": 23,
+      "start_frame": 1779,
+      "end_frame": 1932,
+      "keyframes": [
+        "001792.webp",
+        "001810.webp",
+        "001829.webp",
+        "001830.webp",
+        "001847.webp",
+        "001865.webp",
+        "001866.webp",
+        "001891.webp",
+        "001916.webp",
+        "001917.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.",
+      "start": 77.28,
+      "end": 84.36,
+      "n_words": 28,
+      "start_frame": 1932,
+      "end_frame": 2109,
+      "keyframes": [
+        "001936.webp",
+        "001956.webp",
+        "001957.webp",
+        "001978.webp",
+        "001999.webp",
+        "002000.webp",
+        "002040.webp",
+        "002081.webp",
+        "002093.webp",
+        "002105.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Hiện đại năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc, đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn (SIU) luôn hướng đến.",
+      "start": 84.36,
+      "end": 94.96,
+      "n_words": 34,
+      "start_frame": 2109,
+      "end_frame": 2374,
+      "keyframes": [
+        "002118.webp",
+        "002123.webp",
+        "002137.webp",
+        "002152.webp",
+        "002166.webp",
+        "002177.webp",
+        "002188.webp",
+        "002213.webp",
+        "002223.webp",
+        "002233.webp",
+        "002234.webp",
+        "002245.webp",
+        "002256.webp",
+        "002274.webp",
+        "002281.webp",
+        "002288.webp",
+        "002318.webp",
+        "002335.webp",
+        "002353.webp"
+      ],
+      "keyframe_count": 19
+    },
+    {
+      "text": "Đã đến lúc vươn xa hơn những gì đã học.",
+      "start": 94.96,
+      "end": 103.48,
+      "n_words": 10,
+      "start_frame": 2374,
+      "end_frame": 2587,
+      "keyframes": [
+        "002401.webp",
+        "002415.webp",
+        "002430.webp",
+        "002453.webp",
+        "002511.webp",
+        "002570.webp",
+        "002571.webp",
+        "002583.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Đầu tiên, thay mặt tất cả, chúng ta nhìn vào sơ đồ căn bản để có thể nhìn thấy được những thắng lợi quân sự quan trọng được thể hiện trên cái sơ đồ. Trong suốt thời gian từ 1960 cho đến 1975, chúng ta đã lần lượt có những thắng lợi quân sự tiêu biểu sau đây: 1960 ghi dấu ấn với phong trào Đồng khởi; 1963 là chiến thắng Ấp Bắc; 1965 là chiến thắng Bình Giả. Và cũng trong thời điểm 1965 đó, hàng loạt những thắng lợi quân sự như chiến thắng ở Ba Gia, An Lão, Đồng Xoài. Chuyển sang giai đoạn chiến tranh cục bộ, chúng ta lần lượt có những thắng lợi tiêu biểu như là chiến thắng Núi Thành vào tháng 5/1968, sau đó là chiến thắng Vạn Tường vào tháng 8/1968, và cuộc tổng tiến công và nổi dậy Tết Mậu Thân 1968 đã buộc Mỹ phải hướng đến con đường đàm phán để giải quyết cuộc chiến tranh Việt Nam.",
+      "start": 103.48,
+      "end": 161.64,
+      "n_words": 170,
+      "start_frame": 2587,
+      "end_frame": 4041,
+      "keyframes": [
+        "002595.webp",
+        "002596.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và bước sang chiến lược Việt Nam hóa chiến tranh, chúng ta đã lần lượt có những thắng lợi quân sự quan trọng như đánh bại cuộc hành quân Lam Sơn 719 ở đường số 9 Nam Lào, hay là cuộc tổng tiến công xuân hè 1972 là những dấu mốc quan trọng khiến cho Mỹ phải ký Hiệp định Paris để kết thúc cuộc chiến tranh tại Việt Nam. Bước sang 1974, cuối 1974 đầu 1975, chúng ta lại tiếp tục có những thắng lợi quân sự quan trọng điển hình, ví dụ như là chiến thắng Phước Long đã dẫn đến chủ trương giải phóng miền Nam và cuối cùng là cuộc tổng tiến công xuân 1975 với ba chiến dịch lớn là chiến dịch Tây Nguyên, chiến dịch Huế - Đà Nẵng, chiến dịch Hồ Chí Minh đã kết thúc hoàn toàn cuộc kháng chiến chống Mỹ. Và bây giờ chúng ta sẽ đi vào tìm hiểu các thắng lợi quân sự quan trọng này.",
+      "start": 161.64,
+      "end": 211.64,
+      "n_words": 168,
+      "start_frame": 4041,
+      "end_frame": 5291,
+      "keyframes": [
+        "004149.webp",
+        "004161.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Mọi người cần phải lưu ý là khi chúng ta tìm hiểu về những thắng lợi quân sự này thì cái quan trọng không phải là diễn biến của các thắng lợi mà chính là ý nghĩa lịch sử của nó đối với quá trình phát triển của cuộc kháng chiến chống Mỹ. Đầu tiên, chúng ta sẽ quay trở lại với phong trào Đồng khởi diễn ra vào thời điểm năm 1959 và 1960. Trong những năm 1950, 1959, cách mạng miền Nam gặp muôn vàn khó khăn tổn thất.",
+      "start": 211.64,
+      "end": 243.72,
+      "n_words": 91,
+      "start_frame": 5291,
+      "end_frame": 6093,
+      "keyframes": [
+        "005727.webp",
+        "005728.webp",
+        "005916.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tháng 5 năm 1957, Ngô Đình Diệm ban hành đạo luật đặt cộng sản ngoài vòng pháp luật, ra luật 10/59 công khai chém giết làm cho hàng vạn cán bộ đảng viên bị giết hại, hàng chục vạn đồng bào yêu nước bị tù đày. Do vậy, cuộc đấu tranh của nhân dân ở miền Nam đòi hỏi phải có một biện pháp quyết liệt để đưa cách mạng Việt Nam vượt qua khó khăn. Hội nghị Trung ương Đảng lần thứ 15 họp vào tháng 1 năm 1959 đã quyết định để nhân dân miền Nam sử dụng bạo lực cách mạng đánh đổ chính quyền Mỹ - Diệm. Hội nghị nhấn mạnh ngoài con đường dùng bạo lực cách mạng, nhân dân miền Nam không có con đường nào khác. Phương hướng cơ bản của cách mạng miền Nam là khởi nghĩa giành chính quyền về tay nhân dân bằng con đường đấu tranh chính trị là chủ yếu kết hợp với đấu tranh vũ trang đánh đổ ách thống trị của Mỹ - Diệm.",
+      "start": 243.72,
+      "end": 293.36,
+      "n_words": 178,
+      "start_frame": 6093,
+      "end_frame": 7334,
+      "keyframes": [
+        "006104.webp",
+        "006105.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Trong sách giáo khoa cũng đã cung cấp cho chúng ta diễn biến của phong trào Đồng khởi khi nó bùng nổ từ Bác Ái, Trà Bồng nhưng mà quyết liệt nhất là diễn ra ở Bến Tre. Về kết quả và ý nghĩa của phong trào Đồng khởi, thì thắng lợi của phong trào Đồng khởi đã dẫn đến sự ra đời của tổ chức lãnh đạo trực tiếp cách mạng miền Nam, đó là Mặt trận Dân tộc Giải phóng miền Nam Việt Nam do luật sư Nguyễn Hữu Thọ làm chủ tịch. Mặt trận chủ trương đoàn kết toàn dân đấu tranh chống đế quốc Mỹ xâm lược và chính quyền Ngô Đình Diệm, thành lập chính quyền cách mạng dưới hình thức những ủy ban nhân dân tự quản. Phong trào Đồng khởi cũng đã giáng một đòn nặng nề vào chính sách thực dân mới của Mỹ làm lung lay chính quyền Ngô Đình Diệm.",
+      "start": 293.36,
+      "end": 337.2,
+      "n_words": 160,
+      "start_frame": 7334,
+      "end_frame": 8430,
+      "keyframes": [
+        "007359.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Phong trào Đồng khởi cũng là bước ngoặt đánh dấu bước phát triển của cách mạng miền Nam từ thế giữ gìn lực lượng sang thế tiến công. Từ 1961 cho đến 1965, Mỹ thực hiện chiến lược chiến tranh đặc biệt tại miền Nam Việt Nam và nhân dân miền Nam Việt Nam dưới sự lãnh đạo của Mặt trận Dân tộc Giải phóng miền Nam Việt Nam cùng với sự lãnh đạo của Đảng đã có những thắng lợi quân sự hết sức quan trọng. Đầu tiên đó là chiến thắng Ấp Bắc diễn ra vào ngày 02/01/1963. Chiến thắng Ấp Bắc ngày 02/01/1963 đã đánh bại cuộc hành quân càn quét của hơn 2.000 binh lính quân đội Sài Gòn và cố vấn Mỹ chỉ huy, được pháo binh, máy bay, xe tăng, xe bọc thép yểm trợ.",
+      "start": 337.2,
+      "end": 380.56,
+      "n_words": 141,
+      "start_frame": 8430,
+      "end_frame": 9514,
+      "keyframes": [
+        "008614.webp",
+        "008615.webp",
+        "009126.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ấp Bắc có một ý nghĩa hết sức quan trọng đó là làm dấy lên phong trào thi đua Ấp Bắc giết giặc lập công và mở ra khả năng đánh bại chiến tranh đặc biệt.",
+      "start": 380.56,
+      "end": 389.6,
+      "n_words": 36,
+      "start_frame": 9514,
+      "end_frame": 9740,
+      "keyframes": [
+        "009638.webp",
+        "009639.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thì như chúng ta đã học trong cái phần trước, chiến tranh đặc biệt thực hiện với những chiến thuật; Thì như trong bài trước chúng ta đã ôn tập, chiến tranh đặc biệt được thực hiện với sự hỗ trợ rất là lớn của Mỹ mang tính tổng lực cho nên hầu như không ai nghĩ rằng là cách mạng miền Nam còn non trẻ có khả năng đánh bại chiến tranh đặc biệt. Tuy nhiên, với chiến thắng Ấp Bắc ngày 02/01/1963 thì đã mở ra khả năng đánh bại chiến tranh đặc biệt bằng chính lực lượng của mình. Chiến thắng thứ hai là chiến thắng Bình Giả ở Bà Rịa vào tháng 12/1964. Trong trận Bình Giả này chúng ta đã loại khỏi vòng chiến đấu 1.700 tên địch, phá hủy hàng chục máy bay và xe bọc thép, đánh thắng các chiến thuật trực thăng vận hoặc thiết vận của Mỹ. Như vậy, chiến thắng Bình Giả tháng 12/1964 đã làm phá sản chiến tranh đặc biệt về cơ bản khi tất cả những chiến thuật mà Mỹ thực hiện trong cái chiến lược chiến tranh đặc biệt này hầu như đều bị chúng ta bẻ gãy.",
+      "start": 389.6,
+      "end": 457.72,
+      "n_words": 202,
+      "start_frame": 9740,
+      "end_frame": 11443,
+      "keyframes": [
+        "010181.webp",
+        "010724.webp",
+        "010725.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thời điểm 1965 với hàng loạt những thắng lợi ở Ba Gia, An Lão, Đồng Xoài thì chiến tranh đặc biệt của Mỹ đã hoàn toàn bị phá sản.",
+      "start": 457.72,
+      "end": 468.32,
+      "n_words": 29,
+      "start_frame": 11443,
+      "end_frame": 11708,
+      "keyframes": [
+        "011536.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Như vậy, với chiến lược chiến tranh đặc biệt Mỹ thực hiện tại miền Nam Việt Nam từ 1961 đến 1965, chúng ta cần phải lưu ý ba thắng lợi quân sự mà ta đã đạt được dẫn đến sự phá sản của chiến lược này: Đó là chiến thắng Ấp Bắc đã mở ra cơ hội đánh bại chiến tranh đặc biệt; Chiến thắng Bình Giả làm cho chiến tranh đặc biệt bị phá sản về mặt cơ bản; Và chiến thắng Ba Gia, An Lão, Đồng Xoài đã làm phá sản hoàn toàn chiến tranh đặc biệt.",
+      "start": 468.32,
+      "end": 495.52,
+      "n_words": 99,
+      "start_frame": 11708,
+      "end_frame": 12388,
+      "keyframes": [
+        "012348.webp",
+        "012349.webp",
+        "012378.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến, hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.",
+      "start": 495.52,
+      "end": 506.08,
+      "n_words": 33,
+      "start_frame": 12388,
+      "end_frame": 12652,
+      "keyframes": [
+        "012407.webp",
+        "012425.webp",
+        "012471.webp",
+        "012517.webp",
+        "012518.webp",
+        "012538.webp",
+        "012559.webp",
+        "012560.webp",
+        "012581.webp",
+        "012602.webp",
+        "012603.webp",
+        "012612.webp",
+        "012621.webp",
+        "012633.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện cân bằng giữa học thuật và nghệ thuật, thể thao.",
+      "start": 506.08,
+      "end": 513.72,
+      "n_words": 23,
+      "start_frame": 12652,
+      "end_frame": 12843,
+      "keyframes": [
+        "012686.webp",
+        "012740.webp",
+        "012741.webp",
+        "012761.webp",
+        "012782.webp",
+        "012783.webp",
+        "012798.webp",
+        "012813.webp",
+        "012814.webp",
+        "012824.webp",
+        "012835.webp",
+        "012836.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, thêm nguồn cảm hứng độc lập để phát triển và hoàn thiện nhân cách.",
+      "start": 513.72,
+      "end": 524.36,
+      "n_words": 34,
+      "start_frame": 12843,
+      "end_frame": 13109,
+      "keyframes": [
+        "012848.webp",
+        "012861.webp",
+        "012862.webp",
+        "012888.webp",
+        "012915.webp",
+        "012916.webp",
+        "012961.webp",
+        "013006.webp",
+        "013007.webp",
+        "013032.webp",
+        "013058.webp",
+        "013059.webp",
+        "013082.webp",
+        "013106.webp",
+        "013107.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Ngoài những giờ học trên lớp, học sinh Trường Quốc tế Á Châu còn được trải nghiệm, thử thách bản thân và phản biện các vấn đề để tự mình học hỏi, trưởng thành độc lập hơn.",
+      "start": 524.36,
+      "end": 544.32,
+      "n_words": 37,
+      "start_frame": 13109,
+      "end_frame": 13608,
+      "keyframes": [
+        "013116.webp",
+        "013125.webp",
+        "013126.webp",
+        "013142.webp",
+        "013159.webp",
+        "013160.webp",
+        "013187.webp",
+        "013214.webp",
+        "013215.webp",
+        "013288.webp",
+        "013361.webp",
+        "013362.webp",
+        "013377.webp",
+        "013393.webp",
+        "013403.webp",
+        "013409.webp",
+        "013415.webp",
+        "013431.webp",
+        "013469.webp",
+        "013507.webp",
+        "013508.webp",
+        "013522.webp",
+        "013537.webp",
+        "013538.webp",
+        "013550.webp",
+        "013562.webp",
+        "013563.webp",
+        "013581.webp",
+        "013600.webp",
+        "013601.webp"
+      ],
+      "keyframe_count": 30
+    },
+    {
+      "text": "Nơi đây với tôi còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.",
+      "start": 544.32,
+      "end": 560.0,
+      "n_words": 33,
+      "start_frame": 13608,
+      "end_frame": 14000,
+      "keyframes": [
+        "013668.webp",
+        "013736.webp",
+        "013737.webp",
+        "013788.webp",
+        "013839.webp",
+        "013840.webp",
+        "013860.webp",
+        "013880.webp",
+        "013881.webp",
+        "013888.webp",
+        "013895.webp",
+        "013927.webp",
+        "013935.webp",
+        "013944.webp",
+        "013945.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là cuộc sống.",
+      "start": 560.0,
+      "end": 565.08,
+      "n_words": 15,
+      "start_frame": 14000,
+      "end_frame": 14127,
+      "keyframes": [
+        "014001.webp",
+        "014058.webp",
+        "014059.webp",
+        "014067.webp",
+        "014075.webp",
+        "014076.webp",
+        "014089.webp",
+        "014102.webp",
+        "014103.webp",
+        "014109.webp",
+        "014115.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Từ môi trường giáo dục này, chúng tôi đã tự tin bước tiếp và viết nên câu chuyện tương lai của chính mình.",
+      "start": 565.08,
+      "end": 579.16,
+      "n_words": 23,
+      "start_frame": 14127,
+      "end_frame": 14479,
+      "keyframes": [
+        "014132.webp",
+        "014146.webp",
+        "014160.webp",
+        "014177.webp",
+        "014178.webp",
+        "014179.webp",
+        "014241.webp",
+        "014259.webp",
+        "014277.webp",
+        "014301.webp",
+        "014322.webp",
+        "014343.webp",
+        "014344.webp",
+        "014348.webp",
+        "014353.webp",
+        "014373.webp",
+        "014375.webp",
+        "014378.webp",
+        "014379.webp",
+        "014418.webp",
+        "014457.webp",
+        "014458.webp",
+        "014472.webp"
+      ],
+      "keyframe_count": 23
+    },
+    {
+      "text": "Chuyển sang chiến lược chiến tranh cục bộ được Mỹ thực hiện tại miền Nam Việt Nam từ thời điểm 1965 đến 1968, thì chúng ta có những thắng lợi quân sự chống lại chiến lược chiến tranh cục bộ như sau: Đầu tiên đó là chiến thắng Núi Thành diễn ra vào tháng 5/1965 và sau đó là chiến thắng Vạn Tường diễn ra vào tháng 8/1965. Mà sáng ngày 18/08/1965, Mỹ đã huy động 9.000 quân với nhiều xe tăng, xe bọc thép, máy bay lên thẳng, máy bay phản lực chiến đấu, tàu chiến mở cuộc hành quân vào thôn Vạn Tường nhằm tiêu diệt quân chủ lực của ta.",
+      "start": 579.16,
+      "end": 618.24,
+      "n_words": 113,
+      "start_frame": 14479,
+      "end_frame": 15456,
+      "keyframes": [
+        "014487.webp",
+        "014488.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Sau một ngày chiến đấu, một trung đoàn chủ lực của ta cùng với quân du kích và nhân dân địa phương đã đẩy lùi cuộc hành quân của địch, loại khỏi vòng chiến 900 tên, bắn cháy hàng chục xe tăng, xe bọc thép và hạ nhiều máy bay. Trận Núi Thành và Vạn Tường có ý nghĩa hết sức quan trọng đó là mở đầu cho một cao trào tìm Mỹ mà đánh, lùng ngụy mãi diệt ở miền Nam. Và thông qua hai thắng lợi quân sự này cũng đã bộc lộ cho thấy khả năng đánh bại chiến lược chiến tranh cục bộ của ta. Chiến thắng ở Núi Thành và Vạn Tường vào tháng 8/1965 đã có một ý nghĩa lịch sử hết sức quan trọng đó là mở đầu cho cao trào tìm Mỹ mà đánh, lùng ngụy mãi diệt ở miền Nam, và hai thắng lợi ở Núi Thành và Vạn Tường cũng cho thấy khả năng đánh bại chiến lược chiến tranh cục bộ của ta. Và một sự kiện quân sự quan trọng diễn ra vào thời điểm 1968 dẫn đến việc Mỹ phải chấm dứt chiến lược chiến tranh cục bộ đó là cuộc tổng tiến công và nổi dậy xuân Mậu Thân 1968.",
+      "start": 618.24,
+      "end": 676.56,
+      "n_words": 214,
+      "start_frame": 15456,
+      "end_frame": 16914,
+      "keyframes": [
+        "015706.webp",
+        "015721.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Về sự kiện này chúng ta cần phải lưu ý, bước vào mùa xuân 1968, xuất phát từ nhận định so sánh lực lượng đã thay đổi có lợi cho ta sau hai mùa khô, đồng thời lợi dụng mâu thuẫn của Mỹ trong năm bầu cử tổng thống, ta đã chủ trương mở cuộc tổng tiến công và nổi dậy trên toàn miền Nam, trong đó trọng tâm là các đô thị.",
+      "start": 678.16,
+      "end": 697.0,
+      "n_words": 73,
+      "start_frame": 16954,
+      "end_frame": 17425,
+      "keyframes": [
+        "016954.webp",
+        "016955.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cuộc tổng tiến công và nổi dậy được mở đầu bằng cuộc tập kích chiến lược của quân chủ lực vào hầu hết tất cả những đô thị tại miền Nam trong đêm 30 rạng sáng 31 tháng 1/1968. Cuộc tổng tiến công và nổi dậy xuân Mậu Thân diễn ra tất cả ba đợt.",
+      "start": 697.88,
+      "end": 714.72,
+      "n_words": 55,
+      "start_frame": 17447,
+      "end_frame": 17868,
+      "keyframes": [
+        "017473.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Quân dân ta ở miền Nam đồng loạt tiến công và nổi dậy ở 37 trong tổng số 44 tỉnh, 4 trong số 6 đô thị lớn, hầu hết tất cả các vùng nông thôn và điểm. Chúng ta cần phải lưu ý quan trọng đó chính là ý nghĩa lịch sử cuộc tổng tiến công và nổi dậy xuân Mậu Thân đó là làm lung lay ý chí xâm lược của Mỹ và buộc Mỹ phải tuyên bố phi Mỹ hóa chiến tranh, ngừng ném bom miền Bắc và đàm phán với ta tại Paris.",
+      "start": 714.72,
+      "end": 746.32,
+      "n_words": 96,
+      "start_frame": 17868,
+      "end_frame": 18658,
+      "keyframes": [
+        "017991.webp",
+        "017992.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Việc Mỹ tuyên bố phi Mỹ hóa chiến tranh có nghĩa là thừa nhận sự thất bại trong việc dựa vào lực lượng quân đội Mỹ làm xương sống, làm chủ chốt cho việc giành lại ưu thế trên chiến trường tại miền Nam Việt Nam, và điều đó cũng có nghĩa là thừa nhận sự thất bại của chiến lược chiến tranh cục bộ. Các em thân mến, như vậy chúng ta vừa mới tìm hiểu những thắng lợi quân sự quan trọng trong chiến lược chiến tranh cục bộ mà Mỹ thực hiện tại miền Nam Việt Nam từ 1965 đến 1968, trong đó có hai thắng lợi mở đầu đó là thắng lợi Núi Thành, Vạn Tường và thắng lợi cuối cùng là tổng tiến công và nổi dậy xuân Mậu Thân 1968.",
+      "start": 746.32,
+      "end": 780.6,
+      "n_words": 136,
+      "start_frame": 18658,
+      "end_frame": 19515,
+      "keyframes": [
+        "018919.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ chuyển sang giai đoạn kế tiếp để tìm hiểu những thắng lợi quân sự của ta trong giai đoạn Mỹ thực hiện chiến lược Việt Nam hóa chiến tranh tại miền Nam Việt Nam từ 1969 cho đến 1973. Một trong những thủ đoạn mà Mỹ thực hiện trong chiến lược Việt Nam hóa chiến tranh đó là mở rộng chiến tranh sang khu vực Lào và Campuchia, thì một trong những thắng lợi quan trọng mà chúng ta đã thực hiện được đó là chúng ta đã đánh bại được cuộc hành quân Lam Sơn 719 của quân đội Sài Gòn có kết hợp với lực lượng quân đội Mỹ vào thời điểm 1971, giải phóng đường số 9 Nam Lào, và quan trọng nhất đó là chúng ta đã giữ được hành lang chiến lược của cách mạng Đông Dương.",
+      "start": 781.96,
+      "end": 823.12,
+      "n_words": 147,
+      "start_frame": 19549,
+      "end_frame": 20578,
+      "keyframes": [
+        "019758.webp",
+        "019846.webp",
+        "019847.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thắng lợi quân sự kế tiếp góp phần quan trọng trong việc thất bại của Việt Nam hóa chiến tranh đó là cuộc tổng tiến công chiến lược xuân hè 1972. Với cuộc tổng tiến công chiến lược xuân hè 1972 này, chúng ta đã chọc thủng được ba phòng tuyến quan trọng đó là Quảng Trị, Tây Nguyên và Đông Nam Bộ.",
+      "start": 823.12,
+      "end": 843.04,
+      "n_words": 63,
+      "start_frame": 20578,
+      "end_frame": 21076,
+      "keyframes": [
+        "020686.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cuộc tổng tiến công chiến lược xuân hè 1972 cũng đã cho thấy quân đội Sài Gòn không có khả năng tự gánh vác chiến tranh sau khi Mỹ rút và buộc Mỹ phải tuyên bố Mỹ hóa trở lại chiến tranh, có nghĩa là thừa nhận sự thất bại của Việt Nam hóa chiến tranh.",
+      "start": 843.04,
+      "end": 862.0,
+      "n_words": 56,
+      "start_frame": 21076,
+      "end_frame": 21550,
+      "keyframes": [
+        "021525.webp",
+        "021526.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thời điểm sau Hiệp định Paris 1973 thì ta tiếp tục giành được một số những thắng lợi quân sự quan trọng, đầu tiên đó là chiến thắng Phước Long vào ngày 06/01/1975, cho thấy khả năng can thiệp của Mỹ sau Hiệp định Paris là hạn chế, và cũng sự thắng lợi của trận Phước Long này đã cho thấy sự lớn mạnh của ta dẫn đến chủ trương giải phóng miền Nam thống nhất đất nước trong năm 1975 và 1976.",
+      "start": 862.0,
+      "end": 887.44,
+      "n_words": 83,
+      "start_frame": 21550,
+      "end_frame": 22186,
+      "keyframes": [
+        "021565.webp",
+        "021605.webp",
+        "021606.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thắng lợi quân sự cuối cùng thì tất cả chúng ta cũng đã biết rồi, đó là cuộc tổng tiến công xuân 1975 từ tháng 3 cho đến tháng 4/1975 với ba chiến dịch lớn đó là chiến dịch Tây Nguyên, chiến dịch Huế - Đà Nẵng và chiến dịch Hồ Chí Minh. Cuộc tổng tiến công xuân 1975 là thắng lợi vĩ đại kết thúc 21 năm kháng chiến chống Mỹ và 30 năm đấu tranh giải phóng dân tộc, chấm dứt ách thống trị của đế quốc phong kiến, hoàn thành cuộc cách mạng dân tộc dân chủ nhân dân, thống nhất đất nước và đã mở ra cho nước Việt Nam chúng ta một kỷ nguyên mới hòa bình, độc lập, thống nhất, đi lên chủ nghĩa xã hội.",
+      "start": 889.12,
+      "end": 926.92,
+      "n_words": 132,
+      "start_frame": 22228,
+      "end_frame": 23173,
+      "keyframes": [
+        "022350.webp",
+        "022390.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Trường Đại học Quốc tế Sài Gòn không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SIU nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt.",
+      "start": 926.92,
+      "end": 937.8,
+      "n_words": 38,
+      "start_frame": 23173,
+      "end_frame": 23445,
+      "keyframes": [
+        "023174.webp",
+        "023175.webp",
+        "023188.webp",
+        "023202.webp",
+        "023203.webp",
+        "023241.webp",
+        "023279.webp",
+        "023280.webp",
+        "023288.webp",
+        "023297.webp",
+        "023298.webp",
+        "023306.webp",
+        "023314.webp",
+        "023315.webp",
+        "023323.webp",
+        "023331.webp",
+        "023332.webp",
+        "023344.webp",
+        "023356.webp",
+        "023357.webp",
+        "023365.webp",
+        "023374.webp",
+        "023396.webp",
+        "023399.webp",
+        "023402.webp",
+        "023403.webp",
+        "023420.webp",
+        "023437.webp",
+        "023438.webp"
+      ],
+      "keyframe_count": 29
+    },
+    {
+      "text": "SIU mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới, trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.",
+      "start": 937.8,
+      "end": 948.56,
+      "n_words": 39,
+      "start_frame": 23445,
+      "end_frame": 23714,
+      "keyframes": [
+        "023452.webp",
+        "023466.webp",
+        "023467.webp",
+        "023480.webp",
+        "023494.webp",
+        "023495.webp",
+        "023513.webp",
+        "023531.webp",
+        "023532.webp",
+        "023548.webp",
+        "023564.webp",
+        "023596.webp",
+        "023612.webp",
+        "023629.webp",
+        "023630.webp",
+        "023650.webp",
+        "023670.webp",
+        "023671.webp",
+        "023679.webp",
+        "023688.webp",
+        "023689.webp",
+        "023696.webp",
+        "023703.webp",
+        "023713.webp"
+      ],
+      "keyframe_count": 24
+    },
+    {
+      "text": "Năm 2024, SIU tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng bốn phương thức tuyển sinh.",
+      "start": 948.56,
+      "end": 957.16,
+      "n_words": 23,
+      "start_frame": 23714,
+      "end_frame": 23929,
+      "keyframes": [
+        "023726.webp",
+        "023739.webp",
+        "023740.webp",
+        "023755.webp",
+        "023771.webp",
+        "023772.webp",
+        "023787.webp",
+        "023802.webp",
+        "023803.webp",
+        "023821.webp",
+        "023839.webp",
+        "023840.webp",
+        "023854.webp",
+        "023869.webp",
+        "023895.webp",
+        "023910.webp",
+        "023926.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "SIU cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SIU, 100 suất học bổng Tiếp bước hành trình, Quỹ tài năng trẻ, học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa, thể thao, nghệ thuật; Học bổng Đồng hành xây dựng nhân lực chất lượng cao cho thành phố Thủ Đức, thành phố Hồ Chí Minh; Học bổng doanh nghiệp tài trợ; Học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.",
+      "start": 957.16,
+      "end": 983.68,
+      "n_words": 106,
+      "start_frame": 23929,
+      "end_frame": 24592,
+      "keyframes": [
+        "023931.webp",
+        "023951.webp",
+        "023971.webp",
+        "023982.webp",
+        "023998.webp",
+        "024015.webp",
+        "024016.webp",
+        "024043.webp",
+        "024070.webp",
+        "024071.webp",
+        "024100.webp",
+        "024129.webp",
+        "024130.webp",
+        "024143.webp",
+        "024156.webp",
+        "024157.webp",
+        "024169.webp",
+        "024181.webp",
+        "024208.webp",
+        "024216.webp",
+        "024224.webp",
+        "024225.webp",
+        "024239.webp",
+        "024253.webp",
+        "024254.webp",
+        "024268.webp",
+        "024283.webp",
+        "024284.webp",
+        "024299.webp",
+        "024315.webp",
+        "024316.webp",
+        "024331.webp",
+        "024346.webp",
+        "024347.webp",
+        "024365.webp",
+        "024383.webp",
+        "024384.webp",
+        "024401.webp",
+        "024418.webp",
+        "024419.webp",
+        "024438.webp",
+        "024457.webp",
+        "024458.webp",
+        "024473.webp",
+        "024488.webp",
+        "024489.webp",
+        "024502.webp",
+        "024515.webp",
+        "024516.webp",
+        "024534.webp",
+        "024552.webp",
+        "024553.webp",
+        "024568.webp",
+        "024583.webp",
+        "024584.webp"
+      ],
+      "keyframe_count": 55
+    },
+    {
+      "text": "SIU: Tâm hồn Việt Nam, giáo dục thế giới.",
+      "start": 983.68,
+      "end": 987.4,
+      "n_words": 9,
+      "start_frame": 24592,
+      "end_frame": 24685,
+      "keyframes": [
+        "024594.webp",
+        "024604.webp",
+        "024618.webp",
+        "024645.webp",
+        "024673.webp",
+        "024674.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Các em học sinh thân mến, như vậy chúng ta vừa điểm sơ qua tất cả những thắng lợi quân sự quan trọng mà chúng ta đã đạt được trong cuộc kháng chiến chống Mỹ từ thời điểm 1960 cho đến 1975.",
+      "start": 987.28,
+      "end": 997.48,
+      "n_words": 42,
+      "start_frame": 24682,
+      "end_frame": 24937,
+      "keyframes": [
+        "024866.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Những thắng lợi quan trọng này nó sẽ đi theo những chiến lược quân sự của Mỹ đã thực hiện tại miền Nam Việt Nam từ thời điểm 1961 cho đến 1973.",
+      "start": 1000.0,
+      "end": 1008.84,
+      "n_words": 32,
+      "start_frame": 25000,
+      "end_frame": 25221,
+      "keyframes": [
+        "025059.webp",
+        "025060.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Khi chúng ta ôn tập phần này, chúng ta nên so sánh đối chiếu với lại cái chuyên đề học tập trước thì chúng ta sẽ nhớ lâu hơn.",
+      "start": 1010.2,
+      "end": 1018.6,
+      "n_words": 29,
+      "start_frame": 25255,
+      "end_frame": 25465,
+      "keyframes": [
+        "025445.webp",
+        "025446.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Hy vọng rằng chuyên đề học tập này sẽ giúp chúng ta hệ thống hóa, nắm được cơ bản khái quát những thắng lợi quân sự mà ta đã đạt được trong cuộc kháng chiến chống Mỹ từ thời điểm 1960 cho đến 1975.",
+      "start": 1018.6,
+      "end": 1028.96,
+      "n_words": 44,
+      "start_frame": 25465,
+      "end_frame": 25724,
+      "keyframes": [
+        "025601.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thầy cảm ơn tất cả các em đã theo dõi và hẹn gặp lại các em trong chuyên đề kế tiếp. Thầy cảm ơn tất cả các em đã theo dõi và hẹn gặp lại các em trong chuyên đề kế tiếp.",
+      "start": 1030.56,
+      "end": 1034.44,
+      "n_words": 42,
+      "start_frame": 25764,
+      "end_frame": 25861,
+      "keyframes": [
+        "025794.webp",
+        "025831.webp",
+        "025832.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cảm ơn tất cả các em.",
+      "start": 1035.92,
+      "end": 1037.92,
+      "n_words": 6,
+      "start_frame": 25898,
+      "end_frame": 25948,
+      "keyframes": [
+        "025941.webp",
+        "025942.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

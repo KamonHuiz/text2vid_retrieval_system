@@ -1,0 +1,885 @@
+{
+  "video_id": "L26_V381",
+  "fps": 25.0,
+  "n_sentences": 51,
+  "total_words": 954,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày.",
+      "start": 10.52,
+      "end": 12.16,
+      "n_words": 4,
+      "start_frame": 263,
+      "end_frame": 304,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chào em, làm gì mà ăn mặc buồn hiu vậy?",
+      "start": 12.16,
+      "end": 15.12,
+      "n_words": 10,
+      "start_frame": 304,
+      "end_frame": 378,
+      "keyframes": [
+        "000314.webp",
+        "000329.webp",
+        "000330.webp",
+        "000352.webp",
+        "000375.webp",
+        "000376.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Em phải ăn cho hết.",
+      "start": 15.12,
+      "end": 18.8,
+      "n_words": 5,
+      "start_frame": 378,
+      "end_frame": 470,
+      "keyframes": [
+        "000390.webp",
+        "000404.webp",
+        "000405.webp",
+        "000436.webp",
+        "000468.webp",
+        "000469.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Trời ơi, sao vậy?",
+      "start": 18.8,
+      "end": 19.96,
+      "n_words": 4,
+      "start_frame": 470,
+      "end_frame": 499,
+      "keyframes": [
+        "000498.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Quyết tâm, quyết tâm, quyết tâm giảm cân.",
+      "start": 19.96,
+      "end": 21.88,
+      "n_words": 8,
+      "start_frame": 499,
+      "end_frame": 547,
+      "keyframes": [
+        "000527.webp",
+        "000528.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ăn Tết em ăn không vậy?",
+      "start": 21.88,
+      "end": 24.36,
+      "n_words": 6,
+      "start_frame": 547,
+      "end_frame": 609,
+      "keyframes": [
+        "000552.webp",
+        "000577.webp",
+        "000578.webp",
+        "000602.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Nguy hiểm lắm.",
+      "start": 24.36,
+      "end": 25.32,
+      "n_words": 3,
+      "start_frame": 609,
+      "end_frame": 633,
+      "keyframes": [
+        "000626.webp",
+        "000627.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Anh nghĩ mình nên làm một món này đi, từ thơm nè, đảm bảo không tăng cân nhưng mà đầy đủ dinh dưỡng nha.",
+      "start": 25.32,
+      "end": 32.56,
+      "n_words": 24,
+      "start_frame": 633,
+      "end_frame": 814,
+      "keyframes": [
+        "000660.webp",
+        "000693.webp",
+        "000694.webp",
+        "000706.webp",
+        "000718.webp",
+        "000719.webp",
+        "000738.webp",
+        "000757.webp",
+        "000758.webp",
+        "000785.webp",
+        "000813.webp",
+        "000814.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Bây giờ vô bếp phụ anh làm một món ăn từ thơm đi.",
+      "start": 32.56,
+      "end": 35.6,
+      "n_words": 13,
+      "start_frame": 814,
+      "end_frame": 890,
+      "keyframes": [
+        "000814.webp",
+        "000855.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Dạ rồi.",
+      "start": 35.92,
+      "end": 36.72,
+      "n_words": 2,
+      "start_frame": 898,
+      "end_frame": 918,
+      "keyframes": [
+        "000913.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Mời em salad trái thơm, chua ngọt hài hòa.",
+      "start": 36.72,
+      "end": 58.24,
+      "n_words": 9,
+      "start_frame": 918,
+      "end_frame": 1456,
+      "keyframes": [
+        "000929.webp",
+        "000930.webp",
+        "000954.webp",
+        "000979.webp",
+        "000980.webp",
+        "001021.webp",
+        "001062.webp",
+        "001063.webp",
+        "001083.webp",
+        "001104.webp",
+        "001119.webp",
+        "001160.webp",
+        "001201.webp",
+        "001216.webp",
+        "001251.webp",
+        "001286.webp",
+        "001287.webp",
+        "001373.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Rất vui khi được gặp lại các bạn đang xem chương trình Món ngon mỗi ngày.",
+      "start": 58.24,
+      "end": 61.48,
+      "n_words": 16,
+      "start_frame": 1456,
+      "end_frame": 1537,
+      "keyframes": [
+        "001460.webp",
+        "001461.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam. Và thưa các bạn, đối với món này thì rất là lạ nha các bạn nha.",
+      "start": 61.48,
+      "end": 68.76,
+      "n_words": 27,
+      "start_frame": 1537,
+      "end_frame": 1719,
+      "keyframes": [
+        "001611.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta có thịt bò nè.",
+      "start": 68.76,
+      "end": 70.52,
+      "n_words": 6,
+      "start_frame": 1719,
+      "end_frame": 1763,
+      "keyframes": [
+        "001761.webp",
+        "001762.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đầu tiên chúng ta cho vào đây một muỗng cà phê tỏi băm, một muỗng cà phê nước tương Phú Sĩ, một ít tiêu cho thơm các bạn, một chút dầu ăn, ướp thêm dầu ăn vào để cho thịt bò bóng bẩy và không bị khô.",
+      "start": 70.52,
+      "end": 81.16,
+      "n_words": 47,
+      "start_frame": 1763,
+      "end_frame": 2029,
+      "keyframes": [
+        "001794.webp",
+        "001827.webp",
+        "001828.webp",
+        "001860.webp",
+        "001893.webp",
+        "001894.webp",
+        "001912.webp",
+        "001930.webp",
+        "001931.webp",
+        "001950.webp",
+        "001970.webp",
+        "001971.webp",
+        "002005.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Đúng không anh?",
+      "start": 81.16,
+      "end": 81.76,
+      "n_words": 3,
+      "start_frame": 2029,
+      "end_frame": 2044,
+      "keyframes": [
+        "002039.webp",
+        "002040.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Hoàn toàn chính xác.",
+      "start": 81.76,
+      "end": 82.76,
+      "n_words": 4,
+      "start_frame": 2044,
+      "end_frame": 2069,
+      "keyframes": [
+        "002054.webp",
+        "002069.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Phần thịt bò hôm nay thì anh Vũ chọn loại thịt gì ạ?",
+      "start": 82.76,
+      "end": 86.32,
+      "n_words": 13,
+      "start_frame": 2069,
+      "end_frame": 2158,
+      "keyframes": [
+        "002069.webp",
+        "002070.webp",
+        "002110.webp",
+        "002150.webp",
+        "002151.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chúng ta mua thịt, các bạn bật lên một cái chảo, rồi phần thơm chúng ta cắt bỏ cái cùi đi.",
+      "start": 86.32,
+      "end": 92.64,
+      "n_words": 21,
+      "start_frame": 2158,
+      "end_frame": 2316,
+      "keyframes": [
+        "002169.webp",
+        "002188.webp",
+        "002189.webp",
+        "002203.webp",
+        "002217.webp",
+        "002218.webp",
+        "002237.webp",
+        "002257.webp",
+        "002258.webp",
+        "002289.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Dạ đó, chúng ta cắt ra để quạt như vậy nha.",
+      "start": 92.64,
+      "end": 97.2,
+      "n_words": 11,
+      "start_frame": 2316,
+      "end_frame": 2430,
+      "keyframes": [
+        "002321.webp",
+        "002322.webp",
+        "002341.webp",
+        "002361.webp",
+        "002362.webp",
+        "002397.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta cho lên chảo áp chảo luôn.",
+      "start": 97.2,
+      "end": 99.96,
+      "n_words": 8,
+      "start_frame": 2430,
+      "end_frame": 2499,
+      "keyframes": [
+        "002432.webp",
+        "002433.webp",
+        "002498.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ồ, như vậy là mình áp chảo thơm ha anh Vũ?",
+      "start": 99.96,
+      "end": 102.8,
+      "n_words": 11,
+      "start_frame": 2499,
+      "end_frame": 2570,
+      "keyframes": [
+        "002564.webp",
+        "002565.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đúng rồi, salad mà nên áp chảo thơm để dậy mùi thơm và món ăn chúng ta sẽ ngon hơn.",
+      "start": 102.8,
+      "end": 110.56,
+      "n_words": 20,
+      "start_frame": 2570,
+      "end_frame": 2764,
+      "keyframes": [
+        "002588.webp",
+        "002612.webp",
+        "002613.webp",
+        "002675.webp",
+        "002738.webp",
+        "002739.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Như vậy là áp chảo không có quá lâu đúng không anh Vũ?",
+      "start": 110.56,
+      "end": 112.72,
+      "n_words": 13,
+      "start_frame": 2764,
+      "end_frame": 2818,
+      "keyframes": [
+        "002787.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đúng vậy, có một cái mùi rất là đặc trưng.",
+      "start": 112.72,
+      "end": 114.76,
+      "n_words": 10,
+      "start_frame": 2818,
+      "end_frame": 2869,
+      "keyframes": [
+        "002836.webp",
+        "002837.webp",
+        "002857.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đúng rồi, chúng ta chừa lại với chúng ta băm nhuyễn để chúng ta trộn vào trong cái phần nước xốt luôn.",
+      "start": 114.76,
+      "end": 119.8,
+      "n_words": 22,
+      "start_frame": 2869,
+      "end_frame": 2995,
+      "keyframes": [
+        "002878.webp",
+        "002879.webp",
+        "002898.webp",
+        "002917.webp",
+        "002918.webp",
+        "002945.webp",
+        "002973.webp",
+        "002974.webp",
+        "002989.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Thơm dừa có cháy xém vàng ở hai mặt và trông như vậy, chúng ta cắt ra.",
+      "start": 119.8,
+      "end": 125.36,
+      "n_words": 17,
+      "start_frame": 2995,
+      "end_frame": 3134,
+      "keyframes": [
+        "003004.webp",
+        "003005.webp",
+        "003038.webp",
+        "003071.webp",
+        "003072.webp",
+        "003091.webp",
+        "003111.webp",
+        "003112.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Tiếp tục hành tây chúng ta cắt ra thành những miếng vừa ăn như vậy, chúng ta xào này, chúng ta cắt dày khoảng chừng 3 ly rồi chúng ta sẽ cho vào đây.",
+      "start": 125.36,
+      "end": 136.76,
+      "n_words": 34,
+      "start_frame": 3134,
+      "end_frame": 3419,
+      "keyframes": [
+        "003138.webp",
+        "003164.webp",
+        "003165.webp",
+        "003199.webp",
+        "003234.webp",
+        "003235.webp",
+        "003270.webp",
+        "003305.webp",
+        "003306.webp",
+        "003318.webp",
+        "003331.webp",
+        "003332.webp",
+        "003353.webp",
+        "003375.webp",
+        "003376.webp",
+        "003411.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Còn cà chua bi anh sẽ cắt đôi rồi xong, xà lách chúng ta cũng cắt miếng vừa ăn luôn.",
+      "start": 136.76,
+      "end": 144.32,
+      "n_words": 20,
+      "start_frame": 3419,
+      "end_frame": 3608,
+      "keyframes": [
+        "003446.webp",
+        "003447.webp",
+        "003471.webp",
+        "003495.webp",
+        "003496.webp",
+        "003525.webp",
+        "003555.webp",
+        "003556.webp",
+        "003576.webp",
+        "003597.webp",
+        "003598.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Em thấy ở đây anh Vũ có đến ba loại xà lách lận đúng không ạ?",
+      "start": 144.32,
+      "end": 148.12,
+      "n_words": 16,
+      "start_frame": 3608,
+      "end_frame": 3703,
+      "keyframes": [
+        "003673.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đúng rồi thưa các bạn, đối với món này thì để cho ngon thì chúng ta nên dùng các loại xà lách có cái lá cứng cứng tí xíu.",
+      "start": 148.12,
+      "end": 153.92,
+      "n_words": 29,
+      "start_frame": 3703,
+      "end_frame": 3848,
+      "keyframes": [
+        "003749.webp",
+        "003750.webp",
+        "003770.webp",
+        "003790.webp",
+        "003791.webp",
+        "003811.webp",
+        "003832.webp",
+        "003833.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Cắt phần cái thân ra, cắt ngắn dày để lát chúng ta trộn.",
+      "start": 153.92,
+      "end": 158.4,
+      "n_words": 13,
+      "start_frame": 3848,
+      "end_frame": 3960,
+      "keyframes": [
+        "003866.webp",
+        "003899.webp",
+        "003900.webp",
+        "003929.webp",
+        "003958.webp",
+        "003959.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đây xà lách tím, cái xà lách lá cứng ha, kia bằng iceberg đó, cắt miếng dày cắt thôi là mình đã cảm nhận được cái độ giòn.",
+      "start": 158.4,
+      "end": 168.48,
+      "n_words": 28,
+      "start_frame": 3960,
+      "end_frame": 4212,
+      "keyframes": [
+        "003992.webp",
+        "004025.webp",
+        "004026.webp",
+        "004042.webp",
+        "004058.webp",
+        "004059.webp",
+        "004120.webp",
+        "004182.webp",
+        "004183.webp",
+        "004202.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Đúng rồi, và chúng ta cũng nhớ để giữ các loại xà lách này trong tủ lạnh.",
+      "start": 168.48,
+      "end": 172.2,
+      "n_words": 17,
+      "start_frame": 4212,
+      "end_frame": 4305,
+      "keyframes": [
+        "004221.webp",
+        "004222.webp",
+        "004268.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thưa các bạn, bây giờ thì tới phần pha xốt.",
+      "start": 172.2,
+      "end": 173.96,
+      "n_words": 10,
+      "start_frame": 4305,
+      "end_frame": 4349,
+      "keyframes": [
+        "004314.webp",
+        "004315.webp",
+        "004335.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn chúng ta cho hai muỗng canh xốt, hai muỗng canh sốt mayonnaise, nửa muỗng canh tương ớt, nửa muỗng canh tương cà, một muỗng canh thơm băm, trộn đều lên.",
+      "start": 173.96,
+      "end": 182.16,
+      "n_words": 32,
+      "start_frame": 4349,
+      "end_frame": 4554,
+      "keyframes": [
+        "004355.webp",
+        "004356.webp",
+        "004391.webp",
+        "004426.webp",
+        "004427.webp",
+        "004441.webp",
+        "004455.webp",
+        "004456.webp",
+        "004473.webp",
+        "004490.webp",
+        "004491.webp",
+        "004500.webp",
+        "004509.webp",
+        "004510.webp",
+        "004522.webp",
+        "004534.webp",
+        "004535.webp",
+        "004544.webp",
+        "004553.webp",
+        "004554.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Đúng rồi, chúng ta trộn đi.",
+      "start": 182.16,
+      "end": 183.48,
+      "n_words": 6,
+      "start_frame": 4554,
+      "end_frame": 4587,
+      "keyframes": [
+        "004554.webp",
+        "004569.webp",
+        "004584.webp",
+        "004585.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ tới giai đoạn cuối cùng rồi.",
+      "start": 183.48,
+      "end": 185.44,
+      "n_words": 8,
+      "start_frame": 4587,
+      "end_frame": 4636,
+      "keyframes": [
+        "004604.webp",
+        "004623.webp",
+        "004624.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta xào thịt bò, cho vào miếng dầu xào tỏi và hành tây cho thơm trước, rồi cho hành tây vô chảo liền, rút ra để đây.",
+      "start": 185.44,
+      "end": 198.88,
+      "n_words": 28,
+      "start_frame": 4636,
+      "end_frame": 4972,
+      "keyframes": [
+        "004666.webp",
+        "004709.webp",
+        "004710.webp",
+        "004746.webp",
+        "004782.webp",
+        "004783.webp",
+        "004814.webp",
+        "004845.webp",
+        "004846.webp",
+        "004888.webp",
+        "004931.webp",
+        "004932.webp",
+        "004960.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Đó, xà lách và các loại rau củ phải giòn rồi ta cho tiếp thịt bò vô chảo thật là nhanh tay đúng không anh?",
+      "start": 198.88,
+      "end": 206.6,
+      "n_words": 25,
+      "start_frame": 4972,
+      "end_frame": 5165,
+      "keyframes": [
+        "004989.webp",
+        "004990.webp",
+        "005037.webp",
+        "005085.webp",
+        "005086.webp",
+        "005122.webp",
+        "005159.webp",
+        "005160.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Thưa các bạn, đối với món xà lách này thì chúng ta nên xào hành tây trước để qua bên, sau đó chúng ta cho thịt bò vào xào như vậy thì hành tây chín mà giữ được độ giòn nha các bạn, và khi thịt bò vừa chín tới thôi chúng ta cho hành tây vào đều như vậy, tắt lửa.",
+      "start": 206.6,
+      "end": 223.2,
+      "n_words": 62,
+      "start_frame": 5165,
+      "end_frame": 5580,
+      "keyframes": [
+        "005274.webp",
+        "005389.webp",
+        "005390.webp",
+        "005422.webp",
+        "005455.webp",
+        "005456.webp",
+        "005486.webp",
+        "005517.webp",
+        "005518.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đúng rồi, xốt đều.",
+      "start": 223.2,
+      "end": 225.0,
+      "n_words": 4,
+      "start_frame": 5580,
+      "end_frame": 5625,
+      "keyframes": [
+        "005594.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thưa các bạn, thịt bò chúng ta xào xong để còn ấm chúng ta sẽ cho vào xà lách như vậy thì xà lách sẽ ngon giòn và không bị yểu nha các bạn.",
+      "start": 225.0,
+      "end": 234.6,
+      "n_words": 34,
+      "start_frame": 5625,
+      "end_frame": 5865,
+      "keyframes": [
+        "005670.webp",
+        "005671.webp",
+        "005742.webp",
+        "005814.webp",
+        "005815.webp",
+        "005839.webp",
+        "005864.webp",
+        "005865.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Salad chúng ta để ba góc ba nơi để vung cao lên nha.",
+      "start": 234.6,
+      "end": 239.16,
+      "n_words": 13,
+      "start_frame": 5865,
+      "end_frame": 5979,
+      "keyframes": [
+        "005865.webp",
+        "005881.webp",
+        "005897.webp",
+        "005898.webp",
+        "005917.webp",
+        "005936.webp",
+        "005937.webp",
+        "005964.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Dạ, em nghĩ cái bí quyết rất là thú vị trong món salad này đó chính là cái phần thơm chúng ta áp chảo, kế đến là dưa leo cũng như là cà chua nào, thịt bò vừa ấm thôi nha các bạn.",
+      "start": 239.16,
+      "end": 249.16,
+      "n_words": 43,
+      "start_frame": 5979,
+      "end_frame": 6229,
+      "keyframes": [
+        "005991.webp",
+        "005992.webp",
+        "006038.webp",
+        "006085.webp",
+        "006086.webp",
+        "006132.webp",
+        "006179.webp",
+        "006180.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Các bạn thấy không, hành tây nó vẫn còn giòn nè mà nó không còn hăng nha, nó không còn sống nha các bạn.",
+      "start": 249.16,
+      "end": 253.36,
+      "n_words": 24,
+      "start_frame": 6229,
+      "end_frame": 6334,
+      "keyframes": [
+        "006245.webp",
+        "006310.webp",
+        "006311.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Xốt chúng ta cho vào đây, chúng ta ăn kèm, chúng ta bắt một ít chimichurri nữa, chúng ta có thể kết hợp cùng với lại salad hình theo kiểu Pháp nè và món chính là cái hồi áp chảo sốt tiêu là chúng ta sẽ có ngay một bữa ăn hoàn chỉnh.",
+      "start": 253.36,
+      "end": 264.96,
+      "n_words": 53,
+      "start_frame": 6334,
+      "end_frame": 6624,
+      "keyframes": [
+        "006341.webp",
+        "006371.webp",
+        "006372.webp",
+        "006400.webp",
+        "006428.webp",
+        "006429.webp",
+        "006445.webp",
+        "006462.webp",
+        "006463.webp",
+        "006517.webp",
+        "006572.webp",
+        "006573.webp",
+        "006598.webp",
+        "006623.webp",
+        "006624.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Nhìn cái dĩa salad đã thấy cái sự tươi mát rồi mà quan trọng hết là đầy đủ dinh dưỡng mà lại tốt cho cái việc giảm cân của em nữa.",
+      "start": 264.96,
+      "end": 272.04,
+      "n_words": 31,
+      "start_frame": 6624,
+      "end_frame": 6801,
+      "keyframes": [
+        "006624.webp",
+        "006671.webp",
+        "006718.webp",
+        "006719.webp",
+        "006757.webp",
+        "006795.webp",
+        "006796.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Một chút chua nhẹ của thơm, chút giòn ngọt của rau hòa cùng vị đậm đà của thịt bò, vị béo của sốt mayonnaise Ajinomoto, tất cả cho bạn một món ngon đủ vị.",
+      "start": 272.04,
+      "end": 282.52,
+      "n_words": 34,
+      "start_frame": 6801,
+      "end_frame": 7063,
+      "keyframes": [
+        "006832.webp",
+        "006869.webp",
+        "006884.webp",
+        "006910.webp",
+        "006936.webp",
+        "006937.webp",
+        "007000.webp",
+        "007063.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Các bạn ơi hãy thêm món salad ngày hôm nay vào danh sách những món salad yêu thích của các bạn nhé.",
+      "start": 282.52,
+      "end": 287.76,
+      "n_words": 22,
+      "start_frame": 7063,
+      "end_frame": 7194,
+      "keyframes": [
+        "007063.webp",
+        "007064.webp",
+        "007128.webp",
+        "007193.webp",
+        "007194.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và để tìm hiểu thêm công thức của những món ngon khác thì các bạn có thể vào kênh YouTube, website và fanpage của chương trình Món ngon mỗi ngày nhé.",
+      "start": 287.76,
+      "end": 295.96,
+      "n_words": 31,
+      "start_frame": 7194,
+      "end_frame": 7399,
+      "keyframes": [
+        "007194.webp",
+        "007223.webp",
+        "007252.webp",
+        "007253.webp",
+        "007313.webp",
+        "007374.webp",
+        "007375.webp"
+      ],
+      "keyframe_count": 7
+    }
+  ]
+}

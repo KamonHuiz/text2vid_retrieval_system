@@ -1,0 +1,649 @@
+{
+  "video_id": "L26_V473",
+  "fps": 25.0,
+  "n_sentences": 33,
+  "total_words": 914,
+  "sentences": [
+    {
+      "text": "Canh món ngon mỗi ngày.",
+      "start": 0.0,
+      "end": 13.0,
+      "n_words": 5,
+      "start_frame": 0,
+      "end_frame": 325,
+      "keyframes": [
+        "000000.webp",
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000085.webp",
+        "000087.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000130.webp",
+        "000155.webp",
+        "000181.webp",
+        "000182.webp",
+        "000240.webp",
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 28
+    },
+    {
+      "text": "Thanh Phương đừng có nói là nấu nước bí đao uống nha, bởi vì mấy ngày nay nắng nóng quá, mình nấu nước bí đao mình để trong tủ lạnh uống vừa thanh mát vừa đẹp da nữa.",
+      "start": 13.0,
+      "end": 22.44,
+      "n_words": 38,
+      "start_frame": 325,
+      "end_frame": 561,
+      "keyframes": [
+        "000358.webp",
+        "000416.webp",
+        "000417.webp",
+        "000472.webp",
+        "000527.webp",
+        "000528.webp",
+        "000543.webp",
+        "000558.webp",
+        "000559.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đúng rồi, bữa nay chúng ta sẽ nấu cái món nước bí đao và tặng kèm thêm một món nữa là món canh bí xanh với gà.",
+      "start": 22.44,
+      "end": 29.64,
+      "n_words": 27,
+      "start_frame": 561,
+      "end_frame": 741,
+      "keyframes": [
+        "000581.webp",
+        "000603.webp",
+        "000604.webp",
+        "000646.webp",
+        "000689.webp",
+        "000690.webp",
+        "000722.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Bởi vì cái lượng natri trong bí đao rất là thấp, vừa mát và vừa giải quyết được cái vấn đề bị mụn nữa, bởi vì natri nhiều sẽ dẫn tới mụn và nóng.",
+      "start": 29.64,
+      "end": 38.2,
+      "n_words": 34,
+      "start_frame": 741,
+      "end_frame": 955,
+      "keyframes": [
+        "000755.webp",
+        "000756.webp",
+        "000783.webp",
+        "000811.webp",
+        "000812.webp",
+        "000857.webp",
+        "000903.webp",
+        "000904.webp",
+        "000928.webp",
+        "000953.webp",
+        "000954.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Hay quá trời ơi, ý kiến quá hay luôn á, vừa được uống nước nè ha, vừa được món canh ngon mà xin nấu tặng vậy thôi.",
+      "start": 38.2,
+      "end": 44.96,
+      "n_words": 27,
+      "start_frame": 955,
+      "end_frame": 1124,
+      "keyframes": [
+        "000995.webp",
+        "001037.webp",
+        "001038.webp",
+        "001076.webp",
+        "001115.webp",
+        "001116.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ mình làm liền đi, nấu liền luôn canh gà bí xanh ngọt mát trong lành.",
+      "start": 44.96,
+      "end": 68.28,
+      "n_words": 17,
+      "start_frame": 1124,
+      "end_frame": 1707,
+      "keyframes": [
+        "001135.webp",
+        "001154.webp",
+        "001155.webp",
+        "001176.webp",
+        "001197.webp",
+        "001198.webp",
+        "001222.webp",
+        "001247.webp",
+        "001248.webp",
+        "001281.webp",
+        "001315.webp",
+        "001316.webp",
+        "001365.webp",
+        "001415.webp",
+        "001433.webp",
+        "001480.webp",
+        "001528.webp",
+        "001529.webp",
+        "001616.webp",
+        "001704.webp",
+        "001705.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Chào các bạn khán giả đến với chương trình Món ngon mỗi ngày được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 68.28,
+      "end": 73.72,
+      "n_words": 22,
+      "start_frame": 1707,
+      "end_frame": 1843,
+      "keyframes": [
+        "001776.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Phần đầu tiên thì chúng ta sẽ mua gà về, làm sạch và chúng ta chặt miếng vừa ăn tùy thích ở gia đình chúng ta.",
+      "start": 73.72,
+      "end": 80.0,
+      "n_words": 26,
+      "start_frame": 1843,
+      "end_frame": 2000,
+      "keyframes": [
+        "001847.webp",
+        "001848.webp",
+        "001876.webp",
+        "001905.webp",
+        "001906.webp",
+        "001954.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và bây giờ chúng ta sẽ ướp phần gà này: nửa muỗng cà phê muối, nửa muỗng cà phê tiêu và một muỗng canh hạt nêm Ajinomoto ngon gà.",
+      "start": 80.0,
+      "end": 88.36,
+      "n_words": 29,
+      "start_frame": 2000,
+      "end_frame": 2209,
+      "keyframes": [
+        "002003.webp",
+        "002004.webp",
+        "002032.webp",
+        "002061.webp",
+        "002062.webp",
+        "002080.webp",
+        "002099.webp",
+        "002100.webp",
+        "002124.webp",
+        "002149.webp",
+        "002150.webp",
+        "002175.webp",
+        "002201.webp",
+        "002202.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Chúng ta sẽ trộn cái phần hỗn hợp này lên.",
+      "start": 88.36,
+      "end": 91.2,
+      "n_words": 10,
+      "start_frame": 2209,
+      "end_frame": 2280,
+      "keyframes": [
+        "002236.webp",
+        "002270.webp",
+        "002271.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Gà thì mình sẽ ướp trong bao lâu thì thấm vị?",
+      "start": 91.2,
+      "end": 93.44,
+      "n_words": 11,
+      "start_frame": 2280,
+      "end_frame": 2336,
+      "keyframes": [
+        "002303.webp",
+        "002335.webp",
+        "002336.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đối với phần gà hôm nay thì xin chặt nó hơi to hơn bình thường một xíu, cho nên là chúng ta sẽ ướp tầm khoảng 15 tới 20 phút là miếng gà đã vừa thấm rồi.",
+      "start": 93.44,
+      "end": 101.12,
+      "n_words": 37,
+      "start_frame": 2336,
+      "end_frame": 2528,
+      "keyframes": [
+        "002336.webp",
+        "002408.webp",
+        "002481.webp",
+        "002482.webp",
+        "002506.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ cất gà qua một bên và chuẩn bị tới cái phần quan trọng nhất ngày hôm nay đó là bí xanh.",
+      "start": 101.12,
+      "end": 105.96,
+      "n_words": 26,
+      "start_frame": 2528,
+      "end_frame": 2649,
+      "keyframes": [
+        "002530.webp",
+        "002531.webp",
+        "002589.webp",
+        "002648.webp",
+        "002649.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Món này chúng ta nên mua bí già thì món canh sẽ ngon hơn.",
+      "start": 105.96,
+      "end": 109.84,
+      "n_words": 14,
+      "start_frame": 2649,
+      "end_frame": 2746,
+      "keyframes": [
+        "002649.webp",
+        "002698.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Khi sử dụng bí già thì chúng ta nên loại bỏ phần hột bên trong để món canh không bị cứng và chua nha.",
+      "start": 109.84,
+      "end": 114.72,
+      "n_words": 24,
+      "start_frame": 2746,
+      "end_frame": 2868,
+      "keyframes": [
+        "002748.webp",
+        "002749.webp",
+        "002809.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ cắt dọc như vầy, chúng ta sẽ cắt lại miếng vừa ăn.",
+      "start": 114.72,
+      "end": 123.36,
+      "n_words": 17,
+      "start_frame": 2868,
+      "end_frame": 3084,
+      "keyframes": [
+        "002869.webp",
+        "002870.webp",
+        "002895.webp",
+        "002921.webp",
+        "002922.webp",
+        "002938.webp",
+        "002954.webp",
+        "002955.webp",
+        "002985.webp",
+        "003016.webp",
+        "003017.webp",
+        "003036.webp",
+        "003056.webp",
+        "003057.webp",
+        "003073.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Để cho món canh này có thêm màu sắc thì xin cũng có chuẩn bị sử dụng thêm một ít cà rốt nữa thì chúng ta sẽ tỉa hoa đơn giản thôi, và phần cuối cùng thì chúng ta chỉ cần cắt cái phần hành lá và ngò rí thôi.",
+      "start": 123.36,
+      "end": 140.16,
+      "n_words": 50,
+      "start_frame": 3084,
+      "end_frame": 3504,
+      "keyframes": [
+        "003090.webp",
+        "003091.webp",
+        "003113.webp",
+        "003135.webp",
+        "003136.webp",
+        "003151.webp",
+        "003166.webp",
+        "003167.webp",
+        "003205.webp",
+        "003244.webp",
+        "003245.webp",
+        "003280.webp",
+        "003316.webp",
+        "003317.webp",
+        "003350.webp",
+        "003384.webp",
+        "003385.webp",
+        "003402.webp",
+        "003419.webp",
+        "003420.webp",
+        "003490.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Bây giờ xin cần một cái nồi và bây giờ chúng ta cần hai muỗng canh dầu ăn.",
+      "start": 140.16,
+      "end": 155.8,
+      "n_words": 18,
+      "start_frame": 3504,
+      "end_frame": 3895,
+      "keyframes": [
+        "003561.webp",
+        "003562.webp",
+        "003626.webp",
+        "003691.webp",
+        "003692.webp",
+        "003714.webp",
+        "003736.webp",
+        "003737.webp",
+        "003761.webp",
+        "003786.webp",
+        "003787.webp",
+        "003799.webp",
+        "003811.webp",
+        "003812.webp",
+        "003857.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Và bây giờ dầu cũng đã nóng rồi thì chúng ta sẽ xào thơm cái phần hành tím này với hai muỗng canh dầu ăn khi nãy.",
+      "start": 155.8,
+      "end": 163.36,
+      "n_words": 27,
+      "start_frame": 3895,
+      "end_frame": 4084,
+      "keyframes": [
+        "003902.webp",
+        "003903.webp",
+        "003919.webp",
+        "003935.webp",
+        "003936.webp",
+        "003968.webp",
+        "004000.webp",
+        "004001.webp",
+        "004042.webp",
+        "004084.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Cho cái phần thịt gà chúng ta đã ướp khi nãy vào và xào thịt gà trước khi nấu để miếng thịt gà được thấm vị và ngon hơn.",
+      "start": 163.36,
+      "end": 170.56,
+      "n_words": 29,
+      "start_frame": 4084,
+      "end_frame": 4264,
+      "keyframes": [
+        "004084.webp",
+        "004085.webp",
+        "004124.webp",
+        "004164.webp",
+        "004165.webp",
+        "004196.webp",
+        "004227.webp",
+        "004228.webp",
+        "004245.webp",
+        "004262.webp",
+        "004263.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Khi thịt gà săn lên thì chúng ta cần khoảng 1.2 lít nước cho món canh này, vừa săn lên là mình cho nước vào luôn.",
+      "start": 170.56,
+      "end": 178.0,
+      "n_words": 26,
+      "start_frame": 4264,
+      "end_frame": 4450,
+      "keyframes": [
+        "004311.webp",
+        "004359.webp",
+        "004360.webp",
+        "004409.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đúng rồi, khi mà gà vừa săn lên thì chúng ta sẽ cho nước vào và chúng ta sẽ đợi sôi lên, và chúng ta vớt bọt một lần nữa, và chúng ta sẽ cho bí xanh, cà rốt và nêm nếm lại một lần nữa là món ăn chúng ta sẽ hoàn thành.",
+      "start": 178.0,
+      "end": 189.4,
+      "n_words": 54,
+      "start_frame": 4450,
+      "end_frame": 4735,
+      "keyframes": [
+        "004459.webp",
+        "004460.webp",
+        "004508.webp",
+        "004556.webp",
+        "004557.webp",
+        "004584.webp",
+        "004612.webp",
+        "004613.webp",
+        "004671.webp",
+        "004730.webp",
+        "004731.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Wow, một cái món ngon mà thực hiện dễ quá đi, còn đẹp nữa.",
+      "start": 189.4,
+      "end": 194.04,
+      "n_words": 14,
+      "start_frame": 4735,
+      "end_frame": 4851,
+      "keyframes": [
+        "004789.webp",
+        "004848.webp",
+        "004849.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và bây giờ thì chúng ta sẽ tiếp tục cho phần bí xanh và cà rốt đã chuẩn bị.",
+      "start": 194.04,
+      "end": 198.48,
+      "n_words": 19,
+      "start_frame": 4851,
+      "end_frame": 4962,
+      "keyframes": [
+        "004904.webp",
+        "004959.webp",
+        "004960.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Phương để ý thấy là các cái phần mà khối bí xanh với lại cà rốt, á mình cố tình là cắt nó không có đều nhau bởi vì cà rốt thì lâu chín hơn, như vậy thì khi mà mình nấu thì nó sẽ chín đồng đều hơn đúng không?",
+      "start": 198.48,
+      "end": 208.96,
+      "n_words": 51,
+      "start_frame": 4962,
+      "end_frame": 5224,
+      "keyframes": [
+        "005044.webp",
+        "005129.webp",
+        "005130.webp",
+        "005180.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đúng rồi, xin bỏ một lượt vào cho nên cái phần bí xanh nó sẽ dễ chín và dễ mềm hơn cái cà rốt, cho nên phần cà rốt chúng ta sẽ cắt mỏng hơn và cái cỡ nó sẽ nhỏ hơn chút xíu.",
+      "start": 208.96,
+      "end": 216.56,
+      "n_words": 44,
+      "start_frame": 5224,
+      "end_frame": 5414,
+      "keyframes": [
+        "005230.webp",
+        "005231.webp",
+        "005269.webp",
+        "005307.webp",
+        "005308.webp",
+        "005362.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Và bây giờ là phần nêm cuối cùng, chúng ta cần nửa muỗng canh hạt nêm Ajinomoto ngon gà nữa nha.",
+      "start": 216.56,
+      "end": 222.12,
+      "n_words": 21,
+      "start_frame": 5414,
+      "end_frame": 5553,
+      "keyframes": [
+        "005416.webp",
+        "005417.webp",
+        "005459.webp",
+        "005502.webp",
+        "005503.webp",
+        "005553.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đợi nước sôi lại, bí vừa mềm tới và chúng ta múc ca tô bỏ rau nêm và hành phi lên là chúng ta đã có một món canh thanh mát, ăn thả ga mà không lo bị mụn nữa nha.",
+      "start": 222.12,
+      "end": 234.48,
+      "n_words": 41,
+      "start_frame": 5553,
+      "end_frame": 5862,
+      "keyframes": [
+        "005553.webp",
+        "005603.webp",
+        "005604.webp",
+        "005654.webp",
+        "005704.webp",
+        "005705.webp",
+        "005755.webp",
+        "005806.webp",
+        "005807.webp",
+        "005831.webp",
+        "005856.webp",
+        "005857.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Đợi sôi bí cũng đã mềm thì bây giờ chúng ta chỉ cần múc ra tô và để rau nêm vô thôi.",
+      "start": 234.48,
+      "end": 240.08,
+      "n_words": 22,
+      "start_frame": 5862,
+      "end_frame": 6002,
+      "keyframes": [
+        "005912.webp",
+        "005967.webp",
+        "005968.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nhanh trong tích tắc luôn, chúng ta đã có một cái món canh cực kỳ hấp dẫn các bạn ơi.",
+      "start": 240.08,
+      "end": 244.36,
+      "n_words": 20,
+      "start_frame": 6002,
+      "end_frame": 6109,
+      "keyframes": [
+        "006032.webp",
+        "006096.webp",
+        "006097.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bí xanh nhìn tươi mát ngon quá ha, rất là xanh luôn.",
+      "start": 244.36,
+      "end": 250.68,
+      "n_words": 12,
+      "start_frame": 6109,
+      "end_frame": 6267,
+      "keyframes": [
+        "006128.webp",
+        "006160.webp",
+        "006161.webp",
+        "006182.webp",
+        "006203.webp",
+        "006204.webp",
+        "006238.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Rồi bây giờ chúng ta cho một ít hành lá nữa, trời ơi một cái món canh nó nhiều màu sắc trông ngon quá, xíu hành phi tuyệt vời và chúng ta sẽ có một ít tiêu trên mặt cho thơm nữa là xong tô canh gà nóng hổi thơm dịu, thịt gà thì mềm thơm, thấm vị, bí xanh vừa chín tới, nước canh thì vừa ngọt vừa thơm vị gà sảng khoái.",
+      "start": 250.68,
+      "end": 275.48,
+      "n_words": 74,
+      "start_frame": 6267,
+      "end_frame": 6887,
+      "keyframes": [
+        "006272.webp",
+        "006273.webp",
+        "006307.webp",
+        "006342.webp",
+        "006343.webp",
+        "006496.webp",
+        "006649.webp",
+        "006650.webp",
+        "006698.webp",
+        "006747.webp",
+        "006765.webp",
+        "006789.webp",
+        "006814.webp",
+        "006815.webp",
+        "006862.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Không ngờ mùa hè nóng bức đã có canh gà bí xanh, các bạn nhớ nấu thử nha và đừng quên chia sẻ cảm nhận về chương trình.",
+      "start": 275.48,
+      "end": 283.52,
+      "n_words": 28,
+      "start_frame": 6887,
+      "end_frame": 7088,
+      "keyframes": [
+        "006909.webp",
+        "006910.webp",
+        "006990.webp",
+        "007070.webp",
+        "007071.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

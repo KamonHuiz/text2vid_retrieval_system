@@ -1,0 +1,718 @@
+{
+  "video_id": "L26_V102",
+  "fps": 25.0,
+  "n_sentences": 39,
+  "total_words": 954,
+  "sentences": [
+    {
+      "text": "Chào món ngon mỗi ngày.",
+      "start": 0.04,
+      "end": 12.08,
+      "n_words": 5,
+      "start_frame": 1,
+      "end_frame": 302,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000130.webp",
+        "000147.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp"
+      ],
+      "keyframe_count": 36
+    },
+    {
+      "text": "Bánh kẹp sốt đậu gà thơm bùi, quyện sánh, vị ngon ấn tượng.",
+      "start": 12.08,
+      "end": 33.84,
+      "n_words": 13,
+      "start_frame": 302,
+      "end_frame": 846,
+      "keyframes": [
+        "000363.webp",
+        "000427.webp",
+        "000428.webp",
+        "000508.webp",
+        "000588.webp",
+        "000593.webp",
+        "000632.webp",
+        "000672.webp",
+        "000673.webp",
+        "000763.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Chào mừng các bạn đang đến với chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành.",
+      "start": 33.84,
+      "end": 38.56,
+      "n_words": 17,
+      "start_frame": 846,
+      "end_frame": 964,
+      "keyframes": [
+        "000853.webp",
+        "000854.webp",
+        "000964.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 38.56,
+      "end": 42.92,
+      "n_words": 11,
+      "start_frame": 964,
+      "end_frame": 1073,
+      "keyframes": [
+        "000964.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Em chào cô Hà Minh.",
+      "start": 42.92,
+      "end": 44.36,
+      "n_words": 5,
+      "start_frame": 1073,
+      "end_frame": 1109,
+      "keyframes": [
+        "001074.webp",
+        "001075.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Hôm nay làm bánh không biết là cô làm bánh gì để mà gửi tặng cho mọi người đây?",
+      "start": 44.64,
+      "end": 50.4,
+      "n_words": 19,
+      "start_frame": 1116,
+      "end_frame": 1260,
+      "keyframes": [
+        "001148.webp",
+        "001149.webp",
+        "001175.webp",
+        "001201.webp",
+        "001202.webp",
+        "001227.webp",
+        "001252.webp",
+        "001253.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Món bánh ngày là món bánh kẹp sốt đậu gà.",
+      "start": 50.4,
+      "end": 53.64,
+      "n_words": 10,
+      "start_frame": 1260,
+      "end_frame": 1341,
+      "keyframes": [
+        "001297.webp",
+        "001341.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cái phần sốt đậu gà là em rất là tò mò nha.",
+      "start": 53.64,
+      "end": 56.12,
+      "n_words": 12,
+      "start_frame": 1341,
+      "end_frame": 1403,
+      "keyframes": [
+        "001341.webp",
+        "001342.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Mình bắt tay mình làm thử coi là cái phần sốt này có gì cô hả?",
+      "start": 56.12,
+      "end": 59.12,
+      "n_words": 16,
+      "start_frame": 1403,
+      "end_frame": 1478,
+      "keyframes": [
+        "001409.webp",
+        "001476.webp",
+        "001477.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và để làm sốt đậu gà thì đầu tiên là Minh Tuấn giúp cô em mài cái vỏ chanh, vỏ chanh vàng kia và lấy cho cô hai muỗng canh nước cốt chanh.",
+      "start": 59.12,
+      "end": 67.76,
+      "n_words": 33,
+      "start_frame": 1478,
+      "end_frame": 1694,
+      "keyframes": [
+        "001572.webp",
+        "001667.webp",
+        "001668.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ trong lúc mà Tuấn mài vỏ chanh á thì cô Hà sẽ tranh thủ là cô Hà cắt cái quả chuối này ra và mình sẽ cho vào trong cái cối để mà chút nữa chúng ta xay, chúng ta làm phần sốt.",
+      "start": 67.76,
+      "end": 78.88,
+      "n_words": 45,
+      "start_frame": 1694,
+      "end_frame": 1972,
+      "keyframes": [
+        "001710.webp",
+        "001753.webp",
+        "001754.webp",
+        "001813.webp",
+        "001872.webp",
+        "001873.webp",
+        "001921.webp",
+        "001970.webp",
+        "001971.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Xong rồi cô ơi, mình cùng kiểm tra thành quả.",
+      "start": 78.88,
+      "end": 81.52,
+      "n_words": 10,
+      "start_frame": 1972,
+      "end_frame": 2038,
+      "keyframes": [
+        "001999.webp",
+        "002027.webp",
+        "002028.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Cắt ra cô chỉ cần hai muỗng canh nước cốt chanh là được.",
+      "start": 81.52,
+      "end": 87.6,
+      "n_words": 13,
+      "start_frame": 2038,
+      "end_frame": 2190,
+      "keyframes": [
+        "002040.webp",
+        "002053.webp",
+        "002054.webp",
+        "002080.webp",
+        "002106.webp",
+        "002107.webp",
+        "002150.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Cái phần nho này thì mình sẽ trang trí, cô Hà ơi em cắt lát một trái đi rồi ba trái em cắt đôi sẽ bỏ vào đây.",
+      "start": 87.6,
+      "end": 98.08,
+      "n_words": 28,
+      "start_frame": 2190,
+      "end_frame": 2452,
+      "keyframes": [
+        "002194.webp",
+        "002195.webp",
+        "002242.webp",
+        "002290.webp",
+        "002291.webp",
+        "002349.webp",
+        "002408.webp",
+        "002409.webp",
+        "002439.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Phần sốt này sử dụng đậu gà đã được chín hết rồi đó, sẽ lấy khoảng chừng một chén hạt đậu gà như thế này.",
+      "start": 98.08,
+      "end": 103.84,
+      "n_words": 25,
+      "start_frame": 2452,
+      "end_frame": 2596,
+      "keyframes": [
+        "002470.webp",
+        "002471.webp",
+        "002532.webp",
+        "002594.webp",
+        "002595.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Trong đậu gà có rất nhiều chất xơ và chất đạm thực vật rất tốt cho sức khỏe, bên cạnh đó còn có rất nhiều vitamin cô à, C, E, nó sẽ cung cấp cho mình vitamin, khoáng chất nè, bên cạnh đó thì mình còn có luôn cả chất xơ đó và đạm luôn.",
+      "start": 103.84,
+      "end": 117.32,
+      "n_words": 55,
+      "start_frame": 2596,
+      "end_frame": 2933,
+      "keyframes": [
+        "002622.webp",
+        "002650.webp",
+        "002651.webp",
+        "002678.webp",
+        "002705.webp",
+        "002706.webp",
+        "002751.webp",
+        "002797.webp",
+        "002798.webp",
+        "002880.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Rồi cho khoảng chừng ba muỗng canh sốt bơ mè, một muỗng cà phê vỏ chanh mài, cùng với lại hai muỗng canh nước cốt chanh.",
+      "start": 118.2,
+      "end": 126.28,
+      "n_words": 26,
+      "start_frame": 2955,
+      "end_frame": 3157,
+      "keyframes": [
+        "002962.webp",
+        "002963.webp",
+        "003000.webp",
+        "003037.webp",
+        "003038.webp",
+        "003061.webp",
+        "003084.webp",
+        "003085.webp",
+        "003122.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Và trong quá trình xay á các bạn thì chúng ta sẽ cho thêm một ít cái nước ở trong cái hộp đậu gà, chúng ta sẽ cho từ từ vô để cho cái hỗn hợp sốt này nó không có quá đặc.",
+      "start": 126.28,
+      "end": 135.84,
+      "n_words": 43,
+      "start_frame": 3157,
+      "end_frame": 3396,
+      "keyframes": [
+        "003160.webp",
+        "003161.webp",
+        "003208.webp",
+        "003255.webp",
+        "003256.webp",
+        "003324.webp",
+        "003393.webp",
+        "003394.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Ở đây thì chúng ta sẽ có khoảng chừng nửa chén dầu ô liu, mình sẽ cho vô từ từ thôi chứ không có cho một lần.",
+      "start": 135.84,
+      "end": 141.6,
+      "n_words": 27,
+      "start_frame": 3396,
+      "end_frame": 3540,
+      "keyframes": [
+        "003431.webp",
+        "003469.webp",
+        "003470.webp",
+        "003512.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Trong món ăn này chúng ta chọn dầu ô liu Extra Virgin là loại dầu ép lạnh nguyên chất rất tốt cho sức khỏe.",
+      "start": 141.6,
+      "end": 152.16,
+      "n_words": 24,
+      "start_frame": 3540,
+      "end_frame": 3804,
+      "keyframes": [
+        "003554.webp",
+        "003555.webp",
+        "003627.webp",
+        "003699.webp",
+        "003700.webp",
+        "003737.webp",
+        "003774.webp",
+        "003775.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Mới xay như vậy thôi và nó ra mùi rất thơm luôn.",
+      "start": 152.16,
+      "end": 154.84,
+      "n_words": 12,
+      "start_frame": 3804,
+      "end_frame": 3871,
+      "keyframes": [
+        "003822.webp",
+        "003870.webp",
+        "003871.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Sẽ kiểm tra các thành phần nguyên liệu sau cùng của mình đó: chúng ta thêm chuối vào trong sốt để tạo độ thơm ngon dinh dưỡng cũng như là độ sánh cho sốt các bạn nhé.",
+      "start": 154.84,
+      "end": 163.68,
+      "n_words": 37,
+      "start_frame": 3871,
+      "end_frame": 4092,
+      "keyframes": [
+        "003871.webp",
+        "003888.webp",
+        "003906.webp",
+        "003907.webp",
+        "003925.webp",
+        "003943.webp",
+        "003944.webp",
+        "004017.webp",
+        "004091.webp",
+        "004092.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Sau khi mà chúng ta xay cái nguyên liệu nó vừa nhuyễn á thì chúng ta sẽ nêm thêm vào đây là một phần tư muỗng cà phê muối và một phần tư muỗng cà phê tiêu, rồi sau đó chúng ta tiếp tục xay cho cái hỗn hợp này thật là nhuyễn, thật là nhuyễn.",
+      "start": 163.68,
+      "end": 175.84,
+      "n_words": 56,
+      "start_frame": 4092,
+      "end_frame": 4396,
+      "keyframes": [
+        "004092.webp",
+        "004142.webp",
+        "004192.webp",
+        "004193.webp",
+        "004209.webp",
+        "004225.webp",
+        "004226.webp",
+        "004242.webp",
+        "004258.webp",
+        "004259.webp",
+        "004270.webp",
+        "004281.webp",
+        "004282.webp",
+        "004296.webp",
+        "004310.webp",
+        "004311.webp",
+        "004353.webp",
+        "004395.webp",
+        "004396.webp"
+      ],
+      "keyframe_count": 19
+    },
+    {
+      "text": "Tiếp theo thì vẫn là phần làm bánh rán rất là quen thuộc.",
+      "start": 175.84,
+      "end": 179.04,
+      "n_words": 13,
+      "start_frame": 4396,
+      "end_frame": 4476,
+      "keyframes": [
+        "004396.webp",
+        "004436.webp",
+        "004476.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúng ta sẽ sử dụng bột bánh rán pha sẵn vị truyền thống một gói 200 gram, mình pha với lại 140 ml nước như trên bao bì đã hướng dẫn.",
+      "start": 179.04,
+      "end": 187.92,
+      "n_words": 31,
+      "start_frame": 4476,
+      "end_frame": 4698,
+      "keyframes": [
+        "004476.webp",
+        "004477.webp",
+        "004531.webp",
+        "004586.webp",
+        "004587.webp",
+        "004642.webp",
+        "004697.webp",
+        "004698.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Thì trong lúc đó thì chắc là Minh Tuấn sẽ giúp chuẩn bị cho cô một cái chảo để mình đổ vào cái khăn để mình hạ nhiệt đó Tuấn hả?",
+      "start": 187.92,
+      "end": 194.68,
+      "n_words": 31,
+      "start_frame": 4698,
+      "end_frame": 4867,
+      "keyframes": [
+        "004698.webp",
+        "004752.webp",
+        "004807.webp",
+        "004808.webp",
+        "004837.webp",
+        "004867.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sau khi mà chảo nóng rồi thì giờ chúng ta sẽ hạ nhiệt cho chảo bằng cách là đặt cái chảo lên trên cái khăn ẩm khoảng 10 giây, sau đó đặt lại lên trên bếp và chúng ta bắt đầu cho bột vào.",
+      "start": 194.68,
+      "end": 208.28,
+      "n_words": 44,
+      "start_frame": 4867,
+      "end_frame": 5207,
+      "keyframes": [
+        "004867.webp",
+        "004868.webp",
+        "004885.webp",
+        "004903.webp",
+        "004904.webp",
+        "004927.webp",
+        "004951.webp",
+        "004952.webp",
+        "004993.webp",
+        "005034.webp",
+        "005035.webp",
+        "005081.webp",
+        "005128.webp",
+        "005129.webp",
+        "005176.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Quá đẹp rồi đó, mình lấy bánh ra hả?",
+      "start": 208.28,
+      "end": 219.84,
+      "n_words": 9,
+      "start_frame": 5207,
+      "end_frame": 5496,
+      "keyframes": [
+        "005223.webp",
+        "005224.webp",
+        "005265.webp",
+        "005306.webp",
+        "005307.webp",
+        "005338.webp",
+        "005369.webp",
+        "005370.webp",
+        "005405.webp",
+        "005440.webp",
+        "005441.webp",
+        "005482.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Cứ như vậy thì chúng ta sẽ lần lượt đổ cho đến khi hết bột.",
+      "start": 219.84,
+      "end": 226.68,
+      "n_words": 15,
+      "start_frame": 5496,
+      "end_frame": 5667,
+      "keyframes": [
+        "005523.webp",
+        "005524.webp",
+        "005573.webp",
+        "005623.webp",
+        "005624.webp",
+        "005648.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ thì chúng ta sẽ trang trí bánh ra hả?",
+      "start": 226.68,
+      "end": 229.24,
+      "n_words": 11,
+      "start_frame": 5667,
+      "end_frame": 5731,
+      "keyframes": [
+        "005673.webp",
+        "005674.webp",
+        "005703.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đầu tiên là mình sẽ đặt lên đây một cái bánh, cho thêm cái phần sốt đậu gà lên, mà đẹp, đặt thêm một lớp bánh nữa.",
+      "start": 229.24,
+      "end": 247.36,
+      "n_words": 27,
+      "start_frame": 5731,
+      "end_frame": 6184,
+      "keyframes": [
+        "005733.webp",
+        "005734.webp",
+        "005766.webp",
+        "005798.webp",
+        "005799.webp",
+        "005842.webp",
+        "005886.webp",
+        "005887.webp",
+        "005942.webp",
+        "005998.webp",
+        "005999.webp",
+        "006036.webp",
+        "006073.webp",
+        "006074.webp",
+        "006124.webp",
+        "006175.webp",
+        "006176.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Có một cái lớp sốt giữ cái phần nho này cố định nho, đặt lên quá đẹp luôn cô ơi.",
+      "start": 247.36,
+      "end": 259.4,
+      "n_words": 20,
+      "start_frame": 6184,
+      "end_frame": 6485,
+      "keyframes": [
+        "006224.webp",
+        "006273.webp",
+        "006274.webp",
+        "006300.webp",
+        "006326.webp",
+        "006327.webp",
+        "006362.webp",
+        "006397.webp",
+        "006398.webp",
+        "006443.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Rồi tiếp theo thì chúng ta sẽ cùng đến với lại cái phần kem, mình sẽ rắc lên đây một ít cốm màu.",
+      "start": 259.4,
+      "end": 268.84,
+      "n_words": 23,
+      "start_frame": 6485,
+      "end_frame": 6721,
+      "keyframes": [
+        "006489.webp",
+        "006490.webp",
+        "006520.webp",
+        "006551.webp",
+        "006552.webp",
+        "006605.webp",
+        "006659.webp",
+        "006660.webp",
+        "006693.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đó mọi người thấy hấp dẫn không? Như là một món ở trong nhà hàng năm sao luôn.",
+      "start": 268.84,
+      "end": 273.4,
+      "n_words": 18,
+      "start_frame": 6721,
+      "end_frame": 6835,
+      "keyframes": [
+        "006727.webp",
+        "006728.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và bên cạnh một món nhà hàng năm sao như thế này là có một cái mã QR của chương trình. Chúng ta quét mã này sẽ có công thức nấu ăn của ngày hôm nay để các bạn làm tại nhà nha. Và với món ăn này thì các bạn nên kết hợp với kem vị trà matcha plant-based.",
+      "start": 273.4,
+      "end": 286.52,
+      "n_words": 60,
+      "start_frame": 6835,
+      "end_frame": 7163,
+      "keyframes": [
+        "006949.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Sốt có màu vàng sáng, sánh mịn, vị bùi của đậu gà và hương thơm nhè nhẹ của chuối hòa cùng với bánh rán xốp mềm, vị ngon tan trên đầu lưỡi.",
+      "start": 287.12,
+      "end": 298.92,
+      "n_words": 32,
+      "start_frame": 7178,
+      "end_frame": 7473,
+      "keyframes": [
+        "007226.webp",
+        "007282.webp",
+        "007283.webp",
+        "007331.webp",
+        "007380.webp",
+        "007381.webp",
+        "007431.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Không phải món tráng miệng nào thì cũng làm cho chúng ta bị béo lên đâu ạ, chỉ cần một chút khéo léo tự làm món tráng miệng của riêng mình, chúng ta sẽ có một món tráng miệng rất dinh dưỡng dành cho cả gia đình.",
+      "start": 298.92,
+      "end": 308.24,
+      "n_words": 47,
+      "start_frame": 7473,
+      "end_frame": 7706,
+      "keyframes": [
+        "007481.webp",
+        "007482.webp",
+        "007594.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Công thức sẽ luôn có trên YouTube, website và fanpage của chương trình Món ngon mỗi ngày để các bạn tham khảo và làm tại nhà.",
+      "start": 308.24,
+      "end": 314.2,
+      "n_words": 26,
+      "start_frame": 7706,
+      "end_frame": 7855,
+      "keyframes": [
+        "007707.webp",
+        "007708.webp",
+        "007796.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chúc các bạn thành công.",
+      "start": 314.2,
+      "end": 316.08,
+      "n_words": 5,
+      "start_frame": 7855,
+      "end_frame": 7902,
+      "keyframes": [
+        "007884.webp",
+        "007885.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

@@ -1,0 +1,829 @@
+{
+  "video_id": "L26_V209",
+  "fps": 25.0,
+  "n_sentences": 45,
+  "total_words": 1150,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày: ếch om tỏi thơm lừng.",
+      "start": 10.48,
+      "end": 30.28,
+      "n_words": 9,
+      "start_frame": 262,
+      "end_frame": 757,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000339.webp",
+        "000379.webp",
+        "000380.webp",
+        "000430.webp",
+        "000480.webp",
+        "000495.webp",
+        "000533.webp",
+        "000572.webp",
+        "000573.webp",
+        "000663.webp",
+        "000753.webp",
+        "000754.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Chào các bạn khán giả đến với chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành. Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 30.28,
+      "end": 38.64,
+      "n_words": 28,
+      "start_frame": 757,
+      "end_frame": 966,
+      "keyframes": [
+        "000861.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thịt ếch rất là giàu dinh dưỡng và có tính hàn, cho nên ngày hôm nay gia vị mà chúng ta sẽ kết hợp đó chính là tỏi thì có tính ấm.",
+      "start": 38.64,
+      "end": 46.2,
+      "n_words": 32,
+      "start_frame": 966,
+      "end_frame": 1155,
+      "keyframes": [
+        "000968.webp",
+        "000969.webp",
+        "001060.webp",
+        "001151.webp",
+        "001152.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đầu tiên thì xin đã mua được cái phần thịt ếch và sơ chế làm sạch hết rồi.",
+      "start": 46.2,
+      "end": 51.12,
+      "n_words": 18,
+      "start_frame": 1155,
+      "end_frame": 1278,
+      "keyframes": [
+        "001186.webp",
+        "001220.webp",
+        "001221.webp",
+        "001246.webp",
+        "001272.webp",
+        "001273.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Còn về phần Minh Phương thấy những nguyên liệu trước mặt, chắc ăn là Minh Phương sẽ biết làm gì rồi đúng không nào?",
+      "start": 51.12,
+      "end": 55.72,
+      "n_words": 24,
+      "start_frame": 1278,
+      "end_frame": 1393,
+      "keyframes": [
+        "001289.webp",
+        "001306.webp",
+        "001307.webp",
+        "001330.webp",
+        "001354.webp",
+        "001355.webp",
+        "001372.webp",
+        "001389.webp",
+        "001390.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Nữa, củ hành tây Phương sẽ cắt múi cau ha.",
+      "start": 55.72,
+      "end": 58.24,
+      "n_words": 10,
+      "start_frame": 1393,
+      "end_frame": 1456,
+      "keyframes": [
+        "001423.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Phần ớt sừng thì mình sẽ cắt khúc bởi vì đây là món om mà đúng không?",
+      "start": 58.24,
+      "end": 62.28,
+      "n_words": 17,
+      "start_frame": 1456,
+      "end_frame": 1557,
+      "keyframes": [
+        "001457.webp",
+        "001458.webp",
+        "001475.webp",
+        "001492.webp",
+        "001493.webp",
+        "001520.webp",
+        "001547.webp",
+        "001548.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Kế đến đó là phần sả thì mình sẽ cắt lát đúng không?",
+      "start": 62.28,
+      "end": 66.48,
+      "n_words": 13,
+      "start_frame": 1557,
+      "end_frame": 1662,
+      "keyframes": [
+        "001574.webp",
+        "001600.webp",
+        "001601.webp",
+        "001635.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Rồi chúng ta chọn cái phần sả non một chút xíu, đừng có chọn cái phần sả già quá, đúng lát chúng ta cũng sẽ có thể ăn kèm được, nó không bị quá sơ.",
+      "start": 66.48,
+      "end": 73.52,
+      "n_words": 35,
+      "start_frame": 1662,
+      "end_frame": 1838,
+      "keyframes": [
+        "001670.webp",
+        "001671.webp",
+        "001696.webp",
+        "001721.webp",
+        "001722.webp",
+        "001783.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi và bây giờ cái phần hành tím thì chúng ta sẽ cắt lát để một chút chúng ta xào cho cái phần nước sốt om chúng ta được thơm hơn nha.",
+      "start": 73.52,
+      "end": 81.36,
+      "n_words": 32,
+      "start_frame": 1838,
+      "end_frame": 2034,
+      "keyframes": [
+        "001844.webp",
+        "001845.webp",
+        "001876.webp",
+        "001907.webp",
+        "001908.webp",
+        "001946.webp",
+        "001985.webp",
+        "001986.webp",
+        "002006.webp",
+        "002026.webp",
+        "002027.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Xong phần hành tím, phần ớt sừng chúng ta sẽ nhấn nhẹ để trái ớt vừa dập rồi xé nhỏ là được rồi đó.",
+      "start": 81.36,
+      "end": 90.28,
+      "n_words": 24,
+      "start_frame": 2034,
+      "end_frame": 2257,
+      "keyframes": [
+        "002070.webp",
+        "002113.webp",
+        "002114.webp",
+        "002156.webp",
+        "002198.webp",
+        "002199.webp",
+        "002230.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Bởi vì đây là một món ếch om tỏi cho nên chúng ta sẽ sử dụng cái phần tỏi này, chúng ta nhấn nhẹ vào chút.",
+      "start": 90.28,
+      "end": 95.52,
+      "n_words": 26,
+      "start_frame": 2257,
+      "end_frame": 2388,
+      "keyframes": [
+        "002261.webp",
+        "002262.webp",
+        "002326.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn lưu ý là chúng ta chọn tỏi bóc vỏ màu tím thì tỏi sẽ ngon và thơm hơn nha.",
+      "start": 95.52,
+      "end": 100.12,
+      "n_words": 21,
+      "start_frame": 2388,
+      "end_frame": 2503,
+      "keyframes": [
+        "002390.webp",
+        "002391.webp",
+        "002425.webp",
+        "002459.webp",
+        "002460.webp",
+        "002480.webp",
+        "002500.webp",
+        "002501.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Cái phần ếch là đã được làm sạch thì bây giờ chúng ta sẽ tiến hành tẩm ướp nha: nửa muỗng cà phê hạt nêm Aji-ngon heo, có thêm một muỗng cà phê nước tương Phú Sĩ nha, một muỗng canh nước cốt tỏi nữa, thêm 1/3 muỗng cà phê tiêu nữa ha.",
+      "start": 100.12,
+      "end": 112.16,
+      "n_words": 53,
+      "start_frame": 2503,
+      "end_frame": 2804,
+      "keyframes": [
+        "002526.webp",
+        "002552.webp",
+        "002553.webp",
+        "002576.webp",
+        "002600.webp",
+        "002601.webp",
+        "002618.webp",
+        "002635.webp",
+        "002636.webp",
+        "002654.webp",
+        "002673.webp",
+        "002674.webp",
+        "002697.webp",
+        "002721.webp",
+        "002722.webp",
+        "002738.webp",
+        "002754.webp",
+        "002755.webp",
+        "002777.webp",
+        "002799.webp",
+        "002800.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ trộn đều, đợi khoảng năm phút cho ếch thấm gia vị nha.",
+      "start": 112.16,
+      "end": 116.68,
+      "n_words": 17,
+      "start_frame": 2804,
+      "end_frame": 2917,
+      "keyframes": [
+        "002858.webp",
+        "002916.webp",
+        "002917.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Xin nhờ Phương Phương chuẩn bị một cái chảo dầu để chúng ta chiên sơ cái phần tỏi.",
+      "start": 116.68,
+      "end": 120.8,
+      "n_words": 18,
+      "start_frame": 2917,
+      "end_frame": 3020,
+      "keyframes": [
+        "002917.webp",
+        "002964.webp",
+        "003012.webp",
+        "003013.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Rồi trong thời gian mà đợi dầu nóng thì Xin sẽ hướng dẫn các bạn khán giả cũng như Minh Phương pha cái phần sốt để mà chút xíu chúng ta om với lại ếch.",
+      "start": 120.8,
+      "end": 128.24,
+      "n_words": 35,
+      "start_frame": 3020,
+      "end_frame": 3206,
+      "keyframes": [
+        "003041.webp",
+        "003070.webp",
+        "003071.webp",
+        "003137.webp",
+        "003203.webp",
+        "003204.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đầu tiên thì Xin sẽ có một chén nước dừa tươi, hai muỗng canh nước tương Phú Sĩ, một muỗng canh dầu hào nữa nha, nửa muỗng canh đường, một muỗng canh tương ớt nữa nha, một muỗng cà phê dầu màu điều nữa, có thêm một muỗng cà phê bột năng để trộn đều cho cái phần sốt này tan ra hết.",
+      "start": 128.24,
+      "end": 143.04,
+      "n_words": 63,
+      "start_frame": 3206,
+      "end_frame": 3576,
+      "keyframes": [
+        "003233.webp",
+        "003262.webp",
+        "003263.webp",
+        "003280.webp",
+        "003297.webp",
+        "003298.webp",
+        "003314.webp",
+        "003330.webp",
+        "003331.webp",
+        "003348.webp",
+        "003365.webp",
+        "003366.webp",
+        "003379.webp",
+        "003393.webp",
+        "003394.webp",
+        "003411.webp",
+        "003428.webp",
+        "003429.webp",
+        "003448.webp",
+        "003467.webp",
+        "003468.webp",
+        "003490.webp",
+        "003513.webp",
+        "003514.webp",
+        "003529.webp",
+        "003544.webp",
+        "003545.webp",
+        "003559.webp",
+        "003573.webp",
+        "003574.webp"
+      ],
+      "keyframe_count": 30
+    },
+    {
+      "text": "Dầu cũng đã nóng rồi, bây giờ thì Minh Phương sẽ chiên phần tỏi này ha.",
+      "start": 143.04,
+      "end": 146.48,
+      "n_words": 16,
+      "start_frame": 3576,
+      "end_frame": 3662,
+      "keyframes": [
+        "003627.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thì Xin cũng sẽ chuẩn bị một cái chảo khác để chúng ta nấu cái phần sốt để chuẩn bị om ếch nha.",
+      "start": 146.48,
+      "end": 151.4,
+      "n_words": 23,
+      "start_frame": 3662,
+      "end_frame": 3785,
+      "keyframes": [
+        "003680.webp",
+        "003681.webp",
+        "003732.webp",
+        "003783.webp",
+        "003784.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Rồi chúng ta sẽ cho vào đây khoảng hai muỗng canh dầu ăn.",
+      "start": 151.4,
+      "end": 154.56,
+      "n_words": 13,
+      "start_frame": 3785,
+      "end_frame": 3864,
+      "keyframes": [
+        "003802.webp",
+        "003821.webp",
+        "003822.webp",
+        "003845.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Nha, tỏi cũng rất là nhanh vàng, vớt ra đĩa nè.",
+      "start": 154.56,
+      "end": 158.08,
+      "n_words": 11,
+      "start_frame": 3864,
+      "end_frame": 3952,
+      "keyframes": [
+        "003869.webp",
+        "003870.webp",
+        "003888.webp",
+        "003907.webp",
+        "003908.webp",
+        "003929.webp",
+        "003950.webp",
+        "003951.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Thì chúng ta sẽ cho tỏi vào, sả vào nè, hành tím rồi chúng ta sẽ xào đều, không cần phải vàng ha.",
+      "start": 158.08,
+      "end": 164.04,
+      "n_words": 23,
+      "start_frame": 3952,
+      "end_frame": 4101,
+      "keyframes": [
+        "003970.webp",
+        "003989.webp",
+        "003990.webp",
+        "004003.webp",
+        "004017.webp",
+        "004018.webp",
+        "004029.webp",
+        "004041.webp",
+        "004042.webp",
+        "004056.webp",
+        "004071.webp",
+        "004072.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Chúng ta sẽ cho cái phần sốt mà chúng ta đã hòa vào trong cái phần hành tím, tỏi cũng như sả này, hạ lửa nhỏ xuống và nấu riu riu khoảng năm phút.",
+      "start": 164.04,
+      "end": 171.52,
+      "n_words": 34,
+      "start_frame": 4101,
+      "end_frame": 4288,
+      "keyframes": [
+        "004143.webp",
+        "004214.webp",
+        "004215.webp",
+        "004227.webp",
+        "004240.webp",
+        "004241.webp",
+        "004263.webp",
+        "004285.webp",
+        "004286.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Và trong thời gian đợi cái phần sốt chúng ta được ngon nhất thì xin sẽ lấy cái phần ếch cho vào một muỗng canh gia vị nêm sẵn Aji-ngon, bột chiên giòn nha.",
+      "start": 171.52,
+      "end": 179.88,
+      "n_words": 34,
+      "start_frame": 4288,
+      "end_frame": 4497,
+      "keyframes": [
+        "004349.webp",
+        "004413.webp",
+        "004414.webp",
+        "004451.webp",
+        "004488.webp",
+        "004489.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Các bạn lưu ý là chúng ta áo một lớp bột trước khi chiên để ếch không bị bắn dầu và có vị ngọt của ếch nha.",
+      "start": 179.88,
+      "end": 185.88,
+      "n_words": 27,
+      "start_frame": 4497,
+      "end_frame": 4647,
+      "keyframes": [
+        "004522.webp",
+        "004555.webp",
+        "004556.webp",
+        "004600.webp",
+        "004644.webp",
+        "004645.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta sẽ chiên nhanh cái phần ếch này bởi vì mình còn một cái công đoạn om nữa đúng rồi, cho nên mình sẽ chiên thật là nhanh thôi.",
+      "start": 185.88,
+      "end": 191.6,
+      "n_words": 30,
+      "start_frame": 4647,
+      "end_frame": 4790,
+      "keyframes": [
+        "004665.webp",
+        "004685.webp",
+        "004686.webp",
+        "004714.webp",
+        "004743.webp",
+        "004744.webp",
+        "004766.webp",
+        "004789.webp",
+        "004790.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Các bạn lưu ý là chúng ta sẽ chiên sơ qua thịt ếch để phần thịt ếch được săn và thơm hơn nha.",
+      "start": 191.6,
+      "end": 196.36,
+      "n_words": 23,
+      "start_frame": 4790,
+      "end_frame": 4909,
+      "keyframes": [
+        "004790.webp",
+        "004848.webp",
+        "004906.webp",
+        "004907.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Những cái phần thịt ếch như vậy là được rồi đúng không Xin?",
+      "start": 196.36,
+      "end": 198.88,
+      "n_words": 13,
+      "start_frame": 4909,
+      "end_frame": 4972,
+      "keyframes": [
+        "004944.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đúng rồi, Xin có thể vớt ra, cái phần rìa bên ngoài nó vừa rám rám, xém xém như vậy là được.",
+      "start": 198.88,
+      "end": 203.2,
+      "n_words": 22,
+      "start_frame": 4972,
+      "end_frame": 5080,
+      "keyframes": [
+        "004982.webp",
+        "004983.webp",
+        "005008.webp",
+        "005034.webp",
+        "005035.webp",
+        "005055.webp",
+        "005076.webp",
+        "005077.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Và bây giờ cái phần thịt ếch cũng đã xong, sốt cũng đã xong thì Xin sẽ chuẩn bị thêm một cái thố nữa để chúng ta chuẩn bị om cái phần ếch này nha.",
+      "start": 203.2,
+      "end": 210.04,
+      "n_words": 35,
+      "start_frame": 5080,
+      "end_frame": 5251,
+      "keyframes": [
+        "005103.webp",
+        "005130.webp",
+        "005131.webp",
+        "005147.webp",
+        "005163.webp",
+        "005164.webp",
+        "005205.webp",
+        "005247.webp",
+        "005248.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Chúng ta sẽ cho cái phần ếch này vào nồi trước, ớt sừng cắt khúc nè, ớt sim đập dập và hành tây múi cau, tỏi chiên này nè.",
+      "start": 210.04,
+      "end": 217.2,
+      "n_words": 29,
+      "start_frame": 5251,
+      "end_frame": 5430,
+      "keyframes": [
+        "005273.webp",
+        "005298.webp",
+        "005299.webp",
+        "005314.webp",
+        "005329.webp",
+        "005330.webp",
+        "005350.webp",
+        "005370.webp",
+        "005371.webp",
+        "005391.webp",
+        "005412.webp",
+        "005413.webp",
+        "005428.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Các bạn biết không, ở trong tỏi có rất là nhiều chất giúp kháng khuẩn nè, kháng viêm nè, tăng cường hệ miễn dịch, cho nên vì sao mà ngày xưa ông bà mình nếu mà bị cảm nè thì hay dùng tỏi để chữa bệnh đúng không?",
+      "start": 217.2,
+      "end": 228.64,
+      "n_words": 48,
+      "start_frame": 5430,
+      "end_frame": 5716,
+      "keyframes": [
+        "005444.webp",
+        "005445.webp",
+        "005457.webp",
+        "005470.webp",
+        "005471.webp",
+        "005521.webp",
+        "005572.webp",
+        "005573.webp",
+        "005589.webp",
+        "005605.webp",
+        "005606.webp",
+        "005665.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Đúng rồi.",
+      "start": 228.64,
+      "end": 229.12,
+      "n_words": 2,
+      "start_frame": 5716,
+      "end_frame": 5728,
+      "keyframes": [
+        "005724.webp",
+        "005725.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Mình sẽ rưới cái phần sốt này đều vào trong phần ếch, xin sẽ đậy nắp lại và Minh Phương sẽ mở lửa lên nấu khoảng từ năm phút là ếch sẽ vừa thấm gia vị và món ăn hoàn thành nha.",
+      "start": 229.12,
+      "end": 243.0,
+      "n_words": 42,
+      "start_frame": 5728,
+      "end_frame": 6075,
+      "keyframes": [
+        "005776.webp",
+        "005828.webp",
+        "005829.webp",
+        "005842.webp",
+        "005856.webp",
+        "005857.webp",
+        "005873.webp",
+        "005890.webp",
+        "005891.webp",
+        "005953.webp",
+        "006015.webp",
+        "006016.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Thơm quá Xin ơi!",
+      "start": 243.0,
+      "end": 244.24,
+      "n_words": 4,
+      "start_frame": 6075,
+      "end_frame": 6106,
+      "keyframes": [
+        "006077.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ mình tắt lửa nha, rồi tắt lửa được rồi đó.",
+      "start": 244.24,
+      "end": 246.68,
+      "n_words": 12,
+      "start_frame": 6106,
+      "end_frame": 6167,
+      "keyframes": [
+        "006138.webp",
+        "006139.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rồi và các bạn ơi, để có được một món om vừa chuẩn vị, thơm ngon như thế này, chần chờ gì nữa sử dụng ngay điện thoại di động để quét mã QR đang hiển thị trên màn hình để lưu về công thức món ăn ngày hôm nay các bạn nhé.",
+      "start": 246.68,
+      "end": 260.8,
+      "n_words": 53,
+      "start_frame": 6167,
+      "end_frame": 6520,
+      "keyframes": [
+        "006168.webp",
+        "006198.webp",
+        "006199.webp",
+        "006257.webp",
+        "006315.webp",
+        "006316.webp",
+        "006393.webp",
+        "006471.webp",
+        "006472.webp",
+        "006496.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Chúng ta sẽ cho phần thịt ếch vào đây.",
+      "start": 260.8,
+      "end": 263.12,
+      "n_words": 9,
+      "start_frame": 6520,
+      "end_frame": 6578,
+      "keyframes": [
+        "006521.webp",
+        "006522.webp",
+        "006548.webp",
+        "006574.webp",
+        "006575.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đây, Minh Phương thấy sốt thì sánh sệt, ếch thì bóng bẩy.",
+      "start": 263.12,
+      "end": 267.72,
+      "n_words": 12,
+      "start_frame": 6578,
+      "end_frame": 6693,
+      "keyframes": [
+        "006610.webp",
+        "006645.webp",
+        "006646.webp",
+        "006691.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đối với những món om thì chúng ta nên để trong những cái thố đất như vậy nè, giữ nóng sẽ lâu hơn và đối với cái món om này rất là đậm đà gia vị thế này, chúng ta có thể ăn với cơm nè, với bún đều được đúng không nào?",
+      "start": 267.72,
+      "end": 278.64,
+      "n_words": 53,
+      "start_frame": 6693,
+      "end_frame": 6966,
+      "keyframes": [
+        "006736.webp",
+        "006737.webp",
+        "006752.webp",
+        "006768.webp",
+        "006769.webp",
+        "006802.webp",
+        "006835.webp",
+        "006846.webp",
+        "006881.webp",
+        "006917.webp",
+        "006918.webp",
+        "006940.webp",
+        "006962.webp",
+        "006963.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Ếch om tỏi ngày hôm nay chúng ta nên kết hợp với một món canh nữa là canh gà lá me để cho món ăn được hoàn thiện và ngon hơn nha.",
+      "start": 278.64,
+      "end": 284.64,
+      "n_words": 32,
+      "start_frame": 6966,
+      "end_frame": 7116,
+      "keyframes": [
+        "006989.webp",
+        "007016.webp",
+        "007017.webp",
+        "007065.webp",
+        "007114.webp",
+        "007115.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thịt ếch dai ngọt, áo sốt nâu sánh mượt đậm đà, lấp ló chút màu xanh đỏ của ớt và màu vàng của tỏi, thơm thơm.",
+      "start": 284.64,
+      "end": 293.84,
+      "n_words": 26,
+      "start_frame": 7116,
+      "end_frame": 7346,
+      "keyframes": [
+        "007145.webp",
+        "007175.webp",
+        "007190.webp",
+        "007215.webp",
+        "007240.webp",
+        "007241.webp",
+        "007288.webp",
+        "007336.webp",
+        "007337.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Ếch om tỏi nghe thôi là đã thấy thèm rồi, vào bếp và làm ngay thôi các bạn ơi!",
+      "start": 293.84,
+      "end": 299.2,
+      "n_words": 19,
+      "start_frame": 7346,
+      "end_frame": 7480,
+      "keyframes": [
+        "007408.webp",
+        "007480.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và ngoài ra các bạn có thể xem thêm nhiều công thức của các món ăn ngon bằng cách truy cập vào kênh YouTube, website và fanpage của chương trình.",
+      "start": 299.2,
+      "end": 307.04,
+      "n_words": 30,
+      "start_frame": 7480,
+      "end_frame": 7676,
+      "keyframes": [
+        "007480.webp",
+        "007481.webp",
+        "007564.webp",
+        "007648.webp",
+        "007649.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

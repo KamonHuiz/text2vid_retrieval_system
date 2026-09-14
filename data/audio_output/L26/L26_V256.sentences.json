@@ -1,0 +1,845 @@
+{
+  "video_id": "L26_V256",
+  "fps": 25.0,
+  "n_sentences": 48,
+  "total_words": 990,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày!",
+      "start": 10.52,
+      "end": 11.96,
+      "n_words": 4,
+      "start_frame": 263,
+      "end_frame": 299,
+      "keyframes": [
+        "000299.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Các bạn ơi, hôm nay chương trình chiêu đãi chúng ta món thịt vịt.",
+      "start": 11.96,
+      "end": 14.88,
+      "n_words": 14,
+      "start_frame": 299,
+      "end_frame": 372,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000337.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Sao không thấy đầu bếp Món Ngon nào hết trơn vậy ta?",
+      "start": 14.88,
+      "end": 17.24,
+      "n_words": 12,
+      "start_frame": 372,
+      "end_frame": 431,
+      "keyframes": [
+        "000374.webp",
+        "000375.webp",
+        "000400.webp",
+        "000425.webp",
+        "000426.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Có anh đây!",
+      "start": 17.24,
+      "end": 18.04,
+      "n_words": 3,
+      "start_frame": 431,
+      "end_frame": 451,
+      "keyframes": [
+        "000443.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Wow, nãy giờ anh bận ghê, lấy rau này về để anh lùa vịt vào nồi.",
+      "start": 18.04,
+      "end": 22.84,
+      "n_words": 16,
+      "start_frame": 451,
+      "end_frame": 571,
+      "keyframes": [
+        "000460.webp",
+        "000461.webp",
+        "000478.webp",
+        "000496.webp",
+        "000497.webp",
+        "000525.webp",
+        "000554.webp",
+        "000555.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Nhưng mà cái cây này là cây gì vậy anh?",
+      "start": 22.84,
+      "end": 25.8,
+      "n_words": 10,
+      "start_frame": 571,
+      "end_frame": 645,
+      "keyframes": [
+        "000597.webp",
+        "000639.webp",
+        "000640.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Lá mật đó à.",
+      "start": 25.8,
+      "end": 27.4,
+      "n_words": 4,
+      "start_frame": 645,
+      "end_frame": 685,
+      "keyframes": [
+        "000662.webp",
+        "000684.webp",
+        "000685.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nghe danh đã lâu bây giờ mới biết, vậy là chắc mình làm món vịt quay lá mật anh?",
+      "start": 27.4,
+      "end": 32.52,
+      "n_words": 19,
+      "start_frame": 685,
+      "end_frame": 813,
+      "keyframes": [
+        "000685.webp",
+        "000725.webp",
+        "000766.webp",
+        "000767.webp",
+        "000794.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cái đó thì rất là khó làm ở gia đình các bạn, nhưng với công thức ngày hôm nay, anh sẽ chia sẻ cho các bạn một món thịt vịt xào lá mật rất là dễ làm và ăn cũng khá là hấp dẫn đó.",
+      "start": 32.52,
+      "end": 43.44,
+      "n_words": 45,
+      "start_frame": 813,
+      "end_frame": 1086,
+      "keyframes": [
+        "000822.webp",
+        "000823.webp",
+        "000844.webp",
+        "000866.webp",
+        "000867.webp",
+        "000898.webp",
+        "000929.webp",
+        "000930.webp",
+        "000951.webp",
+        "000972.webp",
+        "000973.webp",
+        "000984.webp",
+        "000995.webp",
+        "000996.webp",
+        "001018.webp",
+        "001041.webp",
+        "001042.webp",
+        "001062.webp",
+        "001082.webp",
+        "001083.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Nghe đã thấy thích rồi, chúng ta thực hiện ngay thôi!",
+      "start": 43.44,
+      "end": 46.04,
+      "n_words": 11,
+      "start_frame": 1086,
+      "end_frame": 1151,
+      "keyframes": [
+        "001099.webp",
+        "001116.webp",
+        "001117.webp",
+        "001136.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Rồi, thịt ngọt mềm, thơm xuyến xao với vịt xào lá mật mến. Chào các bạn khán giả đang xem chương trình Món Ngon Mỗi Ngày.",
+      "start": 46.04,
+      "end": 70.24,
+      "n_words": 26,
+      "start_frame": 1151,
+      "end_frame": 1756,
+      "keyframes": [
+        "001156.webp",
+        "001157.webp",
+        "001181.webp",
+        "001206.webp",
+        "001207.webp",
+        "001256.webp",
+        "001305.webp",
+        "001306.webp",
+        "001354.webp",
+        "001403.webp",
+        "001418.webp",
+        "001458.webp",
+        "001498.webp",
+        "001499.webp",
+        "001589.webp",
+        "001679.webp",
+        "001680.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 70.24,
+      "end": 74.8,
+      "n_words": 11,
+      "start_frame": 1756,
+      "end_frame": 1870,
+      "keyframes": [
+        "001772.webp",
+        "001864.webp",
+        "001865.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đầu tiên thì chúng ta cầm hai cái ức vịt thì sẽ mềm hơn và sẽ ngon hơn, hớt xéo ngay cái phần da.",
+      "start": 74.8,
+      "end": 83.28,
+      "n_words": 24,
+      "start_frame": 1870,
+      "end_frame": 2082,
+      "keyframes": [
+        "001880.webp",
+        "001895.webp",
+        "001896.webp",
+        "001915.webp",
+        "001935.webp",
+        "001936.webp",
+        "001975.webp",
+        "002015.webp",
+        "002016.webp",
+        "002062.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Đúng rồi, chúng ta để lên chảo đó, chúng ta chiên phần da trước ra được bớt mỡ.",
+      "start": 83.28,
+      "end": 89.32,
+      "n_words": 18,
+      "start_frame": 2082,
+      "end_frame": 2233,
+      "keyframes": [
+        "002109.webp",
+        "002110.webp",
+        "002147.webp",
+        "002185.webp",
+        "002186.webp",
+        "002208.webp",
+        "002231.webp",
+        "002232.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Rồi bây giờ chúng ta bắt đem một cái chảo đây, chúng ta sẽ cho vô ít dầu, rồi mình để cho chảo vừa nóng cho ức vịt vô.",
+      "start": 89.32,
+      "end": 96.36,
+      "n_words": 29,
+      "start_frame": 2233,
+      "end_frame": 2409,
+      "keyframes": [
+        "002252.webp",
+        "002273.webp",
+        "002274.webp",
+        "002291.webp",
+        "002309.webp",
+        "002310.webp",
+        "002329.webp",
+        "002348.webp",
+        "002349.webp",
+        "002397.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Mình để lửa nhỏ từ từ nha các bạn, mình đừng có để nóng quá nha, nóng quá chúng ta cho vô nó sẽ bị cháy.",
+      "start": 96.36,
+      "end": 101.16,
+      "n_words": 26,
+      "start_frame": 2409,
+      "end_frame": 2529,
+      "keyframes": [
+        "002446.webp",
+        "002447.webp",
+        "002487.webp",
+        "002527.webp",
+        "002528.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ em phụ anh làm mấy cái này, cần thì em cắt khúc khoảng chừng 4 cm.",
+      "start": 101.16,
+      "end": 106.2,
+      "n_words": 18,
+      "start_frame": 2529,
+      "end_frame": 2655,
+      "keyframes": [
+        "002555.webp",
+        "002582.webp",
+        "002583.webp",
+        "002615.webp",
+        "002648.webp",
+        "002649.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đúng rồi, sả thì em đập dập cắt làm ba.",
+      "start": 106.2,
+      "end": 110.48,
+      "n_words": 10,
+      "start_frame": 2655,
+      "end_frame": 2762,
+      "keyframes": [
+        "002665.webp",
+        "002682.webp",
+        "002683.webp",
+        "002695.webp",
+        "002708.webp",
+        "002709.webp",
+        "002751.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Về phần chúng ta có khoảng ba tay nắm mè, chúng ta ngâm cho mềm, sau đó chúng ta cắt miếng vừa ăn.",
+      "start": 110.48,
+      "end": 116.72,
+      "n_words": 23,
+      "start_frame": 2762,
+      "end_frame": 2918,
+      "keyframes": [
+        "002794.webp",
+        "002795.webp",
+        "002824.webp",
+        "002853.webp",
+        "002854.webp",
+        "002886.webp",
+        "002918.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Thôi em cắt làm tư giùm anh.",
+      "start": 116.72,
+      "end": 118.96,
+      "n_words": 7,
+      "start_frame": 2918,
+      "end_frame": 2974,
+      "keyframes": [
+        "002918.webp",
+        "002919.webp",
+        "002958.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi quá giỏi luôn!",
+      "start": 118.96,
+      "end": 121.92,
+      "n_words": 4,
+      "start_frame": 2974,
+      "end_frame": 3048,
+      "keyframes": [
+        "002998.webp",
+        "002999.webp",
+        "003023.webp",
+        "003047.webp",
+        "003048.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Tất cả nguyên liệu chúng ta đã sẵn sàng.",
+      "start": 121.92,
+      "end": 124.88,
+      "n_words": 9,
+      "start_frame": 3048,
+      "end_frame": 3122,
+      "keyframes": [
+        "003048.webp",
+        "003073.webp",
+        "003098.webp",
+        "003099.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Phần gà như vậy nha các bạn nha, da vàng trông rất là hấp dẫn luôn các bạn ơi, một cái mùi thơm nữa thưa các bạn.",
+      "start": 124.88,
+      "end": 131.2,
+      "n_words": 27,
+      "start_frame": 3122,
+      "end_frame": 3280,
+      "keyframes": [
+        "003131.webp",
+        "003164.webp",
+        "003165.webp",
+        "003182.webp",
+        "003200.webp",
+        "003201.webp",
+        "003233.webp",
+        "003265.webp",
+        "003266.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Chúng ta chiên vàng phần da vịt để loại bỏ bớt mỡ và khi xào thì thịt vịt sẽ thơm ngon hơn rất là nhiều nha các bạn đây.",
+      "start": 131.2,
+      "end": 138.48,
+      "n_words": 29,
+      "start_frame": 3280,
+      "end_frame": 3462,
+      "keyframes": [
+        "003283.webp",
+        "003301.webp",
+        "003302.webp",
+        "003374.webp",
+        "003447.webp",
+        "003448.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Với thịt gà thịt vịt, chúng ta cắt xuôi sớ, cắt lát dày khoảng chừng 5 ly.",
+      "start": 138.68,
+      "end": 147.12,
+      "n_words": 17,
+      "start_frame": 3467,
+      "end_frame": 3678,
+      "keyframes": [
+        "003508.webp",
+        "003569.webp",
+        "003570.webp",
+        "003609.webp",
+        "003648.webp",
+        "003649.webp",
+        "003677.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Bây giờ chúng ta tới phần ướp thịt vịt rồi, chúng ta cho đây một muỗng cà phê hạt nêm Ajinomoto gà, một muỗng cà phê đường, nửa muỗng cà phê bột ngọt Ajinomoto, một muỗng canh tỏi băm, một muỗng canh dầu hào, một muỗng canh nước tương Phước Sỉ.",
+      "start": 147.12,
+      "end": 163.92,
+      "n_words": 51,
+      "start_frame": 3678,
+      "end_frame": 4098,
+      "keyframes": [
+        "003705.webp",
+        "003706.webp",
+        "003722.webp",
+        "003739.webp",
+        "003740.webp",
+        "003762.webp",
+        "003784.webp",
+        "003785.webp",
+        "003807.webp",
+        "003829.webp",
+        "003830.webp",
+        "003849.webp",
+        "003869.webp",
+        "003870.webp",
+        "003906.webp",
+        "003943.webp",
+        "003944.webp",
+        "003964.webp",
+        "003985.webp",
+        "003986.webp",
+        "004006.webp",
+        "004026.webp",
+        "004027.webp",
+        "004070.webp"
+      ],
+      "keyframe_count": 24
+    },
+    {
+      "text": "Như vậy ướp thịt vịt với lại một ít nước tương Phước Sỉ, chúng ta sẽ có ngay một món xào nâu đẹp mắt.",
+      "start": 163.92,
+      "end": 170.56,
+      "n_words": 24,
+      "start_frame": 4098,
+      "end_frame": 4264,
+      "keyframes": [
+        "004113.webp",
+        "004114.webp",
+        "004189.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ướp khoảng độ chừng 10 phút các bạn, tại vì thịt vịt này chúng ta cũng cắt ra những lát mỏng rồi.",
+      "start": 170.56,
+      "end": 175.24,
+      "n_words": 22,
+      "start_frame": 4264,
+      "end_frame": 4381,
+      "keyframes": [
+        "004265.webp",
+        "004266.webp",
+        "004300.webp",
+        "004334.webp",
+        "004335.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Này chúng ta để đây một cái chảo, cho vào đây ít dầu rồi chúng ta xào sả vào trước cho sả thơm, kế tiếp hành tỏi cho vào, canh tỏi và láC mắc mật nha các bạn, bóp ra xíu.",
+      "start": 175.24,
+      "end": 189.8,
+      "n_words": 41,
+      "start_frame": 4381,
+      "end_frame": 4745,
+      "keyframes": [
+        "004388.webp",
+        "004442.webp",
+        "004443.webp",
+        "004459.webp",
+        "004476.webp",
+        "004477.webp",
+        "004478.webp",
+        "004479.webp",
+        "004480.webp",
+        "004499.webp",
+        "004519.webp",
+        "004520.webp",
+        "004557.webp",
+        "004594.webp",
+        "004595.webp",
+        "004607.webp",
+        "004619.webp",
+        "004620.webp",
+        "004646.webp",
+        "004672.webp",
+        "004673.webp",
+        "004693.webp",
+        "004714.webp",
+        "004715.webp"
+      ],
+      "keyframe_count": 24
+    },
+    {
+      "text": "Cái công đoạn mà mình bóp như vậy thì để cho nó tiết tinh dầu của lá, xào lá mắc mật cho nó dậy mùi thơm trước rồi chúng ta cho thịt vịt vào chúng ta xào nha.",
+      "start": 189.8,
+      "end": 201.12,
+      "n_words": 38,
+      "start_frame": 4745,
+      "end_frame": 5028,
+      "keyframes": [
+        "004801.webp",
+        "004888.webp",
+        "004889.webp",
+        "004921.webp",
+        "004954.webp",
+        "004955.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Một cái mùi thơm rất là đặc trưng của lá mắc mật luôn đấy ạ.",
+      "start": 201.12,
+      "end": 204.52,
+      "n_words": 15,
+      "start_frame": 5028,
+      "end_frame": 5113,
+      "keyframes": [
+        "005046.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rồi chúng ta để lửa thật lớn nha các bạn, xào để cho miếng thịt săn nha, rất là thơm.",
+      "start": 204.52,
+      "end": 212.76,
+      "n_words": 20,
+      "start_frame": 5113,
+      "end_frame": 5319,
+      "keyframes": [
+        "005137.webp",
+        "005138.webp",
+        "005183.webp",
+        "005229.webp",
+        "005230.webp",
+        "005272.webp",
+        "005315.webp",
+        "005316.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Và lá mật này nè quý vị ơi, không chỉ là tạo nên cái hương vị thơm ngon cho món ăn mà nó còn tốt cho sức khỏe như là lợi mật, tốt cho gan, tốt cho hệ tiêu hóa nữa thưa các bạn.",
+      "start": 212.76,
+      "end": 222.08,
+      "n_words": 44,
+      "start_frame": 5319,
+      "end_frame": 5552,
+      "keyframes": [
+        "005346.webp",
+        "005376.webp",
+        "005377.webp",
+        "005456.webp",
+        "005535.webp",
+        "005536.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đối với món xào này thì chúng ta nên xào lá mật trước, sau đó chúng ta mới cho thịt vào, xào như vậy món ăn chúng ta sẽ thơm và ngon, dậy mùi lá mật hơn.",
+      "start": 222.08,
+      "end": 231.12,
+      "n_words": 37,
+      "start_frame": 5552,
+      "end_frame": 5778,
+      "keyframes": [
+        "005571.webp",
+        "005606.webp",
+        "005607.webp",
+        "005693.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Thì thịt chúng ta đã vừa chín, chúng ta cho ngò mèo, chúng ta cho ngò mèo vô đó chúng ta sóc như vậy.",
+      "start": 231.12,
+      "end": 235.92,
+      "n_words": 24,
+      "start_frame": 5778,
+      "end_frame": 5898,
+      "keyframes": [
+        "005779.webp",
+        "005780.webp",
+        "005819.webp",
+        "005858.webp",
+        "005859.webp",
+        "005882.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi bây giờ món ăn chúng ta đã hoàn tất, chúng ta sẽ tắt lửa, cho cần vào, chúng ta cho ớt vào luôn.",
+      "start": 235.92,
+      "end": 242.68,
+      "n_words": 24,
+      "start_frame": 5898,
+      "end_frame": 6067,
+      "keyframes": [
+        "005905.webp",
+        "005906.webp",
+        "005941.webp",
+        "005976.webp",
+        "005977.webp",
+        "005992.webp",
+        "006007.webp",
+        "006008.webp",
+        "006018.webp",
+        "006029.webp",
+        "006030.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Màu sắc giữ được màu xanh, màu đỏ tự nhiên của nguyên liệu rất tuyệt vời.",
+      "start": 242.68,
+      "end": 247.72,
+      "n_words": 16,
+      "start_frame": 6067,
+      "end_frame": 6193,
+      "keyframes": [
+        "006099.webp",
+        "006168.webp",
+        "006169.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn muốn tìm hiểu công thức của món ăn này hãy quét mã QR đang hiển thị trên màn hình nhé. Hấp dẫn quá!",
+      "start": 247.72,
+      "end": 256.92,
+      "n_words": 25,
+      "start_frame": 6193,
+      "end_frame": 6423,
+      "keyframes": [
+        "006240.webp",
+        "006312.webp",
+        "006313.webp",
+        "006337.webp",
+        "006362.webp",
+        "006363.webp",
+        "006398.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Thường với những cái món mà thịt vịt thì mình thấy mỡ rất là nhiều, nhưng món ăn này không hề có phần mỡ làm ngấy mà trông rất là thơm ngon luôn.",
+      "start": 256.92,
+      "end": 264.8,
+      "n_words": 33,
+      "start_frame": 6423,
+      "end_frame": 6620,
+      "keyframes": [
+        "006434.webp",
+        "006435.webp",
+        "006454.webp",
+        "006473.webp",
+        "006474.webp",
+        "006495.webp",
+        "006516.webp",
+        "006517.webp",
+        "006556.webp",
+        "006596.webp",
+        "006597.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Cùng, rắc thêm ít đậu phộng để tăng thêm sự hấp dẫn.",
+      "start": 265.04,
+      "end": 268.4,
+      "n_words": 12,
+      "start_frame": 6626,
+      "end_frame": 6710,
+      "keyframes": [
+        "006649.webp",
+        "006702.webp",
+        "006703.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Wow, món ăn vừa thơm ngon lại thêm một tí bùi của đậu phộng nữa.",
+      "start": 268.4,
+      "end": 272.2,
+      "n_words": 15,
+      "start_frame": 6710,
+      "end_frame": 6805,
+      "keyframes": [
+        "006759.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Mà món này thì mình sẽ kết hợp với những món ăn nào ạ?",
+      "start": 272.2,
+      "end": 275.08,
+      "n_words": 14,
+      "start_frame": 6805,
+      "end_frame": 6877,
+      "keyframes": [
+        "006816.webp",
+        "006817.webp",
+        "006843.webp",
+        "006870.webp",
+        "006871.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Món này thì chúng ta kết hợp với món canh gân bò chua cay thì rất là tuyệt vời luôn các bạn.",
+      "start": 275.08,
+      "end": 280.56,
+      "n_words": 22,
+      "start_frame": 6877,
+      "end_frame": 7014,
+      "keyframes": [
+        "006896.webp",
+        "006922.webp",
+        "006923.webp",
+        "006964.webp",
+        "007006.webp",
+        "007007.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Từng miếng vịt mềm ngon đậm đà, mắm mật và sả thơm lừng lan tỏa trong vị nồng cay nhẹ, ngon dân dã.",
+      "start": 280.56,
+      "end": 289.76,
+      "n_words": 23,
+      "start_frame": 7014,
+      "end_frame": 7244,
+      "keyframes": [
+        "007035.webp",
+        "007064.webp",
+        "007079.webp",
+        "007105.webp",
+        "007131.webp",
+        "007132.webp",
+        "007189.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Hương vị nào cũng có khi đến với Món Ngon Mỗi Ngày.",
+      "start": 289.76,
+      "end": 292.36,
+      "n_words": 12,
+      "start_frame": 7244,
+      "end_frame": 7309,
+      "keyframes": [
+        "007246.webp",
+        "007247.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và hãy thực hiện ngay món vịt xào lá mật cho cả gia đình mình thưởng thức nhé.",
+      "start": 292.36,
+      "end": 296.4,
+      "n_words": 18,
+      "start_frame": 7309,
+      "end_frame": 7410,
+      "keyframes": [
+        "007327.webp",
+        "007408.webp",
+        "007409.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nếu như các bạn muốn tìm hiểu kỹ về công thức của các món ngon hãy truy cập vào kênh YouTube, website và fanpage của chương trình Món Ngon Mỗi Ngày.",
+      "start": 296.4,
+      "end": 303.4,
+      "n_words": 31,
+      "start_frame": 7410,
+      "end_frame": 7585,
+      "keyframes": [
+        "007541.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Còn bây giờ xin được mến chào tạm biệt và hẹn gặp lại.",
+      "start": 303.4,
+      "end": 307.04,
+      "n_words": 13,
+      "start_frame": 7585,
+      "end_frame": 7676,
+      "keyframes": [
+        "007673.webp",
+        "007674.webp"
+      ],
+      "keyframe_count": 2
+    }
+  ]
+}

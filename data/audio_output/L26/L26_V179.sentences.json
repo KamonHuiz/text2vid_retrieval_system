@@ -1,0 +1,915 @@
+{
+  "video_id": "L26_V179",
+  "fps": 25.0,
+  "n_sentences": 51,
+  "total_words": 1083,
+  "sentences": [
+    {
+      "text": "Chào mừng quý khán giả quay trở lại với chương trình Món ngon mỗi ngày: Lẩu kim chi chân gà sần sật chua cay.",
+      "start": 0.04,
+      "end": 30.48,
+      "n_words": 24,
+      "start_frame": 1,
+      "end_frame": 762,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000130.webp",
+        "000147.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp",
+        "000355.webp",
+        "000410.webp",
+        "000411.webp",
+        "000441.webp",
+        "000471.webp",
+        "000486.webp",
+        "000544.webp",
+        "000603.webp",
+        "000604.webp",
+        "000694.webp"
+      ],
+      "keyframe_count": 46
+    },
+    {
+      "text": "Chào mừng các bạn đang đến với chương trình Món ngon mỗi ngày - Nấu chuẩn an lành. Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 30.48,
+      "end": 40.48,
+      "n_words": 29,
+      "start_frame": 762,
+      "end_frame": 1012,
+      "keyframes": [
+        "000784.webp",
+        "000785.webp",
+        "000899.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Như chúng ta cũng biết là trong chân gà có chứa nhiều collagen, sẽ rất là tốt cho làn da của chúng ta và ngoài ra còn cung cấp protein và canxi nữa, giúp cấu tạo các tế bào hồng cầu.",
+      "start": 40.48,
+      "end": 51.36,
+      "n_words": 41,
+      "start_frame": 1012,
+      "end_frame": 1284,
+      "keyframes": [
+        "001013.webp",
+        "001014.webp",
+        "001057.webp",
+        "001101.webp",
+        "001102.webp",
+        "001131.webp",
+        "001160.webp",
+        "001161.webp",
+        "001222.webp",
+        "001283.webp",
+        "001284.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Chân gà thì hay làm mấy món ăn chơi, nhưng mà hôm nay thì chúng ta sẽ nấu món chính luôn.",
+      "start": 51.36,
+      "end": 56.36,
+      "n_words": 21,
+      "start_frame": 1284,
+      "end_frame": 1409,
+      "keyframes": [
+        "001284.webp",
+        "001302.webp",
+        "001320.webp",
+        "001321.webp",
+        "001365.webp",
+        "001409.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chân gà cô đã sơ chế sạch sẽ rồi đó, chặt làm đôi rồi.",
+      "start": 56.36,
+      "end": 59.24,
+      "n_words": 14,
+      "start_frame": 1409,
+      "end_frame": 1481,
+      "keyframes": [
+        "001409.webp",
+        "001410.webp",
+        "001444.webp",
+        "001479.webp",
+        "001480.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Để chưng chân gà đó thì chúng ta sẽ đun sôi khoảng chừng 1 lít nước, mình sẽ cho vào đây một muỗng canh muối cùng với hai muỗng canh giấm gạo lên men Ajinomoto.",
+      "start": 59.24,
+      "end": 67.84,
+      "n_words": 35,
+      "start_frame": 1481,
+      "end_frame": 1696,
+      "keyframes": [
+        "001505.webp",
+        "001530.webp",
+        "001531.webp",
+        "001548.webp",
+        "001565.webp",
+        "001566.webp",
+        "001591.webp",
+        "001617.webp",
+        "001618.webp",
+        "001651.webp",
+        "001684.webp",
+        "001685.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Đợi cho nước thật sôi lên ha.",
+      "start": 67.84,
+      "end": 69.52,
+      "n_words": 7,
+      "start_frame": 1696,
+      "end_frame": 1738,
+      "keyframes": [
+        "001712.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Các bạn lưu ý là chúng ta sẽ trần chân gà qua nước sôi có pha giấm để giúp chân gà trắng và khử mùi nha.",
+      "start": 69.52,
+      "end": 75.56,
+      "n_words": 26,
+      "start_frame": 1738,
+      "end_frame": 1889,
+      "keyframes": [
+        "001739.webp",
+        "001740.webp",
+        "001814.webp",
+        "001889.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và với món ăn này thì chúng ta sẽ nên chọn là chân gà công nghiệp nha vì nó sẽ có nhiều thịt hơn.",
+      "start": 75.56,
+      "end": 80.4,
+      "n_words": 24,
+      "start_frame": 1889,
+      "end_frame": 2010,
+      "keyframes": [
+        "001889.webp",
+        "001890.webp",
+        "001902.webp",
+        "001914.webp",
+        "001915.webp",
+        "001943.webp",
+        "001972.webp",
+        "001973.webp",
+        "001991.webp",
+        "002010.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Nước sôi rồi thì bây giờ chúng ta sẽ cho phần chân gà vô, mình sẽ chần chân gà trong vòng hai phút.",
+      "start": 80.4,
+      "end": 85.76,
+      "n_words": 23,
+      "start_frame": 2010,
+      "end_frame": 2144,
+      "keyframes": [
+        "002010.webp",
+        "002011.webp",
+        "002061.webp",
+        "002112.webp",
+        "002113.webp",
+        "002128.webp",
+        "002144.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Tiếp theo chúng ta sẽ sơ chế nấm rơm, cắt chữ thập ở đầu nấm nha các bạn.",
+      "start": 85.76,
+      "end": 89.12,
+      "n_words": 18,
+      "start_frame": 2144,
+      "end_frame": 2228,
+      "keyframes": [
+        "002144.webp",
+        "002145.webp",
+        "002164.webp",
+        "002183.webp",
+        "002184.webp",
+        "002189.webp",
+        "002195.webp",
+        "002196.webp",
+        "002204.webp",
+        "002212.webp",
+        "002213.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Như là chúng ta thường hay làm, như vậy thì nấm nó sẽ dễ thấm gia vị hơn.",
+      "start": 89.12,
+      "end": 93.44,
+      "n_words": 18,
+      "start_frame": 2228,
+      "end_frame": 2336,
+      "keyframes": [
+        "002237.webp",
+        "002261.webp",
+        "002262.webp",
+        "002311.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và các bạn ơi, trong nấm rơm cũng có rất là nhiều chất tốt cho sức khỏe nè.",
+      "start": 93.44,
+      "end": 96.88,
+      "n_words": 18,
+      "start_frame": 2336,
+      "end_frame": 2422,
+      "keyframes": [
+        "002360.webp",
+        "002361.webp",
+        "002375.webp",
+        "002390.webp",
+        "002391.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Đầu tiên đó là chất sẽ giúp cho chúng ta kiểm soát được lượng cholesterol, ngoài ra còn có nhiều protein tương tự như là protein ở trong trứng gà giúp cho cơ thể dễ hấp thu.",
+      "start": 96.88,
+      "end": 107.6,
+      "n_words": 37,
+      "start_frame": 2422,
+      "end_frame": 2690,
+      "keyframes": [
+        "002437.webp",
+        "002484.webp",
+        "002485.webp",
+        "002503.webp",
+        "002521.webp",
+        "002522.webp",
+        "002652.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Tuy nhiên trong nấm rơm thì lại không có chất béo, vì vậy rất là tốt đấy ạ.",
+      "start": 107.6,
+      "end": 111.32,
+      "n_words": 18,
+      "start_frame": 2690,
+      "end_frame": 2783,
+      "keyframes": [
+        "002783.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Em có thể vớt chân gà ra giúp cô.",
+      "start": 111.32,
+      "end": 113.08,
+      "n_words": 9,
+      "start_frame": 2783,
+      "end_frame": 2827,
+      "keyframes": [
+        "002783.webp",
+        "002784.webp",
+        "002809.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Sau khi mình vớt ra thì mình nhớ là mình sẽ rửa qua nước lạnh một lần.",
+      "start": 113.08,
+      "end": 117.72,
+      "n_words": 17,
+      "start_frame": 2827,
+      "end_frame": 2943,
+      "keyframes": [
+        "002834.webp",
+        "002835.webp",
+        "002860.webp",
+        "002885.webp",
+        "002886.webp",
+        "002916.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Tiếp theo thì chúng ta sẽ cắt rối phần rau nêm gồm có quế, ngò gai và cần tàu.",
+      "start": 117.72,
+      "end": 123.6,
+      "n_words": 19,
+      "start_frame": 2943,
+      "end_frame": 3090,
+      "keyframes": [
+        "002946.webp",
+        "002947.webp",
+        "003018.webp",
+        "003090.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Thanh Phương giúp cô là đập dập sả, sả và cắt khúc, ớt mình cũng đập dập.",
+      "start": 123.6,
+      "end": 134.0,
+      "n_words": 17,
+      "start_frame": 3090,
+      "end_frame": 3350,
+      "keyframes": [
+        "003090.webp",
+        "003091.webp",
+        "003108.webp",
+        "003125.webp",
+        "003126.webp",
+        "003148.webp",
+        "003170.webp",
+        "003171.webp",
+        "003183.webp",
+        "003195.webp",
+        "003196.webp",
+        "003208.webp",
+        "003220.webp",
+        "003221.webp",
+        "003233.webp",
+        "003246.webp",
+        "003247.webp",
+        "003259.webp",
+        "003271.webp",
+        "003272.webp",
+        "003294.webp",
+        "003316.webp",
+        "003317.webp",
+        "003338.webp"
+      ],
+      "keyframe_count": 24
+    },
+    {
+      "text": "Đập dập rồi, cảm ơn Thanh Phương.",
+      "start": 134.0,
+      "end": 139.24,
+      "n_words": 7,
+      "start_frame": 3350,
+      "end_frame": 3481,
+      "keyframes": [
+        "003360.webp",
+        "003361.webp",
+        "003379.webp",
+        "003397.webp",
+        "003398.webp",
+        "003416.webp",
+        "003434.webp",
+        "003435.webp",
+        "003458.webp",
+        "003481.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Tiếp theo thì chúng ta sẽ cắt đôi quả cà chua.",
+      "start": 139.24,
+      "end": 143.32,
+      "n_words": 11,
+      "start_frame": 3481,
+      "end_frame": 3583,
+      "keyframes": [
+        "003481.webp",
+        "003482.webp",
+        "003511.webp",
+        "003540.webp",
+        "003541.webp",
+        "003557.webp",
+        "003574.webp",
+        "003575.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Rồi, các nguyên liệu mình đã chuẩn bị xong hết rồi đó và bây giờ thì Phương bật giúp cô một cái nồi lên trên bếp, mình cùng nhau nấu lẩu nha.",
+      "start": 143.32,
+      "end": 150.12,
+      "n_words": 32,
+      "start_frame": 3583,
+      "end_frame": 3753,
+      "keyframes": [
+        "003589.webp",
+        "003604.webp",
+        "003605.webp",
+        "003618.webp",
+        "003632.webp",
+        "003633.webp",
+        "003687.webp",
+        "003741.webp",
+        "003742.webp",
+        "003751.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Rồi, cảm ơn em.",
+      "start": 150.44,
+      "end": 151.44,
+      "n_words": 4,
+      "start_frame": 3761,
+      "end_frame": 3786,
+      "keyframes": [
+        "003761.webp",
+        "003762.webp",
+        "003774.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ thì chúng ta sẽ cho hai muỗng canh dầu vào trong nồi, mình đợi cho dầu nóng chút chúng ta sẽ cho sả vào, mình xào cho thơm lên nha.",
+      "start": 151.44,
+      "end": 160.08,
+      "n_words": 32,
+      "start_frame": 3786,
+      "end_frame": 4002,
+      "keyframes": [
+        "003787.webp",
+        "003788.webp",
+        "003818.webp",
+        "003848.webp",
+        "003849.webp",
+        "003885.webp",
+        "003922.webp",
+        "003923.webp",
+        "003958.webp",
+        "003994.webp",
+        "003995.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Mình xào từ từ để cho sả nó ra cái mùi thơm của tinh dầu sả.",
+      "start": 160.08,
+      "end": 164.16,
+      "n_words": 16,
+      "start_frame": 4002,
+      "end_frame": 4104,
+      "keyframes": [
+        "004049.webp",
+        "004103.webp",
+        "004104.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Tiếp tục thì mình sẽ cho vào đây là tỏi băm.",
+      "start": 164.16,
+      "end": 168.28,
+      "n_words": 11,
+      "start_frame": 4104,
+      "end_frame": 4207,
+      "keyframes": [
+        "004104.webp",
+        "004154.webp",
+        "004204.webp",
+        "004205.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Rồi, em đã cảm nhận là cái mùi thơm của tỏi nè, của sả nè và mình cho ớt đập dập vào đây.",
+      "start": 168.28,
+      "end": 174.28,
+      "n_words": 23,
+      "start_frame": 4207,
+      "end_frame": 4357,
+      "keyframes": [
+        "004256.webp",
+        "004308.webp",
+        "004309.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đối với ớt thì mình đừng có xào lâu quá, thì mình xào lâu thì nó sẽ nồng.",
+      "start": 174.28,
+      "end": 178.72,
+      "n_words": 18,
+      "start_frame": 4357,
+      "end_frame": 4468,
+      "keyframes": [
+        "004388.webp",
+        "004468.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cô sẽ cho tiếp đó là nấm rơm vô, mình xào cho thơm rồi tiếp theo là cô cho cà chua bi luôn.",
+      "start": 178.72,
+      "end": 186.04,
+      "n_words": 23,
+      "start_frame": 4468,
+      "end_frame": 4651,
+      "keyframes": [
+        "004468.webp",
+        "004469.webp",
+        "004506.webp",
+        "004543.webp",
+        "004544.webp",
+        "004583.webp",
+        "004622.webp",
+        "004623.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Khi mà có một chút cà chua bi vào thì nó sẽ tiết ra cái màu cũng rất là đẹp luôn.",
+      "start": 186.04,
+      "end": 190.04,
+      "n_words": 21,
+      "start_frame": 4651,
+      "end_frame": 4751,
+      "keyframes": [
+        "004701.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đúng rồi, đó là cái chất tiền vitamin A rất là tốt nữa ha.",
+      "start": 190.04,
+      "end": 194.56,
+      "n_words": 14,
+      "start_frame": 4751,
+      "end_frame": 4864,
+      "keyframes": [
+        "004779.webp",
+        "004780.webp",
+        "004827.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi bây giờ là em cho cô thêm là một lít rưỡi nước sôi vào đây nha Phương.",
+      "start": 194.56,
+      "end": 199.64,
+      "n_words": 18,
+      "start_frame": 4864,
+      "end_frame": 4991,
+      "keyframes": [
+        "004874.webp",
+        "004875.webp",
+        "004900.webp",
+        "004925.webp",
+        "004926.webp",
+        "004955.webp",
+        "004984.webp",
+        "004985.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Rồi, rồi, chúng ta sẽ nấu cho cái phần nước lẩu này sôi lên.",
+      "start": 199.64,
+      "end": 203.32,
+      "n_words": 14,
+      "start_frame": 4991,
+      "end_frame": 5083,
+      "keyframes": [
+        "005034.webp",
+        "005083.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Khi nước lẩu sôi trở lại rồi thì bây giờ chúng ta sẽ cho vào đây một gói gia vị sẵn A-Sichuan lẩu kim chi.",
+      "start": 203.32,
+      "end": 209.28,
+      "n_words": 25,
+      "start_frame": 5083,
+      "end_frame": 5232,
+      "keyframes": [
+        "005083.webp",
+        "005084.webp",
+        "005119.webp",
+        "005155.webp",
+        "005156.webp",
+        "005179.webp",
+        "005203.webp",
+        "005204.webp",
+        "005218.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Thì bây giờ cái nước lẩu đã có một cái màu rất là hấp dẫn, thơm luôn ha kim chi.",
+      "start": 209.28,
+      "end": 214.04,
+      "n_words": 20,
+      "start_frame": 5232,
+      "end_frame": 5351,
+      "keyframes": [
+        "005233.webp",
+        "005234.webp",
+        "005250.webp",
+        "005266.webp",
+        "005267.webp",
+        "005314.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi bây giờ cô Hà sẽ cho cái phần chân gà vào, mình nấu khoảng chừng ba phút nữa là chân gà cũng đã chín mềm rồi.",
+      "start": 214.04,
+      "end": 221.6,
+      "n_words": 27,
+      "start_frame": 5351,
+      "end_frame": 5540,
+      "keyframes": [
+        "005361.webp",
+        "005362.webp",
+        "005395.webp",
+        "005429.webp",
+        "005430.webp",
+        "005485.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta sẽ nêm vào đây là một muỗng cà phê đường rồi cuối cùng thì mình sẽ cho vào đây phần rau nêm, một nửa tỏi phi.",
+      "start": 221.6,
+      "end": 230.08,
+      "n_words": 28,
+      "start_frame": 5540,
+      "end_frame": 5752,
+      "keyframes": [
+        "005541.webp",
+        "005542.webp",
+        "005557.webp",
+        "005573.webp",
+        "005574.webp",
+        "005606.webp",
+        "005638.webp",
+        "005639.webp",
+        "005669.webp",
+        "005699.webp",
+        "005700.webp",
+        "005727.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Xong rồi đó, em tắt lửa giúp cô đi.",
+      "start": 230.08,
+      "end": 232.6,
+      "n_words": 9,
+      "start_frame": 5752,
+      "end_frame": 5815,
+      "keyframes": [
+        "005755.webp",
+        "005756.webp",
+        "005787.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trước khi trình bày thì cô cũng nhắc một điều với Thanh Phương và các bạn khán giả là với nước dùng mà trần bún thì chúng ta lưu ý là có vị hơi đậm đà một chút để khi mà kết hợp với bún và rau thì có vị vừa ăn nhé các bạn.",
+      "start": 232.6,
+      "end": 244.8,
+      "n_words": 55,
+      "start_frame": 5815,
+      "end_frame": 6120,
+      "keyframes": [
+        "005818.webp",
+        "005819.webp",
+        "005847.webp",
+        "005875.webp",
+        "005876.webp",
+        "005895.webp",
+        "005914.webp",
+        "005915.webp",
+        "006017.webp",
+        "006119.webp",
+        "006120.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Tôi tin rằng với những ai là team của chân gà thì chắc chắn sẽ rất thích món này.",
+      "start": 244.8,
+      "end": 248.44,
+      "n_words": 19,
+      "start_frame": 6120,
+      "end_frame": 6211,
+      "keyframes": [
+        "006120.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đây, các bạn nhớ quét mã QR để theo dõi lại món ăn ngày hôm nay nhé.",
+      "start": 248.44,
+      "end": 254.16,
+      "n_words": 17,
+      "start_frame": 6211,
+      "end_frame": 6354,
+      "keyframes": [
+        "006215.webp",
+        "006310.webp",
+        "006311.webp",
+        "006335.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ cô sẽ múc cái lẩu này ra một cái nồi nhỏ nhỏ gọn gọn.",
+      "start": 254.16,
+      "end": 259.24,
+      "n_words": 16,
+      "start_frame": 6354,
+      "end_frame": 6481,
+      "keyframes": [
+        "006360.webp",
+        "006361.webp",
+        "006387.webp",
+        "006413.webp",
+        "006414.webp",
+        "006443.webp",
+        "006472.webp",
+        "006473.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Nước dùng có một cái màu sắc rất là đẹp mắt nè và cái vị chuẩn vị đậm đà luôn đấy ạ.",
+      "start": 259.24,
+      "end": 263.92,
+      "n_words": 22,
+      "start_frame": 6481,
+      "end_frame": 6598,
+      "keyframes": [
+        "006520.webp",
+        "006567.webp",
+        "006568.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thơm mùi thơm của kim chi, Thanh Phương thích nhất là không cần là phải mình chế biến quá nhiều những nguyên liệu, tiết kiệm thời gian mà món ăn lại ngon chuẩn vị luôn đấy ạ.",
+      "start": 263.92,
+      "end": 272.24,
+      "n_words": 37,
+      "start_frame": 6598,
+      "end_frame": 6806,
+      "keyframes": [
+        "006606.webp",
+        "006645.webp",
+        "006646.webp",
+        "006670.webp",
+        "006694.webp",
+        "006695.webp",
+        "006714.webp",
+        "006733.webp",
+        "006734.webp",
+        "006768.webp",
+        "006802.webp",
+        "006803.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Cùng thì mình sẽ rắc lên đây một ít tỏi phi.",
+      "start": 272.44,
+      "end": 275.16,
+      "n_words": 11,
+      "start_frame": 6811,
+      "end_frame": 6879,
+      "keyframes": [
+        "006840.webp",
+        "006878.webp",
+        "006879.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Như vậy là chúng ta đã hoàn thành món ăn này.",
+      "start": 275.16,
+      "end": 277.48,
+      "n_words": 11,
+      "start_frame": 6879,
+      "end_frame": 6937,
+      "keyframes": [
+        "006879.webp",
+        "006924.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tùy theo ý thích thì chúng ta có thể thêm các loại rau hoặc các loại nấm phù hợp nha các bạn.",
+      "start": 277.48,
+      "end": 282.6,
+      "n_words": 22,
+      "start_frame": 6937,
+      "end_frame": 7065,
+      "keyframes": [
+        "006970.webp",
+        "006971.webp",
+        "007013.webp",
+        "007055.webp",
+        "007056.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chân gà chín vừa mềm, nước lẩu kim chi màu đỏ cam thì chua cay hấp dẫn, cà chua chín tới, nấm thì chín ngọt, chân gà mềm ngon, ngon cực lạ miệng.",
+      "start": 282.6,
+      "end": 294.24,
+      "n_words": 33,
+      "start_frame": 7065,
+      "end_frame": 7356,
+      "keyframes": [
+        "007098.webp",
+        "007141.webp",
+        "007157.webp",
+        "007186.webp",
+        "007215.webp",
+        "007216.webp",
+        "007286.webp",
+        "007356.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Lẩu kim chi chân gà vừa lạ miệng vừa dễ nấu, các bạn hãy thử đổi vị cho bữa cơm cuối tuần nhé.",
+      "start": 294.24,
+      "end": 299.64,
+      "n_words": 23,
+      "start_frame": 7356,
+      "end_frame": 7491,
+      "keyframes": [
+        "007356.webp",
+        "007357.webp",
+        "007423.webp",
+        "007489.webp",
+        "007490.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Ngoài ra chúng ta có thể truy cập vào kênh YouTube, website và fanpage của chương trình để theo dõi lại món ăn ngày hôm nay.",
+      "start": 299.64,
+      "end": 305.16,
+      "n_words": 26,
+      "start_frame": 7491,
+      "end_frame": 7629,
+      "keyframes": [
+        "007621.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Còn bây giờ xin được mến chào tạm biệt, hẹn gặp lại quý vị và các bạn trong những chương trình lần sau.",
+      "start": 305.16,
+      "end": 310.12,
+      "n_words": 23,
+      "start_frame": 7629,
+      "end_frame": 7753,
+      "keyframes": [
+        "007753.webp"
+      ],
+      "keyframe_count": 1
+    }
+  ]
+}

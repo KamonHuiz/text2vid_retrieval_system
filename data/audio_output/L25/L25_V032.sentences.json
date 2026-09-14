@@ -1,0 +1,1948 @@
+{
+  "video_id": "L25_V032",
+  "fps": 25.0,
+  "n_sentences": 125,
+  "total_words": 4259,
+  "sentences": [
+    {
+      "text": "Xin chào các bạn, mời các bạn cùng đến với các chuyên đề luyện thi tốt nghiệp trung học phổ thông quốc gia môn tiếng Anh.",
+      "start": 0.04,
+      "end": 8.16,
+      "n_words": 26,
+      "start_frame": 1,
+      "end_frame": 204,
+      "keyframes": [
+        "000033.webp",
+        "000066.webp",
+        "000067.webp",
+        "000201.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Và trong bài học ngày hôm nay, chúng ta sẽ cùng đến với chủ đề câu tường thuật.",
+      "start": 8.16,
+      "end": 14.56,
+      "n_words": 18,
+      "start_frame": 204,
+      "end_frame": 364,
+      "keyframes": [
+        "000336.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rồi thì đầu tiên, chúng ta sẽ cùng đến với các loại câu được tường thuật và các động từ dùng để tường thuật các loại câu này.",
+      "start": 14.56,
+      "end": 22.8,
+      "n_words": 28,
+      "start_frame": 364,
+      "end_frame": 570,
+      "keyframes": [
+        "000399.webp",
+        "000524.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đầu tiên là chúng ta có câu kể, ví dụ như là \"I \".",
+      "start": 22.8,
+      "end": 28.16,
+      "n_words": 14,
+      "start_frame": 570,
+      "end_frame": 704,
+      "keyframes": [
+        "000649.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đây là một câu nói bình thường, vậy khi tường thuật câu kể, chúng ta sẽ sử dụng động từ gì ạ?",
+      "start": 28.16,
+      "end": 33.16,
+      "n_words": 22,
+      "start_frame": 704,
+      "end_frame": 829,
+      "keyframes": [
+        "000774.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thứ nhất, chúng ta có thể sử dụng động từ \"say\" và sau đó nếu chúng ta dùng tân ngữ là nói với ai đó thì chúng ta sẽ phải có giới từ \"to\", ví dụ như là \"say to me\", \"say to him\", \"say to\".",
+      "start": 33.16,
+      "end": 48.04,
+      "n_words": 46,
+      "start_frame": 829,
+      "end_frame": 1201,
+      "keyframes": [
+        "000899.webp",
+        "001024.webp",
+        "001149.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Và sau đó các bạn có thể dùng \"that\" hoặc không dùng \"that\" cũng được, và tiếp theo sẽ là chủ ngữ và động từ của câu kể được lùi thì.",
+      "start": 48.36,
+      "end": 59.64,
+      "n_words": 31,
+      "start_frame": 1209,
+      "end_frame": 1491,
+      "keyframes": [
+        "001274.webp",
+        "001399.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ngoài động từ \"say\", chúng ta có thể sử dụng động từ \"tell\".",
+      "start": 59.64,
+      "end": 63.48,
+      "n_words": 13,
+      "start_frame": 1491,
+      "end_frame": 1587,
+      "keyframes": [
+        "001524.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tuy nhiên, động từ \"tell\" khác với \"say\" một chút ở chỗ tân ngữ: đối với \"say\", các bạn có thể dùng tân ngữ hoặc không, và nếu dùng tân ngữ thì phải có giới từ \"to\"; Tuy nhiên đối với động từ \"tell\" thì các bạn luôn phải dùng tân ngữ và không có giới từ \"to\".",
+      "start": 63.48,
+      "end": 82.0,
+      "n_words": 58,
+      "start_frame": 1587,
+      "end_frame": 2050,
+      "keyframes": [
+        "001649.webp",
+        "001774.webp",
+        "001899.webp",
+        "002024.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Các bạn có thể nói là \"tell me\", \"tell him\", \"tell her\", và sau đó dùng \"that\" cũng được hoặc không \"that\" cũng được, và tiếp theo là chủ ngữ và động từ lùi thì.",
+      "start": 82.0,
+      "end": 92.4,
+      "n_words": 35,
+      "start_frame": 2050,
+      "end_frame": 2310,
+      "keyframes": [
+        "002149.webp",
+        "002274.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Dạng câu thứ hai mà chúng ta thường tường thuật đó là câu hỏi.",
+      "start": 92.4,
+      "end": 97.04,
+      "n_words": 14,
+      "start_frame": 2310,
+      "end_frame": 2426,
+      "keyframes": [
+        "002399.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Câu hỏi thì có hai dạng, đó là câu hỏi \"yes/no\", ví dụ như là \"Are you ?\"",
+      "start": 97.04,
+      "end": 103.44,
+      "n_words": 18,
+      "start_frame": 2426,
+      "end_frame": 2586,
+      "keyframes": [
+        "002524.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "hoặc là câu hỏi có từ để hỏi, ví dụ \"What \", \"How \".",
+      "start": 103.44,
+      "end": 108.64,
+      "n_words": 14,
+      "start_frame": 2586,
+      "end_frame": 2716,
+      "keyframes": [
+        "002649.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rồi thì để tường thuật câu hỏi, chúng ta sẽ sử dụng động từ \"ask\" và sau đó các bạn có thể sử dụng tân ngữ hoặc không và không cần giới từ.",
+      "start": 108.64,
+      "end": 117.0,
+      "n_words": 33,
+      "start_frame": 2716,
+      "end_frame": 2925,
+      "keyframes": [
+        "002774.webp",
+        "002899.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúng ta có thể là \"ask me\", \"ask him\", \"ask her\" và không cần phải \"ask to\" và không được dùng giới từ phía trước tân ngữ.",
+      "start": 117.8,
+      "end": 125.8,
+      "n_words": 27,
+      "start_frame": 2945,
+      "end_frame": 3145,
+      "keyframes": [
+        "003024.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rồi đối với câu hỏi \"yes/no\" thì chúng ta sẽ dùng, chúng ta sẽ mượn từ để hỏi đó là \"if\" hoặc là \"whether\", và sau đó là chủ ngữ và động từ chính được lùi thì.",
+      "start": 125.8,
+      "end": 141.4,
+      "n_words": 37,
+      "start_frame": 3145,
+      "end_frame": 3535,
+      "keyframes": [
+        "003149.webp",
+        "003274.webp",
+        "003399.webp",
+        "003524.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đối với câu hỏi có từ để hỏi thì chúng ta sẽ dùng từ để hỏi chứ chúng ta không mượn \"if\" hoặc là \"whether\", và sau đó là chủ ngữ và động từ lùi thì.",
+      "start": 141.4,
+      "end": 153.08,
+      "n_words": 36,
+      "start_frame": 3535,
+      "end_frame": 3827,
+      "keyframes": [
+        "003649.webp",
+        "003774.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và các bạn lưu ý là đối với tường thuật câu hỏi thì chúng ta không còn dùng trợ động từ phía trước chủ ngữ nữa.",
+      "start": 153.08,
+      "end": 161.04,
+      "n_words": 26,
+      "start_frame": 3827,
+      "end_frame": 4026,
+      "keyframes": [
+        "003899.webp",
+        "004024.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Câu hỏi trực tiếp chúng ta sẽ đem trợ động từ ra phía trước chủ ngữ, nhưng khi tường thuật hoặc là câu hỏi gián tiếp thì chúng ta không dùng trợ động từ trước chủ ngữ nữa.",
+      "start": 161.04,
+      "end": 171.28,
+      "n_words": 38,
+      "start_frame": 4026,
+      "end_frame": 4282,
+      "keyframes": [
+        "004149.webp",
+        "004274.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rồi tiếp theo, dạng câu số ba đó là câu mệnh lệnh, bắt đầu bằng động từ nguyên mẫu.",
+      "start": 171.28,
+      "end": 179.4,
+      "n_words": 19,
+      "start_frame": 4282,
+      "end_frame": 4485,
+      "keyframes": [
+        "004399.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thì để tường thuật câu mệnh lệnh, chúng ta có thể dùng động từ \"tell somebody to do something\" hoặc là \"tell somebody not to do\", bảo ai đó làm cái gì. Cái gì.",
+      "start": 179.4,
+      "end": 191.6,
+      "n_words": 34,
+      "start_frame": 4485,
+      "end_frame": 4790,
+      "keyframes": [
+        "004524.webp",
+        "004649.webp",
+        "004774.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nếu không dùng \"tell\", các bạn có thể dùng \"ask\" và \"ask\" ở đây là \"ask somebody to do something\" hoặc là \"ask somebody not to do something\" thì có nghĩa là yêu cầu ai đó làm gì hoặc không làm gì.",
+      "start": 191.6,
+      "end": 207.6,
+      "n_words": 42,
+      "start_frame": 4790,
+      "end_frame": 5190,
+      "keyframes": [
+        "004899.webp",
+        "005024.webp",
+        "005149.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi thì đây là những động từ mà chúng ta dùng để tường thuật các loại câu khác nhau.",
+      "start": 207.6,
+      "end": 213.92,
+      "n_words": 19,
+      "start_frame": 5190,
+      "end_frame": 5348,
+      "keyframes": [
+        "005274.webp",
+        "005343.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Trường Đại học Quốc tế Sài Gòn IU không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, IU nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt, IU mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới, trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.",
+      "start": 213.92,
+      "end": 235.56,
+      "n_words": 78,
+      "start_frame": 5348,
+      "end_frame": 5889,
+      "keyframes": [
+        "005350.webp",
+        "005363.webp",
+        "005377.webp",
+        "005378.webp",
+        "005393.webp",
+        "005409.webp",
+        "005410.webp",
+        "005432.webp",
+        "005454.webp",
+        "005455.webp",
+        "005463.webp",
+        "005472.webp",
+        "005473.webp",
+        "005481.webp",
+        "005489.webp",
+        "005490.webp",
+        "005498.webp",
+        "005506.webp",
+        "005507.webp",
+        "005519.webp",
+        "005531.webp",
+        "005532.webp",
+        "005540.webp",
+        "005549.webp",
+        "005571.webp",
+        "005574.webp",
+        "005577.webp",
+        "005578.webp",
+        "005595.webp",
+        "005612.webp",
+        "005613.webp",
+        "005627.webp",
+        "005641.webp",
+        "005642.webp",
+        "005655.webp",
+        "005669.webp",
+        "005670.webp",
+        "005688.webp",
+        "005706.webp",
+        "005707.webp",
+        "005723.webp",
+        "005739.webp",
+        "005740.webp",
+        "005755.webp",
+        "005770.webp",
+        "005771.webp",
+        "005787.webp",
+        "005804.webp",
+        "005805.webp",
+        "005834.webp",
+        "005863.webp",
+        "005864.webp",
+        "005871.webp",
+        "005878.webp",
+        "005888.webp"
+      ],
+      "keyframe_count": 55
+    },
+    {
+      "text": "Năm 2024, tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng bốn phương thức tuyển sinh, IU cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch IU, 100 suất học bổng Tiếp bước hành trình Quỹ tài năng trẻ, học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa, thể thao, nghệ thuật; Học bổng Đồng hành xây dựng nhân lực chất lượng cao cho thành phố Thủ Đức, thành phố Hồ Chí Minh; Học bổng doanh nghiệp tài trợ, học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.",
+      "start": 235.56,
+      "end": 270.68,
+      "n_words": 128,
+      "start_frame": 5889,
+      "end_frame": 6767,
+      "keyframes": [
+        "005901.webp",
+        "005914.webp",
+        "005915.webp",
+        "005930.webp",
+        "005945.webp",
+        "005946.webp",
+        "005961.webp",
+        "005977.webp",
+        "005978.webp",
+        "005996.webp",
+        "006014.webp",
+        "006015.webp",
+        "006029.webp",
+        "006044.webp",
+        "006071.webp",
+        "006085.webp",
+        "006100.webp",
+        "006106.webp",
+        "006126.webp",
+        "006146.webp",
+        "006158.webp",
+        "006174.webp",
+        "006190.webp",
+        "006191.webp",
+        "006218.webp",
+        "006245.webp",
+        "006246.webp",
+        "006275.webp",
+        "006304.webp",
+        "006305.webp",
+        "006318.webp",
+        "006331.webp",
+        "006332.webp",
+        "006344.webp",
+        "006356.webp",
+        "006383.webp",
+        "006391.webp",
+        "006399.webp",
+        "006400.webp",
+        "006414.webp",
+        "006428.webp",
+        "006429.webp",
+        "006443.webp",
+        "006458.webp",
+        "006459.webp",
+        "006474.webp",
+        "006490.webp",
+        "006491.webp",
+        "006506.webp",
+        "006521.webp",
+        "006522.webp",
+        "006540.webp",
+        "006558.webp",
+        "006559.webp",
+        "006576.webp",
+        "006593.webp",
+        "006594.webp",
+        "006613.webp",
+        "006632.webp",
+        "006633.webp",
+        "006648.webp",
+        "006663.webp",
+        "006664.webp",
+        "006677.webp",
+        "006690.webp",
+        "006691.webp",
+        "006709.webp",
+        "006727.webp",
+        "006728.webp",
+        "006743.webp",
+        "006758.webp",
+        "006759.webp"
+      ],
+      "keyframe_count": 72
+    },
+    {
+      "text": "\"IU tâm hồn Việt Nam, giáo dục thế giới\".",
+      "start": 270.68,
+      "end": 274.36,
+      "n_words": 9,
+      "start_frame": 6767,
+      "end_frame": 6859,
+      "keyframes": [
+        "006769.webp",
+        "006780.webp",
+        "006793.webp",
+        "006820.webp",
+        "006848.webp",
+        "006849.webp",
+        "006856.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Tiếp theo là các thay đổi khi các bạn tường thuật một câu nói thì sẽ có những cách thay đổi nào?",
+      "start": 274.36,
+      "end": 282.76,
+      "n_words": 22,
+      "start_frame": 6859,
+      "end_frame": 7069,
+      "keyframes": [
+        "006863.webp",
+        "006864.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ví dụ hôm nay ở trong lớp học cô nói với các bạn là \"ngày mai các bạn sẽ làm kiểm tra\" và có một bạn nào đó vắng, vậy thì tuần sau các bạn kể lại cho bạn đó và cái ngữ cảnh nó không còn là ở lớp học nữa, thì thời gian đã thay đổi, địa điểm cũng đã thay đổi thì sẽ có những cái thay đổi gì? Thì thứ nhất khi các bạn tường thuật, chúng ta sẽ thay đổi về đại từ, tiếp theo là thay đổi về thì khi thời gian đã thay đổi, và tiếp theo là thay đổi những cụm từ chỉ nơi chốn và thời gian.",
+      "start": 282.76,
+      "end": 317.2,
+      "n_words": 116,
+      "start_frame": 7069,
+      "end_frame": 7930,
+      "keyframes": [
+        "007406.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Vậy thứ nhất, chúng ta cùng đến với thay đổi về đại từ. Câu ví dụ thứ nhất mà các bạn cùng nhìn lên màn hình, chúng ta có câu trực tiếp đó là \"You haven't been talking to Mike\", vậy khi chúng ta tường thuật, chúng ta sẽ có \"told me not to talk to her\". Thì khi tường thuật các bạn thấy là đại từ đã thay đổi từ \"you\" thành \"I\", thành \"her\".",
+      "start": 317.2,
+      "end": 349.2,
+      "n_words": 76,
+      "start_frame": 7930,
+      "end_frame": 8730,
+      "keyframes": [
+        "007948.webp",
+        "007949.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ví dụ thứ hai, họ nói với cô ấy rằng chúng tôi sẽ chăm sóc. Của cô ấy. Vậy chúng tôi đổi thành họ, \"your\" của bạn đổi thành của cô ấy \"her\".",
+      "start": 349.16,
+      "end": 381.4,
+      "n_words": 33,
+      "start_frame": 8729,
+      "end_frame": 9535,
+      "keyframes": [
+        "008771.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rồi tiếp theo là những thay đổi về thì. Tuy nhiên, các bạn lưu ý là khi động từ tường thuật ở thì hiện tại thì chúng ta sẽ không lùi thì. Nhưng mà khi chúng ta tường thuật, khi động từ tường thuật set ở hiện tại thì chúng ta không lùi thì, chúng ta vẫn giữ nguyên thì của câu. Tuy nhiên, hầu hết các trường hợp chúng ta sẽ lùi thì khi động từ tường thuật ở quá khứ. Vậy thì chúng ta sẽ lùi thì như thế nào?",
+      "start": 381.4,
+      "end": 415.68,
+      "n_words": 92,
+      "start_frame": 9535,
+      "end_frame": 10392,
+      "keyframes": [
+        "009593.webp",
+        "009594.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Mời các bạn cùng nhìn vào các trường hợp cụ thể như sau: Thứ nhất là nếu các bạn thấy động từ ở câu trực tiếp ở thì hiện tại đơn thì khi lùi thì, khi chúng ta tường thuật, chúng ta sẽ lùi về quá khứ đơn. Khi động từ ở câu trực tiếp ở thì hiện tại tiếp diễn thì tường thuật chúng ta sẽ lùi về quá khứ tiếp diễn.",
+      "start": 415.68,
+      "end": 439.12,
+      "n_words": 73,
+      "start_frame": 10392,
+      "end_frame": 10978,
+      "keyframes": [
+        "010408.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nếu các bạn thấy động từ ở thì hiện tại hoàn thành thì tường thuật chúng ta sẽ lùi về quá khứ hoàn thành. Nếu động từ ở thì hiện tại hoàn thành tiếp diễn, vậy khi tường thuật chúng ta sẽ lùi về quá khứ hoàn thành tiếp diễn. Nếu động từ ở thì quá khứ đơn, thì khi tường thuật sẽ lùi về quá khứ hoàn thành. Nếu động từ ở thì quá khứ tiếp diễn, vậy khi tường thuật sẽ lùi về quá khứ hoàn thành tiếp diễn. Nếu động từ đã ở thì quá khứ hoàn thành sẵn rồi, vậy thì chúng ta không lùi thì nữa, chúng ta giữ nguyên quá khứ hoàn thành. Và tương tự, nếu động từ ở thì quá khứ hoàn thành tiếp diễn rồi, vậy chúng ta không lùi, chúng ta giữ nguyên quá khứ hoàn thành tiếp diễn.",
+      "start": 439.12,
+      "end": 490.68,
+      "n_words": 149,
+      "start_frame": 10978,
+      "end_frame": 12267,
+      "keyframes": [
+        "011111.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và các bạn có thể thấy những trường hợp động từ bắt đầu bằng động từ khiếm khuyết đi với động từ nguyên mẫu, vậy khi lùi thì chúng ta sẽ sử dụng dạng quá khứ của các động từ khiếm khuyết này: \"will\" sẽ chuyển thành \"would\", \"can\" sẽ chuyển thành \"could\", \"may\" sẽ chuyển thành \"might\". Và nếu ở trong câu trực tiếp động từ khiếm khuyết đã là \"could\", \"could\" và \"might\" sẵn rồi thì chúng ta không thay đổi gì cả, chúng ta giữ nguyên. Vậy nguyên tắc lùi thì ở đây là gì?",
+      "start": 490.68,
+      "end": 521.76,
+      "n_words": 98,
+      "start_frame": 12267,
+      "end_frame": 13044,
+      "keyframes": [
+        "012628.webp",
+        "012629.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Các bạn, nếu các bạn thấy động từ ở thì hiện tại thì chúng ta sẽ lùi về các thì quá khứ tương ứng: hiện tại đơn - quá khứ đơn, hiện tại tiếp diễn - quá khứ tiếp diễn, hiện tại hoàn thành - quá khứ hoàn thành, hiện tại hoàn thành tiếp diễn - quá khứ hoàn thành tiếp diễn. Còn nếu các bạn thấy động từ đã ở thì quá khứ thì chúng ta sẽ lùi về quá khứ hoàn thành: quá khứ đơn - quá khứ hoàn thành, quá khứ tiếp diễn - quá khứ hoàn thành tiếp diễn. Còn nếu động từ đã ở quá khứ hoàn thành rồi thì chúng ta không lùi được nữa, chúng ta sẽ giữ nguyên.",
+      "start": 521.76,
+      "end": 557.76,
+      "n_words": 126,
+      "start_frame": 13044,
+      "end_frame": 13944,
+      "keyframes": [
+        "013298.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rồi tiếp theo là những thay đổi về các cụm từ chỉ thời gian và nơi chốn. Đầu tiên chúng ta có chữ \"today\" có nghĩa là ngày hôm nay, vậy khi các bạn tường thuật thì ví dụ của nó là ngày hôm nay các bạn sẽ có một cuộc họp, vậy tuần sau các bạn tường thuật thì nó không còn là ngày hôm nay nữa mà sẽ trở thành ngày hôm đó, vậy chúng ta sẽ dùng \"that day\". Rồi tiếp theo là \"yesterday\" ngày hôm qua, vậy khi các bạn tường thuật thì nó không còn là ngày hôm qua nữa mà sẽ chuyển thành ngày hôm trước, ngày trước đó: \"the day before\" hoặc là \"the previous day\".",
+      "start": 557.76,
+      "end": 600.96,
+      "n_words": 123,
+      "start_frame": 13944,
+      "end_frame": 15024,
+      "keyframes": [
+        "013967.webp",
+        "013968.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tương tự chúng ta có \"last night\" tối hôm qua, vậy khi chúng ta tường thuật sẽ là tối hôm trước hoặc tối trước đó: \"the night before\" hoặc là \"the previous night\". Vậy tương tự nếu các bạn thấy \"last year\" thì chúng ta sẽ có \"the year before\" hoặc là \"the previous year\", hoặc là \"last week\" và chúng ta sẽ có \"the week before\" hoặc là \"the previous week\". Rồi vậy khi nói về tương lai chúng ta có \"tomorrow\", vậy khi chúng ta tường thuật thì không còn là ngày mai nữa mà sẽ là ngày hôm sau hoặc là ngày tiếp theo, vậy chúng ta sẽ sử dụng \"the day after\" hoặc là \"the following day\" hoặc \"the next day\".",
+      "start": 600.96,
+      "end": 643.2,
+      "n_words": 125,
+      "start_frame": 15024,
+      "end_frame": 16080,
+      "keyframes": [
+        "015145.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tương tự chúng ta sẽ có \"next week\", vậy khi tường thuật sẽ là tuần tiếp theo hoặc tuần sau đó: \"the following week\", \"the next week\". Vậy tương tự khác nếu các bạn thấy \"next year\", \"the year after\", \"next summer\", \"the summer after\", \"the following summer\", \"the next summer\". Tiếp theo là \"now\" bây giờ, vậy khi các bạn tường thuật thì không còn là bây giờ nữa mà sẽ trở thành khi đó, cho nên chúng ta sử dụng \"then\".",
+      "start": 643.2,
+      "end": 679.36,
+      "n_words": 83,
+      "start_frame": 16080,
+      "end_frame": 16984,
+      "keyframes": [
+        "016322.webp",
+        "016323.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tiếp theo là \"two years ago\", vậy khi các bạn thấy \"ago\", hai năm trước, cách đây hai năm, vậy khi tường thuật sẽ trở thành hai năm trước đó, chúng ta sẽ đổi \"ago\" thành \"before\". \"Two years ago\" đổi thành \"two years before\". Rồi tiếp theo chúng ta, tiếp theo chúng ta có \"here\" chỉ nơi chốn ở đây và khi các bạn đi đến một cái nơi khác, các bạn tường thuật lại câu nói thì không còn là ở đây nữa mà sẽ chuyển thành ở đó: \"there\", \"this\" sẽ đổi thành \"that\".",
+      "start": 679.36,
+      "end": 711.4,
+      "n_words": 97,
+      "start_frame": 16984,
+      "end_frame": 17785,
+      "keyframes": [
+        "017162.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thực hiện khi chúng ta tường thuật một câu nói nào đó rồi.",
+      "start": 723.24,
+      "end": 729.04,
+      "n_words": 13,
+      "start_frame": 18081,
+      "end_frame": 18226,
+      "keyframes": [
+        "018190.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tuy nhiên sẽ có những trường hợp chúng ta dùng những động từ tường thuật khác để cho nghĩa của câu, của câu nói nó được thể hiện rõ hơn.",
+      "start": 729.04,
+      "end": 738.52,
+      "n_words": 30,
+      "start_frame": 18226,
+      "end_frame": 18463,
+      "keyframes": [
+        "018315.webp",
+        "018440.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ví dụ các bạn nhìn vào câu ví dụ trên màn hình: \"I'm sorry, Dad\". Đây là câu trực tiếp.",
+      "start": 738.52,
+      "end": 746.32,
+      "n_words": 20,
+      "start_frame": 18463,
+      "end_frame": 18658,
+      "keyframes": [
+        "018565.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ví dụ Tom nói với teacher: \"I'm sorry\".",
+      "start": 746.32,
+      "end": 750.36,
+      "n_words": 8,
+      "start_frame": 18658,
+      "end_frame": 18759,
+      "keyframes": [
+        "018690.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Vậy khi tường thuật, nếu chúng ta tường thuật theo những cái nguyên tắc mà chúng ta thảo luận ở phía trên thì chúng ta sẽ có câu là \"he said\" hoặc là \"he told teacher that he was\".",
+      "start": 750.36,
+      "end": 765.36,
+      "n_words": 39,
+      "start_frame": 18759,
+      "end_frame": 19134,
+      "keyframes": [
+        "018815.webp",
+        "018940.webp",
+        "019065.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thì câu này nó khá là lủng củng và khá là dài dòng bởi vì mục đích chính của câu này chính là để xin lỗi, chúng ta có thể đơn giản dùng một động từ sát nghĩa hơn đó là chữ apologize và chúng ta có thể đơn giản nói là \"he apologized to\".",
+      "start": 765.36,
+      "end": 782.28,
+      "n_words": 55,
+      "start_frame": 19134,
+      "end_frame": 19557,
+      "keyframes": [
+        "019190.webp",
+        "019315.webp",
+        "019440.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Vậy tương tự chúng ta có rất là nhiều động từ tường thuật khác mời các bạn cùng nhìn vào các ví dụ sau đây.",
+      "start": 785.4,
+      "end": 793.24,
+      "n_words": 25,
+      "start_frame": 19635,
+      "end_frame": 19831,
+      "keyframes": [
+        "019690.webp",
+        "019815.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Câu thứ nhất: \"I said not to anyone else\".",
+      "start": 793.24,
+      "end": 797.76,
+      "n_words": 9,
+      "start_frame": 19831,
+      "end_frame": 19944,
+      "keyframes": [
+        "019940.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Về mục đích chính của câu này là dùng để hứa, vậy chúng ta sẽ dùng động từ để hứa thì đó là động từ promise và chúng ta có thể nói là \"he promised not to anyone else\".",
+      "start": 798.68,
+      "end": 810.4,
+      "n_words": 39,
+      "start_frame": 19967,
+      "end_frame": 20260,
+      "keyframes": [
+        "020065.webp",
+        "020190.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Vậy các bạn thấy được một điều là để dùng được những động từ tường thuật khác, các bạn cũng phải nắm được cấu trúc của động từ đó.",
+      "start": 811.52,
+      "end": 819.64,
+      "n_words": 29,
+      "start_frame": 20288,
+      "end_frame": 20491,
+      "keyframes": [
+        "020315.webp",
+        "020440.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Có những động từ theo sau bởi to-verb, có những động từ theo sau bởi verb-ing, có những động từ đi với to-ngữ và có những giới từ đặc biệt thì chúng ta phải nắm được rồi.",
+      "start": 819.64,
+      "end": 830.04,
+      "n_words": 37,
+      "start_frame": 20491,
+      "end_frame": 20751,
+      "keyframes": [
+        "020565.webp",
+        "020690.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Ví dụ tiếp theo, vì mục đích chính của câu này các bạn có thể thấy là dùng để phủ nhận một cái việc gì đó cho nên chúng ta dùng động từ phủ nhận là denying.",
+      "start": 830.04,
+      "end": 845.08,
+      "n_words": 37,
+      "start_frame": 20751,
+      "end_frame": 21127,
+      "keyframes": [
+        "020815.webp",
+        "020940.webp",
+        "021065.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "The phrase sau deny chúng ta dùng verb-ing cho nên chúng ta phải đổi động từ steal thành stealing.",
+      "start": 845.08,
+      "end": 852.12,
+      "n_words": 19,
+      "start_frame": 21127,
+      "end_frame": 21303,
+      "keyframes": [
+        "021190.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rồi tiếp theo chúng ta có \"he told me don't go inside\".",
+      "start": 852.12,
+      "end": 858.36,
+      "n_words": 12,
+      "start_frame": 21303,
+      "end_frame": 21459,
+      "keyframes": [
+        "021315.webp",
+        "021440.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Câu này có nghĩa là dùng để cảnh báo ai đó về một cái mối nguy hiểm nào đó cho nên chúng ta dùng động từ warn (cảnh báo).",
+      "start": 858.36,
+      "end": 871.76,
+      "n_words": 29,
+      "start_frame": 21459,
+      "end_frame": 21794,
+      "keyframes": [
+        "021565.webp",
+        "021690.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tôi cảnh báo tôi không đi vào công viên vào ban đêm.",
+      "start": 871.76,
+      "end": 875.4,
+      "n_words": 12,
+      "start_frame": 21794,
+      "end_frame": 21885,
+      "keyframes": [
+        "021815.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rồi tiếp theo thì cái mục đích của câu này dùng để đe dọa ai đó cho nên chúng ta dùng động từ threaten to q và các bạn thấy là chúng ta vẫn lùi thì bình thường và thay đổi những cái đại từ cũng như là những cái từ chỉ thời gian và nơi chốn bình thường theo nguyên tắc ở trên rồi.",
+      "start": 875.4,
+      "end": 906.96,
+      "n_words": 65,
+      "start_frame": 21885,
+      "end_frame": 22674,
+      "keyframes": [
+        "021940.webp",
+        "022065.webp",
+        "022190.webp",
+        "022315.webp",
+        "022440.webp",
+        "022565.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Câu số năm khi thông thường những câu như thế này dùng để đề nghị hoặc là để khuyên cho nên chúng ta sử dụng động từ suggest inviting hoặc chúng ta có thể dùng cấu trúc ngắn hơn đó là suggesting.",
+      "start": 906.96,
+      "end": 935.6,
+      "n_words": 42,
+      "start_frame": 22674,
+      "end_frame": 23390,
+      "keyframes": [
+        "022690.webp",
+        "022815.webp",
+        "022940.webp",
+        "023065.webp",
+        "023190.webp",
+        "023315.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Tiếp theo câu số sáu, các bạn thấy mặc dù đây có cấu trúc giống như một câu hỏi tuy nhiên mục đích của câu này không phải dùng để hỏi mà là dùng để mời cho nên chúng ta dùng động từ invite.",
+      "start": 935.6,
+      "end": 956.88,
+      "n_words": 44,
+      "start_frame": 23390,
+      "end_frame": 23922,
+      "keyframes": [
+        "023440.webp",
+        "023565.webp",
+        "023690.webp",
+        "023815.webp",
+        "023880.webp",
+        "023883.webp",
+        "023912.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.",
+      "start": 956.88,
+      "end": 967.44,
+      "n_words": 33,
+      "start_frame": 23922,
+      "end_frame": 24186,
+      "keyframes": [
+        "023941.webp",
+        "023974.webp",
+        "024012.webp",
+        "024051.webp",
+        "024052.webp",
+        "024072.webp",
+        "024093.webp",
+        "024094.webp",
+        "024115.webp",
+        "024136.webp",
+        "024137.webp",
+        "024145.webp",
+        "024154.webp",
+        "024167.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện cân bằng giữa học thuật và nghệ thuật, thể thao.",
+      "start": 967.44,
+      "end": 975.08,
+      "n_words": 23,
+      "start_frame": 24186,
+      "end_frame": 24377,
+      "keyframes": [
+        "024220.webp",
+        "024274.webp",
+        "024275.webp",
+        "024295.webp",
+        "024316.webp",
+        "024317.webp",
+        "024332.webp",
+        "024347.webp",
+        "024348.webp",
+        "024358.webp",
+        "024369.webp",
+        "024370.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, thêm nguồn cảm hứng độc lập để phát triển và hoàn thiện nhân cách.",
+      "start": 975.08,
+      "end": 985.76,
+      "n_words": 34,
+      "start_frame": 24377,
+      "end_frame": 24644,
+      "keyframes": [
+        "024382.webp",
+        "024395.webp",
+        "024396.webp",
+        "024468.webp",
+        "024540.webp",
+        "024541.webp",
+        "024566.webp",
+        "024592.webp",
+        "024593.webp",
+        "024616.webp",
+        "024640.webp",
+        "024641.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Ngoài những giờ học trên lớp, học sinh Trường Quốc tế Á Châu còn được trải nghiệm thử thách bản thân và phản biện các vấn đề để tự mình học hỏi, trưởng thành độc lập hơn.",
+      "start": 985.76,
+      "end": 1005.52,
+      "n_words": 37,
+      "start_frame": 24644,
+      "end_frame": 25138,
+      "keyframes": [
+        "024650.webp",
+        "024659.webp",
+        "024660.webp",
+        "024676.webp",
+        "024693.webp",
+        "024694.webp",
+        "024721.webp",
+        "024748.webp",
+        "024749.webp",
+        "024758.webp",
+        "024768.webp",
+        "024769.webp",
+        "024832.webp",
+        "024895.webp",
+        "024896.webp",
+        "024911.webp",
+        "024926.webp",
+        "024937.webp",
+        "024943.webp",
+        "024950.webp",
+        "024965.webp",
+        "024974.webp",
+        "024984.webp",
+        "024985.webp",
+        "025028.webp",
+        "025071.webp",
+        "025072.webp",
+        "025084.webp",
+        "025096.webp",
+        "025097.webp",
+        "025115.webp",
+        "025134.webp"
+      ],
+      "keyframe_count": 32
+    },
+    {
+      "text": "Nơi đây với tôi còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.",
+      "start": 1005.52,
+      "end": 1021.36,
+      "n_words": 33,
+      "start_frame": 25138,
+      "end_frame": 25534,
+      "keyframes": [
+        "025146.webp",
+        "025208.webp",
+        "025270.webp",
+        "025294.webp",
+        "025309.webp",
+        "025324.webp",
+        "025325.webp",
+        "025349.webp",
+        "025373.webp",
+        "025374.webp",
+        "025394.webp",
+        "025414.webp",
+        "025415.webp",
+        "025422.webp",
+        "025429.webp",
+        "025461.webp",
+        "025469.webp",
+        "025478.webp",
+        "025501.webp",
+        "025513.webp",
+        "025525.webp",
+        "025526.webp"
+      ],
+      "keyframe_count": 22
+    },
+    {
+      "text": "Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là cuộc sống.",
+      "start": 1021.36,
+      "end": 1026.44,
+      "n_words": 15,
+      "start_frame": 25534,
+      "end_frame": 25661,
+      "keyframes": [
+        "025559.webp",
+        "025592.webp",
+        "025593.webp",
+        "025601.webp",
+        "025609.webp",
+        "025610.webp",
+        "025623.webp",
+        "025636.webp",
+        "025637.webp",
+        "025643.webp",
+        "025649.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Từ môi trường giáo dục này chúng tôi đã tự tin bước tiếp và viết nên câu chuyện tương lai của chính mình.",
+      "start": 1026.44,
+      "end": 1041.4,
+      "n_words": 23,
+      "start_frame": 25661,
+      "end_frame": 26035,
+      "keyframes": [
+        "025666.webp",
+        "025680.webp",
+        "025694.webp",
+        "025711.webp",
+        "025712.webp",
+        "025713.webp",
+        "025738.webp",
+        "025743.webp",
+        "025749.webp",
+        "025776.webp",
+        "025794.webp",
+        "025812.webp",
+        "025835.webp",
+        "025856.webp",
+        "025877.webp",
+        "025878.webp",
+        "025882.webp",
+        "025887.webp",
+        "025949.webp",
+        "025970.webp",
+        "025991.webp",
+        "025992.webp",
+        "026013.webp",
+        "026034.webp",
+        "026035.webp"
+      ],
+      "keyframe_count": 25
+    },
+    {
+      "text": "Vậy ngoài những cái động từ này thì chúng ta còn rất là nhiều động từ khác và các bạn cần phải tham khảo thêm.",
+      "start": 1041.4,
+      "end": 1049.52,
+      "n_words": 25,
+      "start_frame": 26035,
+      "end_frame": 26238,
+      "keyframes": [
+        "026035.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và lưu ý là đối với những động từ này thì chúng ta phải nắm được cả những cái dạng cấu trúc mà theo sau những động từ này. Các bạn thấy promise, denote thì lại đi với những cái giới từ can hay liaison thì ok.",
+      "start": 1049.52,
+      "end": 1068.08,
+      "n_words": 47,
+      "start_frame": 26238,
+      "end_frame": 26702,
+      "keyframes": [
+        "026377.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thì như vậy chúng ta vừa ôn lại những cái nguyên tắc của câu tường thuật cũng như là những động từ tường thuật đặc biệt. Bây giờ chúng ta sẽ cùng đến với phần luyện tập.",
+      "start": 1068.08,
+      "end": 1080.8,
+      "n_words": 37,
+      "start_frame": 26702,
+      "end_frame": 27020,
+      "keyframes": [
+        "026719.webp",
+        "026782.webp",
+        "026907.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Câu đầu tiên cũng là câu đã xuất hiện trong đề thi minh họa năm 2024 được công bố vừa rồi.",
+      "start": 1080.8,
+      "end": 1087.44,
+      "n_words": 21,
+      "start_frame": 27020,
+      "end_frame": 27186,
+      "keyframes": [
+        "027032.webp",
+        "027157.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúng ta cùng xem câu đề Tony, thì đây là một câu kể bình thường cho nên khi chúng ta tường thuật các bạn thấy trong các đáp án đều là động từ said rồi, và my sister sẽ lùi thành his sister bởi vì người nói ở đây là Tony cho nên my sister sẽ lùi về his sister.",
+      "start": 1087.44,
+      "end": 1114.48,
+      "n_words": 60,
+      "start_frame": 27186,
+      "end_frame": 27862,
+      "keyframes": [
+        "027282.webp",
+        "027407.webp",
+        "027532.webp",
+        "027657.webp",
+        "027782.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Động từ has finished ở thì hiện tại hoàn thành sẽ được lùi thì về quá khứ hoàn thành cho nên đáp án sẽ là Tony said that his sister had finished.",
+      "start": 1114.48,
+      "end": 1131.52,
+      "n_words": 32,
+      "start_frame": 27862,
+      "end_frame": 28288,
+      "keyframes": [
+        "027907.webp",
+        "028032.webp",
+        "028157.webp",
+        "028282.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Câu tiếp ta sẽ cần đổi đại từ \"I\" theo danh từ \"the\" thành đại từ \"she\".",
+      "start": 1131.52,
+      "end": 1155.16,
+      "n_words": 17,
+      "start_frame": 28288,
+      "end_frame": 28879,
+      "keyframes": [
+        "028407.webp",
+        "028532.webp",
+        "028657.webp",
+        "028782.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Động từ \"heard\" ở quá khứ đơn cho nên chúng ta cần phải lùi về quá khứ hoàn thành, cho nên chúng ta chọn đáp án \"she said had\". Rồi câu hỏi tiếp theo, câu số ba đã xuất hiện trong đề thi chính thức năm 2022.",
+      "start": 1155.16,
+      "end": 1175.24,
+      "n_words": 47,
+      "start_frame": 28879,
+      "end_frame": 29381,
+      "keyframes": [
+        "028907.webp",
+        "029032.webp",
+        "029157.webp",
+        "029282.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Đây tiếp tục là một câu kể: \"My friend gave me some candy\", \"said Tom\".",
+      "start": 1176.48,
+      "end": 1183.44,
+      "n_words": 15,
+      "start_frame": 29412,
+      "end_frame": 29586,
+      "keyframes": [
+        "029532.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta có đại từ \"my\" và chúng ta phải cân nhắc đổi theo người nói ở đây là Tom, \"my friend\" sẽ đổi thành \"his friend\".",
+      "start": 1183.44,
+      "end": 1195.12,
+      "n_words": 27,
+      "start_frame": 29586,
+      "end_frame": 29878,
+      "keyframes": [
+        "029657.webp",
+        "029782.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "\"Gave\" là động từ ở quá khứ đơn cho nên khi tường thuật chúng ta lùi về quá khứ hoàn thành, chúng ta sẽ có \"had given\".",
+      "start": 1195.12,
+      "end": 1205.48,
+      "n_words": 27,
+      "start_frame": 29878,
+      "end_frame": 30137,
+      "keyframes": [
+        "029907.webp",
+        "030032.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tiếp theo là đại từ \"me\" sẽ đổi theo người nói là Tom, cho nên chúng ta sẽ đổi \"me\" thành \"him\".",
+      "start": 1205.48,
+      "end": 1212.24,
+      "n_words": 22,
+      "start_frame": 30137,
+      "end_frame": 30306,
+      "keyframes": [
+        "030157.webp",
+        "030282.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và đáp án là: \"Tom said his friend had given some candy\".",
+      "start": 1212.24,
+      "end": 1219.0,
+      "n_words": 12,
+      "start_frame": 30306,
+      "end_frame": 30475,
+      "keyframes": [
+        "030407.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Câu số bốn đã xuất hiện trong đề thi chính thức năm 2021: \"I have a lot to \".",
+      "start": 1221.04,
+      "end": 1230.72,
+      "n_words": 19,
+      "start_frame": 30526,
+      "end_frame": 30768,
+      "keyframes": [
+        "030532.webp",
+        "030657.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Vậy đại từ ở đây là \"I\", chúng ta cần đổi theo người nói.",
+      "start": 1230.72,
+      "end": 1233.72,
+      "n_words": 14,
+      "start_frame": 30768,
+      "end_frame": 30843,
+      "keyframes": [
+        "030782.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cho nên chúng ta sẽ đổi \"I\".",
+      "start": 1234.64,
+      "end": 1237.36,
+      "n_words": 7,
+      "start_frame": 30866,
+      "end_frame": 30934,
+      "keyframes": [
+        "030907.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Động từ \"have\" ở hiện tại đơn chúng ta sẽ lùi về quá khứ đơn sẽ thành \"had\", cho nên đáp án sẽ là \"she said had\".",
+      "start": 1237.36,
+      "end": 1250.88,
+      "n_words": 27,
+      "start_frame": 30934,
+      "end_frame": 31272,
+      "keyframes": [
+        "031032.webp",
+        "031157.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Câu số năm xuất hiện trong đề thi chính thức năm 2022: \"I am going back to work next week\", Harry.",
+      "start": 1254.2,
+      "end": 1264.08,
+      "n_words": 21,
+      "start_frame": 31355,
+      "end_frame": 31602,
+      "keyframes": [
+        "031407.webp",
+        "031532.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đại từ \"I\" sẽ đổi theo Harry thì chúng ta sẽ đổi thành \"he\".",
+      "start": 1264.08,
+      "end": 1268.8,
+      "n_words": 14,
+      "start_frame": 31602,
+      "end_frame": 31720,
+      "keyframes": [
+        "031657.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Động từ \"am going\" hiện tại tiếp diễn sẽ đổi thành quá khứ tiếp diễn \"was going\".",
+      "start": 1268.8,
+      "end": 1276.92,
+      "n_words": 17,
+      "start_frame": 31720,
+      "end_frame": 31923,
+      "keyframes": [
+        "031782.webp",
+        "031907.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chúng ta có cụm từ \"next week\" chỉ thời gian ở tương lai và chúng ta sẽ đổi thành \"the following week\" hoặc là \"the next week\".",
+      "start": 1276.92,
+      "end": 1285.96,
+      "n_words": 27,
+      "start_frame": 31923,
+      "end_frame": 32149,
+      "keyframes": [
+        "032032.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và đáp án chúng ta chọn ở đây sẽ là câu A: \"Harry said he was going back to work the following week\".",
+      "start": 1287.2,
+      "end": 1297.6,
+      "n_words": 23,
+      "start_frame": 32180,
+      "end_frame": 32440,
+      "keyframes": [
+        "032282.webp",
+        "032407.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rồi câu số sáu, đây là câu đã xuất hiện trong đề thi chính thức năm 2019.",
+      "start": 1297.6,
+      "end": 1301.88,
+      "n_words": 17,
+      "start_frame": 32440,
+      "end_frame": 32547,
+      "keyframes": [
+        "032532.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta cùng xem câu đề bài.",
+      "start": 1303.72,
+      "end": 1308.4,
+      "n_words": 7,
+      "start_frame": 32593,
+      "end_frame": 32710,
+      "keyframes": [
+        "032657.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đây là câu hỏi, cho nên khi tường thuật câu hỏi, chúng ta dùng động từ \"ask\".",
+      "start": 1309.32,
+      "end": 1314.72,
+      "n_words": 17,
+      "start_frame": 32733,
+      "end_frame": 32868,
+      "keyframes": [
+        "032782.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tiếp theo là từ để hỏi, chúng ta có từ để hỏi là \"how\", cho nên chúng ta giữ nguyên \"how\". Tiếp theo sau từ để hỏi là chủ ngữ.",
+      "start": 1314.72,
+      "end": 1324.52,
+      "n_words": 30,
+      "start_frame": 32868,
+      "end_frame": 33113,
+      "keyframes": [
+        "032907.webp",
+        "033032.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Các bạn lưu ý nhé, khi chúng ta tường thuật câu hỏi, chúng ta không dùng trợ động từ trước chủ ngữ nữa, mà sau từ để hỏi là chủ ngữ.",
+      "start": 1324.52,
+      "end": 1333.96,
+      "n_words": 31,
+      "start_frame": 33113,
+      "end_frame": 33349,
+      "keyframes": [
+        "033157.webp",
+        "033282.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thì chủ ngữ là \"you\" và chúng ta đổi \"you\" theo thì đó.",
+      "start": 1333.96,
+      "end": 1340.68,
+      "n_words": 13,
+      "start_frame": 33349,
+      "end_frame": 33517,
+      "keyframes": [
+        "033407.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thành, chúng ta sẽ có \"had lived\" và có một từ chỉ nơi chốn ở đây đó là \"here\" sẽ đổi thành \"there\".",
+      "start": 1347.32,
+      "end": 1356.4,
+      "n_words": 23,
+      "start_frame": 33683,
+      "end_frame": 33910,
+      "keyframes": [
+        "033782.webp",
+        "033907.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Vậy thì đáp án của chúng ta sẽ là \"bracket A the\".",
+      "start": 1356.4,
+      "end": 1365.04,
+      "n_words": 12,
+      "start_frame": 33910,
+      "end_frame": 34126,
+      "keyframes": [
+        "034032.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Câu số bảy đã xuất hiện trong đề thi chính thức năm 2018.",
+      "start": 1365.04,
+      "end": 1368.16,
+      "n_words": 13,
+      "start_frame": 34126,
+      "end_frame": 34204,
+      "keyframes": [
+        "034157.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta cùng xem câu đề rồi.",
+      "start": 1369.88,
+      "end": 1378.28,
+      "n_words": 7,
+      "start_frame": 34247,
+      "end_frame": 34457,
+      "keyframes": [
+        "034282.webp",
+        "034407.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Mặc dù các bạn thấy câu này có vẻ giống như một câu hỏi có từ để hỏi, câu hỏi \"yes no\" và có dấu chấm hỏi, tuy nhiên mục đích chính của câu này là dùng để mời nên nhìn vào các đáp án chúng ta có thể, ta có thể chọn được ngay đáp án câu tường thuật đó là \"invite\".",
+      "start": 1378.28,
+      "end": 1404.48,
+      "n_words": 63,
+      "start_frame": 34457,
+      "end_frame": 35112,
+      "keyframes": [
+        "034532.webp",
+        "034657.webp",
+        "034782.webp",
+        "034907.webp",
+        "034972.webp",
+        "035038.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Vậy \"invite\" có nghĩa là gì đấy ạ?",
+      "start": 1405.48,
+      "end": 1407.44,
+      "n_words": 8,
+      "start_frame": 35137,
+      "end_frame": 35186,
+      "keyframes": [
+        "035163.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Câu \"a remind\" có nghĩa là nhắc nhở, câu \"persuade\" có nghĩa là thuyết phục và câu \"encourage\" có nghĩa là động viên cổ vũ và chúng ta chọn câu mời rồi.",
+      "start": 1407.44,
+      "end": 1420.0,
+      "n_words": 32,
+      "start_frame": 35186,
+      "end_frame": 35500,
+      "keyframes": [
+        "035288.webp",
+        "035413.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tiếp theo câu số tám chúng ta cùng xem câu đề rồi.",
+      "start": 1420.0,
+      "end": 1430.72,
+      "n_words": 12,
+      "start_frame": 35500,
+      "end_frame": 35768,
+      "keyframes": [
+        "035538.webp",
+        "035663.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thì đây giống như một câu kể, tuy nhiên mục đích chính là dùng để từ chối, từ chối đi làm vào cuối tuần.",
+      "start": 1430.72,
+      "end": 1439.36,
+      "n_words": 24,
+      "start_frame": 35768,
+      "end_frame": 35984,
+      "keyframes": [
+        "035788.webp",
+        "035913.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cho nên chúng ta nhìn vào các đáp án, các động từ tường thuật đặc biệt ở đây thì chúng ta sẽ chọn được đáp án \"a refuse to work\", từ chối đi làm vào cuối tuần. Câu b thì sao ạ?",
+      "start": 1439.36,
+      "end": 1455.2,
+      "n_words": 42,
+      "start_frame": 35984,
+      "end_frame": 36380,
+      "keyframes": [
+        "036038.webp",
+        "036163.webp",
+        "036288.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "\"promise to\" là hứa, câu c \"apologize\" là xin lỗi, vì câu no có nghĩa là hối hận vì đã không đi làm rồi.",
+      "start": 1455.2,
+      "end": 1468.72,
+      "n_words": 24,
+      "start_frame": 36380,
+      "end_frame": 36718,
+      "keyframes": [
+        "036413.webp",
+        "036538.webp",
+        "036663.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Câu số chín, i r, câu này cũng là một câu kể.",
+      "start": 1468.72,
+      "end": 1478.4,
+      "n_words": 12,
+      "start_frame": 36718,
+      "end_frame": 36960,
+      "keyframes": [
+        "036788.webp",
+        "036913.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Tuy nhiên các bạn thấy trong các đáp án chúng ta không dùng \"say\" hay là \"to\" và đây không phải là một câu tường thuật thông thường mà chúng ta sử dụng những động từ tường thuật đặc biệt.",
+      "start": 1478.4,
+      "end": 1489.68,
+      "n_words": 40,
+      "start_frame": 36960,
+      "end_frame": 37242,
+      "keyframes": [
+        "037038.webp",
+        "037163.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Vậy mục đích chính của câu này là gì?",
+      "start": 1489.68,
+      "end": 1491.76,
+      "n_words": 9,
+      "start_frame": 37242,
+      "end_frame": 37294,
+      "keyframes": [
+        "037288.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "\"Tôi sẽ gọi cho bạn ngay khi tôi đến sân bay\", vậy mục đích chính của câu này là dùng để hứa, cho nên dựa vào các đáp án chúng ta thấy đáp án phù hợp nhất đó là câu \"promise\".",
+      "start": 1491.76,
+      "end": 1509.28,
+      "n_words": 41,
+      "start_frame": 37294,
+      "end_frame": 37732,
+      "keyframes": [
+        "037413.webp",
+        "037538.webp",
+        "037663.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi câu cuối cùng câu số 13, doctor rồi.",
+      "start": 1509.28,
+      "end": 1520.32,
+      "n_words": 9,
+      "start_frame": 37732,
+      "end_frame": 38008,
+      "keyframes": [
+        "037788.webp",
+        "037913.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Câu này lại là một câu nói bình thường và chúng ta không dùng những động từ tường thuật bình thường đó là \"to\" mà dùng những động từ đặc biệt.",
+      "start": 1520.32,
+      "end": 1530.76,
+      "n_words": 31,
+      "start_frame": 38008,
+      "end_frame": 38269,
+      "keyframes": [
+        "038038.webp",
+        "038163.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Vậy thì chúng ta phải xem mục đích của câu này là gì.",
+      "start": 1530.76,
+      "end": 1534.12,
+      "n_words": 13,
+      "start_frame": 38269,
+      "end_frame": 38353,
+      "keyframes": [
+        "038288.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Các bạn thấy có cụm từ \"had better\" có nghĩa là nên làm.",
+      "start": 1534.12,
+      "end": 1539.52,
+      "n_words": 13,
+      "start_frame": 38353,
+      "end_frame": 38488,
+      "keyframes": [
+        "038413.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Vậy thì câu này có nghĩa là khuyên bạn hãy, bạn nên đi đến bác sĩ và đây là một câu dùng để khuyên.",
+      "start": 1539.52,
+      "end": 1547.68,
+      "n_words": 24,
+      "start_frame": 38488,
+      "end_frame": 38692,
+      "keyframes": [
+        "038538.webp",
+        "038663.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cho nên chúng ta dùng động từ khuyên và đáp án sẽ là \"suggest\".",
+      "start": 1547.68,
+      "end": 1554.16,
+      "n_words": 14,
+      "start_frame": 38692,
+      "end_frame": 38854,
+      "keyframes": [
+        "038788.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúng ta có thể dùng động từ \"advise\" hoặc là động từ \"suggest\".",
+      "start": 1554.16,
+      "end": 1559.56,
+      "n_words": 13,
+      "start_frame": 38854,
+      "end_frame": 38989,
+      "keyframes": [
+        "038913.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Câu A là nhắc nhở; Câu B \"order\" ra lệnh; Và câu C là khăng khăng.",
+      "start": 1559.56,
+      "end": 1579.4,
+      "n_words": 16,
+      "start_frame": 38989,
+      "end_frame": 39485,
+      "keyframes": [
+        "039038.webp",
+        "039163.webp",
+        "039288.webp",
+        "039413.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Vậy câu phù hợp nhất là câu như vậy.",
+      "start": 1579.4,
+      "end": 1582.28,
+      "n_words": 9,
+      "start_frame": 39485,
+      "end_frame": 39557,
+      "keyframes": [
+        "039510.webp",
+        "039546.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Là chúng ta vừa hoàn thành xong chuyên đề về câu tường thuật và hy vọng những kiến thức về các nguyên tắc cơ bản khi tường thuật cũng như những động từ tường thuật cơ bản sẽ giúp các bạn làm tốt bài thi sắp tới.",
+      "start": 1582.28,
+      "end": 1592.8,
+      "n_words": 47,
+      "start_frame": 39557,
+      "end_frame": 39820,
+      "keyframes": [
+        "039730.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chúc các bạn thi tốt và hẹn gặp lại các bạn trong những chuyên đề tiếp theo.",
+      "start": 1592.8,
+      "end": 1598.16,
+      "n_words": 17,
+      "start_frame": 39820,
+      "end_frame": 39954,
+      "keyframes": [
+        "039914.webp",
+        "039945.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Để có được thành công như hôm nay, tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình bắt đầu từ trường Đại học Quốc tế Sài Gòn (SIU), đào tạo đa dạng đa lĩnh vực, mở ra cho chúng tôi nhiều cơ hội lựa chọn nghề nghiệp trong tương lai.",
+      "start": 1598.16,
+      "end": 1617.68,
+      "n_words": 57,
+      "start_frame": 39954,
+      "end_frame": 40442,
+      "keyframes": [
+        "039973.webp",
+        "040001.webp",
+        "040002.webp",
+        "040033.webp",
+        "040064.webp",
+        "040095.webp",
+        "040142.webp",
+        "040189.webp",
+        "040201.webp",
+        "040214.webp",
+        "040228.webp",
+        "040241.webp",
+        "040260.webp",
+        "040280.webp",
+        "040281.webp",
+        "040300.webp",
+        "040319.webp",
+        "040320.webp",
+        "040338.webp",
+        "040357.webp",
+        "040358.webp",
+        "040375.webp",
+        "040393.webp",
+        "040394.webp",
+        "040411.webp",
+        "040428.webp",
+        "040429.webp"
+      ],
+      "keyframe_count": 27
+    },
+    {
+      "text": "Tất cả sinh viên đều có cơ hội để thể hiện và phát triển năng lực, những ý tưởng luôn được khuyến khích và phát huy tối đa.",
+      "start": 1617.68,
+      "end": 1624.92,
+      "n_words": 28,
+      "start_frame": 40442,
+      "end_frame": 40623,
+      "keyframes": [
+        "040446.webp",
+        "040463.webp",
+        "040464.webp",
+        "040474.webp",
+        "040484.webp",
+        "040510.webp",
+        "040520.webp",
+        "040531.webp",
+        "040532.webp",
+        "040548.webp",
+        "040565.webp",
+        "040566.webp",
+        "040593.webp",
+        "040621.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin; Chúng tôi được học cách học, cách nghĩ và cách sống.",
+      "start": 1624.92,
+      "end": 1631.04,
+      "n_words": 23,
+      "start_frame": 40623,
+      "end_frame": 40776,
+      "keyframes": [
+        "040637.webp",
+        "040655.webp",
+        "040673.webp",
+        "040674.webp",
+        "040691.webp",
+        "040709.webp",
+        "040710.webp",
+        "040735.webp",
+        "040760.webp",
+        "040761.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.",
+      "start": 1631.04,
+      "end": 1638.12,
+      "n_words": 28,
+      "start_frame": 40776,
+      "end_frame": 40953,
+      "keyframes": [
+        "040780.webp",
+        "040800.webp",
+        "040801.webp",
+        "040819.webp",
+        "040837.webp",
+        "040848.webp",
+        "040886.webp",
+        "040925.webp",
+        "040937.webp",
+        "040949.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Hiện đại, năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc, đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn (SIU) luôn hướng đến.",
+      "start": 1638.12,
+      "end": 1648.68,
+      "n_words": 34,
+      "start_frame": 40953,
+      "end_frame": 41217,
+      "keyframes": [
+        "040962.webp",
+        "040963.webp",
+        "040979.webp",
+        "040996.webp",
+        "041010.webp",
+        "041021.webp",
+        "041032.webp",
+        "041057.webp",
+        "041067.webp",
+        "041077.webp",
+        "041078.webp",
+        "041089.webp",
+        "041100.webp",
+        "041118.webp",
+        "041125.webp",
+        "041132.webp",
+        "041162.webp",
+        "041179.webp",
+        "041197.webp"
+      ],
+      "keyframe_count": 19
+    },
+    {
+      "text": "Đã đến lúc vươn xa hơn những gì đã học.",
+      "start": 1648.68,
+      "end": 1653.08,
+      "n_words": 10,
+      "start_frame": 41217,
+      "end_frame": 41327,
+      "keyframes": [
+        "041245.webp",
+        "041259.webp",
+        "041274.webp",
+        "041297.webp"
+      ],
+      "keyframe_count": 4
+    }
+  ]
+}

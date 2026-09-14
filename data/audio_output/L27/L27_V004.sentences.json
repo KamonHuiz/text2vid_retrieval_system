@@ -1,0 +1,1409 @@
+{
+  "video_id": "L27_V004",
+  "fps": 25.0,
+  "n_sentences": 87,
+  "total_words": 1758,
+  "sentences": [
+    {
+      "text": "Xin chào các bạn, nơi mà tôi đang sống thì cảnh sắc muôn trùng, đỉnh núi đẹp bao la xung quanh.",
+      "start": 0.04,
+      "end": 9.36,
+      "n_words": 21,
+      "start_frame": 1,
+      "end_frame": 234,
+      "keyframes": [
+        "000015.webp",
+        "000019.webp",
+        "000023.webp",
+        "000024.webp",
+        "000027.webp",
+        "000030.webp",
+        "000031.webp",
+        "000034.webp",
+        "000038.webp",
+        "000039.webp",
+        "000050.webp",
+        "000061.webp",
+        "000062.webp",
+        "000065.webp",
+        "000069.webp",
+        "000070.webp",
+        "000073.webp",
+        "000077.webp",
+        "000078.webp",
+        "000081.webp",
+        "000085.webp",
+        "000086.webp",
+        "000089.webp",
+        "000092.webp",
+        "000093.webp",
+        "000096.webp",
+        "000099.webp",
+        "000100.webp",
+        "000107.webp",
+        "000114.webp",
+        "000115.webp",
+        "000119.webp",
+        "000123.webp",
+        "000124.webp",
+        "000134.webp",
+        "000145.webp",
+        "000146.webp",
+        "000153.webp",
+        "000160.webp",
+        "000161.webp",
+        "000165.webp",
+        "000170.webp",
+        "000171.webp",
+        "000177.webp",
+        "000183.webp",
+        "000184.webp",
+        "000190.webp",
+        "000197.webp",
+        "000198.webp",
+        "000207.webp",
+        "000217.webp",
+        "000218.webp",
+        "000228.webp"
+      ],
+      "keyframe_count": 53
+    },
+    {
+      "text": "Thật thương mến, giờ phải làm sao ta?",
+      "start": 9.36,
+      "end": 11.44,
+      "n_words": 8,
+      "start_frame": 234,
+      "end_frame": 286,
+      "keyframes": [
+        "000239.webp",
+        "000240.webp",
+        "000247.webp",
+        "000255.webp",
+        "000256.webp",
+        "000262.webp",
+        "000269.webp",
+        "000270.webp",
+        "000276.webp",
+        "000282.webp",
+        "000283.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Đi từ đây ta biết thêm và học hỏi thêm điều mới về phong tục văn hóa, ẩm thực Việt Nam.",
+      "start": 11.44,
+      "end": 17.88,
+      "n_words": 21,
+      "start_frame": 286,
+      "end_frame": 447,
+      "keyframes": [
+        "000290.webp",
+        "000298.webp",
+        "000299.webp",
+        "000306.webp",
+        "000314.webp",
+        "000315.webp",
+        "000322.webp",
+        "000329.webp",
+        "000330.webp",
+        "000336.webp",
+        "000343.webp",
+        "000344.webp",
+        "000351.webp",
+        "000359.webp",
+        "000360.webp",
+        "000366.webp",
+        "000373.webp",
+        "000374.webp",
+        "000380.webp",
+        "000387.webp",
+        "000388.webp",
+        "000395.webp",
+        "000403.webp",
+        "000436.webp"
+      ],
+      "keyframe_count": 24
+    },
+    {
+      "text": "Ta đi đây, lúc này quả tuyệt vời! Xin chào, xin chào các bạn khán giả của \"Việt Nam đi là ghiền\".",
+      "start": 17.88,
+      "end": 53.44,
+      "n_words": 22,
+      "start_frame": 447,
+      "end_frame": 1336,
+      "keyframes": [
+        "000511.webp",
+        "000586.webp",
+        "000595.webp",
+        "000631.webp",
+        "000667.webp",
+        "000668.webp",
+        "000679.webp",
+        "000691.webp",
+        "000692.webp",
+        "000702.webp",
+        "000712.webp",
+        "000713.webp",
+        "000725.webp",
+        "000737.webp",
+        "000738.webp",
+        "000746.webp",
+        "000755.webp",
+        "000756.webp",
+        "000766.webp",
+        "000776.webp",
+        "000777.webp",
+        "000797.webp",
+        "000818.webp",
+        "000819.webp",
+        "000859.webp",
+        "000900.webp",
+        "000901.webp",
+        "000919.webp",
+        "000937.webp",
+        "000938.webp",
+        "000970.webp",
+        "001003.webp",
+        "001024.webp",
+        "001029.webp",
+        "001035.webp",
+        "001036.webp",
+        "001048.webp",
+        "001060.webp",
+        "001061.webp",
+        "001091.webp",
+        "001121.webp",
+        "001122.webp",
+        "001180.webp",
+        "001238.webp",
+        "001239.webp"
+      ],
+      "keyframe_count": 45
+    },
+    {
+      "text": "Đã lâu lắm rồi thì Nhật Trường mới được đồng hành cùng với tất cả các bạn.",
+      "start": 53.44,
+      "end": 56.52,
+      "n_words": 17,
+      "start_frame": 1336,
+      "end_frame": 1413,
+      "keyframes": [
+        "001391.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Sau khi mà chúng ta chia tay với mảnh đất Hà Tiên, ngày hôm nay, Trường sẽ cùng với các bạn đi khám phá một địa điểm được mệnh danh là nóc nhà của khu vực đồng bằng sông Cửu Long, đó chính là Thiên Cấm Sơn, hay còn gọi là núi Cấm.",
+      "start": 56.72,
+      "end": 69.52,
+      "n_words": 53,
+      "start_frame": 1418,
+      "end_frame": 1738,
+      "keyframes": [
+        "001543.webp",
+        "001544.webp",
+        "001642.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Trường đang đứng đây là ở chân của núi Cấm, mà mọi người có thể quan sát xung quanh là những cây thốt nốt, một loại đặc sản của vùng đất An Giang rồi, có những cánh đồng rất là mênh mông.",
+      "start": 69.52,
+      "end": 78.44,
+      "n_words": 42,
+      "start_frame": 1738,
+      "end_frame": 1961,
+      "keyframes": [
+        "001740.webp",
+        "001741.webp",
+        "001818.webp",
+        "001895.webp",
+        "001896.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nên là ngay bây giờ đây, chúng ta sẽ cùng gặp gỡ với khách mời là người sẽ dẫn Nhật Trường đi tham quan trong hành trình của ngày hôm nay.",
+      "start": 78.44,
+      "end": 85.16,
+      "n_words": 31,
+      "start_frame": 1961,
+      "end_frame": 2129,
+      "keyframes": [
+        "001965.webp",
+        "002034.webp",
+        "002035.webp",
+        "002110.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Xin được giới thiệu, đó chính là anh Việt Anh, anh đang công tác tại Ban quản lý của khu du lịch núi Cấm. - Em chào anh! - Chào em. - Hôm nay chúng ta sẽ cùng nhau đi trekking nha? - Ồ trekking đúng rồi.",
+      "start": 85.16,
+      "end": 96.64,
+      "n_words": 47,
+      "start_frame": 2129,
+      "end_frame": 2416,
+      "keyframes": [
+        "002186.webp",
+        "002187.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Con đường trekking của chúng ta là băng qua cánh đồng thốt nốt lên suối Thanh Long và chinh phục đỉnh Bồ Hồng. Bạn đã sẵn sàng chưa? - Dạ, đây rồi, tiến hành theo anh.",
+      "start": 96.64,
+      "end": 106.76,
+      "n_words": 36,
+      "start_frame": 2416,
+      "end_frame": 2669,
+      "keyframes": [
+        "002473.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Tôi là công đoạn chuẩn bị cho vụ mới, cào đất cho nó bằng ra.",
+      "start": 106.76,
+      "end": 120.16,
+      "n_words": 15,
+      "start_frame": 2669,
+      "end_frame": 3004,
+      "keyframes": [
+        "002759.webp",
+        "002760.webp",
+        "002812.webp",
+        "002864.webp",
+        "002865.webp",
+        "002946.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Năm mình làm mấy vụ lận ở đây là làm, chỉ có một hồ duy nhất thôi, khi mà mưa xuống là người dân mới bắt đầu tát đất để mà trồng lúa.",
+      "start": 120.16,
+      "end": 134.08,
+      "n_words": 33,
+      "start_frame": 3004,
+      "end_frame": 3352,
+      "keyframes": [
+        "003028.webp",
+        "003029.webp",
+        "003059.webp",
+        "003090.webp",
+        "003091.webp",
+        "003140.webp",
+        "003190.webp",
+        "003191.webp",
+        "003243.webp",
+        "003296.webp",
+        "003297.webp",
+        "003350.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "- Ủa sao tự nhiên đây có cái giếng gì anh?",
+      "start": 134.08,
+      "end": 136.28,
+      "n_words": 11,
+      "start_frame": 3352,
+      "end_frame": 3407,
+      "keyframes": [
+        "003403.webp",
+        "003404.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "- Đây là cái giếng cổ của người Khmer.",
+      "start": 136.28,
+      "end": 138.08,
+      "n_words": 9,
+      "start_frame": 3407,
+      "end_frame": 3452,
+      "keyframes": [
+        "003434.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Em thấy không mọi người, tuy là làm lại cái mặt bằng ở trên nhưng mà vẫn giữ lại cái dòng chữ cổ của người Khmer để ở cái giếng này.",
+      "start": 138.08,
+      "end": 146.84,
+      "n_words": 31,
+      "start_frame": 3452,
+      "end_frame": 3671,
+      "keyframes": [
+        "003464.webp",
+        "003465.webp",
+        "003517.webp",
+        "003569.webp",
+        "003570.webp",
+        "003619.webp",
+        "003668.webp",
+        "003669.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Giếng này là để cho bà con sinh hoạt, nấu nướng đồ ăn rồi các thứ sinh hoạt trong gia đình.",
+      "start": 146.84,
+      "end": 153.16,
+      "n_words": 21,
+      "start_frame": 3671,
+      "end_frame": 3829,
+      "keyframes": [
+        "003745.webp",
+        "003822.webp",
+        "003823.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "- Ôi, rửa mặt một cái cho nó mát nè nha.",
+      "start": 153.16,
+      "end": 159.36,
+      "n_words": 11,
+      "start_frame": 3829,
+      "end_frame": 3984,
+      "keyframes": [
+        "003906.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Có dịp xuống đây là phải ghé trạm tiếp nước nha các bạn nha.",
+      "start": 159.36,
+      "end": 162.64,
+      "n_words": 14,
+      "start_frame": 3984,
+      "end_frame": 4066,
+      "keyframes": [
+        "003990.webp",
+        "003991.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rồi thôi được rồi, vô đây thôi, mình để lại hồi nữa ai muốn dùng anh hả? Rồi thì giờ đi tiếp anh ơi.",
+      "start": 162.64,
+      "end": 170.76,
+      "n_words": 24,
+      "start_frame": 4066,
+      "end_frame": 4269,
+      "keyframes": [
+        "004162.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đi thôi đi các bạn ơi! - Mệt chưa? - Hơi hơi.",
+      "start": 170.76,
+      "end": 175.32,
+      "n_words": 12,
+      "start_frame": 4269,
+      "end_frame": 4383,
+      "keyframes": [
+        "004333.webp",
+        "004338.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "- Rồi bây giờ ở chỗ đó là mình mới có cánh đồng bằng thôi, giờ chưa có bước lên đâu.",
+      "start": 175.32,
+      "end": 180.76,
+      "n_words": 21,
+      "start_frame": 4383,
+      "end_frame": 4519,
+      "keyframes": [
+        "004440.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ mình mới bắt đầu mình chinh phục nè.",
+      "start": 180.76,
+      "end": 183.84,
+      "n_words": 10,
+      "start_frame": 4519,
+      "end_frame": 4596,
+      "keyframes": [
+        "004543.webp",
+        "004544.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đi cẩn thận nha, đá nhọn đó.",
+      "start": 183.84,
+      "end": 185.8,
+      "n_words": 7,
+      "start_frame": 4596,
+      "end_frame": 4645,
+      "keyframes": [
+        "004601.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "- Dạ dạ.",
+      "start": 185.8,
+      "end": 186.6,
+      "n_words": 3,
+      "start_frame": 4645,
+      "end_frame": 4665,
+      "keyframes": [
+        "004659.webp",
+        "004660.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "- Thấy chỗ này nó sẽ hơi trơn nên là mình phải lựa mấy cái dải nào mà chuyên dụng xíu.",
+      "start": 186.6,
+      "end": 190.84,
+      "n_words": 21,
+      "start_frame": 4665,
+      "end_frame": 4771,
+      "keyframes": [
+        "004717.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đi mà đi phải chắc từng bước, từng bước một đi.",
+      "start": 190.84,
+      "end": 200.96,
+      "n_words": 11,
+      "start_frame": 4771,
+      "end_frame": 5024,
+      "keyframes": [
+        "004774.webp",
+        "004775.webp",
+        "004800.webp",
+        "004826.webp",
+        "004827.webp",
+        "004919.webp",
+        "005011.webp",
+        "005012.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Nó hơi mệt nhưng mà mát, trời không khí đã lắm.",
+      "start": 200.96,
+      "end": 212.88,
+      "n_words": 11,
+      "start_frame": 5024,
+      "end_frame": 5322,
+      "keyframes": [
+        "005056.webp",
+        "005101.webp",
+        "005102.webp",
+        "005134.webp",
+        "005167.webp",
+        "005168.webp",
+        "005192.webp",
+        "005217.webp",
+        "005218.webp",
+        "005268.webp",
+        "005319.webp",
+        "005320.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Tới điểm đến đầu tiên, một con suối rất đẹp.",
+      "start": 212.88,
+      "end": 215.76,
+      "n_words": 10,
+      "start_frame": 5322,
+      "end_frame": 5394,
+      "keyframes": [
+        "005359.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Suối này là suối Thanh Long. - Dạ.",
+      "start": 215.76,
+      "end": 217.68,
+      "n_words": 8,
+      "start_frame": 5394,
+      "end_frame": 5442,
+      "keyframes": [
+        "005399.webp",
+        "005400.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "- Đây là ngọn suối dài nhất của An Giang với chiều dài là 4.25 km và cao trung bình so với mặt nước biển là 250 mét.",
+      "start": 217.68,
+      "end": 228.88,
+      "n_words": 28,
+      "start_frame": 5442,
+      "end_frame": 5722,
+      "keyframes": [
+        "005497.webp",
+        "005595.webp",
+        "005596.webp",
+        "005643.webp",
+        "005690.webp",
+        "005691.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "- Ôi, nước rất là mát nha, mát lạnh luôn, á nước trong vắt luôn, quá tuyệt vời!",
+      "start": 228.88,
+      "end": 241.4,
+      "n_words": 18,
+      "start_frame": 5722,
+      "end_frame": 6035,
+      "keyframes": [
+        "005725.webp",
+        "005759.webp",
+        "005760.webp",
+        "005804.webp",
+        "005849.webp",
+        "005850.webp",
+        "005931.webp",
+        "006012.webp",
+        "006013.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Ở đây bà con địa phương hay gọi ở đây có hai cái tên.",
+      "start": 241.4,
+      "end": 245.52,
+      "n_words": 14,
+      "start_frame": 6035,
+      "end_frame": 6138,
+      "keyframes": [
+        "006055.webp",
+        "006098.webp",
+        "006099.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Một khu vực này là người ta gọi là thác cây chôm chôm, vì ở đây có cây chôm chôm nó mọc từ xưa tới đây nè.",
+      "start": 245.52,
+      "end": 252.24,
+      "n_words": 27,
+      "start_frame": 6138,
+      "end_frame": 6306,
+      "keyframes": [
+        "006147.webp",
+        "006195.webp",
+        "006196.webp",
+        "006250.webp",
+        "006305.webp",
+        "006306.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Ồ, quá trời trái luôn kìa, mà đang chưa vô mùa, xanh xanh.",
+      "start": 252.24,
+      "end": 256.4,
+      "n_words": 13,
+      "start_frame": 6306,
+      "end_frame": 6410,
+      "keyframes": [
+        "006306.webp",
+        "006339.webp",
+        "006373.webp",
+        "006374.webp",
+        "006400.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Còn cái tên nữa là thác Cửa Núi. - Thác Cửa Núi hả?",
+      "start": 256.4,
+      "end": 260.32,
+      "n_words": 13,
+      "start_frame": 6410,
+      "end_frame": 6508,
+      "keyframes": [
+        "006426.webp",
+        "006427.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "- Thì tại ở đây khu vực này là cái cửa núi. - Em hiểu rồi, em hiểu rồi.",
+      "start": 260.32,
+      "end": 264.32,
+      "n_words": 19,
+      "start_frame": 6508,
+      "end_frame": 6608,
+      "keyframes": [
+        "006571.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Vậy là nếu mà mấy bạn mà lâu lâu mà muốn check-in thì không nói gì, còn lỡ mà muốn đi tới đây thôi thì hỏi bà con nè: \"Thác Thanh Long\", \"Thác Cửa Núi\" hoặc là \"Thác cây chôm chôm\" là được, mọi người chỉ đường vô đây yên tâm nha.",
+      "start": 264.32,
+      "end": 275.72,
+      "n_words": 52,
+      "start_frame": 6608,
+      "end_frame": 6893,
+      "keyframes": [
+        "006716.webp",
+        "006717.webp",
+        "006741.webp",
+        "006766.webp",
+        "006767.webp",
+        "006850.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Đây là một cái nơi kế tiếp mà anh muốn dẫn em đi tới, đó là cái khu cắm trại.",
+      "start": 275.72,
+      "end": 280.8,
+      "n_words": 20,
+      "start_frame": 6893,
+      "end_frame": 7020,
+      "keyframes": [
+        "006933.webp",
+        "006934.webp",
+        "006967.webp",
+        "007001.webp",
+        "007002.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Khu cắm trại đã không các bạn, đã không các bạn? Ở đây có một cái điều đặc biệt là toàn ghế không à.",
+      "start": 280.8,
+      "end": 294.52,
+      "n_words": 24,
+      "start_frame": 7020,
+      "end_frame": 7363,
+      "keyframes": [
+        "007021.webp",
+        "007040.webp",
+        "007041.webp",
+        "007068.webp",
+        "007096.webp",
+        "007097.webp",
+        "007128.webp",
+        "007160.webp",
+        "007161.webp",
+        "007198.webp",
+        "007235.webp",
+        "007236.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Biết sao không? Phải bàn view này là không phải - Trời ơi đẹp quá anh ơi!",
+      "start": 294.52,
+      "end": 298.8,
+      "n_words": 17,
+      "start_frame": 7363,
+      "end_frame": 7470,
+      "keyframes": [
+        "007370.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Hồ bên này gọi là hồ gì vậy anh hả?",
+      "start": 298.8,
+      "end": 300.28,
+      "n_words": 10,
+      "start_frame": 7470,
+      "end_frame": 7507,
+      "keyframes": [
+        "007504.webp",
+        "007505.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "- Hồ này là hồ sơ.",
+      "start": 300.28,
+      "end": 302.2,
+      "n_words": 6,
+      "start_frame": 7507,
+      "end_frame": 7555,
+      "keyframes": [
+        "007550.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ở đây là hoàng hôn là theo hướng này. - Dạ ôi, hướng này luôn hả? Đúng rồi, là quá tuyệt vời rồi!",
+      "start": 302.2,
+      "end": 307.32,
+      "n_words": 23,
+      "start_frame": 7555,
+      "end_frame": 7683,
+      "keyframes": [
+        "007596.webp",
+        "007597.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đây là cái cánh đồng thốt nốt nè, xuống đồng bằng nè, khu vực Tịnh Biên nè.",
+      "start": 307.32,
+      "end": 319.08,
+      "n_words": 17,
+      "start_frame": 7683,
+      "end_frame": 7977,
+      "keyframes": [
+        "007684.webp",
+        "007771.webp",
+        "007772.webp",
+        "007821.webp",
+        "007871.webp",
+        "007872.webp",
+        "007899.webp",
+        "007927.webp",
+        "007928.webp",
+        "007951.webp",
+        "007975.webp",
+        "007976.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Ở trên này á có hộ dân sinh sống trên núi nè, làm nghề làm vườn đồ này kia xung quanh nhà cửa.",
+      "start": 319.08,
+      "end": 326.36,
+      "n_words": 23,
+      "start_frame": 7977,
+      "end_frame": 8159,
+      "keyframes": [
+        "008101.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đó, anh Tư chào anh Tư!",
+      "start": 326.36,
+      "end": 329.28,
+      "n_words": 6,
+      "start_frame": 8159,
+      "end_frame": 8232,
+      "keyframes": [
+        "008226.webp",
+        "008227.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rồi rồi, dạ em chào anh Tư, bác Ba, anh Tư cái nha.",
+      "start": 329.28,
+      "end": 334.44,
+      "n_words": 13,
+      "start_frame": 8232,
+      "end_frame": 8361,
+      "keyframes": [
+        "008292.webp",
+        "008358.webp",
+        "008359.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "- Ủa mà khoan, bây giờ anh đang nấu gì vậy?",
+      "start": 334.44,
+      "end": 336.4,
+      "n_words": 11,
+      "start_frame": 8361,
+      "end_frame": 8410,
+      "keyframes": [
+        "008388.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "- Bánh tét. - Ủa nấu bánh tét hả? Hôm nay có dịp gì mà nấu bánh tét?",
+      "start": 336.4,
+      "end": 339.24,
+      "n_words": 18,
+      "start_frame": 8410,
+      "end_frame": 8481,
+      "keyframes": [
+        "008418.webp",
+        "008419.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "- Anh cũng như lâu lâu thì cũng như có chút chính, cái lâu lâu cho mình ăn bánh tét nhân chuối hả?",
+      "start": 339.24,
+      "end": 344.64,
+      "n_words": 23,
+      "start_frame": 8481,
+      "end_frame": 8616,
+      "keyframes": [
+        "008515.webp",
+        "008612.webp",
+        "008613.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Nóng nóng ui!",
+      "start": 344.96,
+      "end": 347.44,
+      "n_words": 3,
+      "start_frame": 8624,
+      "end_frame": 8686,
+      "keyframes": [
+        "008628.webp",
+        "008643.webp",
+        "008644.webp",
+        "008665.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Các bạn thấy không, cây trái trong vườn có nhiều cái mùa, cái là mình làm được cái này cái kia.",
+      "start": 347.44,
+      "end": 352.12,
+      "n_words": 21,
+      "start_frame": 8686,
+      "end_frame": 8803,
+      "keyframes": [
+        "008687.webp",
+        "008688.webp",
+        "008724.webp",
+        "008760.webp",
+        "008761.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nhìn này, có chuối chín cái là mấy anh gói bánh tét chuối xong rồi đi biếu vòng vòng bà con chòm xóm, tình làng nghĩa xóm mới vui.",
+      "start": 352.12,
+      "end": 359.0,
+      "n_words": 29,
+      "start_frame": 8803,
+      "end_frame": 8975,
+      "keyframes": [
+        "008830.webp",
+        "008900.webp",
+        "008901.webp",
+        "008934.webp",
+        "008968.webp",
+        "008969.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "- Rồi em thấy vườn mình cũng cây trái quá trời, mình có trồng bao nhiêu loại lận anh hả? - Đây trồng có mấy loại thôi.",
+      "start": 359.0,
+      "end": 366.16,
+      "n_words": 27,
+      "start_frame": 8975,
+      "end_frame": 9154,
+      "keyframes": [
+        "009000.webp",
+        "009031.webp",
+        "009032.webp",
+        "009068.webp",
+        "009105.webp",
+        "009106.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "- Sao ghê, anh Tâm thấy không bơ sầu mà không?",
+      "start": 366.16,
+      "end": 371.16,
+      "n_words": 11,
+      "start_frame": 9154,
+      "end_frame": 9279,
+      "keyframes": [
+        "009187.webp",
+        "009269.webp",
+        "009270.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ấy giờ có anh dẫn em đi tham quan vườn bơ được không, coi có trái nào chín cái mình thưởng thức thử được không anh hả? - Hết sảy tuyệt vời quá!",
+      "start": 371.16,
+      "end": 380.96,
+      "n_words": 33,
+      "start_frame": 9279,
+      "end_frame": 9524,
+      "keyframes": [
+        "009406.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đã các bạn ơi, cái này là cái bơ nè, dạ rụng rụng rụng rụng quá trời.",
+      "start": 380.96,
+      "end": 388.0,
+      "n_words": 17,
+      "start_frame": 9524,
+      "end_frame": 9700,
+      "keyframes": [
+        "009543.webp",
+        "009544.webp",
+        "009576.webp",
+        "009608.webp",
+        "009609.webp",
+        "009657.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "- Ủa mà anh là nó chín rồi nó rụng hay là nó chín đó rồi rụng?",
+      "start": 388.0,
+      "end": 390.84,
+      "n_words": 17,
+      "start_frame": 9700,
+      "end_frame": 9771,
+      "keyframes": [
+        "009705.webp",
+        "009706.webp",
+        "009739.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "- Chín là rụng luôn đó nha, ăn đó, dạ thử mời các bạn nha. Các bạn thấy không, đi trekking với anh Việt Anh quá tuyệt vời.",
+      "start": 390.84,
+      "end": 403.52,
+      "n_words": 28,
+      "start_frame": 9771,
+      "end_frame": 10088,
+      "keyframes": [
+        "009773.webp",
+        "009774.webp",
+        "009803.webp",
+        "009833.webp",
+        "009834.webp",
+        "009891.webp",
+        "009949.webp",
+        "009950.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Không chỉ là mình được khám phá cảnh đẹp, đi thăm vườn trái cây, rồi được ăn tại chỗ luôn, tại chỗ luôn, quá là tuyệt vời.",
+      "start": 403.52,
+      "end": 409.0,
+      "n_words": 27,
+      "start_frame": 10088,
+      "end_frame": 10225,
+      "keyframes": [
+        "010150.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nên là có dịp mà tới khu du lịch núi Cấm ở An Giang trải nghiệm nha.",
+      "start": 409.0,
+      "end": 414.24,
+      "n_words": 17,
+      "start_frame": 10225,
+      "end_frame": 10356,
+      "keyframes": [
+        "010351.webp",
+        "010352.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chuẩn bị là chia tay đi về rồi thì anh Tư mới nói là giờ có cái trò này vui lắm.",
+      "start": 414.24,
+      "end": 417.92,
+      "n_words": 21,
+      "start_frame": 10356,
+      "end_frame": 10448,
+      "keyframes": [
+        "010441.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Anh Tư sẽ dẫn mọi người đi dùng cái dụng cụ này để định vị bí mật mà anh nói luôn.",
+      "start": 417.92,
+      "end": 424.64,
+      "n_words": 21,
+      "start_frame": 10448,
+      "end_frame": 10616,
+      "keyframes": [
+        "010530.webp",
+        "010531.webp",
+        "010547.webp",
+        "010563.webp",
+        "010564.webp",
+        "010614.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi đi câu cua có bí kíp gì không? - Cái này là chỉ mình im lặng.",
+      "start": 424.64,
+      "end": 429.8,
+      "n_words": 17,
+      "start_frame": 10616,
+      "end_frame": 10745,
+      "keyframes": [
+        "010665.webp",
+        "010666.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "- Ủa kỳ vậy, nếu mà nói chuyện là nó đâu có ăn? - Nó sợ. - Khó quá!",
+      "start": 429.8,
+      "end": 435.36,
+      "n_words": 19,
+      "start_frame": 10745,
+      "end_frame": 10884,
+      "keyframes": [
+        "010828.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Bây giờ các bạn ơi theo chúng tôi đi câu cua nhưng mà im lặng nha.",
+      "start": 435.36,
+      "end": 447.52,
+      "n_words": 16,
+      "start_frame": 10884,
+      "end_frame": 11188,
+      "keyframes": [
+        "010991.webp",
+        "010992.webp",
+        "011018.webp",
+        "011045.webp",
+        "011046.webp",
+        "011089.webp",
+        "011132.webp",
+        "011133.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Một con cua các bạn ơi, thêm một con nữa con này bự hơn nè.",
+      "start": 447.52,
+      "end": 453.92,
+      "n_words": 15,
+      "start_frame": 11188,
+      "end_frame": 11348,
+      "keyframes": [
+        "011192.webp",
+        "011252.webp",
+        "011253.webp",
+        "011276.webp",
+        "011299.webp",
+        "011300.webp",
+        "011345.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Khoan khoan khoan khoan, để em kỹ em cầm lại nha.",
+      "start": 453.92,
+      "end": 456.0,
+      "n_words": 11,
+      "start_frame": 11348,
+      "end_frame": 11400,
+      "keyframes": [
+        "011390.webp",
+        "011391.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rồi wow các bạn ơi, hai con cua rồi!",
+      "start": 456.0,
+      "end": 459.6,
+      "n_words": 9,
+      "start_frame": 11400,
+      "end_frame": 11490,
+      "keyframes": [
+        "011448.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ủa mà con này nó cái càng nó đỏ hơn anh ha? - Là nó lớn hơn nè. Ừ, được hai con các bạn.",
+      "start": 459.6,
+      "end": 465.04,
+      "n_words": 24,
+      "start_frame": 11490,
+      "end_frame": 11626,
+      "keyframes": [
+        "011506.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Các bạn, đây là một cái trải nghiệm tôi nói thiệt là sẽ rất là đặc biệt và ấn tượng luôn.",
+      "start": 465.4,
+      "end": 469.52,
+      "n_words": 21,
+      "start_frame": 11635,
+      "end_frame": 11738,
+      "keyframes": [
+        "011647.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nên là nếu mà lần nào mà mấy bạn mà có dịp mà tới núi Cấm, liên hệ với anh Việt Anh ghé qua nhà của anh Tư đó, mấy anh sẽ dẫn đi câu cua như thế này.",
+      "start": 469.52,
+      "end": 477.32,
+      "n_words": 39,
+      "start_frame": 11738,
+      "end_frame": 11933,
+      "keyframes": [
+        "011784.webp",
+        "011922.webp",
+        "011923.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Thì mình thả về đi ha, để cho biết đâu nó sẽ đẻ ra một đàn cua nữa, lúc đó mình có nhiều cái kinh nghiệm trải nghiệm hơn nữa ha. Thấy thế nào?",
+      "start": 477.32,
+      "end": 505.6,
+      "n_words": 34,
+      "start_frame": 11933,
+      "end_frame": 12640,
+      "keyframes": [
+        "011943.webp",
+        "011964.webp",
+        "011965.webp",
+        "012010.webp",
+        "012055.webp",
+        "012056.webp",
+        "012117.webp",
+        "012179.webp",
+        "012180.webp",
+        "012205.webp",
+        "012231.webp",
+        "012232.webp",
+        "012256.webp",
+        "012281.webp",
+        "012282.webp",
+        "012306.webp",
+        "012330.webp",
+        "012331.webp",
+        "012374.webp",
+        "012418.webp",
+        "012419.webp",
+        "012494.webp",
+        "012570.webp",
+        "012571.webp"
+      ],
+      "keyframe_count": 24
+    },
+    {
+      "text": "Bái phục bái phục anh!",
+      "start": 505.6,
+      "end": 506.84,
+      "n_words": 5,
+      "start_frame": 12640,
+      "end_frame": 12671,
+      "keyframes": [
+        "012659.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Trời ơi đẹp quá các bạn ơi, các bạn nhìn nè, trời ơi tuyệt vời luôn á. Mà anh Việt Anh hiện giờ là mình đang ở độ cao khoảng nhiêu rồi anh?",
+      "start": 506.84,
+      "end": 513.12,
+      "n_words": 33,
+      "start_frame": 12671,
+      "end_frame": 12828,
+      "keyframes": [
+        "012747.webp",
+        "012748.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "- Mình đang ở độ cao 710 mét so với mặt nước biển.",
+      "start": 513.12,
+      "end": 515.96,
+      "n_words": 13,
+      "start_frame": 12828,
+      "end_frame": 12899,
+      "keyframes": [
+        "012848.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Nơi đây là đỉnh Bồ Hồng cũng là nơi cao nhất của dãy Thất Sơn.",
+      "start": 515.96,
+      "end": 520.96,
+      "n_words": 15,
+      "start_frame": 12899,
+      "end_frame": 13024,
+      "keyframes": [
+        "012948.webp",
+        "012949.webp",
+        "012992.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "- Bồ Hồng tại sao có cái tên Bồ Hồng vậy anh?",
+      "start": 520.96,
+      "end": 523.48,
+      "n_words": 12,
+      "start_frame": 13024,
+      "end_frame": 13087,
+      "keyframes": [
+        "013035.webp",
+        "013036.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "- Tương truyền ông bà xưa ở trên đây sống rất là nhiều con bồng á hả?",
+      "start": 523.48,
+      "end": 529.0,
+      "n_words": 17,
+      "start_frame": 13087,
+      "end_frame": 13225,
+      "keyframes": [
+        "013140.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đúng rồi, mà phải dùng tới là khói để đuổi bồng đi mỗi buổi chiều.",
+      "start": 529.0,
+      "end": 536.48,
+      "n_words": 15,
+      "start_frame": 13225,
+      "end_frame": 13412,
+      "keyframes": [
+        "013245.webp",
+        "013246.webp",
+        "013298.webp",
+        "013351.webp",
+        "013352.webp",
+        "013397.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Các bạn thân mến, vậy là chúng ta đã có một ngày trải nghiệm quá ư là tuyệt vời ở núi Cấm của An Giang.",
+      "start": 536.48,
+      "end": 542.24,
+      "n_words": 25,
+      "start_frame": 13412,
+      "end_frame": 13556,
+      "keyframes": [
+        "013442.webp",
+        "013443.webp",
+        "013499.webp",
+        "013555.webp",
+        "013556.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Trường tin là các bạn cũng giống với Trường, có một cái trải nghiệm phải nói là đáng nhớ.",
+      "start": 542.24,
+      "end": 546.28,
+      "n_words": 19,
+      "start_frame": 13556,
+      "end_frame": 13657,
+      "keyframes": [
+        "013556.webp",
+        "013607.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Thứ nhất là được trải nghiệm điều mới nè, thứ hai là mình học hỏi được rất là nhiều những kiến thức về kỹ năng trekking, kỹ năng sinh tồn rồi nhiều điều xung quanh khác về văn hóa và con người của vùng đất An Giang nữa. Và số phát sóng ngày hôm nay đến đây đã là hết rồi.",
+      "start": 546.28,
+      "end": 560.12,
+      "n_words": 61,
+      "start_frame": 13657,
+      "end_frame": 14003,
+      "keyframes": [
+        "013659.webp",
+        "013660.webp",
+        "013843.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hẹn gặp lại các bạn vào lúc 11:50 thứ sáu hàng tuần trên kênh HTV7.",
+      "start": 560.12,
+      "end": 565.8,
+      "n_words": 15,
+      "start_frame": 14003,
+      "end_frame": 14145,
+      "keyframes": [
+        "014026.webp",
+        "014027.webp",
+        "014046.webp",
+        "014066.webp",
+        "014067.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Chương trình sẽ được phát lại vào ngày thứ tư và thứ năm của tuần tiếp theo.",
+      "start": 566.12,
+      "end": 569.52,
+      "n_words": 17,
+      "start_frame": 14153,
+      "end_frame": 14238,
+      "keyframes": [
+        "014191.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ngoài ra, để theo dõi nhiều hơn những tập phát sóng của chúng tôi, các bạn có thể vào kênh YouTube của \"Việt Nam đi là ghiền\", kênh YouTube HTV Giải Trí.",
+      "start": 569.52,
+      "end": 577.28,
+      "n_words": 32,
+      "start_frame": 14238,
+      "end_frame": 14432,
+      "keyframes": [
+        "014294.webp",
+        "014316.webp",
+        "014317.webp",
+        "014391.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cảm ơn tất cả các bạn, cảm ơn đã đồng hành cùng với Nhật Trường trong ngày hôm nay cùng với \"Việt Nam đi là ghiền\".",
+      "start": 577.28,
+      "end": 582.96,
+      "n_words": 26,
+      "start_frame": 14432,
+      "end_frame": 14574,
+      "keyframes": [
+        "014466.webp",
+        "014467.webp",
+        "014514.webp",
+        "014561.webp"
+      ],
+      "keyframe_count": 4
+    }
+  ]
+}

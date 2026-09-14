@@ -1,0 +1,671 @@
+{
+  "video_id": "L26_V204",
+  "fps": 25.0,
+  "n_sentences": 33,
+  "total_words": 1061,
+  "sentences": [
+    {
+      "text": "Món ngon mỗi ngày, bữa sáng chất lượng với xôi xá xíu.",
+      "start": 10.48,
+      "end": 29.32,
+      "n_words": 12,
+      "start_frame": 262,
+      "end_frame": 733,
+      "keyframes": [
+        "000299.webp",
+        "000300.webp",
+        "000332.webp",
+        "000364.webp",
+        "000365.webp",
+        "000408.webp",
+        "000452.webp",
+        "000467.webp",
+        "000512.webp",
+        "000557.webp",
+        "000558.webp",
+        "000648.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Rất vui khi được gặp lại quý vị khán giả đang xem chương trình Món ngon mỗi ngày, nấu chuẩn ăn lành.",
+      "start": 29.32,
+      "end": 34.56,
+      "n_words": 22,
+      "start_frame": 733,
+      "end_frame": 864,
+      "keyframes": [
+        "000738.webp",
+        "000739.webp",
+        "000853.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 34.56,
+      "end": 38.68,
+      "n_words": 11,
+      "start_frame": 864,
+      "end_frame": 967,
+      "keyframes": [
+        "000967.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Xôi là món khoái khẩu của Thanh Phương.",
+      "start": 38.68,
+      "end": 40.44,
+      "n_words": 8,
+      "start_frame": 967,
+      "end_frame": 1011,
+      "keyframes": [
+        "000967.webp",
+        "000968.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Các bạn ơi, xôi dẻo, ngon nè và nhất là giúp cho chúng ta cảm thấy là no lâu, chắc bụng nữa.",
+      "start": 40.44,
+      "end": 46.56,
+      "n_words": 22,
+      "start_frame": 1011,
+      "end_frame": 1164,
+      "keyframes": [
+        "001114.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Vậy thì bây giờ chúng ta hãy cùng nhau tìm hiểu cách thức để thực hiện món xôi ngày hôm nay nhé.",
+      "start": 46.56,
+      "end": 50.8,
+      "n_words": 22,
+      "start_frame": 1164,
+      "end_frame": 1270,
+      "keyframes": [
+        "001261.webp",
+        "001262.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Và đầu tiên thì nếp chúng ta ngâm với nước lạnh khoảng 4 giờ, sau đó chúng ta để ráo.",
+      "start": 50.8,
+      "end": 55.24,
+      "n_words": 20,
+      "start_frame": 1270,
+      "end_frame": 1381,
+      "keyframes": [
+        "001284.webp",
+        "001306.webp",
+        "001307.webp",
+        "001347.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Như vậy rồi chúng ta bắt lên đây một cái nồi hấp để chúng ta đồ xôi nếp.",
+      "start": 55.24,
+      "end": 59.44,
+      "n_words": 18,
+      "start_frame": 1381,
+      "end_frame": 1486,
+      "keyframes": [
+        "001387.webp",
+        "001388.webp",
+        "001434.webp",
+        "001481.webp",
+        "001482.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nếp chúng ta cho vào trong xửng hấp và chúng ta nhớ chừa cái lỗ để cho có khí lấy dưới.",
+      "start": 59.44,
+      "end": 66.04,
+      "n_words": 21,
+      "start_frame": 1486,
+      "end_frame": 1651,
+      "keyframes": [
+        "001514.webp",
+        "001547.webp",
+        "001548.webp",
+        "001568.webp",
+        "001588.webp",
+        "001589.webp",
+        "001611.webp",
+        "001634.webp",
+        "001635.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Khoảng năm lá chúng ta cho vô trong cái nồi nước và bây giờ chúng ta bật lên luôn, các bạn đậy nắp lại.",
+      "start": 66.04,
+      "end": 71.84,
+      "n_words": 24,
+      "start_frame": 1651,
+      "end_frame": 1796,
+      "keyframes": [
+        "001667.webp",
+        "001700.webp",
+        "001701.webp",
+        "001712.webp",
+        "001723.webp",
+        "001724.webp",
+        "001745.webp",
+        "001767.webp",
+        "001768.webp",
+        "001782.webp",
+        "001796.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Thưa các bạn, chúng ta hấp xôi 15 phút sau đó mở nắp xả hơi và cho nước vào, chúng ta làm hai lần như vậy để cho hạt nếp được nở mềm dẻo mà không bị nhão.",
+      "start": 71.84,
+      "end": 81.88,
+      "n_words": 38,
+      "start_frame": 1796,
+      "end_frame": 2047,
+      "keyframes": [
+        "001796.webp",
+        "001797.webp",
+        "001928.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ các bạn, xá xíu chúng ta xử lý như sau: rồi chúng ta cho vào đây một muỗng cà phê bột ngọt Ajinomoto, một muỗng cà phê bột ngũ vị hương, 1/4 muỗng cà phê tiêu, 1/4 muỗng cà phê muối, một muỗng canh đường.",
+      "start": 81.88,
+      "end": 94.68,
+      "n_words": 47,
+      "start_frame": 2047,
+      "end_frame": 2367,
+      "keyframes": [
+        "002059.webp",
+        "002060.webp",
+        "002081.webp",
+        "002103.webp",
+        "002104.webp",
+        "002123.webp",
+        "002142.webp",
+        "002143.webp",
+        "002164.webp",
+        "002185.webp",
+        "002186.webp",
+        "002215.webp",
+        "002244.webp",
+        "002245.webp",
+        "002265.webp",
+        "002286.webp",
+        "002287.webp",
+        "002309.webp",
+        "002331.webp",
+        "002332.webp",
+        "002358.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Chúng ta cho tiếp một muỗng cà phê rượu trắng, có xíu rượu vô cho thịt được thơm, một muỗng canh dầu hào, một muỗng canh nước tương Phú Sĩ, bốn muỗng canh sữa tươi không đường.",
+      "start": 94.68,
+      "end": 107.64,
+      "n_words": 37,
+      "start_frame": 2367,
+      "end_frame": 2691,
+      "keyframes": [
+        "002384.webp",
+        "002385.webp",
+        "002413.webp",
+        "002442.webp",
+        "002443.webp",
+        "002474.webp",
+        "002506.webp",
+        "002507.webp",
+        "002526.webp",
+        "002546.webp",
+        "002547.webp",
+        "002590.webp",
+        "002634.webp",
+        "002635.webp",
+        "002662.webp",
+        "002690.webp",
+        "002691.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Chúng ta nên cho vào trong đó một ít sữa tươi không đường như vậy sẽ làm cho xôi không bị khô và có cái độ béo.",
+      "start": 107.64,
+      "end": 113.56,
+      "n_words": 27,
+      "start_frame": 2691,
+      "end_frame": 2839,
+      "keyframes": [
+        "002691.webp",
+        "002783.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Sau khi chúng ta rim nha các bạn, năm góc rễ cái củ rễ, củ rễ rồi chúng ta đập dập, chúng ta cắt ngắn nhỏ ra cho vào đây trong tô ướp hành lá ba cọng đập dập phần đầu, chúng ta cắt băm nhỏ phần đầu hành lá cho đầu hành lá vào trong tô ướp.",
+      "start": 113.56,
+      "end": 130.32,
+      "n_words": 58,
+      "start_frame": 2839,
+      "end_frame": 3258,
+      "keyframes": [
+        "002876.webp",
+        "002877.webp",
+        "002926.webp",
+        "002975.webp",
+        "002976.webp",
+        "003022.webp",
+        "003069.webp",
+        "003070.webp",
+        "003076.webp",
+        "003083.webp",
+        "003084.webp",
+        "003105.webp",
+        "003126.webp",
+        "003127.webp",
+        "003148.webp",
+        "003169.webp",
+        "003170.webp",
+        "003187.webp",
+        "003205.webp",
+        "003206.webp",
+        "003235.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Như vậy cái màu gạch tôm, màu thực phẩm đó các bạn, một đầu đũa màu tôm như vậy chúng ta hòa đều xịt cổ rồi thì chúng ta cho vào trong cái thố gia vị, chúng ta ướp này, chúng ta ướp cũng khá lâu các bạn 45 phút mới thấm chúng ta chờ này ha.",
+      "start": 130.32,
+      "end": 145.16,
+      "n_words": 57,
+      "start_frame": 3258,
+      "end_frame": 3629,
+      "keyframes": [
+        "003264.webp",
+        "003265.webp",
+        "003282.webp",
+        "003300.webp",
+        "003301.webp",
+        "003338.webp",
+        "003375.webp",
+        "003376.webp",
+        "003400.webp",
+        "003425.webp",
+        "003426.webp",
+        "003447.webp",
+        "003469.webp",
+        "003470.webp",
+        "003484.webp",
+        "003499.webp",
+        "003500.webp",
+        "003562.webp",
+        "003625.webp",
+        "003626.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Những cái món xôi thì không thể nào thiếu được mỡ hành, đây Thanh Phương sẽ cắt thật là nhỏ đúng rồi.",
+      "start": 145.16,
+      "end": 150.84,
+      "n_words": 22,
+      "start_frame": 3629,
+      "end_frame": 3771,
+      "keyframes": [
+        "003658.webp",
+        "003690.webp",
+        "003691.webp",
+        "003725.webp",
+        "003760.webp",
+        "003761.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi trong khi chờ Thanh Phương cắt mỡ hành thì tôi bắt ở đây một cái chảo cho dầu vào, chúng ta làm mỡ hành, đun nóng dầu và thưa các bạn chúng ta cắt hành đây, xí muối trộn đều lên, chúng ta rưới dầu nóng lên là xong các bạn rồi, chúng ta có ngay một chén mỡ hành xanh tươi.",
+      "start": 150.84,
+      "end": 166.0,
+      "n_words": 63,
+      "start_frame": 3771,
+      "end_frame": 4150,
+      "keyframes": [
+        "003814.webp",
+        "003867.webp",
+        "003868.webp",
+        "003889.webp",
+        "003910.webp",
+        "003911.webp",
+        "003929.webp",
+        "003948.webp",
+        "003949.webp",
+        "003974.webp",
+        "004000.webp",
+        "004001.webp",
+        "004013.webp",
+        "004026.webp",
+        "004027.webp",
+        "004053.webp",
+        "004080.webp",
+        "004081.webp",
+        "004114.webp",
+        "004148.webp",
+        "004149.webp"
+      ],
+      "keyframe_count": 21
+    },
+    {
+      "text": "Bây giờ phần xôi chúng ta sẽ xả hơi ra nè các bạn, thường cái mặt trên nó sẽ khô, chúng ta xịt miếng nước vô rồi chúng ta đậy nắp.",
+      "start": 166.0,
+      "end": 177.2,
+      "n_words": 31,
+      "start_frame": 4150,
+      "end_frame": 4430,
+      "keyframes": [
+        "004183.webp",
+        "004218.webp",
+        "004219.webp",
+        "004235.webp",
+        "004251.webp",
+        "004252.webp",
+        "004269.webp",
+        "004287.webp",
+        "004288.webp",
+        "004304.webp",
+        "004321.webp",
+        "004322.webp",
+        "004353.webp",
+        "004384.webp",
+        "004385.webp",
+        "004410.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Thưa các bạn, bước kế tiếp là chúng ta sẽ rim xá xíu, các bạn bắt ở đây một cái chảo rồi chúng ta cho vào đây ít dầu chảo, chúng ta để nóng, cho xá xíu vào đừng nóng quá nha các bạn, nóng quá bỏ vô nó sẽ bị cháy phần xôi.",
+      "start": 177.2,
+      "end": 195.84,
+      "n_words": 54,
+      "start_frame": 4430,
+      "end_frame": 4896,
+      "keyframes": [
+        "004436.webp",
+        "004437.webp",
+        "004479.webp",
+        "004522.webp",
+        "004523.webp",
+        "004536.webp",
+        "004550.webp",
+        "004551.webp",
+        "004573.webp",
+        "004595.webp",
+        "004596.webp",
+        "004660.webp",
+        "004724.webp",
+        "004725.webp",
+        "004751.webp",
+        "004778.webp",
+        "004779.webp",
+        "004801.webp",
+        "004823.webp",
+        "004824.webp",
+        "004852.webp",
+        "004881.webp",
+        "004882.webp"
+      ],
+      "keyframe_count": 23
+    },
+    {
+      "text": "Chúng ta sẽ tiếp tục xả hơi lần thứ hai và chúng ta sẽ xịt nước vào nhé, sau đó chúng ta sẽ đảo đều lên để cho xôi đúng rồi, dẻo, thơm, đậy nắp lại rim từ từ các bạn đó.",
+      "start": 195.84,
+      "end": 208.96,
+      "n_words": 42,
+      "start_frame": 4896,
+      "end_frame": 5224,
+      "keyframes": [
+        "004930.webp",
+        "004978.webp",
+        "004979.webp",
+        "004997.webp",
+        "005016.webp",
+        "005017.webp",
+        "005082.webp",
+        "005147.webp",
+        "005148.webp",
+        "005186.webp",
+        "005224.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Rồi cái xôi của chúng ta đã đủ thời gian rồi đó em, chúng ta lửa đi xôi để chín rồi nè các bạn ơi, rất là thơm nè, bây giờ mình bắc xuống đi em.",
+      "start": 208.96,
+      "end": 218.12,
+      "n_words": 36,
+      "start_frame": 5224,
+      "end_frame": 5453,
+      "keyframes": [
+        "005224.webp",
+        "005225.webp",
+        "005272.webp",
+        "005319.webp",
+        "005320.webp",
+        "005385.webp",
+        "005451.webp",
+        "005452.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Và thưa các bạn, một điều đặc biệt của món xôi ngày hôm nay thường là chúng ta cho tí xíu mỡ gà kia thì cho nó bóng bẩy, nó thơm, còn ở đây chúng ta cho vào đây hai muỗng canh sốt mayonnaise Ajinomoto cho vị ngọt dịu.",
+      "start": 218.12,
+      "end": 229.0,
+      "n_words": 49,
+      "start_frame": 5453,
+      "end_frame": 5725,
+      "keyframes": [
+        "005536.webp",
+        "005621.webp",
+        "005622.webp",
+        "005673.webp",
+        "005725.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Thưa các bạn, chúng ta cho sốt mayonnaise Ajinomoto vào cho vị ngọt dịu và trong xôi để tăng vị, để tăng vị cho xôi và tạo độ bóng bẩy cho xôi nha các bạn.",
+      "start": 229.0,
+      "end": 236.48,
+      "n_words": 35,
+      "start_frame": 5725,
+      "end_frame": 5912,
+      "keyframes": [
+        "005725.webp",
+        "005726.webp",
+        "005757.webp",
+        "005788.webp",
+        "005789.webp",
+        "005806.webp",
+        "005823.webp",
+        "005824.webp",
+        "005866.webp",
+        "005908.webp",
+        "005909.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Rồi bây giờ chúng ta xem đó, xôi xá xíu chúng ta đã chín như vậy là được nha các bạn ơi.",
+      "start": 236.48,
+      "end": 242.08,
+      "n_words": 22,
+      "start_frame": 5912,
+      "end_frame": 6052,
+      "keyframes": [
+        "005940.webp",
+        "005971.webp",
+        "005972.webp",
+        "006003.webp",
+        "006034.webp",
+        "006035.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Món ăn ngày hôm nay đủ tiêu chí nấu chuẩn ăn lành cho buổi sáng luôn đấy ạ và các bạn có thể quét mã QR để chúng ta tìm hiểu kỹ về công thức nhé.",
+      "start": 242.08,
+      "end": 251.56,
+      "n_words": 36,
+      "start_frame": 6052,
+      "end_frame": 6289,
+      "keyframes": [
+        "006137.webp",
+        "006239.webp",
+        "006240.webp",
+        "006264.webp",
+        "006289.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Rồi bây giờ chúng ta sẽ ra xôi ha, ngay một món ăn cân đối hài hòa về màu sắc nè, thêm vào đó về giá trị dinh dưỡng của món ăn nữa sẽ giúp cho bữa ăn của chúng ta cân bằng dinh dưỡng hơn đó.",
+      "start": 251.56,
+      "end": 266.16,
+      "n_words": 47,
+      "start_frame": 6289,
+      "end_frame": 6654,
+      "keyframes": [
+        "006289.webp",
+        "006290.webp",
+        "006327.webp",
+        "006365.webp",
+        "006366.webp",
+        "006393.webp",
+        "006420.webp",
+        "006421.webp",
+        "006479.webp",
+        "006537.webp",
+        "006538.webp",
+        "006575.webp",
+        "006612.webp",
+        "006613.webp",
+        "006626.webp",
+        "006640.webp",
+        "006641.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Rưới xá xíu, hành lên nha rồi hành phi nữa mới ngon, bớt xíu lên thế là chúng ta đã có ngay một dĩa xôi xá xíu.",
+      "start": 266.16,
+      "end": 274.32,
+      "n_words": 27,
+      "start_frame": 6654,
+      "end_frame": 6858,
+      "keyframes": [
+        "006660.webp",
+        "006680.webp",
+        "006681.webp",
+        "006708.webp",
+        "006735.webp",
+        "006736.webp",
+        "006755.webp",
+        "006774.webp",
+        "006775.webp",
+        "006815.webp",
+        "006855.webp",
+        "006856.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Chúng ta có thể kết hợp với món trà sữa hạt chia xương xăm là chúng ta có ngay một bữa ăn sáng rất là hấp dẫn.",
+      "start": 274.32,
+      "end": 280.72,
+      "n_words": 27,
+      "start_frame": 6858,
+      "end_frame": 7018,
+      "keyframes": [
+        "006874.webp",
+        "006892.webp",
+        "006893.webp",
+        "006951.webp",
+        "007009.webp",
+        "007010.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bóng nở, to tròn, dẻo, xá xíu chín mềm không khô, rưới thêm mỡ hành xanh mát, điểm chút sắc đỏ trắng từ đồ chua, xôi xá xíu ngọt béo hài hòa với chút chua giòn, chút chua giòn từ đồ chua tạo nên bữa sáng ngon khó quên.",
+      "start": 281.32,
+      "end": 295.48,
+      "n_words": 49,
+      "start_frame": 7033,
+      "end_frame": 7387,
+      "keyframes": [
+        "007037.webp",
+        "007064.webp",
+        "007079.webp",
+        "007143.webp",
+        "007208.webp",
+        "007209.webp",
+        "007298.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Xôi xá xíu một món ăn đơn giản nhưng đầy dinh dưỡng, tin chắc rằng các bạn sẽ hài lòng với món ăn ngày hôm nay.",
+      "start": 295.48,
+      "end": 300.88,
+      "n_words": 26,
+      "start_frame": 7387,
+      "end_frame": 7522,
+      "keyframes": [
+        "007388.webp",
+        "007389.webp",
+        "007455.webp",
+        "007522.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Nếu như các bạn có lỡ quên công thức không sao có thể truy cập vào kênh YouTube, website và fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 300.88,
+      "end": 307.0,
+      "n_words": 28,
+      "start_frame": 7522,
+      "end_frame": 7675,
+      "keyframes": [
+        "007522.webp",
+        "007523.webp",
+        "007610.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Còn bây giờ xin được mến chào tạm biệt, hẹn gặp lại quý vị và các bạn trong những chương trình lần sau.",
+      "start": 307.0,
+      "end": 312.16,
+      "n_words": 23,
+      "start_frame": 7675,
+      "end_frame": 7804,
+      "keyframes": [
+        "007697.webp",
+        "007698.webp",
+        "007746.webp",
+        "007795.webp",
+        "007796.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

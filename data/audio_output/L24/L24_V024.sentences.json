@@ -1,0 +1,24 @@
+{
+  "video_id": "L24_V024",
+  "fps": 30.0,
+  "n_sentences": 1,
+  "total_words": 5,
+  "sentences": [
+    {
+      "text": "Lớn tỷ lệ người già.",
+      "start": 0.04,
+      "end": 4.16,
+      "n_words": 5,
+      "start_frame": 1,
+      "end_frame": 125,
+      "keyframes": [
+        "000055.webp",
+        "000111.webp",
+        "000112.webp",
+        "000118.webp",
+        "000125.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

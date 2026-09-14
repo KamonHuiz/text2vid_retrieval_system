@@ -1,0 +1,495 @@
+1
+00:00:00,080 --> 00:00:10,720
+Chào mừng các em đến với chương trình ôn tập chuẩn bị cho kỳ thi trung học phổ thông 2024 do báo Thanh Niên tổ chức.
+
+2
+00:00:10,720 --> 00:00:16,160
+Hôm nay thầy sẽ ôn tập cho một chuyên đề thứ bảy, đó là bài tập di truyền quần thể.
+
+3
+00:00:16,160 --> 00:00:32,600
+Đây là một dạng bài tập rất là thường hay gặp trong đề thi trung học phổ thông và điều đặc biệt là thường có một câu trong top 10 câu cuối trong đề thi, tức là một câu khó đòi hỏi các em phải hiểu và vận dụng được.
+
+4
+00:00:32,600 --> 00:00:36,320
+Bây giờ thầy xét đề P có cấu trúc di truyền như trên màn hình.
+
+5
+00:00:36,320 --> 00:00:45,480
+Các em thấy cấu trúc di truyền là tỷ lệ của các kiểu gen trong quần thể, cho nên tổng của các tỷ lệ này sẽ bằng 1.
+
+6
+00:00:45,480 --> 00:00:53,280
+Và quần thể thì dựa vào hiện tượng di truyền thì có hai nhóm đó là tự thụ phấn và ngẫu phối.
+
+7
+00:00:53,280 --> 00:01:04,040
+Ở quần thể tự thụ phấn thì sau n thế hệ tự thụ phấn, kiểu gen dị hợp sẽ là $y \times \frac{1}{2^n}$ ban đầu.
+
+8
+00:01:04,040 --> 00:01:14,560
+Dị hợp là $y$ thì sau n tự thụ phấn sẽ là $y \times \frac{1}{2^n}$, tức là sau mỗi thế hệ tự thụ, kiểu gen dị hợp sẽ giảm đi một nửa, tức là giảm đi $\frac{1}{2}$.
+
+9
+00:01:15,560 --> 00:01:19,520
+Vì vậy n tự thụ, kiểu gen dị hợp sẽ là $y \times \frac{1}{2^n}$.
+
+10
+00:01:21,640 --> 00:01:38,480
+Lúc này các em sẽ thấy rằng kiểu gen dị hợp bị mất đi đó là $y - (y \times \frac{1}{2^n})$, và kiểu gen dị hợp mất đi này sẽ được chia đều cho đồng hợp lặn và đồng hợp trội, cho nên mỗi bên sẽ nhận được là $(y - y \times \frac{1}{2^n}) \div 2$.
+
+11
+00:01:43,200 --> 00:01:58,120
+Cho nên lúc đó kiểu gen AA chúng ta chỉ cần cộng thêm cái lượng dị hợp được chia vào, cộng thêm $x$ là tỷ lệ của kiểu gen AA ban đầu.
+
+12
+00:01:58,120 --> 00:02:05,520
+Còn kiểu gen aa cũng tương tự như vậy sẽ bằng $z + (y - y \times \frac{1}{2^n}) \div 2$.
+
+13
+00:02:07,920 --> 00:02:16,400
+Và thường các em sẽ gặp là đề P là 100% Aa, tức là lúc đó $x = 0$, $z = 0$ và $y = 1$.
+
+14
+00:02:16,720 --> 00:02:26,000
+Và chúng ta sẽ ráp công thức vào thì chúng ta sẽ được Aa là $\frac{1}{2^n}$ và kiểu gen AA = aa = $(1 - \frac{1}{2^n}) \div 2$.
+
+15
+00:02:30,680 --> 00:03:00,840
+Đối với quần thể ngẫu phối, nếu như một quần thể có kích thước lớn, hoàn toàn ngẫu phối và không có nhân tố tiến hóa tác động thì lúc đó cấu trúc di truyền của quần thể sẽ không đổi và trạng thái đó gọi là trạng thái cân bằng di truyền và sẽ có dạng là $p^2 AA$, $2pq Aa$ và $q^2 aa$ với $p$ là tần số của A, $q$ là tần số của a.
+
+16
+00:03:01,280 --> 00:03:14,840
+Tần số A chính là tỷ lệ phần trăm của giao tử A trong quần thể, còn tần số a chính là tỷ lệ phần trăm của giao tử a trong quần thể và tổng hai tần số này sẽ bằng 1.
+
+17
+00:03:14,840 --> 00:03:20,480
+Bây giờ chúng ta cùng phân tích một số ví dụ trong đề thi của các năm qua.
+
+18
+00:03:20,480 --> 00:03:31,400
+Trường Đại học Quốc tế Sài Gòn SIU không chỉ cung cấp chương trình đào tạo tiêu chuẩn quốc tế, SIU nỗ lực tạo ra môi trường học tập tiên phong, đa dạng và tôn trọng sự khác biệt.
+
+19
+00:03:32,280 --> 00:03:42,160
+Mở rộng hợp tác quốc tế với các trường đại học, viện nghiên cứu và tập đoàn doanh nghiệp từ khắp nơi trên thế giới trở thành bệ phóng vững chắc để sinh viên hội nhập toàn cầu.
+
+20
+00:03:42,160 --> 00:03:50,760
+Năm 2024, SIU tuyển sinh trình độ đại học chính quy với 29 chương trình đào tạo cùng bốn phương thức tuyển sinh.
+
+21
+00:03:50,760 --> 00:04:17,280
+SIU cam kết hỗ trợ sinh viên với nhiều chính sách học bổng: 20 suất học bổng Chủ tịch SIU, 100 suất học bổng Tiếp bước hành trình Quỹ tài năng trẻ, học bổng 50% học phí toàn khóa cho những học sinh có thành tích xuất sắc trong các hoạt động văn hóa, thể thao, nghệ thuật; Học bổng Đồng hành xây dựng nhân lực chất lượng cao cho Thành phố Thủ Đức, Thành phố Hồ Chí Minh; Học bổng doanh nghiệp tài trợ, học bổng 20% học phí toàn khóa cho tất cả học sinh đăng ký chương trình giảng dạy bằng tiếng Anh.
+
+22
+00:04:17,280 --> 00:04:21,680
+"Sáng tạo tâm hồn Việt Nam, giáo dục thế giới".
+
+23
+00:04:21,680 --> 00:04:36,000
+Câu số một trong đề thi năm 2022: Trong một quần thể chuột, alen A quy định lông đen là trội hoàn toàn so với alen a quy định lông xám.
+
+24
+00:04:36,000 --> 00:04:41,320
+Ở thế hệ P, số con lông xám bằng số con lông đen dị hợp và chiếm 20%.
+
+25
+00:04:43,360 --> 00:04:47,360
+Đây là thông tin rất là quan trọng mà các em cần gạch dưới những thông tin này.
+
+26
+00:04:47,360 --> 00:04:59,080
+Lông xám sẽ có kiểu gen là aa, còn lông đen dị hợp thì sẽ có kiểu gen là Aa và đề đã cho chúng ta là 20%.
+
+27
+00:04:59,800 --> 00:05:04,400
+Như vậy chúng ta sẽ suy ra được kiểu gen AA còn lại.
+
+28
+00:05:04,400 --> 00:05:17,800
+Con cái có tỷ lệ kiểu gen như thế này, trong mỗi thế hệ ngẫu phối tỷ lệ phôi bị chết là như thế này, biết tỷ lệ giới tính và yêu cầu mang tính tới F2 rồi.
+
+29
+00:05:17,800 --> 00:05:34,440
+Bây giờ chúng ta cùng làm cụ thể đề P như thầy đã phân tích: aa là 0.2, Aa là 0.2, cho nên suy ra được AA là 0.6.
+
+30
+00:05:35,280 --> 00:05:39,120
+Và các em thấy cấu trúc di truyền của đề P khác với giới cái.
+
+31
+00:05:39,120 --> 00:05:48,280
+Như vậy trong trường hợp này là cấu trúc di truyền của giới cái và giới đực khác nhau, cho nên chúng ta cần phải xác định cấu trúc di truyền của giới đực.
+
+32
+00:05:48,280 --> 00:05:58,800
+Bây giờ thầy gọi n là tổng số cá thể của quần thể này thì số cá thể đực AA, ta chỉ cần lấy tỷ lệ của AA.
+
+33
+00:05:59,760 --> 00:06:18,200
+Tỷ lệ kiểu gen AA sẽ bằng số cá thể mang kiểu gen AA chia cho tổng số cá thể trong quần thể, và tỷ lệ kiểu gen AA các em thấy trên màn hình là 0.6 đó là trong quần thể, cho nên ta chỉ cần lấy $0.6 \times n$.
+
+34
+00:06:21,280 --> 00:06:25,920
+Và để tính ở đực, ta trừ đi số cá thể cái.
+
+35
+00:06:25,920 --> 00:06:38,760
+Ta đã thấy là ở con cái, AA là 0.4, cho nên em chỉ cần lấy $0.4 \times$ số lượng con cái là $n \div 2$ bởi vì đề đã cho mình tỷ lệ giới tính là 1:1.
+
+36
+00:06:39,040 --> 00:06:44,280
+Cho nên thầy gọi n là số cá thể thì $n \div 2$ sẽ là số cá thể cái.
+
+37
+00:06:44,280 --> 00:06:49,200
+Từ đó em sẽ tính ra được AA ở giới đực sẽ là $0.4n$.
+
+38
+00:06:50,920 --> 00:06:56,880
+Lập luận tương tự thì Aa sẽ là 0 và aa sẽ là $0.1n$.
+
+39
+00:06:57,960 --> 00:07:05,360
+Và bây giờ em lọc tỷ lệ của các loại kiểu gen này, ta sẽ được cấu trúc di truyền của giới đực là 0.8 AA : 0.2 aa.
+
+40
+00:07:11,120 --> 00:07:20,760
+Tỷ lệ tức là em lấy $0.4n \div 0.5n$, ta sẽ được tỷ lệ kiểu gen của giới đực.
+
+41
+00:07:20,760 --> 00:07:30,080
+Giới cái cũng tương tự như vậy và đề cho mình là ngẫu phối.
+
+42
+00:07:30,080 --> 00:07:33,640
+Đề cho mình ngẫu phối cho nên giới đực sẽ ngẫu phối với giới cái.
+
+43
+00:07:33,640 --> 00:07:49,640
+Các em viết giao tử của giới đực ra, lúc đó sẽ được a là $100\% \times 0.2$ thì chúng ta sẽ được là $0.2a$, tương tự A sẽ là $0.8$.
+
+44
+00:07:50,560 --> 00:07:56,680
+Với cái thì chúng ta cũng lập luận tương tự thì sẽ được F1 hợp tử là như vậy.
+
+45
+00:07:56,680 --> 00:08:08,560
+Và đề cho mình biết là tỷ lệ phôi bị chết ở AA là 25%, tức là tỷ lệ phôi còn sống là 75%, cho nên chỉ cần lấy $0.48 \times 75\%$.
+
+46
+00:08:08,560 --> 00:08:20,520
+Aa tỷ lệ phôi bị chết là 50%, cho nên tỷ lệ phôi còn sống là 50%, tiếp tục lấy $0.4 \times 0.44 \times 50\%$.
+
+47
+00:08:24,640 --> 00:08:31,920
+Còn ở aa, tỷ lệ phôi bị chết là 0, tức là 100% phôi aa đều sống, tức là vẫn là 0.08.
+
+48
+00:08:33,480 --> 00:08:38,480
+Nhân lại tỷ lệ của phôi còn sống, ta sẽ được cấu trúc di truyền lúc sau.
+
+49
+00:08:38,480 --> 00:08:52,440
+Và lúc này các em thấy là tổng tỷ lệ các loại kiểu gen không còn bằng 1 nữa, cho nên chỉ cần cộng lại các tỷ lệ này và ta đặt mẫu là tổng mới đó để cho tổng tỷ lệ các loại kiểu gen bằng 1.
+
+50
+00:08:52,440 --> 00:09:03,240
+Tóm lại, sau khi thầy nhân với tỷ lệ phôi còn sống thì thầy sẽ được tỷ lệ các loại kiểu gen như trên màn hình và tổng tỷ lệ lúc này là 0.66.
+
+51
+00:09:04,320 --> 00:09:18,520
+Cho nên thầy chia cho 0.66, tính tần số A, a ra một lần nữa và lập luận tương tự thì sẽ suy ra được F2.
+
+52
+00:09:22,200 --> 00:09:26,480
+Bây giờ chúng ta cùng phân tích bốn phát biểu.
+
+53
+00:09:26,480 --> 00:09:30,280
+Thứ nhất: Tần số A tăng dần từ thế hệ P tới F2.
+
+54
+00:09:31,200 --> 00:09:38,040
+Ở đây ta tính tần số A như bình thường, chúng ta đã xác định được cấu trúc di truyền của đời P, F1 và F2.
+
+55
+00:09:38,320 --> 00:09:48,160
+Cho nên chúng ta tính tần số A như bình thường thì các em thấy là tần số A tăng dần từ P đến F2, cho nên phát biểu số một là đúng.
+
+56
+00:09:48,160 --> 00:09:53,720
+Phát biểu số hai: Ở F1, số chuột lông đen chiếm tỷ lệ là 29/33.
+
+57
+00:09:55,720 --> 00:10:12,520
+Lông đen là do A quy định và ở F1 chuột lông đen các em thấy có kiểu gen là AA và Aa, cộng lại thì sẽ được là 29/33, cho nên phát biểu số hai này là đúng.
+
+58
+00:10:12,520 --> 00:10:21,360
+Ở phát biểu số ba: Tỷ lệ phôi bị chết ở F1 sinh sản lớn hơn tỷ lệ phôi bị chết khi đề P sinh sản.
+
+59
+00:10:21,360 --> 00:10:37,800
+Câu này đề yêu cầu mình tính tỷ lệ phôi bị chết thì các em chỉ cần nhận xét mẫu số mà thôi, bởi vì mẫu số là do tổng tỷ lệ các loại kiểu gen, tổng tỷ lệ của các loại phôi còn sống tạo ra, từ đó mình sẽ suy ra được tỷ lệ phôi bị chết.
+
+60
+00:10:37,800 --> 00:10:55,040
+Cụ thể tỷ lệ phôi bị chết khi F1 sinh sản, khi F1 sinh sản thì tạo nên F2, lúc này các em thấy tỷ lệ phôi còn sống là 0.668, cho nên tỷ lệ bị chết thì các em chỉ cần lấy $1 - 0.668 = 0.332$.
+
+61
+00:10:58,000 --> 00:11:11,640
+Tương tự, tỷ lệ phôi bị chết khi đề P sinh sản, đề P sinh sản tạo ra được F1 thì tỷ lệ phôi còn sống là 0.66, cho nên tỷ lệ phôi bị chết là $1 - 0.66 = 0.34$.
+
+62
+00:11:14,400 --> 00:11:25,160
+Cho nên từ đây các em thấy là tỷ lệ phôi bị chết khi đời P sinh sản lớn hơn so với khi F1 sinh sản, cho nên phát biểu thứ ba là chưa đúng.
+
+63
+00:11:25,160 --> 00:11:33,720
+Và cuối cùng là ở phát biểu thứ tư: Ở F2, các cá thể có kiểu gen aa chiếm tỷ lệ nhỏ nhất.
+
+64
+00:11:33,720 --> 00:11:51,440
+Phát biểu này thì rất là đơn giản, nhìn thấy ở F2 tỷ lệ kiểu gen aa là 0.083, nhỏ hơn so với kiểu gen AA và Aa, cho nên có tỷ lệ là nhỏ nhất, đúng rồi, cho nên phát biểu thứ tư này là đúng.
+
+65
+00:11:51,440 --> 00:11:56,920
+Cho nên trong câu này thì có ba phát biểu đúng.
+
+66
+00:11:56,920 --> 00:12:07,520
+Trường Quốc tế Á Châu tự hào là ngôi trường mang đến nền giáo dục tiên tiến hiện đại nhưng vẫn giữ gìn bản sắc và những giá trị truyền thống dân tộc.
+
+67
+00:12:07,520 --> 00:12:25,840
+Trường Quốc tế Á Châu xây dựng chương trình học tập toàn diện, cân bằng giữa học thuật và nghệ thuật thể thao, hiểu rõ mục đích giáo dục không chỉ là truyền thụ kiến thức mà còn giúp học sinh sáng tạo, khơi nguồn cảm hứng độc lập để phát triển và hoàn thiện nhân cách.
+
+68
+00:12:25,840 --> 00:12:35,160
+Ngoài những giờ học trên lớp, học sinh Trường Quốc tế Á Châu còn được trải nghiệm thử thách bản thân và phản biện các vấn đề để tự mình học hỏi, trưởng thành độc lập hơn.
+
+69
+00:12:47,360 --> 00:13:01,440
+Nơi đây với tôi còn hơn cả một môi trường, nơi đây là nền tảng giúp chúng tôi đặt những viên gạch đầu tiên vững chắc trên hành trình chinh phục tri thức.
+
+70
+00:13:01,440 --> 00:13:06,520
+Giáo dục không phải là chuẩn bị cho cuộc sống, nó chính là cuộc sống.
+
+71
+00:13:06,520 --> 00:13:22,360
+Từ môi trường giáo dục này, chúng tôi đã tự tin bước tiếp và viết nên câu chuyện tương lai của chính mình.
+
+72
+00:13:22,360 --> 00:13:40,600
+Bây giờ chúng ta cùng phân tích một câu kế tiếp trong đề thi năm 2023: Một quần thể của một loài cá sống ở hồ Châu Phi, alen A quy định thân đỏ trội hoàn toàn so với alen a quy định thân xám.
+
+73
+00:13:40,600 --> 00:13:46,080
+Loài này có tập tính chỉ giao phối giữa các cá thể cùng màu thân.
+
+74
+00:13:46,080 --> 00:13:50,960
+Đây là thông tin quan trọng: những cá thể có cùng màu thân thì mới giao phối với nhau.
+
+75
+00:13:50,960 --> 00:13:58,760
+Và đề cho mình là quần thể ban đầu như vậy, cho mình biết là không chịu ảnh hưởng của nhân tố tiến hóa khác, thì hỏi có bao nhiêu phát biểu là đúng?
+
+76
+00:13:58,760 --> 00:14:08,200
+Và em nhận xét đề ở đây yêu cầu mình tính tới đời F4, nhưng mà ở đời F4 chỉ cần tính cá thể thân xám tức là aa mà thôi.
+
+77
+00:14:08,200 --> 00:14:15,520
+Bây giờ chúng ta cùng làm: A quy định thân đỏ trội hoàn toàn, a quy định là thân xám.
+
+78
+00:14:15,520 --> 00:14:27,840
+Và những cá thể trong quần thể này nó có tập tính là chỉ giao phối những cá thể cùng màu thân, cho nên những cá thể thân đỏ là AA và Aa, chúng chỉ giao phối với nhau.
+
+79
+00:14:27,840 --> 00:14:30,400
+Tổng tỷ lệ những cá thể này là $0.4 + 0.4 = 0.8$.
+
+80
+00:14:31,920 --> 00:14:36,640
+Còn những cá thể thân xám chỉ giao phối với nhau, cho nên thầy viết lại như trên màn hình.
+
+81
+00:14:36,640 --> 00:14:55,840
+Lúc này thầy làm lại cho tỷ lệ kiểu gen cho mỗi nhóm bằng 1, tức là thầy chia cho $0.4 AA$ và $0.4 Aa$, thầy chia cho một tổng mới là 0.8, lúc đó sẽ là 1/2 và 1/2.
+
+82
+00:14:55,840 --> 00:15:05,760
+Và bởi vì những cá thể trong nhóm thân này chúng giao phối ngẫu nhiên với nhau cho nên đời sau chúng ta sẽ áp dụng công thức của trạng thái cân bằng vào tần số a.
+
+83
+00:15:06,880 --> 00:15:18,120
+Trong trường hợp của những cá thể thân đỏ này, tần số a sẽ là $\frac{1}{2} \times \frac{1}{2} = \frac{1}{4}$, còn tần số A sẽ là $\frac{3}{4}$.
+
+84
+00:15:18,920 --> 00:15:34,400
+Cho nên khi mà những cá thể thân đỏ này giao phối với nhau, vậy ở đời con tỷ lệ kiểu gen aa sẽ là $(\frac{1}{4})^2 = \frac{1}{16}$, kiểu gen AA sẽ là $(\frac{3}{4})^2 = \frac{9}{16}$ và kiểu gen Aa sẽ là $2 \times \frac{3}{4} \times \frac{1}{4} = \frac{6}{16}$.
+
+85
+00:15:40,040 --> 00:15:44,200
+Còn aa lai với aa thì đời con là 100% aa.
+
+86
+00:15:45,600 --> 00:15:48,480
+Và lúc này chúng ta viết lại các tỷ lệ.
+
+87
+00:15:48,480 --> 00:16:05,280
+Những câu như vậy để làm cho nó nhanh thì thầy khuyên các em nên viết những con số dưới dạng là tỷ lệ, dưới dạng là phân số mà đừng chuyển qua số thập phân để khỏi mất thời gian ghi những dãy số thập phân này.
+
+88
+00:16:05,280 --> 00:16:12,840
+Và bây giờ những kiểu gen giống nhau thì chúng ta sẽ cộng lại, ở đây kiểu gen aa giống nhau chúng ta cộng lại và chúng ta nhân với hệ số 4/5.
+
+89
+00:16:15,360 --> 00:16:18,000
+Lúc này F1 chúng ta sẽ được tỷ lệ kiểu gen mới.
+
+90
+00:16:18,000 --> 00:16:35,720
+Như vậy lập luận tương tự cho F1 thì chúng ta thấy là 15/20 những cá thể thân đỏ này sẽ giao phối với nhau, 15/20 rút gọn phân số thì sẽ là 3/4.
+
+91
+00:16:38,400 --> 00:16:40,880
+Cho nên chúng ta có 9/20 AA, 6/20 Aa.
+
+92
+00:16:42,480 --> 00:17:04,600
+Vì vậy mẫu mới sẽ là 15/20 AA, 6/20 Aa và 5/20 tức là 1/4 aa này sẽ giao phối với nhau, và chúng ta cũng làm tương tự như vậy để ra được F2 và tính ra được F3.
+
+93
+00:17:08,360 --> 00:17:12,880
+Làm ra được tới F3, chúng ta cùng phân tích bốn phát biểu.
+
+94
+00:17:12,880 --> 00:17:20,480
+Thứ nhất: Hiệu số giữa kiểu gen đồng hợp tử trội và đồng hợp tử lặn là không thay đổi qua các thế hệ.
+
+95
+00:17:20,480 --> 00:17:28,360
+Các em nhận xét nhanh qua các đời thì ở đời P, hiệu số giữa đồng hợp tử trội là AA và aa là 0.2.
+
+96
+00:17:29,160 --> 00:17:35,480
+Ở F1 sẽ là $9/20 - 1/5 = 4/20 = 0.2$.
+
+97
+00:17:39,640 --> 00:17:45,680
+Và ở F2 cũng như vậy: $12/25 - 7/25 = 5/25 = 1/5 = 0.2$.
+
+98
+00:17:53,080 --> 00:17:57,400
+Cho nên phát biểu thứ nhất là đúng, không đổi qua các thế hệ đều là 0.2.
+
+99
+00:17:59,640 --> 00:18:04,480
+Ở F2, phát biểu thứ hai: Ở F1 quần thể đạt trạng thái cân bằng di truyền.
+
+100
+00:18:04,480 --> 00:18:19,760
+Bởi vì trong trường hợp này là có hiện tượng giao phối không ngẫu nhiên cho nên các thế hệ đều không đạt trạng thái cân bằng di truyền được, vì vậy phát biểu này các em khỏi cần phải nhận xét tính toán gì cả thì phát biểu này là sai.
+
+101
+00:18:19,760 --> 00:18:28,440
+Phát biểu thứ ba: Ở F2, trong các cá thể có kiểu hình thân đỏ, tỷ lệ cá thể thuần chủng là 2/3.
+
+102
+00:18:29,320 --> 00:18:35,120
+Phát biểu này các em dễ dàng nhận xét là đúng.
+
+103
+00:18:35,120 --> 00:19:01,720
+Ở F2 những cá thể kiểu hình thân đỏ tức là có kiểu gen AA và Aa, tỷ lệ thuần chủng là AA là 12/25, trong khi đó tổng tỷ lệ cá thể có kiểu hình thân đỏ là 18/25, cho nên tỷ lệ sẽ là 12/18, rút gọn cho 6 thì sẽ được là 2/3, cho nên phát biểu thứ ba là đúng.
+
+104
+00:19:01,720 --> 00:19:06,840
+Phát biểu thứ tư: Ở F4, các cá thể có kiểu hình thân xám là 11/35.
+
+105
+00:19:08,200 --> 00:19:15,800
+Ở đây thì chỉ dừng tính tới F3 mà chưa tính tới F4, bởi vì ở F4 này người ta chỉ cần yêu cầu mình tính thân xám.
+
+106
+00:19:15,800 --> 00:19:33,800
+Thân xám có kiểu gen là aa thì chúng ta chỉ cần tính giao tử a rồi chúng ta áp dụng công thức để mà chúng ta tính tỷ lệ thân xám ở đời con như vậy nó sẽ nhanh hơn là chúng ta tính cùng một lúc ba loại kiểu gen ở F4 luôn.
+
+107
+00:19:33,800 --> 00:20:02,240
+Cụ thể ở F3 chúng ta đã có như vậy, và cũng câu chuyện cũ, những cá thể AA và Aa giao phối với nhau thì chúng ta thấy rằng tỷ lệ của chúng là 17/20 những cá thể thân màu đỏ, cho nên xét trong thân đỏ thì sẽ có 5/7 AA và 2/7 Aa.
+
+108
+00:20:03,440 --> 00:20:06,400
+Còn những cá thể aa thì giao phối với nhau.
+
+109
+00:20:06,400 --> 00:20:22,560
+Lúc này các em thấy a, tỷ lệ của giao tử a là $1/2 \times 1/2 = 1/4$ mà nhân với $2/7$ thì sẽ được là $1/7$.
+
+110
+00:20:23,960 --> 00:20:34,320
+Khi những cá thể thân đỏ này ngẫu phối thì ở F4, tỷ lệ aa sẽ theo công thức ở trạng thái cân bằng thì aa sẽ là $(1/14)^2 = 1/196$.
+
+111
+00:20:37,600 --> 00:20:52,000
+Còn aa ở đây là 3/10, cho nên chúng ta chỉ cần cộng lại và nhân với hệ số 7/10, đó là tỷ lệ của kiểu gen aa ở đời sau.
+
+112
+00:20:52,000 --> 00:21:00,880
+Ở đời F4 em nhân với hệ số 7/10 vào, lúc đó chúng ta sẽ được là 11/35, tức là phát biểu thứ tư này là đúng.
+
+113
+00:21:00,880 --> 00:21:04,080
+Cho nên trong câu này có ba phát biểu là đúng.
+
+114
+00:21:04,080 --> 00:21:17,400
+Đây là một số vấn đề quan trọng trong đề thi trung học phổ thông liên quan tới phần di truyền học quần thể và các em thấy trong đề thi của hai năm vừa qua đều có, mỗi năm đều có một câu rơi vào top 10 câu cuối của dạng bài tập này.
+
+115
+00:21:17,400 --> 00:21:21,280
+Hy vọng là phần chia sẻ hôm nay sẽ giúp ích cho các em trong kỳ thi sắp tới.
+
+116
+00:21:21,280 --> 00:21:28,680
+Cảm ơn các em đã dành thời gian theo dõi, chúc các em lúc nào cũng nhiều sức khỏe, ôn tập thật tốt và đạt kết quả cao trong kỳ thi sắp tới.
+
+117
+00:21:28,680 --> 00:21:31,160
+Chào các em.
+
+118
+00:21:31,160 --> 00:21:44,640
+Để có được thành công như hôm nay, tôi đã có những ước mơ và tôi đã hiện thực hóa ước mơ của mình bắt đầu từ trường Đại học Quốc tế Sài Gòn SIU.
+
+119
+00:21:44,640 --> 00:21:51,360
+Đào tạo đa dạng đa lĩnh vực, SIU mở ra cho chúng tôi nhiều cơ hội lựa chọn nghề nghiệp trong tương lai.
+
+120
+00:21:51,360 --> 00:21:58,640
+Tất cả sinh viên đều có cơ hội để thể hiện và phát triển năng lực, những ý tưởng luôn được khuyến khích và phát huy tối đa.
+
+121
+00:21:58,640 --> 00:22:04,760
+Chúng tôi đã được truyền cảm hứng, tiếp thêm sự tự tin, chúng tôi được học cách học, cách nghĩ và cách sống.
+
+122
+00:22:04,760 --> 00:22:11,840
+Một môi trường lý tưởng để sáng tạo, để trải nghiệm, để thử thách bản thân đã giúp chúng tôi trưởng thành và thành công như hôm nay.
+
+123
+00:22:11,840 --> 00:22:22,400
+Hiện đại, năng động và hòa nhập quốc tế nhưng vẫn giữ được bản sắc dân tộc, đó là triết lý giáo dục mà Đại học Quốc tế Sài Gòn SIU luôn hướng đến.
+
+124
+00:22:22,400 --> 00:22:26,800
+Đã đến lúc vươn xa hơn những gì đã học.

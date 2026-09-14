@@ -1,0 +1,808 @@
+{
+  "video_id": "L26_V230",
+  "fps": 25.0,
+  "n_sentences": 44,
+  "total_words": 903,
+  "sentences": [
+    {
+      "text": "Chào mừng quý khán giả quay trở lại với \"Món ngon mỗi ngày\". Thanh thơm, ngọt hậu với lẩu nấm chay.",
+      "start": 0.04,
+      "end": 29.36,
+      "n_words": 21,
+      "start_frame": 1,
+      "end_frame": 734,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000130.webp",
+        "000147.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000193.webp",
+        "000205.webp",
+        "000206.webp",
+        "000214.webp",
+        "000223.webp",
+        "000224.webp",
+        "000261.webp",
+        "000299.webp",
+        "000300.webp",
+        "000337.webp",
+        "000375.webp",
+        "000376.webp",
+        "000433.webp",
+        "000490.webp",
+        "000505.webp",
+        "000536.webp",
+        "000568.webp",
+        "000569.webp",
+        "000659.webp"
+      ],
+      "keyframe_count": 46
+    },
+    {
+      "text": "Chào mừng các bạn khán giả đang theo dõi chương trình Món ngon mỗi ngày, chương trình được tài trợ bởi công ty Ajinomoto Việt Nam.",
+      "start": 29.36,
+      "end": 37.2,
+      "n_words": 26,
+      "start_frame": 734,
+      "end_frame": 930,
+      "keyframes": [
+        "000749.webp",
+        "000750.webp",
+        "000839.webp",
+        "000928.webp",
+        "000929.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Vào mỗi ngày tôi chọn một món ngon, chọn nấm nè, chọn rau đủ chất một ngày đó. Vâng, và bên cạnh đó thì có rất là nhiều những cái vitamin và khoáng chất tốt cho sức khỏe.",
+      "start": 37.2,
+      "end": 47.64,
+      "n_words": 38,
+      "start_frame": 930,
+      "end_frame": 1191,
+      "keyframes": [
+        "000966.webp",
+        "001003.webp",
+        "001004.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ví dụ như trong nấm nè, đậu hũ với lại khoai môn thì có chất chống oxy hóa, protein và cả chất xơ nữa.",
+      "start": 47.64,
+      "end": 54.4,
+      "n_words": 24,
+      "start_frame": 1191,
+      "end_frame": 1360,
+      "keyframes": [
+        "001225.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Và chế biến như thế nào để giữ trọn vẹn được những giá trị dinh dưỡng?",
+      "start": 54.4,
+      "end": 57.92,
+      "n_words": 16,
+      "start_frame": 1360,
+      "end_frame": 1448,
+      "keyframes": [
+        "001446.webp",
+        "001447.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Phải kể đến tài năng của chuyên gia dinh dưỡng, của đầu bếp.",
+      "start": 57.92,
+      "end": 60.28,
+      "n_words": 13,
+      "start_frame": 1448,
+      "end_frame": 1507,
+      "keyframes": [
+        "001481.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thôi nào, vào bếp nấu lẩu thôi các bạn nhé!",
+      "start": 60.28,
+      "end": 63.68,
+      "n_words": 10,
+      "start_frame": 1507,
+      "end_frame": 1592,
+      "keyframes": [
+        "001516.webp",
+        "001517.webp",
+        "001553.webp",
+        "001589.webp",
+        "001590.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Nước dùng còn có bắp, mía lau đã nướng lên sau đó gọt bỏ vỏ đi.",
+      "start": 63.68,
+      "end": 69.32,
+      "n_words": 16,
+      "start_frame": 1592,
+      "end_frame": 1733,
+      "keyframes": [
+        "001661.webp",
+        "001733.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Cái việc nướng mía lau để nước dùng lẩu chúng ta được trong nè, thơm vị ngọt và không bị chua nha các bạn.",
+      "start": 69.32,
+      "end": 75.16,
+      "n_words": 24,
+      "start_frame": 1733,
+      "end_frame": 1879,
+      "keyframes": [
+        "001733.webp",
+        "001734.webp",
+        "001805.webp",
+        "001877.webp",
+        "001878.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Cho bắp vào nè, tiếp đến là mía lau nè.",
+      "start": 75.16,
+      "end": 79.6,
+      "n_words": 10,
+      "start_frame": 1879,
+      "end_frame": 1990,
+      "keyframes": [
+        "001908.webp",
+        "001938.webp",
+        "001939.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bắp và mía có vị ngọt rất là tự nhiên tạo nên nước dùng ngọt thanh vâng.",
+      "start": 79.6,
+      "end": 83.84,
+      "n_words": 17,
+      "start_frame": 1990,
+      "end_frame": 2096,
+      "keyframes": [
+        "002014.webp",
+        "002089.webp",
+        "002090.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ở đây Thanh Phương có khoai môn nè.",
+      "start": 83.84,
+      "end": 86.08,
+      "n_words": 8,
+      "start_frame": 2096,
+      "end_frame": 2152,
+      "keyframes": [
+        "002116.webp",
+        "002143.webp",
+        "002144.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Khoai môn có vitamin A, C và chất chống oxy hóa, còn giúp loại bỏ được những cái gốc tự do gây hại cho cơ thể ra bên ngoài.",
+      "start": 86.08,
+      "end": 93.84,
+      "n_words": 29,
+      "start_frame": 2152,
+      "end_frame": 2346,
+      "keyframes": [
+        "002189.webp",
+        "002235.webp",
+        "002236.webp",
+        "002287.webp",
+        "002338.webp",
+        "002339.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Cắt thành những miếng vuông rồi.",
+      "start": 93.84,
+      "end": 98.48,
+      "n_words": 6,
+      "start_frame": 2346,
+      "end_frame": 2462,
+      "keyframes": [
+        "002376.webp",
+        "002414.webp",
+        "002415.webp",
+        "002442.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Tiếp theo phần bông cải xanh thì chúng ta sẽ cắt ra thành từng bông và phần đậu hũ thì mình cũng sẽ cắt ra thành từng miếng vuông vừa ăn.",
+      "start": 98.48,
+      "end": 111.68,
+      "n_words": 31,
+      "start_frame": 2462,
+      "end_frame": 2792,
+      "keyframes": [
+        "002470.webp",
+        "002471.webp",
+        "002505.webp",
+        "002540.webp",
+        "002541.webp",
+        "002564.webp",
+        "002587.webp",
+        "002588.webp",
+        "002609.webp",
+        "002630.webp",
+        "002631.webp",
+        "002637.webp",
+        "002643.webp",
+        "002644.webp",
+        "002675.webp",
+        "002707.webp",
+        "002708.webp",
+        "002749.webp",
+        "002791.webp",
+        "002792.webp"
+      ],
+      "keyframe_count": 20
+    },
+    {
+      "text": "Các bạn có thể sử dụng đậu hũ chiên sẵn hoặc là đậu hũ tươi, cắt ra làm tám miếng đều nhau.",
+      "start": 111.68,
+      "end": 117.24,
+      "n_words": 22,
+      "start_frame": 2792,
+      "end_frame": 2931,
+      "keyframes": [
+        "002792.webp",
+        "002818.webp",
+        "002844.webp",
+        "002845.webp",
+        "002890.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Bây giờ đầu bếp sẽ hướng dẫn các bạn sơ chế cà rốt. Cà rốt các bạn gọt vỏ sau đó các bạn sẽ khứa hoa.",
+      "start": 118.64,
+      "end": 125.68,
+      "n_words": 26,
+      "start_frame": 2966,
+      "end_frame": 3142,
+      "keyframes": [
+        "002970.webp",
+        "003003.webp",
+        "003004.webp",
+        "003020.webp",
+        "003036.webp",
+        "003037.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Mình khứa hoa kiểu cạnh cong như thế này này, thì các bạn để nghiêng cái lưỡi dao như thế này.",
+      "start": 125.68,
+      "end": 136.32,
+      "n_words": 21,
+      "start_frame": 3142,
+      "end_frame": 3408,
+      "keyframes": [
+        "003186.webp",
+        "003335.webp",
+        "003336.webp",
+        "003371.webp",
+        "003407.webp",
+        "003408.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Rồi sau khi khứa những cái cạnh cong như thế này, chúng ta sẽ cắt lát có độ dài khoảng 0.3 cm là được, rồi chúng ta sẽ cho ra đĩa.",
+      "start": 136.32,
+      "end": 145.16,
+      "n_words": 31,
+      "start_frame": 3408,
+      "end_frame": 3629,
+      "keyframes": [
+        "003408.webp",
+        "003504.webp",
+        "003601.webp",
+        "003602.webp",
+        "003624.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Tiếp đến là hành baro, chúng ta sẽ cắt lát mỏng.",
+      "start": 145.16,
+      "end": 151.76,
+      "n_words": 11,
+      "start_frame": 3629,
+      "end_frame": 3794,
+      "keyframes": [
+        "003646.webp",
+        "003647.webp",
+        "003689.webp",
+        "003732.webp",
+        "003733.webp",
+        "003766.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bây giờ thì Phương sẽ chuẩn bị sẵn một chảo dầu nhé.",
+      "start": 151.76,
+      "end": 154.08,
+      "n_words": 12,
+      "start_frame": 3794,
+      "end_frame": 3852,
+      "keyframes": [
+        "003799.webp",
+        "003800.webp",
+        "003820.webp",
+        "003841.webp",
+        "003842.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Tiếp đến là nấm hương, các bạn sẽ dùng dao này khứa ngôi sao trên mặt nấm như thế này đó.",
+      "start": 154.08,
+      "end": 159.88,
+      "n_words": 21,
+      "start_frame": 3852,
+      "end_frame": 3997,
+      "keyframes": [
+        "003854.webp",
+        "003867.webp",
+        "003868.webp",
+        "003908.webp",
+        "003948.webp",
+        "003949.webp",
+        "003990.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Chúng ta sẽ khứa ngôi sao rồi xong cái phần nấm hương.",
+      "start": 159.88,
+      "end": 164.28,
+      "n_words": 12,
+      "start_frame": 3997,
+      "end_frame": 4107,
+      "keyframes": [
+        "004032.webp",
+        "004033.webp",
+        "004048.webp",
+        "004064.webp",
+        "004065.webp",
+        "004086.webp",
+        "004107.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Nấm rơm chẻ đôi như thế này, nấm đùi gà chúng ta sẽ cắt thành lát, xong phần nấm đùi gà.",
+      "start": 164.28,
+      "end": 176.0,
+      "n_words": 21,
+      "start_frame": 4107,
+      "end_frame": 4400,
+      "keyframes": [
+        "004107.webp",
+        "004108.webp",
+        "004132.webp",
+        "004157.webp",
+        "004158.webp",
+        "004186.webp",
+        "004215.webp",
+        "004216.webp",
+        "004242.webp",
+        "004268.webp",
+        "004269.webp",
+        "004308.webp",
+        "004347.webp",
+        "004348.webp",
+        "004376.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Cuối cùng, những nguyên liệu đã sơ chế xong.",
+      "start": 176.0,
+      "end": 177.92,
+      "n_words": 9,
+      "start_frame": 4400,
+      "end_frame": 4448,
+      "keyframes": [
+        "004404.webp",
+        "004405.webp",
+        "004433.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ phi vàng cái hành baro này, chút nữa sẽ cho lên trên lẩu.",
+      "start": 177.92,
+      "end": 182.36,
+      "n_words": 18,
+      "start_frame": 4448,
+      "end_frame": 4559,
+      "keyframes": [
+        "004462.webp",
+        "004463.webp",
+        "004507.webp",
+        "004552.webp",
+        "004553.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Vừa vàng tới thôi để giữ được cái độ ngọt cũng như mùi thơm của hành baro đó nha anh Phương.",
+      "start": 182.36,
+      "end": 188.84,
+      "n_words": 21,
+      "start_frame": 4559,
+      "end_frame": 4721,
+      "keyframes": [
+        "004577.webp",
+        "004602.webp",
+        "004603.webp",
+        "004635.webp",
+        "004668.webp",
+        "004669.webp",
+        "004696.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Tiếp đến các bạn sẽ chiên đậu hũ ki.",
+      "start": 188.84,
+      "end": 190.88,
+      "n_words": 9,
+      "start_frame": 4721,
+      "end_frame": 4772,
+      "keyframes": [
+        "004723.webp",
+        "004724.webp",
+        "004772.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Khi chiên đậu hũ ki chúng ta để dầu thiệt nóng lên nha để mình khi mình cho vào nè, đó nhiệt thiệt là nó sẽ chín liền ra liền, rồi chúng ta gắp ra đó, rất là nhanh.",
+      "start": 190.88,
+      "end": 206.72,
+      "n_words": 39,
+      "start_frame": 4772,
+      "end_frame": 5168,
+      "keyframes": [
+        "004772.webp",
+        "004821.webp",
+        "004822.webp",
+        "004851.webp",
+        "004881.webp",
+        "004882.webp",
+        "004931.webp",
+        "004980.webp",
+        "004981.webp",
+        "004992.webp",
+        "005004.webp",
+        "005005.webp",
+        "005067.webp",
+        "005130.webp",
+        "005131.webp",
+        "005156.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Và cuối cùng chúng ta sẽ chiên khoai môn luôn.",
+      "start": 206.72,
+      "end": 211.12,
+      "n_words": 10,
+      "start_frame": 5168,
+      "end_frame": 5278,
+      "keyframes": [
+        "005182.webp",
+        "005183.webp",
+        "005203.webp",
+        "005224.webp",
+        "005225.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và đây cũng là một bí quyết nhỏ trong món ăn ngày hôm nay, cái việc chúng ta chiên khoai môn trước giúp cho khoai được thơm và ngon hơn.",
+      "start": 211.12,
+      "end": 217.32,
+      "n_words": 30,
+      "start_frame": 5278,
+      "end_frame": 5433,
+      "keyframes": [
+        "005285.webp",
+        "005345.webp",
+        "005346.webp",
+        "005386.webp",
+        "005427.webp",
+        "005428.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Như vậy là khoai môn đã vàng, bây giờ Thanh Phương giúp mình vớt ra.",
+      "start": 217.32,
+      "end": 220.68,
+      "n_words": 15,
+      "start_frame": 5433,
+      "end_frame": 5517,
+      "keyframes": [
+        "005472.webp",
+        "005516.webp",
+        "005517.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ nấu nước lẩu.",
+      "start": 220.68,
+      "end": 223.04,
+      "n_words": 8,
+      "start_frame": 5517,
+      "end_frame": 5576,
+      "keyframes": [
+        "005517.webp",
+        "005546.webp",
+        "005575.webp",
+        "005576.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Các bạn đầu tiên vớt mía ra nè, để lại bắp, rồi tiếp đến các bạn sẽ cho cà rốt cắt hoa vào, khoai môn chiên.",
+      "start": 223.04,
+      "end": 232.96,
+      "n_words": 26,
+      "start_frame": 5576,
+      "end_frame": 5824,
+      "keyframes": [
+        "005576.webp",
+        "005605.webp",
+        "005635.webp",
+        "005636.webp",
+        "005653.webp",
+        "005671.webp",
+        "005672.webp",
+        "005697.webp",
+        "005723.webp",
+        "005724.webp",
+        "005757.webp",
+        "005790.webp",
+        "005791.webp",
+        "005812.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Chúng ta sẽ nêm vào, ta sẽ nêm vào nồi nước lẩu đầu tiên là hai muỗng cà phê bột ngọt Ajinomoto, một muỗng cà phê muối, một muỗng cà phê đường, nửa muỗng canh nước tương Phú Ký.",
+      "start": 232.96,
+      "end": 243.68,
+      "n_words": 39,
+      "start_frame": 5824,
+      "end_frame": 6092,
+      "keyframes": [
+        "005833.webp",
+        "005834.webp",
+        "005847.webp",
+        "005860.webp",
+        "005861.webp",
+        "005904.webp",
+        "005948.webp",
+        "005949.webp",
+        "005969.webp",
+        "005989.webp",
+        "005990.webp",
+        "006011.webp",
+        "006032.webp",
+        "006033.webp",
+        "006064.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Lẩu mà có nước tương này thơm lắm luôn anh, và một muỗng canh hạt nêm Ajinomoto ngon lắm.",
+      "start": 243.68,
+      "end": 248.44,
+      "n_words": 19,
+      "start_frame": 6092,
+      "end_frame": 6211,
+      "keyframes": [
+        "006095.webp",
+        "006096.webp",
+        "006117.webp",
+        "006138.webp",
+        "006139.webp",
+        "006172.webp",
+        "006205.webp",
+        "006206.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Rồi phần cà rốt và khoai môn vừa chiên tới thì chúng ta sẽ cho bông cải xanh vào và cuối cùng đó là hành baro phi vàng rất là thơm. Món lẩu cực kỳ hấp dẫn luôn xong!",
+      "start": 248.44,
+      "end": 259.76,
+      "n_words": 39,
+      "start_frame": 6211,
+      "end_frame": 6494,
+      "keyframes": [
+        "006235.webp",
+        "006264.webp",
+        "006265.webp",
+        "006287.webp",
+        "006309.webp",
+        "006310.webp",
+        "006325.webp",
+        "006340.webp",
+        "006341.webp",
+        "006424.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Và để theo dõi lại công thức của món ăn này, các bạn vui lòng quét mã QR đang hiển thị trên màn hình này.",
+      "start": 259.76,
+      "end": 266.96,
+      "n_words": 25,
+      "start_frame": 6494,
+      "end_frame": 6674,
+      "keyframes": [
+        "006508.webp",
+        "006509.webp",
+        "006523.webp",
+        "006538.webp",
+        "006539.webp",
+        "006575.webp",
+        "006612.webp",
+        "006613.webp",
+        "006637.webp",
+        "006662.webp",
+        "006663.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Lẩu rất là xinh ôi, dễ thương quá, lẩu chay và rất là thơm luôn.",
+      "start": 266.96,
+      "end": 272.36,
+      "n_words": 15,
+      "start_frame": 6674,
+      "end_frame": 6809,
+      "keyframes": [
+        "006690.webp",
+        "006718.webp",
+        "006719.webp",
+        "006764.webp",
+        "006809.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "À mình thấy có đạm từ đậu hũ nè, đạm từ nấm nè, đồ lẩu rất là chất lượng.",
+      "start": 272.36,
+      "end": 278.4,
+      "n_words": 19,
+      "start_frame": 6809,
+      "end_frame": 6960,
+      "keyframes": [
+        "006809.webp",
+        "006810.webp",
+        "006842.webp",
+        "006874.webp",
+        "006875.webp",
+        "006898.webp",
+        "006921.webp",
+        "006922.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Chính vì vậy chúng ta không cần phải ăn kèm thêm với bất kỳ món gì nữa cũng đã đầy đủ dinh dưỡng.",
+      "start": 278.4,
+      "end": 284.72,
+      "n_words": 23,
+      "start_frame": 6960,
+      "end_frame": 7118,
+      "keyframes": [
+        "006971.webp",
+        "007021.webp",
+        "007022.webp",
+        "007064.webp",
+        "007106.webp",
+        "007107.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Nấm chín tới, thơm, khoai môn mùi bùi bùi, đậu hũ béo mềm, đắm mình trong nước lẩu thanh trong ngọt dịu, tương ngọt dịu từ mía lau và bắp mỹ, hương vị tinh tế nếm là mê ngay.",
+      "start": 284.72,
+      "end": 296.32,
+      "n_words": 39,
+      "start_frame": 7118,
+      "end_frame": 7408,
+      "keyframes": [
+        "007154.webp",
+        "007202.webp",
+        "007217.webp",
+        "007248.webp",
+        "007280.webp",
+        "007281.webp",
+        "007344.webp",
+        "007407.webp",
+        "007408.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Rau nấm nhà bạn đã sẵn sàng chưa?",
+      "start": 296.32,
+      "end": 298.4,
+      "n_words": 8,
+      "start_frame": 7408,
+      "end_frame": 7460,
+      "keyframes": [
+        "007408.webp",
+        "007433.webp",
+        "007458.webp",
+        "007459.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Công thức có đây, mời quý vị và các bạn hãy truy cập vào kênh YouTube, website và fanpage của chương trình Món ngon mỗi ngày.",
+      "start": 298.4,
+      "end": 305.36,
+      "n_words": 26,
+      "start_frame": 7460,
+      "end_frame": 7634,
+      "keyframes": [
+        "007534.webp",
+        "007610.webp",
+        "007611.webp"
+      ],
+      "keyframe_count": 3
+    }
+  ]
+}

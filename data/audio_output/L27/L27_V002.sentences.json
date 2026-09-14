@@ -1,0 +1,1596 @@
+{
+  "video_id": "L27_V002",
+  "fps": 25.0,
+  "n_sentences": 92,
+  "total_words": 1853,
+  "sentences": [
+    {
+      "text": "Xin chào các bạn, nơi mà tôi đang sống có thể nhỏ bé nhưng thiên nhiên nơi đây thì không.",
+      "start": 0.0,
+      "end": 6.48,
+      "n_words": 20,
+      "start_frame": 0,
+      "end_frame": 162,
+      "keyframes": [
+        "000015.webp",
+        "000019.webp",
+        "000023.webp",
+        "000024.webp",
+        "000027.webp",
+        "000030.webp",
+        "000031.webp",
+        "000034.webp",
+        "000038.webp",
+        "000039.webp",
+        "000050.webp",
+        "000061.webp",
+        "000062.webp",
+        "000065.webp",
+        "000069.webp",
+        "000070.webp",
+        "000073.webp",
+        "000077.webp",
+        "000078.webp",
+        "000081.webp",
+        "000085.webp",
+        "000086.webp",
+        "000089.webp",
+        "000092.webp",
+        "000093.webp",
+        "000096.webp",
+        "000099.webp",
+        "000100.webp",
+        "000107.webp",
+        "000114.webp",
+        "000115.webp",
+        "000119.webp",
+        "000123.webp",
+        "000124.webp",
+        "000134.webp",
+        "000145.webp",
+        "000146.webp",
+        "000153.webp",
+        "000160.webp",
+        "000161.webp"
+      ],
+      "keyframe_count": 40
+    },
+    {
+      "text": "Cảnh sắc thì muôn trùng, những núi đẹp bao la xung quanh tình thương mến.",
+      "start": 6.48,
+      "end": 10.12,
+      "n_words": 15,
+      "start_frame": 162,
+      "end_frame": 253,
+      "keyframes": [
+        "000165.webp",
+        "000170.webp",
+        "000171.webp",
+        "000177.webp",
+        "000183.webp",
+        "000184.webp",
+        "000190.webp",
+        "000197.webp",
+        "000198.webp",
+        "000207.webp",
+        "000217.webp",
+        "000218.webp",
+        "000228.webp",
+        "000239.webp",
+        "000240.webp",
+        "000247.webp"
+      ],
+      "keyframe_count": 16
+    },
+    {
+      "text": "Giờ phải làm sao ta đi từ đây ta biết thêm và học hỏi thêm điều gì mới về phong tục văn hóa ẩm thực Việt Nam?",
+      "start": 10.12,
+      "end": 17.88,
+      "n_words": 27,
+      "start_frame": 253,
+      "end_frame": 447,
+      "keyframes": [
+        "000255.webp",
+        "000256.webp",
+        "000262.webp",
+        "000269.webp",
+        "000270.webp",
+        "000276.webp",
+        "000282.webp",
+        "000283.webp",
+        "000290.webp",
+        "000298.webp",
+        "000299.webp",
+        "000306.webp",
+        "000314.webp",
+        "000315.webp",
+        "000322.webp",
+        "000329.webp",
+        "000330.webp",
+        "000336.webp",
+        "000343.webp",
+        "000344.webp",
+        "000351.webp",
+        "000359.webp",
+        "000360.webp",
+        "000366.webp",
+        "000373.webp",
+        "000374.webp",
+        "000380.webp",
+        "000387.webp",
+        "000388.webp",
+        "000395.webp",
+        "000403.webp",
+        "000436.webp"
+      ],
+      "keyframe_count": 32
+    },
+    {
+      "text": "Ta đi đây!",
+      "start": 17.88,
+      "end": 49.8,
+      "n_words": 3,
+      "start_frame": 447,
+      "end_frame": 1245,
+      "keyframes": [
+        "000516.webp",
+        "000596.webp",
+        "000606.webp",
+        "000617.webp",
+        "000628.webp",
+        "000635.webp",
+        "000647.webp",
+        "000660.webp",
+        "000666.webp",
+        "000683.webp",
+        "000700.webp",
+        "000701.webp",
+        "000713.webp",
+        "000726.webp",
+        "000727.webp",
+        "000741.webp",
+        "000756.webp",
+        "000757.webp",
+        "000780.webp",
+        "000804.webp",
+        "000805.webp",
+        "000818.webp",
+        "000832.webp",
+        "000833.webp",
+        "000854.webp",
+        "000875.webp",
+        "000876.webp",
+        "000879.webp",
+        "000882.webp",
+        "000883.webp",
+        "000896.webp",
+        "000909.webp",
+        "000910.webp",
+        "000921.webp",
+        "000932.webp",
+        "000933.webp",
+        "000943.webp",
+        "000953.webp",
+        "000954.webp",
+        "000958.webp",
+        "000962.webp",
+        "000963.webp",
+        "000972.webp",
+        "000981.webp",
+        "000982.webp",
+        "000994.webp",
+        "001006.webp",
+        "001007.webp",
+        "001021.webp",
+        "001035.webp",
+        "001036.webp",
+        "001052.webp",
+        "001068.webp",
+        "001069.webp",
+        "001103.webp",
+        "001138.webp",
+        "001139.webp",
+        "001244.webp"
+      ],
+      "keyframe_count": 58
+    },
+    {
+      "text": "Xin chào các bạn, tôi là Nhật Trường và chúng ta đang cùng nhau đồng hành với \"Việt Nam đi là ghiền\" trong hành trình khám phá vùng Thất Sơn của An Giang.",
+      "start": 49.8,
+      "end": 58.04,
+      "n_words": 33,
+      "start_frame": 1245,
+      "end_frame": 1451,
+      "keyframes": [
+        "001349.webp",
+        "001350.webp",
+        "001387.webp",
+        "001424.webp",
+        "001425.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Các bạn thấy đó, chúng tôi đến đây vào thời điểm là mùa mưa, mà mùa mưa thì đất đai khí hậu tươi tốt nè, rồi cây cối sẽ phát triển rất là thuận lợi.",
+      "start": 58.04,
+      "end": 65.96,
+      "n_words": 35,
+      "start_frame": 1451,
+      "end_frame": 1649,
+      "keyframes": [
+        "001485.webp",
+        "001545.webp",
+        "001546.webp",
+        "001599.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Vậy nên chúng ta sẽ cùng nhau tìm hiểu và khám phá về một sản vật của vùng Thất Sơn An Giang, mà xung quanh sản vật này có rất nhiều những câu chuyện thú vị. Trường bảo đảm là các bạn sẽ thích thôi.",
+      "start": 65.96,
+      "end": 75.76,
+      "n_words": 45,
+      "start_frame": 1649,
+      "end_frame": 1894,
+      "keyframes": [
+        "001652.webp",
+        "001653.webp",
+        "001715.webp",
+        "001778.webp",
+        "001779.webp",
+        "001815.webp",
+        "001851.webp",
+        "001852.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Hãy cùng với Nhật Trường chúng ta cùng nhau khám phá sản vật này nha!",
+      "start": 75.76,
+      "end": 81.32,
+      "n_words": 15,
+      "start_frame": 1894,
+      "end_frame": 2033,
+      "keyframes": [
+        "001932.webp",
+        "002013.webp",
+        "002014.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Các bạn thân mến, như đã bật mí lúc nãy thì bây giờ đây Nhật Trường sẽ dẫn các bạn đi trải nghiệm thu hoạch một sản vật rất đặc biệt của vùng Thất Sơn An Giang, đó chính là măng.",
+      "start": 81.32,
+      "end": 93.64,
+      "n_words": 41,
+      "start_frame": 2033,
+      "end_frame": 2341,
+      "keyframes": [
+        "002074.webp",
+        "002135.webp",
+        "002136.webp",
+        "002166.webp",
+        "002197.webp",
+        "002198.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Ngay bên cạnh Trường đây là chú Năm. Dạ chào chú, chú ơi hôm nay con với mấy bạn đang theo dõi chương trình \"Việt Nam đi là ghiền\" sẽ nhờ chú giúp con.",
+      "start": 93.64,
+      "end": 103.56,
+      "n_words": 34,
+      "start_frame": 2341,
+      "end_frame": 2589,
+      "keyframes": [
+        "002401.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Ở đây thì bà con mình gọi là đi bẻ măng hay sao?",
+      "start": 104.52,
+      "end": 106.76,
+      "n_words": 13,
+      "start_frame": 2613,
+      "end_frame": 2669,
+      "keyframes": [
+        "002639.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chú đi chích măng à? Chích măng!",
+      "start": 106.76,
+      "end": 108.4,
+      "n_words": 7,
+      "start_frame": 2669,
+      "end_frame": 2710,
+      "keyframes": [
+        "002672.webp",
+        "002673.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đúng rồi, đúng rồi, bà con ở đây gọi là chích măng.",
+      "start": 108.4,
+      "end": 110.32,
+      "n_words": 12,
+      "start_frame": 2710,
+      "end_frame": 2758,
+      "keyframes": [
+        "002713.webp",
+        "002754.webp",
+        "002755.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi bây giờ mình đi lối nào chú hả?",
+      "start": 110.32,
+      "end": 112.24,
+      "n_words": 9,
+      "start_frame": 2758,
+      "end_frame": 2806,
+      "keyframes": [
+        "002791.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Đây mình đi lối này.",
+      "start": 112.24,
+      "end": 113.28,
+      "n_words": 5,
+      "start_frame": 2806,
+      "end_frame": 2832,
+      "keyframes": [
+        "002828.webp",
+        "002829.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rồi rồi con thấy rồi, thấy rồi.",
+      "start": 113.28,
+      "end": 114.64,
+      "n_words": 7,
+      "start_frame": 2832,
+      "end_frame": 2866,
+      "keyframes": [
+        "002857.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Các bạn ơi, rất là nhiều tre bên này, mình đi qua bên đó để cùng hái măng, để cùng hái măng nha.",
+      "start": 114.64,
+      "end": 119.68,
+      "n_words": 23,
+      "start_frame": 2866,
+      "end_frame": 2992,
+      "keyframes": [
+        "002886.webp",
+        "002887.webp",
+        "002924.webp",
+        "002962.webp",
+        "002963.webp",
+        "002990.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Ui, cảm ơn chú già.",
+      "start": 119.68,
+      "end": 129.68,
+      "n_words": 5,
+      "start_frame": 2992,
+      "end_frame": 3242,
+      "keyframes": [
+        "003018.webp",
+        "003019.webp",
+        "003042.webp",
+        "003066.webp",
+        "003067.webp",
+        "003109.webp",
+        "003152.webp",
+        "003153.webp",
+        "003200.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Đây nè, măng nè!",
+      "start": 129.68,
+      "end": 130.64,
+      "n_words": 4,
+      "start_frame": 3242,
+      "end_frame": 3266,
+      "keyframes": [
+        "003248.webp",
+        "003249.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rồi chú cho con chích thử đi.",
+      "start": 130.64,
+      "end": 132.08,
+      "n_words": 7,
+      "start_frame": 3266,
+      "end_frame": 3302,
+      "keyframes": [
+        "003277.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rồi giờ như mục này giờ chích đâu nè?",
+      "start": 132.08,
+      "end": 134.16,
+      "n_words": 9,
+      "start_frame": 3302,
+      "end_frame": 3354,
+      "keyframes": [
+        "003306.webp",
+        "003307.webp",
+        "003334.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mình chích già măng già quá là trời, hôm sau mình là nó đã mắc măng.",
+      "start": 134.16,
+      "end": 138.64,
+      "n_words": 16,
+      "start_frame": 3354,
+      "end_frame": 3466,
+      "keyframes": [
+        "003361.webp",
+        "003362.webp",
+        "003386.webp",
+        "003410.webp",
+        "003411.webp",
+        "003462.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chích non là sau này mình còn măng nhiều.",
+      "start": 138.64,
+      "end": 140.6,
+      "n_words": 9,
+      "start_frame": 3466,
+      "end_frame": 3515,
+      "keyframes": [
+        "003513.webp",
+        "003514.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Theo như tâm lý của trường chích sát đây luôn, lấy nhiều nhất có thể nhưng mà chú dạy là phải lấy trên này thôi, thì dưới này nó già mình phải chích trên này nè.",
+      "start": 140.6,
+      "end": 147.6,
+      "n_words": 36,
+      "start_frame": 3515,
+      "end_frame": 3690,
+      "keyframes": [
+        "003640.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Mình lấy được cái phần non thì cái đế này nó mới mọc ra cái măng mới.",
+      "start": 147.6,
+      "end": 151.08,
+      "n_words": 17,
+      "start_frame": 3690,
+      "end_frame": 3777,
+      "keyframes": [
+        "003766.webp",
+        "003767.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Một hai, được chưa ạ?",
+      "start": 151.08,
+      "end": 155.56,
+      "n_words": 5,
+      "start_frame": 3777,
+      "end_frame": 3889,
+      "keyframes": [
+        "003842.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "À, gặt lên được chưa?",
+      "start": 155.56,
+      "end": 158.84,
+      "n_words": 5,
+      "start_frame": 3889,
+      "end_frame": 3971,
+      "keyframes": [
+        "003917.webp",
+        "003918.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Bẻ luôn, tự bẻ rồi ha?",
+      "start": 158.84,
+      "end": 162.8,
+      "n_words": 6,
+      "start_frame": 3971,
+      "end_frame": 4070,
+      "keyframes": [
+        "003982.webp",
+        "004046.webp",
+        "004047.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Mụm măng đầu tay Trường tự chích và tự bẻ. Ôi được ha!",
+      "start": 162.8,
+      "end": 167.84,
+      "n_words": 13,
+      "start_frame": 4070,
+      "end_frame": 4196,
+      "keyframes": [
+        "004144.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rồi đi làm thêm cái nữa chú ơi.",
+      "start": 167.84,
+      "end": 172.72,
+      "n_words": 8,
+      "start_frame": 4196,
+      "end_frame": 4318,
+      "keyframes": [
+        "004241.webp",
+        "004242.webp",
+        "004301.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Đây mình có nữa rồi, trời ơi chỗ này là quá nhiều luôn, chỗ này là quá nhiều luôn nè.",
+      "start": 172.72,
+      "end": 181.6,
+      "n_words": 20,
+      "start_frame": 4318,
+      "end_frame": 4540,
+      "keyframes": [
+        "004361.webp",
+        "004362.webp",
+        "004386.webp",
+        "004411.webp",
+        "004412.webp",
+        "004453.webp",
+        "004495.webp",
+        "004496.webp",
+        "004531.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Rồi đó, gặt tới gặt lui được một mục măng nữa.",
+      "start": 181.6,
+      "end": 187.12,
+      "n_words": 11,
+      "start_frame": 4540,
+      "end_frame": 4678,
+      "keyframes": [
+        "004566.webp",
+        "004567.webp",
+        "004616.webp",
+        "004666.webp",
+        "004667.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Khi mà măng mình sắp sửa gần thu hoạch á là mình sẽ dọn nè, mình sẽ dọn nắng cải hết đặng mà cho măng mình nó lú lên, đặng mình dễ thấy được.",
+      "start": 187.12,
+      "end": 194.8,
+      "n_words": 34,
+      "start_frame": 4678,
+      "end_frame": 4870,
+      "keyframes": [
+        "004696.webp",
+        "004725.webp",
+        "004726.webp",
+        "004762.webp",
+        "004799.webp",
+        "004800.webp",
+        "004840.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Giải thích khi mà tới mùa là bà con sẽ dọn sẵn hết hàng chi mình nhìn thấy chỗ nào cũng trống trải hết trơn.",
+      "start": 194.96,
+      "end": 200.28,
+      "n_words": 25,
+      "start_frame": 4874,
+      "end_frame": 5007,
+      "keyframes": [
+        "004880.webp",
+        "004881.webp",
+        "004950.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Á ăn thẳng quá, măng rồi đó, hai măng bự chưa?",
+      "start": 200.28,
+      "end": 216.56,
+      "n_words": 11,
+      "start_frame": 5007,
+      "end_frame": 5414,
+      "keyframes": [
+        "005020.webp",
+        "005021.webp",
+        "005090.webp",
+        "005159.webp",
+        "005160.webp",
+        "005199.webp",
+        "005238.webp",
+        "005239.webp",
+        "005279.webp",
+        "005319.webp",
+        "005320.webp",
+        "005354.webp",
+        "005388.webp",
+        "005389.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Rồi xong mệt quá mấy bạn ơi, măng như vậy đó, hai ba ký không á?",
+      "start": 216.56,
+      "end": 223.68,
+      "n_words": 16,
+      "start_frame": 5414,
+      "end_frame": 5592,
+      "keyframes": [
+        "005422.webp",
+        "005455.webp",
+        "005456.webp",
+        "005581.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ nè coi thành quả của chú cháu mình đi, hồi trưa tới giờ rồi.",
+      "start": 223.68,
+      "end": 228.88,
+      "n_words": 16,
+      "start_frame": 5592,
+      "end_frame": 5722,
+      "keyframes": [
+        "005707.webp",
+        "005708.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Đã chưa?",
+      "start": 228.88,
+      "end": 233.56,
+      "n_words": 2,
+      "start_frame": 5722,
+      "end_frame": 5839,
+      "keyframes": [
+        "005778.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Xong rồi, xong rồi.",
+      "start": 233.56,
+      "end": 242.4,
+      "n_words": 4,
+      "start_frame": 5839,
+      "end_frame": 6060,
+      "keyframes": [
+        "005849.webp",
+        "005850.webp",
+        "005898.webp",
+        "005947.webp",
+        "005948.webp",
+        "005963.webp",
+        "005978.webp",
+        "005979.webp",
+        "006036.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Rồi phụ em cái anh trai tới đưa rồi nha.",
+      "start": 242.4,
+      "end": 246.4,
+      "n_words": 10,
+      "start_frame": 6060,
+      "end_frame": 6160,
+      "keyframes": [
+        "006093.webp",
+        "006094.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Các bạn, mấy anh dọn sẵn rồi giờ khiêng xuống.",
+      "start": 246.4,
+      "end": 249.24,
+      "n_words": 10,
+      "start_frame": 6160,
+      "end_frame": 6231,
+      "keyframes": [
+        "006163.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Thôi Trường đang có mặt ở giữa măng mai tùng, dừa măng của chị Mai nè.",
+      "start": 249.24,
+      "end": 256.16,
+      "n_words": 16,
+      "start_frame": 6231,
+      "end_frame": 6404,
+      "keyframes": [
+        "006233.webp",
+        "006234.webp",
+        "006272.webp",
+        "006310.webp",
+        "006311.webp",
+        "006340.webp",
+        "006369.webp",
+        "006370.webp",
+        "006389.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Chị ơi bây giờ chị đang làm công đoạn nào đây?",
+      "start": 256.16,
+      "end": 258.8,
+      "n_words": 11,
+      "start_frame": 6404,
+      "end_frame": 6470,
+      "keyframes": [
+        "006408.webp",
+        "006409.webp",
+        "006435.webp",
+        "006461.webp",
+        "006462.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Hiện nay là chị đang lựa măng bào hàng dọc qua đây cho mấy anh chị bên đây lột rồi qua đây gọt rồi bên đây bào.",
+      "start": 258.8,
+      "end": 264.12,
+      "n_words": 27,
+      "start_frame": 6470,
+      "end_frame": 6603,
+      "keyframes": [
+        "006485.webp",
+        "006509.webp",
+        "006510.webp",
+        "006533.webp",
+        "006556.webp",
+        "006557.webp",
+        "006580.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Mà chị em có cái thắc mắc này là cái măng của mình nó có khác gì, nó đặc trưng sao so với những cái măng vùng khác?",
+      "start": 264.12,
+      "end": 269.64,
+      "n_words": 28,
+      "start_frame": 6603,
+      "end_frame": 6741,
+      "keyframes": [
+        "006604.webp",
+        "006605.webp",
+        "006718.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Như măng vùng khác là măng xanh, măng xanh là cưng nhìn cái giỏ bên này là nó xanh, còn măng đặc trưng của núi Cấm mình dễ nhận dạng là cái măng đen.",
+      "start": 269.64,
+      "end": 276.24,
+      "n_words": 34,
+      "start_frame": 6741,
+      "end_frame": 6906,
+      "keyframes": [
+        "006831.webp",
+        "006832.webp",
+        "006889.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Măng đen này còn gọi là măng Mạnh Tông.",
+      "start": 276.24,
+      "end": 277.96,
+      "n_words": 9,
+      "start_frame": 6906,
+      "end_frame": 6949,
+      "keyframes": [
+        "006947.webp",
+        "006948.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Măng Mạnh Tông theo chị ở vùng này thì chị thấy ăn Mạnh Tông là ngon nhất mà đa số khách hàng ta cũng nói là măng Mạnh Tông mình là giòn và ngon ngọt.",
+      "start": 277.96,
+      "end": 286.72,
+      "n_words": 35,
+      "start_frame": 6949,
+      "end_frame": 7168,
+      "keyframes": [
+        "007026.webp",
+        "007105.webp",
+        "007106.webp",
+        "007139.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cái này phải quen tay mới dám chặt măng chứ em em yếu yếu tay không có dám.",
+      "start": 286.72,
+      "end": 293.24,
+      "n_words": 18,
+      "start_frame": 7168,
+      "end_frame": 7331,
+      "keyframes": [
+        "007173.webp",
+        "007174.webp",
+        "007194.webp",
+        "007214.webp",
+        "007215.webp",
+        "007269.webp",
+        "007323.webp",
+        "007324.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Rồi tới lượt em nha!",
+      "start": 293.24,
+      "end": 295.56,
+      "n_words": 5,
+      "start_frame": 7331,
+      "end_frame": 7389,
+      "keyframes": [
+        "007367.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Rồi đây tôi chỉ làm một lần thôi, các bạn phải quan sát thiệt kỹ nha.",
+      "start": 295.56,
+      "end": 302.92,
+      "n_words": 16,
+      "start_frame": 7389,
+      "end_frame": 7573,
+      "keyframes": [
+        "007411.webp",
+        "007412.webp",
+        "007441.webp",
+        "007471.webp",
+        "007472.webp",
+        "007482.webp",
+        "007492.webp",
+        "007493.webp",
+        "007503.webp",
+        "007513.webp",
+        "007514.webp",
+        "007527.webp",
+        "007540.webp",
+        "007541.webp",
+        "007548.webp",
+        "007556.webp",
+        "007557.webp",
+        "007570.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Cái này mình bào sao?",
+      "start": 302.92,
+      "end": 304.36,
+      "n_words": 5,
+      "start_frame": 7573,
+      "end_frame": 7609,
+      "keyframes": [
+        "007583.webp",
+        "007584.webp",
+        "007600.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Chú tay ra, à rồi để nhẹ qua, để nhẹ qua, à đó kéo nhẹ lại, à đó tưởng dễ là là phải tỉ mỉ từng chút từng chút vậy nè nó mới ra cái miếng măng nó đều, bán mới có giá.",
+      "start": 304.36,
+      "end": 321.56,
+      "n_words": 43,
+      "start_frame": 7609,
+      "end_frame": 8039,
+      "keyframes": [
+        "007616.webp",
+        "007617.webp",
+        "007713.webp",
+        "007810.webp",
+        "007811.webp",
+        "007856.webp",
+        "007901.webp",
+        "007902.webp",
+        "007932.webp",
+        "007963.webp",
+        "007964.webp",
+        "007995.webp",
+        "008026.webp",
+        "008032.webp"
+      ],
+      "keyframe_count": 14
+    },
+    {
+      "text": "Sau khi mà chúng ta đã sơ chế nguyên liệu của mình làm măng, mình thấy đây có măng tươi nè, măng chua thì bây giờ đây chị Mai sẽ cùng với tất cả chúng ta mình chế biến bữa trưa ngày hôm nay.",
+      "start": 321.56,
+      "end": 331.6,
+      "n_words": 44,
+      "start_frame": 8039,
+      "end_frame": 8290,
+      "keyframes": [
+        "008167.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Chị ơi quá nhiều nguyên liệu vậy giờ mình làm món gì đây chị?",
+      "start": 331.6,
+      "end": 334.96,
+      "n_words": 14,
+      "start_frame": 8290,
+      "end_frame": 8374,
+      "keyframes": [
+        "008303.webp",
+        "008304.webp",
+        "008357.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Hôm nay chị sẽ làm ba món từ măng tre Mạnh Tông của núi Cấm mình: một là măng chua nấu gà, hai là măng tươi xào tỏi, còn ba là món măng tươi mình trộn gỏi tỏi.",
+      "start": 334.96,
+      "end": 345.28,
+      "n_words": 38,
+      "start_frame": 8374,
+      "end_frame": 8632,
+      "keyframes": [
+        "008410.webp",
+        "008411.webp",
+        "008465.webp",
+        "008520.webp",
+        "008521.webp",
+        "008550.webp",
+        "008580.webp",
+        "008581.webp",
+        "008601.webp",
+        "008622.webp",
+        "008623.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Này mình thử cho thơm xong cái mình để măng tươi vô đây, măng tươi nha các bạn, măng này hồi sáng này mình sơ chế bào sẵn ra hết rồi giờ bỏ lên làm thôi.",
+      "start": 345.28,
+      "end": 352.68,
+      "n_words": 36,
+      "start_frame": 8632,
+      "end_frame": 8817,
+      "keyframes": [
+        "008657.webp",
+        "008692.webp",
+        "008693.webp",
+        "008715.webp",
+        "008737.webp",
+        "008738.webp",
+        "008775.webp",
+        "008812.webp",
+        "008813.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Miếng dầu hào này mình cho vô để cho cái miếng măng của mình á nó bóng mượt, mình chích vô cái mình lột giỏ xong rồi cái mình xách ra từng miếng vừa ăn vậy nè.",
+      "start": 352.68,
+      "end": 359.84,
+      "n_words": 37,
+      "start_frame": 8817,
+      "end_frame": 8996,
+      "keyframes": [
+        "008834.webp",
+        "008856.webp",
+        "008857.webp",
+        "008881.webp",
+        "008905.webp",
+        "008906.webp",
+        "008948.webp",
+        "008991.webp",
+        "008992.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Cái mình bắt nước sôi lên mình luộc sơn, cái mà nhớ khi mà luộc măng sơ thì đừng có lấy đũa tre thọt vô, tại vì nếu mà đũa tre mình thọt vô mình sơ là măng sẽ bị đắng.",
+      "start": 359.84,
+      "end": 368.32,
+      "n_words": 41,
+      "start_frame": 8996,
+      "end_frame": 9208,
+      "keyframes": [
+        "009019.webp",
+        "009047.webp",
+        "009048.webp",
+        "009089.webp",
+        "009131.webp",
+        "009132.webp",
+        "009169.webp",
+        "009206.webp",
+        "009207.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Ở đây là chị mở cơ sở của mình được bao lâu rồi?",
+      "start": 368.32,
+      "end": 371.44,
+      "n_words": 13,
+      "start_frame": 9208,
+      "end_frame": 9286,
+      "keyframes": [
+        "009243.webp",
+        "009279.webp",
+        "009280.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Năm 2014 là chị đã mở chỗ nhà nghỉ quán ăn này rồi.",
+      "start": 371.44,
+      "end": 374.92,
+      "n_words": 13,
+      "start_frame": 9286,
+      "end_frame": 9373,
+      "keyframes": [
+        "009327.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Với lại chỗ của chị cũng dễ tìm lắm, cưng đi thẳng cái bụng hoặc chị lạc bước ra đằng sau là tới chỗ chị là rất là dễ tìm.",
+      "start": 374.92,
+      "end": 380.36,
+      "n_words": 30,
+      "start_frame": 9373,
+      "end_frame": 9509,
+      "keyframes": [
+        "009374.webp",
+        "009375.webp",
+        "009402.webp",
+        "009430.webp",
+        "009431.webp",
+        "009472.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Bữa nào em em lên đây mà có dịp em dẫn mấy bạn đang theo dõi \"Việt Nam đi là ghiền\" lên đây chơi á chị, phải để em trổ tài em em học nghề của chị xong rồi bữa đó em lên em sẽ gọi là đầu bếp để mà khao các bạn một bữa thiệt là thịnh soạn với những đặc sản của vùng núi Cấm của mình.",
+      "start": 380.36,
+      "end": 398.08,
+      "n_words": 70,
+      "start_frame": 9509,
+      "end_frame": 9952,
+      "keyframes": [
+        "009514.webp",
+        "009515.webp",
+        "009633.webp",
+        "009752.webp",
+        "009753.webp",
+        "009802.webp",
+        "009852.webp",
+        "009853.webp",
+        "009900.webp",
+        "009947.webp",
+        "009948.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Đây món đầu tiên các bạn thấy chưa, nhìn thấy chưa bà chị tôi làm đâu.",
+      "start": 398.08,
+      "end": 403.28,
+      "n_words": 16,
+      "start_frame": 9952,
+      "end_frame": 10082,
+      "keyframes": [
+        "009979.webp",
+        "010010.webp",
+        "010011.webp",
+        "010047.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Món thứ hai là chị sẽ hướng dẫn cưng măng tươi trộn gỏi.",
+      "start": 403.28,
+      "end": 406.8,
+      "n_words": 13,
+      "start_frame": 10082,
+      "end_frame": 10170,
+      "keyframes": [
+        "010084.webp",
+        "010085.webp",
+        "010104.webp",
+        "010124.webp",
+        "010125.webp",
+        "010146.webp",
+        "010168.webp",
+        "010169.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Rồi trước tiên cưng đổ măng, trước tiên cưng đổ măng vô thau đi.",
+      "start": 406.8,
+      "end": 409.0,
+      "n_words": 14,
+      "start_frame": 10170,
+      "end_frame": 10225,
+      "keyframes": [
+        "010225.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Măng cho vô đây cho hết măng vô thau đi.",
+      "start": 409.0,
+      "end": 411.44,
+      "n_words": 10,
+      "start_frame": 10225,
+      "end_frame": 10286,
+      "keyframes": [
+        "010225.webp",
+        "010282.webp",
+        "010283.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Dạ rồi xong để thịt với tôm vô rồi cưng cho chén nước sốt vô luôn rồi cưng trộn đều lên, rồi trộn đều lên xong cái mình cho ra dĩa luôn, cho ra dĩa nha.",
+      "start": 411.44,
+      "end": 420.4,
+      "n_words": 36,
+      "start_frame": 10286,
+      "end_frame": 10510,
+      "keyframes": [
+        "010293.webp",
+        "010304.webp",
+        "010305.webp",
+        "010327.webp",
+        "010350.webp",
+        "010351.webp",
+        "010372.webp",
+        "010393.webp",
+        "010394.webp",
+        "010418.webp",
+        "010442.webp",
+        "010443.webp",
+        "010468.webp",
+        "010494.webp",
+        "010495.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Rồi chị thấy sao?",
+      "start": 420.4,
+      "end": 422.2,
+      "n_words": 4,
+      "start_frame": 10510,
+      "end_frame": 10555,
+      "keyframes": [
+        "010537.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Quá ngon luôn!",
+      "start": 422.52,
+      "end": 423.32,
+      "n_words": 3,
+      "start_frame": 10563,
+      "end_frame": 10583,
+      "keyframes": [
+        "010580.webp",
+        "010581.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Nãy giờ mới hai món thôi, giờ món thứ ba món này là món măng chua nấu gà rồi.",
+      "start": 423.32,
+      "end": 429.16,
+      "n_words": 19,
+      "start_frame": 10583,
+      "end_frame": 10729,
+      "keyframes": [
+        "010610.webp",
+        "010640.webp",
+        "010641.webp",
+        "010680.webp",
+        "010720.webp",
+        "010721.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Vậy là em nghĩ là chắc cũng đã hoàn thành rồi nè.",
+      "start": 429.16,
+      "end": 431.64,
+      "n_words": 12,
+      "start_frame": 10729,
+      "end_frame": 10791,
+      "keyframes": [
+        "010786.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Giờ không ấy, giờ trong thời gian chờ nước sôi rồi cái mình mình dọn ra bàn đi, hồi nó sôi ùng lên cái mình bỏ này vô là mình ăn thôi chị ơi.",
+      "start": 431.64,
+      "end": 442.24,
+      "n_words": 34,
+      "start_frame": 10791,
+      "end_frame": 11056,
+      "keyframes": [
+        "010851.webp",
+        "010852.webp",
+        "010952.webp",
+        "011053.webp",
+        "011054.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Rồi chị mời em nha, mời cả nhà cùng ăn với hai chị em mình nha, xin mời!",
+      "start": 442.24,
+      "end": 446.0,
+      "n_words": 18,
+      "start_frame": 11056,
+      "end_frame": 11150,
+      "keyframes": [
+        "011098.webp",
+        "011143.webp",
+        "011144.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Món này là món măng tươi xào với tỏi.",
+      "start": 446.0,
+      "end": 450.84,
+      "n_words": 9,
+      "start_frame": 11150,
+      "end_frame": 11271,
+      "keyframes": [
+        "011193.webp",
+        "011243.webp",
+        "011244.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ngon quá chị, gia vị rất là vừa ăn luôn nha.",
+      "start": 450.84,
+      "end": 456.12,
+      "n_words": 11,
+      "start_frame": 11271,
+      "end_frame": 11403,
+      "keyframes": [
+        "011317.webp",
+        "011390.webp",
+        "011391.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Con thử món măng trộn gỏi coi góp ý anh chị thêm coi cần thêm gì cần bớt gì không?",
+      "start": 456.12,
+      "end": 459.8,
+      "n_words": 20,
+      "start_frame": 11403,
+      "end_frame": 11495,
+      "keyframes": [
+        "011406.webp",
+        "011421.webp",
+        "011422.webp",
+        "011460.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Nha Trường dạ.",
+      "start": 459.8,
+      "end": 461.36,
+      "n_words": 3,
+      "start_frame": 11495,
+      "end_frame": 11534,
+      "keyframes": [
+        "011498.webp",
+        "011499.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Chấm với nước mắm đúng rồi mình chấm mắm pha chua ngọt có tỏi có ớt nè, rất là thơm ăn vô vẫn giữ được cái độ tươi của măng mà nó có một cái chút gì đó là ngọt ngọt chua chua theo the của ớt nữa, có cần nữa ăn nó thơm lắm.",
+      "start": 461.36,
+      "end": 478.72,
+      "n_words": 55,
+      "start_frame": 11534,
+      "end_frame": 11968,
+      "keyframes": [
+        "011538.webp",
+        "011577.webp",
+        "011578.webp",
+        "011591.webp",
+        "011605.webp",
+        "011606.webp",
+        "011642.webp",
+        "011678.webp",
+        "011679.webp",
+        "011760.webp",
+        "011841.webp",
+        "011842.webp",
+        "011900.webp",
+        "011959.webp",
+        "011960.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Thôi nãy giờ em cũng thưởng thức cái món măng xào tỏi và cái món măng tươi gỏi rồi, thôi bây giờ để chị kêu mấy đứa em đem cái món gà nấu măng chua lên cho tôi thưởng thức luôn nha.",
+      "start": 478.72,
+      "end": 489.16,
+      "n_words": 42,
+      "start_frame": 11968,
+      "end_frame": 12229,
+      "keyframes": [
+        "012019.webp",
+        "012078.webp",
+        "012079.webp",
+        "012113.webp",
+        "012148.webp",
+        "012149.webp",
+        "012191.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Bây giờ chảo lẩu của Trường đây, em xin phép chị nha.",
+      "start": 489.16,
+      "end": 493.72,
+      "n_words": 12,
+      "start_frame": 12229,
+      "end_frame": 12343,
+      "keyframes": [
+        "012233.webp",
+        "012234.webp",
+        "012328.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi cưng dùng thử coi hai chị em mình nấu có ngon không.",
+      "start": 493.72,
+      "end": 501.28,
+      "n_words": 13,
+      "start_frame": 12343,
+      "end_frame": 12532,
+      "keyframes": [
+        "012423.webp",
+        "012424.webp",
+        "012454.webp",
+        "012484.webp",
+        "012485.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Múc cái muỗng đầu tiên là nghe cái mùi nó chua chua, cái mùi chua đặc trưng của măng chua.",
+      "start": 501.28,
+      "end": 505.64,
+      "n_words": 20,
+      "start_frame": 12532,
+      "end_frame": 12641,
+      "keyframes": [
+        "012557.webp",
+        "012630.webp",
+        "012631.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Miếng thịt gà của mình á chị nó dai chắc thịt mà có cái độ chua chua nó ngấm vô luôn.",
+      "start": 505.64,
+      "end": 510.84,
+      "n_words": 21,
+      "start_frame": 12641,
+      "end_frame": 12771,
+      "keyframes": [
+        "012665.webp",
+        "012699.webp",
+        "012700.webp",
+        "012744.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Hay sao ha, ba món ba vị khác nhau.",
+      "start": 510.84,
+      "end": 513.52,
+      "n_words": 9,
+      "start_frame": 12771,
+      "end_frame": 12838,
+      "keyframes": [
+        "012788.webp",
+        "012789.webp",
+        "012824.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Măng tươi khi mà mình xào lên á ăn cho nó một cái độ nhẫn nhẹ nhẹ xíu, nó thơm thơm và cái hậu nó thì ngọt rất là lạ miệng.",
+      "start": 513.52,
+      "end": 521.52,
+      "n_words": 31,
+      "start_frame": 12838,
+      "end_frame": 13038,
+      "keyframes": [
+        "012859.webp",
+        "012860.webp",
+        "012935.webp",
+        "013010.webp",
+        "013011.webp",
+        "013038.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Qua món măng chua này nè, có một cái vị chua, cái vị chua vị thanh nó tạo cho mình một cái độ bắt vị ăn hoài không ngán luôn.",
+      "start": 521.52,
+      "end": 528.16,
+      "n_words": 30,
+      "start_frame": 13038,
+      "end_frame": 13204,
+      "keyframes": [
+        "013038.webp",
+        "013066.webp",
+        "013067.webp",
+        "013100.webp",
+        "013134.webp",
+        "013135.webp",
+        "013165.webp",
+        "013196.webp",
+        "013197.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Quá trời cảm ơn chị rất là nhiều, cảm ơn chị Mai, cảm ơn các anh chị ở đây đã cho Trường cái trải nghiệm rất là thú vị hôm nay.",
+      "start": 528.16,
+      "end": 534.64,
+      "n_words": 31,
+      "start_frame": 13204,
+      "end_frame": 13366,
+      "keyframes": [
+        "013247.webp",
+        "013298.webp",
+        "013299.webp",
+        "013366.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Chúng ta đã có một ngày trải nghiệm rất là thú vị với lại một sản vật đặc trưng của vùng Bảy Núi An Giang, nên là Trường hy vọng là các bạn một ngày nào đó gần đây thôi hãy đi thử, đi trải nghiệm đi, bảo đảm các bạn sẽ ghiền mà thôi.",
+      "start": 534.64,
+      "end": 546.72,
+      "n_words": 55,
+      "start_frame": 13366,
+      "end_frame": 13668,
+      "keyframes": [
+        "013366.webp",
+        "013433.webp",
+        "013434.webp",
+        "013472.webp",
+        "013511.webp",
+        "013512.webp",
+        "013542.webp",
+        "013573.webp",
+        "013574.webp",
+        "013596.webp",
+        "013619.webp",
+        "013620.webp",
+        "013646.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Và đừng quên nha, khung giờ phát sóng của chương trình là vào 11:50 sáng thứ sáu hàng tuần ở kênh HTV7.",
+      "start": 546.72,
+      "end": 553.44,
+      "n_words": 22,
+      "start_frame": 13668,
+      "end_frame": 13836,
+      "keyframes": [
+        "013673.webp",
+        "013674.webp",
+        "013676.webp",
+        "013678.webp",
+        "013679.webp",
+        "013711.webp",
+        "013743.webp",
+        "013744.webp",
+        "013771.webp",
+        "013798.webp",
+        "013799.webp",
+        "013836.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Còn nếu như mà mình muốn xem lại những số phát sóng đã qua thì đừng quên hãy vào trang YouTube của HTV Giải trí và kênh YouTube của \"Việt Nam đi là ghiền\" để có thể theo dõi thiệt là nhiều luôn. Còn bây giờ Nhật Trường sẽ phải di chuyển để khám phá những hành trình tiếp theo.",
+      "start": 553.76,
+      "end": 568.88,
+      "n_words": 60,
+      "start_frame": 13844,
+      "end_frame": 14222,
+      "keyframes": [
+        "013873.webp",
+        "013874.webp",
+        "013957.webp",
+        "014057.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Cảm ơn các bạn!",
+      "start": 568.88,
+      "end": 570.48,
+      "n_words": 4,
+      "start_frame": 14222,
+      "end_frame": 14262,
+      "keyframes": [
+        "014240.webp",
+        "014255.webp",
+        "014256.webp",
+        "014257.webp",
+        "014258.webp"
+      ],
+      "keyframe_count": 5
+    }
+  ]
+}

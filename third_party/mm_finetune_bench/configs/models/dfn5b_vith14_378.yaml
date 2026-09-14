@@ -1,0 +1,59 @@
+# ViT-H-14-378-quickgelu, Apple DFN-5B pretraining (open_clip tag 'dfn5b').
+# Plain CLIP-style dual encoder -> reuses the shared OpenCLIPDualEncoderWrapper.
+# Verified against open_clip 3.3.0 list_pretrained():
+#   ('ViT-H-14-378-quickgelu', 'dfn5b')
+# QuickGELU matters here: DFN5B was trained with QuickGELU activations, and
+# instantiating the non-quickgelu 'ViT-H-14-378' arch with these weights
+# silently degrades quality rather than failing.
+
+name: dfn5b_vith14_378
+wrapper: open_clip
+backend: open_clip
+open_clip:
+  model_name: "ViT-H-14-378-quickgelu"
+  pretrained: "dfn5b"
+
+embed_dim: 1024
+image_size: 378
+context_length: 77
+
+adaptation: lora
+quantization: null
+
+lora:
+  enabled: true
+  r: 16
+  alpha: 32
+  dropout: 0.05
+  bias: none
+  # `attn` is the nn.MultiheadAttention module itself, NOT `attn.out_proj`:
+  # MHA's forward reads out_proj.weight directly via
+  # F.multi_head_attention_forward and never calls out_proj.forward(), so a
+  # LoRA wrapped around out_proj would be silently bypassed. peft (>=0.14)
+  # adapts nn.MultiheadAttention natively (in_proj + out_proj).
+  target_modules:
+    - "attn"
+    - "mlp.c_fc"
+    - "mlp.c_proj"
+  target_module_depth_fraction: 0.5
+  modules_to_save:
+    - "visual.proj"
+    - "text_projection"
+
+partial_unfreeze:
+  unfreeze_last_n_vision_blocks: 4
+  unfreeze_last_n_text_blocks: 2
+  always_unfreeze:
+    - "visual.proj"
+    - "text_projection"
+    - "logit_scale"
+
+loss:
+  type: infonce
+  learnable_logit_scale: true
+
+differential_lr_groups:
+  vision_encoder: "visual.*"
+  text_encoder: "^(?!visual).*transformer.*"
+  projection: ".*(proj|projection)$"
+  logit_scale: "logit_scale"

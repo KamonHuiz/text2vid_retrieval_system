@@ -1,0 +1,823 @@
+{
+  "video_id": "L26_V489",
+  "fps": 25.0,
+  "n_sentences": 41,
+  "total_words": 933,
+  "sentences": [
+    {
+      "text": "Bữa món ngon mỗi ngày toang rồi ông bếp ơi, ông bếp ơi toang thật rồi.",
+      "start": 0.04,
+      "end": 16.28,
+      "n_words": 16,
+      "start_frame": 1,
+      "end_frame": 407,
+      "keyframes": [
+        "000010.webp",
+        "000020.webp",
+        "000021.webp",
+        "000025.webp",
+        "000030.webp",
+        "000035.webp",
+        "000036.webp",
+        "000037.webp",
+        "000066.webp",
+        "000071.webp",
+        "000077.webp",
+        "000078.webp",
+        "000080.webp",
+        "000082.webp",
+        "000083.webp",
+        "000084.webp",
+        "000086.webp",
+        "000108.webp",
+        "000118.webp",
+        "000129.webp",
+        "000130.webp",
+        "000147.webp",
+        "000165.webp",
+        "000166.webp",
+        "000173.webp",
+        "000181.webp",
+        "000182.webp",
+        "000240.webp",
+        "000299.webp",
+        "000300.webp",
+        "000331.webp",
+        "000362.webp",
+        "000363.webp"
+      ],
+      "keyframe_count": 33
+    },
+    {
+      "text": "Hôm nay có tên mới nữa ông bếp sao vụ gì người ta?",
+      "start": 16.28,
+      "end": 19.6,
+      "n_words": 13,
+      "start_frame": 407,
+      "end_frame": 490,
+      "keyframes": [
+        "000416.webp",
+        "000470.webp",
+        "000471.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Ông giáo thì anh là ông bếp đúng không?",
+      "start": 19.6,
+      "end": 21.4,
+      "n_words": 9,
+      "start_frame": 490,
+      "end_frame": 535,
+      "keyframes": [
+        "000498.webp",
+        "000526.webp",
+        "000527.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Em nắm bắt kịp thời đại ghê nha.",
+      "start": 21.4,
+      "end": 23.12,
+      "n_words": 8,
+      "start_frame": 535,
+      "end_frame": 578,
+      "keyframes": [
+        "000550.webp",
+        "000573.webp",
+        "000574.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Bây giờ một nhóm bạn, đứa thì đòi ăn món chơi, đứa thì món gì phải bánh mì anh coi có toang không?",
+      "start": 23.12,
+      "end": 30.04,
+      "n_words": 23,
+      "start_frame": 578,
+      "end_frame": 751,
+      "keyframes": [
+        "000595.webp",
+        "000617.webp",
+        "000618.webp",
+        "000645.webp",
+        "000672.webp",
+        "000673.webp",
+        "000696.webp",
+        "000719.webp",
+        "000720.webp",
+        "000733.webp",
+        "000747.webp",
+        "000748.webp"
+      ],
+      "keyframe_count": 12
+    },
+    {
+      "text": "Rồi hôm nay sẽ giới thiệu cho em một món 2 trong 1 luôn, món này là vừa ăn cơm được nha và vừa ăn chơi được luôn.",
+      "start": 30.04,
+      "end": 36.08,
+      "n_words": 28,
+      "start_frame": 751,
+      "end_frame": 902,
+      "keyframes": [
+        "000809.webp",
+        "000871.webp",
+        "000872.webp",
+        "000885.webp",
+        "000898.webp",
+        "000899.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Thần kỳ dữ vậy hả?",
+      "start": 36.08,
+      "end": 37.32,
+      "n_words": 5,
+      "start_frame": 902,
+      "end_frame": 933,
+      "keyframes": [
+        "000917.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Anh bắp bò sốt pa tê, muối tắc, ăn mê say chẳng muốn về.",
+      "start": 37.32,
+      "end": 60.52,
+      "n_words": 14,
+      "start_frame": 933,
+      "end_frame": 1513,
+      "keyframes": [
+        "000935.webp",
+        "000936.webp",
+        "000960.webp",
+        "000985.webp",
+        "000986.webp",
+        "001048.webp",
+        "001110.webp",
+        "001111.webp",
+        "001150.webp",
+        "001189.webp",
+        "001205.webp",
+        "001242.webp",
+        "001280.webp",
+        "001281.webp",
+        "001395.webp",
+        "001509.webp",
+        "001510.webp"
+      ],
+      "keyframe_count": 17
+    },
+    {
+      "text": "Chào các bạn khán giả của chương trình Món ngon mỗi ngày được tài trợ bởi công ty Azino Việt Nam.",
+      "start": 60.52,
+      "end": 66.76,
+      "n_words": 21,
+      "start_frame": 1513,
+      "end_frame": 1669,
+      "keyframes": [
+        "001589.webp",
+        "001669.webp"
+      ],
+      "keyframe_count": 2
+    },
+    {
+      "text": "Rồi chúng ta sẽ đặt thêm một cái nồi áp suất cho đây, 1 lít nước, các bạn cho bắp bò vào đây luộc.",
+      "start": 66.76,
+      "end": 71.96,
+      "n_words": 24,
+      "start_frame": 1669,
+      "end_frame": 1799,
+      "keyframes": [
+        "001669.webp",
+        "001670.webp",
+        "001693.webp",
+        "001717.webp",
+        "001718.webp",
+        "001737.webp",
+        "001756.webp",
+        "001757.webp",
+        "001775.webp",
+        "001794.webp",
+        "001795.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Hai lát gừng, chúng ta đập dập hành tím, chúng ta đập dập tí xíu hai củ thôi cho vào, cho một muỗng canh bột canh.",
+      "start": 71.96,
+      "end": 79.12,
+      "n_words": 26,
+      "start_frame": 1799,
+      "end_frame": 1978,
+      "keyframes": [
+        "001811.webp",
+        "001827.webp",
+        "001828.webp",
+        "001850.webp",
+        "001872.webp",
+        "001873.webp",
+        "001902.webp",
+        "001931.webp",
+        "001932.webp",
+        "001955.webp",
+        "001978.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Thời gian mình sẽ luộc cái bắp bò này trong bao lâu hả anh Vũ? 15 phút em.",
+      "start": 79.12,
+      "end": 82.84,
+      "n_words": 18,
+      "start_frame": 1978,
+      "end_frame": 2071,
+      "keyframes": [
+        "001978.webp",
+        "001979.webp",
+        "002012.webp",
+        "002045.webp",
+        "002046.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Sau đó chúng ta tắt lửa để tiếp 15 phút nữa, sau đó chúng ta sẽ lấy ra.",
+      "start": 82.84,
+      "end": 86.56,
+      "n_words": 18,
+      "start_frame": 2071,
+      "end_frame": 2164,
+      "keyframes": [
+        "002087.webp",
+        "002129.webp",
+        "002130.webp",
+        "002158.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Thưa các bạn, chúng ta luộc bắp bò cùng với lại một muỗng canh bột canh để cho bắp bò thấm gia vị và đặc biệt nước luộc là vừa ăn, không cần phải nêm nếm gia vị khác nữa.",
+      "start": 86.56,
+      "end": 95.84,
+      "n_words": 40,
+      "start_frame": 2164,
+      "end_frame": 2396,
+      "keyframes": [
+        "002186.webp",
+        "002187.webp",
+        "002291.webp",
+        "002396.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Rồi tiếp tục chúng ta sẽ sơ chế phần nguyên liệu còn lại.",
+      "start": 95.84,
+      "end": 98.68,
+      "n_words": 13,
+      "start_frame": 2396,
+      "end_frame": 2467,
+      "keyframes": [
+        "002396.webp",
+        "002397.webp",
+        "002432.webp",
+        "002467.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Hành tím chúng ta sẽ băm nhuyễn, cải xanh chúng ta lấy ha, cắt nhỏ cải xanh ra, cho phần thân chúng ta cắt nhỏ luôn cho vào đây, hành ngò phần lá chúng ta cắt để chúng ta nêm vào trong canh nha.",
+      "start": 98.68,
+      "end": 114.72,
+      "n_words": 44,
+      "start_frame": 2467,
+      "end_frame": 2868,
+      "keyframes": [
+        "002467.webp",
+        "002468.webp",
+        "002486.webp",
+        "002504.webp",
+        "002505.webp",
+        "002525.webp",
+        "002546.webp",
+        "002547.webp",
+        "002563.webp",
+        "002580.webp",
+        "002581.webp",
+        "002598.webp",
+        "002616.webp",
+        "002617.webp",
+        "002631.webp",
+        "002645.webp",
+        "002646.webp",
+        "002660.webp",
+        "002675.webp",
+        "002676.webp",
+        "002680.webp",
+        "002685.webp",
+        "002705.webp",
+        "002707.webp",
+        "002709.webp",
+        "002710.webp",
+        "002727.webp",
+        "002745.webp",
+        "002746.webp",
+        "002753.webp",
+        "002760.webp",
+        "002761.webp",
+        "002766.webp",
+        "002772.webp",
+        "002773.webp",
+        "002849.webp"
+      ],
+      "keyframe_count": 36
+    },
+    {
+      "text": "Cái phần đầu trắng nè để lại lát chúng ta bỏ vào, lát chúng ta bỏ vô trong bắp bò, cắt nhuyễn ra luôn lát mình nêm vô canh cho đậm đà.",
+      "start": 114.96,
+      "end": 122.64,
+      "n_words": 32,
+      "start_frame": 2874,
+      "end_frame": 3066,
+      "keyframes": [
+        "002925.webp",
+        "002926.webp",
+        "002946.webp",
+        "002966.webp",
+        "002967.webp",
+        "003001.webp",
+        "003035.webp",
+        "003036.webp",
+        "003054.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Rồi bây giờ thịt bò tắt lửa thôi các bạn.",
+      "start": 122.64,
+      "end": 125.12,
+      "n_words": 10,
+      "start_frame": 3066,
+      "end_frame": 3128,
+      "keyframes": [
+        "003072.webp",
+        "003073.webp",
+        "003098.webp",
+        "003123.webp",
+        "003124.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Và để anh coi coi, thấy một cái thân bắp bò nó dài nhưng mà luộc thì nó thu ngắn lại hình tròn đúng không?",
+      "start": 125.12,
+      "end": 132.6,
+      "n_words": 25,
+      "start_frame": 3128,
+      "end_frame": 3315,
+      "keyframes": [
+        "003140.webp",
+        "003156.webp",
+        "003157.webp",
+        "003181.webp",
+        "003206.webp",
+        "003207.webp",
+        "003260.webp",
+        "003314.webp",
+        "003315.webp"
+      ],
+      "keyframe_count": 9
+    },
+    {
+      "text": "Thưa các bạn, chúng ta luôn giữ bắp bò trong nước luộc để sau khi cắt thì bắp bò sẽ không bị khô nha các bạn.",
+      "start": 132.6,
+      "end": 138.16,
+      "n_words": 26,
+      "start_frame": 3315,
+      "end_frame": 3454,
+      "keyframes": [
+        "003315.webp",
+        "003341.webp",
+        "003367.webp",
+        "003368.webp",
+        "003408.webp",
+        "003448.webp",
+        "003449.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Rồi chúng ta bật đây một cái chảo sâu lòng, chúng ta sẽ làm sốt pate ăn cùng với lại bắp bò.",
+      "start": 138.16,
+      "end": 143.92,
+      "n_words": 22,
+      "start_frame": 3454,
+      "end_frame": 3598,
+      "keyframes": [
+        "003467.webp",
+        "003485.webp",
+        "003486.webp",
+        "003521.webp",
+        "003556.webp",
+        "003557.webp",
+        "003588.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Ít dầu vô, cho phần hành tím băm vào, rồi chúng ta sẽ cho vào đây khoảng chừng nửa chén nước luộc bò các bạn, nửa chén thôi, nửa chén rồi sẽ cho pate vào nhẹ như vậy thôi các bạn tán nhẹ.",
+      "start": 143.92,
+      "end": 158.28,
+      "n_words": 43,
+      "start_frame": 3598,
+      "end_frame": 3957,
+      "keyframes": [
+        "003619.webp",
+        "003620.webp",
+        "003642.webp",
+        "003665.webp",
+        "003666.webp",
+        "003690.webp",
+        "003715.webp",
+        "003716.webp",
+        "003760.webp",
+        "003804.webp",
+        "003805.webp",
+        "003838.webp",
+        "003871.webp",
+        "003872.webp",
+        "003888.webp",
+        "003905.webp",
+        "003906.webp",
+        "003934.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Thôi nêm trong sốt pate nửa muỗng cà phê bột canh, khoảng một phần tư tiêu trắng xay, nửa muỗng cà phê đường và hai muỗng cà phê nước tương Phú Sĩ nha các bạn.",
+      "start": 158.28,
+      "end": 168.08,
+      "n_words": 35,
+      "start_frame": 3957,
+      "end_frame": 4202,
+      "keyframes": [
+        "003962.webp",
+        "003963.webp",
+        "003995.webp",
+        "004027.webp",
+        "004028.webp",
+        "004046.webp",
+        "004064.webp",
+        "004065.webp",
+        "004096.webp",
+        "004128.webp",
+        "004129.webp",
+        "004145.webp",
+        "004161.webp",
+        "004162.webp",
+        "004190.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Rồi sẽ nấu cho hành tím nó ra mùi thơm, tiếp chúng ta cũng đừng nấu lâu quá nó mất cái mùi của pate.",
+      "start": 168.08,
+      "end": 173.16,
+      "n_words": 24,
+      "start_frame": 4202,
+      "end_frame": 4329,
+      "keyframes": [
+        "004218.webp",
+        "004219.webp",
+        "004239.webp",
+        "004259.webp",
+        "004260.webp",
+        "004298.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Năng chúng ta hòa chung với nước vào, nước vào chúng ta làm sánh sệt sốt là được.",
+      "start": 173.8,
+      "end": 178.4,
+      "n_words": 18,
+      "start_frame": 4345,
+      "end_frame": 4460,
+      "keyframes": [
+        "004362.webp",
+        "004388.webp",
+        "004389.webp",
+        "004421.webp",
+        "004453.webp",
+        "004454.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Sốt pate chúng ta có độ sánh sệt như vậy là vừa, tắt lửa nha.",
+      "start": 178.4,
+      "end": 182.8,
+      "n_words": 15,
+      "start_frame": 4460,
+      "end_frame": 4570,
+      "keyframes": [
+        "004486.webp",
+        "004519.webp",
+        "004520.webp",
+        "004547.webp"
+      ],
+      "keyframe_count": 4
+    },
+    {
+      "text": "Bây giờ chúng ta sẽ tới phần nấu canh.",
+      "start": 182.8,
+      "end": 184.8,
+      "n_words": 9,
+      "start_frame": 4570,
+      "end_frame": 4620,
+      "keyframes": [
+        "004575.webp",
+        "004576.webp",
+        "004596.webp",
+        "004617.webp",
+        "004618.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Anh sẽ vớt cái bắp bò này ra, em sẽ mở lửa lên ha, lửa lên mình đun nóng lại cái nước nha, mình vớt bỏ cái phần hành và gừng ra luôn, cho phần đầu hành vào, đúng rồi mình đun xong rồi mình lấy ra cái phần đầu hành này ăn cũng rất là hấp dẫn đây.",
+      "start": 184.8,
+      "end": 197.64,
+      "n_words": 59,
+      "start_frame": 4620,
+      "end_frame": 4941,
+      "keyframes": [
+        "004661.webp",
+        "004705.webp",
+        "004706.webp",
+        "004725.webp",
+        "004745.webp",
+        "004746.webp",
+        "004772.webp",
+        "004799.webp",
+        "004800.webp",
+        "004837.webp",
+        "004875.webp",
+        "004876.webp",
+        "004907.webp",
+        "004938.webp",
+        "004939.webp"
+      ],
+      "keyframe_count": 15
+    },
+    {
+      "text": "Nước luộc bắp bò chúng ta sôi, chúng ta sẽ cho phần thân của cải xanh vào đó khoảng độ chừng 30 giây sau chúng ta sẽ cho nốt phần lá vào nha các bạn, rồi tắt lửa luôn, vừa cho vào là tắt lửa ngay.",
+      "start": 197.64,
+      "end": 212.28,
+      "n_words": 46,
+      "start_frame": 4941,
+      "end_frame": 5307,
+      "keyframes": [
+        "004977.webp",
+        "005015.webp",
+        "005016.webp",
+        "005059.webp",
+        "005102.webp",
+        "005103.webp",
+        "005127.webp",
+        "005151.webp",
+        "005152.webp",
+        "005185.webp",
+        "005219.webp",
+        "005220.webp",
+        "005244.webp",
+        "005268.webp",
+        "005269.webp",
+        "005284.webp",
+        "005299.webp",
+        "005300.webp"
+      ],
+      "keyframe_count": 18
+    },
+    {
+      "text": "Đúng rồi mình cắt nhỏ rồi rất là mau chín.",
+      "start": 212.28,
+      "end": 215.4,
+      "n_words": 10,
+      "start_frame": 5307,
+      "end_frame": 5385,
+      "keyframes": [
+        "005319.webp",
+        "005339.webp",
+        "005340.webp"
+      ],
+      "keyframe_count": 3
+    },
+    {
+      "text": "Rồi đây chúng ta có ngay một cái nồi canh nha, sẽ pha chế bột canh nè và chúng ta cho vào đây tí xíu bột ớt cho nó cái cay và chúng ta để một miếng tỏi cắt sẵn như vậy.",
+      "start": 215.4,
+      "end": 226.48,
+      "n_words": 42,
+      "start_frame": 5385,
+      "end_frame": 5662,
+      "keyframes": [
+        "005397.webp",
+        "005454.webp",
+        "005455.webp",
+        "005491.webp",
+        "005528.webp",
+        "005529.webp",
+        "005553.webp",
+        "005577.webp",
+        "005578.webp",
+        "005596.webp",
+        "005614.webp",
+        "005615.webp",
+        "005642.webp"
+      ],
+      "keyframe_count": 13
+    },
+    {
+      "text": "Xong bắp bò chúng ta luộc xong để còn ấm các bạn.",
+      "start": 226.48,
+      "end": 231.68,
+      "n_words": 12,
+      "start_frame": 5662,
+      "end_frame": 5792,
+      "keyframes": [
+        "005669.webp",
+        "005670.webp",
+        "005694.webp",
+        "005719.webp",
+        "005720.webp",
+        "005755.webp",
+        "005791.webp",
+        "005792.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Thưa các bạn, chúng ta chỉ cần cắt dày khoảng 5 ly, khoảng 5 ly thôi để khi chúng ta thưởng thức mới cảm nhận được độ mềm mại cũng như độ giòn sừn sực của miếng thịt nha các bạn.",
+      "start": 231.68,
+      "end": 239.16,
+      "n_words": 41,
+      "start_frame": 5792,
+      "end_frame": 5979,
+      "keyframes": [
+        "005792.webp",
+        "005829.webp",
+        "005866.webp",
+        "005867.webp",
+        "005902.webp",
+        "005937.webp",
+        "005938.webp",
+        "005957.webp",
+        "005976.webp",
+        "005977.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Rồi bây giờ xong anh sẽ xếp ở đây, hấp dẫn quá.",
+      "start": 239.16,
+      "end": 243.84,
+      "n_words": 12,
+      "start_frame": 5979,
+      "end_frame": 6096,
+      "keyframes": [
+        "006012.webp",
+        "006047.webp",
+        "006048.webp",
+        "006070.webp",
+        "006093.webp",
+        "006094.webp"
+      ],
+      "keyframe_count": 6
+    },
+    {
+      "text": "Chúng ta sẽ rưới lên oh cái phần sốt pate của chúng ta cái độ sánh nó vừa phải đúng không anh?",
+      "start": 243.84,
+      "end": 250.72,
+      "n_words": 22,
+      "start_frame": 6096,
+      "end_frame": 6268,
+      "keyframes": [
+        "006112.webp",
+        "006131.webp",
+        "006132.webp",
+        "006158.webp",
+        "006184.webp",
+        "006185.webp",
+        "006233.webp"
+      ],
+      "keyframe_count": 7
+    },
+    {
+      "text": "Đúng rồi, thả đầu hành lên thế là chúng ta xong một món nha.",
+      "start": 250.72,
+      "end": 255.68,
+      "n_words": 14,
+      "start_frame": 6268,
+      "end_frame": 6392,
+      "keyframes": [
+        "006282.webp",
+        "006283.webp",
+        "006321.webp",
+        "006360.webp",
+        "006361.webp",
+        "006375.webp",
+        "006389.webp",
+        "006390.webp"
+      ],
+      "keyframe_count": 8
+    },
+    {
+      "text": "Rồi chúng ta sẽ múc canh ra, thêm một xíu hành ngò, thả này xíu gừng.",
+      "start": 255.68,
+      "end": 260.8,
+      "n_words": 16,
+      "start_frame": 6392,
+      "end_frame": 6520,
+      "keyframes": [
+        "006411.webp",
+        "006432.webp",
+        "006433.webp",
+        "006450.webp",
+        "006468.webp",
+        "006469.webp",
+        "006480.webp",
+        "006492.webp",
+        "006493.webp",
+        "006509.webp"
+      ],
+      "keyframe_count": 10
+    },
+    {
+      "text": "Anh nghĩ rằng bây giờ em có thể chinh phục được nhóm bạn rất là nhiều yêu cầu của em rồi đó.",
+      "start": 260.8,
+      "end": 265.36,
+      "n_words": 22,
+      "start_frame": 6520,
+      "end_frame": 6634,
+      "keyframes": [
+        "006526.webp",
+        "006527.webp",
+        "006579.webp",
+        "006632.webp",
+        "006633.webp"
+      ],
+      "keyframe_count": 5
+    },
+    {
+      "text": "Quả là một món ăn đa năng cho những ngày bao nhiêu là việc.",
+      "start": 265.36,
+      "end": 268.44,
+      "n_words": 14,
+      "start_frame": 6634,
+      "end_frame": 6711,
+      "keyframes": [
+        "006680.webp"
+      ],
+      "keyframe_count": 1
+    },
+    {
+      "text": "Cảm ơn Vũ lát, bắp bò vừa mềm vừa giòn sừn sực, nước sốt pate sền sệt thơm lừng, thêm đủ vị chua mặn ngọt ngon tận cùng hương vị.",
+      "start": 268.44,
+      "end": 279.6,
+      "n_words": 30,
+      "start_frame": 6711,
+      "end_frame": 6990,
+      "keyframes": [
+        "006728.webp",
+        "006729.webp",
+        "006761.webp",
+        "006793.webp",
+        "006811.webp",
+        "006840.webp",
+        "006869.webp",
+        "006870.webp",
+        "006929.webp",
+        "006989.webp",
+        "006990.webp"
+      ],
+      "keyframe_count": 11
+    },
+    {
+      "text": "Món ngon tích hợp nhiều cách ăn mà lại thơm ngon đến như vậy.",
+      "start": 279.92,
+      "end": 284.48,
+      "n_words": 14,
+      "start_frame": 6998,
+      "end_frame": 7112,
+      "keyframes": [
+        "007039.webp",
+        "007089.webp",
+        "007090.webp"
+      ],
+      "keyframe_count": 3
+    }
+  ]
+}
