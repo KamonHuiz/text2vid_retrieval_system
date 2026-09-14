@@ -221,17 +221,17 @@
   .ft .grp select{padding:4px 6px;font-size:12px;border-radius:6px}
   #insp .bd{display:grid;grid-template-columns:1.15fr 1fr;gap:14px;align-items:start}
   #bigimg{width:100%;border-radius:8px;background:var(--panel2)}
-  #ytwrap{width:100%;aspect-ratio:16/9;border-radius:8px;overflow:hidden;background:#000}
-  #ytwrap iframe,#ytwrap>div{width:100%;height:100%;border:0;display:block}
+  #vidwrap{width:100%;aspect-ratio:16/9;border-radius:8px;overflow:hidden;background:#000}
+  #vidwrap video{width:100%;height:100%;display:block}
   .kv{font-size:12.5px;color:var(--muted);margin-top:8px}
   .kv b{color:var(--ink)}
-  /* Link YouTube kèm mốc giây. URL phải xuống dòng được: cột phải của popup hẹp, để
-     nowrap là nó đẩy ngang cả khung player. */
-  #iytlink{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-top:7px}
-  #iytlink a{color:var(--accent2);overflow-wrap:anywhere;text-decoration:none;
+  /* Link YouTube tham khảo (nếu video có trong youtube_map), kèm mốc giây. URL phải xuống
+     dòng được: cột phải của popup hẹp, để nowrap là nó đẩy ngang cả khung player. */
+  #ividlink{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-top:7px}
+  #ividlink a{color:var(--accent2);overflow-wrap:anywhere;text-decoration:none;
     border-bottom:1px dotted var(--accent2)}
-  #iytlink a:hover{color:var(--ink);border-bottom-color:var(--ink)}
-  #iytlink button{padding:1px 8px;font-size:11px}
+  #ividlink a:hover{color:var(--ink);border-bottom-color:var(--ink)}
+  #ividlink button{padding:1px 8px;font-size:11px}
   /* OCR and ASR side by side, spanning under both columns: they are the two text views of
      the same moment and get read together, so putting one under the image and the other
      elsewhere would mean looking in two places. */
@@ -271,7 +271,7 @@
     border:1px solid var(--line);background:var(--panel2);cursor:pointer;min-width:132px}
   .tslot:hover{border-color:var(--accent2)}
   .tslot.filled{border-color:var(--ok);background:color-mix(in srgb,var(--ok) 9%,var(--panel2))}
-  /* the cursor: the slot the next "Add frame từ YouTube" will write into. Declared after
+  /* the cursor: the slot the next "Add frame từ video" will write into. Declared after
      .filled so a filled slot under the cursor still reads as the cursor. */
   .tslot.active{border-color:var(--accent);box-shadow:0 0 0 2px var(--accent)}
   .tslot .n{font-weight:700;font-size:12.5px;min-width:12px}
@@ -440,7 +440,7 @@
       <b id="ititle" class="mono">—</b>
       <span class="pill" id="itime">—</span>
       <span class="spacer"></span>
-      <span class="hint"><kbd>a</kbd><kbd>d</kbd> ±1 keyframe · <kbd>G</kbd> add từ YouTube ·
+      <span class="hint"><kbd>a</kbd><kbd>d</kbd> ±1 keyframe · <kbd>G</kbd> add từ video ·
         <kbd>1</kbd>–<kbd>4</kbd> đổi ô TRAKE · <kbd>P</kbd> pick · click ra ngoài để đóng</span>
       <button id="iclose">Đóng</button>
     </div>
@@ -450,9 +450,9 @@
         <div class="kv" id="ikv"></div>
       </div>
       <div>
-        <div id="ytwrap"><div id="ytmount"></div></div>
-        <div class="kv" id="iytlink"></div>
-        <div class="kv" id="iyt"></div>
+        <div id="vidwrap"><video id="vidplayer" controls preload="metadata" playsinline></video></div>
+        <div class="kv" id="ividlink"></div>
+        <div class="kv" id="ividstatus"></div>
       </div>
       <div id="itexts">
         <div class="ocrbox" id="icap"></div>
@@ -476,8 +476,8 @@
       <button id="isim" title="tìm các frame giống ảnh này">Ảnh tương tự</button>
       <span class="spacer"></span>
       <button id="iadd">Add keyframe</button>
-      <button class="primary" id="iytadd" title="lấy giây hiện tại của player YouTube → frame (G)">
-        Add frame từ YouTube</button>
+      <button class="primary" id="ividadd" title="lấy giây hiện tại của video → frame (G)">
+        Add frame từ video</button>
     </div>
   </div>
 </div>
@@ -1899,177 +1899,55 @@ async function showFrame(f, exact = null) {
   renderAsr(meta, n);
   renderStrip(meta, n);
 
-  if (meta?.youtube_id) {
-    ytShow(meta.youtube_id, meta.fps ? n / meta.fps : 0);
-  } else {
-    // Wiping the wrapper orphans any player bound to it; ytAlive() will notice and the
-    // next video with a YouTube link rebuilds from scratch.
-    clearTimeout(ytRetryTimer); ytRetryTimer = null;
-    $("#ytwrap").innerHTML = ""; ytVideoId = null; ytWant = null; ytAttempt = 0;
-    $("#iytlink").innerHTML = "";
-    $("#iyt").textContent = "Video này không có link YouTube trong metadata";
-  }
+  vidShow(f.video_id, meta?.local_video_url ?? null, meta?.fps ? n / meta.fps : 0);
   setExact(exact ?? n);   // player follows the still image
 }
 
-// ---------------------------------------------------------------- exact frame (YouTube)
+// ---------------------------------------------------------------- exact frame (video)
 // Two different units are in play and conflating them loses marks:
 //   keyframe  an image that exists on disk, ~1 per 36 frames   -> a / d
 //   frame     any frame number of the source video, no image   -> , / .
 // The submission file wants a frame NUMBER, so , / . can land on a number we cannot
-// render. The YouTube player renders it instead; the still stays on the nearest keyframe.
-// --- YouTube player -----------------------------------------------------------------
-// Chỉ có player dựng bằng IFrame API mới gọi được getCurrentTime(), tức là mới đổi được
-// "giây trên player" thành "số frame" -- đó là cách duy nhất lấy frame chính xác cho
-// những đoạn không có keyframe. Vì vậy player API KHÔNG BAO GIỜ bị bỏ cuộc: dựng hỏng
-// thì dựng lại, có giãn cách tăng dần, chừng nào popup còn mở thì còn thử. Bản trước
-// hỏng hai lần là tụt xuống embed thường và nằm luôn ở đó -- lúc ấy nút "Add frame từ
-// YouTube" âm thầm trả về bộ đếm frame thay vì giây thật.
-// Embed thường giờ chỉ là ảnh chữa cháy khi chính script API không tải nổi (mạng chặn),
-// và ngay cả khi đó vẫn có hẹn giờ dựng lại.
-let ytPlayer = null, ytReady = false, ytBuilding = false, ytVideoId = null,
-    ytScript = false, ytWant = null, ytSeq = 0, ytAttempt = 0,
-    ytRetryTimer = null, ytWatch = null;
+// render. The <video> element renders it instead; the still stays on the nearest keyframe.
+// --- local <video> player ------------------------------------------------------------
+// Trước đây dùng YouTube IFrame API để đọc "giây thật" (getCurrentTime()) cho những đoạn
+// không có keyframe -- và vì API đó hay chết (mạng, quota, iframe bị thay) nên cần cả một
+// bộ dựng-lại/canh-chừng. Giờ phát thẳng file .mp4 cục bộ qua thẻ <video>: currentTime đọc
+// được ngay lập tức, đồng bộ, không qua postMessage, nên không còn kiểu hỏng đó nữa -- bỏ
+// hẳn máy trạng thái retry/watchdog.
+let vidCurId = null;
 
-// Chữa cháy: vẫn xem được hình trong lúc chờ dựng lại player đọc được giây.
-function ytPlain(videoId, t) {
-  $("#ytwrap").innerHTML = `<iframe allow="accelerometer;autoplay;encrypted-media;picture-in-picture"
-    allowfullscreen referrerpolicy="strict-origin-when-cross-origin"
-    src="https://www.youtube.com/embed/${encodeURIComponent(videoId)}?start=${Math.max(0, Math.floor(t))}&rel=0"></iframe>`;
-}
-
-// The player object can outlive its DOM node (closing the inspector in plain mode wipes
-// the wrapper), and calling into a player whose iframe is gone fails silently -- which is
-// exactly how opening a second frame ended up with a dead box. Check both.
-function ytAlive() {
-  try {
-    return !!(ytPlayer && ytReady && ytPlayer.getIframe && document.contains(ytPlayer.getIframe()));
-  } catch (e) { return false; }
-}
-// "Sống" chưa đủ: điều kiện thật sự là ĐỌC ĐƯỢC GIÂY. Một player còn iframe nhưng
-// getCurrentTime() ném lỗi thì với việc này cũng như đã chết.
-function ytUsable() {
-  if (!ytAlive()) return false;
-  try { return typeof ytPlayer.getCurrentTime() === "number"; } catch (e) { return false; }
-}
-
-// Hẹn dựng lại. slow dành cho trường hợp chính script API không về (bị chặn / mất mạng):
-// thử dày ở đó chỉ tổ nạp lại iframe liên tục làm video nhảy về đầu.
-function ytRetry(why, slow) {
-  clearTimeout(ytRetryTimer); ytRetryTimer = null;
-  try { if (ytPlayer?.destroy) ytPlayer.destroy(); } catch (e) {}
-  ytPlayer = null; ytReady = false; ytBuilding = false; ytVideoId = null;
-  if (!ytWant) return;
-  ytAttempt += 1;
-  const wait = slow ? 30000 : Math.min(1200 * ytAttempt, 6000);
-  ytStatus(`${why} — đang dựng lại player (lần ${ytAttempt})`);
-  ytRetryTimer = setTimeout(() => {
-    ytRetryTimer = null;
-    if (ytWant) ytBuild(0);
-  }, wait);
-}
-
-// Every request records WHAT should be on screen; the code then makes reality match. The
-// previous version acted on the request directly and bailed out when the player happened
-// to be mid-construction, losing the request entirely.
-function ytShow(videoId, t) {
-  ytWant = { videoId, t: Math.max(0, t) };
-  ytGuard();                           // đồng hồ canh chừng chạy cả khi không phải dựng lại
-  if (ytVideoId === videoId && (ytUsable() || ytBuilding)) return;
-  // Video mới là một khởi đầu sạch: bộ đếm hỏng đặt lại, không để lần trước làm chậm.
-  if (ytVideoId !== videoId) { ytAttempt = 0; clearTimeout(ytRetryTimer); ytRetryTimer = null; }
-  if (ytRetryTimer) return;            // đã có hẹn dựng lại, đừng chồng thêm
-  ytBuild(0);
-}
-
-// Lưới an toàn cho những kiểu hỏng KHÔNG có sự kiện nào báo: tab ngủ dậy, iframe bị thay,
-// mạng rớt giữa chừng. Popup còn mở mà không đọc được giây thì tự dựng lại.
-function ytGuard() {
-  clearInterval(ytWatch);
-  ytWatch = setInterval(() => {
-    if (!ytWant || !$("#insp").classList.contains("on")) return;
-    if (ytUsable() || ytBuilding || ytRetryTimer) return;
-    ytRetry("player mất tín hiệu");
-  }, 3000);
-}
-
-function ytBuild(tries) {
-  const want = ytWant;
-  if (!want) return;
-  if (!window.YT?.Player) {
-    if (!ytScript) {
-      ytScript = true;
-      const s = document.createElement("script");
-      s.src = "https://www.youtube.com/iframe_api";
-      s.onerror = () => { ytScript = false; };   // cho phép nạp lại ở lần thử sau
-      document.head.appendChild(s);
-    }
-    if (tries < 25) return setTimeout(() => ytBuild(tries + 1), 400);
-    ytScript = false;
-    ytPlain(want.videoId, want.t);               // ít nhất vẫn xem được video
-    return ytRetry("không tải được API YouTube", true);
+// videoId=null hoặc localUrl=null nghĩa là máy này chưa có file .mp4 gốc cho video đó
+// (UTOTS_VIDEO_ROOT chưa trỏ đúng chỗ, hoặc thiếu đúng video này) -- rơi về thông báo,
+// link YouTube (nếu metadata có) vẫn hiện riêng qua renderVidLink.
+function vidShow(videoId, localUrl, t) {
+  const v = $("#vidplayer");
+  if (!localUrl) {
+    if (v.hasAttribute("src")) { v.removeAttribute("src"); v.load(); }
+    vidCurId = null;
+    $("#ividstatus").textContent = "Video gốc chưa có trên máy này (thiếu UTOTS_VIDEO_ROOT hoặc file)";
+    return;
   }
-  // destroy() before rebuilding, and a FRESH element id every time. The IFrame API keeps
-  // an internal registry keyed by element id; dropping the old node with innerHTML while
-  // leaving the registration behind is what left the second video with a dead player.
-  try { if (ytPlayer?.destroy) ytPlayer.destroy(); } catch (e) {}
-  ytBuilding = true; ytReady = false; ytPlayer = null;
-  ytVideoId = want.videoId;
-  const mySeq = ++ytSeq;
-  const mount = `ytmount${mySeq}`;
-  $("#ytwrap").innerHTML = `<div id="${mount}"></div>`;
-  ytStatus(ytAttempt ? `đang dựng lại player (lần ${ytAttempt})…` : "đang dựng player…");
-  try {
-    ytPlayer = new YT.Player(mount, {
-      videoId: want.videoId,
-      playerVars: { start: Math.floor(want.t), rel: 0 },
-      events: {
-        onReady: () => {
-          if (ytSeq !== mySeq) return;              // a newer build has taken over
-          ytBuilding = false; ytReady = true;
-          // Ready mới chỉ là lời hứa; chỉ tin khi đọc được giây thật.
-          if (!ytUsable()) return ytRetry("player không đọc được giây");
-          ytAttempt = 0;
-          clearTimeout(ytRetryTimer); ytRetryTimer = null;
-          ytStatus();
-          // The user may have moved to another video while this one was building.
-          if (ytWant && ytWant.videoId !== ytVideoId) ytBuild(0);
-          else if (ytWant) { try { ytPlayer.seekTo(ytWant.t, true); } catch (e) {} }
-        },
-        onError: () => { if (ytSeq === mySeq) ytRetry("player báo lỗi"); },
-      },
-    });
-    // The handshake can simply never complete. Rather than leave a black box, rebuild --
-    // but only if THIS build is still the current one, or opening two videos quickly
-    // would restart a player that was never given a chance.
-    setTimeout(() => {
-      if (!ytReady && ytSeq === mySeq) ytRetry("player không phản hồi");
-    }, 8000);
-  } catch (e) { ytRetry("lỗi khởi tạo player"); }
+  $("#ividstatus").textContent = "";
+  if (vidCurId === videoId) { v.currentTime = Math.max(0, t); return; }
+  // Video mới: đổi src mới cần load lại, video cùng id chỉ cần đổi currentTime (mượt, không
+  // giật hình) -- đúng tinh thần bản YouTube cũ tránh nạp lại iframe mỗi lần đổi frame.
+  vidCurId = videoId;
+  v.src = localUrl;
+  const onMeta = () => { v.currentTime = Math.max(0, t); v.removeEventListener("loadedmetadata", onMeta); };
+  v.addEventListener("loadedmetadata", onMeta);
+  v.load();
 }
 
-function ytTime() {
-  try { return ytReady ? ytPlayer.getCurrentTime() : null; } catch (e) { return null; }
-}
-
-// Seconds are read to 2 decimals and the frame is computed from THAT value, so the number
-// on screen and the number that gets submitted can never disagree.
-function ytSeconds() {
-  const t = ytTime();
-  return t === null || !Number.isFinite(t) ? null : Math.round(t * 100) / 100;
+// Giây đọc tới 2 số lẻ rồi mới suy ra frame, để số hiện trên màn hình và số nộp không bao
+// giờ lệch nhau.
+function vidSeconds() {
+  const v = $("#vidplayer");
+  if (!v?.src || Number.isNaN(v.duration)) return null;
+  return Math.round(v.currentTime * 100) / 100;
 }
 function frameOfSeconds(sec, fps) { return Math.round(sec * fps); }
 
-
-// Im lặng khi mọi thứ chạy được -- dòng trạng thái chỉ nói khi đang hỏng, và luôn kèm
-// việc nó đang tự làm gì để sửa, để không ai phải ngồi đoán hay tự bấm nút.
-function ytStatus(msg) {
-  const box = $("#iyt");
-  if (!box) return;
-  box.innerHTML = ytUsable() ? ""
-    : `<span class="hint">${esc(msg || "đang dựng player…")} — chưa đọc được giây, nút
-       “Add frame từ YouTube” tạm lấy theo bộ đếm frame.</span>`;
-}
 
 function nearestKeyframe(meta, n) {
   if (!meta?.frames?.length) return null;
@@ -2081,19 +1959,19 @@ function nearestKeyframe(meta, n) {
   return best;
 }
 
-// Link YouTube kèm mốc giây, đặt ngay dưới khung player. Giây lấy từ BỘ ĐẾM FRAME --
-// đúng con số đang hiện ở tiêu đề popup và ở #itime -- nên link luôn khớp với thứ đang
-// xem, kể cả khi bấm , . để dời frame. Bấm "Add frame từ YouTube" cũng kéo bộ đếm về
-// đúng giây của player, nên link đi theo luôn.
+// Link YouTube THAM KHẢO (nguồn gốc video), đặt ngay dưới khung player local -- không còn
+// là player chính nên chỉ cần một link tĩnh, không cần đồng bộ hai chiều với nó nữa. Giây
+// lấy từ BỘ ĐẾM FRAME -- đúng con số đang hiện ở tiêu đề popup và ở #itime -- nên link luôn
+// khớp với thứ đang xem, kể cả khi bấm , . để dời frame.
 // YouTube chỉ nhận t nguyên giây, làm tròn xuống để không nhảy quá mốc cần xem.
-function renderYtLink(meta, t) {
-  const box = $("#iytlink");
+function renderVidLink(meta, t) {
+  const box = $("#ividlink");
   if (!box) return;
   if (!meta?.youtube_id) { box.innerHTML = ""; return; }
   const sec = Math.max(0, Math.floor(t));
   const url = `https://www.youtube.com/watch?v=${encodeURIComponent(meta.youtube_id)}&t=${sec}s`;
   box.innerHTML = `<a href="${esc(url)}" target="_blank" rel="noopener"
-       title="mở tab mới đúng tại ${sec}s">${esc(url)}</a>
+       title="mở tab mới đúng tại ${sec}s">Xem trên YouTube: ${esc(url)}</a>
      <button id="iytcopy" title="copy link">Copy</button>`;
   $("#iytcopy").onclick = () => navigator.clipboard.writeText(url).then(
     () => toast(`Đã copy link · ${sec}s`),
@@ -2113,20 +1991,19 @@ function setExact(n) {
     ? `ảnh đang hiển thị: keyframe <b>${pad6(kf)}</b>`
       + (e === kf ? " · <b>đúng frame đang chọn</b>"
                   : ` · frame đang chọn <b>${pad6(e)}</b> lệch <b>${e > kf ? "+" : ""}${e - kf}</b> frame`
-                    + ` — xem trên player YouTube`)
+                    + ` — xem trên video`)
       + ` · video có <b>${meta.total_frames}</b> keyframe (${meta.first_frame}–${meta.last_frame})`
     : "không lấy được metadata";
-  renderYtLink(meta, t);
+  renderVidLink(meta, t);
   $("#iadd").textContent = `Add keyframe ${pad6(kf)}`;
   // No number on the button: the blue slot already says where it lands.
-  $("#iytadd").textContent = curQ()?.type === "TRAKE" ? "Chọn event" : "Add frame từ YouTube";
+  $("#ividadd").textContent = curQ()?.type === "TRAKE" ? "Chọn event" : "Add frame từ video";
 
   // The player follows the frame counter automatically -- no button for it. Debounced so
-  // holding an arrow key does not fire a seek per keystroke. Only in API mode: seeking a
-  // plain embed means reloading the iframe, which would restart the video every step.
-  if (ytReady && meta?.youtube_id) {
+  // holding an arrow key does not fire a seek per keystroke.
+  if (meta?.local_video_url) {
     clearTimeout(seekTimer);
-    seekTimer = setTimeout(() => { try { ytPlayer.seekTo(t, true); } catch (err) {} }, 220);
+    seekTimer = setTimeout(() => { const v = $("#vidplayer"); if (v.src) v.currentTime = t; }, 220);
   }
 
   renderInspTrake();
@@ -2206,24 +2083,24 @@ async function step(delta) {
   }
 }
 // The player's own clock is the accurate source: park it on the moment, then read it.
-// Không đọc được giây thì vẫn trả về bộ đếm frame để nút không đứng im -- NHƯNG nói to
-// là số đó không phải giây thật và lập tức dựng lại player, để lần bấm sau đã có giây.
-function ytFrameNow() {
+// currentTime của <video> local đọc được ngay, đồng bộ -- không còn kiểu hỏng "chưa đọc
+// được giây" của YouTube nữa, nhưng vẫn giữ fallback về bộ đếm frame cho trường hợp máy
+// này thiếu file video gốc (UTOTS_VIDEO_ROOT).
+function vidFrameNow() {
   const fps = S.insp?.meta?.fps || 0;
-  const sec = ytSeconds();
+  const sec = vidSeconds();
   if (sec !== null && fps) return { n: frameOfSeconds(sec, fps), from: `${sec.toFixed(2)}s × ${fps}fps` };
-  if (!ytBuilding && !ytRetryTimer) ytRetry("chưa đọc được giây");
-  return { n: S.insp.exact ?? parseInt(S.insp.frame_id, 10), from: "bộ đếm frame — KHÔNG phải giây player" };
+  return { n: S.insp.exact ?? parseInt(S.insp.frame_id, 10), from: "bộ đếm frame — video chưa sẵn sàng" };
 }
 
 // One button, two meanings, because the answer shape differs by query type:
 //   TRAKE   -> writes into the slot under the blue cursor, cursor moves on
 //   KIS/QA  -> adds the frame straight into the submission list
-$("#iytadd").onclick = () => {
+$("#ividadd").onclick = () => {
   const q = curQ();
   if (!q) return toast("Chưa chọn query");
   if (!S.insp) return;
-  const { n, from } = ytFrameNow();
+  const { n, from } = vidFrameNow();
   gotoFrame(n);
   if (q.type === "TRAKE") {
     const slot = S.trake.slot;
@@ -2239,15 +2116,9 @@ $("#iytadd").onclick = () => {
 // focus here would silently kill , and . right after the user set the step size.
 function closeInsp() {
   $("#insp").classList.remove("on");
-  // Pausing keeps the API player alive for the next open; without the API the only way to
-  // stop the sound is to throw the iframe away -- and then ytVideoId must be cleared too,
-  // or the next open would think the right video is already on screen.
-  // Đóng popup thì tắt cả vòng thử lại lẫn đồng hồ canh chừng: dựng player cho một cửa
-  // sổ không còn ai nhìn chỉ tốn mạng, và lần mở sau sẽ tự thử lại từ đầu.
-  clearTimeout(ytRetryTimer); ytRetryTimer = null;
-  clearInterval(ytWatch); ytWatch = null;
-  if (ytAlive()) { try { ytPlayer.pauseVideo(); } catch (e) {} }
-  else { $("#ytwrap").innerHTML = ""; ytVideoId = null; ytWant = null; ytAttempt = 0; }
+  // Pausing giữ vị trí lại cho lần mở sau, khỏi phải tua lại -- <video> local không cần
+  // huỷ/dựng lại gì như player YouTube trước đây.
+  try { $("#vidplayer").pause(); } catch (e) {}
 }
 function closeFiv() { $("#fiv").classList.remove("on"); }
 // Click on the dark backdrop closes the dialog. Both mousedown AND click must land on the
@@ -2408,13 +2279,13 @@ document.addEventListener("keydown", e => {
   if (typing) return;
   if (!$("#insp").classList.contains("on")) return;
   // Frame-level stepping is gone from here on purpose: the frame-by-frame extension does
-  // it inside the player, and the exact number comes back through "Add frame từ YouTube".
+  // it inside the player, and the exact number comes back through "Add frame từ video".
   // a / d still move by one KEYFRAME, i.e. the next image that exists on disk.
   const k = e.key.toLowerCase();
   if (k === "a") { e.preventDefault(); step(-1); }
   if (k === "d") { e.preventDefault(); step(1); }
   if (k === "p") { e.preventDefault(); addPick(curInspFrame()); }
-  if (k === "g") { e.preventDefault(); $("#iytadd").click(); }
+  if (k === "g") { e.preventDefault(); $("#ividadd").click(); }
   // 1-4 move the cursor; writing is always the one button, so a mistyped digit
   // cannot overwrite an event.
   if (["1", "2", "3", "4"].includes(e.key) && curQ()?.type === "TRAKE") {

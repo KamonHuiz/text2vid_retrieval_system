@@ -224,6 +224,10 @@ app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], all
 
 if config.KEYFRAME_ROOT.is_dir():
     app.mount("/images", StaticFiles(directory=str(config.KEYFRAME_ROOT)), name="images")
+# StaticFiles (qua FileResponse của Starlette) tự trả lời HTTP Range -- trình duyệt tua
+# video sẽ chỉ tải đúng khúc byte cần chứ không tải nguyên file, dù file cả trăm MB/GB.
+if config.VIDEO_ROOT.is_dir():
+    app.mount("/videos", StaticFiles(directory=str(config.VIDEO_ROOT)), name="videos")
 
 
 class TranslateRequest(BaseModel):
@@ -341,6 +345,7 @@ def video_meta(video_id: str, center: Optional[int] = None, radius: int = 100,
         })
 
     return {"video_id": video_id, "fps": fps, "video_url": url, "youtube_id": youtube_id,
+            "local_video_url": corpus.video_url(video_id),
             "total_frames": len(frames), "first_frame": frames[0], "last_frame": frames[-1],
             "returned": len(rows), "frames": rows, "asr": info["asr"]}
 
@@ -349,7 +354,10 @@ def video_meta(video_id: str, center: Optional[int] = None, radius: int = 100,
 async def health():
     out = {"status": "ok", "keyframe_root": str(config.KEYFRAME_ROOT),
            "videos": len(corpus.STATE.get("frames", {})),
-           "captions": len(corpus.STATE.get("captions", {}))}
+           "captions": len(corpus.STATE.get("captions", {})),
+           "video_root": str(config.VIDEO_ROOT),
+           "local_videos": sum(1 for _ in config.VIDEO_ROOT.glob("*/*.mp4"))
+                           if config.VIDEO_ROOT.is_dir() else 0}
     out["models"] = {name: ("ready" if enc.ready else enc.error)
                      for name, enc in STATE.get("encoders", {}).items()}
     try:

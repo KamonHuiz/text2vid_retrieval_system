@@ -125,6 +125,18 @@ def to_url(path: str) -> str:
         return path
 
 
+def video_path(video_id: str) -> Path:
+    return config.VIDEO_ROOT / video_id.split("_")[0] / f"{video_id}.mp4"
+
+
+def video_url(video_id: str) -> Optional[str]:
+    """URL local (qua StaticFiles /videos) nếu video gốc có trên máy này, None nếu không --
+    UI rơi về link YouTube trong trường hợp đó."""
+    if not video_path(video_id).is_file():
+        return None
+    return f"/videos/{video_id.split('_')[0]}/{video_id}.mp4"
+
+
 # ---------------------------------------------------------------------------
 # OCR — data/ocr_output/<lot>/<video>.json = {frame_id: text} (Chandra OCR 2)
 # ---------------------------------------------------------------------------

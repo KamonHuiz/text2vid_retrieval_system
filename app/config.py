@@ -16,6 +16,11 @@ YOUTUBE_MAP_FILE = Path(os.environ.get("UTOTS_YOUTUBE_MAP", DATA_ROOT / "youtube
 # --- Dữ liệu NẶNG, KHÔNG đi kèm trong repo — mỗi máy tự trỏ tới chỗ mình để ---
 # Ảnh keyframe WebP gốc của corpus (317,961+ file, ~33GB). Xem SETUP.md §1.
 KEYFRAME_ROOT = Path(os.environ.get("UTOTS_KEYFRAME_ROOT", "/mnt/aic/data/keyframes"))
+# Video gốc .mp4, layout <LOT>/<VIDEO_ID>.mp4 (873 video, ~78GB) -- dùng để phát trực tiếp
+# trong popup thay vì nhúng YouTube (không phụ thuộc mạng ngoài/link YouTube còn sống hay
+# không, tua mượt hơn nhờ HTTP Range). Thiếu thư mục này API vẫn chạy, popup chỉ rơi về
+# link YouTube trong metadata (nếu có). Xem SETUP.md.
+VIDEO_ROOT = Path(os.environ.get("UTOTS_VIDEO_ROOT", "/mnt/aic/data/videos"))
 # Thư mục đã giải nén package_4models_export.zip — chứa weights/ và embeddings/.
 # Xem SETUP.md §2.
 MODEL_PACKAGE_ROOT = Path(os.environ.get(
