@@ -440,8 +440,9 @@
       <b id="ititle" class="mono">—</b>
       <span class="pill" id="itime">—</span>
       <span class="spacer"></span>
-      <span class="hint"><kbd>a</kbd><kbd>d</kbd> ±1 keyframe · <kbd>G</kbd> add từ video ·
-        <kbd>1</kbd>–<kbd>4</kbd> đổi ô TRAKE · <kbd>P</kbd> pick · click ra ngoài để đóng</span>
+      <span class="hint"><kbd>a</kbd><kbd>d</kbd> ±1 keyframe · <kbd>,</kbd><kbd>.</kbd> ±2 frame ·
+        <kbd>G</kbd> add từ video · <kbd>1</kbd>–<kbd>4</kbd> đổi ô TRAKE · <kbd>P</kbd> pick ·
+        click ra ngoài để đóng</span>
       <button id="iclose">Đóng</button>
     </div>
     <div class="bd">
@@ -2264,6 +2265,22 @@ $("#exportall").onclick = () => {
 };
 
 // ---------------------------------------------------------------- keyboard
+// Step by RAW FRAME NUMBER (not keyframe image) -- arithmetic on the frame counter, not on
+// the video's rendered picture, so the number that gets submitted is exact regardless of
+// whether the browser's seek lands bang on that frame visually. gotoFrame() already swaps
+// the still to a new keyframe image when the count drifts into a different keyframe's
+// territory, otherwise just updates the counter -- exactly what stepping needs.
+function stepFrames(delta) {
+  if (!S.insp) return;
+  const cur = S.insp.exact ?? parseInt(S.insp.frame_id, 10);
+  gotoFrame(Math.max(0, cur + delta));
+}
+
+// Capture phase, not bubble: khi <video controls> (hoặc control con bên trong nó) đang giữ
+// focus, một số trình duyệt tự xử lý/nuốt phím trước khi sự kiện kịp nổi lên tới document ở
+// pha bubble -- đó là lý do a/d từng phải click ra vào vài lần mới "nhận" phím lại. Bắt ở
+// pha capture (tham số thứ 3 = true) chạy trước cả video, nên luôn ăn phím bất kể đang focus
+// ở đâu trên trang (trừ khi đang gõ chữ, vẫn được typing-guard bên dưới bỏ qua như cũ).
 document.addEventListener("keydown", e => {
   const t = e.target.tagName;
   const typing = t === "INPUT" || t === "TEXTAREA" || t === "SELECT" || e.target.isContentEditable;
@@ -2278,12 +2295,15 @@ document.addEventListener("keydown", e => {
   // Never steal other keys from a text field -- QA answers contain commas and full stops.
   if (typing) return;
   if (!$("#insp").classList.contains("on")) return;
-  // Frame-level stepping is gone from here on purpose: the frame-by-frame extension does
-  // it inside the player, and the exact number comes back through "Add frame từ video".
-  // a / d still move by one KEYFRAME, i.e. the next image that exists on disk.
   const k = e.key.toLowerCase();
   if (k === "a") { e.preventDefault(); step(-1); }
   if (k === "d") { e.preventDefault(); step(1); }
+  // a / d nhảy theo KEYFRAME (ảnh có sẵn trên đĩa) -- , . nhảy theo FRAME THẬT, 2 frame một
+  // lần, để rà chính xác từng khoảnh khắc mà không cần đợi player ngoài nào cả (trước đây
+  // phải dựa vào phím tắt "tua từng frame" của chính trang YouTube khi nhúng iframe của nó;
+  // giờ phát video cục bộ nên tự tính được thẳng, không cần nhờ trình phát ngoài nữa).
+  if (e.key === ",") { e.preventDefault(); stepFrames(-2); }
+  if (e.key === ".") { e.preventDefault(); stepFrames(2); }
   if (k === "p") { e.preventDefault(); addPick(curInspFrame()); }
   if (k === "g") { e.preventDefault(); $("#ividadd").click(); }
   // 1-4 move the cursor; writing is always the one button, so a mistyped digit
@@ -2292,7 +2312,7 @@ document.addEventListener("keydown", e => {
     e.preventDefault();
     S.trake.slot = +e.key - 1; renderTrake(); renderInspTrake(); save();
   }
-});
+}, true);
 
 $("#theme").onclick = () => {
   document.documentElement.toggleAttribute("data-light");
